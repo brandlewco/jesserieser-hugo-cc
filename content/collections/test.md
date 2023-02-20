@@ -14,8 +14,8 @@ content_blocks:
       - image_path: /images/about/aboutfeature-four.jpg
         placer: back_top_left
     link:
-      text: "Try This Free"
-      url: "/sign-up"
+      text: Try This Free
+      url: /sign-up
   - _bookshop_name: global/counter
     title: Built for your
     title_suffix: Business
@@ -50,7 +50,7 @@ content_blocks:
     team_members:
       - name: Nikolas Mcconnell
         designation: Co-Founder & CEO
-        image_path: /images/team/1.jpg
+        image_path: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-14.jpg
       - name: Keiren Mcculloch
         designation: CMO
         image_path: /images/team/2.jpg
