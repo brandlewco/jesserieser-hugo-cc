@@ -27,7 +27,7 @@ _inputs:
   image_file:
     type: image
   width:
-    type: select
+    type: range
     options:
       values: _select_data.width
   align_y:
@@ -38,12 +38,14 @@ _inputs:
         - center
         - end
   margin_left:
-    type: select
+    type: range
     options:
       values: _select_data.margin_left
   margin_y:
-    type: select
+    type: range
     options:
       values: _select_data.margin_y
   caption:
     type: text
+  color: 
+    type: color
