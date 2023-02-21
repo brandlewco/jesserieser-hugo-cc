@@ -35,7 +35,25 @@ _inputs:
         - ph-twitter-logo
         - ph-github-logo
         - ph-youtube-logo
-
+_select_data:
+  width:
+    - 10
+    - 15
+    - 20
+    - 25
+    - 30
+    - 33
+    - 40
+    - 45
+    - 50
+    - 55
+    - 60
+    - 66
+    - 70
+    - 75
+    - 80
+    - 90
+    - 100
 
 _structures:
   features:

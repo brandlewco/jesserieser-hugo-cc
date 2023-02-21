@@ -10,6 +10,10 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   image_file: /images/hero/hero-image-2.png
+  caption: test caption
+  width: 50
+  align_y: center
+  margin_y: 0%
 
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -20,3 +24,40 @@ preview:
 _inputs:
   image_file:
     type: image
+  width:
+    type: multiselect
+    options:
+      values: _select_data.width
+  align_y:
+    type: multiselect
+    options:
+      values:
+        - start
+        - center
+        - end
+  margin_right:
+    type: multiselect
+    options:
+      values:
+          - 0%
+          - 5%
+          - 10%
+          - 15%
+          - 20%
+          - 25%
+          - 30%
+          - 35%
+          - 40%
+          - 45%
+          - 50%
+          - 55%
+          - 60%
+          - 65%
+          - 70%
+          - 75%
+          - 80%
+          - 85%
+          - 90%
+          - 95%
+          - 100%
+  
