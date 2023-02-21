@@ -11,10 +11,10 @@ spec:
 blueprint:
   image_file: /images/hero/hero-image-2.png
   caption: test caption
-  width: 50
+  width: 40
   align_y: center
-  margin_left: 50
-  margin_y: 50
+  margin_left: 0
+  margin_y: 0
   color: "#ff0000"
 
 
@@ -44,8 +44,9 @@ _inputs:
     options:
       step: 5
       max: 100
-      min: 100
+      min: 0
   margin_y:
+    label: Margin Top
     type: range
     options:
       step: 50
