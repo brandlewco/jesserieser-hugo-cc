@@ -13,7 +13,9 @@ blueprint:
   caption: test caption
   width: 50
   align_y: center
-  margin_y: 0%
+  margin_left: 50
+  margin_y: 50
+  color: "#ff0000"
 
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -25,39 +27,23 @@ _inputs:
   image_file:
     type: image
   width:
-    type: multiselect
+    type: select
     options:
       values: _select_data.width
   align_y:
-    type: multiselect
+    type: select
     options:
       values:
         - start
         - center
         - end
-  margin_right:
-    type: multiselect
+  margin_left:
+    type: select
     options:
-      values:
-          - 0%
-          - 5%
-          - 10%
-          - 15%
-          - 20%
-          - 25%
-          - 30%
-          - 35%
-          - 40%
-          - 45%
-          - 50%
-          - 55%
-          - 60%
-          - 65%
-          - 70%
-          - 75%
-          - 80%
-          - 85%
-          - 90%
-          - 95%
-          - 100%
-  
+      values: _select_data.margin_left
+  margin_y:
+    type: select
+    options:
+      values: _select_data.margin_y
+  caption:
+    type: text

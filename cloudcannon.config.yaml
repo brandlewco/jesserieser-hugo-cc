@@ -37,23 +37,25 @@ _inputs:
         - ph-youtube-logo
 _select_data:
   width:
-    - 10
-    - 15
-    - 20
-    - 25
-    - 30
-    - 33
-    - 40
-    - 45
-    - 50
-    - 55
-    - 60
-    - 66
-    - 70
-    - 75
-    - 80
-    - 90
-    - 100
+    type: range
+    options:
+      step: 10
+      max: 100
+      min: 0
+  margin_y:
+    type: range
+    options:
+      step: 50
+      max: 1000
+      min: -50
+  margin_left:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 100
+  color:
+    type: color
 
 _structures:
   features:
