@@ -1,7 +1,5 @@
 module.exports = {
-  prefix: "",
-  important: false,
-  separator: ":",
+  content: ['./layouts/**/*.html', './content/**/*.md'],
   theme: {
     screens: {
       sm: "768px",
@@ -394,20 +392,11 @@ module.exports = {
     width: ["responsive"],
     wordBreak: ["responsive"],
   },
-  corePlugins: {},
   plugins: [
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/forms"),
-    require("@tailwindcss/aspect-ratio"),
-    require("@tailwindcss/line-clamp"),
+    require('@tailwindcss/typography'),
   ],
-  purge: {
-    enabled: true,
-    content: ["./layouts/**/*.html"],
-    // These options are passed through directly to PurgeCSS
-    options: {
-      whitelist: [
-        "w-10/100",
+  safelist: [
+      "w-10/100",
         "w-15/100",
         "w-20/100",
         "w-25/100",
@@ -575,7 +564,5 @@ module.exports = {
         "sm:pr-6",
         "sm:pr-8",
         "gumroad-scroll-container",
-      ],
-    },
-  },
-};
+  ],
+}
