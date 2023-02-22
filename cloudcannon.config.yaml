@@ -3,6 +3,9 @@ collections_config:
     _enabled_editors:
       - visual
   collections:
+    description: description test
+    collection_meta: collection meta test
+    collection_description: collection description test
     _enabled_editors:
       - visual
   blog:
@@ -24,6 +27,10 @@ _inputs:
       italic: true
       link: true
       removeformat: true
+  collection_meta:
+    type: text
+  collection_description:
+    type: text
   isActive:
     type: switch
   social[*].icon:
