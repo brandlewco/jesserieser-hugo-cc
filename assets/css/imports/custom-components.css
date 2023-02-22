@@ -179,3 +179,7 @@ button.target-burger ul.buns li.bun:last-child {
   -webkit-transform: translateY(3.75px) translateZ(0);
   transform: translateY(3.75px) translateZ(0);
 }
+
+.cms-editor-active .block-hover img {
+  opacity: 1;
+}
