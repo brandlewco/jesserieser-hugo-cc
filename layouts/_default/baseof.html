@@ -24,6 +24,9 @@
   <body>
     {{ partial "navbar.html" . }} {{ block "main" . }} {{ end }} {{ partial
     "footer.html" . }}
-    <script src="/js/script.js"></script>
+    <!-- FOOTER SCRIPT -->
+    {{- $options := dict "targetPath" "js/bundle.js" -}}
+    {{- $jsBundle := resources.Get "js/index.js" | js.Build $options | resources.Minify | fingerprint -}}
+		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
   </body>
 </html>

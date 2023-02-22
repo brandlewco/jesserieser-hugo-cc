@@ -1,34 +1,73 @@
 {
-  "name": "sendit_hugo",
-  "version": "1.0.0",
-  "description": "Starter template for hugo and bookshop",
-  "main": "index.js",
-  "scripts": {
-    "start:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
-    "start:hugo": "hugo server",
-    "start": "run-p start:*",
-    "dev": "run-p hugo-server bookshop",
-    "init": "npx @bookshop/init@latest",
-    "hugo-server": "hugo server -D --watch",
-    "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -m",
-    "build:hugo": "hugo --source ./ --destination public --baseURL /",
-    "build": "run-s build:*",
-    "bookshop": "npx @bookshop/browser@latest",
-    "bookshop-update": "npx @bookshop/up@latest",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CloudCannon/sendit-hugo-template.git"
-  },
-  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "comments": {
+    "dependencies": {
+      "@bookshop/browser": "project",
+      "@bookshop/generate": "project",
+      "@bookshop/hugo-engine": "project",
+      "@swup/body-class-plugin": "project",
+      "@swup/fade-theme": "project",
+      "@swup/ga-plugin": "project",
+      "@swup/gtm-plugin": "project",
+      "@swup/preload-plugin": "project",
+      "@swup/scripts-plugin": "project",
+      "@swup/scroll-plugin": "project",
+      "browser-sync": "project",
+      "flickity": "project",
+      "imagesloaded": "project",
+      "isotope-layout": "project",
+      "lazysizes": "project",
+      "midday.js": "project",
+      "photoswipe": "project",
+      "rellax": "project",
+      "sal.js": "project",
+      "scroll-lock": "project",
+      "smoothscroll-polyfill": "project",
+      "swup": "project",
+      "swup-gtag-plugin": "project",
+      "tailwindcss-flexbox-order": "project"
+    },
+    "devDependencies": {
+      "@fullhuman/postcss-purgecss": "project",
+      "@tailwindcss/aspect-ratio": "project",
+      "@tailwindcss/forms": "project",
+      "@tailwindcss/line-clamp": "project",
+      "@tailwindcss/typography": "project",
+      "autoprefixer": "project",
+      "npm-run-all": "project",
+      "postcss": "project",
+      "postcss-cli": "project",
+      "postcss-import": "project",
+      "tailwindcss": "project"
+    }
+  },
   "dependencies": {
     "@bookshop/browser": "3.3.3",
     "@bookshop/generate": "3.3.3",
-    "@bookshop/hugo-engine": "3.3.3"
+    "@bookshop/hugo-engine": "3.3.3",
+    "@swup/body-class-plugin": "^1.0.2",
+    "@swup/fade-theme": "^1.0.5",
+    "@swup/ga-plugin": "^1.0.1",
+    "@swup/gtm-plugin": "^1.0.2",
+    "@swup/preload-plugin": "^1.0.3",
+    "@swup/scripts-plugin": "^1.1.0",
+    "@swup/scroll-plugin": "^1.0.6",
+    "browser-sync": "^2.26.7",
+    "flickity": "^2.2.1",
+    "imagesloaded": "^4.1.4",
+    "isotope-layout": "^3.0.6",
+    "lazysizes": "^5.2.0",
+    "midday.js": "^1.0.2",
+    "photoswipe": "^4.1.3",
+    "rellax": "^1.12.1",
+    "sal.js": "^0.7.4",
+    "scroll-lock": "^2.1.4",
+    "smoothscroll-polyfill": "^0.4.4",
+    "swup": "^2.0.9",
+    "swup-gtag-plugin": "0.0.0",
+    "tailwindcss-flexbox-order": "^1.1.0"
   },
+  "description": "Starter template for hugo and bookshop",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.x",
     "@tailwindcss/aspect-ratio": "^0.x",
@@ -41,5 +80,28 @@
     "postcss-cli": "^10.1.0",
     "postcss-import": "^15.1.0",
     "tailwindcss": "^3.2.7"
-  }
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sendit_hugo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloudCannon/sendit-hugo-template.git"
+  },
+  "scripts": {
+    "bookshop": "npx @bookshop/browser@latest",
+    "bookshop-update": "npx @bookshop/up@latest",
+    "build": "run-s build:*",
+    "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -m",
+    "build:hugo": "hugo --source ./ --destination public --baseURL /",
+    "dev": "run-p hugo-server bookshop",
+    "hugo-server": "hugo server -D --watch",
+    "init": "npx @bookshop/init@latest",
+    "start": "run-p start:*",
+    "start:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
+    "start:hugo": "hugo server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }

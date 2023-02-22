@@ -1,16 +1,17 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Sendit'
+title = 'Jesse Rieser'
 
 
 [module]
 replacements = "local/component-library -> ../component-library"
 
-[[module.imports]]
-path = 'local/component-library'
+  [[module.imports]]
+  path = 'local/component-library'
 
-[[module.imports]]
-path = 'github.com/cloudcannon/bookshop/hugo/v3'
+  [[module.imports]]
+  path = 'github.com/cloudcannon/bookshop/hugo/v3'
+
 
 [build]
   writeStats = true
