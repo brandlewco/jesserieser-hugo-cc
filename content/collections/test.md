@@ -24,7 +24,7 @@ row_alignment: "between"
 theme_color: "#C7D6EF"
 theme_color_all_works: ""
 title: Amtrak the National
-content_blocks:
+collection_blocks:
   - _bookshop_name: collections/media-element
     image_file: /images/hero/hero-image-2.png
     caption: Testing
