@@ -1,5 +1,8 @@
 ---
 title: About
+description: description test
+collection_meta: collection meta test
+collection_description: collection description test
 content_blocks:
   - _bookshop_name: collections/media-element
     image_file: /images/hero/hero-image-2.png
