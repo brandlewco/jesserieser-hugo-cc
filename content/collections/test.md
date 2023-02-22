@@ -1,8 +1,6 @@
 ---
 title: Amtrak the National
 collection_blocks:
-  - _bookshop_name: collections/media-row
-    row_alignment: center
   - _bookshop_name: collections/media-element
     image_file: https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-1-1.jpg
     caption: Testing
