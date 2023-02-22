@@ -24,6 +24,19 @@ _inputs:
       italic: true
       link: true
       removeformat: true
+  collection_content:
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
+  collection_cover:
+    type: image
+  collection_cover_mobile:
+    type: image
+  collection_preview:
+    type: image
   isActive:
     type: switch
   social[*].icon:
