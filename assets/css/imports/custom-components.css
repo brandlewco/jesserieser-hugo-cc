@@ -181,5 +181,5 @@ button.target-burger ul.buns li.bun:last-child {
 }
 
 .cms-editor-active .block-hover img {
-  opacity: 1;
+  opacity: 1 !important;
 }

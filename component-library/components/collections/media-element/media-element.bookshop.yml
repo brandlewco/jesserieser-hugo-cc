@@ -4,7 +4,7 @@ spec:
     - collection_blocks
   label: Media Element
   description: media Element
-  icon: "cottage"
+  icon: "image"
   tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
