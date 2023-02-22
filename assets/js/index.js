@@ -10,8 +10,8 @@ import sal from "sal.js";
 import Rellax from "rellax";
 import Flickity from "flickity";
 import Midday from "midday.js";
-import * as PhotoSwipe from "photoswipe";
-import * as PhotoSwipeUI_Default from "photoswipe/dist/photoswipe-ui-default";
+import PhotoSwipe from 'photoswipe';
+import PhotoSwipeUI_Default from 'photoswipe/dist/photoswipe-ui-default'
 import smoothscroll from "smoothscroll-polyfill";
 import {disablePageScroll, enablePageScroll} from "scroll-lock";
 

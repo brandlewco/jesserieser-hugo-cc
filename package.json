@@ -1,46 +1,5 @@
 {
   "author": "",
-  "comments": {
-    "dependencies": {
-      "@bookshop/browser": "project",
-      "@bookshop/generate": "project",
-      "@bookshop/hugo-engine": "project",
-      "@swup/body-class-plugin": "project",
-      "@swup/fade-theme": "project",
-      "@swup/ga-plugin": "project",
-      "@swup/gtm-plugin": "project",
-      "@swup/preload-plugin": "project",
-      "@swup/scripts-plugin": "project",
-      "@swup/scroll-plugin": "project",
-      "browser-sync": "project",
-      "flickity": "project",
-      "imagesloaded": "project",
-      "isotope-layout": "project",
-      "lazysizes": "project",
-      "midday.js": "project",
-      "photoswipe": "project",
-      "rellax": "project",
-      "sal.js": "project",
-      "scroll-lock": "project",
-      "smoothscroll-polyfill": "project",
-      "swup": "project",
-      "swup-gtag-plugin": "project",
-      "tailwindcss-flexbox-order": "project"
-    },
-    "devDependencies": {
-      "@fullhuman/postcss-purgecss": "project",
-      "@tailwindcss/aspect-ratio": "project",
-      "@tailwindcss/forms": "project",
-      "@tailwindcss/line-clamp": "project",
-      "@tailwindcss/typography": "project",
-      "autoprefixer": "project",
-      "npm-run-all": "project",
-      "postcss": "project",
-      "postcss-cli": "project",
-      "postcss-import": "project",
-      "tailwindcss": "project"
-    }
-  },
   "dependencies": {
     "@bookshop/browser": "3.3.3",
     "@bookshop/generate": "3.3.3",
