@@ -6,14 +6,14 @@
         <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
             <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
                 {{ partial "bookshop_bindings" `.Params` }} {{ partial
-                    "bookshop_bindings" `.Params.content_blocks` }} {{ partial "bookshop_partial"
-                    (slice "page" .Params.content_blocks) }}
+                    "bookshop_bindings" `.Params.collection_blocks` }} {{ partial "bookshop_partial"
+                    (slice "page" .Params.collection_blocks) }}
             </section>
         </div>
-        <!-- {{ partial "collection_pager" .}} -->
+        {{ partial "collection_pager" .}}
     </section>
     <section class="mx-auto relative z-100 overflow-y-hidden" data-hue="white">
-    <!-- {{ partial "collection_footer" .}} -->
+    {{ partial "collection_footer" .}}
     </section>
-    <!-- {{ partial "gallery" . }} -->
+    {{ partial "gallery" . }}
 {{- end -}}

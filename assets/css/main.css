@@ -1,4 +1,15 @@
 /* assets */ 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+@import "./imports/custom-components.css";
+
+@import "tailwindcss/utilities";
+@import "./imports/custom-utilities.css";
+
+@import "./imports/sal.css";
+@import "./imports/gumroad.css";
+@import "./imports/photoswipe.css";
+@import "./imports/photoswipe_ui.css";
+@import "./imports/flickity.css";
+
