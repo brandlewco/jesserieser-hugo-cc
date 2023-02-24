@@ -84,6 +84,15 @@ _inputs:
     type: text
   color: 
     type: color
+  row_alignment:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+        - between
+        - around
 
 
 _structures:
