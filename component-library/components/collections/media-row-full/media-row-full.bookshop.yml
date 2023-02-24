@@ -32,9 +32,10 @@ _inputs:
   media:
     type: array
   media[*]:
-    type: object
-    options:
-      image_file:
-        type: image
-      caption:
-        type: text
+    media_single:
+      type: object
+      options:
+        image_file:
+          type: image
+        caption:
+          type: text
