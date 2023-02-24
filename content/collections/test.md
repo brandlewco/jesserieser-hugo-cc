@@ -5,7 +5,7 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-cover
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-7.jpg
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image_file: /images/hero/hero-image-2.png
     caption: test caption
