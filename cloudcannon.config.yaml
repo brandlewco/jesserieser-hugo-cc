@@ -50,25 +50,42 @@ _inputs:
         - ph-twitter-logo
         - ph-github-logo
         - ph-youtube-logo
-_select_data:
-  width:
-    type: range
-    options:
-      step: 10
-      max: 100
-      min: 0
-  margin_y:
-    type: range
-    options:
-      step: 50
-      max: 1000
-      min: -50
-  margin_left:
-    type: range
-    options:
-      step: 5
-      max: 100
-      min: 100
+  quote:
+    type: text
+  media:
+    image_file:
+      type: image
+    align_y:
+      type: select
+      options:
+        values:
+          - start
+          - center
+          - end
+    width:
+      type: range
+      options:
+        step: 10
+        max: 100
+        min: 0
+    margin_left:
+      type: range
+      options:
+        step: 5
+        max: 100
+        min: 0
+    margin_y:
+      label: Margin Top
+      type: range
+      options:
+        step: 50
+        max: 1000
+        min: -50
+    caption:
+      type: text
+    color: 
+      type: color
+
 
 _structures:
   features:
