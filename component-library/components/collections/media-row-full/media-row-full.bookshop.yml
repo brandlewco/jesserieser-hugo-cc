@@ -1,0 +1,64 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - collection_blocks
+  label: Media Row Full
+  description: Media row
+  icon: "vertical_distribute"
+  tags: ["collection"]
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  row_alignment: center
+
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  row_alignment:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+        - between
+        - around
+  media:
+    type: array
+  media[*]:
+    image_file:
+      type: image
+    align_y:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+    width:
+      type: range
+      options:
+        step: 10
+        max: 100
+        min: 0
+    margin_left:
+      type: range
+      options:
+        step: 5
+        max: 100
+        min: 0
+    margin_y:
+      label: Margin Top
+      type: range
+      options:
+        step: 50
+        max: 1000
+        min: -50
+    caption:
+      type: text
+    color: 
+      type: color
