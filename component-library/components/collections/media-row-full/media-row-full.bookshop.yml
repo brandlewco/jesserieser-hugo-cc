@@ -41,12 +41,12 @@ _inputs:
     image_file:
       type: image
     align_y:
-    type: select
-    options:
-      values:
-        - start
-        - center
-        - end
+      type: select
+      options:
+        values:
+          - start
+          - center
+          - end
     width:
       type: range
       options:
