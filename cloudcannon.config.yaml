@@ -93,6 +93,10 @@ _inputs:
         - end
         - between
         - around
+  categories:
+    type: select
+    options:
+      values: data.categories
 
 
 _structures:
