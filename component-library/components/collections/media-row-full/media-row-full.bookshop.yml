@@ -11,7 +11,7 @@ spec:
 blueprint:
   row_alignment: center
   media:
-    - image_file: /images/hero/hero-image-2.png
+    - image: /images/hero/hero-image-2.png
       caption: test caption
       width: 40
       margin_left: 0
@@ -44,4 +44,4 @@ _inputs:
         text:
           - key: caption
         image:
-          - key: image_file
+          - key: image

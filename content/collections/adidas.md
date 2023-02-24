@@ -34,14 +34,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #232323
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-1.jpg
     margin_left: 5%
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 60
   - _bookshop_name: collections/media-element
     block: media-row
@@ -52,26 +50,22 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
-    block: media-element
     caption: 
     color: #F2F2F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-3.jpg
     margin_left: 15%
     margin_right: 
     margin_y: 500
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element
     align_x: end
     align_y: 
-    block: media-element
     caption: 
     color: #7F7F7F
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-2.jpg
     margin_left: 
     margin_right: 10%
     margin_y: 100
-    template: block-media-element
     width: 33
   - _bookshop_name: collections/media-element
     block: media-row
@@ -82,52 +76,44 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #E1E1E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-5.jpg
     margin_left: 
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #999797
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4.jpg
     margin_left: 
     margin_right: 10%
     margin_y: 400
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #2B2B2B
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-6.jpg
     margin_left: 10%
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #DEDEDE
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-7.jpg
     margin_left: 
     margin_right: 5%
     margin_y: 300
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-element
     block: media-row
@@ -136,40 +122,34 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
-    block: media-element
     caption: 
     color: #979797
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-8.jpg
     margin_left: 10%
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_x: end
     align_y: 
-    block: media-element
     caption: 
     color: #5F5F5F
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-10.jpg
     margin_left: 5%
     margin_right: 
     margin_y: 300
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #E4E4E4
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-9.jpg
     margin_left: 
     margin_right: 10%
     margin_y: 200
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-element
     block: media-row
@@ -178,56 +158,48 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
-    block: media-element
     caption: 
     color: #737373
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-11.jpg
     margin_left: 30%
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #101010
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-13.jpg
     margin_left: 30%
     margin_right: 
     margin_y: 200
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #E4E4E4
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-12.jpg
     margin_left: 15%
     margin_right: 
     margin_y: 200
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
-    block: media-element
     caption: 
     color: #242424
     image: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-14.jpg
     margin_left: 5%
     margin_right: 
     margin_y: 200
-    template: block-media-element
     width: 90
   - _bookshop_name: collections/media-row-end
 ---

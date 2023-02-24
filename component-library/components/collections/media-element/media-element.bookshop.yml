@@ -6,13 +6,13 @@ spec:
   description: media Element
   preview:
     image:
-      - key: image_file
+      - key: image
   icon: "image"
   tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  image_file: /images/hero/hero-image-2.png
+  image: /images/hero/hero-image-2.png
   caption: test caption
   width: 40
   align_y: center
@@ -27,7 +27,7 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  image_file:
+  image:
     type: image
   align_y:
     type: select
