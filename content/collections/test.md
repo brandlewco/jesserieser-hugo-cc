@@ -5,30 +5,32 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-cover
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-7.jpg
 collection_blocks:
   - _bookshop_name: collections/media-row-start
+    row_alignment: center
+  - _bookshop_name: collections/media-element
+    image_file: /images/hero/hero-image-2.png
+    caption: test caption
+    width: 40
+    align_y: center
+    margin_left: 20
+    margin_y: 0
+    color: '#ff0000'
+  - _bookshop_name: collections/media-element
+    image_file: /images/hero/hero-image-2.png
+    caption: test caption
+    width: 30
+    align_y: end
+    margin_left: 0
+    margin_y: 800
+    color: '#ff0000'
+  - _bookshop_name: collections/media-row
+    row_alignment: center
   - _bookshop_name: collections/media-element
     image_file: /images/hero/hero-image-2.png
     caption: test caption
     width: 40
     align_y: center
     margin_left: 0
-    margin_y: 0
-    color: '#ff0000'
-  - _bookshop_name: collections/media-element
-    image_file: /images/hero/hero-image-2.png
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 0
-    margin_y: 0
-    color: '#ff0000'
-  - _bookshop_name: collections/media-row
-  - _bookshop_name: collections/media-element
-    image_file: /images/hero/hero-image-2.png
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 0
-    margin_y: 0
+    margin_y: 200
     color: '#ff0000'
   - _bookshop_name: collections/media-row-end
 collection_meta: Tucson to El Paso On the Texas Eagle
