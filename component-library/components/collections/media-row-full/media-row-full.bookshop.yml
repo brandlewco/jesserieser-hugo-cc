@@ -11,7 +11,9 @@ spec:
 blueprint:
   row_alignment: center
   media:
-    image_file: /images/hero/hero-image-2.png
+    - image_file: /images/hero/hero-image-2.png
+      caption: test caption
+      width: 40
 
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -30,9 +32,4 @@ _inputs:
         - between
         - around
   media:
-    type: object
-    options:
-      image_file:
-        type: image
-      caption:
-        type: text
+    type: array
