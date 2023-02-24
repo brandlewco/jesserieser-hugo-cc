@@ -52,21 +52,21 @@ row_alignment: between
 theme_color: '#c7d6ef'
 theme_color_all_works: ''
 collection_blocks:
-  - _bookshop_name: collections/media-row-full
-    row_alignment: center
-    media:
-      - image_file: /images/hero/hero-image-2.png
-        caption: test caption
-        width: 40
-        margin_left: 0
-        margin_y: 0
-        align_y: center
-        color:
-      - image_file: /images/hero/hero-image-2.png
-        caption: test caption
-        width: 40
-        margin_left: 0
-        margin_y: 0
-        align_y: center
-        color:
+  - _bookshop_name: collections/media-element
+    image_file: /images/hero/hero-image-2.png
+    caption: test caption
+    width: 40
+    align_y: center
+    margin_left: 0
+    margin_y: 0
+    color: '#ff0000'
+  - _bookshop_name: collections/media-row
+  - _bookshop_name: collections/media-element
+    image_file: /images/hero/hero-image-2.png
+    caption: test caption
+    width: 40
+    align_y: center
+    margin_left: 0
+    margin_y: 0
+    color: '#ff0000'
 ---
