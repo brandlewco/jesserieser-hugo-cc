@@ -10,16 +10,15 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   row_alignment: center
-  selector:
-    media:
-      - image_file: /images/hero/hero-image-2.png
-        caption: test caption
-        width: 40
-        margin_left: 0
-        margin_y: 0
-        align_y: center
-        color: #ff0000
-    quote: text
+  media:
+    - image_file: /images/hero/hero-image-2.png
+      caption: test caption
+      width: 40
+      margin_left: 0
+      margin_y: 0
+      align_y: center
+      color: #ff0000
+
       
 
 
@@ -38,14 +37,11 @@ _inputs:
         - end
         - between
         - around
-  selector:
-    type: array
   media:
+    type: array
     options: 
       preview:
         text:
           - key: caption
         image:
           - key: image_file
-  quote:
-    type: text
