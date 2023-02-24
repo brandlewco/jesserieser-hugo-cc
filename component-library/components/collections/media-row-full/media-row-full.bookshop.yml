@@ -32,7 +32,7 @@ _inputs:
   media:
     type: array
   media[*]:
-    image_file:
-      type: image
-    caption:
-      type: text
+    - image_file:
+        type: image
+      caption:
+        type: text
