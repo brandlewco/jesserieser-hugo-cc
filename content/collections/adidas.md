@@ -41,10 +41,6 @@ collection_blocks:
     margin_right: 
     margin_y: 100
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-row
-    row_alignment: start
-    template: block-media-row
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
@@ -115,10 +111,6 @@ collection_blocks:
     margin_right: 5%
     margin_y: 300
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-row
-    row_alignment: start
-    template: block-media-row
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
