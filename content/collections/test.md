@@ -33,6 +33,12 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_meta: Tucson to El Paso On the Texas Eagle
 collection_meta_2:
+collection_description_alignment: center
+collection_description: >-
+  These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
+  Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
+  Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
+  Ruidoso, and Carlsbad Caverns.
 collection_content: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
@@ -44,12 +50,6 @@ collection_content: >-
   National was a casualty of Covid and permanently closed their doors April,
   2020 and the images never made it into print. I hope this serves a fitting and
   surreal farewell to one of my favorite clients.
-collection_description_alignment: center
-collection_description: >-
-  These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
-  Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
-  Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
-  Ruidoso, and Carlsbad Caverns.
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
@@ -61,7 +61,6 @@ collection_category:
   - Reportage
 collection_exhibition: []
 collection_awards: []
-collection_hidden: false
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-3.jpg
@@ -71,9 +70,11 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-2.jpg
-cover_image: ''
+theme_color: '#c7d6ef'
+theme_color_all_works: ''
 date: 2022-07-21T01:29:36Z
 hide_footer: false
 navigation_theme: white
 px_extra: true
+collection_hidden: false
 ---
