@@ -106,3 +106,7 @@ _structures:
           item: 
           isActive: 
 
+_editables:
+  title:
+    italic: false
+
