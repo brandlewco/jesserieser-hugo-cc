@@ -68,8 +68,6 @@ collection_blocks:
     margin_left: 50
     margin_y: 600
     color: '#ff0000'
-  - _bookshop_name: collections/media-row
-    row_alignment: center
   - _bookshop_name: collections/media-element
     image_file: https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
     caption: test caption
