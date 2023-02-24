@@ -56,3 +56,7 @@ _inputs:
     type: text
   color: 
     type: color
+  options:
+    preview:
+      image: 
+        - key: image_file
