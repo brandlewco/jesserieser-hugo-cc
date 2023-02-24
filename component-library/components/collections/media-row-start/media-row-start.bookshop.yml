@@ -2,7 +2,7 @@
 spec:
   structures:
     - collection_blocks
-  label: Media Row Start
+  label: Collection Top
   description: Media row
   icon: "vertical_align_top"
   tags: ["collection"]

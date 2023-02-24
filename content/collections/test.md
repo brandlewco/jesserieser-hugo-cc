@@ -1,33 +1,5 @@
 ---
 title: Amtrak the National
-collection_blocks:
-  - _bookshop_name: collections/media-row-start
-  - _bookshop_name: collections/media-element
-    image_file: /images/hero/hero-image-2.png
-    caption: test caption
-    width: 40
-    align_y: center
-    margin_left: 0
-    margin_y: 0
-    color: '#ff0000'
-  - _bookshop_name: collections/media-element
-    image_file: /images/hero/hero-image-2.png
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 0
-    margin_y: 0
-    color: '#ff0000'
-  - _bookshop_name: collections/media-row
-  - _bookshop_name: collections/media-element
-    image_file: /images/hero/hero-image-2.png
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 0
-    margin_y: 0
-    color: '#ff0000'
-  - _bookshop_name: collections/media-row-end
 collection_archive: false
 collection_awards: []
 collection_category:
