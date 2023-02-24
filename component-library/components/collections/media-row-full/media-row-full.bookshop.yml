@@ -30,12 +30,9 @@ _inputs:
         - between
         - around
   media:
-    type: array
-  media[*]:
-    media_single:
-      type: object
-      options:
-        image_file:
-          type: image
-        caption:
-          type: text
+    type: object
+    options:
+      image_file:
+        type: image
+      caption:
+        type: text
