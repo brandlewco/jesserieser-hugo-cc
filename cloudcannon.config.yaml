@@ -107,6 +107,5 @@ _structures:
           isActive: 
 
 _editables:
-  title:
-    italic: false
+  text:
 
