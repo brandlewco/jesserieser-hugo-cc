@@ -6,9 +6,7 @@
         <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
                 {{ partial "bookshop_bindings" `.Params` }}
                 {{ partial "bookshop_bindings" `.Params.collection_blocks` }} 
-                <section class="group-hover flex flex-wrap mx-auto h-auto sm:justify-between">
-                    {{ partial "bookshop_partial" (slice "page" .Params.collection_blocks) }}
-                </section>
+                {{ partial "bookshop_partial" (slice "page" .Params.collection_blocks) }}
         </div>
         {{ partial "collection_pager" .}}
     </section>
