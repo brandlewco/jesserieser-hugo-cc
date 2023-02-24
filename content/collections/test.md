@@ -31,15 +31,8 @@ collection_blocks:
     margin_y: 0
     color: '#ff0000'
   - _bookshop_name: collections/media-row-end
-collection_awards: []
-collection_category:
-  - Editorial
-  - Reportage
-  - Travel
-  - Color
-  - Environments
-  - Portraits
-  - Reportage
+collection_meta: Tucson to El Paso On the Texas Eagle
+collection_meta_2:
 collection_content: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
@@ -51,17 +44,24 @@ collection_content: >-
   National was a casualty of Covid and permanently closed their doors April,
   2020 and the images never made it into print. I hope this serves a fitting and
   surreal farewell to one of my favorite clients.
+collection_description_alignment: center
 collection_description: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
   Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
   Ruidoso, and Carlsbad Caverns.
-collection_description_alignment: center
-collection_exhibition: []
 collection_filter: Commissioned + Stock
+collection_category:
+  - Editorial
+  - Reportage
+  - Travel
+  - Color
+  - Environments
+  - Portraits
+  - Reportage
+collection_exhibition: []
+collection_awards: []
 collection_hidden: false
-collection_meta: Tucson to El Paso On the Texas Eagle
-collection_meta_2:
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-3.jpg
@@ -76,5 +76,4 @@ date: 2022-07-21T01:29:36Z
 hide_footer: false
 navigation_theme: white
 px_extra: true
-row_alignment: between
 ---
