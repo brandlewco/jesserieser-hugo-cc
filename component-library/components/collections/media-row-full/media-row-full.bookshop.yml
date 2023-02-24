@@ -12,12 +12,6 @@ blueprint:
   row_alignment: center
   media:
     - image_file: /images/hero/hero-image-2.png
-      caption: test caption
-      width: 40
-      align_y: center
-      margin_left: 0
-      margin_y: 0
-      color: "#ff0000"
 
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
