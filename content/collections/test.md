@@ -76,4 +76,21 @@ collection_blocks:
     margin_left: 50
     margin_y: 600
     color: '#ff0000'
+  - _bookshop_name: collections/media-row-full
+    row_alignment: center
+    media:
+      - image_file: /images/hero/hero-image-2.png
+        caption: test caption
+        width: 40
+        margin_left: 0
+        margin_y: 0
+        align_y: center
+        color:
+      - image_file: ''
+        caption: ''
+        width: 0
+        margin_left: 0
+        margin_y: 0
+        align_y: ''
+        color:
 ---
