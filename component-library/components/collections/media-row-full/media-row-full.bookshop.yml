@@ -38,6 +38,12 @@ _inputs:
         - around
   media:
     type: array
+    options: 
+      preview:
+        text:
+          - key: caption
+        image:
+          - key: image_file
   image_file:
     type: image
   align_y:
