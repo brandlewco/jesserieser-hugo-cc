@@ -93,7 +93,7 @@ _inputs:
         - end
         - between
         - around
-  categories:
+  collection_category:
     type: select
     options:
       values: data.categories.categories
