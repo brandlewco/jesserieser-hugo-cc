@@ -4,6 +4,9 @@ spec:
     - collection_blocks
   label: Media Element
   description: media Element
+  preview:
+    image:
+      - key: image_file
   icon: "image"
   tags: ["collection"]
 
@@ -56,7 +59,3 @@ _inputs:
     type: text
   color: 
     type: color
-  options:
-    preview:
-      image: 
-        - key: image_file
