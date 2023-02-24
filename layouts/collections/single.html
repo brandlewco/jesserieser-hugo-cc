@@ -4,11 +4,11 @@
     </section>
     <section data-hue="page" class="mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
         <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
-            <section class="group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-                {{ partial "bookshop_bindings" `.Params` }} {{ partial
-                    "bookshop_bindings" `.Params.collection_blocks` }} {{ partial "bookshop_partial"
-                    (slice "page" .Params.collection_blocks) }}
-            </section>
+                {{ partial "bookshop_bindings" `.Params` }}
+                {{ partial "bookshop_bindings" `.Params.collection_blocks` }} 
+                <section class="group-hover flex flex-wrap mx-auto h-auto sm:justify-between">
+                    {{ partial "bookshop_partial" (slice "page" .Params.collection_blocks) }}
+                </section>
         </div>
         {{ partial "collection_pager" .}}
     </section>
