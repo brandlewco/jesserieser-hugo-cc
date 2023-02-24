@@ -52,30 +52,6 @@ row_alignment: between
 theme_color: '#c7d6ef'
 theme_color_all_works: ''
 collection_blocks:
-  - _bookshop_name: collections/media-element
-    image_file: https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-1-1.jpg
-    caption: Testing
-    width: 40
-    align_y: center
-    margin_left: 20
-    margin_y: 150
-    color: '#ff0000'
-  - _bookshop_name: collections/media-element
-    image_file: https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 50
-    margin_y: 600
-    color: '#ff0000'
-  - _bookshop_name: collections/media-element
-    image_file: https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
-    caption: test caption
-    width: 30
-    align_y: center
-    margin_left: 50
-    margin_y: 600
-    color: '#ff0000'
   - _bookshop_name: collections/media-row-full
     row_alignment: center
     media:
@@ -86,11 +62,11 @@ collection_blocks:
         margin_y: 0
         align_y: center
         color:
-      - image_file: ''
-        caption: ''
-        width: 0
+      - image_file: /images/hero/hero-image-2.png
+        caption: test caption
+        width: 40
         margin_left: 0
         margin_y: 0
-        align_y: ''
+        align_y: center
         color:
 ---
