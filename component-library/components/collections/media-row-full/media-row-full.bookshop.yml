@@ -38,4 +38,7 @@ _inputs:
   media:
     type: array
   media[*]:
-    type: image
+    image_file:
+      type: image
+    caption:
+      type: text
