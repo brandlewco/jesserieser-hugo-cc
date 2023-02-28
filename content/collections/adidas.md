@@ -42,7 +42,7 @@ collection_blocks:
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
@@ -63,12 +63,8 @@ collection_blocks:
     margin_right: 10%
     margin_y: 100
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-row
-    row_alignment: end
-    template: block-media-row
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
@@ -90,7 +86,7 @@ collection_blocks:
     margin_y: 400
     width: 30
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
@@ -122,7 +118,7 @@ collection_blocks:
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: end
     align_y: 
@@ -143,10 +139,8 @@ collection_blocks:
     margin_right: 10%
     margin_y: 200
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-row
-    row_alignment: center
-    template: block-media-row
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: center
     align_y: 
@@ -158,7 +152,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
@@ -170,7 +164,7 @@ collection_blocks:
     margin_y: 200
     width: 50
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
@@ -182,7 +176,7 @@ collection_blocks:
     margin_y: 200
     width: 40
   - _bookshop_name: collections/media-row
-    row_alignment: center
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: 
