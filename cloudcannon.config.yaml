@@ -87,6 +87,21 @@ _inputs:
     type: text
   color: 
     type: color
+  theme_color: 
+    type: color
+  theme_color_all_work: 
+    type: color
+  logo:
+    type: image
+  row_alignment:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+        - between
+        - around
   row_alignment:
     type: select
     options:

@@ -13,12 +13,14 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   image: /images/hero/hero-image-2.png
-  caption: test caption
   width: 40
-  align_y: center
-  margin_left: 0
   margin_y: 0
+  margin_left: 0
+  margin_right: 0
+  align_y: center
   color: "#ff0000"
+  caption: test caption
+
 
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -43,6 +45,12 @@ _inputs:
       max: 100
       min: 0
   margin_left:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 0
+  margin_right:
     type: range
     options:
       step: 5
