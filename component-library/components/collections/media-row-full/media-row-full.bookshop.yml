@@ -39,7 +39,8 @@ _inputs:
         - around
   media:
     type: array
-    options: 
+    options:
+     
       preview:
         text:
           - key: caption
