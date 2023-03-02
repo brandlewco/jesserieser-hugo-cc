@@ -102,15 +102,13 @@ _inputs:
         - end
         - between
         - around
-  row_alignment:
+  collection_description_alignment:
     type: select
     options:
       values:
-        - start
+        - left
         - center
-        - end
-        - between
-        - around
+        - right
   collection_category:
     type: multiselect
     options:
