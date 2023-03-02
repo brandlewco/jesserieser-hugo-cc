@@ -5,9 +5,9 @@ collections_config:
   collections:
     _enabled_editors:
       - visual
-    sort_options:
-      - key: title
-      - key: collection_blocks
+    schemas:
+      default:
+        path: schemas/collection.md
   blog:
     _enabled_editors:
       - content
