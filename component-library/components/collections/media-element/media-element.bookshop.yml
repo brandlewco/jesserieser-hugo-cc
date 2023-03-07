@@ -7,7 +7,12 @@ spec:
   preview:
     image:
       - key: image
+    text:
+      - key: caption
   tags: ["collection"]
+  schemas:
+    default:
+      path: schemas/media-element.md
 
 # Defines the structure of this component, as well as the default values
 blueprint:
@@ -17,7 +22,7 @@ blueprint:
   margin_left: 0
   margin_right: 0
   align_y: center
-  color: "#ff0000"
+  color: "ff0000"
   caption: test caption
 
 
