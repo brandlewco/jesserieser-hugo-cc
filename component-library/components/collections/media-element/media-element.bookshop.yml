@@ -4,6 +4,12 @@ spec:
     - collection_blocks
   label: Media Element
   description: Image element for collection gallery.
+  preview:
+    image:
+      - key: image
+    text:
+      - key: caption
+      - No Caption
   tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
@@ -15,7 +21,7 @@ blueprint:
   margin_right: 0
   align_y: center
   color: "ff0000"
-  caption: test caption
+  caption: "test caption"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
