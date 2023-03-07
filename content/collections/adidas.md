@@ -32,7 +32,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: '232323'
@@ -44,7 +43,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: center
     align_y: 
     caption: 
     color: 'F2F2F2'
@@ -54,7 +52,6 @@ collection_blocks:
     margin_y: 500
     width: 30
   - _bookshop_name: collections/media-element
-    align_x: end
     align_y: 
     caption: 
     color: '7F7F7F'
@@ -66,7 +63,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: 'E1E1E1'
@@ -76,7 +72,6 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: '999797'
@@ -88,7 +83,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: '2B2B2B'
@@ -98,7 +92,6 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: 'DEDEDE'
@@ -108,7 +101,6 @@ collection_blocks:
     margin_y: 300
     width: 40
   - _bookshop_name: collections/media-element
-    align_x: center
     align_y: 
     caption: 
     color: '979797'
@@ -120,7 +112,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: end
     align_y: 
     caption: 
     color: '5F5F5F'
@@ -130,7 +121,6 @@ collection_blocks:
     margin_y: 300
     width: 30
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: 'E4E4E4'
@@ -142,7 +132,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: center
     align_y: 
     caption: 
     color: '737373'
@@ -154,7 +143,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: '101010'
@@ -166,7 +154,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: 'E4E4E4'
@@ -178,7 +165,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
     align_y: 
     caption: 
     color: '242424'

@@ -22,7 +22,6 @@ blueprint:
   margin_left: 0
   margin_right: 0
   align_y: center
-  align_x: cetner
   color: "ff0000"
   caption: test caption
 

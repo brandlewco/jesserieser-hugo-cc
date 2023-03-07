@@ -9,7 +9,6 @@ collection_blocks:
     margin_y: 100
     margin_left: 5
     margin_right: 0
-    align_x: center
     align_y: center
     caption: 
     color: #232323
