@@ -64,6 +64,13 @@ _inputs:
         - start
         - center
         - end
+  align_x:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
   width:
     type: range
     options:
