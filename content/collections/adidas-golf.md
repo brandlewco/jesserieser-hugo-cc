@@ -11,18 +11,23 @@ collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
 collection_preview: [https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-1.jpg, https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-2.jpg, https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-3.jpg, https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-4.jpg]
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-9.jpg
 date: 
-hide_footer: true
+hide_footer: false
 layout: blocks
 logo: 
-navigation_theme: white
+navigation_theme: black
 px_extra: true
-slug: collections/adidas-golf-adicross
+slug: /adidas-golf-adicross
 theme_color: #B8EEBC
 theme_color_all_works: #E69DFB
-title: Adidas Golf: Adicross
+title: >
+  Adidas Golf: Adicross
+collection_press: 
+  - content: "**2019**  \nAP 35: American Photography Annual 35  \nBest Personal Work Series:  \n\Phoenix: A Dystopian Legoland That Tastes Like Candy"
 seo:
-  - meta_title: Adidas Golf Dustin Johnson Xander Schaufelle Sergio Garcia
-template: popup-text-element
+  meta_title: Adidas Golf Dustin Johnson Xander Schaufelle Sergio Garcia
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     color: #D4D4D4
@@ -303,6 +308,4 @@ template: popup-text-element
     margin_left: 20
     margin_y: 100
     width: 60
-collection_press: [**2019**  \nAP 35: American Photography Annual 35  \nBest Personal Work Series:  \n\Phoenix: A Dystopian Legoland That Tastes Like Candy]
-
 ---
