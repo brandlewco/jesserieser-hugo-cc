@@ -11,6 +11,7 @@
     "@swup/preload-plugin": "^1.0.3",
     "@swup/scripts-plugin": "^1.1.0",
     "@swup/scroll-plugin": "^1.0.6",
+    "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
     "browser-sync": "^2.26.7",
     "flickity": "^2.2.1",
     "imagesloaded": "^4.1.4",

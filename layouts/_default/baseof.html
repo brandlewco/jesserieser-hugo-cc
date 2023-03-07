@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html lang="zxx">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>{{print .Page.Title " | " .Site.Title}}</title>
-    <!-- mobile responsive meta -->
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=5"
-    />
-
     <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
     {{ $styles := resources.Get "/css/style.css"  }}
@@ -26,7 +21,7 @@
     {{- $jsBundle := resources.Get "js/index.js" | js.Build $options | fingerprint -}}
 		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
   </head>
-  <body>
+  <body class="{{ with.Title }}page-{{ lower . | urlize }}{{ end }} {{ if eq .Params.collection_archive true }}archive{{end}}">
     {{ partial "header" .}}
     <main id="content" class="transition-page">
       {{ block "main" .}}

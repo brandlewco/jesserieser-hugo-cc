@@ -125,31 +125,31 @@ html.is-animating .transition-nav {
   transition: 0.33s transform ease-in-out, 0.4s opacity cubic-bezier(0.550, 0.055, 0.675, 0.190);
   /* height: 68px !important; */
   /* z-index: 999; */
-  .navigation-container {
-    background-color: transparent;
-    transition: background-color 0.33s ease-in-out, height 0.33s ease-in-out;
-  }
 }
+
+#navigation   .navigation-container {
+  background-color: transparent;
+  transition: background-color 0.33s ease-in-out, height 0.33s ease-in-out;
+}
+
+
 
 #navigation.active {
   height: 100vh !important;
   transform: translate3d(0px, 0px, 0px) !important;
+}
 
-  /* .hue-header.white button{
-    color: #000 !important;
-  } */
-
-  .menu {
+#navigation.active .menu {
     transform: translateY(0%);
     display: flex !important;
   }
-  .navigation-container {
+  #navigation.active  .navigation-container {
     background-color: rgba(255, 255, 255, 0.90);
   }
-  .shift {
+  #navigation.active .shift {
     color: #000 !important;
   }
-}
+
 
 svg.hover:hover path {
   stroke-width: 15;

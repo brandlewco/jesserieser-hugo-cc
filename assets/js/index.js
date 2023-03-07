@@ -699,13 +699,16 @@ function init() {
   if (document.querySelector("#current")) {
     var currentPage = document.getElementById("current");
 
+    if  (currentPage.previousElementSibling) {
     currentPage.previousElementSibling.classList.remove("hidden");
     currentPage.previousElementSibling.classList.add("visible", "collection-prev");
     currentPage.previousElementSibling.querySelector(".mobile").innerHTML = "Prev";
-
+    }
+    if (currentPage.nextElementSibling){
     currentPage.nextElementSibling.classList.remove("hidden");
     currentPage.nextElementSibling.classList.add("visible", "collection-next");
     currentPage.nextElementSibling.querySelector(".mobile").innerHTML = "Next";
+    }
   }
 
   // Animate Navigaiton on Load
