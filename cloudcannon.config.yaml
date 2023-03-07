@@ -96,7 +96,7 @@ _inputs:
     type: color
   theme_color: 
     type: color
-  theme_color_all_work: 
+  theme_color_all_works: 
     type: color
   logo:
     type: image
