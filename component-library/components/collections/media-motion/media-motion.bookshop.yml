@@ -1,0 +1,91 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - collection_blocks
+  label: Media Motion
+  description: Image element for collection gallery.
+  preview:
+    image:
+      - key: image
+    text:
+      - key: caption
+      - No Caption
+    subtext:
+      - key: width
+  tags: ["collection"]
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  vimeo_id: 123
+  text: caption
+  color: "000000"
+  show_controls: true
+  block_aspect_ratio: 16x9
+  width: 50
+  align_y: start
+  margin_y: 0
+  margin_left: 0
+  margin_right: 0
+
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  vimeo_id:
+    type: number
+  align_y:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+  width:
+    type: range
+    options:
+      step: 10
+      max: 100
+      min: 0
+  margin_left:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 0
+  margin_right:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 0
+  margin_y:
+    label: Margin Top
+    type: range
+    options:
+      step: 50
+      max: 1000
+      min: -50
+  caption:
+    type: text
+  color: 
+    type: color
+  show_controls:
+    type: switch
+  block_aspect_ratio:
+    type: select
+    options:
+      values:
+        - 8-5x11
+        - 11x8-5
+        - 9x16
+        - 16x9
+        - 5x4
+        - 4x5
+        - 4x3
+        - 3x4
+        - 2x3
+        - 3x2
+        - 1x2
