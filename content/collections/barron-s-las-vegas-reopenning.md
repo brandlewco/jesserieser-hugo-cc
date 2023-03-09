@@ -191,7 +191,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
     row_alignment: between
-  - align_y: start
+  - _bookshop_name: collections/media-element
+    align_y: start
     block: media-element
     caption: 
     color: FFE0E1
@@ -309,8 +310,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 200
     parallax: false
-    template: block-media-text
-    text: Part 2:
+    text: "Part 2:"
     text_alignment: left
     text_color: 000000
     text_size: 10xl
