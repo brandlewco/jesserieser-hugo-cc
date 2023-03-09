@@ -1,7 +1,6 @@
 ---
 _schema: default
-title: |
-  Adidas Golf: Adicross
+title: 'Adidas Golf: Adicross TEST'
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
