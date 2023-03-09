@@ -353,17 +353,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '200'
     width: '66'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-row-end
 
 ---

@@ -1,0 +1,149 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - collection_blocks
+  label: Text
+  description: 
+  preview:
+  tags: ["collection"]
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: insert text here
+  background_color: ff0000
+  background_image_toggle: true
+  image:
+  text_color: 000000
+  text_size: lg
+  text_alignment: left
+  text_tracking: normal
+  font_weight: normal
+  width: 50
+  align_y: start
+  margin_y: 0
+  margin_left: 0
+  margin_right: 0
+  parallax: true
+  image_css:
+  caption_css:
+
+
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  text:
+    type: html
+  background_color:
+    type: color
+  image:
+    type: image
+  text_color:
+    type: color
+  text_size:
+    type: select
+    options:
+      values:
+        - xs
+        - sm
+        - base
+        - lg
+        - xl
+        - 2xl
+        - 4xl
+        - 6xl
+        - 7xl
+        - 8xl
+        - 9xl
+        - 10xl
+  text_alignment:
+    type: select
+    options:
+      values:
+        - left
+        - center
+        - right
+  text_tracking:
+    type: select
+    options:
+      values:
+        - tighter
+        - tight
+        - normal
+        - wide
+        - wider
+        - widest
+  font_weight:
+    type: select
+    options:
+      values:
+        - hairline
+        - light
+        - normal
+        - semibold
+        - bold
+        - extrabold
+  align_y:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+  width:
+    type: range
+    options:
+      step: 10
+      max: 100
+      min: 0
+  margin_left:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 0
+  margin_right:
+    type: range
+    options:
+      step: 5
+      max: 100
+      min: 0
+  margin_y:
+    label: Margin Top
+    type: range
+    options:
+      step: 50
+      max: 1000
+      min: -50
+  caption:
+    type: text
+  color: 
+    type: color
+  show_controls:
+    type: switch
+  block_aspect_ratio:
+    type: select
+    options:
+      values:
+        - 8-5x11
+        - 11x8-5
+        - 9x16
+        - 16x9
+        - 5x4
+        - 4x5
+        - 4x3
+        - 3x4
+        - 2x3
+        - 3x2
+        - 1x2
+  parallax:
+    type: switch
+  background_image_toggle:
+    type: switch
+  image_css:
+    type: html
+  caption_css:
+    type: html
