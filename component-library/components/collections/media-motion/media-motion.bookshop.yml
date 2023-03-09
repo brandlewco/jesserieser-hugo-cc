@@ -2,8 +2,8 @@
 spec:
   structures:
     - collection_blocks
-  label: Media Motion
-  description: Image element for collection gallery.
+  label: Vimeo
+  description:
   preview:
     image:
       - key: image
@@ -18,7 +18,7 @@ spec:
 blueprint:
   vimeo_id: 123
   text: caption
-  color: "000000"
+  color: ff0000
   show_controls: true
   block_aspect_ratio: 16x9
   width: 50
