@@ -1,75 +1,68 @@
 ---
-title: About
+layout: blocks
+title: Jesse Rieser
+date: 2017-11-01T23:00:00.000+00:00
 content_blocks:
-  - _bookshop_name: about/hero
-    title: On a mission to change email marketing
-    description: >-
-      We're here to breathe new air into email marketing and help grow your
-      business.
-    hero_images:
-      - image_path: /images/about/aboutfeature-two.jpg
-        placer: front_bottom
-      - image_path: /images/about/aboutfeature-three.jpg
-        placer: back_top_right
-      - image_path: /images/about/aboutfeature-four.jpg
-        placer: back_top_left
-    link:
-      text: "Try This Free"
-      url: "/sign-up"
-  - _bookshop_name: global/counter
-    title: Built for your
-    title_suffix: Business
-    description: We've built Sendit from the ground up the help grow your business faster.
-    alternateStyle: true
-    numbers:
-      - number: 200
-        suffix: m
-        prefix: $
-        text: Venture capital raised
-      - number: 2016
-        text: Established in
-      - number: 40
-        suffix: +
-        text: Amazing team members
-      - number: 44325
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: about/video
-    title: We love what we do
-    description: >-
-      Our team has decades of experience working with email marketing campaigns
-      and we’re passionate about helping you connect with your customers.
-    btn:
-      link: https://www.instagram.com/staticmania
-      text: Follow on Linkedin
-    video:
-      image_path: /images/works/banner.jpg
-      link: https://vimeo.com/45830194
-  - _bookshop_name: about/team
-    title: Our leadership team
-    team_members:
-      - name: Nikolas Mcconnell
-        designation: Co-Founder & CEO
-        image_path: /images/team/1.jpg
-      - name: Keiren Mcculloch
-        designation: CMO
-        image_path: /images/team/2.jpg
-      - name: Piers Reyes
-        designation: Head of Marketing
-        image_path: /images/team/3.jpg
-      - name: Zachary Arias
-        designation: Co-founder & CTO
-        image_path: /images/team/4.jpg
-      - name: Harmony Dunlop
-        designation: Head of Sales
-        image_path: /images/team/5.jpg
-      - name: Elize Schwartz
-        designation: CRO
-        image_path: /images/team/6.jpg
-      - name: Coen Simmons
-        designation: Head of Design
-        image_path: /images/team/7.jpg
-      - name: Fran Figureson
-        designation: Head of People
-        image_path: /images/team/8.jpg
+  - _bookshop_name: home/media-row-start
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    block: media-feature
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: 25%
+    margin_right: 0%
+    title_margin_y: 25%
+    title_margin_left: 60%
+    title_margin_right: 0%
+    text_size: 8xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    color: "#CDF0D6"
+    meta: 'Kari Lake: Face of the New Maga Right'
+    attached_collection: collections/time-kari-lake.md
+    text_color: "#FFD49B"
+    font_weight: semibold
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
+    title: TIME
+  - _bookshop_name: home/media-row-end
+home_theme_color: "#EDDDDE"
+collection_description: A student of subtleties.
+collection_content: ''
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
+feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
+feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
+feature_description: |-
+  Here you will find handpicked photographic art works, client commissions, and recent news. For a more expansive experience please head over to "all works."
+
+  If you are solely interested in the works produced in my personal photographic art practice, please head over to [**_Jesse Rieser Projects_**](https://jesserieserprojects.com/).
+navigation_theme: black
+row_alignment: between
+selected_works_theme:
+- template: selected-works-theme
+  image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_2021-horizontal-2.jpg
+  theme_color: "#86D5F3"
+  image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_2021-vertical-2.jpg
+- template: selected-works-theme
+  image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-3.jpg
+  image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-3.jpg
+  theme_color: "#C5E2D6"
+- template: selected-works-theme
+  image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-6.jpg
+  theme_color: "#F3DDC8"
+  image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-6.jpg
+- template: selected-works-theme
+  image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-7.jpg
+  theme_color: "#DEDFF7"
+  image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-7.jpg
+px_extra: true
+collection_meta: 'Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer
+  & Director specializing in portraiture, reportage, sport and conceptual photography
+  and video. Located in the West Coast and Southwestern USA. '
+seo:
+  meta_title: 'Selected Works of Photographer Jesse Rieser '
+  meta_description: 'Handpicked portfolios and news by the artist '
+
 ---
