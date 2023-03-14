@@ -81,10 +81,10 @@ px_extra: true
 row_alignment: 
 sale: false
 shop: false
-slug: projects/christmas-in-america
+slug: christmas-in-america
 theme_color: B1D9D2
 theme_color_all_works: 69E5CE
-title: Christmas In America: Happy Birthday, Jesus
+title: 'Christmas In America: Happy Birthday, Jesus'
 collection_awards:
   - content: |-
       **2017**  
@@ -291,7 +291,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 
     block: media-element
-    caption: <p><strong>Deflation.</strong> <em>Tempe, AZ. 2016 Residence</em></p>
+    caption: >-
+      <strong>Deflation.</strong> <em>Tempe, AZ. 2016 Residence</em></p>
     color: EDEFF2
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     margin_left: 15
@@ -988,7 +989,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
+  - content: >-
+      _Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
     icon: 
     slug: 
     template: popup-text-element
@@ -1013,7 +1015,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
+  - content: >-
+      _Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
     icon: 
     slug: 
     template: popup-text-element
@@ -1025,7 +1028,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Esquire Russia_](http://esquire.ru/photo/xmas)
+  - content: >-
+      _Esquire Russia_](http://esquire.ru/photo/xmas)
     icon: 
     slug: 
     template: popup-text-element
@@ -1056,7 +1060,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
+  - content: >-
+      _Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
     icon: 
     slug: 
     template: popup-text-element
@@ -1185,7 +1190,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Curbed_](http://curbed.com/tags/jesse-rieser)
+  - content: >-
+      _Curbed_](http://curbed.com/tags/jesse-rieser)
     icon: 
     slug: 
     template: popup-text-element
@@ -1202,7 +1208,8 @@ collection_press:
     slug: 
     template: popup-text-element
     url: 
-  - content: [_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
+  - content: >-
+      _Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
     icon: 
     slug: 
     template: popup-text-element

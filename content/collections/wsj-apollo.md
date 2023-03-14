@@ -40,7 +40,7 @@ collection_description: >-
 collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
-collection_meta: Apollo 11 50th Anniversary: Guidance Computer Rebuild
+collection_meta: 'Apollo 11 50th Anniversary: Guidance Computer Rebuild'
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/apollo_covers-1.jpg

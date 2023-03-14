@@ -101,7 +101,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/autobiography-contact-sport
+slug: autobiography-contact-sport
 theme_color: CAD39C
 theme_color_all_works: A7E05C
 title: Autobiography of a Contact Sport

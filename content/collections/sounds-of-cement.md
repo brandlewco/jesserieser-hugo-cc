@@ -44,18 +44,15 @@ collection_awards:
       **2016**  
       **_PDN Photo Annual_**   
       Best Stock Photography
-    template: popup-text-element
 collection_exhibition:
   - content: |-
       **2017**  
       **_Chaos Theory 17_**  
       Legend City Gallery. Phoenix, AZ (Group Sh_ow)_
-    template: popup-text-element
   - content: |-
       **2016**  
       **_Sunday Afternoon Artist Exhibition_**  
       Inert Gallery. New York, NY (Group Show)
-    template: popup-text-element
 collection_layout_builder:
   - _bookshop_name: collections/media-motion
     align_y: start

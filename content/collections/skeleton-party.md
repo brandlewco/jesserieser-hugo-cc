@@ -128,7 +128,8 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
+    caption: >-
+      <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: E4F1F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-6.jpg
     margin_left: 0
@@ -139,7 +140,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds </em></p>
+    caption: >-
+      <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds </em></p>
     color: FFD0C6
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-9.jpg
     margin_left: 50
@@ -173,7 +175,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
+    caption: >-
+      <strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: DAECB9
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-11.jpg
     margin_left: 10
@@ -209,7 +212,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2. </strong><em>Condor Airlines: The Star Geezers</em></p>
+    caption: >-
+      <p><strong>2. </strong><em>Condor Airlines: The Star Geezers</em></p>
     color: F6D4C8
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-15.jpg
     margin_left: 5
@@ -218,7 +222,8 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds</em></p>
+    caption: >-
+      <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds</em></p>
     color: FFEC96
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-14.jpg
     margin_left: 0
@@ -239,7 +244,8 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5.</strong> <em>Nike Running's Fred Kerley</em></p>
+    caption: >-
+      <p><strong>5.</strong> <em>Nike Running's Fred Kerley</em></p>
     color: FADEE0
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-17.jpg
     margin_left: 0
@@ -250,7 +256,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5.</strong> <em>Hearst Italia: Gioa</em></p>
+    caption: >-
+      <p><strong>5.</strong> <em>Hearst Italia: Gioa</em></p>
     color: FFF4D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-18.jpg
     margin_left: 45
@@ -285,7 +292,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1.</strong> <em>The Class of 99 Turns 30</em></p>
+    caption: >-
+      <strong>1.</strong> <em>The Class of 99 Turns 30</em></p>
     color: D0ECE8
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-21.jpg
     margin_left: 10
@@ -293,7 +301,8 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5.</strong> <em>Makenzie Gossage</em></p>
+    caption: >-
+      <strong>5.</strong> <em>Makenzie Gossage</em></p>
     color: EAB7C1
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-22.jpg
     margin_left: 0
@@ -304,7 +313,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5.</strong> <em>Adidas Golf: Dustin Johnson</em></p>
+    caption: >-
+      <p><strong>5.</strong> <em>Adidas Golf: Dustin Johnson</em></p>
     color: CACACA
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-23.jpg
     margin_left: 15
@@ -312,7 +322,8 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>3.</strong> <em>Sounds of Cement</em></p>
+    caption: >-
+      <strong>3.</strong> <em>Sounds of Cement</em></p>
     color: 0A0A0A
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-24.jpg
     margin_left: 0
@@ -323,7 +334,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
+    caption: >-
+      <strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: E7E7ED
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-25.jpg
     margin_left: 5
@@ -331,7 +343,8 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
+    caption: >-
+      <strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: FAC7D5
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-26.jpg
     margin_left: 0
@@ -342,7 +355,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1. </strong><em>A Vanishing American Folklore</em></p>
+    caption: >-
+      <strong>1. </strong><em>A Vanishing American Folklore</em></p>
     color: F6E7DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-27.jpg
     margin_left: 25
@@ -364,7 +378,8 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
+    caption: >-
+      <strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: E6EBEE
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-29.jpg
     margin_left: 0
@@ -374,7 +389,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1.</strong> <em>Autobiography of a Contact Sport</em></p>
+    caption: >-
+      <strong>1.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: E0E0E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-30.jpg
     margin_left: 15
@@ -407,7 +423,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
+    caption: >-
+      <strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
     color: E7EEF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-34.jpg
     margin_left: 15
@@ -415,7 +432,8 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
+    caption: >-
+      <strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
     color: F4D0B9
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-33.jpg
     margin_left: 0
@@ -426,7 +444,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>3.</strong> <em>Jerry Hall's Sad Instagram</em></p><p></p>
+    caption: >-
+      <p><strong>3.</strong> <em>Jerry Hall's Sad Instagram</em></p><p></p>
     color: F1E0DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-35.jpg
     margin_left: 25
@@ -435,7 +454,8 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     align_y: start
-    caption: <p><strong>4.</strong> <em>Eric Stonestreet AT&amp;T for BBDO</em></p>
+    caption: >-
+      <strong>4.</strong> <em>Eric Stonestreet AT&amp;T for BBDO</em></p>
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-57.jpg
     margin_left: 0
     margin_right: 10
@@ -494,7 +514,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2. </strong><em>Outside: Rob Krar Running in the Dark </em></p>
+    caption: >-
+      <strong>2. </strong><em>Outside: Rob Krar Running in the Dark </em></p>
     color: FA9176
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-41.jpg
     margin_left: 0
@@ -503,7 +524,8 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>1. </strong><em>Starting Over: Will Move for Work</em></p>
+    caption: >-
+      <strong>1. </strong><em>Starting Over: Will Move for Work</em></p>
     color: CDECEE
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-42.jpg
     margin_left: 0
@@ -573,7 +595,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>2. </strong><em>Time: Grand Canyon 100th Anniversary </em></p>
+    caption: >-
+      <strong>2. </strong><em>Time: Grand Canyon 100th Anniversary </em></p>
     color: A88568
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-48.jpg
     margin_left: 5
@@ -609,7 +632,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5. </strong><em>Makenzie Gossage</em></p>
+    caption: >-
+      <strong>5. </strong><em>Makenzie Gossage</em></p>
     color: F2D7B7
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-52.jpg
     margin_left: 15
@@ -617,7 +641,8 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>4.</strong> <em>Crazy Explosive Primeknit </em></p>
+    caption: >-
+      <strong>4.</strong> <em>Crazy Explosive Primeknit </em></p>
     color: 030303
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-53.jpg
     margin_left: 0
@@ -628,7 +653,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>3. </strong><em>Sounds of Cement</em></p>
+    caption: >-
+      <strong>3. </strong><em>Sounds of Cement</em></p>
     color: C0C0C0
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-54.jpg
     margin_left: 5
@@ -636,7 +662,8 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>5. </strong><em>Adidas Golf: Xander Schaufelle</em></p>
+    caption: >-
+      <strong>5. </strong><em>Adidas Golf: Xander Schaufelle</em></p>
     color: 959595
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-55.jpg
     margin_left: 0
@@ -647,7 +674,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: <p><strong>3. </strong><em>Sounds of Cement</em></p>
+    caption: >-
+      <strong>3. </strong><em>Sounds of Cement</em></p>
     color: 454545
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-56.jpg
     margin_left: 50

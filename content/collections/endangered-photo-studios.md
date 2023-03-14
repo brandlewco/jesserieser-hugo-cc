@@ -31,7 +31,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/Photo-Studios-Extinction
+slug: Photo-Studios-Extinction
 theme_color: FBC8B2
 theme_color_all_works: FFAC87
 title: Photo Studios Extinction

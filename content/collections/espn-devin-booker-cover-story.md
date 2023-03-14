@@ -36,7 +36,7 @@ row_alignment: between
 slug: espn-booker
 theme_color: EAC5BF
 theme_color_all_works: 
-title: ESPN: Becoming Legendary
+title: 'ESPN: Becoming Legendary'
 seo:
   meta_description: 
   meta_title: 
@@ -47,7 +47,6 @@ collection_awards:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 collection_exhibition:
   - content: |-
@@ -56,7 +55,6 @@ collection_exhibition:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 collection_layout_builder:
   - _bookshop_name: collections/media-motion
@@ -345,6 +343,5 @@ collection_press:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 ---

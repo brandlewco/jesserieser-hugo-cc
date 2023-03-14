@@ -65,7 +65,6 @@ collection_exhibition:
       _Grand Canyon National Park 100_  
       Etherton Gallery  
       Tucson, AZ (Group Show)
-    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between

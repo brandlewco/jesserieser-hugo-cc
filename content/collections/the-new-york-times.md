@@ -55,7 +55,6 @@ collection_awards:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 collection_exhibition:
   - content: |-
@@ -64,7 +63,6 @@ collection_exhibition:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -431,6 +429,5 @@ collection_press:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
-    template: popup-text-element
     url: 
 ---

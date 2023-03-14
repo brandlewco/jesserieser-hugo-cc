@@ -66,7 +66,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/the-class-of-99-turns-30
+slug: the-class-of-99-turns-30
 theme_color: D4725F
 theme_color_all_works: BC75FF
 title: The Class of 99 Turns 30
@@ -352,6 +352,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row-end
 collection_press:
-  - content: [**_LENSCRATCH_**](http://lenscratch.com/2011/06/jesse-rieser-2/)
+  - content: >-
+      **_LENSCRATCH_**](http://lenscratch.com/2011/06/jesse-rieser-2/)
     template: popup-text-element
 ---

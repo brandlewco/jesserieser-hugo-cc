@@ -47,7 +47,7 @@ collection_description: >-
 collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
-collection_meta: UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
+collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-2.jpg

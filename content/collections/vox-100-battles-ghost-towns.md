@@ -68,7 +68,7 @@ row_alignment: between
 slug: vox-ghosttowns
 theme_color: FFD0D0
 theme_color_all_works: 
-title: Vox: 100 Battles 
+title: 'Vox: 100 Battles'
 seo:
   meta_description: 
   meta_title: 

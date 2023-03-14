@@ -41,7 +41,6 @@ collection_awards:
   - content: |-
       **2016**  
       _AP 32: American Photography Annual 32_
-    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between

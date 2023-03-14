@@ -61,15 +61,15 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/when-fall-came-early
+slug: when-fall-came-early
 theme_color: E1EAED
 theme_color_all_works: 7BC8FF
-title: When Fall Came Early:
+title: 'When Fall Came Early:'
 seo:
   meta_description: >-
     This is a study of how climate change is altering the landscape and the
     backdrop to my childhood, my beloved Ozark Mountains.
-  meta_title: When Fall Came Early: Drought Along the Arkansas River Basin
+  meta_title: 'When Fall Came Early: Drought Along the Arkansas River Basin'
 collection_awards:
   - content: |-
       **2015**  
@@ -153,6 +153,7 @@ collection_press:
       [**_MSNBC. Feature and
       Interview._**](http://www.msnbc.com/msnbc/when-fall-came-early)
     template: popup-text-element
-  - content: **_AARP Earth Day Feature_**
+  - content: >-
+      **_AARP Earth Day Feature_**
     template: popup-text-element
 ---

@@ -41,10 +41,10 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: Arizona-Lottery
+slug: arizona-lottery
 theme_color: CFE7DF
 theme_color_all_works: A8EFDB
-title: Arizona Lottery: Welcome Back Willie
+title: 'Arizona Lottery: Welcome Back Willie'
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between

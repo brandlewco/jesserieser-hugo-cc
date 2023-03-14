@@ -43,21 +43,19 @@ row_alignment: between
 slug: adobe
 theme_color: CEF7C5
 theme_color_all_works: FF8F47
-title: Adobe: Turn Up the Vibrancy
+title: 'Adobe: Turn Up the Vibrancy'
 seo:
-  meta_title: Adobe: Turn Up the Vibrancy. Make it pop. Make it louder
+  meta_title: 'Adobe: Turn Up the Vibrancy. Make it pop. Make it louder'
 collection_awards:
   - content: |-
       **2019**  
       _AP 35: American Photography Annual 35_  
       Best Personal Work Series:
-    template: popup-text-element
 collection_exhibition:
   - content: |-
       **2019**  
       _Chaos Theory 20_  
       Legend City Gallery. Phoenix, AZ (Group Show)
-    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -225,7 +223,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    caption: <p>Sheets on head</p>
+    caption: >-
+      Sheets on head</p>
     color: F3E2B6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-17.jpg
     margin_left: 35
@@ -260,5 +259,4 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: _LoDown Magazine_ _(Germany)_
-    template: popup-text-element
 ---

@@ -63,7 +63,7 @@ layout: blocks
 navigation_theme: white
 px_extra: true
 row_alignment: between
-slug: projects/folklore
+slug: folklore
 theme_color: F1DCC4
 theme_color_all_works: 
 title: A Vanishing Folklore

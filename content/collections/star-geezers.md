@@ -311,12 +311,9 @@ collection_blocks:
 collection_press:
   - content: >-
       [**_VICE_**](https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space)
-    template: popup-text-element
   - content: >-
       [**_BOOOOOOOM_**](https://www.booooooom.com/2020/02/11/the-star-stargeezers-by-photographer-jesse-rieser/)
-    template: popup-text-element
   - content: >-
       [**_Fish Eye
       Magazine_**](https://www.fisheyemagazine.fr/decouvertes/images/the-star-geezers-a-la-belle-etoile/)
-    template: popup-text-element
 ---

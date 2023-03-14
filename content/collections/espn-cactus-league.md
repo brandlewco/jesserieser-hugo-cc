@@ -189,7 +189,5 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: _PDN Photo of the Day_
-    template: popup-text-element
   - content: Press List Item
-    template: popup-text-element
 ---

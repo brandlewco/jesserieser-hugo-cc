@@ -102,7 +102,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/changing-landscape-american-retail
+slug: changing-landscape-american-retail
 theme_color: E9DCD0
 theme_color_all_works: F1A4FF
 title: The Changing Landscape of American Retail
@@ -347,7 +347,8 @@ collection_press:
   - content: >-
       [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
     template: popup-text-element
-  - content: [_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)
+  - content: >-
+      [_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)
     template: popup-text-element
   - content: >-
       [_Architectural
@@ -361,9 +362,11 @@ collection_press:
       [_Business
       Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
     template: popup-text-element
-  - content: [_Fraction Magazine #131_](http://www.fractionmagazine.com/jesse-rieser)
+  - content: >-
+      ["_Fraction Magazine 131_"](http://www.fractionmagazine.com/jesse-rieser)
     template: popup-text-element
-  - content: _Blkswn (Japan)_ 
+  - content: >-
+      _Blkswn (Japan)_ 
     template: popup-text-element
   - content: >-
       [_BOOOOOOOM 64 x 64: Best of

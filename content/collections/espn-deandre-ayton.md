@@ -59,7 +59,7 @@ collection_description_alignment: center
 collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
-collection_meta: Dominayton: Why Deandre Ayton Cant Live Without Video Games
+collection_meta: 'Dominayton: Why Deandre Ayton Cant Live Without Video Games'
 collection_meta_2: 
 collection_press: []
 collection_preview:

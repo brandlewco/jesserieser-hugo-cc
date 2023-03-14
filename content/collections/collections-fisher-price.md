@@ -44,21 +44,19 @@ px_extra: true
 slug: fisher-price
 theme_color: E0AADC
 theme_color_all_works: FFE27A
-title: Fisher Price: Play is a Place 
+title: 'Fisher Price: Play is a Place'
 collection_awards:
   - content: |-
       **2019**  
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
 collection_exhibition:
   - content: |-
       **2019**  
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -273,5 +271,4 @@ collection_press:
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
 ---

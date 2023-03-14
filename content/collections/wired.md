@@ -87,7 +87,6 @@ collection_awards:
       **2020**  
       _AP 36 American Photography Annual 36_  
       Best Editorial Work Series
-    template: popup-text-element
 collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start

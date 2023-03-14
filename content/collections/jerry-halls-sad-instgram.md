@@ -29,7 +29,7 @@ hide_footer: true
 layout: blocks
 logo: 
 navigation_theme: white
-slug: projects/Jerry-Halls-Sad-Instagram
+slug: Jerry-Halls-Sad-Instagram
 theme_color: E9DED1
 theme_color_all_works: FFBF6A
 title: Jerry Hall's Sad Instagram

@@ -76,7 +76,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 px_extra: true
-slug: projects/the-wallow-fire
+slug: the-wallow-fire
 theme_color: D8E1E1
 theme_color_all_works: ED5C5C
 title: The Wallow Fire
@@ -296,6 +296,7 @@ collection_press:
       [**_Duncan Miller Gallery: Your Daily
       Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
     template: popup-text-element
-  - content: [**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)
+  - content: >-
+      **_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)
     template: popup-text-element
 ---
