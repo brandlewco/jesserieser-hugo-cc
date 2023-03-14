@@ -1,7 +1,7 @@
 ---
 collection_archive: true
 collection_category:
-  - 'Exhibited Works '
+  - Exhibited Works 
   - Award Winning
   - Editorial
   - Science
@@ -32,8 +32,8 @@ collection_content: >-
   their quiet brutality. The photos are a prescient expression of the fear and
   anger 400,000 people gave voice to in September 2014 during the People’s
   Climate March in New York City, days before the United Nations climate summit.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-31.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-31.jpg
 collection_description: >-
   This is a study of how climate change is altering the landscape and the
   backdrop to my childhood, my beloved Ozark Mountains. The most severe drought
@@ -49,27 +49,27 @@ collection_exhibition: []
 collection_filter: Personal
 collection_hidden: false
 collection_meta: The Drought Along the Arkansas River Basin
-collection_meta_2: '2014'
+collection_meta_2: 2014
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-4.jpg'
-cover_image: 'https://d1sf55qlb7p6hz.cloudfront.net/social-4.jpg'
-date: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-4.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-4.jpg
+date: 
 layout: blocks
-logo: ''
+logo: 
 navigation_theme: white
 px_extra: true
 slug: projects/when-fall-came-early
-theme_color: '#E1EAED'
-theme_color_all_works: '#7BC8FF'
-title: 'When Fall Came Early:'
+theme_color: #E1EAED
+theme_color_all_works: #7BC8FF
+title: When Fall Came Early:
 seo:
   meta_description: >-
     This is a study of how climate change is altering the landscape and the
     backdrop to my childhood, my beloved Ozark Mountains.
-  meta_title: 'When Fall Came Early: Drought Along the Arkansas River Basin'
+  meta_title: When Fall Came Early: Drought Along the Arkansas River Basin
 collection_awards:
   - content: |-
       **2015**  
@@ -86,73 +86,73 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F1CDA5'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-1.jpg'
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '50'
-    width: '50'
+    color: #F1CDA5
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-1.jpg
+    margin_left: 35
+    margin_right: 0
+    margin_y: 50
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FF7E69'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg'
-    margin_left: '5'
-    margin_y: '100'
-    width: '40'
+    color: #FF7E69
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg
+    margin_left: 5
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#E5F3F0'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-3.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '45'
+    color: #E5F3F0
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-3.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 300
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     block: media-element
-    color: '#EEEBE6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-4.jpg'
-    margin_left: '30'
-    margin_right: '25'
-    margin_y: '100'
-    width: '40'
+    color: #EEEBE6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-4.jpg
+    margin_left: 30
+    margin_right: 25
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#C6DC87'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-5.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    color: #C6DC87
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-5.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FFE29A'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-6.jpg'
-    margin_right: '15'
-    margin_y: '700'
-    width: '25'
+    color: #FFE29A
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-6.jpg
+    margin_right: 15
+    margin_y: 700
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F2AE73'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/fall-7.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '200'
-    width: '60'
+    color: #F2AE73
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fall-7.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 200
+    width: 60
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: >-
       [**_MSNBC. Feature and
       Interview._**](http://www.msnbc.com/msnbc/when-fall-came-early)
     template: popup-text-element
-  - content: '**_AARP Earth Day Feature_**'
+  - content: **_AARP Earth Day Feature_**
     template: popup-text-element
 ---

@@ -34,8 +34,8 @@ collection_content: >-
   other opportunities to use borrowed money to invest in assets that can rise in
   value over time. Price appreciation lets owners accrue wealth and then tap
   their equity when they have a large or unexpected expense.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/rent_cover-1.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/rent_vertical-cover-1.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rent_cover-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rent_vertical-cover-1.jpg
 collection_description: >-
   Wall Street is buying starter homes to quietly become America’s landlord,
   promoting a new vision of the America dream: paying rent. Pictured is a
@@ -46,15 +46,15 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Rent is too Damn High
-collection_meta_2: ''
+collection_meta_2: 
 collection_press: []
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-6.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-4.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-5.jpg'
-cover_image: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-5.jpg
+cover_image: 
 date: 2022-03-07T21:43:40.000Z
 hide_footer: false
 layout: blocks
@@ -62,176 +62,176 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: bloomberg-rent
-theme_color: '#C6E3FF'
-theme_color_all_works: ''
+theme_color: #C6E3FF
+theme_color_all_works: 
 title: Bloomberg Business Week
 seo:
-  meta_description: ''
-  meta_title: ''
+  meta_description: 
+  meta_title: 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F2E5F9'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-1.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
+    caption: 
+    color: #F2E5F9
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-1.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 100
+    width: 70
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E1F0FB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-2.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '400'
-    width: '50'
+    caption: 
+    color: #E1F0FB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-2.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 400
+    width: 50
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FBF4E3'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-3.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    caption: 
+    color: #FBF4E3
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-3.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FBE4E4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-4.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    caption: 
+    color: #FBE4E4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-4.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FDF6D3'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-5.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '700'
-    width: '20'
+    caption: 
+    color: #FDF6D3
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-5.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 700
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#EEE3F4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-6.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    caption: 
+    color: #EEE3F4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-6.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E6FFFC'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-11.jpg'
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    caption: 
+    color: #E6FFFC
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-11.jpg
+    margin_left: 40
+    margin_right: 0
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F7EFDB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-7.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    caption: 
+    color: #F7EFDB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-7.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFE7E7'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-15.jpg'
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '200'
-    width: '25'
+    caption: 
+    color: #FFE7E7
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-15.jpg
+    margin_left: 0
+    margin_right: 15
+    margin_y: 200
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#D8FDDA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-10.jpg'
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    caption: 
+    color: #D8FDDA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-10.jpg
+    margin_left: 25
+    margin_right: 0
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFF0E0'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-8.jpg'
-    margin_left: '65'
-    margin_right: '0'
-    margin_y: '100'
-    width: '20'
+    caption: 
+    color: #FFF0E0
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-8.jpg
+    margin_left: 65
+    margin_right: 0
+    margin_y: 100
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFE3FE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-12.jpg'
-    margin_left: '45'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    caption: 
+    color: #FFE3FE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-12.jpg
+    margin_left: 45
+    margin_right: 0
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E6FEFD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-13.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    caption: 
+    color: #E6FEFD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-13.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFE4E4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rent-14.jpg'
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    caption: 
+    color: #FFE4E4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-14.jpg
+    margin_left: 30
+    margin_right: 0
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row-end
 ---

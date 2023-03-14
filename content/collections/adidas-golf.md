@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'Adidas Golf: Adicross'
+title: 'Adidas Golf: Adicross
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -30,7 +30,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '272727'
+    color: 272727
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-4.jpg
     margin_left: 20
     margin_y: 100
@@ -86,7 +86,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '565656'
+    color: 565656
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-11.jpg
     margin_left: 40
     margin_y: 100
@@ -94,7 +94,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '282828'
+    color: 282828
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
     margin_left:
     margin_right:
@@ -103,7 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '565656'
+    color: 565656
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-13.jpg
     margin_left: 10
     margin_right:
@@ -112,7 +112,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '191919'
+    color: 191919
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-14.jpg
     margin_left: 25
     margin_y: 100
@@ -159,7 +159,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '818181'
+    color: 818181
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-20.jpg
     margin_left: 15
     margin_right:
@@ -200,7 +200,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '797979'
+    color: 797979
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-25.jpg
     margin_left: 45
     margin_y: 100
@@ -224,7 +224,7 @@ collection_blocks:
     margin_y: 300
     width: 20
   - _bookshop_name: collections/media-element
-    color: '747474'
+    color: 747474
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-27.jpg
     margin_right: 5
     margin_y: 100
@@ -232,7 +232,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '979797'
+    color: 979797
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-29.jpg
     margin_left: 15
     margin_y: 100
@@ -240,7 +240,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '555555'
+    color: 555555
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-30.jpg
     margin_left: 35
     margin_y: 100
@@ -248,7 +248,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '919191'
+    color: 919191
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-31.jpg
     margin_left: 20
     margin_y: 100
@@ -279,8 +279,8 @@ collection_category:
   - Environments
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#b8eebc'
-theme_color_all_works: '#e69dfb'
+theme_color: #b8eebc
+theme_color_all_works: #e69dfb
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-9.jpg
 collection_preview:

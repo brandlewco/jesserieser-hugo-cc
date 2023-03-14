@@ -41,8 +41,8 @@ collection_content: >-
   develop crops that can produce biofuels, reducing reliance on fossil fuels. It
   could also help identify food crops that can thrive in drier, hotter
   conditions as climates change.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-45.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-45.jpg
 collection_description: >-
   On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
   that could help feed impoverished countries and fuel American cars.⁠ The
@@ -57,149 +57,149 @@ collection_hidden: false
 collection_meta: The Field Scanalyzer
 collection_press: []
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg'
-cover_image: ''
-date: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg
+cover_image: 
+date: 
 hide_footer: false
 layout: blocks
-logo: ''
+logo: 
 navigation_theme: white
 px_extra: true
 slug: wall-street-journal-robot
-theme_color: '#B8EEBC'
-theme_color_all_works: '#6D94FF'
+theme_color: #B8EEBC
+theme_color_all_works: #6D94FF
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FCD79E'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg'
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    color: #FCD79E
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
+    margin_left: 30
+    margin_right: 0
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#BBD2E5'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg'
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    color: #BBD2E5
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
+    margin_left: 0
+    margin_right: 0
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#D4E3C8'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-3.jpg'
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '700'
-    width: '40'
+    color: #D4E3C8
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-3.jpg
+    margin_left: 0
+    margin_right: 0
+    margin_y: 700
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FAEBBE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg'
-    margin_left: '25'
-    margin_y: '100'
-    width: '50'
+    color: #FAEBBE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
+    margin_left: 25
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#DBE0EB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    color: #DBE0EB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#EEE6D9'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg'
-    margin_left: '0'
-    margin_right: '30'
-    margin_y: '600'
-    width: '20'
+    color: #EEE6D9
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
+    margin_left: 0
+    margin_right: 30
+    margin_y: 600
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F4D4BB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    color: #F4D4BB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F55656'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg'
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    color: #F55656
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
+    margin_left: 0
+    margin_right: 0
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#C5C1DA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg'
-    margin_left: '10'
-    margin_y: '200'
-    width: '40'
+    color: #C5C1DA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
+    margin_left: 10
+    margin_y: 200
+    width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F1EFB3'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg'
-    margin_left: '0'
-    margin_right: '25'
-    margin_y: '700'
-    width: '20'
+    color: #F1EFB3
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
+    margin_left: 0
+    margin_right: 25
+    margin_y: 700
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F0DDCA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg'
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
+    color: #F0DDCA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
+    margin_left: 20
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#EDE8E4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    color: #EDE8E4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#000000'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg'
-    margin_left: '0'
-    margin_right: '25'
-    margin_y: '400'
-    width: '40'
+    color: #000000
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg
+    margin_left: 0
+    margin_right: 25
+    margin_y: 400
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#1C1733'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg'
-    margin_left: '15'
-    margin_y: '100'
-    width: '70'
+    color: #1C1733
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
+    margin_left: 15
+    margin_y: 100
+    width: 70
   - _bookshop_name: collections/media-row-end
 ---

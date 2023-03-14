@@ -45,8 +45,8 @@ collection_content: >-
 
 
   Article by Christine Biederman and assigned by Beth Holder and Anna Alexander.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-13.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-13.jpg
 collection_description: >-
   I photographed Michael Lacey and Jim Larkin as they await trial for owning and
   operating the online classified giant Backpage.com. Backpage was the red-light
@@ -67,20 +67,20 @@ collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: "Backpage.com\_Cover Story"
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-4.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-6.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-1-1.jpg'
-cover_image: 'https://d1sf55qlb7p6hz.cloudfront.net/social-28.jpg'
-date: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/backpage_covers-1-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-28.jpg
+date: 
 layout: blocks
-logo: ''
+logo: 
 navigation_theme: white
 px_extra: true
 slug: wired-magazine
-theme_color: '#F6E3CD'
-theme_color_all_works: '#FFCC95'
+theme_color: #F6E3CD
+theme_color_all_works: #FFCC95
 title: Wired Magazine
 collection_awards:
   - content: |-
@@ -91,168 +91,168 @@ collection_awards:
 collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
-    color: '#090909'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    color: #090909
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
     align_y: start
-    color: '#0A0A0B'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-1b-single.jpg'
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '500'
-    width: '20'
+    color: #0A0A0B
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1b-single.jpg
+    margin_left: 0
+    margin_right: 15
+    margin_y: 500
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     align_y: start
     block: media-element
-    caption: ''
-    color: '#E4D3BF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg'
-    margin_left: '35'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #E4D3BF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
+    margin_left: 35
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#8AADC9'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg'
-    margin_left: '25'
-    margin_y: '100'
-    width: '50'
+    caption: 
+    color: #8AADC9
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
+    margin_left: 25
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#C36945'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-5.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '300'
-    width: '33'
+    caption: 
+    color: #C36945
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-5.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 300
+    width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#D5DA9E'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-4.jpg'
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '100'
-    width: '33'
+    caption: 
+    color: #D5DA9E
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-4.jpg
+    margin_left: 0
+    margin_right: 15
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#8ABBB6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-8.jpg'
-    margin_left: '25'
-    margin_y: '100'
-    width: '50'
+    caption: 
+    color: #8ABBB6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-8.jpg
+    margin_left: 25
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#F9F8F6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg'
-    margin_left: '0'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #F9F8F6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg
+    margin_left: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#4D4D4D'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-10.jpg'
-    margin_right: '15'
-    margin_y: '300'
-    width: '45'
+    caption: 
+    color: #4D4D4D
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-10.jpg
+    margin_right: 15
+    margin_y: 300
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#979797'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-7.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    caption: 
+    color: #979797
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-7.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#E2DFDF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-6.jpg'
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    caption: 
+    color: #E2DFDF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-6.jpg
+    margin_left: 40
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - block: media-element
-    color: '#1E1E1E'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-11b-single.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    color: #1E1E1E
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-11b-single.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
     align_y: start
-    color: '#FFD279'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-11c-single.jpg'
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '300'
-    width: '25'
+    color: #FFD279
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-11c-single.jpg
+    margin_left: 0
+    margin_right: 15
+    margin_y: 300
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     block: media-element
-    caption: ''
-    color: '#B7B7B7'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-13.jpg'
-    margin_left: '25'
-    margin_y: '400'
-    width: '40'
+    caption: 
+    color: #B7B7B7
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-13.jpg
+    margin_left: 25
+    margin_y: 400
+    width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#535353'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-12.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '25'
+    caption: 
+    color: #535353
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-12.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 100
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#424242'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-14.jpg'
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    caption: 
+    color: #424242
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-14.jpg
+    margin_left: 30
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    caption: ''
-    color: '#A2A2A2'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/backpage-15.jpg'
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
+    caption: 
+    color: #A2A2A2
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-15.jpg
+    margin_left: 20
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row-end
 ---

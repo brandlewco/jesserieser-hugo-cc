@@ -3,7 +3,7 @@ attached_gallery: gallery/retail.md
 collection_archive: false
 collection_category:
   - Award Winning
-  - 'Exhibited Works '
+  - Exhibited Works 
   - Tech
   - Environments
   - Workplace
@@ -73,8 +73,8 @@ collection_content: >-
   past and peering into the future, serving as a metaphor of how technology is
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-2.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-2.jpg
 collection_description: >-
   Like memories, familiar retail entities are fading away as they stand as
   modern-day ruins from the not-so-distant past. This work documents the shift
@@ -92,19 +92,19 @@ collection_filter: Personal
 collection_hidden: false
 collection_meta: 2015 - 2022
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-4.jpg'
-cover_image: 'https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg'
-date: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-4.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
+date: 
 layout: blocks
-logo: ''
+logo: 
 navigation_theme: white
 px_extra: true
 slug: projects/changing-landscape-american-retail
-theme_color: '#E9DCD0'
-theme_color_all_works: '#F1A4FF'
+theme_color: #E9DCD0
+theme_color_all_works: #F1A4FF
 title: The Changing Landscape of American Retail
 collection_awards:
   - content: |-
@@ -153,191 +153,191 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#D5E6F1'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-1.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    color: #D5E6F1
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-1.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FCCEB1'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-3.jpg'
-    margin_left: '10'
-    margin_y: '400'
-    width: '45'
+    color: #FCCEB1
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-3.jpg
+    margin_left: 10
+    margin_y: 400
+    width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F2DED6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    color: #F2DED6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg
+    margin_right: 5
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#DAF0E7'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-4.jpg'
-    margin_left: '20'
-    margin_y: '100'
-    width: '50'
+    color: #DAF0E7
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-4.jpg
+    margin_left: 20
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F8F2F7'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-5.jpg'
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    color: #F8F2F7
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-5.jpg
+    margin_left: 35
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FBE5D2'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-6.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    color: #FBE5D2
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-6.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FF8E7D'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg'
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '400'
-    width: '33'
+    color: #FF8E7D
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
+    margin_left: 0
+    margin_right: 10
+    margin_y: 400
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#DCDEE5'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    color: #DCDEE5
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FFDFC9'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-10.jpg'
-    margin_left: '10'
-    margin_y: '600'
-    width: '33'
+    color: #FFDFC9
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-10.jpg
+    margin_left: 10
+    margin_y: 600
+    width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#E0F3EB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-9.jpg'
-    margin_right: '5'
-    margin_y: '100'
-    width: '45'
+    color: #E0F3EB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-9.jpg
+    margin_right: 5
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F5ECBA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-11.jpg'
-    margin_left: '35'
-    margin_y: '100'
-    width: '40'
+    color: #F5ECBA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-11.jpg
+    margin_left: 35
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F3E7DD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-12.jpg'
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    color: #F3E7DD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-12.jpg
+    margin_left: 25
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F0CDC4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-13.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    color: #F0CDC4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-13.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#A9CFFD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-14.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '50'
+    color: #A9CFFD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-14.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 400
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#EDD5BE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    color: #EDD5BE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FBE6DF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-17.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '300'
-    width: '45'
+    color: #FBE6DF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-17.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 300
+    width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#F3ECE4'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-16.jpg'
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
-    width: '33'
+    color: #F3ECE4
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-16.jpg
+    margin_left: 0
+    margin_right: 10
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FCE6C8'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-18.jpg'
-    margin_left: '35'
-    margin_y: '100'
-    width: '30'
+    color: #FCE6C8
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-18.jpg
+    margin_left: 35
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#D9D1CE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-19.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '45'
+    color: #D9D1CE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-19.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#FBF9E1'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-20.jpg'
-    margin_right: '5'
-    margin_y: '600'
-    width: '40'
+    color: #FBF9E1
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-20.jpg
+    margin_right: 5
+    margin_y: 600
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '#E0EAE7'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/retail-21.jpg'
-    margin_left: '15'
-    margin_y: '100'
-    width: '66'
+    color: #E0EAE7
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-21.jpg
+    margin_left: 15
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: >-
@@ -347,7 +347,7 @@ collection_press:
   - content: >-
       [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
     template: popup-text-element
-  - content: '[_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)'
+  - content: [_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)
     template: popup-text-element
   - content: >-
       [_Architectural
@@ -361,9 +361,9 @@ collection_press:
       [_Business
       Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
     template: popup-text-element
-  - content: '[_Fraction Magazine #131_](http://www.fractionmagazine.com/jesse-rieser)'
+  - content: [_Fraction Magazine #131_](http://www.fractionmagazine.com/jesse-rieser)
     template: popup-text-element
-  - content: '_Blkswn (Japan)_ '
+  - content: _Blkswn (Japan)_ 
     template: popup-text-element
   - content: >-
       [_BOOOOOOOM 64 x 64: Best of

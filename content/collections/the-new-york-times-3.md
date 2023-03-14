@@ -63,8 +63,8 @@ collection_content: >-
   where you 110 percent believe that you are the right man for the job. And if
   other people don’t see it, then they’re wrong, and you have to show them
   that.”
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-cover.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/minors_vertical-cover-1.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/minors-cover.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/minors_vertical-cover-1.jpg
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
   Kruger are getting ready for another season of long bus rides and longer odds.
@@ -72,21 +72,21 @@ collection_description_alignment: center
 collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
-collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: ''
+collection_meta: "You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs
+collection_meta_2: 
 collection_press: []
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-5.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-8.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-6.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-7.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-4.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-2.jpg'
-cover_image: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-2.jpg
+cover_image: 
 date: 2022-03-07T21:51:48.000Z
 hide_footer: false
 layout: blocks
@@ -94,193 +94,193 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: nytimes-jackkruger
-theme_color: '#FFBDD6'
-theme_color_all_works: ''
+theme_color: #FFBDD6
+theme_color_all_works: 
 title: The New York Times
 seo:
-  meta_description: ''
+  meta_description: 
   meta_title: The New York Times. A Minor Leaguer's Hard Road to the Bigs
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E1F3DD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    caption: 
+    color: #E1F3DD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E1F9FB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '900'
-    width: '20'
+    caption: 
+    color: #E1F9FB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 900
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FBEBD6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg'
-    margin_left: '45'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    caption: 
+    color: #FBEBD6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg
+    margin_left: 45
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    caption: ''
-    color: '#E4F6FE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-4.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    caption: 
+    color: #E4F6FE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-4.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 100
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFD9CF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-5.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #FFD9CF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-5.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#DDF5DA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-6.jpg'
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '300'
-    width: '50'
+    caption: 
+    color: #DDF5DA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-6.jpg
+    margin_left: 0
+    margin_right: 10
+    margin_y: 300
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F7F7D0'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg'
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    caption: 
+    color: #F7F7D0
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg
+    margin_left: 25
+    margin_right: 0
+    margin_y: 100
+    width: 25
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E0EFFF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg'
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '300'
-    width: '20'
+    caption: 
+    color: #E0EFFF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg
+    margin_left: 0
+    margin_right: 20
+    margin_y: 300
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F0E7FF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg'
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    caption: 
+    color: #F0E7FF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg
+    margin_left: 10
+    margin_right: 0
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#D8F9FD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '800'
-    width: '25'
+    caption: 
+    color: #D8F9FD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 800
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E6FFEA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg'
-    margin_left: '50'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #E6FFEA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg
+    margin_left: 50
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E6FBD0'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-12.jpg'
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '400'
-    width: '40'
+    caption: 
+    color: #E6FBD0
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-12.jpg
+    margin_left: 20
+    margin_right: 0
+    margin_y: 400
+    width: 40
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FBEACD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-14.jpg'
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
-    width: '20'
+    caption: 
+    color: #FBEACD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-14.jpg
+    margin_left: 0
+    margin_right: 10
+    margin_y: 100
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E6F3FE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-13.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    caption: 
+    color: #E6F3FE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-13.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FDF9EA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-15.jpg'
-    margin_left: '0'
-    margin_right: '25'
-    margin_y: '300'
-    width: '30'
+    caption: 
+    color: #FDF9EA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-15.jpg
+    margin_left: 0
+    margin_right: 25
+    margin_y: 300
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F9E0E1'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/minors-16.jpg'
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    caption: 
+    color: #F9E0E1
+    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-16.jpg
+    margin_left: 25
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row-end
 ---

@@ -34,7 +34,7 @@ collection_content: >-
   I finally separated myself from Ryan as the No. 2 of the Phoenix Suns front
   office. I finally looked at my personal life and I realized just how deeply
   unhappy I was. The hardest part then was saying, 'What are you afraid of? Why
-  are you actually afraid to admit who you are and tell the world who you are?'
+  are you actually afraid to admit who you are and tell the world who you are?
 
 
   When I decided to come out this season, I knew I was going to go all in and
@@ -42,8 +42,8 @@ collection_content: >-
   close friends -- and to my people at Baylor, to my actual family, to my best
   friends, and, put myself out there and not hide it, not run from it any
   longer.
-collection_cover: 'https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-9.jpg'
-collection_cover_mobile: 'https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-16.jpg'
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-9.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-16.jpg
 collection_description: >-
   Gay people have made strides in many sectors of American professional life. An
   openly gay man runs Apple, presides as the governor of Colorado, and an open
@@ -53,16 +53,16 @@ collection_description_alignment: center
 collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
-collection_meta: 'Ryan Resch: The First Openly Gay NBA Executive '
-collection_meta_2: ''
+collection_meta: Ryan Resch: The First Openly Gay NBA Executive 
+collection_meta_2: 
 collection_press: []
 collection_preview:
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-4.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-3.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-2.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-1.jpg'
-  - 'https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-5.jpg'
-cover_image: ''
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ryan-5.jpg
+cover_image: 
 date: 2022-07-21T01:26:21.000Z
 hide_footer: false
 layout: blocks
@@ -70,113 +70,113 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: espn-Ryan-Resch
-theme_color: '#B2F3A0'
-theme_color_all_works: ''
+theme_color: #B2F3A0
+theme_color_all_works: 
 title: ESPN
 seo:
-  meta_description: ''
-  meta_title: ''
+  meta_description: 
+  meta_title: 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F3EEDD'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-1.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    caption: 
+    color: #F3EEDD
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-1.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E1F9FB'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-2.jpg'
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #E1F9FB
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-2.jpg
+    margin_left: 0
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FBEBD6'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-3.jpg'
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '600'
-    width: '40'
+    caption: 
+    color: #FBEBD6
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-3.jpg
+    margin_left: 0
+    margin_right: 10
+    margin_y: 600
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    caption: ''
-    color: '#E4F6FE'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-4.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '200'
-    width: '60'
+    caption: 
+    color: #E4F6FE
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-4.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 200
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#FFD9CF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-5.jpg'
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '20'
+    caption: 
+    color: #FFD9CF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-5.jpg
+    margin_left: 5
+    margin_right: 0
+    margin_y: 100
+    width: 20
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#DDF5DA'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-6.jpg'
-    margin_left: '0'
-    margin_right: '35'
-    margin_y: '400'
-    width: '33'
+    caption: 
+    color: #DDF5DA
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-6.jpg
+    margin_left: 0
+    margin_right: 35
+    margin_y: 400
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F7F7D0'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-7.jpg'
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    caption: 
+    color: #F7F7D0
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-7.jpg
+    margin_left: 15
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#E0EFFF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-8.jpg'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '45'
+    caption: 
+    color: #E0EFFF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-8.jpg
+    margin_left: 0
+    margin_right: 5
+    margin_y: 400
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: ''
+    align_y: 
     block: media-element
-    caption: ''
-    color: '#F0E7FF'
-    image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-9.jpg'
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    caption: 
+    color: #F0E7FF
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-9.jpg
+    margin_left: 30
+    margin_right: 0
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row-end
 ---
