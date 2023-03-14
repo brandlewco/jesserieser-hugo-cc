@@ -36,15 +36,15 @@ layout: blocks
 logo: 
 navigation_theme: white
 slug: partying-with-puig
-theme_color: #86D0F7
-theme_color_all_works: #D587FF
+theme_color: 86D0F7
+theme_color_all_works: D587FF
 title: ESPN The Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBF2E9
+    color: FBF2E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-1.jpg
     margin_left: 25
     margin_right: 0
@@ -54,7 +54,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #D7E0ED
+    color: D7E0ED
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-2b-single.jpg
     margin_left: 5
     margin_right: 0
@@ -62,7 +62,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #FEF7F2
+    color: FEF7F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-2c-single.jpg
     margin_left: 0
     margin_right: 25
@@ -72,7 +72,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6DDCB
+    color: F6DDCB
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-3.jpg
     margin_left: 55
     margin_right: 0
@@ -82,7 +82,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #E6DCD7
+    color: E6DCD7
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-4b-single.jpg
     margin_left: 20
     margin_right: 0
@@ -90,7 +90,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #E4EEF9
+    color: E4EEF9
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-4c-single.jpg
     margin_left: 0
     margin_right: 35
@@ -100,7 +100,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6E8DC
+    color: F6E8DC
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-5.jpg
     margin_left: 30
     margin_y: 100
@@ -109,7 +109,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #FEDDBF
+    color: FEDDBF
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-6b-single.jpg
     margin_left: 40
     margin_right: 0
@@ -117,7 +117,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #C4EAE1
+    color: C4EAE1
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-6c-single.jpg
     margin_left: 0
     margin_right: 5
@@ -127,7 +127,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #F3E7E1
+    color: F3E7E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-8b-single.jpg
     margin_left: 5
     margin_right: 0
@@ -135,7 +135,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #FACFD1
+    color: FACFD1
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-8c-single.jpg
     margin_right: 55
     margin_y: 100
@@ -144,14 +144,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F7E7DA
+    color: F7E7DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-7.jpg
     margin_left: 20
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DCE4F2
+    color: DCE4F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-9.jpg
     margin_left: 0
     margin_right: 10
@@ -161,7 +161,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5E0D4
+    color: F5E0D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-10.jpg
     margin_left: 25
     margin_y: 100

@@ -40,8 +40,8 @@ navigation_theme: black
 px_extra: true
 row_alignment: between
 slug: gunsite
-theme_color: #B0FFC5
-theme_color_all_works: #F8FDA8
+theme_color: B0FFC5
+theme_color_all_works: F8FDA8
 title: Wired Magazine
 seo:
   meta_description: 
@@ -61,7 +61,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DCE3F3
+    color: DCE3F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-1.jpg
     margin_left: 20
     margin_right: 0
@@ -73,7 +73,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EFE5DD
+    color: EFE5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-2.jpg
     margin_left: 0
     margin_right: 0
@@ -83,7 +83,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #C6E2D4
+    color: C6E2D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-3.jpg
     margin_left: 0
     margin_right: 5
@@ -107,7 +107,7 @@ collection_blocks:
     template: block-media-text
     text: _“You ask yourself, Is my world safe?’_
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 6xl
     text_tracking: normal
     width: 60
@@ -117,7 +117,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8D7E3
+    color: D8D7E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-4.jpg
     margin_left: 5
     margin_right: 0
@@ -127,7 +127,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EDE5DE
+    color: EDE5DE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-5.jpg
     margin_left: 0
     margin_right: 15
@@ -139,7 +139,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EFCAB3
+    color: EFCAB3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-6.jpg
     margin_left: 45
     margin_right: 0
@@ -151,7 +151,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F8EBCC
+    color: F8EBCC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-7.jpg
     margin_left: 35
     margin_right: 0
@@ -163,7 +163,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DCEDF8
+    color: DCEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-8.jpg
     margin_left: 20
     margin_right: 0
@@ -175,7 +175,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F3E1D4
+    color: F3E1D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-9.jpg
     margin_left: 5
     margin_right: 0
@@ -185,7 +185,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F4DFE7
+    color: F4DFE7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-10.jpg
     margin_left: 0
     margin_right: 0
@@ -211,7 +211,7 @@ collection_blocks:
       _"You should feel angry at the target,” he growled in my ear. “It’s gonna
       make you do something you’re gonna feel for the rest of your life.”_
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 4xl
     text_tracking: normal
     width: 40
@@ -221,7 +221,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D5F4F6
+    color: D5F4F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-11.jpg
     margin_left: 25
     margin_right: 0
@@ -233,7 +233,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F9D1BC
+    color: F9D1BC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-12.jpg
     margin_left: 15
     margin_right: 0
@@ -243,7 +243,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #CCE3FA
+    color: CCE3FA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-13.jpg
     margin_left: 0
     margin_right: 25
@@ -255,7 +255,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0F3D4
+    color: F0F3D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-14.jpg
     margin_left: 30
     margin_right: 0
@@ -282,7 +282,7 @@ collection_blocks:
       hunted armed men long enough and liked it, never really care for anything
       else thereafter.”_
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 4xl
     text_tracking: normal
     width: 30
@@ -290,7 +290,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EADEF4
+    color: EADEF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-15.jpg
     margin_left: 0
     margin_right: 10
@@ -302,7 +302,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D0F1F0
+    color: D0F1F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-16.jpg
     margin_left: 30
     margin_right: 0
@@ -314,7 +314,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F1E3CF
+    color: F1E3CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-17.jpg
     margin_left: 10
     margin_right: 0
@@ -326,7 +326,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D5D9F0
+    color: D5D9F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-19.jpg
     margin_left: 15
     margin_right: 0
@@ -336,7 +336,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F9DECE
+    color: F9DECE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-18.jpg
     margin_left: 0
     margin_right: 5
@@ -346,7 +346,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: #FFFFFF
+    background_color: FFFFFF
     background_image_toggle: false
     block: media-text
     caption_css: 
@@ -360,7 +360,7 @@ collection_blocks:
     template: block-media-text
     text: _“Refuse to be a victim"_
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 4xl
     text_tracking: normal
     width: 40
@@ -368,7 +368,7 @@ collection_blocks:
     align_y: start
     block_aspect_ratio: 3x2
     caption: 
-    color: #E8D6F1
+    color: E8D6F1
     image: 
     margin_left: 0
     margin_right: 10
@@ -383,7 +383,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #CCE1F3
+    color: CCE1F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-20.jpg
     margin_left: 30
     margin_right: 0
@@ -395,7 +395,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8F3D8
+    color: D8F3D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-21.jpg
     margin_left: 10
     margin_right: 0
@@ -407,7 +407,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBC1A2
+    color: FBC1A2
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-22.jpg
     margin_left: 20
     margin_right: 0
@@ -433,7 +433,7 @@ collection_blocks:
       _“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
       you how to fight when death comes to your door.”_
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 4xl
     text_tracking: normal
     width: 25
@@ -443,7 +443,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EDDAF0
+    color: EDDAF0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
     margin_left: 5
     margin_right: 0
@@ -453,7 +453,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F6F1D0
+    color: F6F1D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-24.jpg
     margin_left: 0
     margin_right: 15
@@ -487,7 +487,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8E9BA
+    color: D8E9BA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-25.jpg
     margin_left: 25
     margin_right: 0
@@ -499,7 +499,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDEDF6
+    color: DDEDF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-26.jpg
     margin_left: 5
     margin_right: 0
@@ -511,7 +511,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFEBDA
+    color: FFEBDA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-27.jpg
     margin_left: 25
     margin_right: 0
@@ -523,7 +523,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBFAC0
+    color: FBFAC0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-28.jpg
     margin_left: 5
     margin_right: 0
@@ -533,7 +533,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDFFE6
+    color: DDFFE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-29.jpg
     margin_left: 0
     margin_right: 0
@@ -545,7 +545,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #ECDDFF
+    color: ECDDFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-30.jpg
     margin_left: 10
     margin_right: 0
@@ -553,7 +553,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: #FFFFFF
+    background_color: FFFFFF
     background_image_toggle: false
     block: media-text
     caption_css: 
@@ -577,7 +577,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDF1FF
+    color: DDF1FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-31.jpg
     margin_left: 20
     margin_right: 0
@@ -589,7 +589,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDFFE6
+    color: DDFFE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-32.jpg
     margin_left: 30
     margin_right: 0
@@ -599,7 +599,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFEFDD
+    color: FFEFDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-33.jpg
     margin_left: 0
     margin_right: 5
@@ -610,7 +610,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #F6F7A0
+    color: F6F7A0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-34.jpg
     margin_left: 10
     margin_right: 0

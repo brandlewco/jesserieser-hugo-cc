@@ -31,7 +31,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: time-lake
-theme_color: #CEFAE5
+theme_color: CEFAE5
 theme_color_all_works: 
 title: Time Magazine
 seo:
@@ -44,7 +44,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1F3DD
+    color: E1F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     margin_left: 40
     margin_right: 0
@@ -56,7 +56,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1F9FB
+    color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-1.jpg
     margin_left: 5
     margin_right: 0
@@ -68,7 +68,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEBD6
+    color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
     margin_left: 15
     margin_right: 0
@@ -77,7 +77,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #E4F6FE
+    color: E4F6FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-4.jpg
     margin_left: 0
     margin_right: 20
@@ -89,7 +89,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFD9CF
+    color: FFD9CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-5.jpg
     margin_left: 0
     margin_right: 0
@@ -99,7 +99,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDF5DA
+    color: DDF5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
     margin_left: 0
     margin_right: 15
@@ -111,7 +111,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F7F7D0
+    color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-2.jpg
     margin_left: 20
     margin_right: 0
@@ -121,7 +121,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0EFFF
+    color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
     margin_left: 0
     margin_right: 20
@@ -133,7 +133,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0E7FF
+    color: F0E7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
     margin_left: 5
     margin_right: 0
@@ -143,7 +143,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8F9FD
+    color: D8F9FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
     margin_left: 0
     margin_right: 35
@@ -155,7 +155,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6FFEA
+    color: E6FFEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
     margin_left: 25
     margin_right: 0
@@ -167,7 +167,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6FBD0
+    color: E6FBD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-12.jpg
     margin_left: 15
     margin_right: 0
@@ -177,7 +177,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEACD
+    color: FBEACD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-14.jpg
     margin_left: 0
     margin_right: 25
@@ -189,7 +189,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6F3FE
+    color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-13.jpg
     margin_left: 50
     margin_right: 0
@@ -201,7 +201,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FDF9EA
+    color: FDF9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-15.jpg
     margin_left: 25
     margin_right: 0

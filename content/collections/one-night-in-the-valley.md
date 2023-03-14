@@ -31,7 +31,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: valley
-theme_color: #F3CCCC
+theme_color: F3CCCC
 theme_color_all_works: 
 title: One Night In the Valley
 seo:
@@ -44,7 +44,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #C2A282
+    color: C2A282
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-1.jpg
     margin_left: 25
     margin_right: 0
@@ -56,7 +56,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DFEBEF
+    color: DFEBEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-2.jpg
     margin_left: 15
     margin_right: 0
@@ -65,7 +65,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #CDB882
+    color: CDB882
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-3.jpg
     margin_left: 0
     margin_right: 0
@@ -77,7 +77,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8A6C7
+    color: D8A6C7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-4.jpg
     margin_left: 5
     margin_right: 0
@@ -87,7 +87,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EEDDDD
+    color: EEDDDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-5.jpg
     margin_left: 0
     margin_right: 30
@@ -99,7 +99,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #CFC78C
+    color: CFC78C
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-7.jpg
     margin_left: 60
     margin_right: 0
@@ -111,7 +111,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F1B88C
+    color: F1B88C
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-6.jpg
     margin_left: 15
     margin_right: 0

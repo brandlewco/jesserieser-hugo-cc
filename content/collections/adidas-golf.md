@@ -1,6 +1,5 @@
 ---
-_schema: default
-title: 'Adidas Golf: Adicross
+title: 'Adidas Golf: Adicross'
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -279,8 +278,8 @@ collection_category:
   - Environments
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: #b8eebc
-theme_color_all_works: #e69dfb
+theme_color: b8eebc
+theme_color_all_works: e69dfb
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-9.jpg
 collection_preview:
@@ -300,5 +299,5 @@ navigation_theme: black
 page: /collections/addidas
 px_extra: true
 row_alignment:
-slug: /adidas-golf-adicross
+slug: adidas-golf-adicross
 ---

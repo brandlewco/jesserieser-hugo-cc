@@ -79,8 +79,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: wired-magazine
-theme_color: #F6E3CD
-theme_color_all_works: #FFCC95
+theme_color: F6E3CD
+theme_color_all_works: FFCC95
 title: Wired Magazine
 collection_awards:
   - content: |-
@@ -91,7 +91,7 @@ collection_awards:
 collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #090909
+    color: 090909
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg
     margin_left: 10
     margin_right: 0
@@ -99,7 +99,7 @@ collection_layout_builder:
     width: 40
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #0A0A0B
+    color: 0A0A0B
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1b-single.jpg
     margin_left: 0
     margin_right: 15
@@ -111,7 +111,7 @@ collection_layout_builder:
     align_y: start
     block: media-element
     caption: 
-    color: #E4D3BF
+    color: E4D3BF
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
     margin_left: 35
     margin_y: 100
@@ -121,7 +121,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #8AADC9
+    color: 8AADC9
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
     margin_left: 25
     margin_y: 100
@@ -131,7 +131,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #C36945
+    color: C36945
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-5.jpg
     margin_left: 5
     margin_right: 0
@@ -140,7 +140,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #D5DA9E
+    color: D5DA9E
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-4.jpg
     margin_left: 0
     margin_right: 15
@@ -151,7 +151,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #8ABBB6
+    color: 8ABBB6
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-8.jpg
     margin_left: 25
     margin_y: 100
@@ -161,7 +161,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #F9F8F6
+    color: F9F8F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg
     margin_left: 0
     margin_y: 100
@@ -169,7 +169,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #4D4D4D
+    color: 4D4D4D
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-10.jpg
     margin_right: 15
     margin_y: 300
@@ -179,7 +179,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #979797
+    color: 979797
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-7.jpg
     margin_left: 10
     margin_right: 0
@@ -190,7 +190,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #E2DFDF
+    color: E2DFDF
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-6.jpg
     margin_left: 40
     margin_right: 0
@@ -199,7 +199,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - block: media-element
-    color: #1E1E1E
+    color: 1E1E1E
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-11b-single.jpg
     margin_left: 10
     margin_right: 0
@@ -207,7 +207,7 @@ collection_layout_builder:
     width: 40
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #FFD279
+    color: FFD279
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-11c-single.jpg
     margin_left: 0
     margin_right: 15
@@ -219,7 +219,7 @@ collection_layout_builder:
     align_y: start
     block: media-element
     caption: 
-    color: #B7B7B7
+    color: B7B7B7
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-13.jpg
     margin_left: 25
     margin_y: 400
@@ -227,7 +227,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #535353
+    color: 535353
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-12.jpg
     margin_left: 0
     margin_right: 5
@@ -238,7 +238,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #424242
+    color: 424242
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-14.jpg
     margin_left: 30
     margin_right: 0
@@ -249,7 +249,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     block: media-element
     caption: 
-    color: #A2A2A2
+    color: A2A2A2
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-15.jpg
     margin_left: 20
     margin_y: 100

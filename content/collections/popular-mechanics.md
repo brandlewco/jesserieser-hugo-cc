@@ -56,7 +56,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: popular-mechanics-longevity
-theme_color: #A3A7F3
+theme_color: A3A7F3
 theme_color_all_works: 
 title: Popular Mechanics
 seo:
@@ -77,7 +77,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F3F0DD
+    color: F3F0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg
     margin_left: 30
     margin_right: 0
@@ -89,7 +89,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FF052A
+    color: FF052A
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
     margin_left: 10
     margin_right: 0
@@ -101,7 +101,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E3F4EB
+    color: E3F4EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-3.jpg
     margin_left: 0
     margin_right: 0
@@ -111,7 +111,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEBE1
+    color: FBEBE1
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-4.jpg
     margin_left: 0
     margin_right: 20
@@ -123,7 +123,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E3F5FB
+    color: E3F5FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_repacemen-3.jpg
     margin_left: 15
     margin_right: 5
@@ -135,7 +135,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F3DFF7
+    color: F3DFF7
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
     margin_left: 25
     margin_right: 0
@@ -145,7 +145,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FE1A25
+    color: FE1A25
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
     margin_left: 0
     margin_right: 5
@@ -157,7 +157,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0F8D8
+    color: E0F8D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-9.jpg
     margin_left: 5
     margin_right: 0
@@ -167,7 +167,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F9EFD6
+    color: F9EFD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-8.jpg
     margin_left: 0
     margin_right: 15
@@ -179,7 +179,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FE012C
+    color: FE012C
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-10.jpg
     margin_left: 15
     margin_right: 0

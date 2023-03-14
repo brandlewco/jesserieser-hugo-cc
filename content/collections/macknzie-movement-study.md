@@ -28,15 +28,15 @@ layout: blocks
 logo: 
 navigation_theme: white
 slug: Mackenzie-Gossage
-theme_color: #9394AD
-theme_color_all_works: #B4B4FC
+theme_color: 9394AD
+theme_color_all_works: B4B4FC
 title: Mackenzie Gossage
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F8E0CE
+    color: F8E0CE
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg
     margin_left: 10
     margin_right: 0
@@ -46,7 +46,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D7DFF1
+    color: D7DFF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-3.jpg
     margin_left: 15
     margin_right: 0
@@ -54,7 +54,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F4DEE4
+    color: F4DEE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-2.jpg
     margin_left: 0
     margin_right: 20
@@ -64,7 +64,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5E8D5
+    color: F5E8D5
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-4.jpg
     margin_left: 40
     margin_y: 100
@@ -73,7 +73,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F9E0CF
+    color: F9E0CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-5.jpg
     margin_left: 55
     margin_y: 100

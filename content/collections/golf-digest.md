@@ -37,8 +37,8 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: golf-digest-bubba
-theme_color: #FFCBBE
-theme_color_all_works: #E77B7B
+theme_color: FFCBBE
+theme_color_all_works: E77B7B
 title: Golf Digest 
 seo:
   meta_description: >-
@@ -52,7 +52,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E9EFF4
+    color: E9EFF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-1.jpg
     margin_left: 10
     margin_right: 0
@@ -62,7 +62,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EAE8BC
+    color: EAE8BC
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-2.jpg
     margin_left: 0
     margin_right: 15
@@ -74,7 +74,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F4D9C9
+    color: F4D9C9
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-3.jpg
     margin_left: 20
     margin_right: 0
@@ -84,7 +84,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0EAFB
+    color: F0EAFB
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-4.jpg
     margin_left: 0
     margin_right: 5
@@ -96,7 +96,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F3F8CF
+    color: F3F8CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-5.jpg
     margin_left: 5
     margin_right: 0
@@ -108,7 +108,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #A7A7A7
+    color: A7A7A7
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-6.jpg
     margin_left: 15
     margin_right: 0
@@ -120,7 +120,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EFEFEF
+    color: EFEFEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-7.jpg
     margin_left: 20
     margin_right: 0
@@ -130,7 +130,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #B5B5B5
+    color: B5B5B5
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-8.jpg
     margin_left: 0
     margin_right: 5
@@ -142,7 +142,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #8E8E8E
+    color: 8E8E8E
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-9.jpg
     margin_left: 30
     margin_right: 0
@@ -154,7 +154,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D5D5D5
+    color: D5D5D5
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-10.jpg
     margin_left: 5
     margin_right: 0
@@ -164,7 +164,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #565656
+    color: 565656
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-11.jpg
     margin_left: 0
     margin_right: 5
@@ -176,7 +176,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #282828
+    color: 282828
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-12.jpg
     margin_left: 30
     margin_right: 0
@@ -188,7 +188,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #565656
+    color: 565656
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-13.jpg
     margin_left: 10
     margin_right: 0
@@ -200,7 +200,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #191919
+    color: 191919
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-14.jpg
     margin_left: 20
     margin_right: 0
@@ -244,7 +244,7 @@ collection_blocks:
     template: block-media-text
     text: Ties the course record
     text_alignment: left
-    text_color: #000000
+    text_color: 000000
     text_size: 4xl
     text_tracking: normal
     width: 50
@@ -254,7 +254,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E8ECF1
+    color: E8ECF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-15.jpg
     margin_left: 5
     margin_right: 0

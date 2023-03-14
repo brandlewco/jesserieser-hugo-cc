@@ -103,8 +103,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: projects/changing-landscape-american-retail
-theme_color: #E9DCD0
-theme_color_all_works: #F1A4FF
+theme_color: E9DCD0
+theme_color_all_works: F1A4FF
 title: The Changing Landscape of American Retail
 collection_awards:
   - content: |-
@@ -153,7 +153,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D5E6F1
+    color: D5E6F1
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-1.jpg
     margin_left: 20
     margin_right: 0
@@ -163,14 +163,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FCCEB1
+    color: FCCEB1
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-3.jpg
     margin_left: 10
     margin_y: 400
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F2DED6
+    color: F2DED6
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg
     margin_right: 5
     margin_y: 100
@@ -179,7 +179,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DAF0E7
+    color: DAF0E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-4.jpg
     margin_left: 20
     margin_y: 100
@@ -188,7 +188,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F8F2F7
+    color: F8F2F7
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-5.jpg
     margin_left: 35
     margin_right: 0
@@ -198,7 +198,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBE5D2
+    color: FBE5D2
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-6.jpg
     margin_left: 5
     margin_right: 0
@@ -206,7 +206,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FF8E7D
+    color: FF8E7D
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     margin_left: 0
     margin_right: 10
@@ -216,7 +216,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DCDEE5
+    color: DCDEE5
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
     margin_left: 15
     margin_right: 0
@@ -226,14 +226,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFDFC9
+    color: FFDFC9
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-10.jpg
     margin_left: 10
     margin_y: 600
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E0F3EB
+    color: E0F3EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-9.jpg
     margin_right: 5
     margin_y: 100
@@ -242,7 +242,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5ECBA
+    color: F5ECBA
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-11.jpg
     margin_left: 35
     margin_y: 100
@@ -251,7 +251,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F3E7DD
+    color: F3E7DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-12.jpg
     margin_left: 25
     margin_right: 0
@@ -261,7 +261,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F0CDC4
+    color: F0CDC4
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-13.jpg
     margin_left: 10
     margin_right: 0
@@ -269,7 +269,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #A9CFFD
+    color: A9CFFD
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-14.jpg
     margin_left: 0
     margin_right: 5
@@ -279,7 +279,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EDD5BE
+    color: EDD5BE
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
     margin_left: 20
     margin_right: 0
@@ -289,7 +289,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBE6DF
+    color: FBE6DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-17.jpg
     margin_left: 5
     margin_right: 0
@@ -297,7 +297,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F3ECE4
+    color: F3ECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-16.jpg
     margin_left: 0
     margin_right: 10
@@ -307,7 +307,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FCE6C8
+    color: FCE6C8
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-18.jpg
     margin_left: 35
     margin_y: 100
@@ -316,7 +316,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D9D1CE
+    color: D9D1CE
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-19.jpg
     margin_left: 0
     margin_right: 5
@@ -324,7 +324,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBF9E1
+    color: FBF9E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-20.jpg
     margin_right: 5
     margin_y: 600
@@ -333,7 +333,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E0EAE7
+    color: E0EAE7
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-21.jpg
     margin_left: 15
     margin_y: 100

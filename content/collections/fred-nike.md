@@ -33,15 +33,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: collections/Fred-Kerley 
-theme_color: #FFC1C7
-theme_color_all_works: #FFB5BD
+theme_color: FFC1C7
+theme_color_all_works: FFB5BD
 title: Nike Running’s 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #A0ECEC
+    color: A0ECEC
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
     margin_left: 35
     margin_right: 0
@@ -51,14 +51,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBF0DD
+    color: FBF0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
     margin_left: 10
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D3E7AF
+    color: D3E7AF
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
     margin_right: 5
     margin_y: 300
@@ -67,7 +67,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFD5DD
+    color: FFD5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
     margin_left: 35
     margin_y: 100
@@ -76,7 +76,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBECE4
+    color: FBECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
     margin_left: 5
     margin_right: 0
@@ -84,7 +84,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C5E4F2
+    color: C5E4F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
     margin_right: 5
     margin_y: 300

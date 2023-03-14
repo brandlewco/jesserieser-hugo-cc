@@ -32,15 +32,15 @@ navigation_theme: white
 px_extra: true
 row_alignment: center
 slug: ice-t
-theme_color: #B8EEBC
-theme_color_all_works: #E69DFB
+theme_color: B8EEBC
+theme_color_all_works: E69DFB
 title: Zeit Magazin
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D4D4D4
+    color: D4D4D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-1.jpg
     margin_left: 15
     margin_right: 0
@@ -50,7 +50,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EDEDED
+    color: EDEDED
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg
     margin_left: 5
     margin_right: 0
@@ -58,7 +58,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #4D4D4D
+    color: 4D4D4D
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-2.jpg
     margin_left: 0
     margin_right: 10
@@ -68,7 +68,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #272727
+    color: 272727
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-4.jpg
     margin_left: 30
     margin_y: 100
@@ -77,7 +77,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D7D7D7
+    color: D7D7D7
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-5.jpg
     margin_left: 10
     margin_right: 0
@@ -85,7 +85,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #A7A7A7
+    color: A7A7A7
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-6.jpg
     margin_right: 20
     margin_y: 600
@@ -94,7 +94,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EFEFEF
+    color: EFEFEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-7.jpg
     margin_left: 15
     margin_right: 0

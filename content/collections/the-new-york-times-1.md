@@ -79,7 +79,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: nytimes-reopen
-theme_color: #91F8C6
+theme_color: 91F8C6
 theme_color_all_works: 
 title: The New York Times
 seo:
@@ -95,7 +95,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E8DDF3
+    color: E8DDF3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-1.jpg
     margin_left: 15
     margin_right: 0
@@ -107,7 +107,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F1F7DB
+    color: F1F7DB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-7.jpg
     margin_left: 5
     margin_right: 0
@@ -117,7 +117,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F4EEE3
+    color: F4EEE3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg
     margin_left: 0
     margin_right: 0
@@ -129,7 +129,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0E1FB
+    color: F0E1FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-2.jpg
     margin_left: 15
     margin_right: 0
@@ -139,7 +139,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E3F5FB
+    color: E3F5FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-3.jpg
     margin_left: 0
     margin_right: 5
@@ -151,7 +151,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F7DFDF
+    color: F7DFDF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg
     margin_left: 25
     margin_right: 0
@@ -163,7 +163,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FDF6D3
+    color: FDF6D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-5.jpg
     margin_left: 40
     margin_right: 0
@@ -175,7 +175,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0EEFF
+    color: E0EEFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
     margin_left: 5
     margin_right: 0
@@ -185,7 +185,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFE7F2
+    color: FFE7F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-9.jpg
     margin_left: 0
     margin_right: 0
@@ -197,7 +197,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1FDD8
+    color: E1FDD8
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-10.jpg
     margin_left: 25
     margin_right: 0
@@ -209,7 +209,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFF5E6
+    color: FFF5E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-11.jpg
     margin_left: 35
     margin_right: 0
@@ -221,7 +221,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6F3FE
+    color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-13.jpg
     margin_left: 15
     margin_right: 0
@@ -233,7 +233,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBD0D4
+    color: FBD0D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-12.jpg
     margin_left: 5
     margin_right: 0
@@ -245,7 +245,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FDF9EA
+    color: FDF9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-15.jpg
     margin_left: 20
     margin_right: 0
@@ -257,7 +257,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EAEEF6
+    color: EAEEF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-14.jpg
     margin_left: 10
     margin_right: 0
@@ -267,7 +267,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F9E0E1
+    color: F9E0E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-16.jpg
     margin_left: 0
     margin_right: 0
@@ -279,7 +279,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDE7FF
+    color: DDE7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-17.jpg
     margin_left: 20
     margin_right: 0
@@ -291,7 +291,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #488397
+    color: 488397
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-18.jpg
     margin_left: 50
     margin_right: 0
@@ -303,7 +303,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FEE1D7
+    color: FEE1D7
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-19.jpg
     margin_left: 30
     margin_right: 0
@@ -315,7 +315,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F5EAF6
+    color: F5EAF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-20.jpg
     margin_left: 15
     margin_right: 0

@@ -35,7 +35,7 @@ layout: blocks
 logo: 
 navigation_theme: white
 slug: paris
-theme_color: #F4BEFF
+theme_color: F4BEFF
 title: Hearst Itallia
 collection_awards:
   - content: |-
@@ -47,7 +47,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FDE3BB
+    color: FDE3BB
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-1.jpg
     margin_left: 30
     margin_right: 0
@@ -57,14 +57,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B7F5F8
+    color: B7F5F8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-2.jpg
     margin_left: 5
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FECAC4
+    color: FECAC4
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-3.jpg
     margin_left: 0
     margin_right: 15
@@ -74,14 +74,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5DFF8
+    color: F5DFF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-5.jpg
     margin_left: 0
     margin_y: 300
     width: 60
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B2DDFD
+    color: B2DDFD
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-4.jpg
     margin_left: 0
     margin_right: 0
@@ -91,7 +91,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C9F6F9
+    color: C9F6F9
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-6.jpg
     margin_left: 40
     margin_y: 100
@@ -100,7 +100,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FDEBEB
+    color: FDEBEB
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-7.jpg
     margin_left: 25
     margin_right: 0
@@ -110,7 +110,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EDF6C8
+    color: EDF6C8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-8.jpg
     margin_left: 10
     margin_right: 0
@@ -118,7 +118,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E8F3F7
+    color: E8F3F7
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-9.jpg
     margin_left: 0
     margin_right: 5
@@ -128,7 +128,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F9F3DD
+    color: F9F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-10.jpg
     margin_left: 10
     margin_right: 0
@@ -138,14 +138,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D2ECFF
+    color: D2ECFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-12.jpg
     margin_left: 5
     margin_y: 400
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DFF7F4
+    color: DFF7F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-11.jpg
     margin_left: 0
     margin_right: 10
@@ -155,7 +155,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FEEEEE
+    color: FEEEEE
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-13.jpg
     margin_left: 30
     margin_y: 100

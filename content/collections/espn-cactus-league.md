@@ -39,15 +39,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: cactus-league
-theme_color: #FDE583
-theme_color_all_works: #FB548C
+theme_color: FDE583
+theme_color_all_works: FB548C
 title: ESPN the Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B1CD6B
+    color: B1CD6B
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-1.jpg
     margin_left: 20
     margin_right: 0
@@ -57,14 +57,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6E483
+    color: F6E483
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-3.jpg
     margin_left: 5
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EEA998
+    color: EEA998
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-2.jpg
     margin_left: 0
     margin_right: 15
@@ -74,7 +74,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CAD9E2
+    color: CAD9E2
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-4.jpg
     margin_left: 25
     margin_y: 100
@@ -83,7 +83,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F93832
+    color: F93832
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-5.jpg
     margin_left: 0
     margin_right: 0
@@ -91,7 +91,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FADABF
+    color: FADABF
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-6.jpg
     margin_left: 0
     margin_right: 0
@@ -101,7 +101,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #5083E0
+    color: 5083E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-7.jpg
     margin_left: 50
     margin_right: 0
@@ -111,7 +111,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DDE5F1
+    color: DDE5F1
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-8.jpg
     margin_left: 10
     margin_right: 0
@@ -119,7 +119,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FEE5DA
+    color: FEE5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-9.jpg
     margin_left: 0
     margin_right: 5
@@ -127,7 +127,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EA113C
+    color: EA113C
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-10.jpg
     margin_left: 45
     margin_right: 0
@@ -137,7 +137,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #92D09F
+    color: 92D09F
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-11.jpg
     margin_left: 10
     margin_y: 100
@@ -146,7 +146,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #8CABA5
+    color: 8CABA5
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-12.jpg
     margin_left: 5
     margin_right: 0
@@ -154,7 +154,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F4DFCE
+    color: F4DFCE
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-13.jpg
     margin_right: 10
     margin_y: 100
@@ -163,7 +163,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B0CB97
+    color: B0CB97
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-14.jpg
     margin_left: 10
     margin_right: 0
@@ -171,7 +171,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #3850A3
+    color: 3850A3
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-15.jpg
     margin_left: 0
     margin_right: 20
@@ -181,7 +181,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CDE5F3
+    color: CDE5F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-16.jpg
     margin_left: 10
     margin_y: 100

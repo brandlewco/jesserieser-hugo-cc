@@ -36,7 +36,7 @@ navigation_theme: black
 px_extra: true
 row_alignment: between
 slug: runnersworld-halls
-theme_color: #E4D1EB
+theme_color: E4D1EB
 theme_color_all_works: 
 title: Runner''s World 
 seo:
@@ -52,7 +52,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBE3C5
+    color: FBE3C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-1.jpg
     margin_left: 5
     margin_right: 0
@@ -62,7 +62,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #EEF8D8
+    color: EEF8D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-2.jpg
     margin_left: 0
     margin_right: 5
@@ -89,7 +89,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F9E6CD
+    color: F9E6CD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-3.jpg
     margin_left: 25
     margin_right: 0
@@ -101,7 +101,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #CBEDF8
+    color: CBEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-4.jpg
     margin_left: 40
     margin_right: 0
@@ -113,7 +113,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F8DAF9
+    color: F8DAF9
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-5.jpg
     margin_left: 5
     margin_right: 0
@@ -123,7 +123,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F8E0E0
+    color: F8E0E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-6.jpg
     margin_left: 0
     margin_right: 0
@@ -135,7 +135,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0FBC5
+    color: E0FBC5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-7.jpg
     margin_left: 30
     margin_right: 0
@@ -145,7 +145,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBE5C5
+    color: FBE5C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-8.jpg
     margin_left: 0
     margin_right: 10
@@ -157,7 +157,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #C5FBF4
+    color: C5FBF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-9.jpg
     margin_left: 40
     margin_right: 0
@@ -169,7 +169,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBC5C6
+    color: FBC5C6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-12.jpg
     margin_left: 15
     margin_right: 0
@@ -181,7 +181,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBE3C5
+    color: FBE3C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-10.jpg
     margin_left: 5
     margin_right: 0
@@ -191,7 +191,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #CFEFF8
+    color: CFEFF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-11.jpg
     margin_left: 0
     margin_right: 10
@@ -218,7 +218,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFEBD6
+    color: FFEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-17.jpg
     margin_left: 10
     margin_right: 0
@@ -228,7 +228,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D5FDDD
+    color: D5FDDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-13.jpg
     margin_left: 0
     margin_right: 0
@@ -255,7 +255,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBDFFC
+    color: FBDFFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-14.jpg
     margin_left: 20
     margin_right: 0
@@ -265,7 +265,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FCECD5
+    color: FCECD5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-15.jpg
     margin_left: 0
     margin_right: 10
@@ -277,7 +277,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #C5FBC7
+    color: C5FBC7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-16.jpg
     margin_left: 25
     margin_right: 0

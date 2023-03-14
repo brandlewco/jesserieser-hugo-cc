@@ -34,7 +34,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: espn-booker
-theme_color: #EAC5BF
+theme_color: EAC5BF
 theme_color_all_works: 
 title: ESPN: Becoming Legendary
 seo:
@@ -63,7 +63,7 @@ collection_layout_builder:
     align_y: start
     block_aspect_ratio: 3x4
     caption: 
-    color: #D7D7D7
+    color: D7D7D7
     image: 
     margin_left: 15
     margin_right: 0
@@ -76,7 +76,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #EDD7B2
+    color: EDD7B2
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     margin_left: 30
     margin_right: 0
@@ -88,7 +88,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #E2CFEF
+    color: E2CFEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
     margin_left: 5
     margin_right: 0
@@ -98,7 +98,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #CDF3EC
+    color: CDF3EC
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
     margin_left: 0
     margin_right: 15
@@ -110,7 +110,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F9D5D3
+    color: F9D5D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
     margin_left: 20
     margin_right: 0
@@ -122,7 +122,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #D9E3F4
+    color: D9E3F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
     margin_left: 0
     margin_right: 0
@@ -132,7 +132,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #E6F3E6
+    color: E6F3E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
     margin_left: 0
     margin_right: 0
@@ -144,7 +144,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #CFF1F3
+    color: CFF1F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
     margin_left: 0
     margin_right: 0
@@ -154,7 +154,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #FFE5C9
+    color: FFE5C9
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
     margin_left: 0
     margin_right: 5
@@ -166,7 +166,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #EBD1EF
+    color: EBD1EF
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
     margin_left: 35
     margin_right: 0
@@ -178,7 +178,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #CEF8E1
+    color: CEF8E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
     margin_left: 5
     margin_right: 0
@@ -190,7 +190,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F9D4C0
+    color: F9D4C0
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
     margin_left: 40
     margin_right: 0
@@ -202,7 +202,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F4D4D3
+    color: F4D4D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
     margin_left: 15
     margin_right: 0
@@ -212,7 +212,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #C2F4F4
+    color: C2F4F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
     margin_left: 0
     margin_right: 10
@@ -239,7 +239,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #ECD8F3
+    color: ECD8F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-20.jpg
     margin_left: 20
     margin_right: 0
@@ -251,7 +251,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #D7F9D5
+    color: D7F9D5
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg
     margin_left: 0
     margin_right: 0
@@ -261,7 +261,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F6F4D2
+    color: F6F4D2
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
     margin_left: 0
     margin_right: 5
@@ -273,7 +273,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #CFF7F2
+    color: CFF7F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg
     margin_left: 15
     margin_right: 0
@@ -285,7 +285,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F0D0CF
+    color: F0D0CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
     margin_left: 25
     margin_right: 0
@@ -331,7 +331,7 @@ collection_layout_builder:
     align_y: 
     block: media-element
     caption: 
-    color: #F4ECCE
+    color: F4ECCE
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-19.jpg
     margin_left: 0
     margin_right: 5

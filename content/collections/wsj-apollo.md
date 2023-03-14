@@ -55,15 +55,15 @@ navigation_theme: black
 page: /collections/wsj-apollo
 px_extra: true
 slug: wall-street-journal
-theme_color: #FFD765
-theme_color_all_works: #6BCCFF
+theme_color: FFD765
+theme_color_all_works: 6BCCFF
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F2DAF4
+    color: F2DAF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-1.jpg
     margin_left: 25
     margin_right: 0
@@ -73,7 +73,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D8F4F3
+    color: D8F4F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-3.jpg
     margin_left: 10
     margin_right: 0
@@ -81,7 +81,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFEBC3
+    color: FFEBC3
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-2.jpg
     margin_left: 0
     margin_right: 5
@@ -91,7 +91,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DDD6E7
+    color: DDD6E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-4.jpg
     margin_left: 20
     margin_y: 100
@@ -100,7 +100,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E6E9F1
+    color: E6E9F1
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-5.jpg
     margin_left: 0
     margin_right: 0
@@ -108,7 +108,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F2EBD8
+    color: F2EBD8
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-6.jpg
     margin_right: 15
     margin_y: 300
@@ -117,7 +117,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFE0BA
+    color: FFE0BA
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-7.jpg
     margin_left: 40
     margin_right: 0
@@ -127,7 +127,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EAECEC
+    color: EAECEC
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-8.jpg
     margin_left: 5
     margin_right: 0
@@ -137,14 +137,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFD195
+    color: FFD195
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-9.jpg
     margin_left: 10
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F8F6EE
+    color: F8F6EE
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-10.jpg
     margin_left: 0
     margin_right: 5
@@ -154,7 +154,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #efefef
+    color: efefef
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-11.jpg
     margin_left: 35
     margin_y: 100
@@ -163,7 +163,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E3F0E7
+    color: E3F0E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-12.jpg
     margin_left: 0
     margin_right: 0
@@ -171,7 +171,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E7EBF0
+    color: E7EBF0
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-13.jpg
     margin_left: 10
     margin_right: 0
@@ -181,7 +181,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FAF3E7
+    color: FAF3E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-14.jpg
     margin_left: 25
     margin_y: 100

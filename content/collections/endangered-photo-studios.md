@@ -32,8 +32,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: projects/Photo-Studios-Extinction
-theme_color: #FBC8B2
-theme_color_all_works: #FFAC87
+theme_color: FBC8B2
+theme_color_all_works: FFAC87
 title: Photo Studios Extinction
 collection_exhibition:
   - content: |-
@@ -47,7 +47,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B4FFAB
+    color: B4FFAB
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-1.jpg
     margin_left: 20
     margin_right: 0
@@ -57,14 +57,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBE7CF
+    color: FBE7CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-3.jpg
     margin_left: 10
     margin_y: 300
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5EFEF
+    color: F5EFEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-2.jpg
     margin_left: 0
     margin_right: 0
@@ -74,7 +74,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DCE3EB
+    color: DCE3EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-4.jpg
     margin_left: 30
     margin_y: 100
@@ -83,7 +83,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EDF2E6
+    color: EDF2E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-5.jpg
     margin_left: 5
     margin_right: 0
@@ -91,13 +91,13 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBE9ED
+    color: FBE9ED
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-6.jpg
     margin_y: 300
     width: 50
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F2E8F2
+    color: F2E8F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-9.jpg
     margin_left: 10
     margin_right: 0
@@ -105,7 +105,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F4ECE6
+    color: F4ECE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-8.jpg
     margin_left: 0
     margin_right: 10
@@ -115,7 +115,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FEEECD
+    color: FEEECD
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-7.jpg
     margin_left: 20
     margin_right: 0

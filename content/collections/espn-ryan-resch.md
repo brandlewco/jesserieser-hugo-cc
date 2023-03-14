@@ -70,7 +70,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: espn-Ryan-Resch
-theme_color: #B2F3A0
+theme_color: B2F3A0
 theme_color_all_works: 
 title: ESPN
 seo:
@@ -83,7 +83,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F3EEDD
+    color: F3EEDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-1.jpg
     margin_left: 15
     margin_right: 0
@@ -95,7 +95,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1F9FB
+    color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-2.jpg
     margin_left: 0
     margin_right: 0
@@ -105,7 +105,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEBD6
+    color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-3.jpg
     margin_left: 0
     margin_right: 10
@@ -116,7 +116,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #E4F6FE
+    color: E4F6FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-4.jpg
     margin_left: 15
     margin_right: 0
@@ -128,7 +128,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFD9CF
+    color: FFD9CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-5.jpg
     margin_left: 5
     margin_right: 0
@@ -138,7 +138,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #DDF5DA
+    color: DDF5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-6.jpg
     margin_left: 0
     margin_right: 35
@@ -150,7 +150,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F7F7D0
+    color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-7.jpg
     margin_left: 15
     margin_right: 0
@@ -160,7 +160,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0EFFF
+    color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-8.jpg
     margin_left: 0
     margin_right: 5
@@ -172,7 +172,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0E7FF
+    color: F0E7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-9.jpg
     margin_left: 30
     margin_right: 0

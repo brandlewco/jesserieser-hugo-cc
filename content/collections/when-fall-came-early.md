@@ -62,8 +62,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: projects/when-fall-came-early
-theme_color: #E1EAED
-theme_color_all_works: #7BC8FF
+theme_color: E1EAED
+theme_color_all_works: 7BC8FF
 title: When Fall Came Early:
 seo:
   meta_description: >-
@@ -86,7 +86,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F1CDA5
+    color: F1CDA5
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-1.jpg
     margin_left: 35
     margin_right: 0
@@ -96,14 +96,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FF7E69
+    color: FF7E69
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg
     margin_left: 5
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E5F3F0
+    color: E5F3F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-3.jpg
     margin_left: 0
     margin_right: 5
@@ -114,7 +114,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     block: media-element
-    color: #EEEBE6
+    color: EEEBE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-4.jpg
     margin_left: 30
     margin_right: 25
@@ -124,7 +124,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C6DC87
+    color: C6DC87
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-5.jpg
     margin_left: 5
     margin_right: 0
@@ -132,7 +132,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFE29A
+    color: FFE29A
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-6.jpg
     margin_right: 15
     margin_y: 700
@@ -141,7 +141,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F2AE73
+    color: F2AE73
     image: https://d1sf55qlb7p6hz.cloudfront.net/fall-7.jpg
     margin_left: 20
     margin_right: 0

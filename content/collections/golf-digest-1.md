@@ -35,8 +35,8 @@ navigation_theme: black
 px_extra: true
 row_alignment: between
 slug: golf-digest-scottie
-theme_color: #C1FFD2
-theme_color_all_works: #FF9494
+theme_color: C1FFD2
+theme_color_all_works: FF9494
 title: Golf Digest 
 seo:
   meta_description: 
@@ -48,7 +48,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D3FAFF
+    color: D3FAFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
     margin_left: 30
     margin_right: 0
@@ -60,7 +60,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FEEECE
+    color: FEEECE
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
     margin_left: 5
     margin_right: 0
@@ -70,7 +70,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FDC888
+    color: FDC888
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-3.jpg
     margin_left: 0
     margin_right: 0
@@ -82,7 +82,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFA35B
+    color: FFA35B
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-5.jpg
     margin_left: 35
     margin_right: 0
@@ -92,7 +92,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D6F0F3
+    color: D6F0F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-4.jpg
     margin_left: 0
     margin_right: 5
@@ -104,7 +104,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E2F9E5
+    color: E2F9E5
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-6.jpg
     margin_left: 45
     margin_right: 0
@@ -116,7 +116,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFF1DC
+    color: FFF1DC
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-7.jpg
     margin_left: 0
     margin_right: 0
@@ -126,7 +126,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D1F8F4
+    color: D1F8F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie_10-1.jpg
     margin_left: 0
     margin_right: 30
@@ -138,7 +138,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E8DFFE
+    color: E8DFFE
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-9.jpg
     margin_left: 10
     margin_right: 0
@@ -150,7 +150,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FFEBAD
+    color: FFEBAD
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-10.jpg
     margin_left: 20
     margin_right: 0

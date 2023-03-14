@@ -33,15 +33,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: etrade
-theme_color: #D7C6AD
-theme_color_all_works: #FFD5A0
+theme_color: D7C6AD
+theme_color_all_works: FFD5A0
 title: E*Trade
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E4BDA2
+    color: E4BDA2
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-1.jpg
     margin_left: 30
     margin_right: 0
@@ -51,14 +51,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C7DCF4
+    color: C7DCF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-2.jpg
     margin_left: 10
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F3E3DF
+    color: F3E3DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-3.jpg
     margin_left: 0
     margin_right: 10
@@ -68,7 +68,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5D6BF
+    color: F5D6BF
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-4.jpg
     margin_left: 20
     margin_y: 100
@@ -77,7 +77,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D3E5AF
+    color: D3E5AF
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-5.jpg
     margin_left: 5
     margin_right: 0
@@ -85,7 +85,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FAEEC0
+    color: FAEEC0
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-6.jpg
     margin_right: 15
     margin_y: 300
@@ -94,7 +94,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #43C6CF
+    color: 43C6CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-7.jpg
     margin_left: 20
     margin_right: 0
@@ -104,7 +104,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFC777
+    color: FFC777
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-9.jpg
     margin_left: 5
     margin_right: 0
@@ -112,7 +112,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F0E3D6
+    color: F0E3D6
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-8.jpg
     margin_left: 0
     margin_right: 15
@@ -122,7 +122,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D7CAD7
+    color: D7CAD7
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-10.jpg
     margin_left: 25
     margin_right: 0
@@ -132,7 +132,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E7DED9
+    color: E7DED9
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-11.jpg
     margin_left: 35
     margin_right: 0
@@ -142,7 +142,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F0C19F
+    color: F0C19F
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-13.jpg
     margin_left: 5
     margin_right: 0
@@ -150,7 +150,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D4E4F0
+    color: D4E4F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-12.jpg
     margin_left: 0
     margin_right: 10
@@ -160,7 +160,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C9BBCC
+    color: C9BBCC
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-14.jpg
     margin_left: 20
     margin_y: 100

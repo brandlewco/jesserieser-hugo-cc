@@ -59,15 +59,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: the-atlantic-election
-theme_color: #BA86EF
-theme_color_all_works: #BCF6A6
+theme_color: BA86EF
+theme_color_all_works: BCF6A6
 title: The Atlantic
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFF0AE
+    color: FFF0AE
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-23.jpg
     margin_left: 0
     margin_right: 0
@@ -75,7 +75,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #DDECF9
+    color: DDECF9
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-24.jpg
     margin_left: 0
     margin_right: 0
@@ -85,7 +85,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #EDF3E7
+    color: EDF3E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-25.jpg
     margin_left: 45
     margin_right: 0
@@ -95,7 +95,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EEFBFC
+    color: EEFBFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-27.jpg
     margin_left: 15
     margin_right: 0
@@ -103,7 +103,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FFE9E6
+    color: FFE9E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-26.jpg
     margin_left: 0
     margin_right: 5
@@ -113,7 +113,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EAF6E6
+    color: EAF6E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-28.jpg
     margin_left: 0
     margin_right: 0
@@ -121,7 +121,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E5FAF5
+    color: E5FAF5
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-29.jpg
     margin_left: 0
     margin_right: 45
@@ -131,7 +131,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FDF3CA
+    color: FDF3CA
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-30.jpg
     margin_left: 35
     margin_right: 0
@@ -141,7 +141,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #D8F7C0
+    color: D8F7C0
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-32.jpg
     margin_left: 20
     margin_right: 0
@@ -149,7 +149,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5EEEA
+    color: F5EEEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-31.jpg
     margin_left: 0
     margin_right: 5
@@ -159,7 +159,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E4F4F8
+    color: E4F4F8
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-33.jpg
     margin_left: 25
     margin_right: 0

@@ -29,15 +29,15 @@ layout: blocks
 logo: 
 navigation_theme: white
 slug: googles-waymo-car
-theme_color: #C2ECD1
-theme_color_all_works: #B3EFCB
+theme_color: C2ECD1
+theme_color_all_works: B3EFCB
 title: Fast Company 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6ECE3
+    color: F6ECE3
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-1.jpg
     margin_left: 10
     margin_right: 0
@@ -47,7 +47,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FAF7DF
+    color: FAF7DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-3.jpg
     margin_left: 5
     margin_right: 0
@@ -55,7 +55,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CBD9E9
+    color: CBD9E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-2.jpg
     margin_left: 0
     margin_y: 100
@@ -64,7 +64,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D3F5E5
+    color: D3F5E5
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-4.jpg
     margin_left: 25
     margin_y: 100
@@ -73,7 +73,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6E5D9
+    color: F6E5D9
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-5.jpg
     margin_left: 0
     margin_right: 0
@@ -81,7 +81,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #D8E9EA
+    color: D8E9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-6.jpg
     margin_right: 10
     margin_y: 300
@@ -90,7 +90,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CDCEDD
+    color: CDCEDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-7.jpg
     margin_left: 30
     margin_right: 0
@@ -100,7 +100,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CCF5DF
+    color: CCF5DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-8.jpg
     margin_left: 10
     margin_right: 0
@@ -110,14 +110,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBDFD9
+    color: FBDFD9
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-10.jpg
     margin_left: 5
     margin_y: 300
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F5F5E9
+    color: F5F5E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-9.jpg
     margin_left: 0
     margin_right: 10
@@ -127,7 +127,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #E9F0F8
+    color: E9F0F8
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-11.jpg
     margin_left: 20
     margin_y: 100

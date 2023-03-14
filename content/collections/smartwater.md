@@ -47,8 +47,8 @@ px_extra: true
 row_alignment: between
 sale: false
 slug: ben-simmons-smart-water
-theme_color: #FAEA72
-theme_color_all_works: #FFE767
+theme_color: FAEA72
+theme_color_all_works: FFE767
 title: Smart Water: Essentialism 
 seo:
   meta_description: 
@@ -57,7 +57,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #D1E3EB
+    color: D1E3EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
     margin_left: 30
     margin_right: 0
@@ -68,7 +68,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #E2DCDC
+    color: E2DCDC
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
     margin_left: 15
     margin_right: 0
@@ -79,7 +79,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #D8E4F4
+    color: D8E4F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
     margin_left: 35
     margin_right: 0
@@ -90,7 +90,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #D0CEE6
+    color: D0CEE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
     margin_left: 5
     margin_right: 0
@@ -99,7 +99,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #FABDAB
+    color: FABDAB
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
     margin_left: 0
     margin_right: 10
@@ -110,7 +110,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #E3DCE9
+    color: E3DCE9
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
     margin_left: 25
     margin_right: 0
@@ -121,7 +121,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #EEECE1
+    color: EEECE1
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
     margin_left: 10
     margin_right: 0
@@ -132,7 +132,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #C0BFDC
+    color: C0BFDC
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
     margin_left: 45
     margin_right: 0
@@ -143,7 +143,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: #C4D8EB
+    color: C4D8EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
     margin_left: 0
     margin_right: 0

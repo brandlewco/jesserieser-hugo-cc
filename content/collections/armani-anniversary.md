@@ -8,7 +8,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D9E6F4
+    color: D9E6F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     margin_left: 40
     margin_right: 0
@@ -48,7 +48,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F2E1E1
+    color: F2E1E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-4.jpg
     margin_left: 0
     margin_right: 15
@@ -60,7 +60,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E9E8F2
+    color: E9E8F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
     margin_left: 20
     margin_right: 0
@@ -72,7 +72,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E2ECFC
+    color: E2ECFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-6.jpg
     margin_left: 10
     margin_right: 0
@@ -112,7 +112,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F2BAB6
+    color: F2BAB6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-5.jpg
     margin_left: 25
     margin_right: 0
@@ -122,7 +122,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F6F0EA
+    color: F6F0EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-1.jpg
     margin_left: 0
     margin_right: 10
@@ -148,7 +148,7 @@ collection_category:
   - Sports + Athletes
   - Portraits
 date: 2022-07-21T01:22:09Z
-theme_color: #ffd0d0
+theme_color: ffd0d0
 theme_color_all_works:
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg

@@ -76,7 +76,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: espn-deandre-ayton
-theme_color: #96F69C
+theme_color: 96F69C
 theme_color_all_works: 
 title: ESPN 
 seo:
@@ -89,7 +89,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1F3DD
+    color: E1F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-1.jpg
     margin_left: 20
     margin_right: 0
@@ -99,7 +99,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E1F9FB
+    color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-2.jpg
     margin_left: 0
     margin_right: 15
@@ -126,7 +126,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEBD6
+    color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-3.jpg
     margin_left: 10
     margin_right: 0
@@ -166,7 +166,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F7F7D0
+    color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-7.jpg
     margin_left: 25
     margin_right: 0
@@ -178,7 +178,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E0EFFF
+    color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-8.jpg
     margin_left: 10
     margin_right: 0
@@ -203,7 +203,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #F0E7FF
+    color: F0E7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-9.jpg
     margin_left: 30
     margin_right: 0
@@ -215,7 +215,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #D8F9FD
+    color: D8F9FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-10.jpg
     margin_left: 15
     margin_right: 0
@@ -225,7 +225,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6FFEA
+    color: E6FFEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-11.jpg
     margin_left: 0
     margin_right: 5
@@ -237,7 +237,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6FBD0
+    color: E6FBD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-12.jpg
     margin_left: 45
     margin_right: 0
@@ -249,7 +249,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #FBEACD
+    color: FBEACD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-14.jpg
     margin_left: 0
     margin_right: 0
@@ -259,7 +259,7 @@ collection_blocks:
     align_y: 
     block: media-element
     caption: 
-    color: #E6F3FE
+    color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-13.jpg
     margin_left: 0
     margin_right: 0

@@ -35,15 +35,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: Banner-Mullen
-theme_color: #FFB5BD
-theme_color_all_works: #9FF4B8
+theme_color: FFB5BD
+theme_color_all_works: 9FF4B8
 title: Banner Health: Significance 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B1BEDD
+    color: B1BEDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-1.jpg
     margin_left: 30
     margin_right: 0
@@ -53,14 +53,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBF0DD
+    color: FBF0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-2.jpg
     margin_left: 20
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #2D4496
+    color: 2D4496
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-3.jpg
     margin_right: 0
     margin_y: 400
@@ -69,7 +69,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C3DAF1
+    color: C3DAF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-4.jpg
     margin_left: 35
     margin_y: 100
@@ -78,7 +78,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #FBECE4
+    color: FBECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-5.jpg
     margin_left: 0
     margin_right: 0
@@ -86,7 +86,7 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #CCE9F4
+    color: CCE9F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-6.jpg
     margin_right: 5
     margin_y: 700
@@ -95,7 +95,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #142C73
+    color: 142C73
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-7.jpg
     margin_left: 45
     margin_right: 0
@@ -105,7 +105,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: #CFE0F2
+    color: CFE0F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-8.jpg
     margin_left: 5
     margin_right: 0

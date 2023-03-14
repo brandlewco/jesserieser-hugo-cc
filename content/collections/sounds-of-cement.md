@@ -36,8 +36,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: sounds-of-cement
-theme_color: #CDCDCD
-theme_color_all_works: #FBB58D
+theme_color: CDCDCD
+theme_color_all_works: FBB58D
 title: Sounds of Cement
 collection_awards:
   - content: |-
@@ -59,7 +59,7 @@ collection_exhibition:
 collection_layout_builder:
   - _bookshop_name: collections/media-motion
     align_y: start
-    color: #CCCCCC
+    color: CCCCCC
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -68,7 +68,7 @@ collection_layout_builder:
     width: 66
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EDE4E0
+    color: EDE4E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-1.jpg
     margin_left: 30
     margin_right: 0
@@ -78,14 +78,14 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #B6D5F0
+    color: B6D5F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-2.jpg
     margin_left: 10
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #EEEEEE
+    color: EEEEEE
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-1.jpg
     margin_left: 0
     margin_right: 25
@@ -95,7 +95,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C3C3C3
+    color: C3C3C3
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-2.jpg
     margin_left: 20
     margin_y: 100
@@ -104,7 +104,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F4F4F4
+    color: F4F4F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-3.jpg
     margin_left: 30
     margin_right: 0
@@ -114,7 +114,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DCDCDC
+    color: DCDCDC
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-4.jpg
     margin_left: 5
     margin_right: 0
@@ -122,7 +122,7 @@ collection_layout_builder:
     width: 45
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F1ECE4
+    color: F1ECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-7.jpg
     margin_left: 0
     margin_right: 15
@@ -132,14 +132,14 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C5C5C5
+    color: C5C5C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-5.jpg
     margin_left: 10
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #9D9D9D
+    color: 9D9D9D
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-6.jpg
     margin_left: 0
     margin_right: 10
@@ -149,7 +149,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #DBDBDB
+    color: DBDBDB
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-7.jpg
     margin_left: 5
     margin_y: 100
@@ -158,7 +158,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #C9C9C9
+    color: C9C9C9
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-9.jpg
     margin_left: 0
     margin_right: 0
@@ -166,7 +166,7 @@ collection_layout_builder:
     width: 55
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #F6F6F6
+    color: F6F6F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-8.jpg
     margin_right: 10
     margin_y: 700
@@ -175,7 +175,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #999999
+    color: 999999
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-11.jpg
     margin_left: 5
     margin_right: 0
@@ -183,7 +183,7 @@ collection_layout_builder:
     width: 40
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #4C4C4C
+    color: 4C4C4C
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-10.jpg
     margin_right: 0
     margin_y: 100
@@ -192,7 +192,7 @@ collection_layout_builder:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: #1B1B1B
+    color: 1B1B1B
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-15.jpg
     margin_left: 25
     margin_y: 100
