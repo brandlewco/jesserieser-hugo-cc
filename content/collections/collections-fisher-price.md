@@ -266,6 +266,7 @@ collection_blocks:
     margin_left: '25'
     margin_y: '100'
     width: '70'
+  - _bookshop_name: collections/media-row-end
 collection_press:
   - content: |-
       **2019**  

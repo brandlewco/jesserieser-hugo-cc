@@ -201,4 +201,5 @@ collection_blocks:
     margin_left: '15'
     margin_y: '100'
     width: '70'
+  - _bookshop_name: collections/media-row-end
 ---
