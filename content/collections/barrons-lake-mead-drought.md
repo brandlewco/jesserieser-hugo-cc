@@ -58,7 +58,7 @@ collection_blocks:
     color: '#DCE3F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -114,7 +114,7 @@ collection_blocks:
     color: '#F3E1D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-6.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -148,7 +148,7 @@ collection_blocks:
     color: '#F9D1BC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-9.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -182,7 +182,7 @@ collection_blocks:
     color: '#F1E3CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-12.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -216,7 +216,7 @@ collection_blocks:
     color: '#EFE5DD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -240,7 +240,7 @@ collection_blocks:
     color: '#D8D7E3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-17.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -274,7 +274,7 @@ collection_blocks:
     color: '#CCE1F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-20.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -286,7 +286,7 @@ collection_blocks:
     color: '#D8F3D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-21.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -310,7 +310,7 @@ collection_blocks:
     color: '#EDDAF0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-23.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -332,7 +332,7 @@ collection_blocks:
     color: '#D8E9BA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-25.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -344,7 +344,7 @@ collection_blocks:
     color: '#DDEDF6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-26.jpg'
     margin_left: '45'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row

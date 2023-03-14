@@ -97,7 +97,7 @@ collection_blocks:
     color: '#D0E5CB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg'
     margin_left: '55'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -112,7 +112,7 @@ collection_blocks:
     block: media-element
     color: '#FBA093'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '60'
@@ -132,7 +132,7 @@ collection_blocks:
     color: '#B7DCB6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -160,7 +160,7 @@ collection_blocks:
     color: '#EDCBA7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-8.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '500'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -177,7 +177,7 @@ collection_blocks:
     color: '#BDD493'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-10.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -196,7 +196,7 @@ collection_blocks:
     color: '#CDD2EB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-12.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -240,7 +240,7 @@ collection_blocks:
     color: '#E8E1D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-17.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -268,7 +268,7 @@ collection_blocks:
     color: '#F0EEE2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/startingover-20.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row-end

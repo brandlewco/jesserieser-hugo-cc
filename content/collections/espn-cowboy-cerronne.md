@@ -72,7 +72,7 @@ collection_blocks:
     color: '#F1B784'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg'
     margin_left: '35'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-element
@@ -103,7 +103,7 @@ collection_blocks:
     color: '#B47D64'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-3.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -113,14 +113,14 @@ collection_blocks:
     color: '#9F7769'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#663C2B'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-7.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '10'
     margin_y: '300'
     width: '33'
@@ -131,7 +131,7 @@ collection_blocks:
     color: '#E98A74'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -147,7 +147,7 @@ collection_blocks:
     block: media-element
     color: '#866254'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '25'
     margin_y: '500'
     width: '33'
@@ -167,7 +167,7 @@ collection_blocks:
     color: '#F1D0B6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/cowboy-12.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-element

@@ -47,7 +47,7 @@ collection_blocks:
     color: '#C2A282'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-1.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -59,7 +59,7 @@ collection_blocks:
     color: '#DFEBEF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-2.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '500'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -80,7 +80,7 @@ collection_blocks:
     color: '#D8A6C7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-4.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-element
@@ -114,7 +114,7 @@ collection_blocks:
     color: '#F1B88C'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-6.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row-end

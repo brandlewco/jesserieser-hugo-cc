@@ -50,7 +50,7 @@ collection_blocks:
     color: '#FDE3BB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-1.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -66,7 +66,7 @@ collection_blocks:
     block: media-element
     color: '#FECAC4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-3.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '15'
     margin_y: '300'
     width: '30'
@@ -83,7 +83,7 @@ collection_blocks:
     block: media-element
     color: '#B2DDFD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-4.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '33'
@@ -103,7 +103,7 @@ collection_blocks:
     color: '#FDEBEB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-7.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -113,14 +113,14 @@ collection_blocks:
     color: '#EDF6C8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-8.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#E8F3F7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-9.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '5'
     margin_y: '300'
     width: '50'
@@ -131,7 +131,7 @@ collection_blocks:
     color: '#F9F3DD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-10.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -147,7 +147,7 @@ collection_blocks:
     block: media-element
     color: '#DFF7F4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/hearst-11.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '40'

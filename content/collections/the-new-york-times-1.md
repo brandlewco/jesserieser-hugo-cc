@@ -98,7 +98,7 @@ collection_blocks:
     color: '#E8DDF3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-1.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -110,7 +110,7 @@ collection_blocks:
     color: '#F1F7DB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-7.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -119,7 +119,7 @@ collection_blocks:
     caption: ''
     color: '#F4EEE3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '500'
     width: '40'
@@ -132,7 +132,7 @@ collection_blocks:
     color: '#F0E1FB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-2.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -154,7 +154,7 @@ collection_blocks:
     color: '#F7DFDF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -166,7 +166,7 @@ collection_blocks:
     color: '#FDF6D3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-5.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -188,7 +188,7 @@ collection_blocks:
     color: '#FFE7F2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-9.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -224,7 +224,7 @@ collection_blocks:
     color: '#E6F3FE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-13.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -248,7 +248,7 @@ collection_blocks:
     color: '#FDF9EA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-15.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -260,7 +260,7 @@ collection_blocks:
     color: '#EAEEF6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-14.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -294,7 +294,7 @@ collection_blocks:
     color: '#488397'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-18.jpg'
     margin_left: '50'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -306,7 +306,7 @@ collection_blocks:
     color: '#FEE1D7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-19.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -318,7 +318,7 @@ collection_blocks:
     color: '#F5EAF6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-20.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row-end

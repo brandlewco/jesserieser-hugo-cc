@@ -116,7 +116,7 @@ collection_blocks:
     color: '#EAF6E6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/atlantic-28.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-element
@@ -162,7 +162,7 @@ collection_blocks:
     color: '#E4F4F8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/atlantic-33.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row-end

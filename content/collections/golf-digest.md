@@ -55,7 +55,7 @@ collection_blocks:
     color: '#E9EFF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-1.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -64,7 +64,7 @@ collection_blocks:
     caption: ''
     color: '#EAE8BC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-2.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '15'
     margin_y: '800'
     width: '25'
@@ -77,7 +77,7 @@ collection_blocks:
     color: '#F4D9C9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-3.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -99,7 +99,7 @@ collection_blocks:
     color: '#F3F8CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-5.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '90'
   - _bookshop_name: collections/media-row
@@ -123,7 +123,7 @@ collection_blocks:
     color: '#EFEFEF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-7.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -145,7 +145,7 @@ collection_blocks:
     color: '#8E8E8E'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-9.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -179,7 +179,7 @@ collection_blocks:
     color: '#282828'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-12.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -191,7 +191,7 @@ collection_blocks:
     color: '#565656'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-13.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -203,7 +203,7 @@ collection_blocks:
     color: '#191919'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-14.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -257,7 +257,7 @@ collection_blocks:
     color: '#E8ECF1'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-15.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '50'
     width: '55'
   - _bookshop_name: collections/media-row

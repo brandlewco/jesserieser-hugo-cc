@@ -80,7 +80,7 @@ collection_blocks:
     color: '#F3F0DD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -92,7 +92,7 @@ collection_blocks:
     color: '#FF052A'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -138,7 +138,7 @@ collection_blocks:
     color: '#F3DFF7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -160,7 +160,7 @@ collection_blocks:
     color: '#E0F8D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-9.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element

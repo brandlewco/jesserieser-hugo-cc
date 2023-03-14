@@ -67,14 +67,14 @@ collection_blocks:
     color: '#D3CAF2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-1.jpg'
     margin_left: '35'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#F2DECC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-2.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '5'
     margin_y: '200'
     width: '30'
@@ -85,7 +85,7 @@ collection_blocks:
     color: '#FFD3C2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-5.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -148,7 +148,7 @@ collection_blocks:
     color: '#FEBC81'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-12.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -158,7 +158,7 @@ collection_blocks:
     color: '#BCCBD0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-13.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -192,7 +192,7 @@ collection_blocks:
     color: '#F2D6C7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-15.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -209,7 +209,7 @@ collection_blocks:
     color: '#DEEBA6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-17.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '1000'
     width: '25'
   - _bookshop_name: collections/media-row
@@ -219,14 +219,14 @@ collection_blocks:
     color: '#FBECDB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-19.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '800'
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#BDD3E7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-18.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '50'
@@ -237,7 +237,7 @@ collection_blocks:
     color: '#0D0B07'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wk-fisherprice-20.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row

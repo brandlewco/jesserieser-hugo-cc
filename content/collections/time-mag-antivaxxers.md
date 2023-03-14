@@ -85,7 +85,7 @@ collection_blocks:
     color: '#5CC5CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-5.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -95,14 +95,14 @@ collection_blocks:
     color: '#FEDFCD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-7.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '600'
     width: '20'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#FCE692'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-6.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '45'
@@ -113,7 +113,7 @@ collection_blocks:
     color: '#AEC7DE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-8.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -129,7 +129,7 @@ collection_blocks:
     block: media-element
     color: '#E9CEBF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-10.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '400'
     width: '50'
@@ -140,7 +140,7 @@ collection_blocks:
     color: '#F1F3CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-12.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -157,7 +157,7 @@ collection_blocks:
     block: media-element
     color: '#CFE3B4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-1.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '300'
     width: '55'

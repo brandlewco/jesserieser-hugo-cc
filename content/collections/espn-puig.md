@@ -47,7 +47,7 @@ collection_blocks:
     color: '#FBF2E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/puig-1.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -75,7 +75,7 @@ collection_blocks:
     color: '#F6DDCB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/puig-3.jpg'
     margin_left: '55'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -153,7 +153,7 @@ collection_blocks:
     block: media-element
     color: '#DCE4F2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/puig-9.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '10'
     margin_y: '500'
     width: '25'

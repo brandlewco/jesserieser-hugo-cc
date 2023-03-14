@@ -48,14 +48,14 @@ collection_blocks:
     color: '#DDAE93'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-3.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#E5ECBA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-4.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '10'
     margin_y: '700'
     width: '25'
@@ -66,7 +66,7 @@ collection_blocks:
     color: '#F8EADC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-5.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -86,14 +86,14 @@ collection_blocks:
     color: '#FFE4BD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-6.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '400'
     width: '55'
   - _bookshop_name: collections/media-element
     block: media-element
     color: '#E0E9F6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-7.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '33'
@@ -104,7 +104,7 @@ collection_blocks:
     color: '#E5D8D3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-1.jpg'
     margin_left: '35'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -114,7 +114,7 @@ collection_blocks:
     color: '#E1E3E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-9.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -131,7 +131,7 @@ collection_blocks:
     color: '#D5DFCB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-10.jpg'
     margin_left: '45'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -150,7 +150,7 @@ collection_blocks:
     color: '#E0E7F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sedona-12.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row

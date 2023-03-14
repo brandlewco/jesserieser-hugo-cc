@@ -68,7 +68,7 @@ collection_blocks:
     color: 'DDF3F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-1.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-motion
@@ -95,7 +95,7 @@ collection_blocks:
     color: 'EEF9C7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -207,7 +207,7 @@ collection_blocks:
     color: 'E7EEFF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '200'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -241,7 +241,7 @@ collection_blocks:
     color: 'FFEEDA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-13.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -269,7 +269,7 @@ collection_blocks:
     color: 'EAFDF1'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-14.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -291,7 +291,7 @@ collection_blocks:
     color: 'F9EDD5'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-16.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -313,7 +313,7 @@ collection_blocks:
     color: '75588C'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/escalaras-19.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row

@@ -79,7 +79,7 @@ collection_layout_builder:
     color: '#EDD7B2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -113,7 +113,7 @@ collection_layout_builder:
     color: '#F9D5D3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -124,8 +124,8 @@ collection_layout_builder:
     caption: ''
     color: '#D9E3F4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg'
-    margin_left: ''
-    margin_right: ''
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -134,7 +134,7 @@ collection_layout_builder:
     caption: ''
     color: '#E6F3E6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '0'
     margin_y: '400'
     width: '60'
@@ -147,7 +147,7 @@ collection_layout_builder:
     color: '#CFF1F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '50'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -169,7 +169,7 @@ collection_layout_builder:
     color: '#EBD1EF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg'
     margin_left: '35'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -193,7 +193,7 @@ collection_layout_builder:
     color: '#F9D4C0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -205,7 +205,7 @@ collection_layout_builder:
     color: '#F4D4D3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -242,7 +242,7 @@ collection_layout_builder:
     color: '#ECD8F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-20.jpg'
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -254,7 +254,7 @@ collection_layout_builder:
     color: '#D7F9D5'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element
@@ -263,7 +263,7 @@ collection_layout_builder:
     caption: ''
     color: '#F6F4D2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg'
-    margin_left: ''
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     width: '33'
@@ -276,7 +276,7 @@ collection_layout_builder:
     color: '#CFF7F2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row

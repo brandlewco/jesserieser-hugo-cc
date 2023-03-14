@@ -46,7 +46,7 @@ collection_blocks:
     color: '#B1BEDD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-1.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -81,7 +81,7 @@ collection_blocks:
     color: '#FBECE4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-5.jpg'
     margin_left: '0'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element

@@ -43,7 +43,7 @@ collection_blocks:
     color: '#D4D4D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/ice-1.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -53,7 +53,7 @@ collection_blocks:
     color: '#EDEDED'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg'
     margin_left: '5'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '900'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -80,7 +80,7 @@ collection_blocks:
     color: '#D7D7D7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/ice-5.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -97,7 +97,7 @@ collection_blocks:
     color: '#EFEFEF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/ice-7.jpg'
     margin_left: '15'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row-end

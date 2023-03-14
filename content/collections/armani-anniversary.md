@@ -63,7 +63,7 @@ collection_blocks:
     color: '#E9E8F2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
     margin_left: '20'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row

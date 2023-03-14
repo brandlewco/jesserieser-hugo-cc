@@ -64,7 +64,7 @@ collection_blocks:
     color: '#A994AB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg'
     margin_left: '35'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -94,7 +94,7 @@ collection_blocks:
     color: '#D7E5C6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/barron-5.jpg'
     margin_left: '25'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -111,7 +111,7 @@ collection_blocks:
     color: '#F9D3D3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/barron-7.jpg'
     margin_left: '40'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -131,7 +131,7 @@ collection_blocks:
     color: '#D1C0DF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg'
     margin_left: '30'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row-end

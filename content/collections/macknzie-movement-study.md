@@ -39,7 +39,7 @@ collection_blocks:
     color: '#F8E0CE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg'
     margin_left: '10'
-    margin_right: ''
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
