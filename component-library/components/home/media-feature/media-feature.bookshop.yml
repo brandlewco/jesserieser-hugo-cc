@@ -49,7 +49,7 @@ _inputs:
   attached_collection:
     type: select
     options:
-      values: collections
+      values: collections.collections
   image:
     type: image
   align_y:
