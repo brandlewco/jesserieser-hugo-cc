@@ -65,11 +65,11 @@ collection_exhibition:
       _Grand Canyon National Park 100_  
       Etherton Gallery  
       Tucson, AZ (Group Show)
+    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C2A282
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-1b.jpg
     margin_left: 20
@@ -78,8 +78,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: DFEBEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-2.jpg
     margin_left: 10
@@ -95,8 +94,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D8A6C7
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-4.jpg
     margin_left: 40
@@ -105,8 +103,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EEDDDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
     margin_left: 25
@@ -114,15 +111,13 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F1B88C
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-6.jpg
     margin_left: 10
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: CFC78C
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-7.jpg
     margin_right: 10
@@ -130,8 +125,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C6A5C1
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-8.jpg
     margin_left: 5
@@ -140,15 +134,13 @@ collection_blocks:
     width: 90
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D4E8FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-9.jpg
     margin_left: 10
     margin_y: 400
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FAE386
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
     margin_left: 0
@@ -157,8 +149,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EED8CA
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-11.jpg
     margin_left: 15
@@ -167,8 +158,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E5DCD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-12.jpg
     margin_left: 60
@@ -194,8 +184,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D2A872
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-14.jpg
     margin_left: 5
@@ -204,16 +193,14 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EED4C4
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-3.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: CFB699
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-15.jpg
     margin_right: 25
@@ -221,8 +208,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EFDEC3
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-16.jpg
     margin_left: 20

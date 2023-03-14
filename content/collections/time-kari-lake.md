@@ -41,8 +41,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
@@ -53,8 +52,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-1.jpg
@@ -65,8 +63,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
@@ -86,8 +83,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFD9CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-5.jpg
@@ -96,8 +92,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
@@ -108,8 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-2.jpg
@@ -118,8 +112,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
@@ -130,8 +123,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F0E7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
@@ -140,8 +132,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8F9FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
@@ -152,8 +143,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FFEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
@@ -164,8 +154,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FBD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-12.jpg
@@ -174,8 +163,7 @@ collection_blocks:
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEACD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-14.jpg
@@ -186,8 +174,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-13.jpg
@@ -198,8 +185,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-15.jpg

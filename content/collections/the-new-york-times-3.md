@@ -104,8 +104,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
@@ -114,8 +113,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg
@@ -126,8 +124,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg
@@ -149,8 +146,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFD9CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-5.jpg
@@ -159,8 +155,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-6.jpg
@@ -171,8 +166,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg
@@ -181,8 +175,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg
@@ -193,8 +186,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F0E7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg
@@ -203,8 +195,7 @@ collection_blocks:
     margin_y: 100
     width: 55
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8F9FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg
@@ -215,8 +206,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FFEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg
@@ -227,8 +217,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FBD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-12.jpg
@@ -237,8 +226,7 @@ collection_blocks:
     margin_y: 400
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEACD
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-14.jpg
@@ -249,8 +237,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-13.jpg
@@ -259,8 +246,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-15.jpg
@@ -273,8 +259,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9E0E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-16.jpg

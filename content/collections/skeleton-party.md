@@ -52,8 +52,7 @@ title: Skeleton Party
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -65,8 +64,7 @@ collection_blocks:
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -78,8 +76,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -89,8 +86,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 700
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -102,8 +98,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -115,8 +110,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>1.</strong> <em>Christmas In America: Happy Birthday,
       Jesus</em></p>
@@ -126,8 +120,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: E4F1F4
@@ -138,8 +131,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds </em></p>
     color: FFD0C6
@@ -149,8 +141,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -160,8 +151,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> The <em>Wall Street Journal: Apollo 11 50th
       Anniversary </em></p>
@@ -173,8 +163,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: DAECB9
@@ -182,8 +171,7 @@ collection_blocks:
     margin_left: 10
     margin_y: 400
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -195,8 +183,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Wired: The Internet Giant That Went Too
       Far</em></p>
@@ -210,8 +197,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Condor Airlines: The Star Geezers</em></p>
     color: F6D4C8
@@ -220,8 +206,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 400
     width: 45
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds</em></p>
     color: FFEC96
@@ -232,8 +217,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Society Magazine: Stalking A Serial
       Killer</em></p>
@@ -242,8 +226,7 @@ collection_blocks:
     margin_left: 0
     margin_y: 100
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>5.</strong> <em>Nike Running's Fred Kerley</em></p>
     color: FADEE0
@@ -254,8 +237,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>5.</strong> <em>Hearst Italia: Gioa</em></p>
     color: FFF4D0
@@ -266,8 +248,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -277,8 +258,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4.</strong> <em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -290,8 +270,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1.</strong> <em>The Class of 99 Turns 30</em></p>
     color: D0ECE8
@@ -299,8 +278,7 @@ collection_blocks:
     margin_left: 10
     margin_y: 300
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>5.</strong> <em>Makenzie Gossage</em></p>
     color: EAB7C1
@@ -311,8 +289,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>5.</strong> <em>Adidas Golf: Dustin Johnson</em></p>
     color: CACACA
@@ -320,8 +297,7 @@ collection_blocks:
     margin_left: 15
     margin_y: 300
     width: 50
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>3.</strong> <em>Sounds of Cement</em></p>
     color: 0A0A0A
@@ -332,8 +308,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: E7E7ED
@@ -341,8 +316,7 @@ collection_blocks:
     margin_left: 5
     margin_y: 200
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: FAC7D5
@@ -353,8 +327,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1. </strong><em>A Vanishing American Folklore</em></p>
     color: F6E7DF
@@ -365,8 +338,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.</strong> <em>Amtrak the National: Palm Springs to Yuma On
       the Sunset Limited</em></p>
@@ -376,8 +348,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 300
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: E6EBEE
@@ -387,8 +358,7 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: E0E0E0
@@ -396,8 +366,7 @@ collection_blocks:
     margin_left: 15
     margin_y: 500
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Phoenix Home &amp; Garden: Unbridled
       Spirit</em></p>
@@ -409,8 +378,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2.<em> </em></strong><em>Time: Grand Canyon 100th
       Anniversary</em> </p>
@@ -421,8 +389,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
     color: E7EEF1
@@ -430,8 +397,7 @@ collection_blocks:
     margin_left: 15
     margin_y: 400
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
     color: F4D0B9
@@ -442,8 +408,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3.</strong> <em>Jerry Hall's Sad Instagram</em></p><p></p>
     color: F1E0DA
@@ -463,8 +428,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Wired: The Hard-Luck Texas Town That Bet on
       Bitcoin and Lost</em></p>
@@ -476,8 +440,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Wired: The Hard-Luck Texas Town That Bet on
       Bitcoin and Lost</em></p>
@@ -488,8 +451,7 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3. </strong><em>Wired: The Internet Giant That Went Too
       Far</em></p>
@@ -499,8 +461,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 600
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Amtrak The National: Ted Turner is on a Mission
       to Save Everything</em></p>
@@ -512,8 +473,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>2. </strong><em>Outside: Rob Krar Running in the Dark </em></p>
     color: FA9176
@@ -522,8 +482,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>1. </strong><em>Starting Over: Will Move for Work</em></p>
     color: CDECEE
@@ -534,8 +493,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>4. </strong><em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -547,8 +505,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Christmas In America: Happy Birthday,
       Jesus</em></p>
@@ -557,8 +514,7 @@ collection_blocks:
     margin_left: 10
     margin_y: 200
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>2. </strong><em>Christmas In America: Happy Birthday,
       Jesus</em></p>
@@ -570,8 +526,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3. </strong><em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -581,8 +536,7 @@ collection_blocks:
     margin_right: 0
     margin_y: 700
     width: 45
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3. </strong><em>Phoenix: A Dystopian Legoland That Tastes Like
       Candy</em></p>
@@ -593,8 +547,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>2. </strong><em>Time: Grand Canyon 100th Anniversary </em></p>
     color: A88568
@@ -604,8 +557,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>1. </strong><em>Amtrak the National: On the Southwest
       Chief</em></p>
@@ -617,8 +569,7 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <p><strong>3. </strong><em>ESPN: UFC 246: The Painful Stories Behind
       Cowboy Cerrone's Injuries </em></p>
@@ -630,8 +581,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>5. </strong><em>Makenzie Gossage</em></p>
     color: F2D7B7
@@ -639,8 +589,7 @@ collection_blocks:
     margin_left: 15
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>4.</strong> <em>Crazy Explosive Primeknit </em></p>
     color: 030303
@@ -651,8 +600,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>3. </strong><em>Sounds of Cement</em></p>
     color: C0C0C0
@@ -660,8 +608,7 @@ collection_blocks:
     margin_left: 5
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>5. </strong><em>Adidas Golf: Xander Schaufelle</em></p>
     color: 959595
@@ -672,8 +619,7 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: >-
       <strong>3. </strong><em>Sounds of Cement</em></p>
     color: 454545

@@ -53,8 +53,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF3F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-1.jpg
@@ -65,8 +64,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EEF9C7
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-16.jpg
@@ -75,8 +73,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBE3E5
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-3.jpg
@@ -89,8 +86,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EADAF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-4.jpg
@@ -101,8 +97,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF6D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-5.jpg
@@ -111,8 +106,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E3EFF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-6.jpg
@@ -123,8 +117,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7E8DB
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-7.jpg
@@ -133,8 +126,7 @@ collection_blocks:
     margin_y: 300
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7E0FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-8.jpg
@@ -145,8 +137,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E7EEFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-9.jpg
@@ -157,8 +148,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8FDF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-10.jpg
@@ -167,8 +157,7 @@ collection_blocks:
     margin_y: 200
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEBE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-11.jpg
@@ -179,8 +168,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEBD0
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-12.jpg
@@ -192,8 +180,7 @@ collection_blocks:
     row_alignment: between
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    block: media-element
+    align_y: start 
     caption: 
     color: FFE0E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-diptech-1.jpg
@@ -202,8 +189,7 @@ collection_blocks:
     margin_y: 200
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: start
-    block: media-element
+    align_y: start 
     caption: 
     color: F4E2FC
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-diptech-2.jpg
@@ -214,8 +200,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEEDA
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-13.jpg
@@ -226,8 +211,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EAFDF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-15.jpg
@@ -238,8 +222,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EAEEF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-14.jpg
@@ -250,8 +233,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9EDD5
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-17.jpg
@@ -260,8 +242,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E9E2F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-18.jpg
@@ -274,8 +255,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8E4D9
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-20.jpg
@@ -286,8 +266,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: 75588C
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-21.jpg
@@ -338,8 +317,7 @@ collection_blocks:
     text_tracking: normal
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9F2F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-1.jpg
@@ -350,8 +328,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFEFE9
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-2.jpg
@@ -362,8 +339,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F2EEF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-3.jpg
@@ -374,8 +350,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EEFFEB
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-4.jpg
@@ -384,8 +359,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E5F4FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-28.jpg
@@ -398,8 +372,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FCF4ED
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-6.jpg

@@ -38,8 +38,7 @@ title: Zeit Magazin
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D4D4D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-1.jpg
     margin_left: 15
@@ -48,16 +47,14 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EDEDED
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 900
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 4D4D4D
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-2.jpg
     margin_left: 0
@@ -66,8 +63,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 272727
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-4.jpg
     margin_left: 30
@@ -75,16 +71,14 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D7D7D7
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-5.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: A7A7A7
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-6.jpg
     margin_right: 20
@@ -92,8 +86,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EFEFEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-7.jpg
     margin_left: 15

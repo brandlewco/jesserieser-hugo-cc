@@ -39,8 +39,7 @@ title: Nike Running’s
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: A0ECEC
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
     margin_left: 35
@@ -49,15 +48,13 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FBF0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
     margin_left: 10
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D3E7AF
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
     margin_right: 5
@@ -65,8 +62,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FFD5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
     margin_left: 35
@@ -74,16 +70,14 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FBECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C5E4F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
     margin_right: 5

@@ -52,8 +52,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
@@ -62,8 +61,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F9FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
@@ -74,8 +72,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-3.jpg
@@ -86,8 +83,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFD9CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-5.jpg
@@ -107,8 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF5DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-6.jpg
@@ -119,8 +114,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7F7D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-7.jpg
@@ -129,8 +123,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0EFFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-8.jpg

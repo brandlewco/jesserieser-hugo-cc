@@ -76,8 +76,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCE3F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-1.jpg
@@ -88,8 +87,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFE5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-2.jpg
@@ -100,8 +98,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C6E2D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-3.jpg
@@ -110,8 +107,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8D7E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-4.jpg
@@ -122,8 +118,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EDE5DE
     image: https://d1sf55qlb7p6hz.cloudfront.net/ghost-redo01.jpg
@@ -134,8 +129,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFCAB3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-6.jpg
@@ -146,8 +140,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8EBCC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-7.jpg
@@ -156,8 +149,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-8.jpg
@@ -168,8 +160,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3E1D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-9.jpg
@@ -180,8 +171,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F4DFE7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-10.jpg
@@ -192,8 +182,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5F4F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-11.jpg
@@ -202,8 +191,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9D1BC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-12.jpg
@@ -214,8 +202,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CCE3FA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-13.jpg
@@ -224,8 +211,7 @@ collection_blocks:
     margin_y: 300
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F0F3D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-14.jpg
@@ -236,8 +222,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EADEF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-15.jpg
@@ -248,8 +233,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D0F1F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-16.jpg
@@ -260,8 +244,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F1E3CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-17.jpg
@@ -270,8 +253,7 @@ collection_blocks:
     margin_y: 300
     width: 55
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9DECE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-18.jpg
@@ -282,8 +264,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8F3D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-21.jpg
@@ -292,8 +273,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CCE1F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-20.jpg
@@ -304,8 +284,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5D9F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-19.jpg
@@ -316,8 +295,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBC1A2
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-22.jpg
@@ -328,8 +306,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EDDAF0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-23.jpg
@@ -338,8 +315,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F6F1D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-24.jpg
@@ -350,8 +326,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8E9BA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-25.jpg
@@ -360,8 +335,7 @@ collection_blocks:
     margin_y: 100
     width: 55
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDEDF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-26.jpg
@@ -372,8 +346,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEBDA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-27.jpg
@@ -384,8 +357,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBFAC0
     image: https://d1sf55qlb7p6hz.cloudfront.net/ghost-redo02.jpg
@@ -396,8 +368,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDFFE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-29.jpg
@@ -410,8 +381,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: ECDDFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-30.jpg
@@ -422,8 +392,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF1FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg

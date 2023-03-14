@@ -42,8 +42,7 @@ title: ESPN The Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FBF2E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-1.jpg
     margin_left: 25
@@ -70,8 +69,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F6DDCB
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-3.jpg
     margin_left: 55
@@ -98,8 +96,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F6E8DC
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-5.jpg
     margin_left: 30
@@ -142,15 +139,13 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F7E7DA
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-7.jpg
     margin_left: 20
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: DCE4F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-9.jpg
     margin_left: 0
@@ -159,8 +154,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F5E0D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-10.jpg
     margin_left: 25

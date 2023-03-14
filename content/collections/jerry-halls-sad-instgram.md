@@ -36,16 +36,14 @@ title: Jerry Hall's Sad Instagram
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F3E3E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-1.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F9EBB7
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-2.jpg
     margin_left: 5
@@ -54,16 +52,14 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F6E2CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-5.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 200
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E5F3F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-6.jpg
     margin_left: 0
@@ -72,8 +68,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FADCC1
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-3.jpg
     margin_left: 30
@@ -82,8 +77,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FEEEC7
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-4.jpg
     margin_left: 15

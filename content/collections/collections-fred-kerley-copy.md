@@ -41,8 +41,7 @@ title: 'Banner Health: Significance'
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: B1BEDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-1.jpg
     margin_left: 30
@@ -51,15 +50,13 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FBF0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-2.jpg
     margin_left: 20
     margin_y: 100
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 2D4496
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-3.jpg
     margin_right: 0
@@ -67,8 +64,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C3DAF1
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-4.jpg
     margin_left: 35
@@ -76,16 +72,14 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FBECE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-5.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: CCE9F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-6.jpg
     margin_right: 5

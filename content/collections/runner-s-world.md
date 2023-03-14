@@ -49,8 +49,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBE3C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-1.jpg
@@ -59,8 +58,7 @@ collection_blocks:
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EEF8D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-2.jpg
@@ -86,8 +84,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9E6CD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-3.jpg
@@ -98,8 +95,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CBEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-4.jpg
@@ -110,8 +106,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8DAF9
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-5.jpg
@@ -120,8 +115,7 @@ collection_blocks:
     margin_y: 300
     width: 66
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8E0E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-6.jpg
@@ -132,8 +126,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0FBC5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-7.jpg
@@ -142,8 +135,7 @@ collection_blocks:
     margin_y: 400
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBE5C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-8.jpg
@@ -154,8 +146,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C5FBF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-9.jpg
@@ -166,8 +157,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBC5C6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-12.jpg
@@ -178,8 +168,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBE3C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-10.jpg
@@ -188,8 +177,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CFEFF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-11.jpg
@@ -215,8 +203,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEBD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-17.jpg
@@ -225,8 +212,7 @@ collection_blocks:
     margin_y: 200
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5FDDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-13.jpg
@@ -252,8 +238,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBDFFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-14.jpg
@@ -262,8 +247,7 @@ collection_blocks:
     margin_y: 200
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FCECD5
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-15.jpg
@@ -274,8 +258,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C5FBC7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-runnersworld-16.jpg

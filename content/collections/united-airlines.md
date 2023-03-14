@@ -43,16 +43,14 @@ title: United Airlines Rhapsody
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: DDAE93
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E5ECBA
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-4.jpg
     margin_left: 0
@@ -61,8 +59,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F8EADC
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-5.jpg
     margin_left: 40
@@ -71,8 +68,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EDD9E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-2.jpg
     margin_left: 20
@@ -81,16 +77,14 @@ collection_blocks:
     width: 70
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FFE4BD
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
     width: 55
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E0E9F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-7.jpg
     margin_left: 0
@@ -99,8 +93,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E5D8D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-1.jpg
     margin_left: 35
@@ -109,16 +102,14 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E1E3E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-9.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 300
     width: 50
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E7A894
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-8.jpg
     margin_right: 5
@@ -126,8 +117,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D5DFCB
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-10.jpg
     margin_left: 45
@@ -136,8 +126,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EEDED2
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-11.jpg
     margin_left: 35
@@ -145,8 +134,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E0E7F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-12.jpg
     margin_left: 5
@@ -155,8 +143,7 @@ collection_blocks:
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F8EFCF
     image: https://d1sf55qlb7p6hz.cloudfront.net/sedona-13.jpg
     margin_left: 45

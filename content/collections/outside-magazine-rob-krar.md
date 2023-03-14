@@ -66,8 +66,7 @@ title: Outside Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: CDDCEC
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-1.jpg
     margin_left: 15
@@ -76,8 +75,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EBF3F1
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-2.jpg
     margin_left: 50
@@ -85,16 +83,14 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EEDBBB
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-4.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 300
     width: 20
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EED8C9
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-3.jpg
     margin_left: 0
@@ -103,8 +99,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: CAE8EE
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-5.jpg
     margin_left: 20
@@ -113,16 +108,14 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F8DFC3
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-7.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 700
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E4AF97
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-6.jpg
     margin_left: 0
@@ -131,8 +124,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F8967D
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-8.jpg
     margin_left: 20
@@ -141,15 +133,13 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C4D4E2
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-9.jpg
     margin_left: 5
     margin_y: 200
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: B89990
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-10.jpg
     margin_left: 0
@@ -158,16 +148,14 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C4EDF3
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-13.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 700
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EEE0CC
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-11.jpg
     margin_right: 10
@@ -175,15 +163,13 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D1DEC4
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-14.jpg
     margin_left: 15
     margin_y: 100
     width: 45
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EFC69C
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-15.jpg
     margin_left: 0
@@ -192,15 +178,13 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C1EDF0
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-17.jpg
     margin_left: 5
     margin_y: 300
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FA855E
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-16.jpg
     margin_left: 0
@@ -209,15 +193,13 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FAB0A9
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-18.jpg
     margin_left: 10
     margin_y: 100
     width: 50
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EAE1B0
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-19.jpg
     margin_left: 0
@@ -226,8 +208,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FAE79D
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-20.jpg
     margin_left: 20

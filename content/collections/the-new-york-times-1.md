@@ -92,8 +92,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E8DDF3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-1.jpg
@@ -104,8 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F1F7DB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-7.jpg
@@ -114,8 +112,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F4EEE3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg
@@ -126,8 +123,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F0E1FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-2.jpg
@@ -136,8 +132,7 @@ collection_blocks:
     margin_y: 300
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E3F5FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-3.jpg
@@ -148,8 +143,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7DFDF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg
@@ -160,8 +154,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF6D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-5.jpg
@@ -172,8 +165,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0EEFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
@@ -182,8 +174,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFE7F2
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-9.jpg
@@ -194,8 +185,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1FDD8
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-10.jpg
@@ -206,8 +196,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFF5E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-11.jpg
@@ -218,8 +207,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6F3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-13.jpg
@@ -230,8 +218,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBD0D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-12.jpg
@@ -242,8 +229,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF9EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-15.jpg
@@ -254,8 +240,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EAEEF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-14.jpg
@@ -264,8 +249,7 @@ collection_blocks:
     margin_y: 300
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9E0E1
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-16.jpg
@@ -276,8 +260,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDE7FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-17.jpg
@@ -288,8 +271,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: 488397
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-18.jpg
@@ -300,8 +282,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FEE1D7
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-19.jpg
@@ -312,8 +293,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F5EAF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-20.jpg

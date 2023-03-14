@@ -55,6 +55,7 @@ collection_awards:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
+    template: popup-text-element
     url: 
 collection_exhibition:
   - content: |-
@@ -63,13 +64,13 @@ collection_exhibition:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
+    template: popup-text-element
     url: 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DFCADB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-1.jpg
@@ -80,8 +81,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C9E0E2
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-2.jpg
@@ -90,8 +90,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3DFD1
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-3.jpg
@@ -102,8 +101,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3CECE
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-4.jpg
@@ -114,8 +112,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: A8D3FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-5.jpg
@@ -124,8 +121,7 @@ collection_blocks:
     margin_y: 200
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E8BED6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-6.jpg
@@ -136,8 +132,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FAD5C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
@@ -146,8 +141,7 @@ collection_blocks:
     margin_y: 200
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F1D5D9
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-8.jpg
@@ -158,8 +152,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5E8CB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-09b.jpg
@@ -170,8 +163,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EBE0D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-10.jpg
@@ -180,8 +172,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: ADDBD7
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-11.jpg
@@ -192,8 +183,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: ECDBDB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-12.jpg
@@ -204,8 +194,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C0DFDB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-13.jpg
@@ -214,8 +203,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F5E2CB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-14.jpg
@@ -226,8 +214,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C8F1CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-15.jpg
@@ -238,8 +225,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CCC2FD
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-16.jpg
@@ -250,8 +236,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FAC2E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-17.jpg
@@ -262,8 +247,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: 837395
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-19.jpg
@@ -272,8 +256,7 @@ collection_blocks:
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C1CFB9
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-18.jpg
@@ -284,8 +267,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D1BCAF
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-20.jpg
@@ -296,8 +278,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6CFD9
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-21.jpg
@@ -308,8 +289,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F4E4D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-22.jpg
@@ -318,8 +298,7 @@ collection_blocks:
     margin_y: 200
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3D7D6
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-23.jpg
@@ -330,8 +309,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EAF4FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-24.jpg
@@ -342,8 +320,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E8D1EA
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-25.jpg
@@ -352,8 +329,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FA938A
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-26.jpg
@@ -364,8 +340,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: B7D1E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-28.jpg
@@ -376,8 +351,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3B99E
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-27.jpg
@@ -388,8 +362,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: B5E3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-29.jpg
@@ -400,8 +373,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: ABC6EC
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-30.jpg
@@ -412,8 +384,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EAD8CB
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-31.jpg
@@ -429,5 +400,6 @@ collection_press:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon: 
+    template: popup-text-element
     url: 
 ---

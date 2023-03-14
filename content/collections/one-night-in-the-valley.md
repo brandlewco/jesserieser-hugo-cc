@@ -41,8 +41,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C2A282
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-1.jpg
@@ -53,8 +52,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DFEBEF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-2.jpg
@@ -74,8 +72,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8A6C7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-4.jpg
@@ -84,8 +81,7 @@ collection_blocks:
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EEDDDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-5.jpg
@@ -96,8 +92,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CFC78C
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-7.jpg
@@ -108,8 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F1B88C
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-6.jpg

@@ -68,13 +68,13 @@ collection_awards:
       AP 38: American Photography Annual 38  
       Best Editorial Series
     icon: 
+    template: popup-text-element
     url: 
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3F0DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg
@@ -85,8 +85,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FF052A
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
@@ -97,8 +96,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E3F4EB
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-3.jpg
@@ -107,8 +105,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBEBE1
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-4.jpg
@@ -119,8 +116,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E3F5FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_repacemen-3.jpg
@@ -131,8 +127,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3DFF7
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
@@ -141,8 +136,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FE1A25
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
@@ -153,8 +147,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E0F8D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-9.jpg
@@ -163,8 +156,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9EFD6
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-8.jpg
@@ -175,8 +167,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FE012C
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-10.jpg

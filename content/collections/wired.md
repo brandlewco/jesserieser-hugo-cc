@@ -87,6 +87,7 @@ collection_awards:
       **2020**  
       _AP 36 American Photography Annual 36_  
       Best Editorial Work Series
+    template: popup-text-element
 collection_layout_builder:
   - _bookshop_name: collections/media-element
     align_y: start
@@ -107,8 +108,7 @@ collection_layout_builder:
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-element
-    align_y: start
-    block: media-element
+    align_y: start 
     caption: 
     color: E4D3BF
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
@@ -117,8 +117,7 @@ collection_layout_builder:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 8AADC9
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
@@ -127,8 +126,7 @@ collection_layout_builder:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: C36945
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-5.jpg
@@ -136,8 +134,7 @@ collection_layout_builder:
     margin_right: 0
     margin_y: 300
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: D5DA9E
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-4.jpg
@@ -147,8 +144,7 @@ collection_layout_builder:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 8ABBB6
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-8.jpg
@@ -157,16 +153,14 @@ collection_layout_builder:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: F9F8F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg
     margin_left: 0
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 4D4D4D
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-10.jpg
@@ -175,8 +169,7 @@ collection_layout_builder:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: center
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 979797
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-7.jpg
@@ -186,8 +179,7 @@ collection_layout_builder:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: start
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: E2DFDF
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-6.jpg
@@ -215,16 +207,14 @@ collection_layout_builder:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    block: media-element
+    align_y: start 
     caption: 
     color: B7B7B7
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-13.jpg
     margin_left: 25
     margin_y: 400
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 535353
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-12.jpg
@@ -234,8 +224,7 @@ collection_layout_builder:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: 424242
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-14.jpg
@@ -245,8 +234,7 @@ collection_layout_builder:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     caption: 
     color: A2A2A2
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-15.jpg

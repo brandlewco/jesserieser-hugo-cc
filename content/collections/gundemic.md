@@ -73,8 +73,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCE3F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-1.jpg
@@ -85,8 +84,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFE5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-2.jpg
@@ -95,8 +93,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C6E2D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-3.jpg
@@ -107,8 +104,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8D7E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-4.jpg
@@ -119,8 +115,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EDE5DE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-5.jpg
@@ -131,8 +126,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFCAB3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-6.jpg
@@ -143,8 +137,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8EBCC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-7.jpg
@@ -155,8 +148,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-guns-redo-1.jpg
@@ -165,8 +157,7 @@ collection_blocks:
     margin_y: 200
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3E1D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-9.jpg
@@ -177,8 +168,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F4DFE7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-10.jpg
@@ -189,8 +179,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5F4F6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-11.jpg
@@ -199,8 +188,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9D1BC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-12.jpg
@@ -211,8 +199,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CCE3FA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-13.jpg
@@ -223,8 +210,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F0F3D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-14.jpg
@@ -235,8 +221,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EADEF4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-15.jpg
@@ -247,8 +232,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D0F1F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
@@ -259,8 +243,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F1E3CF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-17.jpg
@@ -271,8 +254,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F9DECE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-18.jpg
@@ -281,8 +263,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D5D9F0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-19.jpg
@@ -293,8 +274,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8F3D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-21.jpg
@@ -303,8 +283,7 @@ collection_blocks:
     margin_y: 600
     width: 40
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: CCE1F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-20.jpg
@@ -315,8 +294,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBC1A2
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-22.jpg
@@ -325,8 +303,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EDDAF0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-23.jpg
@@ -337,8 +314,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F6F1D0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-24.jpg
@@ -349,8 +325,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDEDF6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-26.jpg
@@ -361,8 +336,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8E9BA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-25.jpg
@@ -371,8 +345,7 @@ collection_blocks:
     margin_y: 300
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEBDA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-27.jpg
@@ -383,8 +356,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDFFE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-29.jpg
@@ -395,8 +367,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: ECDDFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-30.jpg
@@ -407,8 +378,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDF1FF
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-31.jpg
@@ -419,8 +389,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DDFFE6
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-32.jpg
@@ -429,8 +398,7 @@ collection_blocks:
     margin_y: 500
     width: 25
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFEFDD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-33.jpg
@@ -452,8 +420,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCE3F3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-35.jpg
@@ -464,8 +431,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFE5DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-36.jpg
@@ -474,8 +440,7 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: C6E2D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-37.jpg
@@ -486,8 +451,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8D7E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-38.jpg
@@ -498,8 +462,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EDE5DE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-39.jpg
@@ -510,8 +473,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EFCAB3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-40.jpg
@@ -520,8 +482,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F8EBCC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-41.jpg
@@ -532,8 +493,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: DCEDF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-42.jpg
@@ -544,8 +504,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F3E1D4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-43.jpg

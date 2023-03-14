@@ -41,11 +41,11 @@ collection_awards:
   - content: |-
       **2016**  
       _AP 32: American Photography Annual 32_
+    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FDE3BB
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-1.jpg
     margin_left: 30
@@ -54,15 +54,13 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: B7F5F8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-2.jpg
     margin_left: 5
     margin_y: 100
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FECAC4
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-3.jpg
     margin_left: 0
@@ -71,15 +69,13 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F5DFF8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-5.jpg
     margin_left: 0
     margin_y: 300
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: B2DDFD
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-4.jpg
     margin_left: 0
@@ -88,8 +84,7 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C9F6F9
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-6.jpg
     margin_left: 40
@@ -97,8 +92,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FDEBEB
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-7.jpg
     margin_left: 25
@@ -107,16 +101,14 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EDF6C8
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-8.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E8F3F7
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-9.jpg
     margin_left: 0
@@ -125,8 +117,7 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F9F3DD
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-10.jpg
     margin_left: 10
@@ -135,15 +126,13 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D2ECFF
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-12.jpg
     margin_left: 5
     margin_y: 400
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: DFF7F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-11.jpg
     margin_left: 0
@@ -152,8 +141,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FEEEEE
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-13.jpg
     margin_left: 30

@@ -72,8 +72,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F2E5F9
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-1.jpg
@@ -84,8 +83,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E1F0FB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-2.jpg
@@ -94,8 +92,7 @@ collection_blocks:
     margin_y: 400
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBF4E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-3.jpg
@@ -106,8 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FBE4E4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-4.jpg
@@ -116,8 +112,7 @@ collection_blocks:
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FDF6D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-5.jpg
@@ -128,8 +123,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: EEE3F4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-6.jpg
@@ -140,8 +134,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FFFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-11.jpg
@@ -152,8 +145,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: F7EFDB
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-7.jpg
@@ -162,8 +154,7 @@ collection_blocks:
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFE7E7
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-15.jpg
@@ -174,8 +165,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: D8FDDA
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-10.jpg
@@ -186,8 +176,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFF0E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-8.jpg
@@ -198,8 +187,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFE3FE
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-12.jpg
@@ -212,8 +200,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: E6FEFD
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-13.jpg
@@ -224,8 +211,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 
-    block: media-element
+    align_y:  
     caption: 
     color: FFE4E4
     image: https://d1sf55qlb7p6hz.cloudfront.net/rent-14.jpg

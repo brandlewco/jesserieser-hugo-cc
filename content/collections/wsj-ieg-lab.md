@@ -84,8 +84,7 @@ title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FFF0AE
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-1.jpg
     margin_left: 35
@@ -112,16 +111,14 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FFE9E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EEFBFC
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-4.jpg
     margin_right: 5
@@ -129,8 +126,7 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EAF6E6
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-5.jpg
     margin_left: 30
@@ -139,16 +135,14 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E5FAF5
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-6.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: FDF3CA
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-7.jpg
     margin_left: 0
@@ -157,8 +151,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E4F4F8
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-8.jpg
     margin_left: 30
@@ -167,16 +160,14 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F5EEEA
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-9.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F1F8EE
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-10.jpg
     margin_right: 10

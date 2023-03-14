@@ -48,8 +48,7 @@ title: 'Arizona Lottery: Welcome Back Willie'
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: BABECD
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-1.jpg
     margin_left: 10
@@ -58,8 +57,7 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: EED8C5
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-2.jpg
     margin_left: 55
@@ -78,8 +76,7 @@ collection_blocks:
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: AAB792
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-3.jpg
     margin_left: 5
@@ -97,8 +94,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F5F0DB
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-4.jpg
     margin_left: 20
@@ -107,8 +103,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F1E2E0
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-5.jpg
     margin_left: 30
@@ -117,16 +112,14 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C6DBEB
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-6.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 300
     width: 30
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F3D3A7
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-7.jpg
     margin_left: 0
@@ -135,8 +128,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: DFDFDF
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-8.jpg
     margin_left: 25

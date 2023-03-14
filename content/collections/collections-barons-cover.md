@@ -48,17 +48,18 @@ collection_awards:
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+    template: popup-text-element
 collection_exhibition:
   - content: |-
       **2019**  
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: A994AB
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
     margin_left: 35
@@ -77,8 +78,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F3D4B6
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-4.jpg
     margin_left: 20
@@ -87,16 +87,14 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D7E5C6
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-5.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 300
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E6CAE4
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-6.jpg
     margin_right: 10
@@ -104,8 +102,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F9D3D3
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-7.jpg
     margin_left: 40
@@ -114,8 +111,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: F9F0C2
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-10.jpg
     margin_left: 15
@@ -124,8 +120,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D1C0DF
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg
     margin_left: 30
@@ -139,4 +134,5 @@ collection_press:
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+    template: popup-text-element
 ---

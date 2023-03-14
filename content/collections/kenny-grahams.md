@@ -43,16 +43,14 @@ title: Nike’s Kenny Graham’s
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: E9E9E9
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-1.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 5B5B5B
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-2.jpg
     margin_left: 0
@@ -61,16 +59,14 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 8D8D8D
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-4.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 300
     width: 45
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D6D6D6
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-3.jpg
     margin_left: 0
@@ -79,8 +75,7 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C1C1C1
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-5.jpg
     margin_left: 20
@@ -89,16 +84,14 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 414141
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-6.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 500
     width: 25
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: efefef
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-7.jpg
     margin_left: 0
@@ -107,8 +100,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 8B8B8B
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-8.jpg
     margin_left: 30
@@ -116,8 +108,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: efefef
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-9.jpg
     margin_left: 15
@@ -126,16 +117,14 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: B6B6B6
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-10.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 33
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 777777
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-11.jpg
     margin_left: 0
@@ -144,8 +133,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 414141
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-13.jpg
     margin_left: 15
@@ -154,15 +142,13 @@ collection_blocks:
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 8C8C8C
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-14.jpg
     margin_left: 5
     margin_y: 400
     width: 45
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: D8D8D8
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-12.jpg
     margin_left: 0
@@ -171,8 +157,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 797979
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-15.jpg
     margin_left: 25
@@ -180,15 +165,13 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: efefef
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-18.jpg
     margin_left: 5
     margin_y: 300
     width: 60
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: C4C4C4
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-16.jpg
     margin_right: 5
@@ -196,8 +179,7 @@ collection_blocks:
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 323232
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-17.jpg
     margin_left: 40
@@ -206,8 +188,7 @@ collection_blocks:
     width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    block: media-element
+  - _bookshop_name: collections/media-element 
     color: 777777
     image: https://d1sf55qlb7p6hz.cloudfront.net/kg-redobw-19.jpg
     margin_left: 20
