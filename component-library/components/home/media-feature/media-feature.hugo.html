@@ -8,8 +8,8 @@
 
 <article class="block-hover sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <figure class="figure relative " style="background: {{with .color}}{{.}}{{else}}{{.Page.Params.theme_color}}{{end}};" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" id="{{ $fileName }}" data-sal="image">
-    {{ with .attached_collection }}
-    <a>
+    {{ with .Site.GetPage .attached_collection }}
+    <a href="/{{.slug | urlize}}" alt="View Collection - {{ .title | markdownify}} - Jesse Rieser">
       {{end}}
         <img class="lazyload"
         data-sizes="auto"
