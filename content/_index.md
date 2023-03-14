@@ -20,7 +20,7 @@ content_blocks:
     meta_align: right
     color: cdf0d6
     meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: 'content/collections/time-kari-lake.md'
+    attached_collection: content/collections/time-kari-lake.md
     text_color: ffd49b
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
