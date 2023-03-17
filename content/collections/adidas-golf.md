@@ -293,8 +293,7 @@ collection_press:
 attached_gallery: gallery/addidas.md
 collection_archive: false
 collection_hidden: false
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: black
 page: /collections/addidas
 px_extra: true

@@ -57,8 +57,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-4.jpg
 cover_image: 
 date: 2022-07-21T01:20:29.000Z
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: black
 px_extra: true
 row_alignment: between

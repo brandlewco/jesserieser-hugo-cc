@@ -29,8 +29,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover_4x3-4.jpg
 cover_image: 
 date: 2022-05-02T20:38:11.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: black
 px_extra: true
 row_alignment: between

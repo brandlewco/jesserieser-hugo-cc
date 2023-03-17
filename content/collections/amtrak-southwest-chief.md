@@ -30,8 +30,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-4-1.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-13.jpg
 date: 2019-08-01T07:00:00.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 logo: 
 navigation_theme: white
 page: /amtrak-chief

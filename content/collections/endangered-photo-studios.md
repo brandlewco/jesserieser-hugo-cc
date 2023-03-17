@@ -26,8 +26,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/studios-cover-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-5.jpg
 date: 
-hide_footer: true
-layout: blocks
+hide_footer: true 
 logo: 
 navigation_theme: white
 px_extra: true

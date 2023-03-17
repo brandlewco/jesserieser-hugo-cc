@@ -66,8 +66,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-newman-4.jpg
 cover_image: 
 date: 2022-07-21T01:24:16.000Z
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: white
 px_extra: true
 row_alignment: between

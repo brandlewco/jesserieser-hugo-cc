@@ -73,8 +73,7 @@ collection_preview:
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-2.jpg
 date: 2021-07-28T18:02:51.000Z
 gumroad_id: 
-hide_footer: false
-layout: blocks
+hide_footer: false 
 logo: 
 navigation_theme: white
 px_extra: true

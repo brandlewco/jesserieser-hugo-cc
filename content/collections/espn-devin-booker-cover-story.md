@@ -28,8 +28,7 @@ collection_preview:
 cover_image: 
 date: 2021-02-10T03:16:07.000Z
 description: 
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

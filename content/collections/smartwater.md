@@ -39,8 +39,7 @@ collection_preview:
 cover_image: 
 date: 2020-12-08T04:13:30.000Z
 gumroad_id: 
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: black
 price: 
 px_extra: true

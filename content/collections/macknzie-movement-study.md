@@ -23,8 +23,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/makenzie_covers-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-27.jpg
 date: 
-hide_footer: true
-layout: blocks
+hide_footer: true 
 logo: 
 navigation_theme: white
 slug: Mackenzie-Gossage

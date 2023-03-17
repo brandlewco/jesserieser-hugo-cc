@@ -72,8 +72,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/iec_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/iec_covers-5.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-31.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true

@@ -97,8 +97,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true

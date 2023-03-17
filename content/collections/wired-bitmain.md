@@ -74,8 +74,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/bitmain_covers-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bitmain_covers-5.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-32.jpg
-date: 2019-06-18T07:00:00.000Z
-layout: blocks
+date: 2019-06-18T07:00:00.000Z 
 logo: 
 navigation_theme: white
 px_extra: true

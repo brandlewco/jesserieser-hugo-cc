@@ -31,8 +31,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/golfdigest_4x3-4.jpg
 cover_image: 
 date: 2021-07-25T23:40:26.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

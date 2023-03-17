@@ -88,8 +88,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-2.jpg
 cover_image: 
 date: 2022-03-07T21:51:48.000Z
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: white
 px_extra: true
 row_alignment: between

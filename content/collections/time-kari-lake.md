@@ -25,8 +25,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-2.jpg
 cover_image: 
 date: 2022-10-31T23:20:53.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

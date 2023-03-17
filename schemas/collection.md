@@ -32,8 +32,7 @@ collection_press: []
 attached_gallery: gallery/addidas.md
 collection_archive: true
 collection_hidden: false
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 page: /collections/addidas
 px_extra: true

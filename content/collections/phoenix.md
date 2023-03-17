@@ -34,8 +34,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-10.jpg
 date: 
-hide_footer: true
-layout: blocks
+hide_footer: true 
 logo: 
 navigation_theme: black
 px_extra: true

@@ -50,8 +50,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-3.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-12.jpg
 date: 
-hide_footer: false
-layout: blocks
+hide_footer: false 
 logo: 
 navigation_theme: white
 px_extra: true

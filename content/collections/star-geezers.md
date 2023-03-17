@@ -51,8 +51,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-3.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-11.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true

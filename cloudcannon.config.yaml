@@ -143,6 +143,18 @@ _inputs:
         - Exhibited Works
         - Award Winning
         - Kids
+  ccollection_filter:
+    type: multiselect
+    options:
+      values:
+        - Commissioned + Stock
+        - Personal
+  navigation_theme:
+    type: select
+    options:
+      values:
+        - white
+        - black
 
 
 _structures:

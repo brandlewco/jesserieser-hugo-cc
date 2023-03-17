@@ -73,8 +73,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-4.jpg
 cover_image: 
 date: 2021-06-26T06:00:05.000Z
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: white
 px_extra: true
 row_alignment: between

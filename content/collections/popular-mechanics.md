@@ -50,8 +50,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/popmech_4x3-3.jpg
 cover_image: 
 date: 2021-07-25T23:18:43.000Z
-hide_footer: false
-layout: blocks
+hide_footer: false 
 navigation_theme: white
 px_extra: true
 row_alignment: between

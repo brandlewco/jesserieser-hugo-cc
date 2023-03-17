@@ -36,8 +36,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-4.jpg
 cover_image: 
 date: 2022-10-17T16:25:38.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

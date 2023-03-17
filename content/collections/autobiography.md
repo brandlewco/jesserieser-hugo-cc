@@ -96,8 +96,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-1.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true

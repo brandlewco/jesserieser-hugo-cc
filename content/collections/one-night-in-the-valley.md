@@ -25,8 +25,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-valley-4.jpg
 cover_image: 
 date: 2022-07-21T01:25:32.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

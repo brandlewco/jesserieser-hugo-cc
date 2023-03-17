@@ -34,8 +34,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/alcor_4x3-3.jpg
 cover_image: 
 date: 2021-08-11T22:46:00.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: black
 px_extra: true
 row_alignment: between

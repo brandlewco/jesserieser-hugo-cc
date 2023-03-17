@@ -41,8 +41,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/antivaxx_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/antivaxx_covers-4.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-34.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true

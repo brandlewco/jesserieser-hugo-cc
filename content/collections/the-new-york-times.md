@@ -36,8 +36,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/metro_covers-1.jpg
 cover_image: 
 date: 2021-02-08T06:23:01.000Z
-hide_footer: true
-layout: blocks
+hide_footer: true 
 navigation_theme: white
 px_extra: true
 row_alignment: between

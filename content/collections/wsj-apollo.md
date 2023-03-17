@@ -48,8 +48,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/apollo_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/apollo_covers-2.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-30.jpg
-date: 2019-08-01T07:00:00.000Z
-layout: blocks
+date: 2019-08-01T07:00:00.000Z 
 logo: 
 navigation_theme: black
 page: /collections/wsj-apollo

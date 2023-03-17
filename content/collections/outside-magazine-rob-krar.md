@@ -54,8 +54,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/krar_covers-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/krar_covers-6.jpg
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-37.jpg
-date: 
-layout: blocks
+date:  
 logo: 
 navigation_theme: white
 px_extra: true
