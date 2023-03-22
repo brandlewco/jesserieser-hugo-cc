@@ -29,12 +29,10 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview: [https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-1.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-2.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-3.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-4.jpg]
 collection_awards: []
 collection_press: []
-attached_gallery: gallery/addidas.md
 collection_archive: true
 collection_hidden: false
 hide_footer: true 
 navigation_theme: white
-page: /collections/addidas
 px_extra: true
 row_alignment: 
 slug: collections/adidas-basketball

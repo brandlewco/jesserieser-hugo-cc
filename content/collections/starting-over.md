@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/autobiography.md
 collection_archive: true
 collection_category:
   - Award Winning

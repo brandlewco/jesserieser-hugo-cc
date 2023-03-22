@@ -290,12 +290,10 @@ collection_preview:
 collection_awards: []
 collection_press:
   - content: "**2019**  \nAP 35: American Photography Annual 35  \nBest Personal Work Series:  \n\Phoenix: A Dystopian Legoland That Tastes Like Candy"
-attached_gallery: gallery/addidas.md
 collection_archive: false
 collection_hidden: false
 hide_footer: false 
 navigation_theme: black
-page: /collections/addidas
 px_extra: true
 row_alignment:
 slug: adidas-golf-adicross

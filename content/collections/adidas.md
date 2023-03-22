@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/addidas.md
 collection_archive: true
 collection_awards: []
 collection_category: [Award Winning, Stock, Black and White, Sports + Athletes, Black and White]
@@ -20,7 +19,6 @@ date: 2019-05-01T07:00:00Z
 hide_footer: true 
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 navigation_theme: white
-page: /addidas
 px_extra: true
 row_alignment: 
 slug: /adidas-basketball

@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/xmas.md
 collection_archive: false
 collection_category:
   - Award Winning

@@ -33,7 +33,6 @@ date: 2019-08-01T07:00:00.000Z
 hide_footer: true 
 logo: 
 navigation_theme: white
-page: /amtrak-chief
 px_extra: true
 slug: /southwest-chief
 theme_color: E3D2E7

@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/star-geezers.md
 collection_archive: false
 collection_awards: []
 collection_category:

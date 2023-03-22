@@ -51,7 +51,6 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-30.jpg
 date: 2019-08-01T07:00:00.000Z 
 logo: 
 navigation_theme: black
-page: /collections/wsj-apollo
 px_extra: true
 slug: wall-street-journal
 theme_color: FFD765

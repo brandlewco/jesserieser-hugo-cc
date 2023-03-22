@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/phoenix.md
 collection_archive: false
 collection_category:
   - Advertising

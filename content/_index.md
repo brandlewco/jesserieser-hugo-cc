@@ -26,7 +26,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
     title: TIME
   - _bookshop_name: home/media-row-end
-home_theme_color: '#edddde'
+home_theme_color: edddde
 collection_description: A student of subtleties.
 collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg

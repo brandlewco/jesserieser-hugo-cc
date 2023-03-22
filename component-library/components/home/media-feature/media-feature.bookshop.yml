@@ -50,6 +50,7 @@ _inputs:
     type: select
     options:
       values: collections.collections
+      value_key: content_path
   image:
     type: image
   align_y:

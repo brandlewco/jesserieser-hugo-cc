@@ -1,5 +1,4 @@
 ---
-attached_gallery: gallery/time.md
 collection_archive: false
 collection_awards: []
 collection_category:
