@@ -18,15 +18,15 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    color: cdf0d6
+    color: '#cdf0d6'
     meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: content/collections/time-kari-lake.md
-    text_color: ffd49b
+    attached_collection: collections/time-kari-lake.md
+    text_color: '#ffd49b'
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
     title: TIME
   - _bookshop_name: home/media-row-end
-home_theme_color: edddde
+home_theme_color: '#edddde'
 collection_description: A student of subtleties.
 collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
