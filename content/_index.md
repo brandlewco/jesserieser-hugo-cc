@@ -25,6 +25,19 @@ content_blocks:
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
     title: TIME
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/Souvenirs From Paradise.md
+    text_size: 2xl
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: 0%
+    margin_right: 0%
+    block_aspect_ratio: ''
+    title: Souvenirs From Paradise Exhibition
+    color: "#F3D7D7"
   - _bookshop_name: home/media-row-end
 home_theme_color: '#edddde'
 collection_description: A student of subtleties.
