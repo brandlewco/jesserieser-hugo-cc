@@ -1,6 +1,6 @@
 ---
 title: Adidas Basketball
-posts_blocks:
+post_blocks:
 blog_slider:
 attached_collection: collections/vanishing-folklore.md
 attached_link: ""
