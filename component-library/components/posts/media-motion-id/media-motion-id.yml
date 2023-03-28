@@ -16,7 +16,7 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  video_id: 0
+  vimeo_id: 0
   show_controls: false
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -25,7 +25,7 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  video_id:
+  vimeo_id:
     type: number
   show_controls:
     type: boolean
