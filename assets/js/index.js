@@ -476,6 +476,7 @@ function init() {
     // console.log(e);
     var lazydelay = e.getElementsByClassName("lazyload-delay");
     for (var i = 0; i < lazydelay.length; i++) {
+      console.log("lazload delay")
       lazydelay[i].classList.add("lazyload");
     }
   }

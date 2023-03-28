@@ -18,10 +18,10 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    color: '#cdf0d6'
+    color: cdf0d6
     meta: 'Kari Lake: Face of the New Maga Right'
     attached_collection: collections/time-kari-lake.md
-    text_color: '#ffd49b'
+    text_color: ffd49b
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
     title: TIME
@@ -30,14 +30,14 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/Souvenirs From Paradise.md
     text_size: 2xl
-    width: '33'
+    width: 33
     align_y: start
-    margin_y: '100'
-    margin_left: 0%
-    margin_right: 0%
-    block_aspect_ratio: ''
+    margin_y: 100
+    margin_left: 0
+    margin_right: 0
+    block_aspect_ratio: 
     title: Souvenirs From Paradise Exhibition
-    color: "#F3D7D7"
+    color: F3D7D7
   - _bookshop_name: home/media-row-end
 home_theme_color: '#edddde'
 collection_description: A student of subtleties.

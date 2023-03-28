@@ -472,6 +472,7 @@ module.exports = {
         "sm:mr-90%",
         "sm:mr-95%",
         "sm:mr-100%",
+        "sm:p-2",
         "sm:self-start",
         "sm:self-center",
         "sm:self-end",
