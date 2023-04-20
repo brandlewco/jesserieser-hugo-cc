@@ -28,7 +28,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    attached_blog: posts/Souvenirs From Paradise.md
+    attached_blog: posts/souvenirs-from-paradise.md
     text_size: 2xl
     width: 33
     align_y: start
