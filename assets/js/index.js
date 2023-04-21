@@ -3,7 +3,7 @@ import SwupScrollPlugin from "@swup/scroll-plugin";
 import SwupGtmPlugin from "@swup/gtm-plugin";
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
 import SwupScriptsPlugin from "@swup/scripts-plugin";
-import lazySizes from "lazysizes";
+import 'lazysizes';
 import "lazysizes/plugins/parent-fit/ls.parent-fit";
 import "lazysizes/plugins/respimg/ls.respimg";
 import sal from "sal.js";
@@ -473,10 +473,8 @@ function init() {
   }
 
   function lazyloadToggle(e) {
-    // console.log(e);
     var lazydelay = e.getElementsByClassName("lazyload-delay");
     for (var i = 0; i < lazydelay.length; i++) {
-      console.log("lazload delay")
       lazydelay[i].classList.add("lazyload");
     }
   }

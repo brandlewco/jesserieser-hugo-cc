@@ -106,22 +106,16 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-13.jpg
-    template: block-media-element-static
     width: 100
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-4.jpg
-    template: block-media-element-url
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-2.jpg
-    template: block-media-element-url
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-3.jpg
-    template: block-media-element-url
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-4.jpg
-    template: block-media-element-url
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-5.jpg
-    template: block-media-element-url
 ---

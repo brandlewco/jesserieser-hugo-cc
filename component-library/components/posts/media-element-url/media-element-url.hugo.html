@@ -1,17 +1,19 @@
-<!-- 
-<img class="lazyload-delay block h-full w-full object-contain absolute top-0 left-0" data-src="{{ .image }}?height=1080" data-srcset="{{ .image }}?height=1080"/>
- -->
- <div class="carousel-cell w-full" style="padding-top: 56.25%;">
-
- <figure class="block h-full w-full absolute top-0 left-0" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" >
-  <img
-  data-sizes="auto"
-  data-srcset="{{.image}}?width=450 450w,
+<div class="carousel-cell w-full" style="padding-top: 56.25%">
+  <figure
+    class="block h-full w-full absolute top-0 left-0"
+    itemprop="associatedMedia"
+    itemscope
+    itemtype="http://schema.org/ImageObject"
+  >
+    <img
+      data-sizes="auto"
+      data-srcset="{{.image}}?width=450 450w,
   {{.image }}?width=780 780w,
   {{.image }}?width=1440 1440w,
   {{.image }}?width=1920 1920w,
   {{.image }}?width=2560 2560w"
-  class="{{with .delay }}{{.}}{{else}}lazyload-delay{{end}} h-full object-contain z-0"
-  alt="{{ .caption }}"/>
-</figure>  
+      class="{{with .delay }}{{.}}{{else}}lazyload-delay{{end}} h-full object-contain z-0"
+      alt="{{ .caption }}"
+    />
+  </figure>
 </div>
