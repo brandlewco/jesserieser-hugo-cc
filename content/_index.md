@@ -35,7 +35,7 @@ content_blocks:
     margin_y: 100
     margin_left: 0
     margin_right: 0
-    block_aspect_ratio: 
+    block_aspect_ratio:
     title: Souvenirs From Paradise Exhibition
     color: F3D7D7
   - _bookshop_name: home/media-feature
@@ -57,7 +57,7 @@ content_blocks:
     attached_collection: collections/barrons-lake-mead-drought.md
     font_weight: semibold
     meta: Beyond the Drought Cover Story
-    title: "Barron's"
+    title: Barron's
     text_color: FFE9D8
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -78,7 +78,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     attached_collection: collections/antoine-s-escalaras.md
     color: E5F5B5
-    title: "Antoine's Escalaras"
+    title: Antoine's Escalaras
     meta: 2022 Communications Arts Photo Annual
     text_color: B4F0F7
     font_weight: semibold
@@ -112,9 +112,9 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
     color: D4DEE6
     attached_collection: collections/espn-devin-booker-cover-story.md
-    meta: "Devin Booker: Becoming Legendary Cover Story"
-    title: 
-    text_color: 
+    meta: 'Devin Booker: Becoming Legendary Cover Story'
+    title:
+    text_color:
     font_weight:
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -156,8 +156,8 @@ content_blocks:
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
     color: F8CFBF
-    title: The New York Times 
-    meta: Auctioning Off A Dead Mall 
+    title: The New York Times
+    meta: Auctioning Off A Dead Mall
     attached_collection: collections/the-new-york-times.md
     text_color: BCF9BF
   - _bookshop_name: home/media-row
@@ -171,7 +171,7 @@ content_blocks:
     margin_y: 500
     margin_left: 15
     margin_right: 0
-    title: "AP 38: American Photography Annual"
+    title: 'AP 38: American Photography Annual'
     color: FFAAAA
   - _bookshop_name: home/media-feature
     width: 40
@@ -213,13 +213,13 @@ content_blocks:
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-17.jpg
     color: D0E5EF
-    title: A Vanishing Folklore 
+    title: A Vanishing Folklore
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore.md
     text_color: FF3939
   - _bookshop_name: home/modal-blog
     attached_blog: posts/klompching-gallery-fresh.md
-    block_aspect_ratio: 
+    block_aspect_ratio:
     text_size: base
     width: 20
     align_y: start
@@ -232,7 +232,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
-    block_aspect_ratio: 
+    block_aspect_ratio:
     text_size: 2xl
     width: 25
     align_y: start
@@ -249,13 +249,13 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
     color: F4C8C8
-    meta: 2010 -  2019
-    margin_x: 
-    align_y: 
+    meta: "2010 - \_2019"
+    margin_x:
+    align_y:
     margin_left: 0
     margin_right: 10
     title_margin_left: 5
-    title_margin_right: 
+    title_margin_right:
     meta_align: right
     text_color: F7EE81
     text_size: 6xl
@@ -304,7 +304,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-27.jpg
     attached_collection: collections/wired-gunsite.md
     color: D9F4C3
-    title: Wired 
+    title: Wired
     meta: I Am Not a Soldier but I Have Been Trained to Kill
     text_color: FFB8FE
     font_weight: semibold
@@ -319,8 +319,8 @@ content_blocks:
     margin_right: 0
     title: Star Geezers on BOOOOOOM!
     color: FFE7C3
-    block_aspect_ratio: 
-    text_size: 
+    block_aspect_ratio:
+    text_size:
   - _bookshop_name: home/media-feature
     width: 50
     align_y: start
@@ -338,7 +338,7 @@ content_blocks:
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
     color: F8E4D0
-    title: "Vox's 100 Battles"
+    title: Vox's 100 Battles
     meta: Summoning the Ghost Town
     attached_collection: collections/vox-100-battles-ghost-towns.md
     text_color: A5F48A
@@ -352,11 +352,11 @@ content_blocks:
     attached_collection: collections/star-geezers.md
     title: The Star Geezers
     color: 9bbad5
-    meta: Condor Airlines (Germany)
-    margin_x: 
-    align_y: 
+    meta: "Condor\_Airlines (Germany)"
+    margin_x:
+    align_y:
     margin_left: 25
-    margin_right: 
+    margin_right:
     title_margin_left: 70
     title_margin_right: 0
     meta_align: left
@@ -369,7 +369,7 @@ content_blocks:
     title_margin_y: 15
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-photo-banter.md
-    block_aspect_ratio: 
+    block_aspect_ratio:
     text_size: 6xl
     width: 15
     align_y: start
@@ -434,7 +434,7 @@ content_blocks:
     margin_right: 0
     block_aspect_ratio: 3x2
     title: AP 38 Chosen Popular Mechanic
-    color: 
+    color:
   - _bookshop_name: home/media-feature
     width: 33
     align_y: start
@@ -443,7 +443,7 @@ content_blocks:
     margin_right: 5
     title_margin_y: 15
     title_margin_left: 5
-    title_margin_right: 
+    title_margin_right:
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -452,7 +452,7 @@ content_blocks:
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
     color: E4ECF7
-    title: The New York Times 
+    title: The New York Times
     meta: A Minor Leaguer’s Hard Road to the Bigs
     attached_collection: collections/the-new-york-times-3.md
     text_color: FF6065
@@ -484,8 +484,8 @@ content_blocks:
     text_tracking: normal
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
-    title: National Geographic 
-    meta:  50 Grades of Shade
+    title: National Geographic
+    meta: 50 Grades of Shade
     attached_collection: collections/national-geographic.md
     color: F5E9A3
     text_color: E0CAFB
@@ -505,7 +505,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-37-american-photography-annual.md
-    block_aspect_ratio: 
+    block_aspect_ratio:
     text_size: 2xl
     width: 33
     align_y: start
@@ -573,7 +573,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/sunset-spot.md
-    block_aspect_ratio: 
+    block_aspect_ratio:
     text_size: 2xl
     width: 20
     align_y: start
@@ -584,18 +584,18 @@ content_blocks:
     title: The Sunset Spot at Red Modern
   - _bookshop_name: home/media-feature
     width: 40
-    align_y: 
+    align_y:
     margin_y: 300
     margin_left: 5
     margin_right: 0
     title_margin_left: 50
-    title_margin_right: 
+    title_margin_right:
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-10.jpg
     color: D0F6CB
     attached_collection: collections/adidas-golf.md
     title: adidas Golf
-    meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia 
+    meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
     text_color: FDABAB
     text_size: 6xl
     text_alignment: left
@@ -613,7 +613,7 @@ content_blocks:
     margin_right: 10
     title: SPD 22
     color: D2B9ED
-    block_aspect_ratio: 
+    block_aspect_ratio:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -632,7 +632,7 @@ content_blocks:
     attached_collection: collections/amtrak-sunset-limited.md
     text_color: FF3939
     text_size: 6xl
-    text_alignment: 
+    text_alignment:
     text_tracking: normal
     font_weight: semibold
     line_height: none
@@ -662,7 +662,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
     title: Wired
     color: FFE087
-    meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost 
+    meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
     attached_collection: collections/wired-bitmain.md
     text_color: F8F1BC
     text_size: 6xl
@@ -677,14 +677,14 @@ content_blocks:
     margin_x: 0
     margin_y: 50
     title: WaPo
-    image: 
+    image:
     color: fde25e
     attached_blog: posts/the-changing-landscape-of-america-retail.md
-    align_y: 
+    align_y:
     margin_left: 0
     margin_right: 0
-    block_aspect_ratio: 
-    text_size: 
+    block_aspect_ratio:
+    text_size:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -696,7 +696,7 @@ content_blocks:
     margin_left: 15
     margin_right: 0
     color: AAFEBF
-    block_aspect_ratio: 
+    block_aspect_ratio:
     title: Spotlight Awards
   - _bookshop_name: home/media-feature
     width: 55
@@ -712,8 +712,8 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    title: The New York Times 
-    meta: America is Reopening. This is What it Looks Like 
+    title: The New York Times
+    meta: America is Reopening. This is What it Looks Like
     attached_collection: collections/the-new-york-times-1.md
     color: FDD3D3
     text_color: 81FF6E
@@ -731,7 +731,7 @@ content_blocks:
     title: Xmas Roundup
     color: C5C458
     block_aspect_ratio: 11x8.5
-    text_size: 
+    text_size:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
     width: 20
@@ -739,14 +739,14 @@ content_blocks:
     margin_y: 400
     margin_left: 0
     margin_right: 20
-    title: The Fence 
+    title: The Fence
     color: EED2D2
-    block_aspect_ratio: 
-    text_size: 
+    block_aspect_ratio:
+    text_size:
   - _bookshop_name: home/media-row-end
-home_theme_color: edddde
+home_theme_color: '#edddde'
 collection_description: A student of subtleties.
-collection_content: 
+collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
 feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
 feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
