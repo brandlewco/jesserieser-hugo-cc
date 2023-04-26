@@ -5,7 +5,11 @@
     <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
         <div class="px-4 xl:px-16">
             <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-
+                <div class="px-0">
+                    {{ partial "bookshop_bindings" `.Params` }}
+                    {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+                    {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+                  </div>
             <div class="h-8 sm:h-24 w-full"></div>
             <div class="flex flex-row justify-center w-full">
                 <figure class="bg-center w-full sm:w-40/100 relative">

@@ -2,20 +2,28 @@
 spec:
   structures:
     - content_blocks
-  label: Header
-  description: Header section
-  icon: "task"
-  tags: []
+  label: Link
+  description: 
+  preview:
+  tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: Sendit
-  title_suffix: Features
-  description: Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
-  no_top_pad: false
+  link_text:
+  link_url:
+  open_in_new_tab:
+
+
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
+
 # Any extra CloudCannon inputs configuration to apply to the blueprint
-_inputs: {}
+_inputs:
+  link_text:
+    type: text
+  link_url:
+    type: text
+  open_in_new_tab:
+    type: boolean

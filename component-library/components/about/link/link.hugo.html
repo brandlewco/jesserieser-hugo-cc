@@ -1,0 +1,15 @@
+
+<article class="block-hover lg:meta-hover block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}}">
+  {{if (eq .background_image_toggle true) }}
+    <figure class="flex flex-col sm:flex-row md:relative md:flex-none flex-row-reverse">
+      <img class="relative sm:absolute z-0 lazyload {{with .parallax}}rellax rellax-off{{end}}" src="{{ .image }}?width=1024" data-src="{{ .image  }}" alt="{{ .caption }}" {{with .parallax}}data-rellax-speed="2" data-rellax-xs-speed="1"{{end}} style="{{with .image_css | safeCSS }}{{.}}{{end}}; top: 15%;"/>
+      <figcaption class="z-10 mt-8 sm:mt-32 w-full sm:w-115 ml-0 sm:ml-neg break-words leading-tight text-xl {{with .text_size }}md:text-{{.}}{{end}} {{with .text_tracking}}tracking-{{.}}{{end}} {{with .background_color}} p-4{{end}}" style="{{with .text_color}}color:{{.}}; {{end}}{{with .background_color}}background-color:{{.}}; {{end}}{{with .caption_css | safeCSS}}{{.}}{{end}}">
+        {{ .text | markdownify }}
+      </figcaption>
+    </figure>
+    {{else}}
+    <h1 class="relative break-words {{with .font_weight }}font-{{.}} {{end}} text-xl {{with .text_size }}md:text-{{.}} {{end}}{{with .text_tracking}}tracking-{{.}} {{end}}{{with .text_alignment }}text-{{.}} {{end}}{{with .parallax}}rellax rellax-off{{end}} {{with .background_color}}p-4 sm:pt-16 sm:pl-20  sm:pr-16 sm:pb-16 {{end}} leading-tight" {{with .parallax}}data-rellax-speed="4" data-rellax-xs-speed="1"{{end}} style="{{with .text_color}}color:{{.}}; {{end}}{{with .background_color}}background-color:{{.}};{{end}} {{with .caption_css | safeCSS}}{{.}}{{end}}">
+      {{ .text | markdownify }}
+    </h1>
+    {{end}}
+  </article>

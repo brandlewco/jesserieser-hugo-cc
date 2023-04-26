@@ -161,6 +161,18 @@ _inputs:
       values:
         - white
         - black
+  header_col_1_title:
+    type: text
+  header_col_1:
+    type: html
+  header_col_2_title:
+    type: text
+  header_col_2:
+    type: html
+  header_col_3_title:
+    type: text
+  header_col_3:
+    type: html
 
 
 _structures:
