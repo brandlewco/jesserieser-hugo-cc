@@ -35,7 +35,6 @@ content_blocks:
     margin_y: 100
     margin_left: 0
     margin_right: 0
-    block_aspect_ratio:
     title: Souvenirs From Paradise Exhibition
     color: F3D7D7
   - _bookshop_name: home/media-feature
@@ -92,7 +91,6 @@ content_blocks:
     margin_y: 50
     margin_left: 5
     margin_right: 0
-    block_aspect_ratio: 5x4
     color: FCC8CC
     title: 2022 Communication Arts Photo Annual
   - _bookshop_name: home/media-feature
@@ -164,7 +162,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual.md
-    block_aspect_ratio: 8.5:11
     text_size: 2xl
     width: 15
     align_y: start
@@ -219,7 +216,6 @@ content_blocks:
     text_color: FF3939
   - _bookshop_name: home/modal-blog
     attached_blog: posts/klompching-gallery-fresh.md
-    block_aspect_ratio:
     text_size: base
     width: 20
     align_y: start
@@ -232,7 +228,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
-    block_aspect_ratio:
     text_size: 2xl
     width: 25
     align_y: start
@@ -319,7 +314,6 @@ content_blocks:
     margin_right: 0
     title: Star Geezers on BOOOOOOM!
     color: FFE7C3
-    block_aspect_ratio:
     text_size:
   - _bookshop_name: home/media-feature
     width: 50
@@ -369,7 +363,6 @@ content_blocks:
     title_margin_y: 15
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-photo-banter.md
-    block_aspect_ratio:
     text_size: 6xl
     width: 15
     align_y: start
@@ -432,7 +425,6 @@ content_blocks:
     margin_y: 50
     margin_left: 0
     margin_right: 0
-    block_aspect_ratio: 3x2
     title: AP 38 Chosen Popular Mechanic
     color:
   - _bookshop_name: home/media-feature
@@ -458,7 +450,6 @@ content_blocks:
     text_color: FF6065
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual-copy.md
-    block_aspect_ratio: 11x8.5
     text_size: 2xl
     width: 15
     align_y: start
@@ -492,7 +483,6 @@ content_blocks:
     font_weight: semibold
   - _bookshop_name: home/modal-blog
     attached_blog: posts/agents-club-22-awards-poetic-documentary.md
-    block_aspect_ratio: 5x4
     text_size: 2xl
     width: 10
     align_y: start
@@ -505,7 +495,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-37-american-photography-annual.md
-    block_aspect_ratio:
     text_size: 2xl
     width: 33
     align_y: start
@@ -516,7 +505,6 @@ content_blocks:
     color: F6F9AD
   - _bookshop_name: home/modal-blog
     attached_blog: posts/young-guns-19.md
-    block_aspect_ratio: []
     text_size: 2xl
     width: 30
     align_y: start
@@ -573,7 +561,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/sunset-spot.md
-    block_aspect_ratio:
     text_size: 2xl
     width: 20
     align_y: start
@@ -613,7 +600,6 @@ content_blocks:
     margin_right: 10
     title: SPD 22
     color: D2B9ED
-    block_aspect_ratio:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -646,7 +632,6 @@ content_blocks:
     margin_right: 20
     title: AP 36
     color: D8EBEE
-    block_aspect_ratio: 11x8.5
     text_size: 4xl
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -683,7 +668,6 @@ content_blocks:
     align_y:
     margin_left: 0
     margin_right: 0
-    block_aspect_ratio:
     text_size:
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -696,7 +680,6 @@ content_blocks:
     margin_left: 15
     margin_right: 0
     color: AAFEBF
-    block_aspect_ratio:
     title: Spotlight Awards
   - _bookshop_name: home/media-feature
     width: 55
@@ -730,7 +713,6 @@ content_blocks:
     margin_right: 0
     title: Xmas Roundup
     color: C5C458
-    block_aspect_ratio: 11x8.5
     text_size:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
@@ -741,10 +723,8 @@ content_blocks:
     margin_right: 20
     title: The Fence
     color: EED2D2
-    block_aspect_ratio:
     text_size:
   - _bookshop_name: home/media-row-end
-home_theme_color: '#edddde'
 collection_description: A student of subtleties.
 collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
