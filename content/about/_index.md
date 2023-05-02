@@ -44,7 +44,7 @@ about_bio: >-
 
   Clients find him as a creative additive to the collaborative process not only with his technical expertise but also in the ideation phase. He feels his greatest currency is how he communicates and sees the world. Some call it empathy. Some call it charm. His mom just says he’s a nice young man.
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-3.jpg
-content_blocks:
+about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
   - _bookshop_name: about/modal-list
