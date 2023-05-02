@@ -34,7 +34,6 @@
     <div class="w-full lazy-gallery relative mt-20">
       <div class="paginated_gallery gallery">
         <div class="gallery_scroller flex flex-row justify-start items-center carousel" style="transform: translate3d(0,0,0);">
-            {{ partial "bookshop_bindings" `$key.Params` }}
             {{ partial "bookshop_bindings" `$key.Params.blog_slider` }}
             {{ partial "bookshop_partial" (slice "page" $key.Params.blog_slider) }}
           </div>
@@ -49,7 +48,6 @@
         {{ $key.Params.content | markdownify }}
       </div>
       <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-        {{ partial "bookshop_bindings" `$key.Params` }}
         {{ partial "bookshop_bindings" `$key.Params.post_blocks` }} 
         {{ partial "bookshop_partial" (slice "page" $key.Params.post_blocks) }}
       </section>
