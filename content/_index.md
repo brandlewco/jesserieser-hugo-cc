@@ -10,7 +10,6 @@ feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news. For a more expansive experience please head over to all works.
 
-
   If you are solely interested in the works produced in my personal photographic
   art practice, please head over to [**_Jesse Rieser
   Projects_**](https://jesserieserprojects.com/).

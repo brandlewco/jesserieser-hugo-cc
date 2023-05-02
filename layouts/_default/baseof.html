@@ -24,7 +24,7 @@
   <body class="{{ with.Title }}page-{{ lower . | urlize }}{{ end }} {{ if eq .Params.collection_archive true }}archive{{end}}">
     {{ partial "header" .}}
     <main id="content" class="transition-page">
-      {{ block "main" .}}
+      {{ block "main" . }}
       {{ end }}
       {{ partial "footer" . }}
       {{ block "attached" .}}

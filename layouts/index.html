@@ -1,6 +1,16 @@
 {{- define "main" -}}
+<section data-hue="{{with .Params.navigation_theme}}{{.}}{{else}}white{{end}}" class="relative z-0">
+  {{ partial "feature_header" . }}
+</section>
+<section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-y-hidden"style="backface-visibility: hidden;">
+    <div class="px-0">
       {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
       {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+    </div>
+</section>
+<div>
+  {{ partial "feature_footer" .}}
+</div>
 {{- end -}}
 {{- define "attached" -}}
 <script>
@@ -35,10 +45,6 @@
       bunLine.style.backgroundColor = imgURL[1];
     });
     featurePicture.innerHTML = imgURL[0] + featurePicture.innerHTML;
-    // featureImage.setAttribute("data-srcset", imgURL[0]);
-    // featureImage.classList.add("lazyload");
-    // featureOverlay.style.backgroundColor = imgURL[1];
-    // toTop.style.color = imgURL[1];
     featureFooter.style.backgroundColor = imgURL[1];
   }());
 </script>
