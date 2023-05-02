@@ -6,7 +6,6 @@
         <div class="px-4 xl:px-16">
             <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
                 <div class="px-0">
-                    {{ partial "bookshop_bindings" `.Params` }}
                     {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
                     {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
                   </div>

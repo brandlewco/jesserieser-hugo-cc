@@ -14,9 +14,8 @@
             class="gallery_scroller flex flex-row justify-start items-center carousel"
             style="transform: translate3d(0, 0, 0)"
           >
-            {{ partial "bookshop_bindings" `.Params` }} {{ partial
-            "bookshop_bindings" `.Params.blog_slider` }} {{ partial
-            "bookshop_partial" (slice "page" .Params.blog_slider) }}
+            {{ partial "bookshop_bindings" `.Params.blog_slider` }}
+            {{ partial "bookshop_partial" (slice "page" .Params.blog_slider) }}
           </div>
         </div>
       </div>
@@ -37,9 +36,8 @@
         <section
           class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}"
         >
-          {{ partial "bookshop_bindings" `.Params` }} {{ partial
-          "bookshop_bindings" `.Params.post_blocks` }} {{ partial
-          "bookshop_partial" (slice "page" .Params.post_blocks) (dict "color"
+          {{ partial "bookshop_bindings" `.Params.post_blocks` }}
+          {{ partial "bookshop_partial" (slice "page" .Params.post_blocks) (dict "color"
           .Params.theme_color "delay" "lazyload")}}
         </section>
       </section>
