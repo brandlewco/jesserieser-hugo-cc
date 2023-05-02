@@ -3,12 +3,9 @@
   {{ partial "feature_header" . }}
 </section>
 <section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
-      <!-- {{ partial "bookshop_bindings" `.Params.content_blocks` }}  -->
+      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
       {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
 </section>
-<div>
-  {{ partial "feature_footer" . }}
-</div>
 {{- end -}}
 {{- define "attached" -}}
 <script>

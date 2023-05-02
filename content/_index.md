@@ -5,26 +5,94 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 33
+    width: 45
     align_y: start
-    margin_y: 100
+    margin_y: 400
     margin_left: 25
     margin_right: 0
-    title_margin_y: 25
-    title_margin_left: 60
+    title_margin_left: 5
     title_margin_right: 0
-    text_size: 8xl
+    meta_align: right
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
+    title: Wired
+    color: FFE087
+    meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
+    attached_collection: collections/wired-bitmain.md
+    text_color: F8F1BC
+    text_size: 6xl
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    line_height: none
+    title_margin_y: 15
+  - _bookshop_name: home/modal-blog
+    width: 25
+    align_x: start
+    margin_x: 0
+    margin_y: 50
+    title: WaPo
+    image:
+    color: fde25e
+    attached_blog: posts/the-changing-landscape-of-america-retail.md
+    align_y:
+    margin_left: 0
+    margin_right: 0
+    text_size:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/ap-37-american-photography-annual-copy.md
+    text_size: 2xl
+    width: 15
+    align_y: start
+    margin_y: 100
+    margin_left: 15
+    margin_right: 0
+    color: AAFEBF
+    title: Spotlight Awards
+  - _bookshop_name: home/media-feature
+    width: 55
+    align_y: start
+    margin_y: 300
+    margin_left: 0
+    margin_right: 10
+    title_margin_y: 20
+    title_margin_left: 5
+    title_margin_right: 0
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    color: cdf0d6
-    meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: collections/time-kari-lake.md
-    text_color: ffd49b
+    title: The New York Times
+    meta: America is Reopening. This is What it Looks Like
+    attached_collection: collections/the-new-york-times-1.md
+    color: FDD3D3
+    text_color: 81FF6E
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
     font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
-    title: TIME
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/christmas-in-america-happy-birthday-jesus.md
+    width: 33
+    align_y: start
+    margin_y: 100
+    margin_left: 20
+    margin_right: 0
+    title: Xmas Roundup
+    color: C5C458
+    text_size:
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    width: 20
+    align_y: start
+    margin_y: 400
+    margin_left: 0
+    margin_right: 20
+    title: The Fence
+    color: EED2D2
+    text_size:
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''

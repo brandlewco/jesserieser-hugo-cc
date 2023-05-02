@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Media Feature
-  description: Image element for collection gallery.
+  label: Featured Collection
+  description: Image element for collections.
   preview:
     image:
       - key: image
