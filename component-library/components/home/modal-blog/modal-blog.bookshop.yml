@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Blog
-  description: A popup blog!
+  label: Pop-up Blog
+  description: Embed a post from the blog.
   preview:
     text:
       - key: title
