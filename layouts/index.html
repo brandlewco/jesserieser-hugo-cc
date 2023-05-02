@@ -1,10 +1,17 @@
 {{- define "main" -}}
 <section data-hue="{{with .Params.navigation_theme}}{{.}}{{else}}white{{end}}" class="relative z-0">
-  {{ partial "feature_header" .}}
+  {{ partial "feature_header" . }}
 </section>
 <section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
-    {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
-    {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+    {{ if site.Params.env_bookshop_live }}
+      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+      <div>
+      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+    </div>
+    {{else}}
+      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+    {{end}}
 </section>
 <div>
   {{ partial "feature_footer" .}}
