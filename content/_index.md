@@ -2,8 +2,6 @@
 title: Jesse Rieser
 date: 2017-11-01T23:00:00Z
 content_blocks:
-  - _bookshop_name: home/media-row-start
-    row_alignment: between
   - _bookshop_name: home/media-feature
     width: 33
     align_y: start
@@ -25,9 +23,8 @@ content_blocks:
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
     title: TIME
-  - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
-collection_content: ''
+collection_content: 
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
 feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
 feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
