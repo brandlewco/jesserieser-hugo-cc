@@ -3,28 +3,28 @@ title: Jesse Rieser
 date: 2017-11-01T23:00:00Z
 content_blocks:
   - _bookshop_name: home/media-feature
-    width: 33
+    width: 30
     align_y: start
     margin_y: 100
-    margin_left: 25
+    margin_left: 10
     margin_right: 0
-    title_margin_y: 25
-    title_margin_left: 60
+    title_margin_y: 15
+    title_margin_left: -20
     title_margin_right: 0
-    text_size: 8xl
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    meta_align: right
-    color: cdf0d6
-    meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: collections/time-kari-lake.md
-    text_color: ffd49b
     font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
-    title: TIME
+    meta_align: left
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-3.jpg
+    color: D4F2ED
+    title: One Night In The Valley
+    meta: 2022
+    attached_collection: collections/one-night-in-the-valley.md
+    text_color: F4CF95
 collection_description: A student of subtleties.
-collection_content: 
+collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
 feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
 feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
