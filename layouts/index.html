@@ -1,6 +1,5 @@
 {{- define "main" -}}
 <section data-hue="page" class="pt-8 mx-auto bg-white relative z-100">
-      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
       {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
 </section>
 {{- end -}}
