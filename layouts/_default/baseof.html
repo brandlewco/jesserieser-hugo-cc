@@ -22,10 +22,22 @@
 		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
   </head>
   <body class="{{ with.Title }}page-{{ lower . | urlize }}{{ end }} {{ if eq .Params.collection_archive true }}archive{{end}}">
+    {{ partial "header" .}}
+    <main id="content" class="transition-page">
       {{ block "main" . }}
       {{ end }}
       {{ partial "footer" . }}
       {{ block "attached" .}}
       {{ end }}
+      <!-- <script src="https://gumroad.com/js/gumroad.js"></script> -->
+      <script src="https://player.vimeo.com/api/player.js"></script>
+    </main>
+    <!-- {{ partial "modal_about.html" .}} -->
+    {{ partial "fa-icon.html" .}}
+    <style type="text/css">
+    {{ partial "style_themer.html" . | safeCSS }}
+    </style>
+        <link rel="stylesheet" href="https://use.typekit.net/khw0qei.css">
+        <script src="https://kit.fontawesome.com/a1dff7fdae.js" crossorigin="anonymous"></script>
   </body>
 </html>

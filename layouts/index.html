@@ -1,5 +1,51 @@
 {{- define "main" -}}
-<section data-hue="page" class="pt-8 mx-auto bg-white relative z-100">
-      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+<section data-hue="{{with .Params.navigation_theme}}{{.}}{{else}}white{{end}}" class="relative z-0">
+  {{ partial "feature_header" . }}
 </section>
+<section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-y-hidden"style="backface-visibility: hidden;">
+    <div class="px-0">
+      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+    </div>
+</section>
+<div>
+  {{ partial "feature_footer" .}}
+</div>
+{{- end -}}
+{{- define "attached" -}}
+<script>
+  (function(){
+    var images = [
+      {{- range .Params.selected_works_theme -}}
+      ["<source data-srcset='{{.image_mobile }}?width=720' media='(orientation: portrait) and (max-width: 688px)' /><source data-srcset='{{.image_mobile }}?width=1040' media='(orientation: portrait) and (max-width: 1024px)' /><source data-srcset='{{.image}}?width=1040' media='(max-width: 1024px)' /><source data-srcset='{{.image}}?width=1500' media='(max-width: 1440px)'  /><source data-srcset='{{.image}}?width=2560' media='(max-width: 2560px)'  /><img id='feature-image' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' class='featured bg-center lazyload h-full object-cover absolute inset-0 z-0' data-sizes='auto' alt='Jesse Rieser Featured Collection Image'/>","#{{.theme_color}}"],
+      {{- end -}}
+      ]
+    var imgCount = images.length;
+  
+    var randNumber=Math.floor((Math.random() * imgCount) + 1);
+    imgURL = images[randNumber-1];
+
+    const content = document.getElementById("content");
+    // const featureImage = document.getElementById("feature-image");
+    const featurePicture = document.getElementById("feature-picture");
+    const hueHeaderShift = document.querySelectorAll(".hue-header.page .shift");
+    const projectHeader = document.getElementById("project-header");
+    const projectDescription = document.getElementById("project-description");
+    const toTop = document.getElementById("to-top");
+    // const featureOverlay = document.getElementById("feature-overlay");
+    const featureFooter = document.getElementById("feature-footer");
+
+
+    projectHeader.style.backgroundColor = imgURL[1];
+    projectDescription.style.backgroundColor = imgURL[1];
+    document.querySelectorAll(".shift").forEach(function(button) {
+      button.style.color = imgURL[1];
+    });
+    document.querySelectorAll(".bun").forEach(function(bunLine) {
+      bunLine.style.backgroundColor = imgURL[1];
+    });
+    featurePicture.innerHTML = imgURL[0] + featurePicture.innerHTML;
+    featureFooter.style.backgroundColor = imgURL[1];
+  }());
+</script>
 {{- end -}}
