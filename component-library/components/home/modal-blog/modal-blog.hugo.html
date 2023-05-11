@@ -23,13 +23,6 @@
   <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">{{range $key.Params.news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
   </div>
 </section>
-<script>
-  if (window.inEditorMode) {
-  alert('Inside CloudCannon!');
-} else {
-  alert('Not in CloudCannon.');
-}
-</script>
 <!-- insert post modal -->
 {{ if site.Params.env_bookshop_live }}
   
