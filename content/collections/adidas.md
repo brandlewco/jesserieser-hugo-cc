@@ -21,7 +21,7 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 navigation_theme: white
 px_extra: true
 row_alignment: 
-slug: /adidas-basketball
+slug: adidas-basketball
 theme_color: F4E9A8
 theme_color_all_works: FFE05A
 title: Adidas Basketball

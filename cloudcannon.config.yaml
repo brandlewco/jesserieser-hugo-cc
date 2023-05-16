@@ -9,7 +9,7 @@ collections_config:
       default:
         path: schemas/collection.md
     preview:
-      image:
+      gallery:
         - key: collection_cover
       text:
         - key: title

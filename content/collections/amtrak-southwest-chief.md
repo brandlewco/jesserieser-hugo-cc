@@ -34,7 +34,7 @@ hide_footer: true
 logo: 
 navigation_theme: white
 px_extra: true
-slug: /southwest-chief
+slug: southwest-chief
 theme_color: E3D2E7
 theme_color_all_works: 96EFD6
 title: Amtrak The National 
