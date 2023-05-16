@@ -12,27 +12,23 @@ collection_description: >-
 theme_color: '#bde6c5'
 navigation_theme: white
 header_col_1_title: Advertising & Editorial Commissions
-header_col_1: >-
-  <p>[Anderson Hopkins ](https://www.andersonhopkins.com)\n\nEcho Hopkins \
-  \n[echo@andersonhopkins.com](mailto:echo@andersonhopkins.com)\n\nHannah
-  Marchetto \ \n[hannah@andersonhopkins.com](mailto:hannah@andersonhopkins.com)
-  \n \n70 Lafayette Street, 7th Floor \nNew York, NY 10013 \n212 431 5117</p>
+header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a><br /><br />Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
 header_col_2_title: Exhibition, Syndication, & Press Inquiries
 header_col_2: >-
-  <p>Jesse Rieser \nInstagram
-  [@jesserieser.com](https://www.instagram.com/jesserieser/) \
-  \n[jesse@jesserieser.com](mailto:jesse@jesserieser.com
-  \jesse@jesserieser.com\) \ \n[310 985 9818](tel:+13109859818 \310 985
-  9818\)\n\n2424 1/4 Hyperion Ave. \ \nLos Angeles, CA 90027\n\n124 W. McDowell
-  Rd. \nPhoenix, AZ 85003</p>
+  <p>Jesse Rieser<br />Instagram&nbsp;<a target="_blank"
+  href="https://www.instagram.com/jesserieser/">@jesserieser.com</a><br /><a
+  href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
+  href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
+  Angeles, CA 90027</p><p>124 W. McDowell Rd.<br />Phoenix, AZ 85003</p>
 header_col_3_title: Stock Licensing
 header_col_3: >-
-  <p>[Gallery Stock](https://www.gallerystock.com) \n190 Bowery \nNew York, NY
-  10012 \n[212 219 7520](tel:+12122197520 \212 219 7520\)
-  \n[newyork@gallerystock.com](mailto:newyork@gallerystock.com
-  \newyork@gallerystock.com\)\n\n[Paris](mailto:PARIS@GALLERYSTOCK.COM)
-  \n[Munich](mailto:MUNICH@GALLERYSTOCK.COM) \
-  \n[Sydney](mailto:HELLO@SNAPPERIMAGES.COM)</p>
+  <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
+  Stock</a><br />190 Bowery<br />New York, NY 10012<br /><a
+  href="tel:+12122197520">212 219 7520</a><br /><a
+  href="mailto:newyork@gallerystock.com">newyork@gallerystock.com</a></p><p><a
+  href="mailto:PARIS@GALLERYSTOCK.COM">Paris</a><br /><a
+  href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a><br /><a
+  href="mailto:HELLO@SNAPPERIMAGES.COM">Sydney</a></p>
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 about_bio: >-
