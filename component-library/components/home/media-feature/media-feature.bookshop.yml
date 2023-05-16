@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Featured Collection
-  description: Image element for collections.
+  label: Collection
+  description:
   preview:
     image:
       - key: image

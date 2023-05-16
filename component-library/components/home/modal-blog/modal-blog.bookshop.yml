@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Pop-up Blog
-  description: Embed a post from the blog.
+  label: Post
+  description:
   preview:
     text:
       - key: title
@@ -17,7 +17,6 @@ blueprint:
   title: "Collection Title" 
   meta: "meta"
   attached_blog:
-  block_aspect_ratio: 16x9
   text_size: base
   color: ffffff
   width: 30
@@ -25,6 +24,10 @@ blueprint:
   margin_y: 0
   margin_left: 0
   margin_right: 0
+  block_aspect_ratio: ratio-1x1
+  blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+  caption: Caption
+  theme_color: ff0000
 
 
 
@@ -39,7 +42,7 @@ _inputs:
   attached_blog:
     type: select
     options:
-      values: collections.blog
+      values: collections.posts
       value_key: content_path
   align_y:
     type: select
@@ -75,6 +78,8 @@ _inputs:
       min: -50
   color: 
     type: color
+  theme_color: 
+    type: color
   text_size:
     type: select
     options:
@@ -91,3 +96,18 @@ _inputs:
         - 8xl
         - 9xl
         - 10xl
+  block_aspect_ratio:
+    type: select
+    options:
+      values:
+        - 8-5x11
+        - 11x8-5
+        - 9x16
+        - 16x9
+        - 5x4
+        - 4x5
+        - 4x3
+        - 3x4
+        - 2x3
+        - 3x2
+        - 1x2

@@ -1,6 +1,6 @@
 <section class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}{{end}} highlight rellax-wrapper">
   <div class="rellax"  data-rellax-speed="2" data-rellax-xs-speed="0" >
-  <button type="button" id="blog-{{.title | lower | urlize}}" class="popup-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}{{.}}{{else}}sm:ratio-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: #{{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" name="View Blog - {{.title}} - Jesse Rieser">
+  <button type="button" id="blog-{{.title | lower | urlize}}" class="popup-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}ratio-{{.}}{{else}}sm:ratio-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: #{{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" name="View Blog - {{.title}} - Jesse Rieser">
     {{ if .vimeo_block_cover }}
     <iframe src="https://player.vimeo.com/video/{{.vimeo_block_cover}}?background=1" class="object-cover absolute p-4 inset-0 z-0 h-full w-full" frameborder="0" allow="autoplay"></iframe>
     {{else if .blog_block_cover}}

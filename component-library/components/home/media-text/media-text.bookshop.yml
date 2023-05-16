@@ -3,7 +3,7 @@ spec:
   structures:
     - content_blocks
   label: Text
-  description: Add a text element
+  description:
   preview:
   tags: ["collection"]
 
