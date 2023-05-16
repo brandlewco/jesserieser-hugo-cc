@@ -1,5 +1,6 @@
 ---
 title: Adidas Basketball
+slug: collections/adidas-basketball
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -35,6 +36,4 @@ hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: 
-slug: collections/adidas-basketball
-
 ---
