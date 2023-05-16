@@ -1,33 +1,33 @@
-{{ $key := site.GetPage .attached_blog }}
-<section class="figure block-hover lg:meta-hover {{with $key.Params.blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}{{end}} highlight rellax-wrapper">
+<section class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}{{end}} highlight rellax-wrapper">
   <div class="rellax"  data-rellax-speed="2" data-rellax-xs-speed="0" >
-  <button type="button" id="blog-{{$key.Params.title | lower | urlize}}" class="popup-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with $key.Params.block_aspect_ratio }}{{.}}{{else}}sm:ratio-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: #{{$key.Params.theme_color}}" data-popup-trigger="blog-{{$key.Params.title | lower | urlize}}" name="View Blog - {{$key.Params.title}} - Jesse Rieser">
-    {{ if $key.Params.vimeo_block_cover }}
-    <iframe src="https://player.vimeo.com/video/{{$key.Params.vimeo_block_cover}}?background=1" class="object-cover absolute p-4 inset-0 z-0 h-full w-full" frameborder="0" allow="autoplay"></iframe>
-    {{else if $key.Params.blog_block_cover}}
+  <button type="button" id="blog-{{.title | lower | urlize}}" class="popup-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}{{.}}{{else}}sm:ratio-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: #{{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" name="View Blog - {{.title}} - Jesse Rieser">
+    {{ if .vimeo_block_cover }}
+    <iframe src="https://player.vimeo.com/video/{{.vimeo_block_cover}}?background=1" class="object-cover absolute p-4 inset-0 z-0 h-full w-full" frameborder="0" allow="autoplay"></iframe>
+    {{else if .blog_block_cover}}
       <img 
       data-sizes="auto"
-      src="{{ $key.Params.blog_block_cover | safeHTML }}?width=300"
-      data-srcset="{{ $key.Params.blog_block_cover | safeHTML }}?width=300 300w,
-      {{ $key.Params.blog_block_cover | safeHTML }}?width=600 600w, 
-      {{ $key.Params.blog_block_cover | safeHTML }}?width=900 900w,
-      {{ $key.Params.blog_block_cover | safeHTML }}?width=1200 1200w"
+      src="{{ .blog_block_cover | safeHTML }}?width=300"
+      data-srcset="{{ .blog_block_cover | safeHTML }}?width=300 300w,
+      {{ .blog_block_cover | safeHTML }}?width=600 600w, 
+      {{ .blog_block_cover | safeHTML }}?width=900 900w,
+      {{ .blog_block_cover | safeHTML }}?width=1200 1200w"
       class="lazyload bg-center object-cover absolute p-5 sm:p-0 inset-0 z-0 h-full w-full"
-      data-parent-fit="cover" alt="{{$key.Params.title }} - blog post cover image"/>
+      data-parent-fit="cover" alt="{{.title }} - blog post cover image"/>
     {{end}}
     <div class="absolute top-0 left-0 h-full w-full flex flex-col justify-center p-4 sm:p-2">
-        <h1 class="text-lg {{with $key.Params.text_size}}lg:text-{{.}}{{else}}lg:text-2xl{{end}} opacity-100 lg:opacity-0 font-bold text-center tracking-widest">{{$key.Params.title}}</h1>
-        <h2 class="text-base opacity-100 lg:opacity-0 font-semibold text-center tracking-widest">{{$key.Params.caption}}</h2>
+        <h1 class="text-lg {{with .text_size}}lg:text-{{.}}{{else}}lg:text-2xl{{end}} opacity-100 lg:opacity-0 font-bold text-center tracking-widest">{{.title}}</h1>
+        <h2 class="text-base opacity-100 lg:opacity-0 font-semibold text-center tracking-widest">{{.caption}}</h2>
     </div>
   </button>
-  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">{{range $key.Params.news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
+  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">{{range .news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
   </div>
 </section>
 <!-- insert post modal -->
 {{ if site.Params.env_bookshop_live }}
   
 {{ else }}
-<article id="popup-{{$key.Params.title | lower | urlize}}" class="popup-modal scrollbar block fixed z-999 text-black bg-white overflow-y-scroll overflow-x-hidden h-full w-full inset-0 editor-hidden" data-popup-modal="blog-{{$key.Params.title | lower | urlize}}" style="visibility: hidden; opacity: 0; overflow-y: scroll;" role="dialog" aria-modal="true">
+{{ $key := site.GetPage .attached_blog }}
+<article id="popup-{{.title | lower | urlize}}" class="popup-modal scrollbar block fixed z-999 text-black bg-white overflow-y-scroll overflow-x-hidden h-full w-full inset-0 editor-hidden" data-popup-modal="blog-{{.title | lower | urlize}}" style="visibility: hidden; opacity: 0; overflow-y: scroll;" role="dialog" aria-modal="true">
   <div class="flex flex-col w-full px-4 sm:px-40">
     <header class="fixed top-0 left-0 w-full px-4 sm:px-20 flex flex-row justify-between py-6 z-100 bg-white items-baseline">
       <div class="text-lg sm:text-2xl uppercase font-medium text-center text-black">JESSE RIESER</div>

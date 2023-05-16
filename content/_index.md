@@ -37,6 +37,11 @@ content_blocks:
     margin_right: 0
     title: Souvenirs From Paradise Exhibition
     color: F3D7D7
+    block_aspect_ratio: ratio-16x9
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+    caption: The Gallery at Mountain Shadows
+    theme_color: F6E7D1
+    vimeo_block_cover: 769252337
   - _bookshop_name: home/media-feature
     width: 55
     align_y: start
@@ -93,6 +98,12 @@ content_blocks:
     margin_right: 0
     color: FCC8CC
     title: 2022 Communication Arts Photo Annual
+    block_aspect_ratio: ratio-5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    blog_header: 
+    caption: "Antoine’s Escalaras"
+    theme_color: FABDC2
+    title: Communication Arts Photography Annual 2022
   - _bookshop_name: home/media-feature
     width: 40
     align_y: start
@@ -170,6 +181,11 @@ content_blocks:
     margin_right: 0
     title: 'AP 38: American Photography Annual'
     color: FFAAAA
+    block_aspect_ratio: ratio-11x8-5
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
+    blog_header: 
+    caption: "Wired: I Am Not a Soldier, but I Have Been Trained to Kill"
+    theme_color: F8D9D9
   - _bookshop_name: home/media-feature
     width: 40
     align_y: start
@@ -224,6 +240,10 @@ content_blocks:
     margin_right: 5
     title: Fresh
     color: DFEFC2
+    block_aspect_ratio: ratio-1x1
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+    caption: The Changing Landscape of American Retail September 9 - October 10 
+    theme_color: D8F1AE
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -236,6 +256,11 @@ content_blocks:
     margin_right: 0
     title: xmas
     color: FF4B4B
+    block_aspect_ratio: ratio-2x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
+    post_blocks: []
+    caption: Washington Post Cover Feature + Interview
+    theme_color: FF5252
   - _bookshop_name: home/media-feature
     width: 50
     align_x: start
@@ -315,6 +340,11 @@ content_blocks:
     title: Star Geezers on BOOOOOOM!
     color: FFE7C3
     text_size:
+    block_aspect_ratio: ratio-5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
+    caption: Fisheye Photo Review 2021.22
+    theme_color: D9F8F4
   - _bookshop_name: home/media-feature
     width: 50
     align_y: start
@@ -371,6 +401,10 @@ content_blocks:
     margin_right: 5
     title: The Photo Banter
     color: 0CA5E5
+    block_aspect_ratio: ratio-1x1
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
+    caption: Interview
+    theme_color: FFD595
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -427,6 +461,11 @@ content_blocks:
     margin_right: 0
     title: AP 38 Chosen Popular Mechanic
     color:
+    block_aspect_ratio: ratio-3x2
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
+    blog_header: 
+    caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."
+    theme_color: FF052B
   - _bookshop_name: home/media-feature
     width: 33
     align_y: start
@@ -458,6 +497,10 @@ content_blocks:
     margin_right: 20
     title: BOOOOOOOM Feature
     color: FFCFCF
+    block_aspect_ratio: ratio-1x1
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
+    caption: "The New York Times: Auctioning Off a Dead Mall"
+    theme_color: BEE8F6
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -491,6 +534,10 @@ content_blocks:
     margin_right: 15
     title: Agents Club 22 Awards
     color: F9B0B0
+    block_aspect_ratio: ratio-5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
+    caption: "New York Times: America Is Reopening"
+    theme_color: CCAAF8
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -503,6 +550,11 @@ content_blocks:
     margin_right: 0
     title: AP 37
     color: F6F9AD
+    block_aspect_ratio: ratio-4x5
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
+    blog_header: 
+    caption: "The New York Times: Auctioning Off a Dead Mall"
+    theme_color: FFCC8E
   - _bookshop_name: home/modal-blog
     attached_blog: posts/young-guns-19.md
     text_size: 2xl
@@ -513,6 +565,10 @@ content_blocks:
     margin_right: 20
     title: YG 19
     color: FFE6E6
+    block_aspect_ratio: ratio-16x9
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
+    caption: "Judge and The New Procrastinator's Guide"
+    theme_color: B9F1A8
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -569,6 +625,10 @@ content_blocks:
     margin_right: 0
     color: DACEEA
     title: The Sunset Spot at Red Modern
+    block_aspect_ratio: ratio-8-5x11
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
+    caption: A Visual Conversation with Matt Magee & Jesse Rieser
+    theme_color: C8B3EB
   - _bookshop_name: home/media-feature
     width: 40
     align_y:
@@ -600,6 +660,11 @@ content_blocks:
     margin_right: 10
     title: SPD 22
     color: D2B9ED
+    block_aspect_ratio: ratio-5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
+    caption: "Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era"
+    theme_color: FFDAA3
+    title: 2022 SPD Awards
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -633,6 +698,11 @@ content_blocks:
     title: AP 36
     color: D8EBEE
     text_size: 4xl
+    block_aspect_ratio: ratio-5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
+    caption: "Wired: The Internet Giant That Went Too Far"
+    theme_color: FDF9B0
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -669,6 +739,11 @@ content_blocks:
     margin_left: 0
     margin_right: 0
     text_size:
+    block_aspect_ratio: ratio-2x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
+    caption: Featured on Washington Post and Business Insider
+    theme_color: E8DCEE
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -681,6 +756,10 @@ content_blocks:
     margin_right: 0
     color: AAFEBF
     title: Spotlight Awards
+    block_aspect_ratio: ratio-1x1
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
+    caption: "The New York Times: Auctioning Off a Dead Mall"
+    theme_color: BEE8F6
   - _bookshop_name: home/media-feature
     width: 55
     align_y: start
@@ -714,6 +793,11 @@ content_blocks:
     title: Xmas Roundup
     color: C5C458
     text_size:
+    block_aspect_ratio: ratio-8-5x11
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
+    blog_header: 
+    caption: Holiday Season Feature and Interview Roundup 
+    theme_color: FF0000
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
     width: 20
@@ -724,6 +808,11 @@ content_blocks:
     title: The Fence
     color: EED2D2
     text_size:
+    block_aspect_ratio: ratio-11x8-5
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
+    blog_header: 
+    caption: The Fence at The Griffin Museum of Photography
+    theme_color: E5E5EF
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content:

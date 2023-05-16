@@ -1,9 +1,9 @@
 {
   "author": "",
   "dependencies": {
-    "@bookshop/browser": "3.4.1",
-    "@bookshop/generate": "3.4.1",
-    "@bookshop/hugo-engine": "3.4.1",
+    "@bookshop/browser": "3.5.1",
+    "@bookshop/generate": "3.5.1",
+    "@bookshop/hugo-engine": "3.5.1",
     "@swup/body-class-plugin": "^1.0.2",
     "@swup/fade-theme": "^1.0.5",
     "@swup/ga-plugin": "^1.0.1",
