@@ -96,14 +96,13 @@ content_blocks:
     margin_y: 50
     margin_left: 5
     margin_right: 0
-    color: FCC8CC
-    title: 2022 Communication Arts Photo Annual
+    color: '#fcc8cc'
+    title: Communication Arts Photography Annual 2022
     block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
-    blog_header: 
-    caption: "Antoine’s Escalaras"
-    theme_color: FABDC2
-    title: Communication Arts Photography Annual 2022
+    blog_header:
+    caption: Antoine’s Escalaras
+    theme_color: '#fabdc2'
   - _bookshop_name: home/media-feature
     width: 40
     align_y: start
@@ -164,11 +163,11 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
-    color: F8CFBF
+    color: '#f8cfbf'
     title: The New York Times
     meta: Auctioning Off A Dead Mall
     attached_collection: collections/the-new-york-times.md
-    text_color: BCF9BF
+    text_color: '#bcf9bf'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -183,8 +182,8 @@ content_blocks:
     color: FFAAAA
     block_aspect_ratio: 11x8-5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
-    blog_header: 
-    caption: "Wired: I Am Not a Soldier, but I Have Been Trained to Kill"
+    blog_header:
+    caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
     theme_color: F8D9D9
   - _bookshop_name: home/media-feature
     width: 40
@@ -242,7 +241,7 @@ content_blocks:
     color: DFEFC2
     block_aspect_ratio: 1x1
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-    caption: The Changing Landscape of American Retail September 9 - October 10 
+    caption: The Changing Landscape of American Retail September 9 - October 10
     theme_color: D8F1AE
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -463,8 +462,8 @@ content_blocks:
     color:
     block_aspect_ratio: 3x2
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
-    blog_header: 
-    caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."
+    blog_header:
+    caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
     theme_color: FF052B
   - _bookshop_name: home/media-feature
     width: 33
@@ -499,7 +498,7 @@ content_blocks:
     color: FFCFCF
     block_aspect_ratio: 1x1
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
-    caption: "The New York Times: Auctioning Off a Dead Mall"
+    caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: BEE8F6
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -536,7 +535,7 @@ content_blocks:
     color: F9B0B0
     block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
-    caption: "New York Times: America Is Reopening"
+    caption: 'New York Times: America Is Reopening'
     theme_color: CCAAF8
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -552,8 +551,8 @@ content_blocks:
     color: F6F9AD
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
-    blog_header: 
-    caption: "The New York Times: Auctioning Off a Dead Mall"
+    blog_header:
+    caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: FFCC8E
   - _bookshop_name: home/modal-blog
     attached_blog: posts/young-guns-19.md
@@ -567,7 +566,7 @@ content_blocks:
     color: FFE6E6
     block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
-    caption: "Judge and The New Procrastinator's Guide"
+    caption: Judge and The New Procrastinator's Guide
     theme_color: B9F1A8
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -658,13 +657,12 @@ content_blocks:
     margin_y: 100
     margin_left: 0
     margin_right: 10
-    title: SPD 22
+    title: 2022 SPD Awards
     color: D2B9ED
     block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
-    caption: "Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era"
+    caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
     theme_color: FFDAA3
-    title: 2022 SPD Awards
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -701,7 +699,7 @@ content_blocks:
     block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
-    caption: "Wired: The Internet Giant That Went Too Far"
+    caption: 'Wired: The Internet Giant That Went Too Far'
     theme_color: FDF9B0
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -758,7 +756,7 @@ content_blocks:
     title: Spotlight Awards
     block_aspect_ratio: 1x1
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
-    caption: "The New York Times: Auctioning Off a Dead Mall"
+    caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: BEE8F6
   - _bookshop_name: home/media-feature
     width: 55
@@ -795,8 +793,8 @@ content_blocks:
     text_size:
     block_aspect_ratio: 8-5x11
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
-    blog_header: 
-    caption: Holiday Season Feature and Interview Roundup 
+    blog_header:
+    caption: Holiday Season Feature and Interview Roundup
     theme_color: FF0000
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
@@ -810,12 +808,12 @@ content_blocks:
     text_size:
     block_aspect_ratio: 11x8-5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
-    blog_header: 
+    blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: E5E5EF
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
-collection_content:
+collection_content: ''
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
 feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
 feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
