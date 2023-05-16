@@ -9,7 +9,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#e1f3dd'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -17,8 +17,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E1F9FB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg
+    color: '#e1f9fb'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 900
