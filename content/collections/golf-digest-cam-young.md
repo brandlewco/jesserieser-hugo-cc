@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Golf Digest Cam Young
+title: Golf Digest
 slug: golfdigest-camyoung
 collection_blocks:
   - _bookshop_name: collections/media-row-start
