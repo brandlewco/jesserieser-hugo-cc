@@ -8,6 +8,13 @@ collections_config:
     schemas:
       default:
         path: schemas/collection.md
+    preview:
+      image:
+        - key: collection_cover
+      text:
+        - key: title
+      subtext:
+        - key: slug
   blog:
     _enabled_editors:
       - content
