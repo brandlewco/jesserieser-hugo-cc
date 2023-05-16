@@ -174,12 +174,12 @@ _inputs:
   header_col_3:
     type: html
   collection_pager:
-    type: select
+    type: multiselect
     options:
       values: collections.collections
       value_key: content_path
   collection_sorter:
-    type: select
+    type: multiselect
     options:
       values: collections.collections
       value_key: content_path  
