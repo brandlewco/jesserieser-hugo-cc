@@ -173,6 +173,16 @@ _inputs:
     type: text
   header_col_3:
     type: html
+  collection_pager:
+    type: select
+    options:
+      values: collections.collections
+      value_key: content_path
+  collection_sorter:
+    type: select
+    options:
+      values: collections.collections
+      value_key: content_path  
 
 
 _structures:
