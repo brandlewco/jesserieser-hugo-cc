@@ -10,7 +10,9 @@ collections_config:
         path: schemas/collection.md
     preview:
       gallery:
-        - key: collection_cover
+        image:
+          - key: collection_cover
+        fit: cover
       text:
         - key: title
       subtext:
