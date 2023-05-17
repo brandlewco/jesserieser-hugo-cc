@@ -33,7 +33,7 @@ collections_config:
     preview:
       gallery:
         image:
-          - key: collection_preview[0]
+          - key: collection_preview
         fit: cover 
       text:
         - key: title
