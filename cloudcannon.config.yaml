@@ -27,6 +27,18 @@ collections_config:
     schemas:
       default:
         path: schemas/posts.md
+  shop:
+    _enabled_editors:
+      - visual
+    preview:
+      gallery:
+        image:
+          - key: collection_preview[0]
+        fit: cover 
+      text:
+        - key: title
+      subtext:
+        - key: price
 _inputs:
   content:
     type: markdown
