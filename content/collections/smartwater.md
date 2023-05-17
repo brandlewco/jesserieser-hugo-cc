@@ -52,7 +52,9 @@ title: 'Smart Water: Essentialism'
 seo:
   meta_description: 
   meta_title: 
-collection_layout_builder:
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 

@@ -57,7 +57,9 @@ collection_exhibition:
     icon: 
     template: popup-text-element
     url: 
-collection_layout_builder:
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
+    row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 3x4

@@ -41,8 +41,8 @@ seo:
     Jesse Rieser photographs the biggest names in Baseball for the cover of
     ESPN. Jesse Rieser made these fun portraits at Spring Training in Phoenix,
     Arizona. 
-collection_layout_builder:
-  - _bookshop_name: collections/media-row
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: F6F0EA
