@@ -87,8 +87,9 @@ collection_awards:
       _AP 36 American Photography Annual 36_  
       Best Editorial Work Series
     template: popup-text-element
-collection_layout_builder:
-  - _bookshop_name: collections/media-element
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
+    row_alignment: between
     align_y: start
     color: 090909
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg
