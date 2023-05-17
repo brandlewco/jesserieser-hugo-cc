@@ -192,6 +192,11 @@ _inputs:
     options:
       values: collections.collections
       value_key: content_path  
+  shop_sorter:
+    type: multiselect
+    options:
+      values: collections.shop
+      value_key: content_path  
 
 
 _structures:

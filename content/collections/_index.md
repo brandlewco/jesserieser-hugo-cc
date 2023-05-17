@@ -1,7 +1,6 @@
 ---
 collection_sorter:
   - collections/time-kari-lake.md
-  - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
