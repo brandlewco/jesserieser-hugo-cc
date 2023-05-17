@@ -291,7 +291,8 @@ collection_blocks:
     width: 80
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - align_y: start
+  - _bookshop_name: collections/media-element
+    align_y: start
     background_color: 
     background_image_toggle: false
     block: media-text

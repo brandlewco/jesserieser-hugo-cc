@@ -190,7 +190,7 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - block: media-element
+  - _bookshop_name: collections/media-element
     color: 1E1E1E
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-11b-single.jpg
     margin_left: 10
