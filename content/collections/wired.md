@@ -90,6 +90,7 @@ collection_awards:
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
+  - _bookshop_name: collections/media-element
     align_y: start
     color: 090909
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg
