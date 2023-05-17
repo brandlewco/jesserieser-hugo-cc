@@ -236,7 +236,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: start
-
     block_aspect_ratio: 4x3
     caption: 
     color: 
