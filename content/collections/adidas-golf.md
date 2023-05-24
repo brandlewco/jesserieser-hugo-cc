@@ -1,5 +1,7 @@
 ---
+_schema: default
 title: 'Adidas Golf: Adicross'
+slug: adidas-golf-adicross
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
@@ -278,8 +280,8 @@ collection_category:
   - Environments
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: b8eebc
-theme_color_all_works: e69dfb
+theme_color: '#b8eebc'
+theme_color_all_works: '#e69dfb'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-9.jpg
 collection_preview:
@@ -292,9 +294,8 @@ collection_press:
   - content: "**2019**  \nAP 35: American Photography Annual 35  \nBest Personal Work Series:  \n\Phoenix: A Dystopian Legoland That Tastes Like Candy"
 collection_archive: false
 collection_hidden: false
-hide_footer: false 
+hide_footer: false
 navigation_theme: black
 px_extra: true
 row_alignment:
-slug: adidas-golf-adicross
 ---
