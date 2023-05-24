@@ -9,7 +9,7 @@ collection_description: >-
   dapibus sem porttitor convallis. Integer convallis arcu non lectus facilisis
   dapibus. Aenean commodo magna at laoreet tempor. Phasellus lorem lorem,
   fringilla vitae interdum vel, euismod vitae quam.
-theme_color: '#bde6c5'
+theme_color: 'bde6c5'
 navigation_theme: white
 header_col_1_title: Advertising & Editorial Commissions
 header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a><br /><br />Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
@@ -1320,7 +1320,7 @@ about_bio_image_credit: © Brad Reed. Header © Mike Lundgren
 cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
-cv_color: '#ff5858'
+cv_color: 'ff5858'
 seo:
   meta_title: Photographer Jesse Riesers Bio and Information
   meta_description: >-

@@ -96,13 +96,13 @@ content_blocks:
     margin_y: 50
     margin_left: 5
     margin_right: 0
-    color: '#fcc8cc'
+    color: 'fcc8cc'
     title: Communication Arts Photography Annual 2022
     block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
     blog_header:
     caption: Antoine’s Escalaras
-    theme_color: '#fabdc2'
+    theme_color: 'fabdc2'
   - _bookshop_name: home/media-feature
     width: 40
     align_y: start
@@ -163,11 +163,11 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
-    color: '#f8cfbf'
+    color: 'f8cfbf'
     title: The New York Times
     meta: Auctioning Off A Dead Mall
     attached_collection: collections/the-new-york-times.md
-    text_color: '#bcf9bf'
+    text_color: 'bcf9bf'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
