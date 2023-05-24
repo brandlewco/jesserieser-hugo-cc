@@ -28,8 +28,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FBEBD6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg
+    color: '#fbebd6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -39,8 +39,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: E4F6FE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-4.jpg
+    color: '#e4f6fe'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-4.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -50,8 +50,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FFD9CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-5.jpg
+    color: '#ffd9cf'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -59,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: DDF5DA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-6.jpg
+    color: '#ddf5da'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 300
@@ -70,8 +70,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F7F7D0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg
+    color: '#f7f7d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -79,8 +79,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E0EFFF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg
+    color: '#e0efff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-8.jpg
     margin_left: 0
     margin_right: 20
     margin_y: 300
@@ -90,85 +90,23 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F0E7FF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg
+    color: '#f0e7ff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-9.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: D8F9FD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg
-    margin_left: 0
-    margin_right: 5
-    margin_y: 800
-    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E6FFEA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg
+    color: '#e6ffea'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-10.jpg
     margin_left: 50
     margin_right: 0
     margin_y: 100
     width: 30
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: E6FBD0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-12.jpg
-    margin_left: 20
-    margin_right: 0
-    margin_y: 400
-    width: 40
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: FBEACD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-14.jpg
-    margin_left: 0
-    margin_right: 10
-    margin_y: 100
-    width: 20
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: E6F3FE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-13.jpg
-    margin_left: 5
-    margin_right: 0
-    margin_y: 100
-    width: 33
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: FDF9EA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-15.jpg
-    margin_left: 0
-    margin_right: 25
-    margin_y: 300
-    width: 30
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: F9E0E1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-16.jpg
-    margin_left: 25
-    margin_right: 0
-    margin_y: 100
-    width: 60
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/minors-cover.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/minors_vertical-cover-1.jpg
