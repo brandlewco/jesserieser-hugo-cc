@@ -1,6 +1,8 @@
 ---
 collection_sorter:
+  - collections/bloomberg-nomads.md
   - collections/time-kari-lake.md
+  - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
@@ -22,46 +24,45 @@ collection_sorter:
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/espn-ryan-resch.md
-  - collections/espn-deandre-ayton.md
   - collections/the-new-york-times-tj-newman.md
+  - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-sunset-limited.md
-  - collections/wired-bitmain.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
+  - collections/phoenix-open-espn.md
   - collections/time.md
   - collections/autobiography.md
+  - collections/wired.md
   - collections/collections-ice-t.md
   - collections/espn-cowboy-cerronne.md
+  - collections/runner-s-world.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md
   - collections/endangered-photo-studios.md
   - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
-  - collections/wired.md
   - collections/the-new-york-times-2.md
   - collections/collections-barons-cover.md
-  - collections/runner-s-world.md
-  - collections/golf-digest.md
-  - collections/outside-dq.md
-  - collections/collections-fred-kerley-copy.md
+  - collections/espn-deandre-ayton.md
   - collections/etrade.md
-  - collections/collections-fisher-price.md
-  - collections/when-fall-came-early.md
   - collections/wallow-fire.md
-  - collections/the-class-of-99-turns-30.md
+  - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/sounds-of-cement.md
   - collections/amtrak-the-national.md
+  - collections/time-mag-antivaxxers.md
+  - collections/wsj-ieg-lab.md
   - collections/fred-nike.md
-  - collections/az-lottery.md
+  - collections/outside-dq.md
   - collections/gioa-hearst-itallia.md
   - collections/espn-cactus-league.md
-  - collections/wsj-ieg-lab.md
-  - collections/time-mag-antivaxxers.md
-  - collections/kenny-grahams.md
+  - collections/golf-digest.md
   - collections/united-airlines.md
-  - collections/espn-mlb.md
-  - collections/unbriddled-spirit.md
+  - collections/az-lottery.md
+  - collections/collections-fisher-price.md
+  - collections/collections-fred-kerley-copy.md
+  - collections/the-class-of-99-turns-30.md
+
 ---

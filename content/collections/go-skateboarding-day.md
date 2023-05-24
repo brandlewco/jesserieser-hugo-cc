@@ -217,4 +217,5 @@ collection_blocks:
     margin_y: '100'
     template: block-media-element
     width: '40'
+  - _bookshop_name: collections/media-row-end
 ---
