@@ -353,7 +353,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_header-2.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-60.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_vertical-header-2.jpg
 collection_meta: 'Kitt Peak '
 collection_meta_2: 2023
 collection_description_alignment: center
@@ -389,7 +389,7 @@ collection_press: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
-navigation_theme: white
+navigation_theme: black
 px_extra: true
 row_alignment: between
 ---
