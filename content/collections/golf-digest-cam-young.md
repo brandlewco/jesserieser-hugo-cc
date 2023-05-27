@@ -20,9 +20,9 @@ collection_blocks:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
     margin_left: 0
-    margin_right: 0
+    margin_right: 10
     margin_y: 1000
-    width: 30
+    width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
