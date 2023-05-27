@@ -199,7 +199,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/uvalde-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/uvalde-cover-vert-1.jpg
-collection_meta: Beyond the Drought Cover Story
+collection_meta: 1 Year After Uvalde
 collection_meta_2: 2023
 collection_description_alignment: center
 collection_description: >-
