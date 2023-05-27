@@ -10,8 +10,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: DCE3F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-1.jpg
+    color: '#dce3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-1.jpg
     margin_left: 20
     margin_right: ''
     margin_y: '100'
@@ -438,7 +438,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomads_header-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-60.jpg
-collection_meta: 'Home Sweet Home:'
+collection_meta: 'Kitt Peak '
 collection_meta_2: 2023
 collection_description_alignment: center
 collection_description: >-
