@@ -173,7 +173,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-vert-1.jpg
-collection_meta: Devin Booker Cover Story
+collection_meta: The Evolution of Marcus Stroman
 collection_meta_2: 2023
 collection_description_alignment: left
 collection_description: >-
