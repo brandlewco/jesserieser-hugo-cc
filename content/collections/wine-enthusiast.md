@@ -5,24 +5,11 @@ slug: wine-stroman
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio: 3x4
-    caption:
-    color: D7D7D7
-    image:
-    margin_left: 15
-    margin_right: 0
-    margin_y: 100
-    show_controls: false
-    template: block-media-motion
-    vimeo_id: 510464600
-    width: 40
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: EDD7B2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+    color: '#edd7b2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-2.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -32,28 +19,19 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E2CFEF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
+    color: '#e2cfef'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: CDF3EC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
-    margin_left: 0
-    margin_right: 15
-    margin_y: 400
-    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F9D5D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
+    color: '#f9d5d3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-4.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -63,8 +41,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: D9E3F4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
+    color: '#d9e3f4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-5.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -72,8 +50,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E6F3E6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
+    color: '#e6f3e6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
@@ -83,8 +61,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: CFF1F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
+    color: '#cff1f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-7.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 50
@@ -92,8 +70,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FFE5C9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
+    color: '#ffe5c9'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-8.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 500
@@ -103,8 +81,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: EBD1EF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
+    color: '#ebd1ef'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-9.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -114,8 +92,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: CEF8E1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
+    color: '#cef8e1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-10.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -125,8 +103,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F9D4C0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
+    color: '#f9d4c0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-12.jpg
     margin_left: 40
     margin_right: 0
     margin_y: 100
@@ -136,8 +114,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F4D4D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
+    color: '#f4d4d3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-13.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 300
@@ -145,34 +123,21 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: C2F4F4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
+    color: '#c2f4f4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-14.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio:
-    caption:
-    color:
-    image:
-    margin_left: 40
-    margin_right: 0
-    margin_y: 100
-    show_controls: false
-    template: block-media-motion
-    vimeo_id: 515559092
-    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: ECD8F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-20.jpg
+    color: '#ecd8f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-15.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -182,92 +147,32 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: D7F9D5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg
+    color: '#d7f9d5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-16.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
     width: 55
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: F6F4D2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
-    margin_left: 0
-    margin_right: 5
-    margin_y: 700
-    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: CFF7F2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg
+    color: '#cff7f2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-17.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
     width: 70
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: F0D0CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    margin_left: 25
-    margin_right: 0
-    margin_y: 100
-    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio:
-    caption:
-    color:
-    image:
-    margin_left: 5
-    margin_right: 0
-    margin_y: 100
-    show_controls: false
-    template: block-media-motion
-    vimeo_id: 515559208
-    width: 80
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: start
-    background_color:
-    background_image_toggle: false
-    block: media-text
-    caption_css:
-    font_weight: normal
-    image:
-    image_css:
-    margin_left: 15
-    margin_right: 0
-    margin_y: 300
-    parallax: true
-    template: block-media-text
-    text: Written By Michael Willbon
-    text_alignment: left
-    text_color:
-    text_size: 4xl
-    text_tracking: normal
-    width: 30
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: F4ECCE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-19.jpg
-    margin_left: 0
-    margin_right: 5
-    margin_y: 100
-    width: 50
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-49.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-vert-1.jpg
 collection_meta: Devin Booker Cover Story
 collection_meta_2: 2023
 collection_description_alignment: left
