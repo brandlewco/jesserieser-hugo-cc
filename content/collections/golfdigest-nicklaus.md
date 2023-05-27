@@ -77,8 +77,8 @@ collection_blocks:
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-1.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-2.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
 collection_meta: How Kari Lake Went From Local Anchor
 collection_meta_2: 2023
 collection_description_alignment: left
