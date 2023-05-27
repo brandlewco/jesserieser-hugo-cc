@@ -8,8 +8,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: DCE3F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
+    color: '#dce3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -19,8 +19,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F0F3D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-2.jpg
+    color: '#f0f3d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -28,8 +28,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: EFCAB3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-3.jpg
+    color: '#efcab3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-3.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
@@ -39,8 +39,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F8EBCC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-4.jpg
+    color: '#f8ebcc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-4.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 400
