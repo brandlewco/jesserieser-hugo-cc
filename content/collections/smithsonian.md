@@ -24,8 +24,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F0F3D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-13.jpg
+    color: '#f0f3d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: '100'
@@ -38,8 +38,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EFCAB3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-3.jpg
+    color: '#efcab3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
     margin_left: 45
     margin_right: 0
     margin_y: '100'
@@ -52,8 +52,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F8EBCC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-4.jpg
+    color: '#f8ebcc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-4.jpg
     margin_left: 30
     margin_right: 0
     margin_y: '100'
@@ -66,8 +66,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: DCEDF8
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
+    color: '#dcedf8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-5.jpg
     margin_left: 15
     margin_right: 0
     margin_y: '200'
@@ -80,8 +80,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F4DFE7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-7.jpg
+    color: '#f4dfe7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '200'
@@ -92,8 +92,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F3E1D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-6.jpg
+    color: '#f3e1d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-7.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '800'
@@ -106,8 +106,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: D5F4F6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-8.jpg
+    color: '#d5f4f6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-8.jpg
     margin_left: 25
     margin_right: 0
     margin_y: '400'
@@ -118,8 +118,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F9D1BC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-9.jpg
+    color: '#f9d1bc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-9.jpg
     margin_left: 0
     margin_right: 5
     margin_y: '100'
@@ -132,8 +132,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: CCE3FA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-10.jpg
+    color: '#cce3fa'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-10.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'
@@ -144,8 +144,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EDF1D0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-11.jpg
+    color: '#edf1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-11.jpg
     margin_left: 0
     margin_right: 10
     margin_y: '100'
@@ -158,8 +158,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F1E3CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-12.jpg
+    color: '#f1e3cf'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-12.jpg
     margin_left: 25
     margin_right: ''
     margin_y: '200'
@@ -172,8 +172,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EADEF4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-14.jpg
+    color: '#eadef4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-13.jpg
     margin_left: 5
     margin_right: 0
     margin_y: '100'
@@ -186,8 +186,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EFE5DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-15.jpg
+    color: '#efe5dd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
     margin_left: 10
     margin_right: ''
     margin_y: '100'
@@ -198,8 +198,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: C6E2D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-16.jpg
+    color: '#c6e2d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
     margin_left: 0
     margin_right: 5
     margin_y: '400'
@@ -212,8 +212,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: D8D7E3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-17.jpg
+    color: '#d8d7e3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
     margin_left: 30
     margin_right: ''
     margin_y: '100'
@@ -224,8 +224,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: CCE1F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-1.jpg
+    color: '#cce1f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '300'
@@ -238,8 +238,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EDE5DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-18.jpg
+    color: '#ede5de'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
     margin_left: 40
     margin_right: 0
     margin_y: '100'
@@ -252,8 +252,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: DAF0D5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-19.jpg
+    color: '#daf0d5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
     margin_left: 10
     margin_right: 0
     margin_y: '100'
@@ -266,8 +266,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: D8F3F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-21.jpg
+    color: '#d8f3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
     margin_left: 30
     margin_right: ''
     margin_y: '100'
@@ -280,8 +280,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: FBC1A2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-22.jpg
+    color: '#fbc1a2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
     margin_left: 50
     margin_right: 0
     margin_y: '100'
@@ -294,8 +294,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: EDDAF0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-23.jpg
+    color: '#eddaf0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
     margin_left: 35
     margin_right: 10
     margin_y: '100'
@@ -308,8 +308,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: F6F1D0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-24.jpg
+    color: '#f6f1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
     margin_left: 5
     margin_right: 0
     margin_y: '100'
@@ -320,8 +320,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: D8E9BA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-25.jpg
+    color: '#d8e9ba'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
     margin_left: 0
     margin_right: 15
     margin_y: '400'
@@ -334,20 +334,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: DDEDF6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-26.jpg
-    margin_left: 0
-    margin_right: 0
-    margin_y: '100'
-    template: block-media-element
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: FFEBDA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-27.jpg
+    color: '#ffebda'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'
@@ -355,88 +343,16 @@ collection_blocks:
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: EDE5DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-28.jpg
-    margin_left: 25
-    margin_right: 0
-    margin_y: '100'
-    template: block-media-element
-    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: CCE1F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-2.jpg
-    margin_left: 5
-    margin_right: ''
-    margin_y: '100'
-    template: block-media-element
-    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: D8F3D8
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-31.jpg
-    margin_left: 0
-    margin_right: ''
-    margin_y: '400'
-    template: block-media-element
-    width: '55'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: F0D5E7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-29.jpg
-    margin_left: 0
-    margin_right: 0
-    margin_y: '100'
-    template: block-media-element
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: FBC1A2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-32.jpg
-    margin_left: 35
-    margin_right: 0
-    margin_y: '100'
-    template: block-media-element
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    block: media-element
-    caption: ''
-    color: EDDAF0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-33.jpg
-    margin_left: 20
-    margin_right: 0
-    margin_y: '100'
-    template: block-media-element
-    width: '70'
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomads_header-2.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_header-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-60.jpg
 collection_meta: 'Kitt Peak '
 collection_meta_2: 2023
