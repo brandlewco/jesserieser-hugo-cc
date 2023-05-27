@@ -19,63 +19,63 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E1F9FB
+    color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
-    width: 60
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: 30
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FBEBD6
+    color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-3.jpg
-    margin_left: 15
-    margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_left: 0
+    margin_right: 10
+    margin_y: 500
+    width: 40
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: E4F6FE
+    color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-4.jpg
-    margin_left: 0
-    margin_right: 20
-    margin_y: 300
-    width: 25
+    margin_left: 30
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FFD9CF
+    color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-5.jpg
-    margin_left: 0
+    margin_left: 5
     margin_right: 0
     margin_y: 100
-    width: 33
+    width: 90
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: DDF5DA
+    color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-6.jpg
-    margin_left: 0
-    margin_right: 15
-    margin_y: 500
-    width: 45
+    margin_left: 60
+    margin_right: 0
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F7F7D0
+    color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-7.jpg
-    margin_left: 20
+    margin_left: 30
     margin_right: 0
     margin_y: 100
-    width: 33
+    width: 40
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
