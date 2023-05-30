@@ -9,7 +9,7 @@ collection_description: >-
   dapibus sem porttitor convallis. Integer convallis arcu non lectus facilisis
   dapibus. Aenean commodo magna at laoreet tempor. Phasellus lorem lorem,
   fringilla vitae interdum vel, euismod vitae quam.
-theme_color: 'bde6c5'
+theme_color: '#bde6c5'
 navigation_theme: white
 header_col_1_title: Advertising & Editorial Commissions
 header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a><br /><br />Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
@@ -74,17 +74,17 @@ about_blocks:
     title_margin_right:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     title: Exhibitions
-    color: 77DDD4
+    color: '#77ddd4'
     meta: My dad & I, © Rob Rieser
     title_margin_y: 15
-    text_color: FFE42D
+    text_color: '#ffe42d'
     text_size: 7xl
     line_height:
     text_alignment:
     text_tracking:
     font_weight:
     meta_align: left
-    modal_color: 77DDD4
+    modal_color: '#77ddd4'
     modal_block:
       - content: |-
           **2021**  
@@ -1102,18 +1102,18 @@ about_blocks:
     title_margin_left: 5
     title_margin_right: 0
     title: Clients
-    color: D5E3F6
+    color: '#d5e3f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-13.jpg
     meta: Ben Simmons for Smart Water & Anomaly NY. © Dayvid Lemmon
     title_margin_y: 10
-    text_color: FAB7ED
+    text_color: '#fab7ed'
     text_size: 7xl
     line_height:
     text_alignment: right
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: D5E3F6
+    modal_color: '#d5e3f6'
     modal_block:
       - content: '**AARP**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__aarp.png
@@ -1314,7 +1314,7 @@ about_bio_image_credit: © Brad Reed. Header © Mike Lundgren
 cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
-cv_color: 'ff5858'
+cv_color: '#ff5858'
 seo:
   meta_title: Photographer Jesse Riesers Bio and Information
   meta_description: >-
