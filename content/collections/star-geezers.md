@@ -168,7 +168,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 300
     show_controls: false
-    template: block-media-motion
     vimeo_id: 414925506
     width: 40
   - _bookshop_name: collections/media-element 
@@ -198,7 +197,6 @@ collection_blocks:
     color: FCE4D0
     margin_left: 25
     margin_y: 100
-    template: block-media-motion
     vimeo_id: 414908662
     width: 50
   - _bookshop_name: collections/media-row

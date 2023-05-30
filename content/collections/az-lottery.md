@@ -70,7 +70,6 @@ collection_blocks:
     color: CFE7DF
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 216270338
     width: 66
   - _bookshop_name: collections/media-row
@@ -88,7 +87,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 5
     margin_y: 500
-    template: block-media-motion
     vimeo_id: 216269536
     width: 40
   - _bookshop_name: collections/media-row

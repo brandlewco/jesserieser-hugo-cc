@@ -70,7 +70,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 0510464600
     width: 40
   - _bookshop_name: collections/media-element
@@ -218,7 +217,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 0515559092
     width: 33
   - _bookshop_name: collections/media-row
@@ -286,7 +284,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 515559208
     width: 80
   - _bookshop_name: collections/media-row
@@ -304,7 +301,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 300
     parallax: true
-    template: block-media-text
     text: Written By Michael Willbon
     text_alignment: left
     text_color: 

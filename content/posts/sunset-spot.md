@@ -102,102 +102,82 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-1.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-1.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-18.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-18.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-12.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-12.jpg-static
     width: 25
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-13.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-13.jpg-static
     width: 25
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-15.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-15.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-22.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-22.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-3.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-3.jpg-static
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-23.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-23.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-8.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-8.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-9.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-9.jpg-static
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-5.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-5.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-19.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-19.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-17.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-17.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-16.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-16.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg-static
     width: 100
 blog_slider:
   - _bookshop_name: posts/media-motion-id
-    show_controls: false
-    template: block-media-motion-id
+    show_controls: false-id
     vimeo_id: 486529863
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg-url
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-14.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-14.jpg-url
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg-url
 ---

@@ -21,6 +21,5 @@ seo:
   meta_title: Apple Post Title
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg-url
 ---

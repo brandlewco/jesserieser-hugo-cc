@@ -32,65 +32,53 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-4.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-4.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-5.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-5.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-6.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-6.jpg-static
     width: 66
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-7.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-7.jpg-static
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-8.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-8.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-9.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-9.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-10.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-10.jpg-static
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-11.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-11.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-12.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-12.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-16.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-16.jpg-static
     width: 66
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg-static
     width: 33
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-2.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-2.jpg-url
 ---

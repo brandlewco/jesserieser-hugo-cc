@@ -206,7 +206,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 50
     parallax: false
-    template: block-media-text
     text: 62
     text_alignment: left
     text_color: 
@@ -226,7 +225,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 50
     parallax: true
-    template: block-media-text
     text: Ties the course record
     text_alignment: left
     text_color: 000000
@@ -256,7 +254,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 579676885
     width: 40
   - _bookshop_name: collections/media-row-end

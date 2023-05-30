@@ -117,8 +117,8 @@ collection_category:
   - Portraits
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#ba86ef'
-theme_color_all_works: '#bcf6a6'
+theme_color: 'ba86ef'
+theme_color_all_works: 'bcf6a6'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-31.jpg
 collection_preview:

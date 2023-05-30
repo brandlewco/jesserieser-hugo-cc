@@ -24,7 +24,7 @@
     {{end}}
     {{ if .title }}
     <figcaption class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}" style="pointer-events:none; {{with .title_margin_y}}top:{{.}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{.}}%;{{end}} {{with .title_margin_right}}margin-right:{{.}}%;{{end}}" data-rellax-speed="4" data-rellax-xs-speed="1">
-      <h2 class="text-4xl {{with .text_size }}md:text-{{.}}{{else}}md:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" style="color: {{with .text_color }}#{{.}}{{end}}">
+      <h2 class="text-4xl {{with .text_size }}md:text-{{.}}{{else}}md:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" style="color: {{with .text_color}}#{{.}}{{end}};">
         {{ .title | markdownify}}
       </h2>
     </figcaption>

@@ -65,7 +65,6 @@ collection_blocks:
     margin_left: 35
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -76,7 +75,6 @@ collection_blocks:
     margin_left: 15
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -87,7 +85,6 @@ collection_blocks:
     margin_left: 5
     margin_right: ''
     margin_y: '200'
-    template: block-media-element
     width: '20'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -96,7 +93,6 @@ collection_blocks:
     margin_left: ''
     margin_right: 5
     margin_y: '500'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -107,7 +103,6 @@ collection_blocks:
     margin_left: 20
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -118,7 +113,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '500'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -126,7 +120,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg'
     margin_right: 10
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -137,7 +130,6 @@ collection_blocks:
     margin_left: 35
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -147,7 +139,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-9.jpg'
     margin_left: 10
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -156,7 +147,6 @@ collection_blocks:
     margin_left: ''
     margin_right: 5
     margin_y: '300'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -166,7 +156,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-11.jpg'
     margin_left: 25
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -177,7 +166,6 @@ collection_blocks:
     margin_left: 5
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -185,7 +173,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-13.jpg'
     margin_right: 15
     margin_y: '300'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -195,7 +182,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-14.jpg'
     margin_left: 20
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -206,7 +192,6 @@ collection_blocks:
     margin_left: 5
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -214,7 +199,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-16.jpg'
     margin_right: 5
     margin_y: '400'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -225,7 +209,6 @@ collection_blocks:
     margin_left: 35
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -236,7 +219,6 @@ collection_blocks:
     margin_left: 20
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -247,7 +229,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '20'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -256,7 +237,6 @@ collection_blocks:
     margin_left: ''
     margin_right: 25
     margin_y: '300'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -266,7 +246,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-21.jpg'
     margin_left: 10
     margin_y: '100'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -275,7 +254,6 @@ collection_blocks:
     margin_left: ''
     margin_right: 5
     margin_y: '400'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -285,7 +263,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-23.jpg'
     margin_left: 25
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -296,7 +273,6 @@ collection_blocks:
     margin_left: 15
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-element
     block: media-element
@@ -304,7 +280,6 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-25.jpg'
     margin_left: ''
     margin_y: '300'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -315,7 +290,6 @@ collection_blocks:
     margin_left: 30
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -326,7 +300,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -337,8 +310,6 @@ collection_blocks:
     margin_left: 20
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row-end
-
 ---

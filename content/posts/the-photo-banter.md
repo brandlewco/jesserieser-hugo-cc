@@ -47,7 +47,6 @@ seo:
   meta_title: Jesse Rieser Photo Banter Podcast Interview
 blog_slider:
   - _bookshop_name: posts/media-motion-id
-    show_controls: true
-    template: block-media-motion-id
+    show_controls: true-id
     vimeo_id: 523950651
 ---

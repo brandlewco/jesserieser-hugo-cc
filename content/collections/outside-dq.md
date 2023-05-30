@@ -84,7 +84,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -96,7 +95,6 @@ collection_blocks:
     margin_left: 10%
     margin_right: 
     margin_y: 600
-    template: block-media-element
     width: 33
   - _bookshop_name: collections/media-element
     align_x: start
@@ -106,7 +104,6 @@ collection_blocks:
     margin_left: 
     margin_right: 5%
     margin_y: 100
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -117,7 +114,6 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
     margin_left: 20%
     margin_y: 100
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -129,7 +125,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element
     align_x: start
@@ -138,7 +133,6 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
     margin_right: 20
     margin_y: 300
-    template: block-media-element
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -150,7 +144,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -162,6 +155,5 @@ collection_blocks:
     margin_left: 30
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 60
 ---

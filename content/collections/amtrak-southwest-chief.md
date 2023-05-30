@@ -47,7 +47,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -57,7 +56,6 @@ collection_blocks:
     margin_left: 5
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 25
   - _bookshop_name: collections/media-element 
     color: FAE8E6
@@ -65,7 +63,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 25
     margin_y: 300
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -75,14 +72,12 @@ collection_blocks:
     margin_left: 10
     margin_right: 
     margin_y: 400
-    template: block-media-element
     width: 45
   - _bookshop_name: collections/media-element 
     color: FFF1E3
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-6.jpg
     margin_right: 5
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -92,7 +87,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -102,7 +96,6 @@ collection_blocks:
     margin_left: 35
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -111,7 +104,6 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-9.jpg
     margin_left: 20
     margin_y: 100
-    template: block-media-element
     width: 25
   - _bookshop_name: collections/media-element 
     color: F6E6DD
@@ -119,7 +111,6 @@ collection_blocks:
     margin_left: 
     margin_right: 10
     margin_y: 300
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -129,7 +120,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 
     margin_y: -200
-    template: block-media-element
     width: 20
   - _bookshop_name: collections/media-element 
     color: ECEBE1
@@ -137,7 +127,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 30
     margin_y: 200
-    template: block-media-element
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -147,7 +136,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 
     margin_y: 700
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element 
     color: E7C0AE
@@ -155,7 +143,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 5
     margin_y: 100
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -165,7 +152,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 25
   - _bookshop_name: collections/media-element 
     color: CCCCD3
@@ -173,7 +159,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: 300
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -183,7 +168,6 @@ collection_blocks:
     margin_left: 30
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -193,7 +177,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 0
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-element 
     color: E0EAE9
@@ -201,7 +184,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: 400
-    template: block-media-element
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -211,7 +193,6 @@ collection_blocks:
     margin_left: 65
     margin_right: 0
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -220,7 +201,6 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
     margin_left: 20
     margin_y: 100
-    template: block-media-element
     width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -230,7 +210,6 @@ collection_blocks:
     margin_left: 5
     margin_right: 0
     margin_y: 200
-    template: block-media-element
     width: 20
   - _bookshop_name: collections/media-element 
     color: D8E4E4
@@ -238,7 +217,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 40
     margin_y: 100
-    template: block-media-element
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -248,7 +226,6 @@ collection_blocks:
     margin_left: 45
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -257,14 +234,12 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
     margin_left: 10
     margin_y: 300
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-element 
     color: FCD6CC
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
     margin_right: 15
     margin_y: 100
-    template: block-media-element
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -274,7 +249,6 @@ collection_blocks:
     margin_left: 15
     margin_right: 
     margin_y: 100
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-element 
     color: EBE3EB
@@ -282,7 +256,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 20
     margin_y: 700
-    template: block-media-element
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -291,7 +264,6 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-29.jpg
     margin_left: 35
     margin_y: 100
-    template: block-media-element
     width: 40
   - _bookshop_name: collections/media-row-end
 

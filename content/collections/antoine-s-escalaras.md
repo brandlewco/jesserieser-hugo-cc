@@ -79,7 +79,6 @@ collection_blocks:
     margin_right: 5
     margin_y: 700
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737204973
     width: 33
   - _bookshop_name: collections/media-row
@@ -127,7 +126,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737205489
     width: 45
   - _bookshop_name: collections/media-row
@@ -174,7 +172,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737205681
     width: 20
   - _bookshop_name: collections/media-motion
@@ -187,7 +184,6 @@ collection_blocks:
     margin_right: 15
     margin_y: 300
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737206761
     width: 40
   - _bookshop_name: collections/media-row
@@ -244,7 +240,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737206960
     width: 40
   - _bookshop_name: collections/media-row
@@ -310,7 +305,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 737207172
     width: 33
   - _bookshop_name: collections/media-element

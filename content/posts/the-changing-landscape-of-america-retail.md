@@ -32,80 +32,65 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-3.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-3.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-4.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-4.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-5.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-5.jpg-static
     width: 100
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-6.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-6.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-7.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-7.jpg-static
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-8.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-8.jpg-static
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-11.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-11.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-10.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-10.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-9.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-9.jpg-static
     width: 40
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-12.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-12.jpg-static
     width: 60
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-15.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-15.jpg-static
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-13.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-13.jpg-static
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-14.jpg
-    template: block-media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-14.jpg-static
     width: 100
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg-url
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-2b.jpg
-    template: block-media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-2b.jpg-url
 ---

@@ -8,7 +8,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#e1f3dd'
+    color: 'e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-1.jpg
     margin_left: 15
     margin_right: 0
@@ -90,7 +90,7 @@ collection_category:
   - Color
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#cefae5'
+theme_color: 'cefae5'
 theme_color_all_works:
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-24.jpg

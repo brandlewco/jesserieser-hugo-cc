@@ -100,7 +100,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 200
     parallax: true
-    template: block-media-text
     text: _“You ask yourself, Is my world safe?’_
     text_alignment: left
     text_color: 000000
@@ -195,7 +194,6 @@ collection_blocks:
     margin_right: 0
     margin_y: -200
     parallax: true
-    template: block-media-text
     text: >-
       _"You should feel angry at the target,” he growled in my ear. “It’s gonna
       make you do something you’re gonna feel for the rest of your life.”_
@@ -261,7 +259,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 500
     parallax: true
-    template: block-media-text
     text: >-
       _“Certainly there is no hunting like the hunting of man and those who have
       hunted armed men long enough and liked it, never really care for anything
@@ -337,7 +334,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 200
     parallax: true
-    template: block-media-text
     text: _“Refuse to be a victim"_
     text_alignment: left
     text_color: 000000
@@ -354,7 +350,6 @@ collection_blocks:
     margin_right: 10
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 522470092
     width: 40
   - _bookshop_name: collections/media-row
@@ -405,7 +400,6 @@ collection_blocks:
     margin_right: 0
     margin_y: -100
     parallax: true
-    template: block-media-text
     text: >-
       _“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
       you how to fight when death comes to your door.”_
@@ -447,7 +441,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 50
     parallax: true
-    template: block-media-text
     text: >-
       _He believes Joe Biden’s election was a coup, one that is be up to the
       American people to rectify: “Serious times require serious Americans.”_
@@ -533,7 +526,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 200
     parallax: true
-    template: block-media-text
     text: _Community sounds really great, but it is not an inclusive concept._
     text_alignment: left
     text_color: 

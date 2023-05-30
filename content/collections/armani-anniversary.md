@@ -25,7 +25,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 736267733
     width: 45
   - _bookshop_name: collections/media-row
@@ -40,7 +39,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 736267876
     width: 33
   - _bookshop_name: collections/media-element
@@ -84,7 +82,6 @@ collection_blocks:
     margin_right: 30
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 736267817
     width: 30
   - _bookshop_name: collections/media-row
@@ -99,7 +96,6 @@ collection_blocks:
     margin_right: 0
     margin_y: 100
     show_controls: false
-    template: block-media-motion
     vimeo_id: 736267612
     width: 30
   - _bookshop_name: collections/media-row

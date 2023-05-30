@@ -72,7 +72,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 0
     margin_y: 200
-    template: block-media-motion
     vimeo_id: 458007593
     width: 40
   - _bookshop_name: collections/media-row

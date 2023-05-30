@@ -128,7 +128,7 @@ collection_category:
   - Portraits
   - Color
 date: 2021-07-25T23:18:43Z
-theme_color: '#a3a7f3'
+theme_color: 'a3a7f3'
 theme_color_all_works:
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg

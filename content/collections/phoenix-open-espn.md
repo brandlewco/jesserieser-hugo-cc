@@ -89,7 +89,6 @@ collection_blocks:
     margin_left: 25
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -103,7 +102,6 @@ collection_blocks:
     margin_left: 10
     margin_right: 0
     margin_y: '500'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -115,7 +113,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -129,7 +126,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 0
     margin_y: '200'
-    template: block-media-element
     width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -143,7 +139,6 @@ collection_blocks:
     margin_left: 45
     margin_right: 0
     margin_y: '200'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -157,7 +152,6 @@ collection_blocks:
     margin_left: 0
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -169,7 +163,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '300'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -183,7 +176,6 @@ collection_blocks:
     margin_left: 40
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -197,7 +189,6 @@ collection_blocks:
     margin_left: 15
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -209,7 +200,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '1000'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -223,7 +213,6 @@ collection_blocks:
     margin_left: 30
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -237,7 +226,6 @@ collection_blocks:
     margin_left: 20
     margin_right: ''
     margin_y: '400'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -249,7 +237,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 5
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -263,7 +250,6 @@ collection_blocks:
     margin_left: 5
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -277,7 +263,6 @@ collection_blocks:
     margin_left: 40
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -291,7 +276,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '400'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -303,7 +287,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 15
     margin_y: '100'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -317,7 +300,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -329,7 +311,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 10
     margin_y: '400'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -343,7 +324,6 @@ collection_blocks:
     margin_left: 15
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -357,7 +337,6 @@ collection_blocks:
     margin_left: 60
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -371,7 +350,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 0
     margin_y: '400'
-    template: block-media-element
     width: '20'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -383,7 +361,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 10
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -397,7 +374,6 @@ collection_blocks:
     margin_left: 30
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -411,7 +387,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '300'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -423,7 +398,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 20
     margin_y: '100'
-    template: block-media-element
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -437,7 +411,6 @@ collection_blocks:
     margin_left: 20
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -451,7 +424,6 @@ collection_blocks:
     margin_left: 30
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -465,7 +437,6 @@ collection_blocks:
     margin_left: 15
     margin_right: 0
     margin_y: '700'
-    template: block-media-element
     width: '25'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -477,7 +448,6 @@ collection_blocks:
     margin_left: 0
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -491,7 +461,6 @@ collection_blocks:
     margin_left: 25
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -505,7 +474,6 @@ collection_blocks:
     margin_left: 30
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '25'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -517,7 +485,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '500'
-    template: block-media-element
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -531,7 +498,6 @@ collection_blocks:
     margin_left: 35
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -545,7 +511,6 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '45'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -557,7 +522,6 @@ collection_blocks:
     margin_left: 0
     margin_right: 10
     margin_y: '500'
-    template: block-media-element
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -571,7 +535,6 @@ collection_blocks:
     margin_left: 50
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -585,7 +548,6 @@ collection_blocks:
     margin_left: 15
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -605,7 +567,6 @@ collection_blocks:
     margin_left: 55
     margin_right: 0
     margin_y: '100'
-    template: block-media-element
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -619,7 +580,6 @@ collection_blocks:
     margin_left: 30
     margin_right: ''
     margin_y: '100'
-    template: block-media-element
     width: '60'
   - _bookshop_name: collections/media-row-end
 ---
