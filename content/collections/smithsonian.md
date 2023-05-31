@@ -297,7 +297,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_header-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_vertical-header-2.jpg
 collection_meta: 'Kitt Peak'
-collection_meta_2: '0'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   Meet the Americans who live in their vans, buses and cars in pursuit of a
