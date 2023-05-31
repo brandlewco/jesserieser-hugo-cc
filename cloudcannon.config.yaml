@@ -140,7 +140,7 @@ _inputs:
     type: text
   collection_meta_2:
     type: text
-  collection_description
+  collection_description:
     type: markdown
   collection_description_alignment:
     type: select
