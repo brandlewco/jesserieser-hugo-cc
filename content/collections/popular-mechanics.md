@@ -8,8 +8,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F3F0DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg
+    color: "#F3F0DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -19,8 +19,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FF052A
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
+    color: "#FF052A"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -30,8 +30,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E3F4EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-3.jpg
+    color: "#E3F4EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-3.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -39,8 +39,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FBEBE1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-4.jpg
+    color: "#FBEBE1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-4.jpg
     margin_left: 0
     margin_right: 20
     margin_y: 400
@@ -50,8 +50,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E3F5FB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_repacemen-3.jpg
+    color: "#E3F5FB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/popmech_repacemen-3.jpg
     margin_left: 15
     margin_right: 5
     margin_y: 100
@@ -61,8 +61,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F3DFF7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
+    color: "#F3DFF7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -70,8 +70,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FE1A25
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
+    color: "#FE1A25"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -81,7 +81,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: E0F8D8
+    color: "#E0F8D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-9.jpg
     margin_left: 5
     margin_right: 0
@@ -90,8 +90,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: F9EFD6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-8.jpg
+    color: "#F9EFD6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-8.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 400
@@ -101,8 +101,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: FE012C
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-10.jpg
+    color: "#FE012C"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-10.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -128,7 +128,7 @@ collection_category:
   - Portraits
   - Color
 date: 2021-07-25T23:18:43Z
-theme_color: 'a3a7f3'
+theme_color: '#a3a7f3'
 theme_color_all_works:
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg

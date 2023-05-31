@@ -26,7 +26,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: BEE8F6
+theme_color: "#BEE8F6"
 title: Spotlight Awards 2022 Edition
 seo:
   meta_description: >-

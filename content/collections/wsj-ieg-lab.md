@@ -77,15 +77,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: wall-street-journal-2
-theme_color: E2EADE
-theme_color_all_works: BCF6A6
+theme_color: "#E2EADE"
+theme_color_all_works: BCF6A6"
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FFF0AE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-1.jpg
+    color: "#FFF0AE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-1.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -94,16 +94,16 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: DDECF9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-2b-single.jpg
+    color: "#DDECF9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-2b-single.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
     align_y: start
-    color: EDF3E7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-2c-single.jpg
+    color: "#EDF3E7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-2c-single.jpg
     margin_left: 0
     margin_right: 25
     margin_y: 200
@@ -111,23 +111,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FFE9E6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-3.jpg
+    color: "#FFE9E6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-element 
-    color: EEFBFC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-4.jpg
+    color: "#EEFBFC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-4.jpg
     margin_right: 5
     margin_y: 700
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EAF6E6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-5.jpg
+    color: "#EAF6E6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-5.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 200
@@ -135,15 +135,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E5FAF5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-6.jpg
+    color: "#E5FAF5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-6.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element 
-    color: FDF3CA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-7.jpg
+    color: "#FDF3CA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-7.jpg
     margin_left: 0
     margin_right: 25
     margin_y: 400
@@ -151,7 +151,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E4F4F8
+    color: "#E4F4F8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-8.jpg
     margin_left: 30
     margin_right: 0
@@ -160,15 +160,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F5EEEA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-9.jpg
+    color: "#F5EEEA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-9.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element 
-    color: F1F8EE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-10.jpg
+    color: "#F1F8EE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-10.jpg
     margin_right: 10
     margin_y: 400
     width: 40
@@ -176,16 +176,16 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: DFF6FF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-11b-single-2.jpg
+    color: "#DFF6FF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-11b-single-2.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 200
     width: 20
   - _bookshop_name: collections/media-element
     align_y: start
-    color: FFECAC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-11c-single-2.jpg
+    color: "#FFECAC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ieg-11c-single-2.jpg
     margin_left: 0
     margin_right: 30
     margin_y: 100

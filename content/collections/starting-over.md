@@ -56,8 +56,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: starting-over
-theme_color: E0CBC6
-theme_color_all_works: F9917C
+theme_color: "#E0CBC6"
+theme_color_all_works: F9917C"
 title: 'Starting Over: Will Move For Work'
 collection_awards:
   - content: |-
@@ -91,8 +91,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D0E5CB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
+    color: "#D0E5CB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
     margin_left: 55
     margin_right: 0
     margin_y: 100
@@ -100,13 +100,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: C19E88
+    color: "#C19E88"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-3.jpg
     margin_y: 700
     width: 33
   - _bookshop_name: collections/media-element 
-    color: FBA093
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg
+    color: "#FBA093"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -114,16 +114,16 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: ECD1BA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-4.jpg
+    color: "#ECD1BA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-4.jpg
     margin_left: 15
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: B7DCB6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
+    color: "#B7DCB6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -131,15 +131,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F0F0C8
+    color: "#F0F0C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-6.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element 
-    color: 889C81
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-7.jpg
+    color: "#889C81"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-7.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 700
@@ -147,23 +147,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EDCBA7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-8.jpg
+    color: "#EDCBA7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-8.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 500
     width: 40
   - _bookshop_name: collections/media-element 
-    color: E5CDBE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-9.jpg
+    color: "#E5CDBE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-9.jpg
     margin_right: 5
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: BDD493
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-10.jpg
+    color: "#BDD493"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-10.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -171,37 +171,37 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E2F0EC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
+    color: "#E2F0EC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
     margin_left: 30
     margin_y: 100
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: CDD2EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-12.jpg
+    color: "#CDD2EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-12.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 300
     width: 33
   - _bookshop_name: collections/media-element 
-    color: C3DEE5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-13.jpg
+    color: "#C3DEE5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-13.jpg
     margin_right: 10
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: DBD8D8
+    color: "#DBD8D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-14.jpg
     margin_left: 5
     margin_y: 300
     width: 20
   - _bookshop_name: collections/media-element 
-    color: E3E3D9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-15.jpg
+    color: "#E3E3D9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-15.jpg
     margin_left: 0
     margin_right: 35
     margin_y: 100
@@ -209,8 +209,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E4ECEB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-16.jpg
+    color: "#E4ECEB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-16.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -218,8 +218,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E8E1D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-17.jpg
+    color: "#E8E1D4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-17.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -227,14 +227,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: DAEDFD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-18.jpg
+    color: "#DAEDFD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-18.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element 
-    color: DCE4E8
+    color: "#DCE4E8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-19.jpg
     margin_left: 0
     margin_right: 0
@@ -243,8 +243,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F0EEE2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-20.jpg
+    color: "#F0EEE2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/startingover-20.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100

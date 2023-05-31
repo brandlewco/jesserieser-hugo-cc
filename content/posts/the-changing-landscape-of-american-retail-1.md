@@ -39,7 +39,7 @@ content: >-
 date: 
 news_category:
   - Exhibition
-theme_color: E5E5EF
+theme_color: "#E5E5EF"
 title: The Changing Landscape of American Retail 
 seo:
   meta_description: 

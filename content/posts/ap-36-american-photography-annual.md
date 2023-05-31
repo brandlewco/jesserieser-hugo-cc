@@ -48,7 +48,7 @@ content: >-
 date: 
 news_category:
   - Awards
-theme_color: FDF9B0
+theme_color: "#FDF9B0"
 title: "AP 36: American Photography Annual"
 seo:
   meta_description: 

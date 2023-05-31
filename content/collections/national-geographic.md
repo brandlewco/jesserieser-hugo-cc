@@ -41,7 +41,7 @@ navigation_theme: black
 px_extra: true
 row_alignment: between
 slug: natgeo-marty
-theme_color: DCB4FF
+theme_color: "#DCB4FF"
 theme_color_all_works: 
 title: National Geographic
 seo:
@@ -53,8 +53,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E1F3DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
+    color: "#E1F3DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -62,8 +62,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E1F9FB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
+    color: "#E1F9FB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 700
@@ -73,8 +73,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FBEBD6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-3.jpg
+    color: "#FBEBD6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-3.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -84,8 +84,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFD9CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-5.jpg
+    color: "#FFD9CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-5.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -93,8 +93,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: E4F6FE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-4.jpg
+    color: "#E4F6FE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-4.jpg
     margin_left: 0
     margin_right: 20
     margin_y: 300
@@ -104,8 +104,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: DDF5DA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-6.jpg
+    color: "#DDF5DA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-6.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -115,8 +115,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F7F7D0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-7.jpg
+    color: "#F7F7D0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-7.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -124,8 +124,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E0EFFF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-8.jpg
+    color: "#E0EFFF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-8.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 600

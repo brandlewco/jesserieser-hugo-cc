@@ -52,7 +52,7 @@ content: >-
 date: 
 news_category:
   - exhibition
-theme_color: D8F1AE
+theme_color: "#D8F1AE"
 title: "Klompching Gallery: Fresh"
 seo:
   meta_description: 

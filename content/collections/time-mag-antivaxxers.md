@@ -46,14 +46,14 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: time-magazine-ii
-theme_color: 4DC4D1
-theme_color_all_works: 25CBDD
+theme_color: "#4DC4D1"
+theme_color_all_works: 25CBDD"
 title: Time Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F9DDB8
+    color: "#F9DDB8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-2.jpg
     margin_left: 20
     margin_y: 100
@@ -61,15 +61,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: C6D7E9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-3.jpg
+    color: "#C6D7E9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-3.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 500
     width: 25
   - _bookshop_name: collections/media-element 
-    color: EE8585
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-4.jpg
+    color: "#EE8585"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-4.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -77,8 +77,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: 5CC5CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-5.jpg
+    color: "#5CC5CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-5.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -86,15 +86,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FEDFCD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-7.jpg
+    color: "#FEDFCD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-7.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 600
     width: 20
   - _bookshop_name: collections/media-element 
-    color: FCE692
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-6.jpg
+    color: "#FCE692"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -102,8 +102,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: AEC7DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-8.jpg
+    color: "#AEC7DE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-8.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 200
@@ -111,14 +111,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FCC9C1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-9.jpg
+    color: "#FCC9C1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-9.jpg
     margin_left: 10
     margin_y: 200
     width: 33
   - _bookshop_name: collections/media-element 
-    color: E9CEBF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-10.jpg
+    color: "#E9CEBF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-10.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
@@ -126,8 +126,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F1F3CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-12.jpg
+    color: "#F1F3CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-12.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -135,15 +135,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: C2CFDF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-14.jpg
+    color: "#C2CFDF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-14.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element 
-    color: CFE3B4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-1.jpg
+    color: "#CFE3B4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-1.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 300
@@ -151,8 +151,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F8E4B1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-16.jpg
+    color: "#F8E4B1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-16.jpg
     margin_left: 15
     margin_y: 100
     width: 75

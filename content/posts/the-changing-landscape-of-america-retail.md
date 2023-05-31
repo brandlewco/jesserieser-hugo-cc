@@ -23,7 +23,7 @@ margin_x: 5%
 margin_y: 50
 news_category:
   - Press
-theme_color: E8DCEE
+theme_color: "#E8DCEE"
 title: The Changing Landscape of America Retail 
 width: 10
 seo:

@@ -76,8 +76,8 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: the-wallow-fire
-theme_color: D8E1E1
-theme_color_all_works: ED5C5C
+theme_color: "#D8E1E1"
+theme_color_all_works: ED5C5C"
 title: The Wallow Fire
 collection_awards:
   - content: |-
@@ -109,8 +109,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FBF1D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
+    color: "#FBF1D3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -118,15 +118,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: C2D5B2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-3.jpg
+    color: "#C2D5B2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element 
-    color: FADFBB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-2.jpg
+    color: "#FADFBB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-2.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 300
@@ -134,16 +134,16 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: DBB782
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-4.jpg
+    color: "#DBB782"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-4.jpg
     margin_left: 40
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D5C5C5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-5.jpg
+    color: "#D5C5C5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-5.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -151,14 +151,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E0E9E5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-6.jpg
+    color: "#E0E9E5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-6.jpg
     margin_right: 0
     margin_y: 100
     width: 45
   - _bookshop_name: collections/media-element 
-    color: F9E99F
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-7.jpg
+    color: "#F9E99F"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-7.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 600
@@ -166,7 +166,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F0E2C8
+    color: "#F0E2C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-8.jpg
     margin_left: 30
     margin_right: 0
@@ -175,14 +175,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E5EEEC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-9.jpg
+    color: "#E5EEEC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-9.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-element 
-    color: CAC9C8
+    color: "#CAC9C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-10.jpg
     margin_left: 0
     margin_right: 0
@@ -191,23 +191,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E1E3DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-11.jpg
+    color: "#E1E3DE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-11.jpg
     margin_left: 15
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D0C797
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-13.jpg
+    color: "#D0C797"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-13.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element 
-    color: B3AE99
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-12.jpg
+    color: "#B3AE99"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-12.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 400
@@ -215,8 +215,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F9DCBC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-14.jpg
+    color: "#F9DCBC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-14.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -224,38 +224,38 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FBEECD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-15.jpg
+    color: "#FBEECD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-15.jpg
     margin_left: 35
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D4CEC3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-17.jpg
+    color: "#D4CEC3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-17.jpg
     margin_left: 5
     margin_y: 500
     width: 33
   - _bookshop_name: collections/media-element 
-    color: E7EEEF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-16.jpg
+    color: "#E7EEEF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-16.jpg
     margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FCE7A3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-18.jpg
+    color: "#FCE7A3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-18.jpg
     margin_left: 30
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: CACBD2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-19.jpg
+    color: "#CACBD2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-19.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -263,8 +263,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: 222842
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-20.jpg
+    color: "#222842"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wallow-20.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100

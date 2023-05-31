@@ -40,7 +40,7 @@ content: >-
 date: 
 news_category:
   - press
-theme_color: FFD595
+theme_color: "#FFD595"
 title: The Photo Banter
 seo:
   meta_description: Watch this podcast interview with Jesse Rieser for Photo Banter. 

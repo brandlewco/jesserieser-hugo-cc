@@ -43,7 +43,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: F8D9D9
+theme_color: "#F8D9D9"
 title: "AP 38: American Photography Annual"
 seo:
   meta_description: 

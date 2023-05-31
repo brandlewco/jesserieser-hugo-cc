@@ -41,7 +41,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: nytimes-metrocenter
-theme_color: AEE0D9
+theme_color: "#AEE0D9"
 theme_color_all_works: 
 title: The New York Times
 seo:
@@ -71,8 +71,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: DFCADB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-1.jpg
+    color: "#DFCADB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -82,8 +82,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: C9E0E2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-2.jpg
+    color: "#C9E0E2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-2.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -91,8 +91,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3DFD1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-3.jpg
+    color: "#F3DFD1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-3.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 500
@@ -102,8 +102,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3CECE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-4.jpg
+    color: "#F3CECE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-4.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 200
@@ -113,8 +113,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: A8D3FF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-5.jpg
+    color: "#A8D3FF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-5.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 200
@@ -122,8 +122,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E8BED6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-6.jpg
+    color: "#E8BED6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-6.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 600
@@ -133,8 +133,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FAD5C5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
+    color: "#FAD5C5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 200
@@ -142,8 +142,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F1D5D9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-8.jpg
+    color: "#F1D5D9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-8.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 200
@@ -153,8 +153,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D5E8CB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-09b.jpg
+    color: "#D5E8CB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-09b.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 200
@@ -164,8 +164,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EBE0D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-10.jpg
+    color: "#EBE0D3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-10.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -173,8 +173,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: ADDBD7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-11.jpg
+    color: "#ADDBD7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-11.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
@@ -184,8 +184,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: ECDBDB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-12.jpg
+    color: "#ECDBDB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-12.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -195,8 +195,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: C0DFDB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-13.jpg
+    color: "#C0DFDB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-13.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -204,8 +204,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F5E2CB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-14.jpg
+    color: "#F5E2CB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-14.jpg
     margin_left: 0
     margin_right: 20
     margin_y: 700
@@ -215,8 +215,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: C8F1CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-15.jpg
+    color: "#C8F1CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-15.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -226,8 +226,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: CCC2FD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-16.jpg
+    color: "#CCC2FD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-16.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -237,8 +237,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FAC2E0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-17.jpg
+    color: "#FAC2E0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-17.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -248,8 +248,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 837395
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-19.jpg
+    color: "#837395"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-19.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -257,8 +257,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: C1CFB9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-18.jpg
+    color: "#C1CFB9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-18.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 500
@@ -268,8 +268,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D1BCAF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-20.jpg
+    color: "#D1BCAF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-20.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -279,8 +279,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E6CFD9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-21.jpg
+    color: "#E6CFD9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-21.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 200
@@ -290,8 +290,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F4E4D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-22.jpg
+    color: "#F4E4D3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-22.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 200
@@ -299,8 +299,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3D7D6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-23.jpg
+    color: "#F3D7D6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-23.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 800
@@ -310,8 +310,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EAF4FE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-24.jpg
+    color: "#EAF4FE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-24.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -321,8 +321,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E8D1EA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-25.jpg
+    color: "#E8D1EA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-25.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -330,8 +330,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FA938A
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-26.jpg
+    color: "#FA938A"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-26.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 600
@@ -341,8 +341,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: B7D1E3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-28.jpg
+    color: "#B7D1E3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-28.jpg
     margin_left: 40
     margin_right: 0
     margin_y: 100
@@ -352,8 +352,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3B99E
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-27.jpg
+    color: "#F3B99E"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-27.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -363,8 +363,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: B5E3DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-29.jpg
+    color: "#B5E3DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-29.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -374,8 +374,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: ABC6EC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-30.jpg
+    color: "#ABC6EC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-30.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -385,8 +385,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EAD8CB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-31.jpg
+    color: "#EAD8CB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-31.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100

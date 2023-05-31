@@ -52,15 +52,15 @@ navigation_theme: white
 page: /collections/amtrak-sunset-limited
 px_extra: true
 slug: sunsetlimited
-theme_color: 'E3E7EB'
-theme_color_all_works: 'FF7572'
+theme_color: '#E3E7EB'
+theme_color_all_works: '#fF7572'
 title: Amtrak The National
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F2F1DB'
+    color: '#F2F1DB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-1.jpg'
     margin_left: 35
     margin_right: ''
@@ -70,7 +70,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F4E6D6'
+    color: '#F4E6D6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-2.jpg'
     margin_left: 15
     margin_right: ''
@@ -80,7 +80,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'A7D2F0'
+    color: '#A7D2F0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-3.jpg'
     margin_left: 5
     margin_right: ''
@@ -88,7 +88,7 @@ collection_blocks:
     width: '20'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'FAE0B4'
+    color: '#FAE0B4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-4.jpg'
     margin_left: ''
     margin_right: 5
@@ -98,7 +98,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E8EDC6'
+    color: '#E8EDC6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-5.jpg'
     margin_left: 20
     margin_right: ''
@@ -108,7 +108,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'FFEACA'
+    color: '#FFEACA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-7.jpg'
     margin_left: 10
     margin_right: ''
@@ -116,7 +116,7 @@ collection_blocks:
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'D5EFE4'
+    color: '#D5EFE4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg'
     margin_right: 10
     margin_y: '100'
@@ -125,7 +125,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F9D8C5'
+    color: '#F9D8C5'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-8.jpg'
     margin_left: 35
     margin_right: ''
@@ -135,14 +135,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E6E9E8'
+    color: '#E6E9E8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-9.jpg'
     margin_left: 10
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F1E9DC'
+    color: '#F1E9DC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-10.jpg'
     margin_left: ''
     margin_right: 5
@@ -152,7 +152,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'DFEDF4'
+    color: '#DFEDF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-11.jpg'
     margin_left: 25
     margin_y: '100'
@@ -161,7 +161,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E4CAA9'
+    color: '#E4CAA9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-12.jpg'
     margin_left: 5
     margin_right: ''
@@ -169,7 +169,7 @@ collection_blocks:
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F4EEE3'
+    color: '#F4EEE3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-13.jpg'
     margin_right: 15
     margin_y: '300'
@@ -178,7 +178,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'EBDFE9'
+    color: '#EBDFE9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-14.jpg'
     margin_left: 20
     margin_y: '100'
@@ -187,7 +187,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F3DFD8'
+    color: '#F3DFD8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-15.jpg'
     margin_left: 5
     margin_right: ''
@@ -195,7 +195,7 @@ collection_blocks:
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E4ECF4'
+    color: '#E4ECF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-16.jpg'
     margin_right: 5
     margin_y: '400'
@@ -204,7 +204,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'FFE6C0'
+    color: '#FFE6C0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-17.jpg'
     margin_left: 35
     margin_right: ''
@@ -214,7 +214,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'FFE3EC'
+    color: '#FFE3EC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-19.jpg'
     margin_left: 20
     margin_right: ''
@@ -224,7 +224,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'FFE3CC'
+    color: '#FFE3CC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-20.jpg'
     margin_left: 10
     margin_right: ''
@@ -232,7 +232,7 @@ collection_blocks:
     width: '20'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E7F6F4'
+    color: '#E7F6F4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-18.jpg'
     margin_left: ''
     margin_right: 25
@@ -242,14 +242,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'DBD2D8'
+    color: '#DBD2D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-21.jpg'
     margin_left: 10
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E9F0F7'
+    color: '#E9F0F7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-22.jpg'
     margin_left: ''
     margin_right: 5
@@ -259,7 +259,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'DFECEA'
+    color: '#DFECEA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-23.jpg'
     margin_left: 25
     margin_y: '100'
@@ -268,7 +268,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '4C2323'
+    color: '#4C2323'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-24.jpg'
     margin_left: 15
     margin_right: ''
@@ -276,7 +276,7 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'BEB6CC'
+    color: '#BEB6CC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-25.jpg'
     margin_left: ''
     margin_y: '300'
@@ -285,7 +285,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'E9D5D0'
+    color: '#E9D5D0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-26.jpg'
     margin_left: 30
     margin_right: ''
@@ -295,7 +295,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: '756B75'
+    color: '#756B75'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-27.jpg'
     margin_left: 10
     margin_right: ''
@@ -305,7 +305,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     block: media-element
-    color: 'F5E6D8'
+    color: '#F5E6D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-28.jpg'
     margin_left: 20
     margin_right: ''

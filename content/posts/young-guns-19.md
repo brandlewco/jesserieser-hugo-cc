@@ -65,7 +65,7 @@ content: >-
 date: 
 news_category:
   - press
-theme_color: B9F1A8
+theme_color: "#B9F1A8"
 title: Young Guns 19
 post_blocks:
   - _bookshop_name: posts/media-element-static

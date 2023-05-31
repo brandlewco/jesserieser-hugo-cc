@@ -61,7 +61,7 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: bloomberg-rent
-theme_color: C6E3FF
+theme_color: "#C6E3FF"
 theme_color_all_works: 
 title: Bloomberg Business Week
 seo:
@@ -73,8 +73,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F2E5F9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-1.jpg
+    color: "#F2E5F9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-1.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -84,8 +84,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E1F0FB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-2.jpg
+    color: "#E1F0FB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 400
@@ -93,8 +93,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FBF4E3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-3.jpg
+    color: "#FBF4E3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-3.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -104,8 +104,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FBE4E4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-4.jpg
+    color: "#FBE4E4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-4.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -113,8 +113,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FDF6D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-5.jpg
+    color: "#FDF6D3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-5.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 700
@@ -124,8 +124,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EEE3F4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-6.jpg
+    color: "#EEE3F4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-6.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -135,8 +135,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E6FFFC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-11.jpg
+    color: "#E6FFFC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-11.jpg
     margin_left: 40
     margin_right: 0
     margin_y: 100
@@ -146,8 +146,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F7EFDB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-7.jpg
+    color: "#F7EFDB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-7.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -155,8 +155,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFE7E7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-15.jpg
+    color: "#FFE7E7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-15.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 200
@@ -166,8 +166,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D8FDDA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-10.jpg
+    color: "#D8FDDA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-10.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -177,8 +177,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFF0E0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-8.jpg
+    color: "#FFF0E0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-8.jpg
     margin_left: 65
     margin_right: 0
     margin_y: 100
@@ -188,8 +188,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFE3FE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-12.jpg
+    color: "#FFE3FE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-12.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -201,8 +201,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E6FEFD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-13.jpg
+    color: "#E6FEFD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-13.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -212,8 +212,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFE4E4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rent-14.jpg
+    color: "#FFE4E4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rent-14.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100

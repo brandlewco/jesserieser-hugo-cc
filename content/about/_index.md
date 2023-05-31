@@ -361,23 +361,23 @@ about_blocks:
     margin_y:
     margin_left: 0
     margin_right: 0
-    title_margin_left: -25
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
+    title_margin_left: -25"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
-    color: FFDA8A
+    color: "#FFDA8A
     margin_x: 5
     align_y:
     title_margin_right:
     meta: 1984. © Rob Rieser
     title_margin_y: 35
-    text_color: 79B3FF
+    text_color: "#79B3FF
     text_size: 8xl
     line_height:
     text_alignment:
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: FAD267
+    modal_color: "#FAD267
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -715,7 +715,7 @@ about_blocks:
     margin_y: 200
     margin_left: 10
     margin_right: 0
-    background_color: FF6A5A
+    background_color: "#FF6A5A
     text: >-
       “I’ve worked with tons of photographers that can’t make something great
       out of nothing. You made gold from a blank canvas. Thank you.” - _Devin
@@ -734,9 +734,9 @@ about_blocks:
       Producer RPA Los Angeles_
     parallax: true
     text_size: lg
-    background_image_toggle: false
-    image:
-    text_color: ffffff
+    background_image_toggle: falsE"
+    image: 
+    text_color: "#ffffff
     font_weight: light
     image_css:
     caption_css:
@@ -756,17 +756,17 @@ about_blocks:
     title_margin_right:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    color: DDC4E7
+    color: "#DDC4E7
     meta: © Nicky Hedyatzadeh
     title_margin_y: 30
-    text_color: 9DFD7C
+    text_color: "#9DFD7C
     text_size:
     line_height:
     text_alignment:
     text_tracking:
     font_weight: normal
     meta_align: left
-    modal_color: DDC4E7
+    modal_color: "#DDC4E7
     modal_block:
       - content: >-
           [_The New York Times Lens

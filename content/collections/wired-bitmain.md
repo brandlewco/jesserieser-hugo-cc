@@ -80,15 +80,15 @@ navigation_theme: white
 px_extra: true
 slug: wired-magazine-2
 test_repeater: []
-theme_color: D2DEE7
-theme_color_all_works: 8FD2F9
+theme_color: "#D2DEE7"
+theme_color_all_works: 8FD2F9"
 title: Wired Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: A3C8AD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
+    color: "#A3C8AD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -99,14 +99,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E7A973
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2.jpg
+    color: "#E7A973"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2.jpg
     margin_left: 5
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element 
-    color: FFD467
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-3.jpg
+    color: "#FFD467"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-3.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 500
@@ -114,15 +114,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: 7DDBC0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-4.jpg
+    color: "#7DDBC0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-4.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 200
     width: 40
   - _bookshop_name: collections/media-element 
-    color: FD9496
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-5.jpg
+    color: "#FD9496"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-5.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 200
@@ -130,14 +130,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EFD6B4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-6.jpg
+    color: "#EFD6B4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-6.jpg
     margin_left: 5
     margin_y: 200
     width: 33
   - _bookshop_name: collections/media-element 
-    color: E1EA6D
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-7.jpg
+    color: "#E1EA6D"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-7.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 400
@@ -145,14 +145,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: CEDCDD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
+    color: "#CEDCDD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
     margin_left: 5
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element 
-    color: E7BFAA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-9.jpg
+    color: "#E7BFAA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-9.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 500
@@ -160,31 +160,31 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: A4D38E
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
+    color: "#A4D38E"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
     margin_left: 25
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F5614B
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-11.jpg
+    color: "#F5614B"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-11.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element 
-    color: A6CAE5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-12.jpg
+    color: "#A6CAE5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-12.jpg
     margin_right: 15
     margin_y: 600
     width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F8D9B6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-13.jpg
+    color: "#F8D9B6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-13.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -192,15 +192,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FFC9B6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-14.jpg
+    color: "#FFC9B6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-14.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element 
-    color: DCEDF6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-15.jpg
+    color: "#DCEDF6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-15.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 300
@@ -208,15 +208,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EEFAE4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-16.jpg
+    color: "#EEFAE4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-16.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 50
     width: 25
   - _bookshop_name: collections/media-element 
-    color: FFE9B4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-17.jpg
+    color: "#FFE9B4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-17.jpg
     margin_left: 0
     margin_right: 20
     margin_y: 300
@@ -224,15 +224,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: DAD4DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-18.jpg
+    color: "#DAD4DE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-18.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element 
-    color: FFC690
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
+    color: "#FFC690"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 400
@@ -240,23 +240,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FFDA9C
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
+    color: "#FFDA9C"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
     margin_left: 25
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D4D29A
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-21.jpg
+    color: "#D4D29A"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-21.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element 
-    color: F0F9FA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
+    color: "#F0F9FA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 500
@@ -264,8 +264,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FF9167
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-23.jpg
+    color: "#FF9167"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-23.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -273,15 +273,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D8E59D
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
+    color: "#D8E59D"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element 
-    color: FFDCB6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
+    color: "#FFDCB6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
@@ -289,8 +289,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E1EEF5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
+    color: "#E1EEF5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -298,31 +298,31 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FAEEDC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-27.jpg
+    color: "#FAEEDC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-27.jpg
     margin_left: 35
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E7DEF3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-28.jpg
+    color: "#E7DEF3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-28.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 400
     width: 50
   - _bookshop_name: collections/media-element 
-    color: F1CDBA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-29.jpg
+    color: "#F1CDBA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-29.jpg
     margin_right: 10
     margin_y: 100
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: E79F85
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-30.jpg
+    color: "#E79F85"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-30.jpg
     margin_left: 30
     margin_y: 100
     width: 30
@@ -330,8 +330,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element 
     caption: Deflation. Tempe, AZ. 2016 
-    color: D9A663
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-31.jpg
+    color: "#D9A663"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/bitmain-31.jpg
     margin_left: 20
     margin_y: 100
     width: 60

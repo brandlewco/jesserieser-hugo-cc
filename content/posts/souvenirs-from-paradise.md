@@ -61,7 +61,7 @@ content: >-
 date: 
 news_category:
   - exhibition
-theme_color: F6E7D1
+theme_color: "#F6E7D1"
 title: Souvenirs From Paradise Exhibition 
 vimeo_block_cover: 769252337
 seo:

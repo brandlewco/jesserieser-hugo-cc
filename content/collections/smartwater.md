@@ -46,8 +46,8 @@ px_extra: true
 row_alignment: between
 sale: false
 slug: ben-simmons-smart-water
-theme_color: FAEA72
-theme_color_all_works: FFE767
+theme_color: "#FAEA72"
+theme_color_all_works: FFE767"
 title: 'Smart Water: Essentialism'
 seo:
   meta_description: 
@@ -58,8 +58,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: D1E3EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
+    color: "#D1E3EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -69,8 +69,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: E2DCDC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
+    color: "#E2DCDC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -80,8 +80,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: D8E4F4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
+    color: "#D8E4F4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -91,8 +91,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: D0CEE6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
+    color: "#D0CEE6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -100,8 +100,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: FABDAB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
+    color: "#FABDAB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 600
@@ -111,8 +111,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: E3DCE9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
+    color: "#E3DCE9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -122,8 +122,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: EEECE1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
+    color: "#EEECE1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 200
@@ -133,8 +133,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: C0BFDC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
+    color: "#C0BFDC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -144,8 +144,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
-    color: C4D8EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
+    color: "#C4D8EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100

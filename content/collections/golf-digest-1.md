@@ -34,8 +34,8 @@ navigation_theme: black
 px_extra: true
 row_alignment: between
 slug: golf-digest-scottie
-theme_color: C1FFD2
-theme_color_all_works: FF9494
+theme_color: "#C1FFD2"
+theme_color_all_works: FF9494"
 title: Golf Digest 
 seo:
   meta_description: 
@@ -46,8 +46,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D3FAFF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
+    color: "#D3FAFF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -57,8 +57,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FEEECE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
+    color: "#FEEECE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -66,7 +66,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FDC888
+    color: "#FDC888"
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-3.jpg
     margin_left: 0
     margin_right: 0
@@ -77,8 +77,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFA35B
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-5.jpg
+    color: "#FFA35B"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-5.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 400
@@ -86,8 +86,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D6F0F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-4.jpg
+    color: "#D6F0F3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-4.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 200
@@ -97,8 +97,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E2F9E5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-6.jpg
+    color: "#E2F9E5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-6.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 200
@@ -108,8 +108,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFF1DC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-7.jpg
+    color: "#FFF1DC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-7.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 200
@@ -117,8 +117,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D1F8F4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie_10-1.jpg
+    color: "#D1F8F4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scottie_10-1.jpg
     margin_left: 0
     margin_right: 30
     margin_y: 200
@@ -128,8 +128,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E8DFFE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-9.jpg
+    color: "#E8DFFE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-9.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -139,8 +139,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FFEBAD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-10.jpg
+    color: "#FFEBAD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-10.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 200

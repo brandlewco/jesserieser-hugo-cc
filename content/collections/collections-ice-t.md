@@ -31,15 +31,15 @@ navigation_theme: white
 px_extra: true
 row_alignment: center
 slug: ice-t
-theme_color: B8EEBC
-theme_color_all_works: E69DFB
+theme_color: "#B8EEBC"
+theme_color_all_works: E69DFB"
 title: Zeit Magazin
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D4D4D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-1.jpg
+    color: "#D4D4D4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-1.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -47,15 +47,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EDEDED
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg
+    color: "#EDEDED"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 900
     width: 40
   - _bookshop_name: collections/media-element 
-    color: 4D4D4D
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-2.jpg
+    color: "#4D4D4D"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-2.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 100
@@ -63,31 +63,31 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: 272727
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-4.jpg
+    color: "#272727"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-4.jpg
     margin_left: 30
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D7D7D7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-5.jpg
+    color: "#D7D7D7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-5.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element 
-    color: A7A7A7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-6.jpg
+    color: "#A7A7A7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-6.jpg
     margin_right: 20
     margin_y: 600
     width: 20
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EFEFEF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ice-7.jpg
+    color: "#EFEFEF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/ice-7.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100

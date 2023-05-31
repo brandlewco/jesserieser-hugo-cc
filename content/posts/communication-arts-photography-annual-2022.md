@@ -45,7 +45,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: FABDC2
+theme_color: "#FABDC2"
 title: Communication Arts Photography Annual 2022
 seo:
   meta_description: 

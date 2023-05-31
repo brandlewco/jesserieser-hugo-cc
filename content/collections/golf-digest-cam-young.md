@@ -8,8 +8,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: e1f3dd
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
+    color: "#e1f3dD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -28,8 +28,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: fbebd6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
+    color: "#fbebd6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -50,8 +50,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: ffd9cf
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
+    color: "#ffd9cF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100

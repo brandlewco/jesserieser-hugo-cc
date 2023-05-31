@@ -7,8 +7,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: DCE3F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-26.jpg
+    color: "#DCE3F3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-26.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -18,8 +18,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EFE5DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-2.jpg
+    color: "#EFE5DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-2.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -29,8 +29,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: C6E2D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-27.jpg
+    color: "#C6E2D4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-27.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -38,8 +38,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D8D7E3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-4.jpg
+    color: "#D8D7E3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-4.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 300
@@ -49,8 +49,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EDE5DE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-5.jpg
+    color: "#EDE5DE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-5.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -60,8 +60,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EFCAB3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-6.jpg
+    color: "#EFCAB3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-6.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -71,8 +71,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F8EBCC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-7.jpg
+    color: "#F8EBCC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-7.jpg
     margin_left: 50
     margin_right: 0
     margin_y: 100
@@ -82,7 +82,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: DCEDF8
+    color: "#DCEDF8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-25.jpg
     margin_left: 10
     margin_right: 0
@@ -91,8 +91,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3E1D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-9.jpg
+    color: "#F3E1D4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-9.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 400
@@ -102,8 +102,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F4DFE7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-10.jpg
+    color: "#F4DFE7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-10.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -113,8 +113,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D5F4F6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-11.jpg
+    color: "#D5F4F6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-11.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -124,8 +124,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F9D1BC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-12.jpg
+    color: "#F9D1BC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-12.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -135,8 +135,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: CCE3FA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-13.jpg
+    color: "#CCE3FA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-13.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 200
@@ -144,8 +144,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F0F3D4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-14.jpg
+    color: "#F0F3D4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-14.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 100
@@ -155,8 +155,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EADEF4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-15.jpg
+    color: "#EADEF4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-15.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -166,8 +166,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D0F1F0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-16.jpg
+    color: "#D0F1F0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-16.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -177,8 +177,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F1E3CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-17.jpg
+    color: "#F1E3CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-17.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 300
@@ -186,8 +186,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F9DECE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-18.jpg
+    color: "#F9DECE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-18.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -197,7 +197,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D8F3D8
+    color: "#D8F3D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-21.jpg
     margin_left: 15
     margin_right: 0
@@ -206,8 +206,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: CCE1F3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-20.jpg
+    color: "#CCE1F3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-20.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 200
@@ -217,8 +217,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D5D9F0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-19.jpg
+    color: "#D5D9F0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-19.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 100
@@ -228,8 +228,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EDDAF0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-23.jpg
+    color: "#EDDAF0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-23.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -239,8 +239,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: FBC1A2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-22.jpg
+    color: "#FBC1A2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-22.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -250,8 +250,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F6F1D0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-24.jpg
+    color: "#F6F1D0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-24.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -273,7 +273,7 @@ collection_category:
   - Environments
   - Portraits
 date: 2022-10-31T23:17:19Z
-theme_color: f2b7b7
+theme_color: "#f2b7b7"
 theme_color_all_works:
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg

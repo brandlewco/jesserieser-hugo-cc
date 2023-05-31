@@ -30,7 +30,7 @@ content: >-
 date: 
 news_category:
   - Awards
-theme_color: B2E9D4
+theme_color: "#B2E9D4"
 title: "Phoenix: A Dystopian Legoland That Tastes Like Candy"
 post_blocks:
   - _bookshop_name: posts/media-element-static

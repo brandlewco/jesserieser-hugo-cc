@@ -6,8 +6,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: A0ECEC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
+    color: "#A0ECEC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -15,37 +15,37 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: FBF0DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
+    color: "#FBF0DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
     margin_left: 10
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    color: D3E7AF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
+    color: "#D3E7AF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
     margin_right: 5
     margin_y: 300
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: FFD5DD
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
+    color: "#FFD5DD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
     margin_left: 35
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: FBECE4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
+    color: "#FBECE4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    color: C5E4F2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
+    color: "#C5E4F2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
     margin_right: 5
     margin_y: 300
     width: 40
@@ -67,8 +67,8 @@ collection_category:
   - Sports + Athletes
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: 'ffc1c7'
-theme_color_all_works: 'ffb5bd'
+theme_color: '#ffc1c7'
+theme_color_all_works: '#ffb5bd'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-29.jpg
 collection_preview:

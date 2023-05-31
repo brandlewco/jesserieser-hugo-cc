@@ -28,7 +28,7 @@ content: >-
 date: 
 news_category:
   - Press
-theme_color: FF0000
+theme_color: "#FF0000"
 title: Christmas In America
 seo:
   meta_description: 

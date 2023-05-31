@@ -65,8 +65,8 @@ navigation_theme: white
 page: /collections/outside-dq
 px_extra: true
 slug: outside-magazine-dq
-theme_color: CFDDE5
-theme_color_all_works: 9BFFA2
+theme_color: "#CFDDE5"
+theme_color_all_works: 9BFFA2"
 title: Outside Magazine
 seo:
   meta_description: >-
@@ -79,8 +79,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: F6F4EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-1.jpg
+    color: "#F6F4EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-1.jpg
     margin_left: 10
     margin_right: 
     margin_y: 100
@@ -90,8 +90,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: FDE1DA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
+    color: "#FDE1DA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
     margin_left: 10%
     margin_right: 
     margin_y: 600
@@ -99,8 +99,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: E2ECD5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
+    color: "#E2ECD5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
     margin_left: 
     margin_right: 5%
     margin_y: 100
@@ -110,8 +110,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: FFE5D1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
+    color: "#FFE5D1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
     margin_left: 20%
     margin_y: 100
     width: 50
@@ -120,8 +120,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: E7EBC7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-5.jpg
+    color: "#E7EBC7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-5.jpg
     margin_left: 10
     margin_right: 
     margin_y: 100
@@ -129,8 +129,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: E0EAEF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
+    color: "#E0EAEF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
     margin_right: 20
     margin_y: 300
     width: 33
@@ -139,8 +139,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: F1E3E4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-7.jpg
+    color: "#F1E3E4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-7.jpg
     margin_left: 20
     margin_right: 
     margin_y: 100
@@ -150,8 +150,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: EAE2D6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-8.jpg
+    color: "#EAE2D6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-8.jpg
     margin_left: 30
     margin_right: 
     margin_y: 100

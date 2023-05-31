@@ -53,7 +53,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: CCAAF8
+theme_color: "#CCAAF8"
 title: Agents Club 22 Awards “Poetic Documentary”
 seo:
   meta_description: 

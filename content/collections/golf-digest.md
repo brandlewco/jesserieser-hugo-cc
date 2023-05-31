@@ -36,8 +36,8 @@ navigation_theme: white
 px_extra: true
 row_alignment: between
 slug: golf-digest-bubba
-theme_color: FFCBBE
-theme_color_all_works: E77B7B
+theme_color: "#FFCBBE"
+theme_color_all_works: E77B7B"
 title: Golf Digest 
 seo:
   meta_description: >-
@@ -50,8 +50,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E9EFF4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-1.jpg
+    color: "#E9EFF4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-1.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -59,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EAE8BC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-2.jpg
+    color: "#EAE8BC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-2.jpg
     margin_left: 0
     margin_right: 15
     margin_y: 800
@@ -70,8 +70,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F4D9C9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-3.jpg
+    color: "#F4D9C9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-3.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 300
@@ -79,8 +79,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F0EAFB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-4.jpg
+    color: "#F0EAFB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-4.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -90,8 +90,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: F3F8CF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-5.jpg
+    color: "#F3F8CF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-5.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 200
@@ -101,8 +101,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: A7A7A7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-6.jpg
+    color: "#A7A7A7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-6.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 200
@@ -112,8 +112,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: EFEFEF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-7.jpg
+    color: "#EFEFEF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-7.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -121,8 +121,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: B5B5B5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-8.jpg
+    color: "#B5B5B5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-8.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 300
@@ -132,8 +132,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 8E8E8E
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-9.jpg
+    color: "#8E8E8E"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-9.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -143,8 +143,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: D5D5D5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-10.jpg
+    color: "#D5D5D5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-10.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -152,8 +152,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 565656
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-11.jpg
+    color: "#565656"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-11.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 700
@@ -163,7 +163,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 282828
+    color: "#282828"
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-12.jpg
     margin_left: 30
     margin_right: 0
@@ -174,8 +174,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 565656
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-13.jpg
+    color: "#565656"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-13.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -185,8 +185,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: 191919
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-14.jpg
+    color: "#191919"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-14.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -195,12 +195,12 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: 
+    background_color: ""
     background_image_toggle: false
     block: media-text
     caption_css: 
-    font_weight: bold
-    image: 
+    font_weight: bolD"
+    image:  
     image_css: 
     margin_left: 35
     margin_right: 0
@@ -208,13 +208,13 @@ collection_blocks:
     parallax: false
     text: 62
     text_alignment: left
-    text_color: 
+    text_color: ""
     text_size: 10xl
     text_tracking: wider
     width: 50
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: 
+    background_color: ""
     background_image_toggle: false
     block: media-text
     caption_css: 
@@ -227,7 +227,7 @@ collection_blocks:
     parallax: true
     text: Ties the course record
     text_alignment: left
-    text_color: 000000
+    text_color: "#000000
     text_size: 4xl
     text_tracking: normal
     width: 50
@@ -236,8 +236,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
-    color: E8ECF1
-    image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-15.jpg
+    color: "#E8ECF1"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-15.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 50
@@ -248,7 +248,7 @@ collection_blocks:
     align_y: start
     block_aspect_ratio: 3x4
     caption: 
-    color: 
+    color: ""
     image: 
     margin_left: 30
     margin_right: 0

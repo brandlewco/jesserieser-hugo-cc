@@ -71,7 +71,7 @@ content: >-
 date: 2021-12-25T07:00:00.000Z
 news_category:
   - press
-theme_color: FF5252
+theme_color: "#FF5252"
 title: "Christmas In America: Happy Birthday, Jesus"
 seo:
   meta_description: 

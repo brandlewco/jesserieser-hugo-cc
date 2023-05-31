@@ -37,7 +37,7 @@ content: >-
 date: 
 news_category:
   - Press
-theme_color: D9F8F4
+theme_color: "#D9F8F4"
 title: The Star Geezers 
 seo:
   meta_description: 

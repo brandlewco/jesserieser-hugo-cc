@@ -38,7 +38,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: FFDAA3
+theme_color: "#FFDAA3"
 title: 2022 SPD Awards
 seo:
   meta_description: 

@@ -94,7 +94,7 @@ content: >-
 date: 
 news_category:
   - exhibition
-theme_color: C8B3EB
+theme_color: "#C8B3EB"
 title: The Sunset Spot at Red Modern
 seo:
   meta_description: 

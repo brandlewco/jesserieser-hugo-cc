@@ -44,7 +44,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: FFCC8E
+theme_color: "#FFCC8E"
 title: "AP 37: American Photography Annual"
 seo:
   meta_description: 

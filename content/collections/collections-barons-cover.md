@@ -35,8 +35,8 @@ logo:
 navigation_theme: black
 px_extra: true
 slug: barrons-cover
-theme_color: F7E998
-theme_color_all_works: E69DFB
+theme_color: "#F7E998"
+theme_color_all_works: E69DFB"
 title: Barron''s 
 seo:
   meta_description: Nikola Truck photographed in Arizona
@@ -59,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: A994AB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
+    color: "#A994AB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -77,8 +77,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F3D4B6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-4.jpg
+    color: "#F3D4B6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-4.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 200
@@ -86,23 +86,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D7E5C6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-5.jpg
+    color: "#D7E5C6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-5.jpg
     margin_left: 25
     margin_right: 0
     margin_y: 300
     width: 33
   - _bookshop_name: collections/media-element 
-    color: E6CAE4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-6.jpg
+    color: "#E6CAE4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-6.jpg
     margin_right: 10
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F9D3D3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-7.jpg
+    color: "#F9D3D3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-7.jpg
     margin_left: 40
     margin_right: 0
     margin_y: 100
@@ -110,8 +110,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F9F0C2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-10.jpg
+    color: "#F9F0C2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-10.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 100
@@ -119,8 +119,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: D1C0DF
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg
+    color: "#D1C0DF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100

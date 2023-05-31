@@ -68,15 +68,15 @@ logo:
 navigation_theme: white
 px_extra: true
 slug: wall-street-journal-robot
-theme_color: B8EEBC
-theme_color_all_works: 6D94FF
+theme_color: "#B8EEBC"
+theme_color_all_works: 6D94FF"
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FCD79E
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
+    color: "#FCD79E"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -84,14 +84,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: BBD2E5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
+    color: "#BBD2E5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
     width: 55
   - _bookshop_name: collections/media-element 
-    color: D4E3C8
+    color: "#D4E3C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-3.jpg
     margin_left: 0
     margin_right: 0
@@ -100,23 +100,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: FAEBBE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
+    color: "#FAEBBE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
     margin_left: 25
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: DBE0EB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
+    color: "#DBE0EB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element 
-    color: EEE6D9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
+    color: "#EEE6D9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
     margin_left: 0
     margin_right: 30
     margin_y: 600
@@ -124,8 +124,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F4D4BB
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg
+    color: "#F4D4BB"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
@@ -133,8 +133,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F55656
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
+    color: "#F55656"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -142,14 +142,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: C5C1DA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
+    color: "#C5C1DA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
     margin_left: 10
     margin_y: 200
     width: 40
   - _bookshop_name: collections/media-element 
-    color: F1EFB3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
+    color: "#F1EFB3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
     margin_left: 0
     margin_right: 25
     margin_y: 700
@@ -157,23 +157,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: F0DDCA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
+    color: "#F0DDCA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
     margin_left: 20
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: EDE8E4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
+    color: "#EDE8E4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element 
-    color: 000000
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg
+    color: "#000000"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg
     margin_left: 0
     margin_right: 25
     margin_y: 400
@@ -181,8 +181,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
-    color: 1C1733
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
+    color: "#1C1733"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
     margin_left: 15
     margin_y: 100
     width: 70

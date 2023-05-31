@@ -13,7 +13,7 @@ content: |-
   [Request Gallery](mailto:jesse@jesserieser.com?subject=test)
 date: 
 news_category: []
-theme_color: FFFFFF
+theme_color: "#FFFFFF"
 title: Apple Work Title
 vimeo_block_cover: 
 seo:

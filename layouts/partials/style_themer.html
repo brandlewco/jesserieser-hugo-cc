@@ -6,25 +6,25 @@
 /* about */
 {{ with .Site.GetPage "about" }}
 body.page-{{lower .Title | urlize}} .hue-header.page .bun {
-        background-color: #{{.Params.theme_color}} !important;
+        background-color: {{.Params.theme_color}} !important;
     }
 
     body.page-{{lower .Title | urlize}} .hue-header.page .shift{
-        color: #{{.Params.theme_color}} !important;
+        color: {{.Params.theme_color}} !important;
     }
     html.to-about body {
-        background-color: #{{.Params.theme_color}};
+        background-color: {{.Params.theme_color}};
     }
 {{end}}
 
 /* collection style preloaders */
 {{ range (where .Site.RegularPages "Section" "collections") }}
     body.page-{{lower .Title | urlize}} .hue-header.page .bun {
-        background-color: #{{.Params.theme_color}} !important;
+        background-color: {{.Params.theme_color}} !important;
     }
 
     body.page-{{lower .Title | urlize}} .hue-header.page .shift{
-        color: #{{.Params.theme_color}} !important;
+        color: {{.Params.theme_color}} !important;
     }
     
     <!-- html.to-collection-{{lower .Title | urlize}} body {
@@ -32,6 +32,6 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
     } -->
     {{$URL := .RelPermalink | safeCSS | replaceRE "/" "-"}}
     html.to{{substr $URL 0 -1 }} body {
-        background-color: #{{.Params.theme_color}};
+        background-color: {{.Params.theme_color}};
     }
 {{end}}

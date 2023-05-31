@@ -6,16 +6,16 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: FFF0AE
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-23.jpg
+    color: "#FFF0AE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-23.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 300
     width: 60
   - _bookshop_name: collections/media-element
     align_y: start
-    color: DDECF9
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-24.jpg
+    color: "#DDECF9"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-24.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
@@ -24,8 +24,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: EDF3E7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-25.jpg
+    color: "#EDF3E7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-25.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -33,15 +33,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: EEFBFC
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-27.jpg
+    color: "#EEFBFC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-27.jpg
     margin_left: 15
     margin_right: 0
     margin_y: 400
     width: 45
   - _bookshop_name: collections/media-element
-    color: FFE9E6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-26.jpg
+    color: "#FFE9E6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-26.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -49,15 +49,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: EAF6E6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-28.jpg
+    color: "#EAF6E6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-28.jpg
     margin_left: 0
     margin_right: 0
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-element
-    color: E5FAF5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-29.jpg
+    color: "#E5FAF5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-29.jpg
     margin_left: 0
     margin_right: 45
     margin_y: 200
@@ -65,8 +65,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: FDF3CA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-30.jpg
+    color: "#FDF3CA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-30.jpg
     margin_left: 35
     margin_right: 0
     margin_y: 100
@@ -75,15 +75,15 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
-    color: D8F7C0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-32.jpg
+    color: "#D8F7C0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-32.jpg
     margin_left: 20
     margin_right: 0
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    color: F5EEEA
-    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-31.jpg
+    color: "#F5EEEA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/atlantic-31.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 400
@@ -91,7 +91,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: E4F4F8
+    color: "#E4F4F8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-33.jpg
     margin_left: 25
     margin_right: 0
@@ -117,8 +117,8 @@ collection_category:
   - Portraits
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: 'ba86ef'
-theme_color_all_works: 'bcf6a6'
+theme_color: '#ba86ef'
+theme_color_all_works: '#bcf6a6'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-31.jpg
 collection_preview:

@@ -10,8 +10,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: dce3f3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-1.jpg
+    color: "#dce3f3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-1.jpg
     margin_left: 20
     margin_right: ''
     margin_y: '100'
@@ -38,8 +38,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: efcab3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
+    color: "#efcab3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
     margin_left: 45
     margin_right: 0
     margin_y: '100'
@@ -52,8 +52,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f8ebcc
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-4.jpg
+    color: "#f8ebcC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-4.jpg
     margin_left: 30
     margin_right: 0
     margin_y: '100'
@@ -66,7 +66,7 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: dcedf8
+    color: "#dcedf8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-5.jpg
     margin_left: 15
     margin_right: 0
@@ -80,8 +80,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f4dfe7
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-6.jpg
+    color: "#f4dfe7"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '200'
@@ -92,8 +92,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f3e1d4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-7.jpg
+    color: "#f3e1d4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-7.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '800'
@@ -106,8 +106,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: d5f4f6
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-8.jpg
+    color: "#d5f4f6"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-8.jpg
     margin_left: 25
     margin_right: 0
     margin_y: '400'
@@ -118,8 +118,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f9d1bc
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-9.jpg
+    color: "#f9d1bC"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-9.jpg
     margin_left: 0
     margin_right: 5
     margin_y: '100'
@@ -132,8 +132,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: cce3fa
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-10.jpg
+    color: "#cce3fA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-10.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'
@@ -144,8 +144,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: edf1d0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-11.jpg
+    color: "#edf1d0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-11.jpg
     margin_left: 0
     margin_right: 10
     margin_y: '100'
@@ -158,8 +158,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f1e3cf
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-12.jpg
+    color: "#f1e3cF"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-12.jpg
     margin_left: 25
     margin_right: ''
     margin_y: '200'
@@ -172,8 +172,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: eadef4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-13.jpg
+    color: "#eadef4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-13.jpg
     margin_left: 5
     margin_right: 0
     margin_y: '100'
@@ -186,8 +186,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: efe5dd
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
+    color: "#efe5dD"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
     margin_left: 10
     margin_right: ''
     margin_y: '100'
@@ -198,8 +198,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: c6e2d4
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
+    color: "#c6e2d4"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
     margin_left: 0
     margin_right: 5
     margin_y: '400'
@@ -212,8 +212,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: d8d7e3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
+    color: "#d8d7e3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
     margin_left: 30
     margin_right: ''
     margin_y: '100'
@@ -224,8 +224,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: cce1f3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
+    color: "#cce1f3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '300'
@@ -238,8 +238,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: ede5de
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
+    color: "#ede5dE"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
     margin_left: 40
     margin_right: 0
     margin_y: '100'
@@ -252,8 +252,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: daf0d5
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
+    color: "#daf0d5"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
     margin_left: 10
     margin_right: 0
     margin_y: '100'
@@ -266,8 +266,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: d8f3f3
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
+    color: "#d8f3f3"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
     margin_left: 30
     margin_right: ''
     margin_y: '100'
@@ -280,8 +280,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: fbc1a2
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
+    color: "#fbc1a2"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
     margin_left: 50
     margin_right: 0
     margin_y: '100'
@@ -294,8 +294,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: eddaf0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
+    color: "#eddaf0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
     margin_left: 35
     margin_right: 10
     margin_y: '100'
@@ -308,8 +308,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: f6f1d0
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
+    color: "#f6f1d0"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
     margin_left: 5
     margin_right: 0
     margin_y: '100'
@@ -320,8 +320,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: d8e9ba
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
+    color: "#d8e9bA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
     margin_left: 0
     margin_right: 15
     margin_y: '400'
@@ -334,8 +334,8 @@ collection_blocks:
     align_y: ''
     block: media-element
     caption: ''
-    color: ffebda
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
+    color: "#ffebdA"
+    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'

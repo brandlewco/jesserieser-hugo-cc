@@ -24,7 +24,7 @@ content: >-
 date: 
 news_category:
   - press
-theme_color: F8DDCD
+theme_color: "#F8DDCD"
 title: BOOOOOOOM Feature
 seo:
   meta_description: 

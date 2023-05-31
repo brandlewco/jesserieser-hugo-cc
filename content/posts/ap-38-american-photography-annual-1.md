@@ -52,7 +52,7 @@ content: >-
 date: 
 news_category:
   - awards
-theme_color: FF052B
+theme_color: "#FF052B"
 title: "AP 38: American Photography Annual Chosen"
 seo:
   meta_description: 

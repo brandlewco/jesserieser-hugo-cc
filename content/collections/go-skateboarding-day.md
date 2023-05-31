@@ -34,8 +34,8 @@ logo: ''
 navigation_theme: black
 px_extra: true
 slug: go-skateboarding-day
-theme_color: 'BBD8FF'
-theme_color_all_works: 'FFB0B0'
+theme_color: '#BBD8FF'
+theme_color_all_works: '#fFB0B0'
 title: New York City
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -43,7 +43,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'CBCBCB'
+    color: '#CBCBCB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-1.jpg'
     margin_left: 15
     margin_right: ''
@@ -54,7 +54,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'E9E9E9'
+    color: '#E9E9E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-2.jpg'
     margin_left: 5
     margin_right: ''
@@ -63,7 +63,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'A7A7A7'
+    color: '#A7A7A7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-3.jpg'
     margin_left: ''
     margin_right: 10
@@ -74,7 +74,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: '858585'
+    color: '#858585'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-4.jpg'
     margin_left: 20
     margin_y: '100'
@@ -84,7 +84,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'FFF6E7'
+    color: '#FFF6E7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-5.jpg'
     margin_left: 15
     margin_right: 0
@@ -93,7 +93,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'D1E2DF'
+    color: '#D1E2DF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-6.jpg'
     margin_right: 15
     margin_y: '300'
@@ -103,7 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'E4E4E4'
+    color: '#E4E4E4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-5.jpg'
     margin_left: 5
     margin_right: ''
@@ -114,7 +114,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'AAAAAA'
+    color: '#AAAAAA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-6.jpg'
     margin_left: 35
     margin_right: ''
@@ -125,7 +125,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'F2ECE6'
+    color: '#F2ECE6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-10.jpg'
     margin_left: 10
     margin_y: '300'
@@ -133,7 +133,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'F3F9E9'
+    color: '#F3F9E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-9.jpg'
     margin_left: ''
     margin_right: 5
@@ -144,7 +144,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'E4E4E4'
+    color: '#E4E4E4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-7.jpg'
     margin_left: 35
     margin_y: '100'
@@ -154,7 +154,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'FBEDE7'
+    color: '#FBEDE7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-12.jpg'
     margin_left: 10
     margin_right: ''
@@ -165,7 +165,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'F9F9F3'
+    color: '#F9F9F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-13.jpg'
     margin_left: ''
     margin_right: ''
@@ -174,7 +174,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'C6D5DB'
+    color: '#C6D5DB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-14.jpg'
     margin_left: ''
     margin_right: 5
@@ -185,7 +185,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'D9D9D9'
+    color: '#D9D9D9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-8.jpg'
     margin_left: 50
     margin_right: ''
@@ -196,7 +196,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     block: media-element
-    color: 'EAFAF9'
+    color: '#EAFAF9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-17.jpg'
     margin_left: 30
     margin_y: '100'
