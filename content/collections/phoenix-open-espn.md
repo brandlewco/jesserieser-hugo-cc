@@ -88,8 +88,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-1.jpg'
     margin_left: 25
     margin_right: ''
-    margin_y: '100'
-    width: '55'
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -102,7 +102,7 @@ collection_blocks:
     margin_left: 10
     margin_right: 0
     margin_y: '500'
-    width: '40'
+    width: 40
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -112,8 +112,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-3.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '100'
-    width: '40'
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -126,7 +126,7 @@ collection_blocks:
     margin_left: 20
     margin_right: 0
     margin_y: '200'
-    width: '66'
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -139,7 +139,7 @@ collection_blocks:
     margin_left: 45
     margin_right: 0
     margin_y: '200'
-    width: '50'
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -151,8 +151,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg'
     margin_left: 0
     margin_right: ''
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -163,7 +163,7 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '300'
-    width: '33'
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -175,7 +175,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-8.jpg'
     margin_left: 40
     margin_right: 0
-    margin_y: '100'
+    margin_y: 100
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -188,8 +188,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-9.jpg'
     margin_left: 15
     margin_right: ''
-    margin_y: '100'
-    width: '40'
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -200,7 +200,7 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '1000'
-    width: '33'
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -212,8 +212,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-11.jpg'
     margin_left: 30
     margin_right: 0
-    margin_y: '100'
-    width: '55'
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -226,7 +226,7 @@ collection_blocks:
     margin_left: 20
     margin_right: ''
     margin_y: '400'
-    width: '33'
+    width: 33
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -236,8 +236,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-13.jpg'
     margin_left: 0
     margin_right: 5
-    margin_y: '100'
-    width: '33'
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -249,8 +249,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-14.jpg'
     margin_left: 5
     margin_right: 0
-    margin_y: '100'
-    width: '66'
+    margin_y: 100
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -262,8 +262,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-15.jpg'
     margin_left: 40
     margin_right: ''
-    margin_y: '100'
-    width: '50'
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -276,7 +276,7 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '400'
-    width: '40'
+    width: 40
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -286,8 +286,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-16.jpg'
     margin_left: 0
     margin_right: 15
-    margin_y: '100'
-    width: '30'
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -299,8 +299,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-18.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '100'
-    width: '33'
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -311,7 +311,7 @@ collection_blocks:
     margin_left: 0
     margin_right: 10
     margin_y: '400'
-    width: '50'
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -323,8 +323,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-20.jpg'
     margin_left: 15
     margin_right: ''
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -336,8 +336,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-21.jpg'
     margin_left: 60
     margin_right: ''
-    margin_y: '100'
-    width: '33'
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -350,7 +350,7 @@ collection_blocks:
     margin_left: 20
     margin_right: 0
     margin_y: '400'
-    width: '20'
+    width: 20
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -360,8 +360,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-23.jpg'
     margin_left: 0
     margin_right: 10
-    margin_y: '100'
-    width: '40'
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -373,8 +373,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-24.jpg'
     margin_left: 30
     margin_right: 0
-    margin_y: '100'
-    width: '55'
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -387,7 +387,7 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: '300'
-    width: '33'
+    width: 33
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -397,8 +397,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-26.jpg'
     margin_left: 0
     margin_right: 20
-    margin_y: '100'
-    width: '30'
+    margin_y: 100
+    width: 30
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -410,8 +410,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-27.jpg'
     margin_left: 20
     margin_right: 0
-    margin_y: '100'
-    width: '50'
+    margin_y: 100
+    width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -423,8 +423,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-28.jpg'
     margin_left: 30
     margin_right: 0
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -447,8 +447,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-30.jpg'
     margin_left: 0
     margin_right: ''
-    margin_y: '100'
-    width: '55'
+    margin_y: 100
+    width: 55
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -460,8 +460,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-31.jpg'
     margin_left: 25
     margin_right: ''
-    margin_y: '100'
-    width: '40'
+    margin_y: 100
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -473,7 +473,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-32.jpg'
     margin_left: 30
     margin_right: 0
-    margin_y: '100'
+    margin_y: 100
     width: '25'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -485,7 +485,7 @@ collection_blocks:
     margin_left: 0
     margin_right: 0
     margin_y: '500'
-    width: '40'
+    width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -497,8 +497,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-34.jpg'
     margin_left: 35
     margin_right: 0
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -510,7 +510,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-35.jpg'
     margin_left: 10
     margin_right: ''
-    margin_y: '100'
+    margin_y: 100
     width: '45'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -534,8 +534,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-37.jpg'
     margin_left: 50
     margin_right: 0
-    margin_y: '100'
-    width: '33'
+    margin_y: 100
+    width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -547,8 +547,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-38.jpg'
     margin_left: 15
     margin_right: 0
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -566,7 +566,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-39.jpg'
     margin_left: 55
     margin_right: 0
-    margin_y: '100'
+    margin_y: 100
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -579,7 +579,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-40.jpg'
     margin_left: 30
     margin_right: ''
-    margin_y: '100'
-    width: '60'
+    margin_y: 100
+    width: 60
   - _bookshop_name: collections/media-row-end
 ---

@@ -6,7 +6,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#edd7b2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-2.jpg
@@ -17,7 +17,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#f9d5d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-4.jpg
@@ -26,7 +26,7 @@ collection_blocks:
     margin_y: 700
     width: 50
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#e2cfef'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-3.jpg
@@ -39,7 +39,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#d9e3f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-5.jpg
@@ -48,7 +48,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#e6f3e6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-6.jpg
@@ -59,7 +59,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#cff1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-7.jpg
@@ -68,7 +68,7 @@ collection_blocks:
     margin_y: 400
     width: 40
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#ffe5c9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-8.jpg
@@ -81,7 +81,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#ebd1ef'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-9.jpg
@@ -90,7 +90,7 @@ collection_blocks:
     margin_y: 100
     width: 20
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#cef8e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-10.jpg
@@ -103,7 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#f9d4c0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-12.jpg
@@ -114,7 +114,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#f4d4d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-13.jpg
@@ -123,7 +123,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#c2f4f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-14.jpg
@@ -134,7 +134,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#ecd8f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-15.jpg
@@ -143,7 +143,7 @@ collection_blocks:
     margin_y: 400
     width: 40
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#d7f9d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-16.jpg
@@ -156,7 +156,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#cff7f2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-17.jpg

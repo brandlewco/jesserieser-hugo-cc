@@ -269,8 +269,8 @@ content_blocks:
     title: Christmas in America
     color: "#F4C8C8"
     meta: "2010 - \_2019"
-    margin_x:
-    align_y:
+    margin_x: 0
+    align_y: 0
     margin_left: 0
     margin_right: 10
     title_margin_left: 5
@@ -376,10 +376,10 @@ content_blocks:
     title: The Star Geezers
     color: "#9bbad5"
     meta: "Condor\_Airlines (Germany)"
-    margin_x:
-    align_y:
+    margin_x: 0
+    align_y: 0
     margin_left: 25
-    margin_right:
+    margin_right: 0
     title_margin_left: 70
     title_margin_right: 0
     meta_align: left
@@ -630,7 +630,7 @@ content_blocks:
     theme_color: "#C8B3EB"
   - _bookshop_name: home/media-feature
     width: 40
-    align_y:
+    align_y: 0
     margin_y: 300
     margin_left: 5
     margin_right: 0
@@ -733,7 +733,7 @@ content_blocks:
     image:
     color: "#fde25e"
     attached_blog: posts/the-changing-landscape-of-america-retail.md
-    align_y:
+    align_y: 0
     margin_left: 0
     margin_right: 0
     text_size:

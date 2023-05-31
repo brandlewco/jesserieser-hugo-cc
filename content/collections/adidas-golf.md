@@ -9,7 +9,7 @@ collection_blocks:
     color: "#D4D4D4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-1.jpg
     margin_left: 30
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
@@ -18,7 +18,7 @@ collection_blocks:
     color: "#EDEDED"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-3.jpg
     margin_left: 10
-    margin_right:
+    margin_right: 0
     margin_y: 300
     width: 33
   - _bookshop_name: collections/media-element
@@ -42,7 +42,7 @@ collection_blocks:
     color: "#D7D7D7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-5.jpg
     margin_left:
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
@@ -57,7 +57,7 @@ collection_blocks:
     color: "#EFEFEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-7.jpg
     margin_left: 40
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-row
@@ -66,7 +66,7 @@ collection_blocks:
     color: "#B5B5B5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-8.jpg
     margin_left: 5
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
@@ -98,7 +98,7 @@ collection_blocks:
     color: "#282828"
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
     margin_left:
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 60
   - _bookshop_name: collections/media-row
@@ -107,7 +107,7 @@ collection_blocks:
     color: "#565656"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-13.jpg
     margin_left: 10
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-row
@@ -124,7 +124,7 @@ collection_blocks:
     color: "#B2B2B2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-15.jpg
     margin_left: 5
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-element
@@ -138,7 +138,7 @@ collection_blocks:
     color: "#C2C2C2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-17.jpg
     margin_left: 20
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
@@ -147,7 +147,7 @@ collection_blocks:
     color: "#efefeF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-19.jpg
     margin_left: 5
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
@@ -163,7 +163,7 @@ collection_blocks:
     color: "#818181"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-20.jpg
     margin_left: 15
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
@@ -195,7 +195,7 @@ collection_blocks:
     color: "#B2B2B2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-24.jpg
     margin_left: 10
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
@@ -212,7 +212,7 @@ collection_blocks:
     color: "#A8A8A8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-26.jpg
     margin_left: 20
-    margin_right:
+    margin_right: 0
     margin_y: 100
     width: 50
   - _bookshop_name: collections/media-row
@@ -221,7 +221,7 @@ collection_blocks:
     color: "#D0D0D0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/adicross-28.jpg
     margin_left: 5
-    margin_right:
+    margin_right: 0
     margin_y: 300
     width: 20
   - _bookshop_name: collections/media-element

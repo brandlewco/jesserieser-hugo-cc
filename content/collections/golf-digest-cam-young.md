@@ -6,7 +6,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: "#e1f3dD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
@@ -15,7 +15,7 @@ collection_blocks:
     margin_y: 100
     width: 40
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
@@ -26,7 +26,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: "#fbebd6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
@@ -48,7 +48,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: "#ffd9cF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
@@ -57,7 +57,7 @@ collection_blocks:
     margin_y: 100
     width: 30
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
@@ -68,7 +68,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
@@ -77,7 +77,7 @@ collection_blocks:
     margin_y: 100
     width: 25
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-8.jpg
@@ -88,7 +88,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-9.jpg
@@ -99,7 +99,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
+    align_y: 0
     caption:
     color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-10.jpg
