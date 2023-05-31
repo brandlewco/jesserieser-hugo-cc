@@ -101,20 +101,20 @@ _inputs:
   width:
     type: range
     options:
-      step: 10
+      step: 1
       max: 100
       min: 0
   margin_left:
     type: range
     options:
-      step: 5
+      step: 1
       max: 100
       min: 0
   margin_y:
     label: Margin Top
     type: range
     options:
-      step: 50
+      step: 1
       max: 1000
       min: -50
   caption:
@@ -136,6 +136,10 @@ _inputs:
         - end
         - between
         - around
+  collection_meta:
+    type: text
+  collection_meta_2:
+    type: text
   collection_description_alignment:
     type: select
     options:

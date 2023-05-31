@@ -1,5 +1,12 @@
 ---
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: Adidas Basketball
+collection_meta: Crazy Explosive Primeknit
+collection_meta_2: 2023
+collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
+collection_description_alignment: center
 slug: collections/adidas-basketball
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -16,15 +23,11 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-horizontal-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-vertical-1.jpg
-collection_meta: Crazy Explosive Primeknit
-collection_meta_2: 2023
-collection_description_alignment: center
-collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
 collection_filter: Commissioned + Stock
 collection_category: [Award Winning, Stock, Black and White, Sports + Athletes, Black and White]
 date: 2019-05-01T07:00:00Z
-theme_color: #F4E9A8
-theme_color_all_works: #FFE05A
+theme_color: "#F4E9A8"
+theme_color_all_works: "#FFE05A"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview: [https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-1.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-2.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-3.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-4.jpg]
@@ -35,5 +38,6 @@ collection_hidden: false
 hide_footer: true 
 navigation_theme: white
 px_extra: true
-row_alignment: 
+row_alignment:
+
 ---
