@@ -174,7 +174,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-vert-1.jpg
 collection_meta: The Evolution of Marcus Stroman
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: left
 collection_description: >-
   _The Rise of Devin Booker: Kobe mentored him. Chris Paul challenged him. Now

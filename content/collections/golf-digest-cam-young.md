@@ -111,7 +111,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-vert-1.jpg
 collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack

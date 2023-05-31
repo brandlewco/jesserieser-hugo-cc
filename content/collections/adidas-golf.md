@@ -258,7 +258,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-8.jpg
 collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   Adicross is a marriage of Adidas street wear and golf attire and in their

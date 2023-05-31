@@ -53,7 +53,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-29.jpg
 collection_meta: Fred Kerley
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   As a new face of Nike Running, Kerley is ranked #1 in the world in the 400.

@@ -111,7 +111,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-53.jpg
 collection_meta: Can Science Cure Death? It Sure Looks Like It.
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   Pictured is 72 year old James Strohle. Strohle is cofounder of People

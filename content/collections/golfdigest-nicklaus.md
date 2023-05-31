@@ -80,7 +80,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
 collection_meta: Jack Vs. Nicklaus
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: left
 collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
 collection_filter: Commissioned + Stock

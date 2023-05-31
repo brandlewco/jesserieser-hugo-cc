@@ -101,7 +101,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-33.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-23.jpg
 collection_meta: Republican Women Helped Elect Joe Biden
-collection_meta_2: '2023'
+collection_meta_2: 
 collection_description_alignment: center
 collection_description: >-
   Republican women in America’s suburbs helped make Joe Biden president, Elaine
