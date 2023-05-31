@@ -102,73 +102,73 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-1.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-1.jpg
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-18.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-18.jpg
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-12.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-12.jpg
     width: 25
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-13.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-13.jpg
     width: 25
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-15.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-15.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-22.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-22.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-3.jpg-static
-    width: 33
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-23.jpg-static
-    width: 33
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-8.jpg-static
-    width: 33
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-9.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-3.jpg
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-5.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-23.jpg
+    width: 33
+  - _bookshop_name: posts/media-element-static
+    caption: 
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-8.jpg
+    width: 33
+  - _bookshop_name: posts/media-element-static
+    caption: 
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-9.jpg
+    width: 33
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption: 
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-5.jpg
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-19.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-19.jpg
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-17.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-17.jpg
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-16.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-16.jpg
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
     width: 100
 blog_slider:
   - _bookshop_name: posts/media-motion-id

@@ -36,43 +36,43 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-25.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-25.jpg
     width: 66
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-26.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-26.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-27.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-27.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-28.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-28.jpg
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-6.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-6.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-7.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-7.jpg
     width: 66
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-8.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-8.jpg
     width: 100
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-9.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-9.jpg
     width: 100
 blog_slider:
   - _bookshop_name: posts/media-element-url

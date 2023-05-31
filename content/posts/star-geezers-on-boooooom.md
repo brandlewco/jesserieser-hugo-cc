@@ -45,51 +45,51 @@ seo:
 post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-3.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-3.jpg
     width: 50
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg
     width: 50
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-5.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-5.jpg
     width: 100
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-6.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-6.jpg
     width: 40
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-7.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-7.jpg
     width: 20
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-8.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-8.jpg
     width: 40
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-10.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-10.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-9.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-9.jpg
     width: 66
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-11.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-11.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-12.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-12.jpg
     width: 33
   - _bookshop_name: posts/media-element-static
     caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-14.jpg-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-14.jpg
     width: 33
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static

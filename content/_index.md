@@ -5,6 +5,29 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
+    width: 45
+    align_y: start
+    margin_y: 50
+    margin_left: 40
+    margin_right: 0
+    title_margin_y: 15
+    title_margin_left: -25
+    title_margin_right: 0
+    text_size: 7xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
+    color: "#D6BFE9"
+    title: 'BLOOMBERG'
+    meta: America's New Climate Nomads Embrace Van Life to Save Energy
+    attached_collection: collections/bloomberg-nomads.md
+    text_color: "#F5A8A8"
+    font_weight: semibold
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     width: 33
     align_y: start
     margin_y: 100
@@ -263,7 +286,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: 50
     align_x: start
-    margin_y: 400"
+    margin_y: 400
     image:  https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
@@ -370,7 +393,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: 45
     align_x: end
-    margin_y: 300"
+    margin_y: 300
     image:  https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
     attached_collection: collections/star-geezers.md
     title: The Star Geezers
@@ -497,7 +520,7 @@ content_blocks:
     title: BOOOOOOOM Feature
     color: "#FFCFCF"
     block_aspect_ratio: 1x1
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
     caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: "#BEE8F6"
   - _bookshop_name: home/media-row

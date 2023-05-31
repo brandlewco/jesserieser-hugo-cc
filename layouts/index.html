@@ -8,9 +8,8 @@
       {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
     </div>
 </section>
-<div>
-  {{ partial "feature_footer" .}}
-</div>
+{{ partial "feature_footer" .}}
+
 {{- end -}}
 {{- define "attached" -}}
 <script>

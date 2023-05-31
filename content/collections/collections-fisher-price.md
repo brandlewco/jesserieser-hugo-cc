@@ -1,5 +1,5 @@
 ---
-collection_archive: false
+collection_archive: true
 collection_category:
   - Studio
   - Kids
