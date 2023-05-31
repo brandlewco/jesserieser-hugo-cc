@@ -25,7 +25,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Cover: After Death, The Big Chill'
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/alcor_4x3-4.jpg

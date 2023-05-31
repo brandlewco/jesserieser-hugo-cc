@@ -25,7 +25,7 @@ collection_description_alignment: center
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Auctioning Off A Dead Mall
-collection_meta_2: 
+collection_meta_2: ""
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/metro_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-29.jpg

@@ -52,7 +52,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DCE3F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-1.jpg'
@@ -65,7 +64,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F0F3D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-13.jpg'
@@ -78,7 +76,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EFCAB3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-3.jpg'
@@ -91,7 +88,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F8EBCC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-4.jpg'
@@ -104,7 +100,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DCEDF8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg'
@@ -117,7 +112,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F4DFE7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-7.jpg'
@@ -128,7 +122,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F3E1D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-6.jpg'
@@ -141,7 +134,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D5F4F6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-8.jpg'
@@ -152,7 +144,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F9D1BC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-9.jpg'
@@ -165,7 +156,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#CCE3FA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-10.jpg'
@@ -176,7 +166,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDF1D0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-11.jpg'
@@ -189,7 +178,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F1E3CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-12.jpg'
@@ -202,7 +190,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EADEF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-14.jpg'
@@ -215,7 +202,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EFE5DD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-15.jpg'
@@ -226,7 +212,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#C6E2D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-16.jpg'
@@ -239,7 +224,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8D7E3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-17.jpg'
@@ -250,7 +234,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#CCE1F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-1.jpg'
@@ -263,7 +246,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDE5DE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-18.jpg'
@@ -276,7 +258,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DAF0D5'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-19.jpg'
@@ -289,7 +270,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8F3F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-21.jpg'
@@ -302,7 +282,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FBC1A2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-22.jpg'
@@ -315,7 +294,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDDAF0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-23.jpg'
@@ -328,7 +306,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F6F1D0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-24.jpg'
@@ -339,7 +316,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8E9BA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-25.jpg'
@@ -352,7 +328,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DDEDF6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-26.jpg'
@@ -363,7 +338,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FFEBDA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-27.jpg'
@@ -376,7 +350,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDE5DE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-28.jpg'
@@ -389,7 +362,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#CCE1F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-2.jpg'
@@ -402,7 +374,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8F3D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-31.jpg'
@@ -413,7 +384,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F0D5E7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-29.jpg'
@@ -426,7 +396,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FBC1A2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-32.jpg'
@@ -439,7 +408,6 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDDAF0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-33.jpg'

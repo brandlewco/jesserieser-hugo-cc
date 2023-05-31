@@ -60,7 +60,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Dominayton: Why Deandre Ayton Cant Live Without Video Games'
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-ayton-3.jpg

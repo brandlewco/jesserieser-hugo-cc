@@ -49,7 +49,7 @@ collection_exhibition: []
 collection_filter: Personal
 collection_hidden: false
 collection_meta: The Drought Along the Arkansas River Basin
-collection_meta_2: 2014
+collection_meta_2: "2014"
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-2.jpg

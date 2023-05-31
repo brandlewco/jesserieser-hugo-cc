@@ -22,7 +22,7 @@ collection_description_alignment: center
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Make it pop. Make it louder. Amplify the mood. For Torpedo London
-collection_meta_2: 
+collection_meta_2: ""
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-3x4-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-3x4-1.jpg

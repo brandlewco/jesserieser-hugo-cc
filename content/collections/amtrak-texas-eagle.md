@@ -61,7 +61,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DCE3F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-1.jpg'
@@ -71,7 +70,6 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EFE5DD'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-2.jpg'
@@ -83,7 +81,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#C6E2D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-3.jpg'
@@ -95,7 +92,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8D7E3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-4.jpg'
@@ -105,7 +101,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EDE5DE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-5.jpg'
@@ -117,7 +112,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#EFCAB3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-6.jpg'
@@ -127,7 +121,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F8EBCC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-7.jpg'
@@ -139,7 +132,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DCEDF8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-8.jpg'
@@ -151,7 +143,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F3E1D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-9.jpg'
@@ -161,7 +152,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F4DFE7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-10.jpg'
@@ -173,7 +163,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D5F4F6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-11.jpg'
@@ -183,7 +172,6 @@ collection_blocks:
     width: '25'
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F9D1BC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-12.jpg'
@@ -195,7 +183,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#CCE3FA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-13.jpg'
@@ -205,7 +192,6 @@ collection_blocks:
     width: 60
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F0F3D4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-14.jpg'
@@ -217,7 +203,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F1E3CF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-17.jpg'
@@ -227,7 +212,6 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F9DECE'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-18.jpg'
@@ -239,7 +223,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#CCE1F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-20.jpg'
@@ -251,7 +234,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D8F3D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-21.jpg'
@@ -261,7 +243,6 @@ collection_blocks:
     width: 50
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FBC1A2'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-22.jpg'
@@ -273,7 +254,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#D5D9F0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-19.jpg'
@@ -285,7 +265,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DDEDF6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-26.jpg'
@@ -295,7 +274,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#F6F1D0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-24.jpg'
@@ -307,7 +285,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FBFAC0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-28.jpg'
@@ -317,7 +294,6 @@ collection_blocks:
     width: 20
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#FFEBDA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-27.jpg'
@@ -329,7 +305,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: ''
-    block: media-element
     caption: ''
     color: '#DDFFE6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-29.jpg'

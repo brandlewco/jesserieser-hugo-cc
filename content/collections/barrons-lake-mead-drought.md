@@ -290,7 +290,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertical-covers-58.jpg
 collection_meta: Beyond the Drought Cover Story
-collection_meta_2: 2023
+collection_meta_2: "2023"
 collection_description_alignment: center
 collection_description: >-
   The scarcity of fresh water is rapidly emerging as a global economic threat

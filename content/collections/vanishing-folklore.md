@@ -44,7 +44,7 @@ collection_exhibition: []
 collection_filter: Personal
 collection_hidden: false
 collection_meta: 2012 - 2022
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-5.jpg

@@ -20,7 +20,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Take Your Game to the Next Level Cover Story
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover_4x3-1.jpg

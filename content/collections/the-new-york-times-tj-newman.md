@@ -57,7 +57,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Best Selling Author T.J. Newman 
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-newman-1.jpg

@@ -20,7 +20,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Reinvention of Ryan and Sara Hall
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/runners-thumb-cover-2.jpg

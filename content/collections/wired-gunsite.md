@@ -24,7 +24,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: I Am Not a Soldier, but I Have Been Trained to Kill
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-1.jpg

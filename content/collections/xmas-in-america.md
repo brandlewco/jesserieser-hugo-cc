@@ -63,7 +63,7 @@ collection_description_alignment:
 collection_filter: Personal
 collection_hidden: false
 collection_meta: "2010 - \_2020"
-collection_meta_2: 
+collection_meta_2: ""
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-3.jpg

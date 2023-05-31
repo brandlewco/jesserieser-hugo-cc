@@ -42,7 +42,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#CBCBCB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-1.jpg'
     margin_left: 15
@@ -53,7 +52,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#E9E9E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-2.jpg'
     margin_left: 5
@@ -62,7 +60,6 @@ collection_blocks:
     width: 40
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#A7A7A7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-3.jpg'
     margin_left: ''
@@ -73,7 +70,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#858585'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-4.jpg'
     margin_left: 20
@@ -83,7 +79,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#FFF6E7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-5.jpg'
     margin_left: 15
@@ -92,7 +87,6 @@ collection_blocks:
     width: '25'
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#D1E2DF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-6.jpg'
     margin_right: 15
@@ -102,7 +96,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#E4E4E4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-5.jpg'
     margin_left: 5
@@ -113,7 +106,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#AAAAAA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-6.jpg'
     margin_left: 35
@@ -124,7 +116,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#F2ECE6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-10.jpg'
     margin_left: 10
@@ -132,7 +123,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#F3F9E9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-9.jpg'
     margin_left: ''
@@ -143,7 +133,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#E4E4E4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-7.jpg'
     margin_left: 35
@@ -153,7 +142,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#FBEDE7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-12.jpg'
     margin_left: 10
@@ -164,7 +152,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#F9F9F3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-13.jpg'
     margin_left: ''
@@ -173,7 +160,6 @@ collection_blocks:
     width: 66
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#C6D5DB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-14.jpg'
     margin_left: ''
@@ -184,7 +170,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#D9D9D9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-8.jpg'
     margin_left: 50
@@ -195,7 +180,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: '#EAFAF9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-17.jpg'
     margin_left: 30

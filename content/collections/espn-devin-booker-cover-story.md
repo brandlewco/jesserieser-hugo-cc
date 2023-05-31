@@ -19,7 +19,7 @@ collection_description_alignment: left
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Devin Booker Cover Story
-collection_meta_2: 
+collection_meta_2: ""
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg

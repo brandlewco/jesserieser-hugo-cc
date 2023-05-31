@@ -73,7 +73,7 @@ collection_exhibition: []
 collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7-2.jpg

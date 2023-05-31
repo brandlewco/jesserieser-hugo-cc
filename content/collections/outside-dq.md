@@ -78,7 +78,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#F6F4EB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-1.jpg
     margin_left: 10
@@ -89,7 +88,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#FDE1DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
     margin_left: 10%
@@ -98,7 +96,6 @@ collection_blocks:
     width: 33
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#E2ECD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
     margin_left: 
@@ -109,7 +106,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#FFE5D1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
     margin_left: 20%
@@ -119,7 +115,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#E7EBC7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-5.jpg
     margin_left: 10
@@ -128,7 +123,6 @@ collection_blocks:
     width: 30
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#E0EAEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
     margin_right: 20
@@ -138,7 +132,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#F1E3E4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-7.jpg
     margin_left: 20
@@ -149,7 +142,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    block: media-element
     color: "#EAE2D6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-8.jpg
     margin_left: 30

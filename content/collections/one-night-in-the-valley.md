@@ -16,7 +16,7 @@ collection_exhibition: []
 collection_filter: Personal
 collection_hidden: false
 collection_meta: 
-collection_meta_2: 
+collection_meta_2: ""
 collection_press: []
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-valley-2.jpg
