@@ -1,6 +1,19 @@
 ---
 title: Jesse Rieser
-date: 2017-11-01T23:00:00Z
+feature_description: >-
+  Here you will find handpicked photographic art works, client commissions, and
+  recent news. For a more expansive experience please head over to all works.
+
+
+  If you are solely interested in the works produced in my personal photographic
+  art practice, please head over to [**_Jesse Rieser
+  Projects_**](https://jesserieserprojects.com/).
+seo:
+  meta_title: Selected Works of Phoenix, Arizona Photographer Jesse Rieser
+  meta_description: >- 
+    Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
+    Director specializing in portraiture, reportage, sport and conceptual
+    photography and video. Located in the West Coast and Southwestern USA. 
 content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
@@ -837,17 +850,6 @@ content_blocks:
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-feature_logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-amtrak-8.png
-feature_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
-feature_description: >-
-  Here you will find handpicked photographic art works, client commissions, and
-  recent news. For a more expansive experience please head over to all works.
-
-
-  If you are solely interested in the works produced in my personal photographic
-  art practice, please head over to [**_Jesse Rieser
-  Projects_**](https://jesserieserprojects.com/).
 navigation_theme: black
 row_alignment: between
 selected_works_theme:
@@ -868,11 +870,5 @@ selected_works_theme:
     theme_color: "#DEDFF7"
     image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-7.jpg
 px_extra: true
-collection_meta: >-
-  Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
-  Director specializing in portraiture, reportage, sport and conceptual
-  photography and video. Located in the West Coast and Southwestern USA. 
-seo:
-  meta_title: Selected Works of Photographer Jesse Rieser
-  meta_description: Handpicked portfolios and news by the artist
+date: 2017-11-01T23:00:00Z
 ---
