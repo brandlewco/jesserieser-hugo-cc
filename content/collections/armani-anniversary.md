@@ -125,7 +125,7 @@ collection_blocks:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-13.jpg
 collection_meta: Featuring Deandre Hopkins 
-collection_meta_2: "2023"
+collection_meta_2: '2023'
 collection_description_alignment: center
 collection_description: >-
   Part of a 12 subject calendar produced by V and V Man celebrating 50 years of

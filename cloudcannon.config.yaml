@@ -173,10 +173,10 @@ _inputs:
         - Advertising
         - Stock
         - Studio
-        - Exhibited Works
+        - Exhibited Workså
         - Award Winning
         - Kids
-  ccollection_filter:
+  collection_filter:
     type: multiselect
     options:
       values:
