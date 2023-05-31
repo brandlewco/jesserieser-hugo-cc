@@ -1,6 +1,20 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: Smithsonian
+collection_meta: Kitt Peak
+collection_meta_2: 'test '
+collection_description: >-
+  Meet the Americans who live in their vans, buses and cars in pursuit of a
+  simpler life using less energy.
+
+
+  Seen here is Bob Wells, a central figure in the 2020 Best Picture “Nomadland”
+  and Ma Terry Storzieri, a character study for Frances McDormand’s role as
+  “Fern."
+collection_description_alignment: center
 slug: smithsonian-kittpeak
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -9,9 +23,9 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#dce3f3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-1.jpg
-    margin_left: 20
+    color: '#dce3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-1.jpg
+    margin_left: 10
     margin_right: ''
     margin_y: 100
     width: 66
@@ -33,8 +47,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#efcab3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
+    color: '#efcab3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
     margin_left: 45
     margin_right: 0
     margin_y: 100
@@ -45,8 +59,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f8ebcC"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-4.jpg
+    color: '#f8ebcc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-4.jpg
     margin_left: 30
     margin_right: 0
     margin_y: 100
@@ -57,7 +71,7 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#dcedf8"
+    color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-5.jpg
     margin_left: 15
     margin_right: 0
@@ -69,8 +83,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f4dfe7"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-6.jpg
+    color: '#f4dfe7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-6.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '200'
@@ -79,8 +93,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f3e1d4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-7.jpg
+    color: '#f3e1d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-7.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '800'
@@ -91,8 +105,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#d5f4f6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-8.jpg
+    color: '#d5f4f6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-8.jpg
     margin_left: 25
     margin_right: 0
     margin_y: '400'
@@ -101,8 +115,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f9d1bC"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-9.jpg
+    color: '#f9d1bC'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-9.jpg
     margin_left: 0
     margin_right: 5
     margin_y: 100
@@ -113,8 +127,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#cce3fA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-10.jpg
+    color: '#cce3fA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-10.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'
@@ -123,8 +137,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#edf1d0"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-11.jpg
+    color: '#edf1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-11.jpg
     margin_left: 0
     margin_right: 10
     margin_y: 100
@@ -135,8 +149,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f1e3cF"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-12.jpg
+    color: '#f1e3cF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-12.jpg
     margin_left: 25
     margin_right: ''
     margin_y: '200'
@@ -147,8 +161,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#eadef4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-13.jpg
+    color: '#eadef4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-13.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -159,8 +173,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#efe5dD"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
+    color: '#efe5dd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
     margin_left: 10
     margin_right: ''
     margin_y: 100
@@ -169,8 +183,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#c6e2d4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
+    color: '#c6e2d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
     margin_left: 0
     margin_right: 5
     margin_y: '400'
@@ -181,8 +195,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#d8d7e3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
+    color: '#d8d7e3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
     margin_left: 30
     margin_right: ''
     margin_y: 100
@@ -191,8 +205,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#cce1f3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
+    color: '#cce1f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
     margin_left: 0
     margin_right: ''
     margin_y: '300'
@@ -203,8 +217,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#ede5dE"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
+    color: '#ede5dE'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
     margin_left: 40
     margin_right: 0
     margin_y: 100
@@ -215,8 +229,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#daf0d5"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
+    color: '#daf0d5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
     margin_left: 10
     margin_right: 0
     margin_y: 100
@@ -227,8 +241,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#d8f3f3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
+    color: '#d8f3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
     margin_left: 30
     margin_right: ''
     margin_y: 100
@@ -239,8 +253,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#fbc1a2"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
+    color: '#fbc1a2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
     margin_left: 50
     margin_right: 0
     margin_y: 100
@@ -251,8 +265,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#eddaf0"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
+    color: '#eddaf0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
     margin_left: 35
     margin_right: 10
     margin_y: 100
@@ -263,8 +277,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#f6f1d0"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
+    color: '#f6f1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
     margin_left: 5
     margin_right: 0
     margin_y: 100
@@ -273,8 +287,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#d8e9bA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
+    color: '#d8e9bA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
     margin_left: 0
     margin_right: 15
     margin_y: '400'
@@ -285,8 +299,8 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: "#ffebdA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
+    color: '#ffebdA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
     margin_left: 0
     margin_right: 0
     margin_y: '400'
@@ -296,17 +310,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_header-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt_vertical-header-2.jpg
-collection_meta: 'Kitt Peak'
-collection_meta_2: ''
-collection_description_alignment: center
-collection_description: >-
-  Meet the Americans who live in their vans, buses and cars in pursuit of a
-  simpler life using less energy. 
-
-
-  Seen here is Bob Wells, a central figure in the 2020 Best Picture “Nomadland”
-  and Ma Terry Storzieri, a character study for Frances McDormand’s role as
-  “Fern."
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
@@ -318,7 +321,7 @@ collection_category:
   - Environments
 date: 2019-05-01T07:00:00Z
 theme_color: '#f4e399'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
