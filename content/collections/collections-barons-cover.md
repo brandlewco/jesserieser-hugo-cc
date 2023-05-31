@@ -5,10 +5,10 @@ seo:
   meta_title: The Truck of the Future
 title: Barron's
 collection_meta: The Truck of the Future Cover Story
-collection_meta_2: 
+collection_meta_2: '2023'
 collection_description: >-
-  This recent cover for Barron’s I had [**_Shane
-  Griffin_**](http://www.shanegriffin.nyc) lend a chromatic helping-hand to
+  This recent cover for Barron’s I had [***Shane
+  Griffin***](http://www.shanegriffin.nyc) lend a chromatic helping-hand to
   better illustrate “the truck of future.” Featured is the the Nikola Two, a
   class 8 hydrogen-electric truck with more than 1,000 horsepower and 2,000 ft.
   lbs. of torque – nearly double the horsepower of any semi-truck on the road.
@@ -110,11 +110,9 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-nikola_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-2.jpg
 collection_awards:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
-      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+  - content: >-
+      **2019**<br> AP 35: American Photography Annual 35<br> Best Personal Work
+      Series:<br> "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     template: popup-text-element
 collection_press:
   - content: |-
