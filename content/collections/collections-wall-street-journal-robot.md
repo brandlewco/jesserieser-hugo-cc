@@ -52,8 +52,7 @@ collection_description: >-
   crops including sorghum, lettuce and wheat, its cluster of electronic eyes
   assessing their temperature, shape and hue, the angle of each leaf.⁠
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Field Scanalyzer
 collection_press: []

@@ -18,8 +18,7 @@ collection_description: >-
   confronting his greatest fear (heights) by way of a hot air balloon.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Sedona 
 collection_press: []

@@ -17,8 +17,7 @@ collection_description: >-
   while raising four kids.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Reinvention of Ryan and Sara Hall
 collection_meta_2: ""

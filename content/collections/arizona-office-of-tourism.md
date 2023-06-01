@@ -263,8 +263,7 @@ collection_meta: Visit A New State of Mind
 collection_meta_2: 
 collection_description_alignment: center
 collection_description: 
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Kids
   - Advertising

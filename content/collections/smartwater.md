@@ -26,8 +26,7 @@ collection_description: >-
   all NBA Defensive player Ben Simmons.
 collection_description_alignment: left
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Featuring Ben Simmons For Anomaly NY
 collection_meta_2: ""

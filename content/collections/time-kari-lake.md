@@ -12,8 +12,7 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_cover
 collection_description: 
 collection_description_alignment: left
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: How Kari Lake Went From Local Anchor
 collection_meta_2: to New Face of the Maga Right 

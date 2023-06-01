@@ -48,8 +48,7 @@ collection_description: >-
   in the landscape, and the lengths that contemporary courses are taking to be
   environmentally mindful.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Golf At Last An Apologia by David Quammen
 collection_press: []

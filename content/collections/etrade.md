@@ -16,8 +16,7 @@ collection_description: >-
   Image library showcasing E*Trade’s mobile and desktop app for investing on the
   go, at home, and in the office.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Mullen Lowe Agency
 collection_press: []

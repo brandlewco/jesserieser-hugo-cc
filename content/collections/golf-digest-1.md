@@ -17,8 +17,7 @@ collection_description: >-
   the latest cover of Golf Digest
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Take Your Game to the Next Level Cover Story
 collection_meta_2: ""

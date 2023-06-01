@@ -83,8 +83,7 @@ collection_meta: Jack Vs. Nicklaus
 collection_meta_2: 
 collection_description_alignment: left
 collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Studio
   - Editorial

@@ -130,8 +130,7 @@ collection_description_alignment: center
 collection_description: >-
   Part of a 12 subject calendar produced by V and V Man celebrating 50 years of
   Emporio Armani.
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
   - Motion

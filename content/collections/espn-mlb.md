@@ -16,8 +16,7 @@ collection_description: >-
   League Baseball.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: MLB Preview
 collection_press: []

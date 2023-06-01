@@ -18,8 +18,7 @@ collection_description: >-
   Mullen Lowe NY & Boston.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Mullen Lowe Agency NY & Boston
 collection_press: []

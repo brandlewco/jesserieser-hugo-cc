@@ -41,8 +41,7 @@ collection_description: >-
 
   Featured on _Vice_, _Fish_ _Eye Magazine_ and _Booooooom._
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Star Geezers
 collection_preview:

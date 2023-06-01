@@ -24,8 +24,7 @@ collection_description: >-
   also find the additional component of the commission where I capture classic
   fisher price toys juxtaposed around set and the Universal Studio Lot. 
 collection_description_alignment: center
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Featuring John Goodman for Wieden Kennedy
 collection_preview:

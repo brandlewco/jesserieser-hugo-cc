@@ -20,8 +20,7 @@ collection_description: >-
   “Hangtime: Partying With Puig.”
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Partying With Puig
 collection_press: []

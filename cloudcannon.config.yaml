@@ -177,7 +177,7 @@ _inputs:
         - Award Winning
         - Kids
   collection_filter:
-    type: multiselect
+    type: select
     options:
       values:
         - Commissioned + Stock

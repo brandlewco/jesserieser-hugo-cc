@@ -269,8 +269,7 @@ collection_description: >-
   Dustin Johnson, rising star Xander Schauffele (he became the first ever rookie
   to win the tour championship in 2017) and long time tour favorite and 2017
   Masters Champion, Sergio Garcia.
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Still Life + Details
   - Advertising

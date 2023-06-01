@@ -106,8 +106,7 @@ collection_description_alignment: center
 collection_description: >-
   Republican women in America’s suburbs helped make Joe Biden president, Elaine
   Godfrey reports. Are they Democrats now?⁠
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
   - Editorial

@@ -22,8 +22,7 @@ collection_description: >-
   best.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 2022 Communication Arts Photo Annual
 collection_meta_2: ""

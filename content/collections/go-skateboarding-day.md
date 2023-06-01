@@ -17,8 +17,7 @@ collection_description: >-
   Nike SB and Arizona Iced Tea.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'GoSkateBoardingDay'
 collection_press: []

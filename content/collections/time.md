@@ -38,8 +38,7 @@ collection_description: >-
   Showcased at the _Grand Canyon National Park 100_ exhibition at Etherton
   Gallery, this work served as a contemporary counterpoint to the historical
   works of Ansel Adams, Lee Friedlander, William Bell, and Barry Goldwater. 
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: "Grand Canyon 100th Anniversary\_"
 collection_press: []

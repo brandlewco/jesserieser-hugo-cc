@@ -46,8 +46,7 @@ collection_description: >-
   atypical.⁠
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The WM Phoenix Open
 collection_meta_2: A Wild Weeknd At the Most Outrageous Hole in Golf

@@ -117,8 +117,7 @@ collection_description: >-
   Pictured is 72 year old James Strohle. Strohle is cofounder of People
   Unlimited, a community to inspire people to live infinite lifespans and to
   introduce anti-aging developments to the public.
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Award Winning
   - Studio

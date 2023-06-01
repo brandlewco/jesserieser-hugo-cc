@@ -62,8 +62,7 @@ collection_description: >-
   _Photolucida’s Critical Mass._ Exhibited at Corden Potts Gallery San
   Francisco, Houston Center for Photography, and The Forty Eighth: Contemporary
   Photography at Arizona’s Centennial.
-collection_filter:
-  - Personal
+collection_filter: Personal
 collection_hidden: false
 collection_meta: 2012
 collection_preview:

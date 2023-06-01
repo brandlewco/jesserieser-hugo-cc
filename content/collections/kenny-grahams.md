@@ -20,8 +20,7 @@ collection_description: >-
   annual “Kenny Graham’s 4th Street” basketball tournament.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Cage
 collection_press: []

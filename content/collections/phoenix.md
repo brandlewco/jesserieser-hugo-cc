@@ -19,8 +19,7 @@ collection_description: >-
   the **_AP 35: American Photography Annual 2019_** and featured in _LoDown
   Magazine_ (Germany).
 collection_description_alignment: center
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Make it pop. Make it louder. Amplify the mood. For Torpedo London
 collection_meta_2: ""

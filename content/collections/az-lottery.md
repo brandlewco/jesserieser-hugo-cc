@@ -25,8 +25,7 @@ collection_description: >-
   human form as a wise and comedic character played by “Mr. Show’s” writer and
   actor, John Ennis.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: OH Partners
 collection_press: []

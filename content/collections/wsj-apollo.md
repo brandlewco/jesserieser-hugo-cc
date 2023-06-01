@@ -38,8 +38,7 @@ collection_description: >-
   began a two week at-home refurbishing project to get Loocke’s Apollo Guidance
   Computer (ACG) up and running.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Apollo 11 50th Anniversary: Guidance Computer Rebuild'
 collection_press: []

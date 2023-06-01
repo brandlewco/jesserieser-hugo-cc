@@ -29,8 +29,7 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertical_covers-4
 collection_description: 
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: A Portfolio of Work Made with Skeleton Crews
 collection_meta_2: See Image Captions For Crew Size

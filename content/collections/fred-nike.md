@@ -60,8 +60,7 @@ collection_description: >-
   With a personal best of 43.70, he is inching closer to being the first ever to
   break the 43 second mark. Watch for him to take the gold in this year’s Tokyo
   Olympic Games.
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
   - Stock

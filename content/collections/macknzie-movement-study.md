@@ -12,8 +12,7 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-19.jpg
 collection_description: 
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 
 collection_press: []

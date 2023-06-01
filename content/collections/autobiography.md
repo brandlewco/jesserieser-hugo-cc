@@ -86,8 +86,7 @@ collection_description: >-
   Winner of the _American Photography Annual 34_ and featured by _Buzzfeed_ and
   _The Guardian._
 collection_exhibition: []
-collection_filter:
-  - Personal
+collection_filter: Personal
 collection_hidden: false
 collection_meta: 2016
 collection_preview:

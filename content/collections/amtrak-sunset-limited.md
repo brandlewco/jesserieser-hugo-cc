@@ -33,8 +33,7 @@ collection_description: >-
   The Salton Sea, Salvation Mountain, East Jesus, and the Imperial Sand Dunes.
 collection_description_alignment: left
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Palm Springs to Yuma On The Sunset Limited
 collection_press: []

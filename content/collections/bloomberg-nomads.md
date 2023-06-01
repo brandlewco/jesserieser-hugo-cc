@@ -22,8 +22,7 @@ collection_description: >-
   “Fern."
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Home Sweet Home:'
 collection_meta_2: America's New Climate Nomads Embrace Van Life to Save Energy

@@ -60,8 +60,7 @@ collection_description: >-
   Times, Time Magazine, Wired, NPR, Buzzfeed, Fast Company, Esquire, The
   Guardian, Artsy,_ and _Refinery 29._
 collection_description_alignment: 
-collection_filter:
-  - Personal
+collection_filter: Personal
 collection_hidden: false
 collection_meta: "2010 - \_2020"
 collection_meta_2: ""

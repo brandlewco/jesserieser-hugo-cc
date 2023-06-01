@@ -31,8 +31,7 @@ collection_description: >-
   state and federal lawmakers moving to make immunization mandatory by law in
   the wake of the recent measles outbreak.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: The Vaccine Battlegrounds
 collection_press: []

@@ -13,8 +13,7 @@ collection_description: >-
   with Shane Griffin.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Personal
+collection_filter: Personal
 collection_hidden: false
 collection_meta: 
 collection_meta_2: ""

@@ -45,8 +45,7 @@ collection_description: >-
   gap between the landscape-like injuries and portraits, leaving the viewer with
   a sense of intimate masculinity.
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
 collection_press: []

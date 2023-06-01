@@ -25,8 +25,7 @@ collection_description: >-
   pandemic’s grip and staging a comeback.⁠⁠
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Las Vegas Presses Its Luck in the 
 collection_meta_2: Postpandemic Era Cover Story

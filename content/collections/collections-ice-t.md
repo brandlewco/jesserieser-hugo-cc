@@ -14,8 +14,7 @@ collection_description: >-
   where the subject shares their dreams, hopes, visions, and nightmares.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Commissioned + Stock
+collection_filter: Commissioned + Stock
 collection_hidden: false
 collection_meta: Ice T Ich Habe Einen Traum
 collection_press: []

@@ -38,8 +38,7 @@ collection_description: >-
   Featured on Buzzfeed News. 
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter:
-  - Personal
+collection_filter: Personal
 collection_hidden: false
 collection_meta: 2021 - 2022
 collection_meta_2: ""
