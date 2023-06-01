@@ -87,7 +87,8 @@ collection_description: >-
   _Photolucida_ _Critical Mass_ top 50 international fine art photographic
   project. Featured on _NPR, The Washington Post, Architectural Digest, Wired,
   Fast Company,_ and _Business Insider._
-collection_filter: Personal
+collection_filter:
+  - Personal
 collection_hidden: false
 collection_meta: 2015 - 2022
 collection_preview:

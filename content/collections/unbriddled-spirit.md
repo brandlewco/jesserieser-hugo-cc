@@ -17,7 +17,8 @@ collection_description: >-
   Photography Annual_ 2016 in editorial photography.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Curt Mattson Unbridled Spirit
 collection_press: []

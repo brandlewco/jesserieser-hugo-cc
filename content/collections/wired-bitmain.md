@@ -60,7 +60,8 @@ collection_description: >-
   communities have learned a real-life lesson about the elusive promise of
   virtual currency with only 20-30 new jobs created.
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: The Hard-Luck Texas Town That Bet on Bitcoin and Lost
 collection_press: []

@@ -52,7 +52,8 @@ collection_description: >-
 
 
   Winner of the _American Photography Annual: AP 26._
-collection_filter: Personal
+collection_filter:
+  - Personal
 collection_hidden: false
 collection_meta: 2009 - 2010
 collection_preview:

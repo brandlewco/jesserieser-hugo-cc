@@ -37,7 +37,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-3.jpg
     margin_left: ''
     margin_right: 10
-    margin_y: '500'
+    margin_y: 500
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -53,7 +53,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#C6D6E0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-5.jpg
-    margin_left: '25'
+    margin_left: 25
     margin_right: ''
     margin_y: 100
     width: 20
@@ -82,7 +82,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-7.jpg
     margin_left: 15
     margin_right: ''
-    margin_y: '400'
+    margin_y: 400
     width: 33
   - _bookshop_name: collections/media-element
     color: '#EE2A2A'
@@ -103,7 +103,7 @@ collection_blocks:
     color: '#F2E2CD'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-10.jpg
     margin_right: 10
-    margin_y: '400'
+    margin_y: 400
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -127,7 +127,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#C9E7F8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-13.jpg
-    margin_left: '25'
+    margin_left: 25
     margin_right: ''
     margin_y: 100
     width: 40
@@ -145,7 +145,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-15.jpg
     margin_left: ''
     margin_right: 10
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -169,7 +169,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-18.jpg
     margin_left: ''
     margin_right: 5
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -192,7 +192,7 @@ collection_blocks:
     color: '#A2C6CB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-21.jpg
     margin_right: 5
-    margin_y: '300'
+    margin_y: 300
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -205,7 +205,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/ttx-4.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-17.jpg
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_category:
   - 'Exhibited Works '
   - Editorial

@@ -22,7 +22,8 @@ collection_description: >-
   world has also had an impact on the nonliving.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Cover: After Death, The Big Chill'
 collection_meta_2: ""

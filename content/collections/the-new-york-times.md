@@ -22,7 +22,8 @@ collection_description: >-
   Selected by the 2021 American Photography Annual (AP 37) as one of the year's
   best in editorial photography.
 collection_description_alignment: center
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Auctioning Off A Dead Mall
 collection_meta_2: ""

@@ -46,7 +46,8 @@ collection_description: >-
   atypical.⁠
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: The WM Phoenix Open
 collection_meta_2: A Wild Weeknd At the Most Outrageous Hole in Golf
@@ -99,7 +100,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg'
     margin_left: 10
     margin_right: 0
-    margin_y: '500'
+    margin_y: 500
     width: 40
   - _bookshop_name: collections/media-element
     align_x: start
@@ -121,7 +122,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-4.jpg'
     margin_left: 20
     margin_right: 0
-    margin_y: '200'
+    margin_y: 200
     width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -133,7 +134,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-5.jpg'
     margin_left: 45
     margin_right: 0
-    margin_y: '200'
+    margin_y: 200
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -155,7 +156,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-7.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '300'
+    margin_y: 300
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -168,7 +169,7 @@ collection_blocks:
     margin_left: 40
     margin_right: 0
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -189,7 +190,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-10.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '1000'
+    margin_y: 1000
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -213,7 +214,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-12.jpg'
     margin_left: 20
     margin_right: ''
-    margin_y: '400'
+    margin_y: 400
     width: 33
   - _bookshop_name: collections/media-element
     align_x: start
@@ -259,7 +260,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-17.jpg'
     margin_left: 10
     margin_right: ''
-    margin_y: '400'
+    margin_y: 400
     width: 40
   - _bookshop_name: collections/media-element
     align_x: start
@@ -291,7 +292,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-19.jpg'
     margin_left: 0
     margin_right: 10
-    margin_y: '400'
+    margin_y: 400
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -327,7 +328,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-22.jpg'
     margin_left: 20
     margin_right: 0
-    margin_y: '400'
+    margin_y: 400
     width: 20
   - _bookshop_name: collections/media-element
     align_x: start
@@ -361,7 +362,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg'
     margin_left: 10
     margin_right: ''
-    margin_y: '300'
+    margin_y: 300
     width: 33
   - _bookshop_name: collections/media-element
     align_x: start
@@ -407,8 +408,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-29.jpg'
     margin_left: 15
     margin_right: 0
-    margin_y: '700'
-    width: '25'
+    margin_y: 700
+    width: 25
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -442,7 +443,7 @@ collection_blocks:
     margin_left: 30
     margin_right: 0
     margin_y: 100
-    width: '25'
+    width: 25
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -451,7 +452,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-33.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '500'
+    margin_y: 500
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -476,7 +477,7 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -485,8 +486,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-36.jpg'
     margin_left: 0
     margin_right: 10
-    margin_y: '500'
-    width: '25'
+    margin_y: 500
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -528,7 +529,7 @@ collection_blocks:
     margin_left: 55
     margin_right: 0
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

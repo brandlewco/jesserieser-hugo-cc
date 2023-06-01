@@ -59,7 +59,8 @@ collection_description: >-
   documenting the reopening.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: America is Reopening. 
 collection_meta_2: Here is What it Looks like

@@ -63,7 +63,8 @@ collection_description: >-
 
   Selected by the 2020 American Photography Annual (AP 36) as one of the year's
   best in editorial photography. 
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: "Backpage.com\_Cover Story"
 collection_preview:

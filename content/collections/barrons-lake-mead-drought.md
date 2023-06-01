@@ -299,7 +299,8 @@ collection_description: >-
 
   This photographic essay features the receding waters of Lake Mead while
   exploring how companies, regulators, and investors are starting to react.
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_category:
   - Editorial
   - Reportage

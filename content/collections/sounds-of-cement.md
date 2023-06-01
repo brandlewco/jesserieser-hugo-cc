@@ -19,7 +19,8 @@ collection_description: >-
   Selected as one of the year’s best in the 2016 **_PDN Photo Annual_** and
   exhibited at Inert Gallery, New York, NY.
 collection_description_alignment: center
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: 
 collection_press: []

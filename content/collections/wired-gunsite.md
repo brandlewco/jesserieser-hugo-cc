@@ -21,7 +21,8 @@ collection_description: >-
   year's best works.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: I Am Not a Soldier, but I Have Been Trained to Kill
 collection_meta_2: ""

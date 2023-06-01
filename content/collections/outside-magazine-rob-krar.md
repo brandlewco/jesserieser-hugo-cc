@@ -42,7 +42,8 @@ collection_description: >-
   his personal life and life as a professional athlete, what he means to the
   running community, and how his running camp has “saved lives.”
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Rob Krar Running In The Dark
 collection_press: []

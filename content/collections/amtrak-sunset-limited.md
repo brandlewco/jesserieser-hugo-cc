@@ -33,7 +33,8 @@ collection_description: >-
   The Salton Sea, Salvation Mountain, East Jesus, and the Imperial Sand Dunes.
 collection_description_alignment: left
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Palm Springs to Yuma On The Sunset Limited
 collection_press: []
@@ -81,14 +82,14 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-3.jpg'
     margin_left: 5
     margin_right: ''
-    margin_y: '200'
+    margin_y: 200
     width: 20
   - _bookshop_name: collections/media-element
     color: '#FAE0B4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-4.jpg'
     margin_left: ''
     margin_right: 5
-    margin_y: '500'
+    margin_y: 500
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -106,7 +107,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-7.jpg'
     margin_left: 10
     margin_right: ''
-    margin_y: '500'
+    margin_y: 500
     width: 30
   - _bookshop_name: collections/media-element
     color: '#D5EFE4'
@@ -136,7 +137,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-10.jpg'
     margin_left: ''
     margin_right: 5
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -159,7 +160,7 @@ collection_blocks:
     color: '#F4EEE3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-13.jpg'
     margin_right: 15
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -182,7 +183,7 @@ collection_blocks:
     color: '#E4ECF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-16.jpg'
     margin_right: 5
-    margin_y: '400'
+    margin_y: 400
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -216,7 +217,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-18.jpg'
     margin_left: ''
     margin_right: 25
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -231,7 +232,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-22.jpg'
     margin_left: ''
     margin_right: 5
-    margin_y: '400'
+    margin_y: 400
     width: 50
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -254,7 +255,7 @@ collection_blocks:
     color: '#BEB6CC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-25.jpg'
     margin_left: ''
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between

@@ -19,7 +19,8 @@ collection_description: >-
    Winner in the 2016 _American Photography Annual: AP 32_
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Gioa 
 collection_press: []

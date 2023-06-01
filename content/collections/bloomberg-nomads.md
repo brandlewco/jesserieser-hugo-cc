@@ -22,7 +22,8 @@ collection_description: >-
   “Fern."
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: 'Home Sweet Home:'
 collection_meta_2: America's New Climate Nomads Embrace Van Life to Save Energy
@@ -105,7 +106,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg'
     margin_left: 15
     margin_right: 0
-    margin_y: '200'
+    margin_y: 200
     width: 75
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -117,7 +118,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-7.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '200'
+    margin_y: 200
     width: 33
   - _bookshop_name: collections/media-element
     align_x: start
@@ -127,7 +128,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-6.jpg'
     margin_left: 0
     margin_right: ''
-    margin_y: '800'
+    margin_y: 800
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -139,8 +140,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-8.jpg'
     margin_left: 25
     margin_right: 0
-    margin_y: '400'
-    width: '45'
+    margin_y: 400
+    width: 45
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -161,7 +162,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-10.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '400'
+    margin_y: 400
     width: 55
   - _bookshop_name: collections/media-element
     align_x: start
@@ -183,7 +184,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-12.jpg'
     margin_left: 25
     margin_right: ''
-    margin_y: '200'
+    margin_y: 200
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -217,7 +218,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-16.jpg'
     margin_left: 0
     margin_right: 5
-    margin_y: '400'
+    margin_y: 400
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -239,7 +240,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-1.jpg'
     margin_left: 0
     margin_right: ''
-    margin_y: '300'
+    margin_y: 300
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -264,7 +265,7 @@ collection_blocks:
     margin_left: 10
     margin_right: 0
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -321,7 +322,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-25.jpg'
     margin_left: 0
     margin_right: 15
-    margin_y: '400'
+    margin_y: 400
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -343,7 +344,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-27.jpg'
     margin_left: 0
     margin_right: 0
-    margin_y: '400'
+    margin_y: 400
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -379,7 +380,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/nomads-31.jpg'
     margin_left: 0
     margin_right: ''
-    margin_y: '400'
+    margin_y: 400
     width: 55
   - _bookshop_name: collections/media-element
     align_x: start

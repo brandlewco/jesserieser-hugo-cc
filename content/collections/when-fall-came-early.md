@@ -46,7 +46,8 @@ collection_description: >-
   Winner of the 2015 _PDN Photography Annual_ and _AP 30_: _American Photography
   2015._
 collection_exhibition: []
-collection_filter: Personal
+collection_filter:
+  - Personal
 collection_hidden: false
 collection_meta: The Drought Along the Arkansas River Basin
 collection_meta_2: "2014"

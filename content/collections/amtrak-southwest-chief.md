@@ -19,7 +19,8 @@ collection_description: >-
   was special as I took my father on what he called “a trip of a lifetime.”
 collection_description_alignment: left
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: On The Southwest Chief
 collection_press: []

@@ -116,7 +116,8 @@ collection_description_alignment: center
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
   Kruger are getting ready for another season of long bus rides and longer odds.
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_category:
   - Portraits
   - Editorial

@@ -24,7 +24,8 @@ collection_description: >-
   and it’s effect on populations around the world.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta:  “50 Grades of Shade” 
 collection_meta_2: ""

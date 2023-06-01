@@ -17,7 +17,8 @@ collection_description: >-
   Nike SB and Arizona Iced Tea.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: 'GoSkateBoardingDay'
 collection_press: []
@@ -64,7 +65,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-3.jpg'
     margin_left: ''
     margin_right: 10
-    margin_y: '300'
+    margin_y: 300
     width: 33
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -84,13 +85,13 @@ collection_blocks:
     margin_left: 15
     margin_right: 0
     margin_y: 100
-    width: '25'
+    width: 25
   - _bookshop_name: collections/media-element
     align_x: start
     color: '#D1E2DF'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-6.jpg'
     margin_right: 15
-    margin_y: '300'
+    margin_y: 300
     width: 40
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -100,7 +101,7 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/gosk8_bw-redo-5.jpg'
     margin_left: 5
     margin_right: ''
-    margin_y: '200'
+    margin_y: 200
     width: 60
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -111,7 +112,7 @@ collection_blocks:
     margin_left: 35
     margin_right: ''
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -119,8 +120,8 @@ collection_blocks:
     color: '#F2ECE6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-10.jpg'
     margin_left: 10
-    margin_y: '300'
-    width: '45'
+    margin_y: 300
+    width: 45
   - _bookshop_name: collections/media-element
     align_x: start
     color: '#F3F9E9'
@@ -147,7 +148,7 @@ collection_blocks:
     margin_left: 10
     margin_right: ''
     margin_y: 100
-    width: '45'
+    width: 45
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -164,8 +165,8 @@ collection_blocks:
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-14.jpg'
     margin_left: ''
     margin_right: 5
-    margin_y: '500'
-    width: '25'
+    margin_y: 500
+    width: 25
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

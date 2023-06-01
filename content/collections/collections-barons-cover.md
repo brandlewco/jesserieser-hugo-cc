@@ -89,7 +89,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/barrons_header-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-43.jpg
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_category:
   - Editorial
   - Science

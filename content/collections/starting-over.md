@@ -42,7 +42,8 @@ collection_description: >-
   we keep. In 2009, my parents Rob and Stephanie Rieser left Springfield,
   Missouri for suburban Phoenix, forced to find work in a new city when the
   economy in our hometown faltered.
-collection_filter: Personal
+collection_filter:
+  - Personal
 collection_hidden: false
 collection_meta: 2009 - 2010
 collection_preview:

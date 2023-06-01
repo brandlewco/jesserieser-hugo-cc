@@ -54,7 +54,8 @@ collection_description: >-
   vulnerable does that make the pilots?”
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Best Selling Author T.J. Newman 
 collection_meta_2: ""

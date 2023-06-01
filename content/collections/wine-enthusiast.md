@@ -181,7 +181,8 @@ collection_description: >-
   the Phoenix Suns Guard is on a quest to become legendary._ Go
   [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-booker)
   to read Michael Willbon's profile on Devin Booker. 
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_category:
   - Studio
   - Editorial

@@ -19,7 +19,8 @@ collection_description: >-
   out.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Bubba Watson Visits Your Home Course Cover Story
 collection_meta_2: ""

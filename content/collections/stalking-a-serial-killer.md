@@ -52,7 +52,8 @@ collection_description: >-
   Winner in the _2017 American Photography Annual: AP 33,_ featured by
   _Buzzfeed, Fast Company, Feature Shoot, The Daily Mail,_ and exhibited at the
   Houston Center of Photography.
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Stalking A Serial Killer
 collection_preview:

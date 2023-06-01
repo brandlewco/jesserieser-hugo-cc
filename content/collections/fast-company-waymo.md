@@ -13,7 +13,8 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/waymo-8.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-21.jpg
 collection_description: 
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: Google's Waymo Autonomous Car
 collection_press: []

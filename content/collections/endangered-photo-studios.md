@@ -15,7 +15,8 @@ collection_description: >-
   evolving relationship with technology. Will iPhones and influencers cover all
   of our senior photos, glamour shots, and high school homecomings?
 collection_description_alignment: center
-collection_filter: Personal
+collection_filter:
+  - Personal
 collection_hidden: false
 collection_meta: Preview of a Work in Progress
 collection_press: []

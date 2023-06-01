@@ -43,7 +43,8 @@ collection_description: >-
   Wall Street landlords in the country.
 collection_description_alignment: center
 collection_exhibition: []
-collection_filter: Commissioned + Stock
+collection_filter:
+  - Commissioned + Stock
 collection_hidden: false
 collection_meta: The Rent is too Damn High
 collection_meta_2: ""
