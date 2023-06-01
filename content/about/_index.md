@@ -1,6 +1,10 @@
 ---
+seo:
+  meta_title: Photographer Jesse Riesers Bio and Information
+  meta_description: >-
+    Awards, Exhibitions, and Biography of West Coast Photographic Artist Jesse
+    Rieser
 title: Say Hello
-date: 2017-11-02T23:00:00Z
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-7.jpg
@@ -364,20 +368,20 @@ about_blocks:
     title_margin_left: -25"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
-    color: "#FFDA8A
+    color: "#FFDA8A"
     margin_x: 5
     align_y: 0
     title_margin_right:
     meta: 1984. © Rob Rieser
     title_margin_y: 35
-    text_color: "#79B3FF
+    text_color: "#79B3FF"
     text_size: 8xl
     line_height:
     text_alignment:
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: "#FAD267
+    modal_color: "#FAD267"
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -736,7 +740,7 @@ about_blocks:
     text_size: lg
     background_image_toggle: falsE"
     image: 
-    text_color: "#ffffff
+    text_color: "#ffffff"
     font_weight: light
     image_css:
     caption_css:
@@ -756,7 +760,7 @@ about_blocks:
     title_margin_right:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    color: "#DDC4E7
+    color: "#DDC4E7"
     meta: © Nicky Hedyatzadeh
     title_margin_y: 30
     text_color: "#9DFD7C
@@ -766,7 +770,7 @@ about_blocks:
     text_tracking:
     font_weight: normal
     meta_align: left
-    modal_color: "#DDC4E7
+    modal_color: "#DDC4E7"
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -1318,9 +1322,6 @@ cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
-seo:
-  meta_title: Photographer Jesse Riesers Bio and Information
-  meta_description: >-
-    Awards, Exhibitions, and Biography of West Coast Photographic Artist Jesse
-    Rieser
+date: 2017-11-02T23:00:00Z
+
 ---
