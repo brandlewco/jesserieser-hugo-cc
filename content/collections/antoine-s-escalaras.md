@@ -66,7 +66,7 @@ collection_blocks:
     color: "#DDF3F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-1.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-motion
@@ -75,7 +75,7 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     show_controls: false
@@ -91,7 +91,7 @@ collection_blocks:
     color: "#EEF9C7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -102,7 +102,7 @@ collection_blocks:
     color: "#FBE3E5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-3.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '700'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -110,8 +110,8 @@ collection_blocks:
     caption: 
     color: "#EADAF8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-4.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '200'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -123,7 +123,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737205489
@@ -136,7 +136,7 @@ collection_blocks:
     color: "#E3EFF4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-6.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -144,7 +144,7 @@ collection_blocks:
     caption: 
     color: "#F7E8DB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-7.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '1000'
     width: '33'
@@ -156,7 +156,7 @@ collection_blocks:
     color: "#F7E0FF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-8.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -169,7 +169,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737205681
@@ -180,7 +180,7 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '300'
     show_controls: false
@@ -194,7 +194,7 @@ collection_blocks:
     color: "#E7EEFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -204,8 +204,8 @@ collection_blocks:
     caption: 
     color: "#D8FDF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-10.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '300'
     width: '45'
   - _bookshop_name: collections/media-element
@@ -213,7 +213,7 @@ collection_blocks:
     caption: 
     color: "#FFEBE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-11.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '100'
     width: '25'
@@ -225,7 +225,7 @@ collection_blocks:
     color: "#FFEEDA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-13.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -237,7 +237,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737206960
@@ -249,8 +249,8 @@ collection_blocks:
     caption: 
     color: "#EAFDF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-14.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -258,7 +258,7 @@ collection_blocks:
     caption: 
     color: "#EAEEF6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '400'
     width: '55'
@@ -270,7 +270,7 @@ collection_blocks:
     color: "#F9EDD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-16.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -278,7 +278,7 @@ collection_blocks:
     caption: 
     color: "#F8E4D9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-18.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '500'
     width: '25'
@@ -290,7 +290,7 @@ collection_blocks:
     color: "#75588C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-19.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -302,7 +302,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737207172
@@ -312,7 +312,7 @@ collection_blocks:
     caption: 
     color: "#E5F4FD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-20.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '400'
     width: '45'
@@ -324,7 +324,7 @@ collection_blocks:
     color: "#FCF4ED"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-21.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '66'
   - _bookshop_name: collections/media-row-end

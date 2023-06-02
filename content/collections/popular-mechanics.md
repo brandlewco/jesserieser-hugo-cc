@@ -11,7 +11,7 @@ collection_blocks:
     color: "#F3F0DD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-1.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -22,7 +22,7 @@ collection_blocks:
     color: "#FF052A"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-2.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -32,8 +32,8 @@ collection_blocks:
     caption:
     color: "#E3F4EB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-3.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element
@@ -41,7 +41,7 @@ collection_blocks:
     caption:
     color: "#FBEBE1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '400'
     width: '40'
@@ -64,7 +64,7 @@ collection_blocks:
     color: "#F3DFF7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -72,7 +72,7 @@ collection_blocks:
     caption:
     color: "#FE1A25"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '33'
@@ -84,7 +84,7 @@ collection_blocks:
     color: "#E0F8D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-9.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -92,7 +92,7 @@ collection_blocks:
     caption:
     color: "#F9EFD6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-8.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '400'
     width: '40'
@@ -104,7 +104,7 @@ collection_blocks:
     color: "#FE012C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/pop20mech-10.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row-end

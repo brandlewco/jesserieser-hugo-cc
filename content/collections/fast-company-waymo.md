@@ -38,7 +38,7 @@ collection_blocks:
     color: "#F6ECE3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-1.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -47,13 +47,13 @@ collection_blocks:
     color: "#FAF7DF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-3.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '500'
     width: '33'
   - _bookshop_name: collections/media-element 
     color: "#CBD9E9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -69,8 +69,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F6E5D9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-5.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element 
@@ -85,7 +85,7 @@ collection_blocks:
     color: "#CDCEDD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-7.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -94,7 +94,7 @@ collection_blocks:
     color: "#CCF5DF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-8.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -108,7 +108,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F5F5E9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/waymo-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '33'

@@ -11,7 +11,7 @@ collection_blocks:
     color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -22,7 +22,7 @@ collection_blocks:
     color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-2.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -30,7 +30,7 @@ collection_blocks:
     caption:
     color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-3.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '400'
     width: '40'
@@ -42,7 +42,7 @@ collection_blocks:
     color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-4.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -53,7 +53,7 @@ collection_blocks:
     color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-5.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -64,7 +64,7 @@ collection_blocks:
     color: '#f3e1d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -72,7 +72,7 @@ collection_blocks:
     caption:
     color: '#f4dfe7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-7.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '30'
@@ -92,7 +92,7 @@ collection_blocks:
     caption:
     color: '#f9d1bc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '300'
     width: '40'
@@ -104,7 +104,7 @@ collection_blocks:
     color: '#cce3fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-10.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -115,7 +115,7 @@ collection_blocks:
     color: '#d0f1f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-11.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -126,7 +126,7 @@ collection_blocks:
     color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-12.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -137,7 +137,7 @@ collection_blocks:
     color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-13.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -145,7 +145,7 @@ collection_blocks:
     caption:
     color: '#eadef4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-14.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '700'
     width: '30'
@@ -157,7 +157,7 @@ collection_blocks:
     color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-15.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -168,7 +168,7 @@ collection_blocks:
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-16.jpg
     margin_left: '60'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -179,7 +179,7 @@ collection_blocks:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-17.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row

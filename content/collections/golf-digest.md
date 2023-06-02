@@ -53,7 +53,7 @@ collection_blocks:
     color: "#E9EFF4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-1.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -61,7 +61,7 @@ collection_blocks:
     caption: 
     color: "#EAE8BC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '800'
     width: '25'
@@ -73,7 +73,7 @@ collection_blocks:
     color: "#F4D9C9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-3.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -81,7 +81,7 @@ collection_blocks:
     caption: 
     color: "#F0EAFB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '20'
@@ -93,7 +93,7 @@ collection_blocks:
     color: "#F3F8CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '90'
   - _bookshop_name: collections/media-row
@@ -104,7 +104,7 @@ collection_blocks:
     color: "#A7A7A7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-6.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -115,7 +115,7 @@ collection_blocks:
     color: "#EFEFEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-7.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -123,7 +123,7 @@ collection_blocks:
     caption: 
     color: "#B5B5B5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-8.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '300'
     width: '40'
@@ -135,7 +135,7 @@ collection_blocks:
     color: "#8E8E8E"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-9.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -146,7 +146,7 @@ collection_blocks:
     color: "#D5D5D5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-10.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element
@@ -154,7 +154,7 @@ collection_blocks:
     caption: 
     color: "#565656"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-11.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     width: '30'
@@ -166,7 +166,7 @@ collection_blocks:
     color: "#282828"
     image: https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-12.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -177,7 +177,7 @@ collection_blocks:
     color: "#565656"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-13.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -188,7 +188,7 @@ collection_blocks:
     color: "#191919"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-14.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -203,7 +203,7 @@ collection_blocks:
     image:  
     image_css: 
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '50'
     parallax: false
     text: 62
@@ -222,7 +222,7 @@ collection_blocks:
     image: 
     image_css: 
     margin_left: '50'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '50'
     parallax: true
     text: Ties the course record
@@ -239,7 +239,7 @@ collection_blocks:
     color: "#E8ECF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/golfdigest-15.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '50'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -251,7 +251,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 579676885

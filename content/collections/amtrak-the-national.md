@@ -64,14 +64,14 @@ collection_blocks:
     color: '#EBE3DB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-6b-single.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
     align_y: start
     color: '#E7BFA8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-6c-single.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '100'
     width: '30'
@@ -95,7 +95,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#C3DDEE'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: ''
     margin_y: '100'
     width: '40'

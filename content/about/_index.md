@@ -72,7 +72,7 @@ about_blocks:
     align_x: start
     margin_y: '800'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: -30
     margin_x: '5'
     align_y: 0
@@ -362,9 +362,9 @@ about_blocks:
     block: modal-list
     width: '40'
     align_x: start
-    margin_y: 0
-    margin_left: 0
-    margin_right: 0
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
     title_margin_left: '-25'
     image:  https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
@@ -718,7 +718,7 @@ about_blocks:
     align_y: start
     margin_y: '200'
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     background_color: "#FF6A5A
     text: >-
       “I’ve worked with tons of photographers that can’t make something great
@@ -753,7 +753,7 @@ about_blocks:
     align_x: start
     margin_y: '50'
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: -35
     margin_x: '5'
     align_y: 0
@@ -1104,10 +1104,10 @@ about_blocks:
     width: '45'
     align_y: start
     margin_y: '600'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     title: Clients
     color: '#d5e3f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-13.jpg

@@ -22,10 +22,10 @@ content_blocks:
     align_y: start
     margin_y: '50'
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '15'
     title_margin_left: '-25'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 7xl
     line_height: normal
     text_alignment: left
@@ -45,10 +45,10 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '25'
     title_margin_left: '60'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 8xl
     line_height: normal
     text_alignment: left
@@ -69,8 +69,8 @@ content_blocks:
     width: '33'
     align_y: start
     margin_y: '100'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title: Souvenirs From Paradise Exhibition
     color: "#F3D7D7"
     block_aspect_ratio: 16x9
@@ -82,11 +82,11 @@ content_blocks:
     width: '55'
     align_y: start
     margin_y: '400'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     title_margin_y: '15'
     title_margin_left: '10'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 8xl
     line_height: normal
     text_alignment: left
@@ -106,10 +106,10 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '50'
     title_margin_left: '-25'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 7xl
     line_height: normal
     text_alignment: left
@@ -131,7 +131,7 @@ content_blocks:
     align_y: start
     margin_y: '50'
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     color: '#fcc8cc'
     title: Communication Arts Photography Annual 2022
     block_aspect_ratio: 5x4
@@ -143,11 +143,11 @@ content_blocks:
     width: '40'
     align_y: start
     margin_y: '300'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     title_margin_y: '35'
-    title_margin_left: 0
-    title_margin_right: 0
+    title_margin_left: '0'
+    title_margin_right: '0'
     text_size: 2xl
     line_height: normal
     text_alignment: left
@@ -166,10 +166,10 @@ content_blocks:
     width: '60'
     align_y: start
     margin_y: '400'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg
     color: "#F2ECDF"
@@ -187,11 +187,11 @@ content_blocks:
     width: '25'
     align_y: start
     margin_y: '100'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title_margin_y: '10'
     title_margin_left: -55
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -213,7 +213,7 @@ content_blocks:
     align_y: start
     margin_y: '500'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     title: 'AP 38: American Photography Annual'
     color: "#FFAAAA"
     block_aspect_ratio: 11x8-5
@@ -225,10 +225,10 @@ content_blocks:
     width: '40'
     align_y: start
     margin_y: '100'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     title_margin_left: '60'
-    title_margin_right: 0
+    title_margin_right: '0'
     title_margin_y: '30'
     meta_align: right
     attached_collection: collections/phoenix.md
@@ -249,10 +249,10 @@ content_blocks:
     align_y: start
     margin_y: '300'
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '40'
     title_margin_left: '20'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -271,7 +271,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     title: Fresh
     color: "#DFEFC2"
@@ -288,7 +288,7 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     title: xmas
     color: "#FF4B4B"
     block_aspect_ratio: 2x3
@@ -307,7 +307,7 @@ content_blocks:
     meta: "2010 - \_2019"
     margin_x: 0
     align_y: 0
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     title_margin_left: '5'
     title_margin_right:
@@ -326,10 +326,10 @@ content_blocks:
     align_y: start
     margin_y: '300'
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '60'
     title_margin_left: -20
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -346,11 +346,11 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title_margin_y: '25'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -370,8 +370,8 @@ content_blocks:
     width: '25'
     align_y: start
     margin_y: '100'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title: Star Geezers on BOOOOOOM!
     color: "#FFE7C3"
     text_size:
@@ -384,11 +384,11 @@ content_blocks:
     width: '50'
     align_y: start
     margin_y: '400'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     title_margin_y: '15'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -415,9 +415,9 @@ content_blocks:
     margin_x: 0
     align_y: 0
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: '70'
-    title_margin_right: 0
+    title_margin_right: '0'
     meta_align: left
     text_color: "#F38EFF"
     text_size: 6xl
@@ -432,7 +432,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '100'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     title: The Photo Banter
     color: "#0CA5E5"
@@ -447,10 +447,10 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '15'
     title_margin_left: -20
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -467,10 +467,10 @@ content_blocks:
     width: '40'
     align_y: start
     margin_y: '300'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-5.jpg
     title: Outside Magazine
@@ -492,8 +492,8 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '50'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title: AP 38 Chosen Popular Mechanic
     color:
     block_aspect_ratio: 3x2
@@ -528,7 +528,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '700'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     title: BOOOOOOOM Feature
     color: "#FFCFCF"
@@ -543,10 +543,10 @@ content_blocks:
     align_y: start
     margin_y: '200'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '75'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -565,7 +565,7 @@ content_blocks:
     width: '10'
     align_y: start
     margin_y: '50'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     title: Agents Club 22 Awards
     color: "#F9B0B0"
@@ -581,8 +581,8 @@ content_blocks:
     width: '33'
     align_y: start
     margin_y: '200'
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     title: AP 37
     color: "#F6F9AD"
     block_aspect_ratio: 4x5
@@ -596,7 +596,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     title: YG 19
     color: "#FFE6E6"
@@ -611,10 +611,10 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     title_margin_y: '20'
     title_margin_left: -15
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -631,11 +631,11 @@ content_blocks:
     width: '33'
     align_y: start
     margin_y: '400'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     title_margin_y: '10'
     title_margin_left: '10'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 10xl
     line_height: normal
     text_alignment: left
@@ -657,7 +657,7 @@ content_blocks:
     align_y: start
     margin_y: '700'
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     color: "#DACEEA"
     title: The Sunset Spot at Red Modern
     block_aspect_ratio: 8-5x11
@@ -669,7 +669,7 @@ content_blocks:
     align_y: 0
     margin_y: '300'
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: '50'
     title_margin_right:
     meta_align: left
@@ -691,7 +691,7 @@ content_blocks:
     width: '10'
     align_y: start
     margin_y: '100'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     title: 2022 SPD Awards
     color: "#D2B9ED"
@@ -706,9 +706,9 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: -30
-    title_margin_right: 0
+    title_margin_right: '0'
     meta_align: right
     title: Amtrak the National
     image: https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg
@@ -727,7 +727,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '700'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     title: AP 36
     color: "#D8EBEE"
@@ -744,9 +744,9 @@ content_blocks:
     align_y: start
     margin_y: '400'
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
     title: Wired
@@ -770,8 +770,8 @@ content_blocks:
     color: "#fde25e"
     attached_blog: posts/the-changing-landscape-of-america-retail.md
     align_y: 0
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     text_size:
     block_aspect_ratio: 2x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
@@ -787,7 +787,7 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     color: "#AAFEBF"
     title: Spotlight Awards
     block_aspect_ratio: 1x1
@@ -798,11 +798,11 @@ content_blocks:
     width: '55'
     align_y: start
     margin_y: '300'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     title_margin_y: '20'
     title_margin_left: '5'
-    title_margin_right: 0
+    title_margin_right: '0'
     text_size: 6xl
     line_height: normal
     text_alignment: left
@@ -823,7 +823,7 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     title: Xmas Roundup
     color: "#C5C458"
     text_size:
@@ -837,7 +837,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '400'
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     title: The Fence
     color: "#EED2D2"

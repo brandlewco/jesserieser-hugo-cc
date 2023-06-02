@@ -11,7 +11,7 @@ collection_blocks:
     color: "#e1f3dD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -19,7 +19,7 @@ collection_blocks:
     caption:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '1000'
     width: '20'
@@ -31,7 +31,7 @@ collection_blocks:
     color: "#fbebd6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -42,7 +42,7 @@ collection_blocks:
     color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-4.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -53,7 +53,7 @@ collection_blocks:
     color: "#ffd9cF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -61,7 +61,7 @@ collection_blocks:
     caption:
     color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '400'
     width: '40'
@@ -73,7 +73,7 @@ collection_blocks:
     color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element
@@ -81,8 +81,8 @@ collection_blocks:
     caption:
     color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-8.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '500'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -93,7 +93,7 @@ collection_blocks:
     color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-9.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -104,7 +104,7 @@ collection_blocks:
     color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-10.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row-end

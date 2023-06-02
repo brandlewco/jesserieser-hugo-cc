@@ -9,7 +9,7 @@ collection_blocks:
     color: "#A0ECEC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -40,7 +40,7 @@ collection_blocks:
     color: "#FBECE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element

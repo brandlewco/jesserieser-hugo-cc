@@ -11,7 +11,7 @@ collection_blocks:
     color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-1.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -22,7 +22,7 @@ collection_blocks:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-2.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -30,7 +30,7 @@ collection_blocks:
     caption:
     color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-3.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '500'
     width: '40'
@@ -42,7 +42,7 @@ collection_blocks:
     color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-4.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -53,7 +53,7 @@ collection_blocks:
     color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '90'
   - _bookshop_name: collections/media-element
@@ -62,7 +62,7 @@ collection_blocks:
     color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-6.jpg
     margin_left: '60'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -73,7 +73,7 @@ collection_blocks:
     color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-7.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row-end

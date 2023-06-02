@@ -56,7 +56,7 @@ collection_blocks:
     color: "#E1F3DD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-element
@@ -64,7 +64,7 @@ collection_blocks:
     caption: 
     color: "#E1F9FB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     width: '30'
@@ -76,7 +76,7 @@ collection_blocks:
     color: "#FBEBD6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-3.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -87,7 +87,7 @@ collection_blocks:
     color: "#FFD9CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-5.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element
@@ -95,7 +95,7 @@ collection_blocks:
     caption: 
     color: "#E4F6FE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '300'
     width: '30'
@@ -107,7 +107,7 @@ collection_blocks:
     color: "#DDF5DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-6.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -118,7 +118,7 @@ collection_blocks:
     color: "#F7F7D0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-7.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-element
@@ -126,7 +126,7 @@ collection_blocks:
     caption: 
     color: "#E0EFFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-8.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '600'
     width: '30'

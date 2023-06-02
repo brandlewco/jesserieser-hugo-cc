@@ -58,7 +58,7 @@ collection_blocks:
     color: "#FF7B44"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-1.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -70,7 +70,7 @@ collection_blocks:
     color: "#A8D4E5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-2.jpg
     margin_left: '55'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -82,7 +82,7 @@ collection_blocks:
     color: "#FCEAA9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-3.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '700'
     width: '30'
   - _bookshop_name: collections/media-element 
@@ -91,7 +91,7 @@ collection_blocks:
       Candy</em></p>
     color: "#A2E1DE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '30'
     margin_y: '100'
     width: '30'
@@ -104,7 +104,7 @@ collection_blocks:
     color: "#D6E1E7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-5.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -115,8 +115,8 @@ collection_blocks:
       Jesus</em></p>
     color: "#FCEAE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-7.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element 
@@ -124,7 +124,7 @@ collection_blocks:
       <p><strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: "#E4F1F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-6.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '600'
     width: '30'
@@ -147,7 +147,7 @@ collection_blocks:
     color: "#F3E9BA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-8.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-element 
@@ -156,7 +156,7 @@ collection_blocks:
       Anniversary </em></p>
     color: "#E2F3F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-10.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '400'
     width: '20'
@@ -176,7 +176,7 @@ collection_blocks:
       Candy</em></p>
     color: "#F0EBF3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-12.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '40'
@@ -189,7 +189,7 @@ collection_blocks:
     color: "#DBE9EC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-13.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -202,7 +202,7 @@ collection_blocks:
     color: "#F6D4C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-15.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '45'
   - _bookshop_name: collections/media-element 
@@ -210,7 +210,7 @@ collection_blocks:
       <p><strong>2.</strong> <em>Time: Vaccine Battlegrounds</em></p>
     color: "#FFEC96"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-14.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '30'
@@ -222,7 +222,7 @@ collection_blocks:
       Killer</em></p>
     color: "#BFD2F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-16.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-element 
@@ -230,7 +230,7 @@ collection_blocks:
       <p><strong>5.</strong> <em>Nike Running's Fred Kerley</em></p>
     color: "#FADEE0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-17.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     width: '33'
@@ -242,7 +242,7 @@ collection_blocks:
     color: "#FFF4D0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-18.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -254,7 +254,7 @@ collection_blocks:
     color: "#D4E7F8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-19.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element 
@@ -263,8 +263,8 @@ collection_blocks:
       Candy</em></p>
     color: "#FEB07B"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-20.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '700'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -282,7 +282,7 @@ collection_blocks:
       <strong>5.</strong> <em>Makenzie Gossage</em></p>
     color: "#EAB7C1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-22.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '50'
@@ -301,8 +301,8 @@ collection_blocks:
       <strong>3.</strong> <em>Sounds of Cement</em></p>
     color: "#0A0A0A"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-24.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -320,8 +320,8 @@ collection_blocks:
       <strong>2.</strong> <em>Autobiography of a Contact Sport</em></p>
     color: "#FAC7D5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-26.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '600'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -332,7 +332,7 @@ collection_blocks:
     color: "#F6E7DF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-27.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -344,7 +344,7 @@ collection_blocks:
     color: "#CBECDE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-28.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '30'
   - _bookshop_name: collections/media-element 
@@ -352,7 +352,7 @@ collection_blocks:
       <strong>1.</strong> <em>A Vanishing American Folklore</em></p>
     color: "#E6EBEE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-29.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -371,7 +371,7 @@ collection_blocks:
       Spirit</em></p>
     color: "#E3DCED"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-31.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '40'
@@ -401,8 +401,8 @@ collection_blocks:
       <strong>4.</strong> <em>E* Trade for Mullen Lowe Boston</em></p>
     color: "#F4D0B9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-33.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '200'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -413,7 +413,7 @@ collection_blocks:
     color: "#F1E0DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-35.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -421,7 +421,7 @@ collection_blocks:
     caption: >-
       <strong>4.</strong> <em>Eric Stonestreet AT&amp;T for BBDO</em></p>
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-57.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '300'
     width: '25'
@@ -434,7 +434,7 @@ collection_blocks:
     color: "#EFE5BF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-36.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -457,7 +457,7 @@ collection_blocks:
     color: "#0C0C0D"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-38.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '600'
     width: '30'
   - _bookshop_name: collections/media-element 
@@ -466,8 +466,8 @@ collection_blocks:
       to Save Everything</em></p>
     color: "#C7D5CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-40.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -477,8 +477,8 @@ collection_blocks:
       <strong>2. </strong><em>Outside: Rob Krar Running in the Dark </em></p>
     color: "#FA9176"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-41.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element 
@@ -486,7 +486,7 @@ collection_blocks:
       <strong>1. </strong><em>Starting Over: Will Move for Work</em></p>
     color: "#CDECEE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-42.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '600'
     width: '33'
@@ -499,7 +499,7 @@ collection_blocks:
     color: "#FFCA8D"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-43.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -519,7 +519,7 @@ collection_blocks:
       Jesus</em></p>
     color: "#C0EDE1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-45.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '500'
     width: '50'
@@ -532,7 +532,7 @@ collection_blocks:
     color: "#D4DEE8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-47.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '700'
     width: '45'
   - _bookshop_name: collections/media-element 
@@ -541,7 +541,7 @@ collection_blocks:
       Candy</em></p>
     color: "#DFDADA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-46.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -563,7 +563,7 @@ collection_blocks:
     color: "#B5907E"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-49.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -575,7 +575,7 @@ collection_blocks:
     color: "#111114"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-51.jpg
     margin_left: '50'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -593,7 +593,7 @@ collection_blocks:
       <strong>4.</strong> <em>Crazy Explosive Primeknit </em></p>
     color: "#030303"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-53.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '300'
     width: '25'
@@ -612,7 +612,7 @@ collection_blocks:
       <strong>5. </strong><em>Adidas Golf: Xander Schaufelle</em></p>
     color: "#959595"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/skeleton-55.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '400'
     width: '55'

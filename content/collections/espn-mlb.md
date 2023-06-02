@@ -48,13 +48,13 @@ collection_blocks:
     color: "#F6F0EA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-2.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element 
     color: "#F1EAEA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-3.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '500'
     width: '40'
@@ -69,7 +69,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F2E1E1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-5.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '33'
@@ -79,13 +79,13 @@ collection_blocks:
     color: "#F2BAB6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-6.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '50'
     width: '40'
   - _bookshop_name: collections/media-element 
     color: "#E2ECFC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-7.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '200'
     width: '30'
@@ -95,13 +95,13 @@ collection_blocks:
     color: "#E9E8F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-8.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element 
     color: "#F9F6DB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '200'
     width: '33'
@@ -111,7 +111,7 @@ collection_blocks:
     color: "#D9E6F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-10.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -125,7 +125,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F7ECEC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-12.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '100'
     width: '30'
@@ -135,7 +135,7 @@ collection_blocks:
     color: "#F2EEE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-13.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -152,7 +152,7 @@ collection_blocks:
     color: "#E5F2F0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-15.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element 
@@ -167,7 +167,7 @@ collection_blocks:
     color: "#F0EEF3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-17.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -176,13 +176,13 @@ collection_blocks:
     color: "#F1EEE0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-18.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element 
     color: "#E1F0F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-19.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '700'
     width: '30'
@@ -192,7 +192,7 @@ collection_blocks:
     color: "#F4E0E0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-20.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -209,13 +209,13 @@ collection_blocks:
     color: "#FEF3D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-22.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element 
     color: "#EADEF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-23.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '45'
     margin_y: '200'
     width: '20'
@@ -225,7 +225,7 @@ collection_blocks:
     color: "#DAEAF8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-24.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-element 
@@ -240,7 +240,7 @@ collection_blocks:
     color: "#E0F6F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-26.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -249,13 +249,13 @@ collection_blocks:
     color: "#DBE2F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-27.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-element 
     color: "#F9DDDE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-28.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '100'
     width: '20'
@@ -271,7 +271,7 @@ collection_blocks:
     color: "#EDF0F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_mlb-1.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '20'
   - _bookshop_name: collections/media-row-end

@@ -82,7 +82,7 @@ collection_blocks:
     color: '#FFF6E7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sk8-5.jpg'
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element

@@ -60,7 +60,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#FAE8E6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '25'
     margin_y: '300'
     width: '40'
@@ -124,7 +124,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#ECEBE1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-11.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '30'
     margin_y: '200'
     width: '33'
@@ -140,7 +140,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#E7C0AE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-14.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '50'
@@ -156,8 +156,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#CCCCD3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -175,14 +175,14 @@ collection_blocks:
     color: "#D5E0E9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-18.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element 
     color: "#E0EAE9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-19.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '400'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -191,7 +191,7 @@ collection_blocks:
     color: "#F6E0D2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-20.jpg
     margin_left: '65'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -208,13 +208,13 @@ collection_blocks:
     color: "#DBD0DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-22.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '20'
   - _bookshop_name: collections/media-element 
     color: "#D8E4E4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-23.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '40'
     margin_y: '100'
     width: '25'
@@ -253,7 +253,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#EBE3EB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '700'
     width: '20'

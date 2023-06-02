@@ -48,7 +48,7 @@ collection_blocks:
     color: "#B1CD6B"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-1.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -62,7 +62,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#EEA998"
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '400'
     width: '40'
@@ -79,15 +79,15 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F93832"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-5.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element 
     color: "#FADABF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-6.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '300'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -96,7 +96,7 @@ collection_blocks:
     color: "#5083E0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-7.jpg
     margin_left: '50'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -105,13 +105,13 @@ collection_blocks:
     color: "#DDE5F1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-8.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-element 
     color: "#FEE5DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '300'
     width: '30'
@@ -119,7 +119,7 @@ collection_blocks:
     color: "#EA113C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-10.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -136,7 +136,7 @@ collection_blocks:
     color: "#8CABA5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-12.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '50'
   - _bookshop_name: collections/media-element 
@@ -151,13 +151,13 @@ collection_blocks:
     color: "#B0CB97"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-14.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element 
     color: "#3850A3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-15.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '400'
     width: '33'

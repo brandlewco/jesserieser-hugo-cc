@@ -16,7 +16,7 @@ collection_blocks:
     width: '60'
     margin_y: '100'
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     align_y: center
     caption: 
     color: #232323

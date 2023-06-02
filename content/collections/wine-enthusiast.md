@@ -11,7 +11,7 @@ collection_blocks:
     color: '#edd7b2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-2.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -21,8 +21,8 @@ collection_blocks:
     caption:
     color: '#f9d5d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-4.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '700'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -30,7 +30,7 @@ collection_blocks:
     caption:
     color: '#e2cfef'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-3.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '30'
@@ -44,7 +44,7 @@ collection_blocks:
     color: '#d9e3f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -52,7 +52,7 @@ collection_blocks:
     caption:
     color: '#e6f3e6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-6.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '300'
     width: '40'
@@ -64,7 +64,7 @@ collection_blocks:
     color: '#cff1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-7.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -72,7 +72,7 @@ collection_blocks:
     caption:
     color: '#ffe5c9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-8.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '20'
@@ -85,8 +85,8 @@ collection_blocks:
     caption:
     color: '#ebd1ef'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-9.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-element
@@ -94,7 +94,7 @@ collection_blocks:
     caption:
     color: '#cef8e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-10.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '400'
     width: '70'
@@ -108,7 +108,7 @@ collection_blocks:
     color: '#f9d4c0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-12.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -119,7 +119,7 @@ collection_blocks:
     color: '#f4d4d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-13.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -127,7 +127,7 @@ collection_blocks:
     caption:
     color: '#c2f4f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-14.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '400'
     width: '30'
@@ -139,7 +139,7 @@ collection_blocks:
     color: '#ecd8f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-15.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -147,8 +147,8 @@ collection_blocks:
     caption:
     color: '#d7f9d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-16.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-row
@@ -161,7 +161,7 @@ collection_blocks:
     color: '#cff7f2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman-17.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row

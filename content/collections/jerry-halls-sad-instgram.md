@@ -39,7 +39,7 @@ collection_blocks:
     color: "#F3E3E3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/jerry-1.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element 
@@ -55,13 +55,13 @@ collection_blocks:
     color: "#F6E2CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/jerry-5.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '200'
     width: '40'
   - _bookshop_name: collections/media-element 
     color: "#E5F3F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/jerry-6.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '500'
     width: '30'

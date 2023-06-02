@@ -67,7 +67,7 @@ collection_blocks:
     color: "#D7D7D7"
     image:  
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 0510464600
@@ -78,7 +78,7 @@ collection_blocks:
     color: "#EDD7B2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
@@ -89,7 +89,7 @@ collection_blocks:
     color: "#E2CFEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -97,7 +97,7 @@ collection_blocks:
     caption: 
     color: "#CDF3EC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '400'
     width: '33'
@@ -109,7 +109,7 @@ collection_blocks:
     color: "#F9D5D3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -119,8 +119,8 @@ collection_blocks:
     caption: 
     color: "#D9E3F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
@@ -128,8 +128,8 @@ collection_blocks:
     caption: 
     color: "#E6F3E6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '400'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -139,8 +139,8 @@ collection_blocks:
     caption: 
     color: "#CFF1F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '50'
     width: '50'
   - _bookshop_name: collections/media-element
@@ -148,7 +148,7 @@ collection_blocks:
     caption: 
     color: "#FFE5C9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '500'
     width: '40'
@@ -160,7 +160,7 @@ collection_blocks:
     color: "#EBD1EF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
     margin_left: '35'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -171,7 +171,7 @@ collection_blocks:
     color: "#CEF8E1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -182,7 +182,7 @@ collection_blocks:
     color: "#F9D4C0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -193,7 +193,7 @@ collection_blocks:
     color: "#F4D4D3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-element
@@ -201,7 +201,7 @@ collection_blocks:
     caption: 
     color: "#C2F4F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '30'
@@ -214,7 +214,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 0515559092
@@ -227,7 +227,7 @@ collection_blocks:
     color: "#ECD8F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-20.jpg
     margin_left: '20'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -237,8 +237,8 @@ collection_blocks:
     caption: 
     color: "#D7F9D5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element
@@ -246,7 +246,7 @@ collection_blocks:
     caption: 
     color: "#F6F4D2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '700'
     width: '33'
@@ -258,7 +258,7 @@ collection_blocks:
     color: "#CFF7F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
@@ -269,7 +269,7 @@ collection_blocks:
     color: "#F0D0CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -281,7 +281,7 @@ collection_blocks:
     color: ""
     image: 
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 515559208
@@ -298,7 +298,7 @@ collection_blocks:
     image: 
     image_css: 
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     parallax: true
     text: Written By Michael Willbon
@@ -312,7 +312,7 @@ collection_blocks:
     caption: 
     color: "#F4ECCE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-19.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '50'

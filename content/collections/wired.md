@@ -95,14 +95,14 @@ collection_blocks:
     color: "#090909"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-1c-single.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
     align_y: start
     color: "#0A0A0B"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-1b-single.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '500'
     width: '20'
@@ -132,14 +132,14 @@ collection_blocks:
     color: "#C36945"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-5.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-element 
     caption: 
     color: "#D5DA9E"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-4.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '100'
     width: '33'
@@ -158,7 +158,7 @@ collection_blocks:
     caption: 
     color: "#F9F8F6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element 
@@ -175,7 +175,7 @@ collection_blocks:
     color: "#979797"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-7.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -185,7 +185,7 @@ collection_blocks:
     color: "#E2DFDF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-6.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -194,14 +194,14 @@ collection_blocks:
     color: "#1E1E1E"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-11b-single.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
     align_y: start
     color: "#FFD279"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-11c-single.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '15'
     margin_y: '300'
     width: '25'
@@ -219,7 +219,7 @@ collection_blocks:
     caption: 
     color: "#535353"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-12.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '25'
@@ -230,7 +230,7 @@ collection_blocks:
     color: "#424242"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/backpage-14.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row

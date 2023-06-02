@@ -44,7 +44,7 @@ collection_blocks:
     color: "#B1BEDD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-1.jpg
     margin_left: '30'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -58,7 +58,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#2D4496"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-3.jpg
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -74,8 +74,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#FBECE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-5.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-element 
@@ -91,7 +91,7 @@ collection_blocks:
     color: "#142C73"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-7.jpg
     margin_left: '45'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
@@ -101,7 +101,7 @@ collection_blocks:
     color: "#CFE0F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/banner-mullen-8.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '90'
   - _bookshop_name: collections/media-row-end

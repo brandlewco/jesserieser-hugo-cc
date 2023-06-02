@@ -63,7 +63,7 @@ collection_blocks:
     color: "#F2DAF4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-1.jpg
     margin_left: '25'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -72,13 +72,13 @@ collection_blocks:
     color: "#D8F4F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-3.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '400'
     width: '33'
   - _bookshop_name: collections/media-element 
     color: "#FFEBC3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '40'
@@ -95,8 +95,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#E6E9F1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-5.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element 
@@ -111,7 +111,7 @@ collection_blocks:
     color: "#FFE0BA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-7.jpg
     margin_left: '40'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
@@ -120,7 +120,7 @@ collection_blocks:
     color: "#EAECEC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-8.jpg
     margin_left: '5'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -134,7 +134,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F8F6EE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-10.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '5'
     margin_y: '300'
     width: '40'
@@ -151,15 +151,15 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#E3F0E7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-12.jpg
-    margin_left: 0
-    margin_right: 0
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-element 
     color: "#E7EBF0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj-apollo-13.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '500'
     width: '40'
   - _bookshop_name: collections/media-row

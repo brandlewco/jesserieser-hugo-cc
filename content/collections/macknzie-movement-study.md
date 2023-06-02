@@ -37,7 +37,7 @@ collection_blocks:
     color: "#F8E0CE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg
     margin_left: '10'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
@@ -46,13 +46,13 @@ collection_blocks:
     color: "#D7DFF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-3.jpg
     margin_left: '15'
-    margin_right: 0
+    margin_right: '0'
     margin_y: '300'
     width: '25'
   - _bookshop_name: collections/media-element 
     color: "#F4DEE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-2.jpg
-    margin_left: 0
+    margin_left: '0'
     margin_right: '20'
     margin_y: '200'
     width: '33'

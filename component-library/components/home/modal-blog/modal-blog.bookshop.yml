@@ -21,9 +21,9 @@ blueprint:
   color: ffffff
   width: '30'
   align_y: center
-  margin_y: 0
-  margin_left: 0
-  margin_right: 0
+  margin_y: '0'
+  margin_left: '0'
+  margin_right: '0'
   block_aspect_ratio: ratio-1x1
   blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
   caption: Caption
