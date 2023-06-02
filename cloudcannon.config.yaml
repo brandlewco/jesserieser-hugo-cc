@@ -88,31 +88,40 @@ _inputs:
     type: select
     options:
       values:
-        - start
-        - center
-        - end
+        - 'start'
+        - 'center'
+        - 'end'
   align_x:
     type: select
     options:
       values:
-        - start
-        - center
-        - end
+        - 'start'
+        - 'center'
+        - 'end'
   width:
     type: select
     options:
       values:
         - '10'
+        - '15'
         - '20'
+        - '25'
         - '30'
         - '33'
+        - '35'
         - '40'
+        - '45'
         - '50'
+        - '55'
         - '60'
+        - '65'
         - '66'
         - '70'
+        - '75'
         - '80'
+        - '85'
         - '90'
+        - '95'
         - '100'
   margin_right:
     type: select
@@ -247,11 +256,11 @@ _inputs:
     type: select
     options:
       values:
-        - start
-        - center
-        - end
-        - between
-        - around
+        - 'start'
+        - 'center'
+        - 'end'
+        - 'between'
+        - 'around'
   collection_meta:
     type: text
   collection_meta_2:
