@@ -61,89 +61,89 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     align_y: start
     color: "#CCCCCC
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     vimeo_id: 155619696
-    width: 66
+    width: '66'
   - _bookshop_name: collections/media-element 
     color: "#EDE4E0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-1.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 200
-    width: 50
+    margin_y: '200'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#B6D5F0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-2.jpg
-    margin_left: 10
-    margin_y: 100
-    width: 25
+    margin_left: '10'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-element 
     color: "#EEEEEE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-1.jpg
     margin_left: 0
-    margin_right: 25
-    margin_y: 400
-    width: 33
+    margin_right: '25'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#C3C3C3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-2.jpg
-    margin_left: 20
-    margin_y: 100
-    width: 33
+    margin_left: '20'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F4F4F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-3.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 200
-    width: 66
+    margin_y: '200'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#DCDCDC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-4.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-element 
     color: "#F1ECE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-7.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 500
-    width: 30
+    margin_right: '15'
+    margin_y: '500'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#C5C5C5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-5.jpg
-    margin_left: 10
-    margin_y: 100
-    width: 20
+    margin_left: '10'
+    margin_y: '100'
+    width: '20'
   - _bookshop_name: collections/media-element 
     color: "#9D9D9D"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-6.jpg
     margin_left: 0
-    margin_right: 10
-    margin_y: 400
-    width: 55
+    margin_right: '10'
+    margin_y: '400'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#DBDBDB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-7.jpg
-    margin_left: 5
-    margin_y: 100
-    width: 80
+    margin_left: '5'
+    margin_y: '100'
+    width: '80'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
@@ -151,36 +151,36 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-9.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-element 
     color: "#F6F6F6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-8.jpg
-    margin_right: 10
-    margin_y: 700
-    width: 25
+    margin_right: '10'
+    margin_y: '700'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#999999"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-11.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 700
-    width: 40
+    margin_y: '700'
+    width: '40'
   - _bookshop_name: collections/media-element 
     color: "#4C4C4C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-10.jpg
     margin_right: 0
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#1B1B1B"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/soc-15.jpg
-    margin_left: 25
-    margin_y: 100
-    width: 45
+    margin_left: '25'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row-end
 ---

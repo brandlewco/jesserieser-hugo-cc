@@ -44,10 +44,10 @@ collection_blocks:
     caption: 
     color: "#C2A282"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-1.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -55,10 +55,10 @@ collection_blocks:
     caption: 
     color: "#DFEBEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-2.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 500
-    width: 33
+    margin_y: '500'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
@@ -66,8 +66,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-3.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -75,19 +75,19 @@ collection_blocks:
     caption: 
     color: "#D8A6C7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-4.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 20
+    margin_y: '100'
+    width: '20'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#EEDDDD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-5.jpg
     margin_left: 0
-    margin_right: 30
-    margin_y: 300
-    width: 40
+    margin_right: '30'
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -95,10 +95,10 @@ collection_blocks:
     caption: 
     color: "#CFC78C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-7.jpg
-    margin_left: 60
+    margin_left: '60'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -106,9 +106,9 @@ collection_blocks:
     caption: 
     color: "#F1B88C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-6.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 70
+    margin_y: '100'
+    width: '70'
   - _bookshop_name: collections/media-row-end
 ---

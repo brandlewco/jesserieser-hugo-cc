@@ -48,57 +48,57 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#E0D2E0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-1.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F9F7D1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-2.jpg
-    margin_left: 5
-    margin_y: 100
-    width: 50
+    margin_left: '5'
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-element 
     color: "#DEE8BD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-3.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 600
-    width: 33
+    margin_right: '5'
+    margin_y: '600'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#D3E7F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-4.jpg
-    margin_left: 35
+    margin_left: '35'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F4E8DC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-6.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-element 
     color: "#D1B5DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-5.jpg
-    margin_right: 5
-    margin_y: 600
-    width: 40
+    margin_right: '5'
+    margin_y: '600'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F4CBAA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/spirit-7.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 200
-    width: 60
+    margin_y: '200'
+    width: '60'
   - _bookshop_name: collections/media-row-end
 ---

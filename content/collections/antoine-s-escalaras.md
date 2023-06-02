@@ -65,10 +65,10 @@ collection_blocks:
     caption: 
     color: "#DDF3F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-1.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 4x3
@@ -76,11 +76,11 @@ collection_blocks:
     color: ""
     image: 
     margin_left: 0
-    margin_right: 5
-    margin_y: 700
+    margin_right: '5'
+    margin_y: '700'
     show_controls: false
     vimeo_id: 737204973
-    width: 33
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -90,10 +90,10 @@ collection_blocks:
     caption: 
     color: "#EEF9C7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 70
+    margin_y: '100'
+    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -101,10 +101,10 @@ collection_blocks:
     caption: 
     color: "#FBE3E5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-3.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 700
-    width: 40
+    margin_y: '700'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
@@ -112,8 +112,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-4.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 200
-    width: 50
+    margin_y: '200'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -122,12 +122,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 737205489
-    width: 45
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -135,19 +135,19 @@ collection_blocks:
     caption: 
     color: "#E3EFF4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-6.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#F7E8DB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-7.jpg
     margin_left: 0
-    margin_right: 10
-    margin_y: 1000
-    width: 33
+    margin_right: '10'
+    margin_y: '1000'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -155,10 +155,10 @@ collection_blocks:
     caption: 
     color: "#F7E0FF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-8.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -168,12 +168,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 737205681
-    width: 20
+    width: '20'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 4x3
@@ -181,11 +181,11 @@ collection_blocks:
     color: ""
     image: 
     margin_left: 0
-    margin_right: 15
-    margin_y: 300
+    margin_right: '15'
+    margin_y: '300'
     show_controls: false
     vimeo_id: 737206761
-    width: 40
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -193,10 +193,10 @@ collection_blocks:
     caption: 
     color: "#E7EEFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 200
-    width: 60
+    margin_y: '200'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -206,17 +206,17 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-10.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 300
-    width: 45
+    margin_y: '300'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#FFEBE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-11.jpg
     margin_left: 0
-    margin_right: 20
-    margin_y: 100
-    width: 25
+    margin_right: '20'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -224,10 +224,10 @@ collection_blocks:
     caption: 
     color: "#FFEEDA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-13.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -236,12 +236,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 737206960
-    width: 40
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -251,17 +251,17 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-14.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#EAEEF6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 400
-    width: 55
+    margin_right: '5'
+    margin_y: '400'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -269,19 +269,19 @@ collection_blocks:
     caption: 
     color: "#F9EDD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-16.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#F8E4D9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-18.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 500
-    width: 25
+    margin_right: '15'
+    margin_y: '500'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -289,10 +289,10 @@ collection_blocks:
     caption: 
     color: "#75588C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-19.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -301,21 +301,21 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 737207172
-    width: 33
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E5F4FD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-20.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 400
-    width: 45
+    margin_right: '5'
+    margin_y: '400'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -323,10 +323,10 @@ collection_blocks:
     caption: 
     color: "#FCF4ED"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/escalaras-21.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 200
-    width: 66
+    margin_y: '200'
+    width: '66'
   - _bookshop_name: collections/media-row-end
 
 ---

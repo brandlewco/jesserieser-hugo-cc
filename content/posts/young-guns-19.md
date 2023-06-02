@@ -71,24 +71,24 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_Y.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_G.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_1.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_9.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/jury2.jpg
-    width: 100
+    width: '100'
 blog_slider:
   - _bookshop_name: posts/media-motion-id
     show_controls: false

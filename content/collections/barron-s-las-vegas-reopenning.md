@@ -56,10 +56,10 @@ collection_blocks:
     caption: 
     color: "#DDF3F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-1.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 
-    margin_y: 100
-    width: 70
+    margin_y: '100'
+    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -67,19 +67,19 @@ collection_blocks:
     caption: 
     color: "#EEF9C7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-16.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#FBE3E5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-3.jpg
     margin_left: 0
-    margin_right: 20
-    margin_y: 500
-    width: 20
+    margin_right: '20'
+    margin_y: '500'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -89,10 +89,10 @@ collection_blocks:
     caption: 
     color: "#EADAF8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-4.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -100,19 +100,19 @@ collection_blocks:
     caption: 
     color: "#FDF6D3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-5.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 
-    margin_y: 100
-    width: 25
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E3EFF4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-6.jpg
     margin_left: 
-    margin_right: 25
-    margin_y: 200
-    width: 40
+    margin_right: '25'
+    margin_y: '200'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -122,8 +122,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-7.jpg
     margin_left: 0
     margin_right: 
-    margin_y: 300
-    width: 40
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
@@ -131,8 +131,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-8.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 200
-    width: 55
+    margin_y: '200'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -140,10 +140,10 @@ collection_blocks:
     caption: 
     color: "#E7EEFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-9.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 
-    margin_y: 200
-    width: 66
+    margin_y: '200'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -151,19 +151,19 @@ collection_blocks:
     caption: 
     color: "#D8FDF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-10.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 200
-    width: 30
+    margin_y: '200'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#FFEBE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-11.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 400
-    width: 40
+    margin_right: '5'
+    margin_y: '400'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -171,10 +171,10 @@ collection_blocks:
     caption: 
     color: "#FBEBD0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-12.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
     row_alignment: between
@@ -183,19 +183,19 @@ collection_blocks:
     caption: 
     color: "#FFE0E1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-diptech-1.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 200
-    width: 33
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y: start 
     caption: 
     color: "#F4E2FC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-diptech-2.jpg
     margin_left: 0
-    margin_right: 25
-    margin_y: 200
-    width: 33
+    margin_right: '25'
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -203,10 +203,10 @@ collection_blocks:
     caption: 
     color: "#FFEEDA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-13.jpg
-    margin_left: 50
+    margin_left: '50'
     margin_right: 
-    margin_y: 200
-    width: 45
+    margin_y: '200'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -214,10 +214,10 @@ collection_blocks:
     caption: 
     color: "#EAFDF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-15.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -225,10 +225,10 @@ collection_blocks:
     caption: 
     color: "#EAEEF6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-14.jpg
-    margin_left: 40
+    margin_left: '40'
     margin_right: 
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -236,19 +236,19 @@ collection_blocks:
     caption: 
     color: "#F9EDD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-17.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E9E2F6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-18.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 200
-    width: 20
+    margin_right: '15'
+    margin_y: '200'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -258,10 +258,10 @@ collection_blocks:
     caption: 
     color: "#F8E4D9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-20.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -269,10 +269,10 @@ collection_blocks:
     caption: 
     color: "#75588C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-21.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -284,16 +284,16 @@ collection_blocks:
     font_weight: 
     image: 
     image_css: 
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 200
+    margin_y: '200'
     parallax: false
     text: "Part 2:"
     text_alignment: left
     text_color: "#000000"
     text_size: 10xl
     text_tracking: normal
-    width: 50
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -305,25 +305,25 @@ collection_blocks:
     font_weight: normal
     image: 
     image_css: 
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     parallax: true
     text: The New Las Vegas Convention Center
     text_alignment: 
     text_color: ""
     text_size: 4xl
     text_tracking: normal
-    width: 50
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#F9F2F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-1.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 
-    margin_y: 50
-    width: 70
+    margin_y: '50'
+    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -331,10 +331,10 @@ collection_blocks:
     caption: 
     color: "#EFEFE9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-2.jpg
-    margin_left: 55
+    margin_left: '55'
     margin_right: 
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -342,10 +342,10 @@ collection_blocks:
     caption: 
     color: "#F2EEF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-3.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -353,10 +353,10 @@ collection_blocks:
     caption: 
     color: "#EEFFEB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-4.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 
-    margin_y: 100
-    width: 25
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
@@ -364,8 +364,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-28.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 300
-    width: 66
+    margin_y: '300'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -375,9 +375,9 @@ collection_blocks:
     caption: 
     color: "#FCF4ED"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-6.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row-end
 ---

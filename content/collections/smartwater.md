@@ -60,10 +60,10 @@ collection_blocks:
     caption: 
     color: "#D1E3EB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 66
+    margin_y: '100'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -71,10 +71,10 @@ collection_blocks:
     caption: 
     color: "#E2DCDC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -82,10 +82,10 @@ collection_blocks:
     caption: 
     color: "#D8E4F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
-    margin_left: 35
+    margin_left: '35'
     margin_right: 0
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -93,19 +93,19 @@ collection_blocks:
     caption: 
     color: "#D0CEE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y: start
     caption: 
     color: "#FABDAB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
     margin_left: 0
-    margin_right: 10
-    margin_y: 600
-    width: 33
+    margin_right: '10'
+    margin_y: '600'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -113,10 +113,10 @@ collection_blocks:
     caption: 
     color: "#E3DCE9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -124,10 +124,10 @@ collection_blocks:
     caption: 
     color: "#EEECE1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 200
-    width: 50
+    margin_y: '200'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -135,10 +135,10 @@ collection_blocks:
     caption: 
     color: "#C0BFDC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
-    margin_left: 45
+    margin_left: '45'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -148,7 +148,7 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 75
+    margin_y: '100'
+    width: '75'
   - _bookshop_name: collections/media-row-end
 ---

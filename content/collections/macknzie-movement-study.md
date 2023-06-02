@@ -36,41 +36,41 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F8E0CE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#D7DFF1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-3.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 300
-    width: 25
+    margin_y: '300'
+    width: '25'
   - _bookshop_name: collections/media-element 
     color: "#F4DEE4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-2.jpg
     margin_left: 0
-    margin_right: 20
-    margin_y: 200
-    width: 33
+    margin_right: '20'
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F5E8D5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-4.jpg
-    margin_left: 40
-    margin_y: 100
-    width: 20
+    margin_left: '40'
+    margin_y: '100'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F9E0CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-5.jpg
-    margin_left: 55
-    margin_y: 100
-    width: 45
+    margin_left: '55'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row-end
 ---

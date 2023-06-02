@@ -61,227 +61,227 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#F2F1DB'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-1.jpg'
-    margin_left: 35
+    margin_left: '35'
     margin_right: ''
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F4E6D6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-2.jpg'
-    margin_left: 15
+    margin_left: '15'
     margin_right: ''
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#A7D2F0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-3.jpg'
-    margin_left: 5
+    margin_left: '5'
     margin_right: ''
-    margin_y: 200
-    width: 20
+    margin_y: '200'
+    width: '20'
   - _bookshop_name: collections/media-element
     color: '#FAE0B4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-4.jpg'
     margin_left: ''
-    margin_right: 5
-    margin_y: 500
-    width: 60
+    margin_right: '5'
+    margin_y: '500'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#E8EDC6'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-5.jpg'
-    margin_left: 20
+    margin_left: '20'
     margin_right: ''
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#FFEACA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-7.jpg'
-    margin_left: 10
+    margin_left: '10'
     margin_right: ''
-    margin_y: 500
-    width: 30
+    margin_y: '500'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#D5EFE4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg'
-    margin_right: 10
-    margin_y: 100
-    width: 40
+    margin_right: '10'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F9D8C5'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-8.jpg'
-    margin_left: 35
+    margin_left: '35'
     margin_right: ''
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#E6E9E8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-9.jpg'
-    margin_left: 10
-    margin_y: 100
-    width: 33
+    margin_left: '10'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#F1E9DC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-10.jpg'
     margin_left: ''
-    margin_right: 5
-    margin_y: 300
-    width: 40
+    margin_right: '5'
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#DFEDF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-11.jpg'
-    margin_left: 25
-    margin_y: 100
-    width: 50
+    margin_left: '25'
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#E4CAA9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-12.jpg'
-    margin_left: 5
+    margin_left: '5'
     margin_right: ''
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#F4EEE3'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-13.jpg'
-    margin_right: 15
-    margin_y: 300
-    width: 40
+    margin_right: '15'
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#EBDFE9'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-14.jpg'
-    margin_left: 20
-    margin_y: 100
-    width: 60
+    margin_left: '20'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F3DFD8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-15.jpg'
-    margin_left: 5
+    margin_left: '5'
     margin_right: ''
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#E4ECF4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-16.jpg'
-    margin_right: 5
-    margin_y: 400
-    width: 50
+    margin_right: '5'
+    margin_y: '400'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#FFE6C0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-17.jpg'
-    margin_left: 35
+    margin_left: '35'
     margin_right: ''
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#FFE3EC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-19.jpg'
-    margin_left: 20
+    margin_left: '20'
     margin_right: ''
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#FFE3CC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-20.jpg'
-    margin_left: 10
+    margin_left: '10'
     margin_right: ''
-    margin_y: 100
-    width: 20
+    margin_y: '100'
+    width: '20'
   - _bookshop_name: collections/media-element
     color: '#E7F6F4'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-18.jpg'
     margin_left: ''
-    margin_right: 25
-    margin_y: 300
-    width: 40
+    margin_right: '25'
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#DBD2D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-21.jpg'
-    margin_left: 10
-    margin_y: 100
-    width: 30
+    margin_left: '10'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#E9F0F7'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-22.jpg'
     margin_left: ''
-    margin_right: 5
-    margin_y: 400
-    width: 50
+    margin_right: '5'
+    margin_y: '400'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#DFECEA'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-23.jpg'
-    margin_left: 25
-    margin_y: 100
-    width: 50
+    margin_left: '25'
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#4C2323'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-24.jpg'
-    margin_left: 15
+    margin_left: '15'
     margin_right: ''
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#BEB6CC'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-25.jpg'
     margin_left: ''
-    margin_y: 300
-    width: 40
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#E9D5D0'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-26.jpg'
-    margin_left: 30
+    margin_left: '30'
     margin_right: ''
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#756B75'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-27.jpg'
-    margin_left: 10
+    margin_left: '10'
     margin_right: ''
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F5E6D8'
     image: 'https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-28.jpg'
-    margin_left: 20
+    margin_left: '20'
     margin_right: ''
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row-end
 ---

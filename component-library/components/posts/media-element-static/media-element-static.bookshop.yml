@@ -19,7 +19,7 @@ blueprint:
   image: /images/hero/hero-image-2.png
   title: blog title
   caption: test caption
-  width: 40
+  width: '40'
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -29,12 +29,6 @@ preview:
 _inputs:
   image:
     type: image
-  width:
-    type: range
-    options:
-      step: 10
-      max: 100
-      min: 0
   title:
     type: text
   caption:

@@ -48,34 +48,34 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-5.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-6.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-7.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-8.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-9.jpg
-    width: 60
+    width: '60'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-2.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-3.jpg
-    width: 50
+    width: '50'
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-1.jpg-url

@@ -99,7 +99,7 @@ body#overlay-page  .bundle-circle-link .bundle-circle {
     border-radius: 0;
     box-shadow:0 0 0 0 black;
     line-height:1;
-    font-weight: 600
+    font-weight: '600'
 }
 
 body#overlay-page .preview-container .image-preview-container img {

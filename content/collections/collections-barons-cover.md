@@ -22,70 +22,70 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#A994AB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
-    margin_left: 35
+    margin_left: '35'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: start
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 200
+    margin_y: '200'
     vimeo_id: 458007593
-    width: 40
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F3D4B6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-4.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 200
-    width: 55
+    margin_y: '200'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#D7E5C6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-5.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 300
-    width: 33
+    margin_y: '300'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#E6CAE4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-6.jpg
-    margin_right: 10
-    margin_y: 100
-    width: 25
+    margin_right: '10'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F9D3D3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-7.jpg
-    margin_left: 40
+    margin_left: '40'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F9F0C2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-10.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#D1C0DF'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/barrons_header-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-43.jpg

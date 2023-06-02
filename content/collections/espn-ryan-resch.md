@@ -83,10 +83,10 @@ collection_blocks:
     caption: 
     color: "#F3EEDD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-1.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -96,17 +96,17 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-2.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#FBEBD6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-3.jpg
     margin_left: 0
-    margin_right: 10
-    margin_y: 600
-    width: 40
+    margin_right: '10'
+    margin_y: '600'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -114,10 +114,10 @@ collection_blocks:
     caption: 
     color: "#E4F6FE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-4.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 200
-    width: 60
+    margin_y: '200'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -125,19 +125,19 @@ collection_blocks:
     caption: 
     color: "#FFD9CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-5.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 20
+    margin_y: '100'
+    width: '20'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#DDF5DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-6.jpg
     margin_left: 0
-    margin_right: 35
-    margin_y: 400
-    width: 33
+    margin_right: '35'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -145,19 +145,19 @@ collection_blocks:
     caption: 
     color: "#F7F7D0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-7.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E0EFFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-8.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 400
-    width: 45
+    margin_right: '5'
+    margin_y: '400'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -165,9 +165,9 @@ collection_blocks:
     caption: 
     color: "#F0E7FF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ryan-9.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row-end
 ---

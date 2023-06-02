@@ -19,7 +19,7 @@ blueprint:
   attached_blog:
   text_size: base
   color: ffffff
-  width: 30
+  width: '30'
   align_y: center
   margin_y: 0
   margin_left: 0

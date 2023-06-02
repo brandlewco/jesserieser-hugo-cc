@@ -80,10 +80,10 @@ collection_blocks:
     align_x: start
     color: "#F6F4EB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-1.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 
-    margin_y: 100
-    width: 66
+    margin_y: '100'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -92,16 +92,16 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
     margin_left: 10%
     margin_right: 
-    margin_y: 600
-    width: 33
+    margin_y: '600'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#E2ECD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
     margin_left: 
     margin_right: 5%
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -109,43 +109,43 @@ collection_blocks:
     color: "#FFE5D1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
     margin_left: 20%
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#E7EBC7"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-5.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#E0EAEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
-    margin_right: 20
-    margin_y: 300
-    width: 33
+    margin_right: '20'
+    margin_y: '300'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#F1E3E4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-7.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#EAE2D6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-8.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
 ---

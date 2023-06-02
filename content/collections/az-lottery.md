@@ -24,18 +24,18 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#babecd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-1.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#EED8C5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-2.jpg
-    margin_left: 55
-    margin_y: 100
-    width: 40
+    margin_left: '55'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-motion
@@ -46,10 +46,10 @@ collection_blocks:
       _bookshop_name: collections/media-row row_alignment: between -
       _bookshop_name: collections/media-element  color: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-3.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-motion
     align_y: 0
     color: >-
@@ -57,43 +57,43 @@ collection_blocks:
       width: 40 - _bookshop_name: collections/media-row row_alignment: between -
       _bookshop_name: collections/media-element  color: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-4.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F1E2E0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-5.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#C6DBEB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-6.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 300
-    width: 30
+    margin_y: '300'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#F3D3A7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-7.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 100
-    width: 40
+    margin_right: '5'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#DFDFDF'
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-8.jpg
-    margin_left: 25
-    margin_y: 100
-    width: 60
+    margin_left: '25'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-28.jpg

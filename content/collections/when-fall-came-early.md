@@ -86,59 +86,59 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#F1CDA5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-1.jpg
-    margin_left: 35
+    margin_left: '35'
     margin_right: 0
-    margin_y: 50
-    width: 50
+    margin_y: '50'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#FF7E69"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-2.jpg
-    margin_left: 5
-    margin_y: 100
-    width: 40
+    margin_left: '5'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-element 
     color: "#E5F3F0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-3.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 300
-    width: 45
+    margin_right: '5'
+    margin_y: '300'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start 
     color: "#EEEBE6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-4.jpg
-    margin_left: 30
-    margin_right: 25
-    margin_y: 100
-    width: 40
+    margin_left: '30'
+    margin_right: '25'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#C6DC87"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-5.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-element 
     color: "#FFE29A"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-6.jpg
-    margin_right: 15
-    margin_y: 700
-    width: 25
+    margin_right: '15'
+    margin_y: '700'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F2AE73"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/fall-7.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 200
-    width: 60
+    margin_y: '200'
+    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: >-

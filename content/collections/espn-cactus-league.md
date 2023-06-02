@@ -47,33 +47,33 @@ collection_blocks:
   - _bookshop_name: collections/media-element 
     color: "#B1CD6B"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-1.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#F6E483"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-3.jpg
-    margin_left: 5
-    margin_y: 100
-    width: 33
+    margin_left: '5'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element 
     color: "#EEA998"
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-2.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 400
-    width: 40
+    margin_right: '15'
+    margin_y: '400'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#CAD9E2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-4.jpg
-    margin_left: 25
-    margin_y: 100
-    width: 50
+    margin_left: '25'
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
@@ -81,94 +81,94 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-5.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element 
     color: "#FADABF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-6.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 300
-    width: 60
+    margin_y: '300'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#5083E0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-7.jpg
-    margin_left: 50
+    margin_left: '50'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#DDE5F1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-8.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-element 
     color: "#FEE5DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-9.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 300
-    width: 30
+    margin_right: '5'
+    margin_y: '300'
+    width: '30'
   - _bookshop_name: collections/media-element 
     color: "#EA113C"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-10.jpg
-    margin_left: 45
+    margin_left: '45'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#92D09F"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-11.jpg
-    margin_left: 10
-    margin_y: 100
-    width: 60
+    margin_left: '10'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#8CABA5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-12.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 400
-    width: 50
+    margin_y: '400'
+    width: '50'
   - _bookshop_name: collections/media-element 
     color: "#F4DFCE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-13.jpg
-    margin_right: 10
-    margin_y: 100
-    width: 30
+    margin_right: '10'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#B0CB97"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-14.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element 
     color: "#3850A3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-15.jpg
     margin_left: 0
-    margin_right: 20
-    margin_y: 400
-    width: 33
+    margin_right: '20'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element 
     color: "#CDE5F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/cactus-16.jpg
-    margin_left: 10
-    margin_y: 100
-    width: 66
+    margin_left: '10'
+    margin_y: '100'
+    width: '66'
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: _PDN Photo of the Day_

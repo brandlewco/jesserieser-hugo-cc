@@ -21,7 +21,7 @@ blueprint:
   color: ff0000
   show_controls: true
   block_aspect_ratio: 16x9
-  width: 50
+  width: '50'
   align_y: start
   margin_y: 0
   margin_left: 0

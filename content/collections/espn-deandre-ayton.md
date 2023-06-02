@@ -89,19 +89,19 @@ collection_blocks:
     caption: 
     color: "#E1F3DD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-1.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 33
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E1F9FB"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-2.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 400
-    width: 25
+    margin_right: '15'
+    margin_y: '400'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -110,12 +110,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 736015233
-    width: 80
+    width: '80'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -123,10 +123,10 @@ collection_blocks:
     caption: 
     color: "#FBEBD6"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-3.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -137,10 +137,10 @@ collection_blocks:
     image: 
     margin_left: 0
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 736015583
-    width: 33
+    width: '33'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 
@@ -148,11 +148,11 @@ collection_blocks:
     color: ""
     image: 
     margin_left: 0
-    margin_right: 5
-    margin_y: 300
+    margin_right: '5'
+    margin_y: '300'
     show_controls: false
     vimeo_id: 736015552
-    width: 55
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -160,10 +160,10 @@ collection_blocks:
     caption: 
     color: "#F7F7D0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-7.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 200
-    width: 33
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -171,10 +171,10 @@ collection_blocks:
     caption: 
     color: "#E0EFFF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-8.jpg
-    margin_left: 10
+    margin_left: '10'
     margin_right: 0
-    margin_y: 300
-    width: 30
+    margin_y: '300'
+    width: '30'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 
@@ -182,11 +182,11 @@ collection_blocks:
     color: ""
     image: 
     margin_left: 0
-    margin_right: 15
-    margin_y: 100
+    margin_right: '15'
+    margin_y: '100'
     show_controls: false
     vimeo_id: 736015292
-    width: 40
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -194,10 +194,10 @@ collection_blocks:
     caption: 
     color: "#F0E7FF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-9.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 25
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -205,19 +205,19 @@ collection_blocks:
     caption: 
     color: "#D8F9FD"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-10.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#E6FFEA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-11.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 900
-    width: 15
+    margin_right: '5'
+    margin_y: '900'
+    width: '15'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -225,10 +225,10 @@ collection_blocks:
     caption: 
     color: "#E6FBD0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-12.jpg
-    margin_left: 45
+    margin_left: '45'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -238,8 +238,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-14.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
@@ -247,7 +247,7 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/rieser-espn-ayton-13.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 700
-    width: 33
+    margin_y: '700'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 ---

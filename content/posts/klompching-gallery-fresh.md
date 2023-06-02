@@ -61,31 +61,31 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-3.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-5.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-4.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-6.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-2.jpg
-    width: 50
+    width: '50'
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg

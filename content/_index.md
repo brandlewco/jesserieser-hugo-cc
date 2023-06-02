@@ -18,13 +18,13 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 45
+    width: '45'
     align_y: start
-    margin_y: 50
-    margin_left: 40
+    margin_y: '50'
+    margin_left: '40'
     margin_right: 0
-    title_margin_y: 15
-    title_margin_left: -25
+    title_margin_y: '15'
+    title_margin_left: '-25'
     title_margin_right: 0
     text_size: 7xl
     line_height: normal
@@ -41,13 +41,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 100
-    margin_left: 25
+    margin_y: '100'
+    margin_left: '25'
     margin_right: 0
-    title_margin_y: 25
-    title_margin_left: 60
+    title_margin_y: '25'
+    title_margin_left: '60'
     title_margin_right: 0
     text_size: 8xl
     line_height: normal
@@ -66,9 +66,9 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/souvenirs-from-paradise.md
     text_size: 2xl
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
     margin_right: 0
     title: Souvenirs From Paradise Exhibition
@@ -79,13 +79,13 @@ content_blocks:
     theme_color: "#F6E7D1"
     vimeo_block_cover: 769252337
   - _bookshop_name: home/media-feature
-    width: 55
+    width: '55'
     align_y: start
-    margin_y: 400
+    margin_y: '400'
     margin_left: 0
-    margin_right: 5
-    title_margin_y: 15
-    title_margin_left: 10
+    margin_right: '5'
+    title_margin_y: '15'
+    title_margin_left: '10'
     title_margin_right: 0
     text_size: 8xl
     line_height: normal
@@ -102,13 +102,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 60
+    width: '60'
     align_y: start
-    margin_y: 100
-    margin_left: 15
+    margin_y: '100'
+    margin_left: '15'
     margin_right: 0
-    title_margin_y: 50
-    title_margin_left: -25
+    title_margin_y: '50'
+    title_margin_left: '-25'
     title_margin_right: 0
     text_size: 7xl
     line_height: normal
@@ -127,10 +127,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/communication-arts-photography-annual-2022.md
     text_size: 2xl
-    width: 25
+    width: '25'
     align_y: start
-    margin_y: 50
-    margin_left: 5
+    margin_y: '50'
+    margin_left: '5'
     margin_right: 0
     color: '#fcc8cc'
     title: Communication Arts Photography Annual 2022
@@ -140,12 +140,12 @@ content_blocks:
     caption: Antoine’s Escalaras
     theme_color: '#fabdc2'
   - _bookshop_name: home/media-feature
-    width: 40
+    width: '40'
     align_y: start
-    margin_y: 300
+    margin_y: '300'
     margin_left: 0
-    margin_right: 10
-    title_margin_y: 35
+    margin_right: '10'
+    title_margin_y: '35'
     title_margin_left: 0
     title_margin_right: 0
     text_size: 2xl
@@ -163,12 +163,12 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 60
+    width: '60'
     align_y: start
-    margin_y: 400
+    margin_y: '400'
     margin_left: 0
     margin_right: 0
-    title_margin_left: 5
+    title_margin_left: '5'
     title_margin_right: 0
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg
@@ -182,14 +182,14 @@ content_blocks:
     text_tracking: widest
     font_weight: semibold
     line_height: tight
-    title_margin_y: 15
+    title_margin_y: '15'
   - _bookshop_name: home/media-feature
-    width: 25
+    width: '25'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
     margin_right: 0
-    title_margin_y: 10
+    title_margin_y: '10'
     title_margin_left: -55
     title_margin_right: 0
     text_size: 6xl
@@ -209,10 +209,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual.md
     text_size: 2xl
-    width: 15
+    width: '15'
     align_y: start
-    margin_y: 500
-    margin_left: 15
+    margin_y: '500'
+    margin_left: '15'
     margin_right: 0
     title: 'AP 38: American Photography Annual'
     color: "#FFAAAA"
@@ -222,14 +222,14 @@ content_blocks:
     caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
     theme_color: "#F8D9D9"
   - _bookshop_name: home/media-feature
-    width: 40
+    width: '40'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
-    margin_right: 15
-    title_margin_left: 60
+    margin_right: '15'
+    title_margin_left: '60'
     title_margin_right: 0
-    title_margin_y: 30
+    title_margin_y: '30'
     meta_align: right
     attached_collection: collections/phoenix.md
     meta: Torpedo London
@@ -245,13 +245,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 45
+    width: '45'
     align_y: start
-    margin_y: 300
-    margin_left: 20
+    margin_y: '300'
+    margin_left: '20'
     margin_right: 0
-    title_margin_y: 40
-    title_margin_left: 20
+    title_margin_y: '40'
+    title_margin_left: '20'
     title_margin_right: 0
     text_size: 6xl
     line_height: normal
@@ -268,11 +268,11 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/klompching-gallery-fresh.md
     text_size: base
-    width: 20
+    width: '20'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
-    margin_right: 5
+    margin_right: '5'
     title: Fresh
     color: "#DFEFC2"
     block_aspect_ratio: 1x1
@@ -284,10 +284,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
     text_size: 2xl
-    width: 25
+    width: '25'
     align_y: start
-    margin_y: 100
-    margin_left: 5
+    margin_y: '100'
+    margin_left: '5'
     margin_right: 0
     title: xmas
     color: "#FF4B4B"
@@ -297,9 +297,9 @@ content_blocks:
     caption: Washington Post Cover Feature + Interview
     theme_color: "#FF5252"
   - _bookshop_name: home/media-feature
-    width: 50
+    width: '50'
     align_x: start
-    margin_y: 400
+    margin_y: '400'
     image:  https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
@@ -308,8 +308,8 @@ content_blocks:
     margin_x: 0
     align_y: 0
     margin_left: 0
-    margin_right: 10
-    title_margin_left: 5
+    margin_right: '10'
+    title_margin_left: '5'
     title_margin_right:
     meta_align: right
     text_color: "#F7EE81"
@@ -318,16 +318,16 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: 15
+    title_margin_y: '15'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 50
+    width: '50'
     align_y: start
-    margin_y: 300
-    margin_left: 10
+    margin_y: '300'
+    margin_left: '10'
     margin_right: 0
-    title_margin_y: 60
+    title_margin_y: '60'
     title_margin_left: -20
     title_margin_right: 0
     text_size: 6xl
@@ -343,13 +343,13 @@ content_blocks:
     attached_collection: collections/gundemic.md
     text_color: "#7B9DF6"
   - _bookshop_name: home/media-feature
-    width: 30
+    width: '30'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
     margin_right: 0
-    title_margin_y: 25
-    title_margin_left: 5
+    title_margin_y: '25'
+    title_margin_left: '5'
     title_margin_right: 0
     text_size: 6xl
     line_height: normal
@@ -367,9 +367,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/star-geezers-on-boooooom.md
-    width: 25
+    width: '25'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
     margin_right: 0
     title: Star Geezers on BOOOOOOM!
@@ -381,13 +381,13 @@ content_blocks:
     caption: Fisheye Photo Review 2021.22
     theme_color: "#D9F8F4"
   - _bookshop_name: home/media-feature
-    width: 50
+    width: '50'
     align_y: start
-    margin_y: 400
+    margin_y: '400'
     margin_left: 0
-    margin_right: 15
-    title_margin_y: 15
-    title_margin_left: 5
+    margin_right: '15'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: 0
     text_size: 6xl
     line_height: normal
@@ -404,9 +404,9 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 45
+    width: '45'
     align_x: end
-    margin_y: 300
+    margin_y: '300'
     image:  https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
     attached_collection: collections/star-geezers.md
     title: The Star Geezers
@@ -414,9 +414,9 @@ content_blocks:
     meta: "Condor\_Airlines (Germany)"
     margin_x: 0
     align_y: 0
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    title_margin_left: 70
+    title_margin_left: '70'
     title_margin_right: 0
     meta_align: left
     text_color: "#F38EFF"
@@ -425,15 +425,15 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: 15
+    title_margin_y: '15'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-photo-banter.md
     text_size: 6xl
-    width: 15
+    width: '15'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
-    margin_right: 5
+    margin_right: '5'
     title: The Photo Banter
     color: "#0CA5E5"
     block_aspect_ratio: 1x1
@@ -443,12 +443,12 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 30
+    width: '30'
     align_y: start
-    margin_y: 100
-    margin_left: 10
+    margin_y: '100'
+    margin_left: '10'
     margin_right: 0
-    title_margin_y: 15
+    title_margin_y: '15'
     title_margin_left: -20
     title_margin_right: 0
     text_size: 6xl
@@ -464,12 +464,12 @@ content_blocks:
     attached_collection: collections/one-night-in-the-valley.md
     text_color: "#F4CF95"
   - _bookshop_name: home/media-feature
-    width: 40
+    width: '40'
     align_y: start
-    margin_y: 300
+    margin_y: '300'
     margin_left: 0
-    margin_right: 10
-    title_margin_left: 5
+    margin_right: '10'
+    title_margin_left: '5'
     title_margin_right: 0
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-5.jpg
@@ -483,15 +483,15 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: tight
-    title_margin_y: 15
+    title_margin_y: '15'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual-1.md
     text_size: 2xl
-    width: 20
+    width: '20'
     align_y: start
-    margin_y: 50
+    margin_y: '50'
     margin_left: 0
     margin_right: 0
     title: AP 38 Chosen Popular Mechanic
@@ -502,13 +502,13 @@ content_blocks:
     caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
     theme_color: "#FF052B"
   - _bookshop_name: home/media-feature
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 100
-    margin_left: 5
-    margin_right: 5
-    title_margin_y: 15
-    title_margin_left: 5
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '5'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right:
     text_size: 6xl
     line_height: normal
@@ -525,11 +525,11 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual-copy.md
     text_size: 2xl
-    width: 15
+    width: '15'
     align_y: start
-    margin_y: 700
+    margin_y: '700'
     margin_left: 0
-    margin_right: 20
+    margin_right: '20'
     title: BOOOOOOOM Feature
     color: "#FFCFCF"
     block_aspect_ratio: 1x1
@@ -539,13 +539,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 55
+    width: '55'
     align_y: start
-    margin_y: 200
-    margin_left: 15
+    margin_y: '200'
+    margin_left: '15'
     margin_right: 0
-    title_margin_y: 75
-    title_margin_left: 5
+    title_margin_y: '75'
+    title_margin_left: '5'
     title_margin_right: 0
     text_size: 6xl
     line_height: normal
@@ -562,11 +562,11 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/agents-club-22-awards-poetic-documentary.md
     text_size: 2xl
-    width: 10
+    width: '10'
     align_y: start
-    margin_y: 50
+    margin_y: '50'
     margin_left: 0
-    margin_right: 15
+    margin_right: '15'
     title: Agents Club 22 Awards
     color: "#F9B0B0"
     block_aspect_ratio: 5x4
@@ -578,9 +578,9 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-37-american-photography-annual.md
     text_size: 2xl
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 200
+    margin_y: '200'
     margin_left: 0
     margin_right: 0
     title: AP 37
@@ -593,11 +593,11 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/young-guns-19.md
     text_size: 2xl
-    width: 30
+    width: '30'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
-    margin_right: 20
+    margin_right: '20'
     title: YG 19
     color: "#FFE6E6"
     block_aspect_ratio: 16x9
@@ -607,12 +607,12 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 40
+    width: '40'
     align_y: start
-    margin_y: 100
-    margin_left: 10
+    margin_y: '100'
+    margin_left: '10'
     margin_right: 0
-    title_margin_y: 20
+    title_margin_y: '20'
     title_margin_left: -15
     title_margin_right: 0
     text_size: 6xl
@@ -628,13 +628,13 @@ content_blocks:
     text_color: "#FB504B"
     font_weight: semibold
   - _bookshop_name: home/media-feature
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 400
+    margin_y: '400'
     margin_left: 0
-    margin_right: 5
-    title_margin_y: 10
-    title_margin_left: 10
+    margin_right: '5'
+    title_margin_y: '10'
+    title_margin_left: '10'
     title_margin_right: 0
     text_size: 10xl
     line_height: normal
@@ -653,10 +653,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/sunset-spot.md
     text_size: 2xl
-    width: 20
+    width: '20'
     align_y: start
-    margin_y: 700
-    margin_left: 5
+    margin_y: '700'
+    margin_left: '5'
     margin_right: 0
     color: "#DACEEA"
     title: The Sunset Spot at Red Modern
@@ -665,12 +665,12 @@ content_blocks:
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
     theme_color: "#C8B3EB"
   - _bookshop_name: home/media-feature
-    width: 40
+    width: '40'
     align_y: 0
-    margin_y: 300
-    margin_left: 5
+    margin_y: '300'
+    margin_left: '5'
     margin_right: 0
-    title_margin_left: 50
+    title_margin_left: '50'
     title_margin_right:
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-10.jpg
@@ -684,15 +684,15 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: 80
+    title_margin_y: '80'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/2022-spd-awards.md
     text_size: 2xl
-    width: 10
+    width: '10'
     align_y: start
-    margin_y: 100
+    margin_y: '100'
     margin_left: 0
-    margin_right: 10
+    margin_right: '10'
     title: 2022 SPD Awards
     color: "#D2B9ED"
     block_aspect_ratio: 5x4
@@ -702,10 +702,10 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 45
+    width: '45'
     align_y: start
-    margin_y: 100
-    margin_left: 15
+    margin_y: '100'
+    margin_left: '15'
     margin_right: 0
     title_margin_left: -30
     title_margin_right: 0
@@ -721,14 +721,14 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: 75
+    title_margin_y: '75'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-36-american-photography-annual.md
-    width: 15
+    width: '15'
     align_y: start
-    margin_y: 700
+    margin_y: '700'
     margin_left: 0
-    margin_right: 20
+    margin_right: '20'
     title: AP 36
     color: "#D8EBEE"
     text_size: 4xl
@@ -740,12 +740,12 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: 45
+    width: '45'
     align_y: start
-    margin_y: 400
-    margin_left: 25
+    margin_y: '400'
+    margin_left: '25'
     margin_right: 0
-    title_margin_left: 5
+    title_margin_left: '5'
     title_margin_right: 0
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
@@ -759,12 +759,12 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: 15
+    title_margin_y: '15'
   - _bookshop_name: home/modal-blog
-    width: 25
+    width: '25'
     align_x: start
     margin_x: 0
-    margin_y: 50
+    margin_y: '50'
     title: WaPo
     image:
     color: "#fde25e"
@@ -783,10 +783,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-37-american-photography-annual-copy.md
     text_size: 2xl
-    width: 15
+    width: '15'
     align_y: start
-    margin_y: 100
-    margin_left: 15
+    margin_y: '100'
+    margin_left: '15'
     margin_right: 0
     color: "#AAFEBF"
     title: Spotlight Awards
@@ -795,13 +795,13 @@ content_blocks:
     caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: "#BEE8F6"
   - _bookshop_name: home/media-feature
-    width: 55
+    width: '55'
     align_y: start
-    margin_y: 300
+    margin_y: '300'
     margin_left: 0
-    margin_right: 10
-    title_margin_y: 20
-    title_margin_left: 5
+    margin_right: '10'
+    title_margin_y: '20'
+    title_margin_left: '5'
     title_margin_right: 0
     text_size: 6xl
     line_height: normal
@@ -819,10 +819,10 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     attached_blog: posts/christmas-in-america-happy-birthday-jesus.md
-    width: 33
+    width: '33'
     align_y: start
-    margin_y: 100
-    margin_left: 20
+    margin_y: '100'
+    margin_left: '20'
     margin_right: 0
     title: Xmas Roundup
     color: "#C5C458"
@@ -834,11 +834,11 @@ content_blocks:
     theme_color: "#FF0000"
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    width: 20
+    width: '20'
     align_y: start
-    margin_y: 400
+    margin_y: '400'
     margin_left: 0
-    margin_right: 20
+    margin_right: '20'
     title: The Fence
     color: "#EED2D2"
     text_size:

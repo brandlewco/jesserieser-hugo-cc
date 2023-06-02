@@ -46,56 +46,56 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-3.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-5.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-6.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-7.jpg
-    width: 20
+    width: '20'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-8.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-10.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-9.jpg
-    width: 66
+    width: '66'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-11.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-12.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-14.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-13.jpg
-    width: 100
+    width: '100'
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-4.jpg

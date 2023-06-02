@@ -21,7 +21,7 @@ blueprint:
   color: ffffff
   modal_color: ff0000
   text_color: ffffff
-  width: 30
+  width: '30'
   line_height: normal
   text_alignment: left
   text_tracking: normal

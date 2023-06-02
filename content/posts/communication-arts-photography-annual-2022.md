@@ -54,69 +54,69 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-6.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-7.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-8.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-9.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-10.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-12.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-13.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-11.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-19.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-18.jpg
-    width: 60
+    width: '60'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-20.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-21.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-17.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-15.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-14.jpg
-    width: 50
+    width: '50'
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-3.jpg

@@ -72,218 +72,218 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-1.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-2.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-3.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-4.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-5.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-6.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-7.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-8.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-9.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-10.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-11.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-12.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-13.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-14.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-15.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-1.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-2.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-3.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-4.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-5.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-6.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-7.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-8.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-9.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-10.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-11.jpg
-    width: 40
+    width: '40'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-12.jpg
-    width: 20
+    width: '20'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-13.jpg
-    width: 100
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-14.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-15.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-16.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-17.jpg
-    width: 66
+    width: '66'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-18.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-19.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-21.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-22.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-20.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-23.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-24.jpg
-    width: 66
+    width: '66'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-25.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-26.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-27.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-28.jpg
-    width: 25
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-29.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-30.jpg
-    width: 50
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-31.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-32.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-33.jpg
-    width: 33
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/souvenirs-34.jpg
-    width: 100
+    width: '100'
 blog_slider:
   - _bookshop_name: posts/media-motion-id
     show_controls: false

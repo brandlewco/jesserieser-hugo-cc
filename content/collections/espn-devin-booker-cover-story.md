@@ -66,21 +66,21 @@ collection_blocks:
     caption: 
     color: "#D7D7D7"
     image:  
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 0510464600
-    width: 40
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#EDD7B2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    margin_left: 30
+    margin_left: '30'
     margin_right: 0
-    margin_y: 100
-    width: 66
+    margin_y: '100'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -88,19 +88,19 @@ collection_blocks:
     caption: 
     color: "#E2CFEF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#CDF3EC"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
     margin_left: 0
-    margin_right: 15
-    margin_y: 400
-    width: 33
+    margin_right: '15'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -108,10 +108,10 @@ collection_blocks:
     caption: 
     color: "#F9D5D3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 50
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -121,8 +121,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 30
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
@@ -130,8 +130,8 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 400
-    width: 60
+    margin_y: '400'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -141,17 +141,17 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 50
-    width: 50
+    margin_y: '50'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#FFE5C9"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 500
-    width: 40
+    margin_right: '5'
+    margin_y: '500'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -159,10 +159,10 @@ collection_blocks:
     caption: 
     color: "#EBD1EF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
-    margin_left: 35
+    margin_left: '35'
     margin_right: 0
-    margin_y: 100
-    width: 40
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -170,10 +170,10 @@ collection_blocks:
     caption: 
     color: "#CEF8E1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
-    width: 60
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -181,10 +181,10 @@ collection_blocks:
     caption: 
     color: "#F9D4C0"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
-    margin_left: 40
+    margin_left: '40'
     margin_right: 0
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -192,19 +192,19 @@ collection_blocks:
     caption: 
     color: "#F4D4D3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 300
-    width: 40
+    margin_y: '300'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#C2F4F4"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
     margin_left: 0
-    margin_right: 10
-    margin_y: 100
-    width: 30
+    margin_right: '10'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -213,12 +213,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 40
+    margin_left: '40'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 0515559092
-    width: 33
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -226,10 +226,10 @@ collection_blocks:
     caption: 
     color: "#ECD8F3"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-20.jpg
-    margin_left: 20
+    margin_left: '20'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -239,17 +239,17 @@ collection_blocks:
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg
     margin_left: 0
     margin_right: 0
-    margin_y: 100
-    width: 55
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#F6F4D2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 700
-    width: 33
+    margin_right: '5'
+    margin_y: '700'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -257,10 +257,10 @@ collection_blocks:
     caption: 
     color: "#CFF7F2"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 100
-    width: 70
+    margin_y: '100'
+    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -268,10 +268,10 @@ collection_blocks:
     caption: 
     color: "#F0D0CF"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    margin_left: 25
+    margin_left: '25'
     margin_right: 0
-    margin_y: 100
-    width: 45
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -280,12 +280,12 @@ collection_blocks:
     caption: 
     color: ""
     image: 
-    margin_left: 5
+    margin_left: '5'
     margin_right: 0
-    margin_y: 100
+    margin_y: '100'
     show_controls: false
     vimeo_id: 515559208
-    width: 80
+    width: '80'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -297,25 +297,25 @@ collection_blocks:
     font_weight: normal
     image: 
     image_css: 
-    margin_left: 15
+    margin_left: '15'
     margin_right: 0
-    margin_y: 300
+    margin_y: '300'
     parallax: true
     text: Written By Michael Willbon
     text_alignment: left
     text_color: ""
     text_size: 4xl
     text_tracking: normal
-    width: 30
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:  
     caption: 
     color: "#F4ECCE"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-19.jpg
     margin_left: 0
-    margin_right: 5
-    margin_y: 100
-    width: 50
+    margin_right: '5'
+    margin_y: '100'
+    width: '50'
   - _bookshop_name: collections/media-row-end
 collection_press:
   - content: |-

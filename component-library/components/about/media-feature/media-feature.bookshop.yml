@@ -20,7 +20,7 @@ blueprint:
   meta: "meta"
   attached_collection:
   image: /images/hero/hero-image-2.png
-  width: 40
+  width: '40'
   margin_y: 0
   margin_left: 0
   margin_right: 0
@@ -60,43 +60,6 @@ _inputs:
         - start
         - center
         - end
-  width:
-    type: range
-    options:
-      step: 10
-      max: 100
-      min: 0
-  title_margin_left:
-    type: range
-    options:
-      step: 5
-      max: 100
-      min: 0
-  title_margin_right:
-    type: range
-    options:
-      step: 5
-      max: 100
-      min: 0
-  margin_left:
-    type: range
-    options:
-      step: 5
-      max: 100
-      min: 0
-  margin_right:
-    type: range
-    options:
-      step: 5
-      max: 100
-      min: 0
-  margin_y:
-    label: Margin Top
-    type: range
-    options:
-      step: 50
-      max: 1000
-      min: -50
   caption:
     type: text
   color: 

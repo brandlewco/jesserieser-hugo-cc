@@ -18,7 +18,7 @@ blueprint:
   text_alignment: left
   text_tracking: normal
   font_weight: normal
-  width: 50
+  width: '50'
   align_y: start
   margin_y: 0
   margin_left: 0

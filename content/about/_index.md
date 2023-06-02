@@ -68,20 +68,20 @@ about_blocks:
     row_alignment: between
   - _bookshop_name: about/modal-list
     block: modal-list
-    width: 30
+    width: '30'
     align_x: start
-    margin_y: 800
-    margin_left: 15
+    margin_y: '800'
+    margin_left: '15'
     margin_right: 0
     title_margin_left: -30
-    margin_x: 5
+    margin_x: '5'
     align_y: 0
     title_margin_right:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     title: Exhibitions
     color: '#77ddd4'
     meta: My dad & I, © Rob Rieser
-    title_margin_y: 15
+    title_margin_y: '15'
     text_color: '#ffe42d'
     text_size: 7xl
     line_height:
@@ -360,20 +360,20 @@ about_blocks:
         url:
   - _bookshop_name: about/modal-list
     block: modal-list
-    width: 40
+    width: '40'
     align_x: start
     margin_y: 0
     margin_left: 0
     margin_right: 0
-    title_margin_left: -25"
+    title_margin_left: '-25'
     image:  https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
     color: "#FFDA8A"
-    margin_x: 5
+    margin_x: '5'
     align_y: 0
     title_margin_right:
     meta: 1984. © Rob Rieser
-    title_margin_y: 35
+    title_margin_y: '35'
     text_color: "#79B3FF"
     text_size: 8xl
     line_height:
@@ -714,10 +714,10 @@ about_blocks:
     row_alignment: center
   - _bookshop_name: about/media-text
     text_tracking: widest
-    width: 40
+    width: '40'
     align_y: start
-    margin_y: 200
-    margin_left: 10
+    margin_y: '200'
+    margin_left: '10'
     margin_right: 0
     background_color: "#FF6A5A
     text: >-
@@ -749,20 +749,20 @@ about_blocks:
     row_alignment: between
   - _bookshop_name: about/modal-list
     block: modal-list
-    width: 25
+    width: '25'
     align_x: start
-    margin_y: 50
-    margin_left: 20
+    margin_y: '50'
+    margin_left: '20'
     margin_right: 0
     title_margin_left: -35
-    margin_x: 5
+    margin_x: '5'
     align_y: 0
     title_margin_right:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
     color: "#DDC4E7"
     meta: © Nicky Hedyatzadeh
-    title_margin_y: 30
+    title_margin_y: '30'
     text_color: "#9DFD7C
     text_size:
     line_height:
@@ -1101,18 +1101,18 @@ about_blocks:
         url:
   - _bookshop_name: about/modal-list
     block: modal-list
-    width: 45
+    width: '45'
     align_y: start
-    margin_y: 600
+    margin_y: '600'
     margin_left: 0
     margin_right: 0
-    title_margin_left: 5
+    title_margin_left: '5'
     title_margin_right: 0
     title: Clients
     color: '#d5e3f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-13.jpg
     meta: Ben Simmons for Smart Water & Anomaly NY. © Dayvid Lemmon
-    title_margin_y: 10
+    title_margin_y: '10'
     text_color: '#fab7ed'
     text_size: 7xl
     line_height:
