@@ -1,6 +1,15 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: Golf Digest
+collection_meta: 'Your Longest Year Ever Cover Story '
+collection_meta_2: Featuring Cameron Young
+collection_description: >-
+  PGA Tour Rookie of the Year Cam Young shares his prime moves to help you
+  blister the ball.&nbsp;
+collection_description_alignment: center
 slug: golfdigest-camyoung
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -8,12 +17,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#e1f3dD"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
+    color: '#e1f3dd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -21,15 +30,15 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
     margin_left: '0'
     margin_right: '10'
-    margin_y: '1000'
+    margin_y: '800'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#fbebd6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
+    color: '#fbebd6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
     margin_left: '45'
     margin_right: '0'
     margin_y: '100'
@@ -50,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#ffd9cF"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
+    color: '#ffd9cF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
@@ -110,12 +119,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-vert-1.jpg
-collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: 
-collection_description_alignment: center
-collection_description: >-
-  As big leaguers fight with owners about labor issues, minor leaguers like Jack
-  Kruger are getting ready for another season of long bus rides and longer odds.
 collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
@@ -125,7 +128,7 @@ collection_category:
   - Sports + Athletes
 date: 2019-05-01T07:00:00Z
 theme_color: '#ffbdd6'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
@@ -134,16 +137,11 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-2.jpg
 collection_awards: []
 collection_press: []
 collection_archive: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
