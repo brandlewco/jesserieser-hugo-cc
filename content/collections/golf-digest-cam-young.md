@@ -17,12 +17,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#e1f3dD'
+    color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -30,7 +30,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
     margin_left: '0'
     margin_right: '10'
-    margin_y: '1000'
+    margin_y: '800'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
