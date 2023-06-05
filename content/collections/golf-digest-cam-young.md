@@ -5,10 +5,10 @@ seo:
   meta_title: Placeholder Title
 title: Golf Digest
 collection_meta: 'Your Longest Year Ever Cover Story '
-collection_meta_2: Featuring Cam Johnson
+collection_meta_2: Featuring Cam Young
 collection_description: >-
-  As big leaguers fight with owners about labor issues, minor leaguers like Jack
-  Kruger are getting ready for another season of long bus rides and longer odds.
+  PGA Tour Rookie of the Year Cam Young shares his prime moves to help you
+  blister the ball.&nbsp;
 collection_description_alignment: center
 slug: golfdigest-camyoung
 collection_blocks:
@@ -137,11 +137,6 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rent_4x3-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/minors_4x3-2.jpg
 collection_awards: []
 collection_press: []
 collection_archive: false
