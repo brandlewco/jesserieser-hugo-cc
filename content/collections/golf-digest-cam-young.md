@@ -4,8 +4,8 @@ seo:
   meta_description: Placeholder Description
   meta_title: Placeholder Title
 title: Golf Digest
-collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: '2023'
+collection_meta: 'Your Longest Year Ever Cover Story '
+collection_meta_2: Featuring Cam Johnson
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
   Kruger are getting ready for another season of long bus rides and longer odds.
