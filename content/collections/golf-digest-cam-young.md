@@ -5,7 +5,7 @@ seo:
   meta_title: Placeholder Title
 title: Golf Digest
 collection_meta: 'Your Longest Year Ever Cover Story '
-collection_meta_2: Featuring Cam Young
+collection_meta_2: Featuring Cameron Young
 collection_description: >-
   PGA Tour Rookie of the Year Cam Young shares his prime moves to help you
   blister the ball.&nbsp;
