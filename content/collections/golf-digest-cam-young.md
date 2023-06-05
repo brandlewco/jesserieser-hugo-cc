@@ -1,6 +1,15 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: Golf Digest
+collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
+collection_meta_2: '2023'
+collection_description: >-
+  As big leaguers fight with owners about labor issues, minor leaguers like Jack
+  Kruger are getting ready for another season of long bus rides and longer odds.
+collection_description_alignment: center
 slug: golfdigest-camyoung
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -8,8 +17,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#e1f3dD"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
+    color: '#e1f3dD'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
@@ -28,8 +37,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#fbebd6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
+    color: '#fbebd6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
     margin_left: '45'
     margin_right: '0'
     margin_y: '100'
@@ -50,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: "#ffd9cF"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
+    color: '#ffd9cF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
@@ -110,12 +119,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/cam_cover-vert-1.jpg
-collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: 
-collection_description_alignment: center
-collection_description: >-
-  As big leaguers fight with owners about labor issues, minor leaguers like Jack
-  Kruger are getting ready for another season of long bus rides and longer odds.
 collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
@@ -125,7 +128,7 @@ collection_category:
   - Sports + Athletes
 date: 2019-05-01T07:00:00Z
 theme_color: '#ffbdd6'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
