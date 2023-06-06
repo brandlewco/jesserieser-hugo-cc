@@ -1,5 +1,6 @@
 ---
 collection_sorter:
+  - collections/golf-digest-cam-young.md
   - collections/bloomberg-nomads.md
   - collections/time-kari-lake.md
   - collections/barrons-lake-mead-drought.md
