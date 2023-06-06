@@ -129,7 +129,7 @@ collection_category:
   - Color
   - Sports + Athletes
 date: 2019-05-01T07:00:00Z
-theme_color: '#ffbdd6'
+theme_color: '#ffec7c'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
