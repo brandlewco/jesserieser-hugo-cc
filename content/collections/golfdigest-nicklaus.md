@@ -18,7 +18,7 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#e1f3dd'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
