@@ -6,8 +6,10 @@ seo:
 title: Golf Digest
 collection_meta: Jack Vs. Nicklaus
 collection_meta_2:
-collection_description: The Inside Story of Jack Nicklaus’ Legal Battle Against His Own Company”
-collection_description_alignment: left
+collection_description: >-
+  The Inside Story of Jack Nicklaus’ Legal Battle Against His Own Company.
+  Written by Jeffrey Toobin
+collection_description_alignment: center
 slug: golfdigest-nicklaus
 collection_blocks:
   - _bookshop_name: collections/media-row-start
