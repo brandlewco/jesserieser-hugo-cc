@@ -1,6 +1,17 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: Wine Enthusiast
+collection_meta: The Evolution of Marcus Stroman
+collection_meta_2: '2023'
+collection_description: >-
+  *The Rise of Devin Booker: Kobe mentored him. Chris Paul challenged him. Now
+  the Phoenix Suns Guard is on a quest to become legendary.* Go
+  [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-booker)
+  to read Michael Willbon's profile on Devin Booker.
+collection_description_alignment: left
 slug: wine-stroman
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -173,14 +184,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wine-stroman_cover-vert-1.jpg
-collection_meta: The Evolution of Marcus Stroman
-collection_meta_2: 
-collection_description_alignment: left
-collection_description: >-
-  _The Rise of Devin Booker: Kobe mentored him. Chris Paul challenged him. Now
-  the Phoenix Suns Guard is on a quest to become legendary._ Go
-  [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-booker)
-  to read Michael Willbon's profile on Devin Booker. 
 collection_filter: Commissioned + Stock
 collection_category:
   - Studio
@@ -191,7 +194,7 @@ collection_category:
   - Portraits
 date: 2019-05-01T07:00:00Z
 theme_color: '#eac5bf'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
