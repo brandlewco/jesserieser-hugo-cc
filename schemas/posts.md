@@ -3,6 +3,7 @@ title: Adidas Basketball
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
+  - _bookshop_name: posts/media-row-end
 blog_slider:
 attached_collection: collections/vanishing-folklore.md
 attached_link: ""

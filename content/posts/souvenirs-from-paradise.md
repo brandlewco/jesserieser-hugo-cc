@@ -69,6 +69,8 @@ seo:
     Changing Landscape of American Retail
   meta_title: Souvenirs From Paradise at the Gallery at Mountain Shadows
 post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-1.jpg

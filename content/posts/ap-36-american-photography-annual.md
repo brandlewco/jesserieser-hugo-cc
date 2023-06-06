@@ -110,6 +110,7 @@ post_blocks:
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-12.jpg
     width: '100'
+  - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1-3.jpg

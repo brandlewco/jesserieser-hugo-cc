@@ -12,7 +12,7 @@
   {{.image }}?width=1440 1440w,
   {{.image }}?width=1920 1920w,
   {{.image }}?width=2560 2560w"
-      class="{{ if site.Params.env_bookshop_live }}{{else}}{{with .delay }}{{.}}{{else}}lazyload-delay{{end}}{{end}} h-full object-contain z-0"
+      class="{{ if site.Params.env_bookshop_live }}{{else}}lazyload-delay{{end}} h-full object-contain z-0"
       alt="{{ .caption }}"
     />
   </figure>

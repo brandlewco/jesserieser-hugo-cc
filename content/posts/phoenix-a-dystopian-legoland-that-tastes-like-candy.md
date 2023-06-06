@@ -33,6 +33,8 @@ news_category:
 theme_color: "#B2E9D4"
 title: "Phoenix: A Dystopian Legoland That Tastes Like Candy"
 post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-5.jpg

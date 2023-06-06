@@ -68,6 +68,8 @@ news_category:
 theme_color: "#B9F1A8"
 title: Young Guns 19
 post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_Y.jpg

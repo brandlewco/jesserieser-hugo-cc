@@ -58,6 +58,8 @@ seo:
   meta_description: 
   meta_title: 
 post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-3.jpg
