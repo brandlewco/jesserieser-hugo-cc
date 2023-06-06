@@ -1,6 +1,19 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
 title: People
+collection_meta: 1 Year After Uvalde
+collection_meta_2: '2023'
+collection_description: >-
+  The scarcity of fresh water is rapidly emerging as a global economic threat
+  that could disrupt businesses, crimp profits, and jeopardize growth.
+
+
+  This photographic essay features the receding waters of Lake Mead while
+  exploring how companies, regulators, and investors are starting to react.
+collection_description_alignment: center
 slug: people-uvalde
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -10,10 +23,10 @@ collection_blocks:
     caption:
     color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -24,16 +37,16 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-3.jpg
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     margin_y: '400'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -44,7 +57,7 @@ collection_blocks:
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -52,7 +65,7 @@ collection_blocks:
     caption:
     color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-5.jpg
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     width: '60'
@@ -86,14 +99,14 @@ collection_blocks:
     margin_left: '10'
     margin_right: '10'
     margin_y: '100'
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#f9d1bc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-9.jpg
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -103,21 +116,10 @@ collection_blocks:
     caption:
     color: '#cce3fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-10.jpg
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#d0f1f0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-11.jpg
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -125,10 +127,21 @@ collection_blocks:
     caption:
     color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-12.jpg
-    margin_left: '20'
+    margin_left: '5'
     margin_right: '0'
+    margin_y: '300'
+    width: '50'
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#d0f1f0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-11.jpg
+    margin_left: '0'
+    margin_right: '5'
     margin_y: '100'
-    width: '60'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -136,10 +149,23 @@ collection_blocks:
     caption:
     color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-13.jpg
-    margin_left: '5'
+    margin_left: '40'
     margin_right: '0'
-    margin_y: '200'
-    width: '40'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 833488651
+    text: caption
+    color: '#ff0000'
+    show_controls: true
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -149,8 +175,6 @@ collection_blocks:
     margin_right: '10'
     margin_y: '700'
     width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -199,16 +223,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/uvalde-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/uvalde-cover-vert-1.jpg
-collection_meta: 1 Year After Uvalde
-collection_meta_2: 
-collection_description_alignment: center
-collection_description: >-
-  The scarcity of fresh water is rapidly emerging as a global economic threat
-  that could disrupt businesses, crimp profits, and jeopardize growth. 
-
-
-  This photographic essay features the receding waters of Lake Mead while
-  exploring how companies, regulators, and investors are starting to react.
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
@@ -221,7 +235,7 @@ collection_category:
   - Portraits
 date: 2019-05-01T07:00:00Z
 theme_color: '#fdcdcd'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
