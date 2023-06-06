@@ -50,6 +50,7 @@ collection_pager:
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/espn-ryan-resch.md
+  - collections/wine-enthusiast.md
   - collections/the-new-york-times-tj-newman.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
@@ -90,6 +91,7 @@ collection_pager:
   - collections/collections-fisher-price.md
   - collections/collections-fred-kerley-copy.md
   - collections/the-class-of-99-turns-30.md
+  - collections/smithsonian.md
 filter:
   - Personal
   - Commissioned + Stock
