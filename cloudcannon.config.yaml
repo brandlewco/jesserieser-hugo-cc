@@ -267,6 +267,8 @@ _inputs:
         - '95'
         - '100'
         - '0'
+  vimeo_block_cover:
+    type: number
   caption:
     type: text
   color: 
