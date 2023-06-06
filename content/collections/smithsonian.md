@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description: Placeholder Description
   meta_title: Placeholder Title
-title: Kitt
+title: aaaa
 collection_meta: Kitt Peak National Observatory
 collection_meta_2: '2023'
 collection_description: >-
