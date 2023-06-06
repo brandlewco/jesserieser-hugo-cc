@@ -280,7 +280,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
+    margin_y: '200'
     width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -290,10 +290,10 @@ collection_blocks:
     caption: ''
     color: '#d8e9ba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
-    margin_left: '40'
+    margin_left: '55'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -304,7 +304,7 @@ collection_blocks:
     caption: ''
     color: '#ffebda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '55'
