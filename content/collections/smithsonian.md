@@ -3,17 +3,16 @@ _schema: default
 seo:
   meta_description: Placeholder Description
   meta_title: Placeholder Title
-title: Smithsonian
-collection_meta: Kitt Peak
-collection_meta_2: 'test '
+title: Smithsonian Magazine
+collection_meta: Kitt Peak National Observatory
+collection_meta_2:
 collection_description: >-
-  Meet the Americans who live in their vans, buses and cars in pursuit of a
-  simpler life using less energy.
+  Astronomer and Data Scientist Dr. Stéphanie Juneau at Kitt Peak National
+  Observatory.
 
 
-  Seen here is Bob Wells, a central figure in the 2020 Best Picture “Nomadland”
-  and Ma Terry Storzieri, a character study for Frances McDormand’s role as
-  “Fern."
+  Juneau works on the DESI (Dark Energy Spectroscopic Instrument) project,
+  measuring the effect of dark energy on the expansion of the Universe.
 collection_description_alignment: center
 slug: smithsonian-kittpeak
 collection_blocks:
@@ -316,19 +315,24 @@ collection_category:
   - Tech
   - Science
   - Reportage
-  - Climate Change
   - Portraits
   - Environments
+  - Color
 date: 2019-05-01T07:00:00Z
 theme_color: '#f4e399'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad4x3-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-9.jpg
 collection_awards: []
 collection_press: []
 collection_archive: false
