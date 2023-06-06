@@ -4,6 +4,7 @@ collection_sorter:
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
+  - collections/smithsonian.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
