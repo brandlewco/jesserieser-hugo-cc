@@ -11,8 +11,8 @@ collection_sorter:
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
-  - collections/gundemic.md
   - collections/vox-100-battles-ghost-towns.md
+  - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/star-geezers.md
