@@ -2,7 +2,7 @@
 collection_sorter:
   - collections/golf-digest-cam-young.md
   - collections/bloomberg-nomads.md
-  - collections/time-kari-lake.md
+  - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
@@ -15,6 +15,7 @@ collection_sorter:
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
+  - collections/time-kari-lake.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/outside-magazine-rob-krar.md
