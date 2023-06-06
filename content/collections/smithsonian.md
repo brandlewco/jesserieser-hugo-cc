@@ -328,10 +328,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-7.jpg
