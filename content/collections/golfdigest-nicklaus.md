@@ -1,6 +1,13 @@
 ---
 _schema: default
-title: Nicklaus
+seo:
+  meta_description: Placeholder Description
+  meta_title: Placeholder Title
+title: Golf Digest
+collection_meta: Jack Vs. Nicklaus
+collection_meta_2:
+collection_description: The Inside Story of Jack Nicklaus’ Legal Battle Against His Own Company”
+collection_description_alignment: left
 slug: golfdigest-nicklaus
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -79,10 +86,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
-collection_meta: Jack Vs. Nicklaus
-collection_meta_2: 
-collection_description_alignment: left
-collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
 collection_filter: Commissioned + Stock
 collection_category:
   - Studio
@@ -91,7 +94,7 @@ collection_category:
   - Portraits
 date: 2019-05-01T07:00:00Z
 theme_color: '#cefae5'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-24.jpg
 collection_preview:
