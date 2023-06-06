@@ -33,13 +33,11 @@
         >
           {{ .Params.content | markdownify }}
         </div>
-        <section
-          class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}"
-        >
+        <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
           {{ partial "bookshop_bindings" `.Params.post_blocks` }}
           {{ partial "bookshop_partial" (slice "page" .Params.post_blocks) (dict "color"
           .Params.theme_color "delay" "lazyload")}}
-        </section>
+        </div>
       </section>
     </div>
   </section>

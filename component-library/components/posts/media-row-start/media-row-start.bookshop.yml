@@ -3,7 +3,6 @@ spec:
   structures:
     - post_blocks
   label: Collection Top
-  description: Media row
   icon: "vertical_align_top"
   tags: ["collection"]
 

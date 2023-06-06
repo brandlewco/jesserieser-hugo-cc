@@ -1,9 +1,8 @@
 # Metadata about this component, to be used in the CMS
 spec:
   structures:
-    - collection_blocks
+    - post_blocks
   label: Collection End
-  description: Media row
   icon: "vertical_align_bottom"
   tags: ["collection"]
 
