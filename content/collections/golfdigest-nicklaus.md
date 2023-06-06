@@ -93,7 +93,7 @@ collection_category:
   - Color
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#cefae5'
+theme_color: '#9ec487'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-24.jpg
