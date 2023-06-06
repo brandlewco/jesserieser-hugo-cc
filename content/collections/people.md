@@ -219,7 +219,7 @@ collection_category:
   - Portraits
   - Motion
 date: 2019-05-01T07:00:00Z
-theme_color: '#95f7b8'
+theme_color: '#aae9c0'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
