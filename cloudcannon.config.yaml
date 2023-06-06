@@ -11,7 +11,7 @@ collections_config:
     preview:
       gallery:
         image:
-          - key: collection_cover
+          - key: collection_cover + "?height=1080"
         fit: cover
       text:
         - key: title
