@@ -64,8 +64,6 @@ collection_blocks:
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -176,20 +174,22 @@ collection_blocks:
     caption: ''
     color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-14.jpg
-    margin_left: '10'
+    margin_left: '25'
     margin_right: ''
     margin_y: '100'
-    width: '40'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-15.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '40'
+    margin_left: '35'
+    margin_right: '0'
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -198,10 +198,10 @@ collection_blocks:
     caption: ''
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-16.jpg
-    margin_left: '30'
+    margin_left: '15'
     margin_right: ''
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -209,18 +209,64 @@ collection_blocks:
     color: '#cce1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-17.jpg
     margin_left: '0'
-    margin_right: ''
+    margin_right: '25'
     margin_y: '300'
-    width: '33'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#ede5dE'
+    color: '#ede5de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-18.jpg
-    margin_left: '40'
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#daf0d5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '600'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#d8f3f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
+    margin_left: '5'
+    margin_right: ''
+    margin_y: '500'
+    width: '33'
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#fbc1a2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
+    margin_left: '0'
+    margin_right: '10'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#eddaf0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '50'
@@ -230,84 +276,38 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#daf0d5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-19.jpg
-    margin_left: '10'
+    color: '#f6f1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '66'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#d8e9ba'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d8f3f3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-20.jpg
-    margin_left: '30'
-    margin_right: ''
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#fbc1a2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-21.jpg
-    margin_left: '50'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#eddaf0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-22.jpg
-    margin_left: '35'
-    margin_right: '10'
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#f6f1d0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d8e9bA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-24.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '400'
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#ffebdA'
+    color: '#ffebda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-25.jpg
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
-    margin_y: '400'
-    width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
