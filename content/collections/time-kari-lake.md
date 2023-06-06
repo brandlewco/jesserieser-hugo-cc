@@ -6,8 +6,14 @@ seo:
 title: Time Magazine
 collection_meta: How Kari Lake Went From Local Anchor
 collection_meta_2: to New Face of the Maga Right
-collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
-collection_description_alignment: left
+collection_description: >-
+  Lake has parlayed what may matter most in today’s Republican Party—the ability
+  to captivate an audience—into a startling political ascent.
+
+
+  Election results show her locked in a dead heat with Democrat Katie Hobbs in
+  the race to lead a key battleground state.
+collection_description_alignment: center
 slug: time-lake
 collection_blocks:
   - _bookshop_name: collections/media-row-start
