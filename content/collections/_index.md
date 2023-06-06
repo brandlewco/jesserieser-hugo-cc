@@ -13,6 +13,7 @@ collection_sorter:
   - collections/gundemic.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/wired-gunsite.md
+  - collections/people.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/outside-magazine-rob-krar.md
@@ -64,5 +65,4 @@ collection_sorter:
   - collections/collections-fisher-price.md
   - collections/collections-fred-kerley-copy.md
   - collections/the-class-of-99-turns-30.md
-
 ---
