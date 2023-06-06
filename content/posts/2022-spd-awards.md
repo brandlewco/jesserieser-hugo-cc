@@ -44,6 +44,8 @@ seo:
   meta_description: 
   meta_title: 
 post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-3.jpg
@@ -92,6 +94,7 @@ post_blocks:
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-13.jpg
     width: '50'
+  - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-2.jpg
