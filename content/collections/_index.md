@@ -26,6 +26,7 @@ collection_sorter:
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/espn-ryan-resch.md
+  - collections/wine-enthusiast.md
   - collections/the-new-york-times-tj-newman.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
