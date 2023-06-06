@@ -18,7 +18,7 @@ collection_description: >-
   the world Dustin Johnson, rising star Xander Schauffele (he became the first
   ever rookie to win the tour championship in 2017) and long time tour favorite
   and 2017 Masters Champion, Sergio Garcia.
-collection_description_alignment: center
+collection_description_alignment: left
 slug: adidas-golf-adicross
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -301,7 +301,7 @@ collection_press:
 collection_archive: false
 collection_hidden: false
 hide_footer: true
-navigation_theme: black
+navigation_theme: white
 px_extra: true
 row_alignment:
 ---
