@@ -86,7 +86,7 @@ post_blocks:
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-16.jpg
     width: '100'
-  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-1.jpg

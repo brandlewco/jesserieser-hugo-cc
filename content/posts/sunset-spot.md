@@ -170,6 +170,7 @@ post_blocks:
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
     width: '100'
+  - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-motion-id
     show_controls: false-id

@@ -97,6 +97,7 @@ post_blocks:
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
     width: '33'
+  - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-2.jpg

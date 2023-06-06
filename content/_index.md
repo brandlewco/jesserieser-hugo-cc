@@ -307,7 +307,6 @@ content_blocks:
     color: "#FF4B4B"
     block_aspect_ratio: 2x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
-    post_blocks: []
     caption: Washington Post Cover Feature + Interview
     theme_color: "#FF5252"
   - _bookshop_name: home/media-feature
