@@ -4,15 +4,12 @@ seo:
   meta_description: Placeholder Description
   meta_title: Placeholder Title
 title: People
-collection_meta: 1 Year After Uvalde
-collection_meta_2: '2023'
+collection_meta: Missing Layla
+collection_meta_2: Uvalde Mass Shooting One Year Later
 collection_description: >-
-  The scarcity of fresh water is rapidly emerging as a global economic threat
-  that could disrupt businesses, crimp profits, and jeopardize growth.
-
-
-  This photographic essay features the receding waters of Lake Mead while
-  exploring how companies, regulators, and investors are starting to react.
+  Their 11-year-old 4th Grader was one of 21 victims killed at Robb Elementary
+  School last May. The Salazar family are still feeling pain so raw it’s hard to
+  move on.
 collection_description_alignment: center
 slug: people-uvalde
 collection_blocks:
@@ -225,7 +222,7 @@ collection_category:
   - Environments
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#fdcdcd'
+theme_color: '#fff396'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
