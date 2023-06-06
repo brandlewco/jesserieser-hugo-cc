@@ -3,15 +3,15 @@ _schema: default
 seo:
   meta_description: Placeholder Description
   meta_title: Placeholder Title
-title: Wine Enthusiast
+title: Enthusiast
 collection_meta: The Evolution of Marcus Stroman
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
-  *The Chicago Cubs pitcher on defining himself beyond baseball.*
+  The Chicago Cubs pitcher on defining himself beyond baseball.
 
 
-  *Now that he is entering his 10th season, Stroman is the veteran traveling
-  with bottles, always willing to share with the rookies.&nbsp;*
+  Now that he is entering his 10th season, Stroman is the veteran traveling with
+  bottles, always willing to share with the rookies.&nbsp;
 collection_description_alignment: center
 slug: wine-stroman
 collection_blocks:
