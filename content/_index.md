@@ -825,8 +825,8 @@ content_blocks:
     title: The New York Times
     meta: America is Reopening. This is What it Looks Like
     attached_collection: collections/the-new-york-times-1.md
-    color: '#FDD3D3'
-    text_color: '#81FF6E'
+    color: '#fdd3d3'
+    text_color: '#81ff6e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
@@ -881,7 +881,7 @@ content_blocks:
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: normal
+    font_weight: semibold
     meta_align: center
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
