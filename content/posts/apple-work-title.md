@@ -2,7 +2,7 @@
 attached_collection: 
 attached_link: 
 attached_link_text: View Full Project
-block_aspect_ratio: ratio-1x1
+block_aspect_ratio: aspect-1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
 post_blocks:
   - _bookshop_name: posts/media-row-start

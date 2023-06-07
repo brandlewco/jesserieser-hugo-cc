@@ -73,11 +73,11 @@ content_blocks:
     margin_right: '0'
     title: Souvenirs From Paradise Exhibition
     color: '#F3D7D7'
-    block_aspect_ratio: 16x9
+    block_aspect_ratio: "16x9"
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
     caption: The Gallery at Mountain Shadows
     theme_color: '#F6E7D1'
-    vimeo_block_cover: 769252337
+    vimeo_block_cover: "769252337"
   - _bookshop_name: home/media-feature
     width: '55'
     align_y: start
@@ -342,7 +342,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '60'
-    title_margin_left: -20
+    title_margin_left: '-20'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -777,13 +777,13 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     width: '25'
     align_x: start
-    margin_x: 0
+    margin_x: '0'
     margin_y: '50'
     title: WaPo
     image:
     color: '#fde25e'
     attached_blog: posts/the-changing-landscape-of-america-retail.md
-    align_y: 0
+    align_y: '0'
     margin_left: '0'
     margin_right: '0'
     text_size:

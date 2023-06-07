@@ -70,7 +70,7 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     show_controls: false
-    vimeo_id: 0510464600
+    vimeo_id: 510464600
     width: '40'
   - _bookshop_name: collections/media-element
     align_y:  

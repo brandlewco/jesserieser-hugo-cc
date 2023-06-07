@@ -1,7 +1,7 @@
 ---
 attached_collection: collections/retail.md
 attached_link: 
-block_aspect_ratio: ratio-1x1
+block_aspect_ratio: aspect-1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
 blog_header: 
 caption: The Changing Landscape of American Retail September 9 - October 10 

@@ -848,7 +848,7 @@ footer a {
   .title-alignment {
     transform: translate3d(0, -45vh, 0);
   } */
-  /* .border-box {
+  .border-box {
     box-sizing: border-box;
   }
   .content-box {
@@ -868,8 +868,8 @@ footer a {
   }
   .vh-66 {
     height: 66vh;
-  } */
-  /* .vh-75 {
+  } 
+  .vh-75 {
     height: 75vh;
   }
   .vh-80 {
@@ -880,7 +880,7 @@ footer a {
   }
   .vh-screen {
     height: 100vh;
-  } */
+  }
   .rellax-on {
     transform: translate3d(0px, 0px, 0px);
   }

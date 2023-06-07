@@ -1,7 +1,7 @@
 ---
 attached_collection: collections/xmas-in-america.md
 attached_link: 
-block_aspect_ratio: ratio-8-5x11
+block_aspect_ratio: aspect-8-5x11
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
 blog_header: 
 caption: Holiday Season Feature and Interview Roundup 

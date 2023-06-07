@@ -2,7 +2,7 @@
 align_x: start
 attached_collection: collections/retail.md
 attached_link: 
-block_aspect_ratio: ratio-2x3
+block_aspect_ratio: aspect-2x3
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
 caption: Featured on Washington Post and Business Insider

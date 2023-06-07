@@ -34,5 +34,18 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  vimeo_id:
+    type: number
+  align_y:
+    type: select
+    options:
+      values:
+        - start
+        - center
+        - end
+  caption:
+    type: text
+  color: 
+    type: color
   show_controls:
     type: switch

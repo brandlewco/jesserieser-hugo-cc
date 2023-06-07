@@ -1,7 +1,7 @@
 ---
 attached_collection: collections/the-new-york-times.md
 attached_link: 
-block_aspect_ratio: ratio-1x1
+block_aspect_ratio: aspect-1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
 blog_header: 
 caption: "The New York Times: Auctioning Off a Dead Mall"

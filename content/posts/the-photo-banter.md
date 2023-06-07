@@ -1,7 +1,7 @@
 ---
 attached_collection: 
 attached_link: 
-block_aspect_ratio: ratio-1x1
+block_aspect_ratio: aspect-1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
 post_blocks:
   - _bookshop_name: posts/media-row-start

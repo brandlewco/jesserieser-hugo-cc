@@ -268,9 +268,24 @@ _inputs:
         - '100'
         - '0'
   vimeo_id:
-    type: text
+    type: number
   vimeo_block_cover:
     type: number
+  block_aspect_ratio:
+    type: select
+    options:
+      values:
+        - 8-5x11
+        - 11x8-5
+        - 9x16
+        - 16x9
+        - 5x4
+        - 4x5
+        - 4x3
+        - 3x4
+        - 2x3
+        - 3x2
+        - 1x2
   caption:
     type: text
   color: 
