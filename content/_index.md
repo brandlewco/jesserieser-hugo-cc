@@ -18,6 +18,28 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: 'Golf Digest '
+    meta: 'Cam Young '
+    attached_collection: collections/golf-digest-cam-young.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
+    width: '40'
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_color: 0
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     width: '45'
     align_y: start
     margin_y: '50'
@@ -883,28 +905,6 @@ content_blocks:
     blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'Golf Digest '
-    meta: 'Cam Young '
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-1.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#ff0000'
-    caption: test caption
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_color: 0
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: center
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
