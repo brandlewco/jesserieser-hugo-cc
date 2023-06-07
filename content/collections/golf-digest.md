@@ -199,7 +199,7 @@ collection_blocks:
     background_image_toggle: false
     block: media-text
     caption_css: 
-    font_weight: bolD"
+    font_weight: bold
     image:  
     image_css: 
     margin_left: '35'
@@ -227,7 +227,7 @@ collection_blocks:
     parallax: true
     text: Ties the course record
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 4xl
     text_tracking: normal
     width: '50'

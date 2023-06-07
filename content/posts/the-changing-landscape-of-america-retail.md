@@ -19,7 +19,7 @@ content: >-
 
   Business Insider feature edited and interview conducted by Katie Canales.
 date: 2020-01-14T07:00:00.000Z
-margin_x: 5%
+margin_x: '5'
 margin_y: '50'
 news_category:
   - Press

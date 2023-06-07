@@ -90,7 +90,7 @@ collection_blocks:
     align_x: start
     color: "#FDE1DA"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
-    margin_left: 10%
+    margin_left: '10'
     margin_right: 
     margin_y: '600'
     width: '33'
@@ -99,7 +99,7 @@ collection_blocks:
     color: "#E2ECD5"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
     margin_left: 
-    margin_right: 5%
+    margin_right: '5'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -108,7 +108,7 @@ collection_blocks:
     align_x: start
     color: "#FFE5D1"
     image:  https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
-    margin_left: 20%
+    margin_left: '20'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row

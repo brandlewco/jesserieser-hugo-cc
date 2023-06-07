@@ -211,7 +211,7 @@ collection_blocks:
     align_y: start
     block_aspect_ratio: 
     caption: 
-    color: ""
+    color: 
     image: 
     margin_left: '40'
     margin_right: '0'
@@ -284,7 +284,7 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     show_controls: false
-    vimeo_id: 515559208
+    vimeo_id: 0515559208
     width: '80'
   - _bookshop_name: collections/media-row
     row_alignment: between

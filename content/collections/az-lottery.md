@@ -41,10 +41,14 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     align_y: center
     caption: Lottery Promo
-    color: >-
-      #CFE7DF margin_y: 100 show_controls: false vimeo_id: 216270338 width: 66 -
-      _bookshop_name: collections/media-row row_alignment: between -
-      _bookshop_name: collections/media-element  color: 
+    color: "#CFE7DF"
+    margin_y: 100
+    show_controls: false
+    vimeo_id: 216270338
+    width: 66 
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-3.jpg
     margin_left: '5'
     margin_right: '0'
@@ -52,10 +56,15 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-motion
     align_y: 0
-    color: >-
-      #CFE7DF margin_left: '0' margin_right: 5 margin_y: 500 vimeo_id: 216269536
-      width: 40 - _bookshop_name: collections/media-row row_alignment: between -
-      _bookshop_name: collections/media-element  color: 
+    color: "#CFE7DF"
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '500'
+    vimeo_id: 216269536
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element 
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-4.jpg
     margin_left: '20'
     margin_right: '0'
