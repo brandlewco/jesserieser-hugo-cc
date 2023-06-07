@@ -389,7 +389,7 @@ content_blocks:
     title: Star Geezers on BOOOOOOM!
     color: '#FFE7C3'
     text_size:
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
     caption: Fisheye Photo Review 2021.22
@@ -546,7 +546,7 @@ content_blocks:
     margin_right: '20'
     title: BOOOOOOOM Feature
     color: '#FFCFCF'
-    block_aspect_ratio: 1x1
+    block_aspect_ratio: 8-5x11
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
     caption: 'The New York Times: Auctioning Off a Dead Mall'
     theme_color: '#BEE8F6'
@@ -583,7 +583,7 @@ content_blocks:
     margin_right: '15'
     title: Agents Club 22 Awards
     color: '#F9B0B0'
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
     caption: 'New York Times: America Is Reopening'
     theme_color: '#CCAAF8'
@@ -599,7 +599,7 @@ content_blocks:
     margin_right: '0'
     title: AP 37
     color: '#F6F9AD'
-    block_aspect_ratio: 4x5
+    block_aspect_ratio: 5x4
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
     blog_header:
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -627,7 +627,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '20'
-    title_margin_left: -15
+    title_margin_left: '-15'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -709,7 +709,7 @@ content_blocks:
     margin_right: '10'
     title: 2022 SPD Awards
     color: '#D2B9ED'
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
     caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
     theme_color: '#FFDAA3'
@@ -746,7 +746,7 @@ content_blocks:
     title: AP 36
     color: '#D8EBEE'
     text_size: 4xl
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
     caption: 'Wired: The Internet Giant That Went Too Far'
