@@ -294,6 +294,8 @@ _inputs:
     type: color
   theme_color_all_works: 
     type: color
+  text_color:
+    type: color
   logo:
     type: image
   row_alignment:
