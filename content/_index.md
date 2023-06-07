@@ -73,11 +73,11 @@ content_blocks:
     margin_right: '0'
     title: Souvenirs From Paradise Exhibition
     color: '#F3D7D7'
-    block_aspect_ratio: "16x9"
+    block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
     caption: The Gallery at Mountain Shadows
     theme_color: '#F6E7D1'
-    vimeo_block_cover: "769252337"
+    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-feature
     width: '55'
     align_y: start
@@ -377,6 +377,28 @@ content_blocks:
     meta: I Am Not a Soldier but I Have Been Trained to Kill
     text_color: '#FFB8FE'
     font_weight: semibold
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'People '
+    meta: 'Uvalde Mass Shooting: One Year Later'
+    attached_collection: collections/people.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_color: 0
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -825,8 +847,8 @@ content_blocks:
     title: The New York Times
     meta: America is Reopening. This is What it Looks Like
     attached_collection: collections/the-new-york-times-1.md
-    color: '#FDD3D3'
-    text_color: '#81FF6E'
+    color: '#fdd3d3'
+    text_color: '#81ff6e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
