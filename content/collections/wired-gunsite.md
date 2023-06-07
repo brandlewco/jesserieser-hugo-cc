@@ -102,7 +102,7 @@ collection_blocks:
     parallax: true
     text: _“You ask yourself, Is my world safe?’_
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 6xl
     text_tracking: normal
     width: '60'
@@ -198,7 +198,7 @@ collection_blocks:
       _"You should feel angry at the target,” he growled in my ear. “It’s gonna
       make you do something you’re gonna feel for the rest of your life.”_
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 4xl
     text_tracking: normal
     width: '40'
@@ -264,7 +264,7 @@ collection_blocks:
       hunted armed men long enough and liked it, never really care for anything
       else thereafter.”_
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 4xl
     text_tracking: normal
     width: '30'
@@ -336,7 +336,7 @@ collection_blocks:
     parallax: true
     text: _“Refuse to be a victim"_
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 4xl
     text_tracking: normal
     width: '40'
@@ -404,7 +404,7 @@ collection_blocks:
       _“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
       you how to fight when death comes to your door.”_
     text_alignment: left
-    text_color: "#000000
+    text_color: "#000000"
     text_size: 4xl
     text_tracking: normal
     width: '25'
