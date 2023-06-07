@@ -149,7 +149,7 @@ content_blocks:
     margin_right: '0'
     color: '#fcc8cc'
     title: Communication Arts Photography Annual 2022
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
     blog_header:
     caption: Antoine’s Escalaras
