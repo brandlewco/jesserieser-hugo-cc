@@ -12,12 +12,11 @@ collection_sorter:
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
-  - collections/vox-100-battles-ghost-towns.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
+  - collections/vox-100-battles-ghost-towns.md
   - collections/time-kari-lake.md
-  - collections/phoenix-open-espn.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/outside-magazine-rob-krar.md
@@ -57,6 +56,7 @@ collection_sorter:
   - collections/starting-over.md
   - collections/sounds-of-cement.md
   - collections/amtrak-the-national.md
+  - collections/phoenix-open-espn.md
   - collections/time-mag-antivaxxers.md
   - collections/wsj-ieg-lab.md
   - collections/fred-nike.md
