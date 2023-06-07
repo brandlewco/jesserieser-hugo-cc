@@ -297,7 +297,6 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-4.jpg
 collection_awards: []
 collection_press:
-  - content: "**2019**  \nAP 35: American Photography Annual 35  \nBest Personal Work Series:  \n\Phoenix: A Dystopian Legoland That Tastes Like Candy"
 collection_archive: false
 collection_hidden: false
 hide_footer: true
