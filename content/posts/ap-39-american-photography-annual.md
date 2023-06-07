@@ -52,6 +52,11 @@ post_blocks:
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
     width: '33'
+  - _bookshop_name: posts/media-element-static
+    image: /images/hero/hero-image-2.png
+    title: blog title
+    caption: test caption
+    width: '40'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -84,7 +89,13 @@ content: >-
 
 
   This photographic essay features the receding waters of Lake Mead while
-  exploring how companies, regulators, and investors are starting to react.
+  exploring how companies, regulators, and investors are starting to
+  react.&nbsp;
+
+
+  The Colorado River has fallen to record-low levels. Its two enormous
+  reservoirs, Lake Mead and Lake Powell, are below 30% of capacity, exposing
+  sunken boats and even human skeletal remains.
 
 
   Thank you judges and Sarina Finkelstein for assigning and submitting to this
