@@ -932,7 +932,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: AP 39
     meta: meta
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    attached_blog:
     text_size: base
     color: '#ffffff'
     width: '30'
@@ -941,7 +941,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '0'
     block_aspect_ratio: 4x3
-    blog_block_cover:
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
     caption: Caption
     theme_color: '#ff0000'
   - _bookshop_name: home/media-row-end
