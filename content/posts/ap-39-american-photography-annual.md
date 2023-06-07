@@ -71,27 +71,24 @@ blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:
 caption: 'Barron''s Cover Story: Beyond the Drought'
 content: >-
-  [***I Am Not a Soldier, but I Have Been Trained to Kill* for *Wired
-  Magazine***](https://jesserieser.com/collections/gunsite) has been named one
-  of the year’s best in the upcoming [***American Photography 38 Photo
-  Annual***](https://www.ai-ap.com/slideshow/AP/38/jesse-rieser/) book.
+  ***<a target="_blank" rel="noopener"
+  href="https://jesserieser.com/collections/mead-barrons">Beyond The Drought
+  commissioned by Barron's</a>&nbsp;***has been named one of the year’s best in
+  the upcoming <a target="_blank" rel="noopener"
+  href="https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1"><strong><em>American
+  Photography 39 Photo Annual</em></strong></a> book.
 
 
-  Commissioned after the insurrection, these works explore the growing tactical
-  industry that teaches American civilians to fight like Special Ops forces.
-  Photographed at Gunsite Academy, the longest running civilian tactical firearm
-  training facility.
+  The scarcity of fresh water is rapidly emerging as a global economic threat
+  that could disrupt businesses, crimp profits, and jeopardize growth.⁠
 
 
-  Congratulations to all the winners and thank you to this year’s
-  judges:<br>Samir Abady, Photo Editor, The Wall Street Journal<br>Dudley M.
-  Brooks, Photo Editor, The Washington Post Magazine<br>Shahrzad Elghanayan,
-  Senior Photo Editor, NBC News<br>Gail Fletcher, Photo Editor, The
-  Guardian<br>Jeanne Graves, Director of Photography, \_Fast Company<br>Whitney
-  Matewe, Photo Editor, TIME Magazine<br>Michele Romero, Creative Photography
-  Director, PhotoRehab<br>Elijah S Walker, Visual Journalist and Photography
-  Editor, The New York Times<br>Amy Wolff, Photo Director, Hearst Enthusiast
-  Group<br>Nili Zadok, Executive Producer
+  This photographic essay features the receding waters of Lake Mead while
+  exploring how companies, regulators, and investors are starting to react.
+
+
+  Thank you judges and Sarina Finkelstein for assigning and submitting to this
+  year’s annual. ⁠
 date:
 news_category:
   - awards
