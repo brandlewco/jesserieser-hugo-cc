@@ -163,7 +163,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: 0
-    color: "#FCE4D0
+    color: "#FCE4D0"
     margin_left: '5'
     margin_right: '0'
     margin_y: '300'
@@ -194,7 +194,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
-    color: "#FCE4D0
+    color: "#FCE4D0"
     margin_left: '25'
     margin_y: '100'
     vimeo_id: 414908662

@@ -16,9 +16,9 @@ spec:
 blueprint:
   title: "Collection Title" 
   meta: "meta"
-  attached_blog:
+  attached_blog: posts/the-changing-landscape-of-american-retail-1.md
   text_size: base
-  color: ffffff
+  color: "#ffffff"
   width: '30'
   align_y: center
   margin_y: '0'
