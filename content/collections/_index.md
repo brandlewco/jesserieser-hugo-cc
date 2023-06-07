@@ -17,6 +17,7 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
+  - collections/phoenix-open-espn.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/outside-magazine-rob-krar.md
@@ -35,7 +36,6 @@ collection_sorter:
   - collections/amtrak-sunset-limited.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/phoenix-open-espn.md
   - collections/time.md
   - collections/autobiography.md
   - collections/wired.md
