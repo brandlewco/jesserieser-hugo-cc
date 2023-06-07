@@ -48,6 +48,7 @@ collection_sorter:
   - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
   - collections/the-new-york-times-2.md
+  - collections/phoenix-open-espn.md
   - collections/collections-barons-cover.md
   - collections/espn-deandre-ayton.md
   - collections/etrade.md
@@ -56,7 +57,6 @@ collection_sorter:
   - collections/starting-over.md
   - collections/sounds-of-cement.md
   - collections/amtrak-the-national.md
-  - collections/phoenix-open-espn.md
   - collections/time-mag-antivaxxers.md
   - collections/wsj-ieg-lab.md
   - collections/fred-nike.md
