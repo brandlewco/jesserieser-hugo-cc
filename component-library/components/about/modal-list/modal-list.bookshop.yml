@@ -20,7 +20,7 @@ blueprint:
   text_size: base
   color: ffffff
   modal_color: ff0000
-  text_color: ffffff
+  text_color: "#ffffff"
   width: '30'
   line_height: normal
   text_alignment: left

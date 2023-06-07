@@ -18,7 +18,7 @@ spec:
 blueprint:
   title: "Collection Title" 
   meta: "meta"
-  attached_collection:
+  attached_collection: collections/xmas-in-america.md
   image: /images/hero/hero-image-2.png
   width: '40'
   margin_y: '0'
