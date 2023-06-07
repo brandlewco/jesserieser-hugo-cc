@@ -73,11 +73,11 @@ content_blocks:
     margin_right: '0'
     title: Souvenirs From Paradise Exhibition
     color: '#F3D7D7'
-    block_aspect_ratio: "16x9"
+    block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
     caption: The Gallery at Mountain Shadows
     theme_color: '#F6E7D1'
-    vimeo_block_cover: "769252337"
+    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-feature
     width: '55'
     align_y: start
@@ -861,6 +861,28 @@ content_blocks:
     blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'People Magazine '
+    meta: 'Uvalde Mass Shooting: One Year Later'
+    attached_collection: collections/people.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_color: 0
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: center
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
