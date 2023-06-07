@@ -4,7 +4,6 @@ collection_sorter:
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
-  - collections/smithsonian.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
@@ -16,6 +15,7 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/vox-100-battles-ghost-towns.md
+  - collections/smithsonian.md
   - collections/time-kari-lake.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
