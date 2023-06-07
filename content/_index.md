@@ -932,7 +932,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: AP 39
     meta: meta
-    attached_blog:
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
     text_size: base
     color: '#ffffff'
     width: '30'
