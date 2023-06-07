@@ -55,17 +55,21 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_02.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_03.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_04.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_05.jpg
 attached_collection: collections/wired-gunsite.md
 attached_link:
 block_aspect_ratio: aspect-11x8-5
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:
-caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
+caption: 'Barron''s Cover Story: Beyond the Drought'
 content: >-
   [***I Am Not a Soldier, but I Have Been Trained to Kill* for *Wired
   Magazine***](https://jesserieser.com/collections/gunsite) has been named one
