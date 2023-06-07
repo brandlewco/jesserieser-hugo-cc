@@ -15,10 +15,12 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/smithsonian.md
+  - collections/phoenix-open-espn.md
   - collections/time-kari-lake.md
-  - collections/star-geezers.md
+  - collections/stalking-a-serial-killer.md
+  - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
+  - collections/star-geezers.md
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
   - collections/the-new-york-times-3.md
@@ -43,12 +45,10 @@ collection_sorter:
   - collections/runner-s-world.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
-  - collections/stalking-a-serial-killer.md
   - collections/endangered-photo-studios.md
   - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
   - collections/the-new-york-times-2.md
-  - collections/phoenix-open-espn.md
   - collections/collections-barons-cover.md
   - collections/espn-deandre-ayton.md
   - collections/etrade.md
