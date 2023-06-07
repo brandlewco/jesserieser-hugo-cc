@@ -7,6 +7,8 @@
 @import "tailwindcss/utilities";
 @import "./imports/custom-utilities.css";
 
+@layer utilities{}
+
 @import "./imports/sal.css";
 @import "./imports/gumroad.css";
 @import "./imports/photoswipe.css";
