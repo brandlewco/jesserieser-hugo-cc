@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'AP 38: American Photography Annual'
+title: 'AP 39: American Photography Annual'
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -67,10 +67,10 @@ blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:
 caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
 content: >-
-  [**_I Am Not a Soldier, but I Have Been Trained to Kill_ for _Wired
-  Magazine_**](https://jesserieser.com/collections/gunsite) has been named one
-  of the year’s best in the upcoming [**_American Photography 38 Photo
-  Annual_**](https://www.ai-ap.com/slideshow/AP/38/jesse-rieser/) book.
+  [***I Am Not a Soldier, but I Have Been Trained to Kill* for *Wired
+  Magazine***](https://jesserieser.com/collections/gunsite) has been named one
+  of the year’s best in the upcoming [***American Photography 38 Photo
+  Annual***](https://www.ai-ap.com/slideshow/AP/38/jesse-rieser/) book.
 
 
   Commissioned after the insurrection, these works explore the growing tactical
@@ -79,28 +79,15 @@ content: >-
   training facility.
 
 
-  Congratulations to all the winners and thank you to this year’s judges:  
-
-  Samir Abady, Photo Editor, The Wall Street Journal  
-
-  Dudley M. Brooks, Photo Editor, The Washington Post Magazine  
-
-  Shahrzad Elghanayan, Senior Photo Editor, NBC News  
-
-  Gail Fletcher, Photo Editor, The Guardian  
-
-  Jeanne Graves, Director of Photography, _Fast Company  
-
-  Whitney Matewe, Photo Editor, TIME Magazine  
-
-  Michele Romero, Creative Photography Director, PhotoRehab  
-
-  Elijah S Walker, Visual Journalist and Photography Editor, The New York
-  Times  
-
-  Amy Wolff, Photo Director, Hearst Enthusiast Group  
-
-  Nili Zadok, Executive Producer
+  Congratulations to all the winners and thank you to this year’s
+  judges:<br>Samir Abady, Photo Editor, The Wall Street Journal<br>Dudley M.
+  Brooks, Photo Editor, The Washington Post Magazine<br>Shahrzad Elghanayan,
+  Senior Photo Editor, NBC News<br>Gail Fletcher, Photo Editor, The
+  Guardian<br>Jeanne Graves, Director of Photography, \_Fast Company<br>Whitney
+  Matewe, Photo Editor, TIME Magazine<br>Michele Romero, Creative Photography
+  Director, PhotoRehab<br>Elijah S Walker, Visual Journalist and Photography
+  Editor, The New York Times<br>Amy Wolff, Photo Director, Hearst Enthusiast
+  Group<br>Nili Zadok, Executive Producer
 date:
 news_category:
   - awards
