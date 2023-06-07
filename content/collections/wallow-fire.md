@@ -77,7 +77,7 @@ navigation_theme: white
 px_extra: true
 slug: the-wallow-fire
 theme_color: "#D8E1E1"
-theme_color_all_works: ED5C5C"
+theme_color_all_works: "#ED5C5C"
 title: The Wallow Fire
 collection_awards:
   - content: |-

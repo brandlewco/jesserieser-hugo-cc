@@ -40,7 +40,7 @@ px_extra: true
 row_alignment: between
 slug: adobe
 theme_color: "#CEF7C5"
-theme_color_all_works: FF8F47"
+theme_color_all_works: "#FF8F47"
 title: 'Adobe: Turn Up the Vibrancy'
 seo:
   meta_title: 'Adobe: Turn Up the Vibrancy. Make it pop. Make it louder'

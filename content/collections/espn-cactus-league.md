@@ -39,7 +39,7 @@ navigation_theme: white
 px_extra: true
 slug: cactus-league
 theme_color: "#FDE583"
-theme_color_all_works: FB548C"
+theme_color_all_works: "#FB548C"
 title: ESPN the Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start

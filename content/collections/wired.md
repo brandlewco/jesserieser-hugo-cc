@@ -79,7 +79,7 @@ navigation_theme: white
 px_extra: true
 slug: wired-magazine
 theme_color: "#F6E3CD"
-theme_color_all_works: FFCC95"
+theme_color_all_works: "#FFCC95"
 title: Wired Magazine
 collection_awards:
   - content: |-

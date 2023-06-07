@@ -78,7 +78,7 @@ navigation_theme: white
 px_extra: true
 slug: wall-street-journal-2
 theme_color: "#E2EADE"
-theme_color_all_works: BCF6A6"
+theme_color_all_works: "#BCF6A6"
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start

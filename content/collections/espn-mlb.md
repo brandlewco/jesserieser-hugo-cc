@@ -34,7 +34,7 @@ navigation_theme: white
 px_extra: true
 slug: personalities-of-the-mlb
 theme_color: "#ADCCFF"
-theme_color_all_works: 67E170"
+theme_color_all_works: "#67E170"
 title: ESPN The Magazine
 seo:
   meta_description: >-

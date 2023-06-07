@@ -37,7 +37,7 @@ px_extra: true
 row_alignment: between
 slug: golf-digest-bubba
 theme_color: "#FFCBBE"
-theme_color_all_works: E77B7B"
+theme_color_all_works: "#E77B7B"
 title: Golf Digest 
 seo:
   meta_description: >-

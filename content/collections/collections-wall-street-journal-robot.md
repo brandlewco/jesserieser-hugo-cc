@@ -69,7 +69,7 @@ navigation_theme: white
 px_extra: true
 slug: wall-street-journal-robot
 theme_color: "#B8EEBC"
-theme_color_all_works: 6D94FF"
+theme_color_all_works: "#6D94FF"
 title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start

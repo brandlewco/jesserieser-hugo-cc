@@ -47,7 +47,7 @@ row_alignment: between
 sale: false
 slug: ben-simmons-smart-water
 theme_color: "#FAEA72"
-theme_color_all_works: FFE767"
+theme_color_all_works: "#FFE767"
 title: 'Smart Water: Essentialism'
 seo:
   meta_description: 

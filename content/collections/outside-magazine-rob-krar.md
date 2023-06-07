@@ -60,7 +60,7 @@ navigation_theme: white
 px_extra: true
 slug: rob-krar-outside-magazine
 theme_color: "#F1D7D5"
-theme_color_all_works: B1EEBB"
+theme_color_all_works: "#B1EEBB"
 title: Outside Magazine 
 collection_blocks:
   - _bookshop_name: collections/media-row-start

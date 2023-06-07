@@ -40,7 +40,7 @@ px_extra: true
 row_alignment: between
 slug: gunsite
 theme_color: "#B0FFC5"
-theme_color_all_works: F8FDA8"
+theme_color_all_works: "#F8FDA8"
 title: Wired Magazine
 seo:
   meta_description: 

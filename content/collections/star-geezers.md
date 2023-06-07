@@ -56,7 +56,7 @@ navigation_theme: white
 px_extra: true
 slug: star-geezers
 theme_color: "#FCE4D0"
-theme_color_all_works: FF9595"
+theme_color_all_works: "#FF9595"
 title: Condor Airlines 
 collection_blocks:
   - _bookshop_name: collections/media-row-start

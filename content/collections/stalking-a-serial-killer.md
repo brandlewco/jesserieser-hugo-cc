@@ -67,7 +67,7 @@ navigation_theme: white
 px_extra: true
 slug: stalking-serial-killer
 theme_color: "#9CB8D7"
-theme_color_all_works: 9BC6FF"
+theme_color_all_works: "#9BC6FF"
 title: Society Magazine
 collection_awards:
   - content: |-

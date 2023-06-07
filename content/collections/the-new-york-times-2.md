@@ -40,7 +40,7 @@ px_extra: true
 row_alignment: between
 slug: nytimes-cryogenics
 theme_color: "#E5FDB3"
-theme_color_all_works: 93F998"
+theme_color_all_works: "#93F998"
 title: The New York Times 
 seo:
   meta_description: 

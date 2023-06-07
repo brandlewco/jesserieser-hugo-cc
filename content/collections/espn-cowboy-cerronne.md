@@ -61,7 +61,7 @@ navigation_theme: white
 px_extra: true
 slug: espn
 theme_color: "#161518"
-theme_color_all_works: F76969"
+theme_color_all_works: "#F76969"
 title: ESPN
 collection_blocks:
   - _bookshop_name: collections/media-row-start

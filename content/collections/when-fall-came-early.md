@@ -62,7 +62,7 @@ navigation_theme: white
 px_extra: true
 slug: when-fall-came-early
 theme_color: "#E1EAED"
-theme_color_all_works: 7BC8FF"
+theme_color_all_works: "#7BC8FF"
 title: 'When Fall Came Early:'
 seo:
   meta_description: >-

@@ -47,7 +47,7 @@ navigation_theme: white
 px_extra: true
 slug: time-magazine-ii
 theme_color: "#4DC4D1"
-theme_color_all_works: 25CBDD"
+theme_color_all_works: "#25CBDD"
 title: Time Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start

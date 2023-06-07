@@ -30,7 +30,7 @@ logo:
 navigation_theme: white
 slug: Jerry-Halls-Sad-Instagram
 theme_color: "#E9DED1"
-theme_color_all_works: FFBF6A"
+theme_color_all_works: "#FFBF6A"
 title: Jerry Hall's Sad Instagram
 collection_blocks:
   - _bookshop_name: collections/media-row-start

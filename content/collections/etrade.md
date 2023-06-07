@@ -33,7 +33,7 @@ navigation_theme: white
 px_extra: true
 slug: etrade
 theme_color: "#D7C6AD"
-theme_color_all_works: FFD5A0"
+theme_color_all_works: "#FFD5A0"
 title: E*Trade
 collection_blocks:
   - _bookshop_name: collections/media-row-start

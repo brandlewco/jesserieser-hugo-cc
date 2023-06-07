@@ -28,7 +28,7 @@ logo:
 navigation_theme: white
 slug: Mackenzie-Gossage
 theme_color: "#9394AD"
-theme_color_all_works: B4B4FC"
+theme_color_all_works: "#B4B4FC"
 title: Mackenzie Gossage
 collection_blocks:
   - _bookshop_name: collections/media-row-start

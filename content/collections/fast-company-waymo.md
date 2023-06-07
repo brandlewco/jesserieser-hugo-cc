@@ -29,7 +29,7 @@ logo:
 navigation_theme: white
 slug: googles-waymo-car
 theme_color: "#C2ECD1"
-theme_color_all_works: B3EFCB"
+theme_color_all_works: "#B3EFCB"
 title: Fast Company 
 collection_blocks:
   - _bookshop_name: collections/media-row-start

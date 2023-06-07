@@ -36,7 +36,7 @@ navigation_theme: white
 px_extra: true
 slug: southwest-chief
 theme_color: "#E3D2E7"
-theme_color_all_works: 96EFD6"
+theme_color_all_works: "96EFD6"
 title: Amtrak The National 
 collection_blocks:
   - _bookshop_name: collections/media-row-start

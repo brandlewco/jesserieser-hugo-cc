@@ -37,7 +37,7 @@ navigation_theme: white
 px_extra: true
 slug: kenny-grahams
 theme_color: "#DBEDB4"
-theme_color_all_works: 3DB9ED"
+theme_color_all_works: "#3DB9ED"
 title: Nike’s Kenny Graham’s 
 collection_blocks:
   - _bookshop_name: collections/media-row-start

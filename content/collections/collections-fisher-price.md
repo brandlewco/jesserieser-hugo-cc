@@ -42,7 +42,7 @@ navigation_theme: white
 px_extra: true
 slug: fisher-price
 theme_color: "#E0AADC"
-theme_color_all_works: FFE27A"
+theme_color_all_works: "#FFE27A"
 title: 'Fisher Price: Play is a Place'
 collection_awards:
   - content: |-

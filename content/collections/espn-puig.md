@@ -36,7 +36,7 @@ logo:
 navigation_theme: white
 slug: partying-with-puig
 theme_color: "#86D0F7"
-theme_color_all_works: D587FF"
+theme_color_all_works: "#D587FF"
 title: ESPN The Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start

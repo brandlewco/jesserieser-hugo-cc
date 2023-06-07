@@ -36,7 +36,7 @@ navigation_theme: white
 px_extra: true
 slug: sounds-of-cement
 theme_color: "#CDCDCD"
-theme_color_all_works: FBB58D"
+theme_color_all_works: "#FBB58D"
 title: Sounds of Cement
 collection_awards:
   - content: |-

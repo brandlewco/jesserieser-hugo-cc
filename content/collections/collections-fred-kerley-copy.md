@@ -35,7 +35,7 @@ navigation_theme: white
 px_extra: true
 slug: Banner-Mullen
 theme_color: "#FFB5BD"
-theme_color_all_works: 9FF4B8"
+theme_color_all_works: "#9FF4B8"
 title: 'Banner Health: Significance'
 collection_blocks:
   - _bookshop_name: collections/media-row-start

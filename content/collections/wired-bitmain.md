@@ -81,7 +81,7 @@ px_extra: true
 slug: wired-magazine-2
 test_repeater: []
 theme_color: "#D2DEE7"
-theme_color_all_works: 8FD2F9"
+theme_color_all_works: "#8FD2F9"
 title: Wired Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start

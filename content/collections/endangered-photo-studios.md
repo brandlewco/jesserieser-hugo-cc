@@ -32,7 +32,7 @@ navigation_theme: white
 px_extra: true
 slug: Photo-Studios-Extinction
 theme_color: "#FBC8B2"
-theme_color_all_works: FFAC87"
+theme_color_all_works: "#FFAC87"
 title: Photo Studios Extinction
 collection_exhibition:
   - content: |-

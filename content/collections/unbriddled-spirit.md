@@ -34,7 +34,7 @@ navigation_theme: white
 px_extra: true
 slug: cowboy-curt/
 theme_color: "#C6ACD2"
-theme_color_all_works: D9AAEB"
+theme_color_all_works: "#D9AAEB"
 title: Phoenix Home & Garden
 collection_awards:
   - content: |-

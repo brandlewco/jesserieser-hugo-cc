@@ -102,7 +102,7 @@ navigation_theme: white
 px_extra: true
 slug: changing-landscape-american-retail
 theme_color: "#E9DCD0"
-theme_color_all_works: F1A4FF"
+theme_color_all_works: "#F1A4FF"
 title: The Changing Landscape of American Retail
 collection_awards:
   - content: |-

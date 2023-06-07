@@ -55,7 +55,7 @@ navigation_theme: white
 px_extra: true
 slug: time-magazine-grand-canyon-100th-anniversary
 theme_color: "#EEDDDD"
-theme_color_all_works: FFBABA"
+theme_color_all_works: "#FFBABA"
 title: Time Magazine
 collection_exhibition:
   - content: |-

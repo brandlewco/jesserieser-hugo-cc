@@ -37,7 +37,7 @@ navigation_theme: white
 px_extra: true
 slug: united-airlines-rhapsody
 theme_color: "#B9C5D0"
-theme_color_all_works: A1F0CD"
+theme_color_all_works: "#A1F0CD"
 title: United Airlines Rhapsody
 collection_blocks:
   - _bookshop_name: collections/media-row-start

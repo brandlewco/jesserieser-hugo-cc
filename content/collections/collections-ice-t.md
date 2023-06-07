@@ -32,7 +32,7 @@ px_extra: true
 row_alignment: center
 slug: ice-t
 theme_color: "#B8EEBC"
-theme_color_all_works: E69DFB"
+theme_color_all_works: "#E69DFB"
 title: Zeit Magazin
 collection_blocks:
   - _bookshop_name: collections/media-row-start
