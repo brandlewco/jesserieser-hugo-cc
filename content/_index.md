@@ -57,9 +57,9 @@ content_blocks:
     color: '#cdf0d6'
     meta: 'Kari Lake: Face of the New Maga Right'
     attached_collection: collections/time-kari-lake.md
-    text_color: '#ffd49b'
+    text_color: '#a6cdec'
     font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
     title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
