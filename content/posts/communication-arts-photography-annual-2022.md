@@ -97,7 +97,6 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-18.jpg
     width: '60'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-20.jpg

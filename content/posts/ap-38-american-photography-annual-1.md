@@ -69,7 +69,6 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-4.jpg
     width: '66'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-7.jpg

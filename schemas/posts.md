@@ -1,5 +1,5 @@
 ---
-title: Adidas Basketball
+title: New Blog
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -10,7 +10,7 @@ attached_link: ""
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
 blog_header: ""
-caption: The Gallery at Mountain Shadows
+caption: New Blog Caption
 content:
 date: ""
 news_category:

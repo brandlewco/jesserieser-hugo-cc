@@ -105,7 +105,6 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-13.jpg
     width: '33'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption: 
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-12.jpg
