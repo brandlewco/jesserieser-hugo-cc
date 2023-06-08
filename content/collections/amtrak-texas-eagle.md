@@ -11,6 +11,10 @@ collection_description: >-
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
   Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
   Ruidoso, and Carlsbad Caverns.
+
+
+  Named a finalist for the 2023 Communication Arts Annual as one of the year’s
+  best in editorial photography.
 collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:
