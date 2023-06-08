@@ -121,11 +121,6 @@ content: >-
   that could disrupt businesses, crimp profits, and jeopardize growth.⁠
 
 
-  This photographic essay features the receding waters of Lake Mead while
-  exploring how companies, regulators, and investors are starting to
-  react.&nbsp;
-
-
   The Colorado River has fallen to record-low levels. Its two enormous
   reservoirs, Lake Mead and Lake Powell, are below 30% of capacity, exposing
   sunken boats and even human skeletal remains.
