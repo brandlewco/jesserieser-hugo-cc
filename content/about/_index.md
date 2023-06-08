@@ -16,7 +16,7 @@ collection_description: >-
 theme_color: '#bde6c5'
 navigation_theme: white
 header_col_1_title: Advertising & Editorial Commissions
-header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a><br /><br />Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>SJ Ashby<br /><a href=\"mailto:sj@andersonhopkins.com\">sj@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
+header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a><br />Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>SJ Ashby<br /><a href=\"mailto:sj@andersonhopkins.com\">sj@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
 header_col_2_title: Exhibition, Syndication, & Press Inquiries
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram&nbsp;<a target="_blank"
