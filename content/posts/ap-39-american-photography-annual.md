@@ -104,17 +104,17 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_04.jpg
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/ap39_05.jpg
-attached_collection: collections/wired-gunsite.md
+attached_collection: content/collections/barrons-lake-mead-drought.md
 attached_link:
-block_aspect_ratio: aspect-11x8-5
+block_aspect_ratio: 3x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
-blog_header:
+blog_header: AP 39
 caption: 'Barron''s Cover Story: Beyond the Drought'
 content: >-
-  ***<a target="_blank" rel="noopener"
+  \*\*\*<a target="_blank"
   href="https://jesserieser.com/collections/mead-barrons">Beyond The Drought
-  commissioned by Barron's</a>&nbsp;***has been named one of the year’s best in
-  the upcoming <a target="_blank" rel="noopener"
+  commissioned by Barron's</a>&nbsp;\*\*\*has been named one of the year’s best
+  in the upcoming <a target="_blank"
   href="https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1"><strong><em>American
   Photography 39 Photo Annual</em></strong></a> book.
 
