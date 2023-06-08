@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/vanishing-folklore.md
 attached_link: 
-block_aspect_ratio: aspect-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
 blog_header: 
 caption: The Gallery at Mountain Shadows

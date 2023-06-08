@@ -62,7 +62,6 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 attached_collection: collections/wired-gunsite.md
 attached_link:
-block_aspect_ratio: aspect-11x8-5
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:
 caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'

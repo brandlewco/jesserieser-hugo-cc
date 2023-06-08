@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/antoine-s-escalaras.md
 attached_link: 
-block_aspect_ratio: aspect-5x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
 blog_header: 
 caption: "Antoine’s Escalaras"

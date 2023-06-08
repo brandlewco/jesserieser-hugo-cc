@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/popular-mechanics.md
 attached_link: 
-block_aspect_ratio: aspect-3x2
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
 blog_header: 
 caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."

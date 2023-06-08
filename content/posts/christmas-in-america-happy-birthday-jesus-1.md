@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/xmas-in-america.md
 attached_link: 
-block_aspect_ratio: aspect-2x3
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
 post_blocks:
   - _bookshop_name: posts/media-row-start

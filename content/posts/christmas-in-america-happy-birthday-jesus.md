@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/xmas-in-america.md
 attached_link: 
-block_aspect_ratio: aspect-8-5x11
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
 blog_header: 
 caption: Holiday Season Feature and Interview Roundup 
@@ -79,13 +78,13 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-1b.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-1b.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-2.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-2.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-3.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-3.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-4.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-4.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-5.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-5.jpg
 ---

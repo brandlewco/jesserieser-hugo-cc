@@ -1,6 +1,5 @@
 ---
 attached_collection: collections/phoenix.md
-block_aspect_ratio: aspect-11x8-5
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-3b-cover.jpg
 blog_header: 
 caption: "AP 35: American Photography Annual Winner"

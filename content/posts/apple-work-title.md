@@ -2,7 +2,6 @@
 attached_collection: 
 attached_link: 
 attached_link_text: View Full Project
-block_aspect_ratio: aspect-1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -23,5 +22,5 @@ seo:
   meta_title: Apple Post Title
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg
 ---

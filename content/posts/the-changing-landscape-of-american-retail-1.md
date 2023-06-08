@@ -1,7 +1,6 @@
 ---
 attached_collection: collections/retail.md
 attached_link: 
-block_aspect_ratio: aspect-11x8-5
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
 blog_header: 
 caption: The Fence at The Griffin Museum of Photography
@@ -81,11 +80,11 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-1.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-1.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-2.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-2.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-3.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-3.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-4.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-4.jpg
 ---

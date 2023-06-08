@@ -2,7 +2,6 @@
 align_x: start
 attached_collection: collections/retail.md
 attached_link: 
-block_aspect_ratio: aspect-2x3
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
 caption: Featured on Washington Post and Business Insider
@@ -93,7 +92,7 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-2b.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-2b.jpg
 ---

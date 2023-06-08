@@ -1,7 +1,6 @@
 ---
 attached_collection: 
 attached_link: 
-block_aspect_ratio: aspect-8-5x11
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
 blog_header: 
 caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -178,9 +177,9 @@ blog_slider:
     show_controls: false-id
     vimeo_id: 486529863
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-14.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-14.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
 ---
