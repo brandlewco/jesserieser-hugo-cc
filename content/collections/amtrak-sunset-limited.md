@@ -5,7 +5,7 @@ seo:
   meta_title: Placeholder Title
 title: Amtrak The National
 collection_meta: Palm Springs to Yuma On The Sunset Limited
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   These works showcase the Sunset Limited train between Palm Springs and Yuma
   with stops at Joshua Tree National Park, Anza Borrego California State Park,
