@@ -84,11 +84,18 @@ about_blocks:
     meta_align: left
     modal_color: '#77ddd4'
     modal_block:
-      - content: |-
-          **2021**  
-          _I am Not a Soldier. But I Have Been Trained to Kill._  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 21
+      - content: >-
+          **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain
+          Shadows. Paradise Valley, AZ (Solo Show)<br><br>*A Vanishing Folklore*
+          2012 - 2022<br><br>*The Changing Landscape of American Retail
+          &nbsp;*2015 - 2022<br><br>*Christmas In America: Happy Birthday, Jesus
+          &nbsp;*2010 - 2022
+        icon:
+        url:
+      - content: >-
+          **2021**<br>*I am Not a Soldier. But I Have Been Trained to
+          Kill.*<br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos
+          Theory 21
         icon:
         url:
       - content: |-
