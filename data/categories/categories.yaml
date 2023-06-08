@@ -26,7 +26,7 @@ categories:
 collection_pager:
   - collections/golf-digest-cam-young.md
   - collections/bloomberg-nomads.md
-  - collections/time-kari-lake.md
+  - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
@@ -35,12 +35,14 @@ collection_pager:
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
-  - collections/vox-100-battles-ghost-towns.md
+  - collections/phoenix-open-espn.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
-  - collections/star-geezers.md
+  - collections/vox-100-battles-ghost-towns.md
+  - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
+  - collections/star-geezers.md
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
   - collections/the-new-york-times-3.md
@@ -57,12 +59,12 @@ collection_pager:
   - collections/amtrak-sunset-limited.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/phoenix-open-espn.md
   - collections/time.md
   - collections/autobiography.md
   - collections/wired.md
   - collections/collections-ice-t.md
   - collections/espn-cowboy-cerronne.md
+  - collections/time-kari-lake.md
   - collections/runner-s-world.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
@@ -91,8 +93,6 @@ collection_pager:
   - collections/collections-fisher-price.md
   - collections/collections-fred-kerley-copy.md
   - collections/the-class-of-99-turns-30.md
-  - collections/smithsonian.md
-  - collections/golfdigest-nicklaus.md
 filter:
   - Personal
   - Commissioned + Stock
