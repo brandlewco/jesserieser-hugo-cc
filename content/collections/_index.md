@@ -40,14 +40,14 @@ collection_sorter:
   - collections/autobiography.md
   - collections/wired.md
   - collections/collections-ice-t.md
-  - collections/time-kari-lake.md
   - collections/espn-cowboy-cerronne.md
-  - collections/runner-s-world.md
+  - collections/time-kari-lake.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/endangered-photo-studios.md
   - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
+  - collections/runner-s-world.md
   - collections/the-new-york-times-2.md
   - collections/collections-barons-cover.md
   - collections/espn-deandre-ayton.md
