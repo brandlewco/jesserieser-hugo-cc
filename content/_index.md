@@ -377,7 +377,7 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
     color: '#F4C8C8'
-    meta: "2010 - \_2019"
+    meta: "2010 - 2019"
     align_y:
     margin_left: '0'
     margin_right: '10'
