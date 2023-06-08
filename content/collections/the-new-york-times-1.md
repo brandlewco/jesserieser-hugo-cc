@@ -240,6 +240,7 @@ collection_category:
   - Environments
   - Portraits
   - Reportage
+  - Award Winning
 date: 2021-06-26T06:00:05Z
 theme_color: '#91f8c6'
 theme_color_all_works: '#ffe05a'
@@ -252,7 +253,8 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-4.jpg
-collection_awards: []
+collection_awards:
+  - ''
 collection_press: []
 collection_archive: false
 collection_hidden: false
