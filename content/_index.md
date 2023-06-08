@@ -404,11 +404,11 @@ content_blocks:
     margin_left: '55'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#fdddad'
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: '#84d8eb'
+    text_color: '#d0f79c'
     line_height: normal
     text_alignment: center
     text_tracking: normal
