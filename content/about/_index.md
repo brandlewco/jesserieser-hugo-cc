@@ -43,14 +43,14 @@ about_bio: >-
   painter and educator and a father who draws and paints; they exposed him to
   the colorful pop art movement of the 50s, American photo realism of the 70s;
   and the use of light to celebrate the subjects in the Dutch Baroque, and
-  Renaissance periods — all major influences in his aesthetic.  For the past
+  Renaissance periods — all major influences in his aesthetic. For the past
   decade Jesse has carefully constructed a photographic world built on the
   foundation of celebrating the mundane and humorous elements that often go
   overlooked in our day-to-day American experience. His use of light and
   bleached color, leaves the viewer with the illusion that our existence is
   equally beautiful as it is fleeting. In this world you will find one-time
   paradisal places and memories framed by our modern anxieties about the past,
-  present, and future — examining our rituals and the artifacts left behind. 
+  present, and future — examining our rituals and the artifacts left behind.
   Clients find him as a creative additive to the collaborative process not only
   with his technical expertise but also in the ideation phase. He feels his
   greatest currency is how he communicates and sees the world. Some call it
@@ -84,11 +84,11 @@ about_blocks:
     modal_color: '#77ddd4'
     modal_block:
       - content: >-
-          **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain
-          Shadows. Paradise Valley, AZ (Solo Show)<br><br>*A Vanishing Folklore*
-          2012 - 2022<br><br>*The Changing Landscape of American Retail
-          &nbsp;*2015 - 2022<br><br>*Christmas In America: Happy Birthday, Jesus
-          &nbsp;*2010 - 2022
+          **2022**<br><br>*Souvenirs From Paradise*<br>The Gallery at Mountain
+          Shadows. Paradise Valley, AZ (Solo Show)<br><br><br>*A Vanishing
+          Folklore* 2012 - 2022<br><br><br>\*The Changing Landscape of American
+          Retail &nbsp;\*2015 - 2022<br><br><br>\*Christmas In America: Happy
+          Birthday, Jesus &nbsp;\*2010 - 2022
         icon:
         url:
       - content: >-
@@ -718,17 +718,7 @@ about_blocks:
     margin_left: '10'
     margin_right: '0'
     background_color: '#ff6a5a'
-    text: >-
-        “I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” - _Devin Gillespie Creative Director, Wieden+Kennedy Portland_
-
-
-        "It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_
-
-
-        “This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_
-
-
-        “You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_
+    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_\n\n\"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_\n\n“This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_\n\n“You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
     parallax: true
     text_size: lg
     background_image_toggle: false

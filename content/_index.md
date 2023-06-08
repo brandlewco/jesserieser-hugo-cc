@@ -31,7 +31,7 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: "#000000"
+    text_color: '#000000'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -53,7 +53,7 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: ""
+    text_color: ''
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -264,7 +264,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '10'
-    title_margin_left: "-55"
+    title_margin_left: '-55'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -378,7 +378,7 @@ content_blocks:
     title: Christmas in America
     color: '#F4C8C8'
     meta: "2010 - \_2019"
-    align_y: 
+    align_y:
     margin_left: '0'
     margin_right: '10'
     title_margin_left: '5'
@@ -528,7 +528,7 @@ content_blocks:
     title: The Star Geezers
     color: '#9bbad5'
     meta: "Condor\_Airlines (Germany)"
-    align_y: 
+    align_y:
     margin_left: '25'
     margin_right: '0'
     title_margin_left: '70'
@@ -564,7 +564,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '15'
-    title_margin_left: "-20"
+    title_margin_left: '-20'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -728,7 +728,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '20'
-    title_margin_left: "-15"
+    title_margin_left: '-15'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -822,15 +822,15 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    title_margin_left: "-30"
+    title_margin_left: '-30'
     title_margin_right: '0'
     meta_align: right
     title: Amtrak the National
     image: https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg
-    color: '#A8F1E1'
+    color: '#a8f1e1'
     meta: Palm Springs to Yuma on the Sunset Limited
     attached_collection: collections/amtrak-sunset-limited.md
-    text_color: '#FF3939'
+    text_color: '#ff3939'
     text_size: 6xl
     text_alignment:
     text_tracking: normal
