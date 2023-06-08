@@ -16,8 +16,8 @@ collection_description: >-
 
 
   Selected by the 2023 American Photography Annual (AP 39) and named a finalist
-  for the 2023 Communication Arts Annuaas one of the year’s best in editorial
-  photography.
+  for the 2023 Communication Arts Photography Annual one of the year’s best in
+  editorial photography.
 collection_description_alignment: left
 slug: mead-barrons
 collection_blocks:
