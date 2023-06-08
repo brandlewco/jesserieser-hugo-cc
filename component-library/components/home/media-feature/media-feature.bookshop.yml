@@ -25,7 +25,7 @@ blueprint:
   margin_left: '0'
   margin_right: '0'
   align_y: center
-  color: ff0000
+  color: "#000000"
   caption: "test caption"
   title_margin_left: '0'
   title_margin_right: '0'
@@ -51,6 +51,9 @@ _inputs:
     options:
       values: collections.collections
       value_key: content_path
+      preview:
+        text:
+          - key: slug
   image:
     type: image
   align_y:

@@ -10,7 +10,7 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   text: insert text here
-  background_color: ff0000
+  background_color: "#000000"
   background_image_toggle: true
   image:
   text_color: "#000000"

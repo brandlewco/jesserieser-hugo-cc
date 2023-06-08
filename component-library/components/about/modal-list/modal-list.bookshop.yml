@@ -19,7 +19,7 @@ blueprint:
   meta: "meta"
   text_size: base
   color: "#ffffff"
-  modal_color: ff0000
+  modal_color: "#000000"
   text_color: "#ffffff"
   width: '30'
   line_height: normal

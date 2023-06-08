@@ -18,7 +18,7 @@ spec:
 blueprint:
   vimeo_id: 123
   text: caption
-  color: ff0000
+  color: "#000000"
   show_controls: true
   block_aspect_ratio: 16x9
   width: '50'

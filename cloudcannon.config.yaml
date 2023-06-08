@@ -288,6 +288,7 @@ _inputs:
         - 2x3
         - 3x2
         - 1x2
+        - 1x1
   caption:
     type: text
   color: 
