@@ -5,7 +5,7 @@ seo:
   meta_title: Placeholder Title
 title: 'Arizona Lottery: Welcome Back Willie'
 collection_meta: OH Partners
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Arizona first got to know Willie in 1981 as a simple hand-drawn character seen
   in the company’s logo and advertising efforts. Through the years his look and
@@ -16,7 +16,7 @@ collection_description: >-
   After some time away, Willie’s character is re-introduced and reinvented in
   human form as a wise and comedic character played by “Mr. Show’s” writer and
   actor, John Ennis.
-collection_description_alignment: center
+collection_description_alignment: left
 slug: arizona-lottery
 collection_blocks:
   - _bookshop_name: collections/media-row-start
@@ -41,11 +41,11 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     align_y: center
     caption: Lottery Promo
-    color: "#CFE7DF"
+    color: '#CFE7DF'
     margin_y: 100
     show_controls: false
     vimeo_id: 216270338
-    width: 66 
+    width: 66
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -56,7 +56,7 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-motion
     align_y: 0
-    color: "#CFE7DF"
+    color: '#CFE7DF'
     margin_left: '0'
     margin_right: '5'
     margin_y: '500'
@@ -64,7 +64,7 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-4.jpg
     margin_left: '20'
     margin_right: '0'
