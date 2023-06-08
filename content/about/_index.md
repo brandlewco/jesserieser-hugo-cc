@@ -366,22 +366,22 @@ about_blocks:
     margin_left: '0'
     margin_right: '0'
     title_margin_left: '-25'
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
-    color: "#FFDA8A"
+    color: '#FFDA8A'
     margin_x: '5'
     align_y: 0
     title_margin_right:
     meta: 1984. © Rob Rieser
     title_margin_y: '35'
-    text_color: "#79B3FF"
+    text_color: '#79B3FF'
     text_size: 8xl
     line_height:
     text_alignment:
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: "#FAD267"
+    modal_color: '#FAD267'
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -719,28 +719,24 @@ about_blocks:
     margin_y: '200'
     margin_left: '10'
     margin_right: '0'
-    background_color: "#FF6A5A"
+    background_color: '#ff6a5a'
     text: >-
-      “I’ve worked with tons of photographers that can’t make something great
-      out of nothing. You made gold from a blank canvas. Thank you.” - _Devin
-      Gillespie Creative Director, Wieden+Kennedy Portland_
-
-      It’s no easy task to enter the world of contemporary art color
-      photography, but you have successfully done so with your own unique
-      voice.” - _Rob Schaefer Senior Acquisitions Editor, Princeton
-      Architectural Press_
-
-      “This shoot wouldnt have been such a success without your attention to
-      detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore
-      Senior Art Producer, Anomaly New York_
-
-      “You are incapable of taking a normal picture.” - _Jen Lamping Lead Print
-      Producer RPA Los Angeles_
+      <p>“I’ve worked with tons of photographers that can’t make something great
+      out of nothing. You made gold from a blank canvas. Thank you.”
+      -&nbsp;<em>Devin Gillespie Creative Director, Wieden+Kennedy
+      Portland</em></p><p>"It’s no easy task to enter the world of contemporary
+      art color photography, but you have successfully done so with your own
+      unique voice.” <em>- Rob Schaefer Senior Acquisitions Editor, Princeton
+      Architectural Press</em></p><p>“This shoot would not have been such a
+      success without your attention to detail, hands-on approach, and upfront
+      leg work. Thank you!”- <em>Kate Moore Senior Art Producer, Anomaly New
+      York</em></p><p>“You are incapable of taking a normal picture.” - <em>Jen
+      Lamping Lead Print Producer RPA Los Angeles</em></p>
     parallax: true
     text_size: lg
     background_image_toggle: false
-    image: 
-    text_color: "#ffffff"
+    image:
+    text_color: '#ffffff'
     font_weight: light
     image_css:
     caption_css:
@@ -760,17 +756,17 @@ about_blocks:
     title_margin_right:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    color: "#DDC4E7"
+    color: '#DDC4E7'
     meta: © Nicky Hedyatzadeh
     title_margin_y: '30'
-    text_color: "#9DFD7C"
+    text_color: '#9DFD7C'
     text_size:
     line_height:
     text_alignment:
     text_tracking:
     font_weight: normal
     meta_align: left
-    modal_color: "#DDC4E7"
+    modal_color: '#DDC4E7'
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -1323,5 +1319,4 @@ cv: >-
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
-
 ---
