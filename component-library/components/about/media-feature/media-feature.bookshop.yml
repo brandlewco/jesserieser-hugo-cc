@@ -42,87 +42,11 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  title:
-    type: text
-  meta:
-    type: text
   attached_collection:
     type: select
     options:
       values: collections.collections
       value_key: content_path
-  image:
-    type: image
-  align_y:
-    type: select
-    options:
-      values:
-        - start
-        - center
-        - end
-  caption:
-    type: text
-  color: 
-    type: color
-  text_color:
-    type: color
-  text_size:
-    type: select
-    options:
-      values:
-        - xs
-        - sm
-        - base
-        - lg
-        - xl
-        - 2xl
-        - 4xl
-        - 6xl
-        - 7xl
-        - 8xl
-        - 9xl
-        - 10xl
-  line_height:
-    type: select
-    options:
-      values:
-        - none
-        - tight
-        - snug
-        - normal
-        - relaxed
-        - loose
-  text_alignment:
-    type: select
-    options:
-      values:
-        - left
-        - center
-        - right
-  text_tracking:
-    type: select
-    options:
-      values:
-        - tighter
-        - tight
-        - normal
-        - wide
-        - wider
-        - widest
-  font_weight:
-    type: select
-    options:
-      values:
-        - hairline
-        - light
-        - normal
-        - semibold
-        - bold
-        - extrabold
-  meta_align:
-    type: select
-    options:
-      values:
-        - left
-        - center
-        - right
+      preview:
+        text:
+          - key: collection_meta

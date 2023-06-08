@@ -31,16 +31,3 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  image:
-    type: image
-  align_y:
-    type: select
-    options:
-      values:
-        - start
-        - center
-        - end
-  caption:
-    type: text
-  color: 
-    type: color

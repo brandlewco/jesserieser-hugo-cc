@@ -27,9 +27,3 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  image:
-    type: image
-  title:
-    type: text
-  caption:
-    type: text

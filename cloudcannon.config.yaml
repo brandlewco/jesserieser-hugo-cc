@@ -42,6 +42,8 @@ collections_config:
 _inputs:
   content:
     type: markdown
+  title: 
+    type: text
   icon:
     type: select
     options:
@@ -273,6 +275,8 @@ _inputs:
     type: number
   vimeo_block_cover:
     type: number
+  show_controls:
+    type: switch
   block_aspect_ratio:
     type: select
     options:
@@ -299,17 +303,77 @@ _inputs:
     type: color
   text_color:
     type: color
+  text_size:
+    type: select
+    options:
+      values:
+        - xs
+        - sm
+        - base
+        - lg
+        - xl
+        - 2xl
+        - 4xl
+        - 6xl
+        - 7xl
+        - 8xl
+        - 9xl
+        - 10xl
+  line_height:
+    type: select
+    options:
+      values:
+        - none
+        - tight
+        - snug
+        - normal
+        - relaxed
+        - loose
+  text_alignment:
+    type: select
+    options:
+      values:
+        - left
+        - center
+        - right
+  text_tracking:
+    type: select
+    options:
+      values:
+        - tighter
+        - tight
+        - normal
+        - wide
+        - wider
+        - widest
+  font_weight:
+    type: select
+    options:
+      values:
+        - hairline
+        - light
+        - normal
+        - semibold
+        - bold
+        - extrabold
+  meta_align:
+    type: select
+    options:
+      values:
+        - left
+        - center
+        - right
   logo:
     type: image
   row_alignment:
     type: select
     options:
       values:
-        - 'start'
-        - 'center'
-        - 'end'
-        - 'between'
-        - 'around'
+        - start
+        - center
+        - end
+        - between
+        - around
   collection_meta:
     type: text
   collection_meta_2:

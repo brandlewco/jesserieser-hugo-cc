@@ -43,35 +43,3 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  title:
-    type: text
-  attached_blog:
-    type: select
-    options:
-      values: collections.blog
-      value_key: content_path
-  align_y:
-    type: select
-    options:
-      values:
-        - start
-        - center
-        - end
-  color: 
-    type: color
-  text_size:
-    type: select
-    options:
-      values:
-        - xs
-        - sm
-        - base
-        - lg
-        - xl
-        - 2xl
-        - 4xl
-        - 6xl
-        - 7xl
-        - 8xl
-        - 9xl
-        - 10xl
