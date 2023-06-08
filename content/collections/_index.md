@@ -11,11 +11,11 @@ collection_sorter:
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
+  - collections/phoenix-open-espn.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/phoenix-open-espn.md
   - collections/time-kari-lake.md
   - collections/stalking-a-serial-killer.md
   - collections/smithsonian.md
