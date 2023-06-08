@@ -283,10 +283,10 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-38-american-photography-annual.md
     text_size: 2xl
-    width: '15'
+    width: '20'
     align_y: start
-    margin_y: '500'
-    margin_left: '15'
+    margin_y: '300'
+    margin_left: '10'
     margin_right: '0'
     title: 'AP 38: American Photography Annual'
     color: '#ffaaaa'
