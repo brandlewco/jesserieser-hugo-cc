@@ -9,7 +9,7 @@
     </figure>
     {{else}}
     <h1 class="relative break-words {{with .font_weight }}font-{{.}} {{end}} text-xl {{with .text_size }}md:text-{{.}} {{end}}{{with .text_tracking}}tracking-{{.}} {{end}}{{with .text_alignment }}text-{{.}} {{end}}{{with .parallax}}rellax rellax-off{{end}} {{with .background_color}}p-4 sm:pt-16 sm:pl-20  sm:pr-16 sm:pb-16 {{end}} leading-tight" {{with .parallax}}data-rellax-speed="4" data-rellax-xs-speed="1"{{end}} style="{{with .text_color}}color:{{.}}; {{end}}{{with .background_color}}background-color:{{.}};{{end}} {{with .caption_css | safeCSS}}{{.}}{{end}}">
-      {{ .text_markdown | markdownify }}
+      {{ .text | markdownify }}
     </h1>
     {{end}}
   </article>

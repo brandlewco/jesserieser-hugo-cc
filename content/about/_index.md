@@ -719,17 +719,16 @@ about_blocks:
     margin_right: '0'
     background_color: '#ff6a5a'
     text: >-
-      <p>“I’ve worked with tons of photographers that can’t make something great
-      out of nothing. You made gold from a blank canvas. Thank you.”
-      -&nbsp;<em>Devin Gillespie Creative Director, Wieden+Kennedy
-      Portland</em></p><p>"It’s no easy task to enter the world of contemporary
-      art color photography, but you have successfully done so with your own
-      unique voice.” <em>- Rob Schaefer Senior Acquisitions Editor, Princeton
-      Architectural Press</em></p><p>“This shoot would not have been such a
-      success without your attention to detail, hands-on approach, and upfront
-      leg work. Thank you!”- <em>Kate Moore Senior Art Producer, Anomaly New
-      York</em></p><p>“You are incapable of taking a normal picture.” - <em>Jen
-      Lamping Lead Print Producer RPA Los Angeles</em></p>
+        “I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” - _Devin Gillespie Creative Director, Wieden+Kennedy Portland_
+
+
+        "It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_
+
+
+        “This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_
+
+
+        “You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_
     parallax: true
     text_size: lg
     background_image_toggle: false
