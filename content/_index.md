@@ -448,7 +448,7 @@ content_blocks:
     margin_left: '15'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#c3d6eb'
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
@@ -457,7 +457,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: center
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
