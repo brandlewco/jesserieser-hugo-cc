@@ -253,8 +253,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/reopen_4x3-4.jpg
-collection_awards:
-  - ''
+collection_awards: []
 collection_press: []
 collection_archive: false
 collection_hidden: false

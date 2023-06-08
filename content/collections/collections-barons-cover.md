@@ -110,7 +110,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-nikola_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-2.jpg
 collection_awards:
-  - content: >-
+  - content: |-
       **2019**<br> AP 35: American Photography Annual 35<br> Best Personal Work
       Series:<br> "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     template: popup-text-element
@@ -121,6 +121,8 @@ collection_press:
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     template: popup-text-element
+    icon:
+    url:
 collection_archive: false
 collection_hidden: false
 hide_footer: true
