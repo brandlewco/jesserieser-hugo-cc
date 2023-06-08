@@ -24,7 +24,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
     width: '33'
     margin_y: '0'
-    margin_left: '45'
+    margin_left: '50'
     margin_right: '0'
     align_y: center
     color: '#c7e7f5'
@@ -44,9 +44,9 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
-    width: '45'
-    margin_y: '500'
-    margin_left: '20'
+    width: '60'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -69,7 +69,7 @@ content_blocks:
     align_y: center
     margin_y: '0'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     block_aspect_ratio: 4x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
     caption: 'Barron''s: Beyond The Drought'
