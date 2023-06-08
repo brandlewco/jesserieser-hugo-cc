@@ -16,7 +16,6 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/stalking-a-serial-killer.md
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
   - collections/star-geezers.md
@@ -44,6 +43,7 @@ collection_sorter:
   - collections/time-kari-lake.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
+  - collections/stalking-a-serial-killer.md
   - collections/endangered-photo-studios.md
   - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
