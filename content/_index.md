@@ -408,11 +408,11 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: '#b49797'
+    text_color: '#84d8eb'
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: normal
+    font_weight: semibold
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
