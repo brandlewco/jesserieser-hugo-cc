@@ -23,7 +23,7 @@ content_blocks:
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
     width: '33'
-    margin_y: '0'
+    margin_y: '50'
     margin_left: '50'
     margin_right: '0'
     align_y: center
@@ -44,9 +44,9 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
-    width: '60'
+    width: '55'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -67,7 +67,7 @@ content_blocks:
     color: '#ffffff'
     width: '15'
     align_y: center
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '10'
     block_aspect_ratio: 4x3
@@ -79,7 +79,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: '45'
     align_y: start
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '40'
     margin_right: '0'
     title_margin_y: '15'
@@ -91,11 +91,11 @@ content_blocks:
     text_tracking: normal
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
-    color: '#D6BFE9'
+    color: '#d6bfe9'
     title: BLOOMBERG
     meta: America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
-    text_color: '#F5A8A8'
+    text_color: '#f5a8a8'
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -152,12 +152,12 @@ content_blocks:
     text_tracking: normal
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
-    color: '#D3E8EF'
+    color: '#d3e8ef'
     attached_collection: collections/barrons-lake-mead-drought.md
     font_weight: semibold
     meta: Beyond the Drought Cover Story
     title: Barron's
-    text_color: '#FFE9D8'
+    text_color: '#ffe9d8'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-link
