@@ -27,7 +27,7 @@ content_blocks:
     margin_left: '45'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#c7e7f5'
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
@@ -49,7 +49,7 @@ content_blocks:
     margin_left: '20'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#c1e6ac'
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
@@ -73,7 +73,7 @@ content_blocks:
     block_aspect_ratio: 4x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
     caption: AP 39
-    theme_color: '#ff0000'
+    theme_color: '#ffd2d2'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
