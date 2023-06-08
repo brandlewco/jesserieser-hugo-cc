@@ -311,11 +311,11 @@ collection_category:
   - Editorial
   - Reportage
   - Travel
-  - Reportage
   - Climate Change
   - Color
   - Environments
   - Portraits
+  - Award Winning
 date: 2022-10-17T16:25:38Z
 theme_color: '#fdcdcd'
 theme_color_all_works: '#ffe05a'
