@@ -6,57 +6,82 @@ post_blocks:
     row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-4.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-5.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-6.jpg
-    width: '60'
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
     width: '40'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-2.jpg
+    width: '60'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-8.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-9.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-10.jpg
-    width: '33'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-11.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-12.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-3.jpg
     width: '66'
   - _bookshop_name: posts/media-element-static
     caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-4.jpg
+    width: '33'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-5.jpg
+    width: '100'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-10.jpg
     width: '33'
   - _bookshop_name: posts/media-element-static
-    image: /images/hero/hero-image-2.png
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-7.jpg
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-11.jpg
+    width: '33'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-12.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-13.jpg
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
+    width: '95'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-16.jpg
     title: blog title
     caption: test caption
-    width: '40'
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-14.jpg
+    title: blog title
+    caption: test caption
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-17.jpg
+    title: blog title
+    caption: test caption
+    width: '33'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-18.jpg
+    title: blog title
+    caption: test caption
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-19.jpg
+    title: blog title
+    caption: test caption
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
