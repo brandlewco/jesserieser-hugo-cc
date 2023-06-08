@@ -289,12 +289,12 @@ content_blocks:
     margin_left: '15'
     margin_right: '0'
     title: 'AP 38: American Photography Annual'
-    color: '#FFAAAA'
-    block_aspect_ratio: 11x8-5
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
+    color: '#ffaaaa'
+    block_aspect_ratio: 5x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/Rieser_ap38-1_vertical.jpg
     blog_header:
     caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
-    theme_color: '#F8D9D9'
+    theme_color: '#f8d9d9'
   - _bookshop_name: home/media-feature
     width: '40'
     align_y: start
