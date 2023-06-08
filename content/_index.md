@@ -24,7 +24,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
     width: '33'
     margin_y: '0'
-    margin_left: '40'
+    margin_left: '45'
     margin_right: '0'
     align_y: center
     color: '#ff0000'
@@ -44,9 +44,9 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golf-digest.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '0'
+    width: '45'
+    margin_y: '500'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#ff0000'
@@ -59,6 +59,21 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: center
+  - _bookshop_name: home/modal-blog
+    title: AP 39
+    meta: Awards
+    attached_blog: posts/ap-39-american-photography-annual.md
+    text_size: base
+    color: '#ffffff'
+    width: '15'
+    align_y: center
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '15'
+    block_aspect_ratio: 4x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
+    caption: AP 39
+    theme_color: '#ff0000'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -929,21 +944,6 @@ content_blocks:
     theme_color: '#E5E5EF'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: AP 39
-    meta: meta
-    attached_blog: posts/ap-39-american-photography-annual.md
-    text_size: base
-    color: '#ffffff'
-    width: '30'
-    align_y: center
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    block_aspect_ratio: 3x4
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
-    caption: Caption
-    theme_color: '#ff0000'
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
