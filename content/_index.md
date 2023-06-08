@@ -395,6 +395,28 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: 'The Wildest Hole in Golf '
+    attached_collection: collections/espn-deandre-ayton.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_color: '#b49797'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     width: '50'
     align_y: start
     margin_y: '300'
