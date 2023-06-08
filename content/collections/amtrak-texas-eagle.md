@@ -13,8 +13,8 @@ collection_description: >-
   Ruidoso, and Carlsbad Caverns.
 
 
-  Named a finalist for the 2023 Communication Arts Annual as one of the year’s
-  best in editorial photography.
+  Named a finalist for the 2023 Communication Arts Photography Annual as one of
+  the year’s best in editorial photography.
 collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:
@@ -288,7 +288,7 @@ collection_category:
   - Award Winning
 date: 2022-07-21T01:29:36Z
 theme_color: '#c7d6ef'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
