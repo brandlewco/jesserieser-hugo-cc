@@ -42,7 +42,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: Golf Digest
-    attached_collection: collections/golf-digest.md
+    attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
     width: '45'
     margin_y: '500'
