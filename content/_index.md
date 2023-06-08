@@ -397,7 +397,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title: ESPN
     meta: 'The Wildest Hole in Golf '
-    attached_collection: collections/espn-deandre-ayton.md
+    attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg
     width: '30'
     margin_y: '100'
