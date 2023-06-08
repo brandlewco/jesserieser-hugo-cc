@@ -44,6 +44,8 @@ _inputs:
     type: markdown
   title: 
     type: text
+  text:
+    type: markdown
   icon:
     type: select
     options:
@@ -464,4 +466,5 @@ _structures:
 
 _editables:
   text:
+  title:
 

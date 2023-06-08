@@ -49,4 +49,4 @@ _inputs:
       value_key: content_path
       preview:
         text:
-          - key: slug
+          - key: collection_meta

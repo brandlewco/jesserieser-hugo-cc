@@ -31,7 +31,7 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: 0
+    text_color: "#000000"
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -378,7 +378,6 @@ content_blocks:
     title: Christmas in America
     color: '#F4C8C8'
     meta: "2010 - \_2019"
-    margin_x: 0
     align_y: 0
     margin_left: '0'
     margin_right: '10'
@@ -529,7 +528,6 @@ content_blocks:
     title: The Star Geezers
     color: '#9bbad5'
     meta: "Condor\_Airlines (Germany)"
-    margin_x: 0
     align_y: 0
     margin_left: '25'
     margin_right: '0'
@@ -880,7 +878,6 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     width: '25'
     align_x: start
-    margin_x: '0'
     margin_y: '50'
     title: WaPo
     image:

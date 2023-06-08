@@ -67,7 +67,6 @@ about_blocks:
     margin_left: '15'
     margin_right: '0'
     title_margin_left: -30
-    margin_x: '5'
     align_y: 0
     title_margin_right:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
@@ -369,7 +368,6 @@ about_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
     color: '#FFDA8A'
-    margin_x: '5'
     align_y: 0
     title_margin_right:
     meta: 1984. © Rob Rieser
@@ -751,7 +749,6 @@ about_blocks:
     margin_left: '20'
     margin_right: '0'
     title_margin_left: -35
-    margin_x: '5'
     align_y: 0
     title_margin_right:
     title: Press & Interviews
