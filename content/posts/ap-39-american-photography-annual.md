@@ -81,6 +81,16 @@ post_blocks:
     caption: test caption
     width: '50'
   - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-20.jpg
+    title: blog title
+    caption: test caption
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-24.jpg
+    title: blog title
+    caption: test caption
+    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end
 blog_slider:
