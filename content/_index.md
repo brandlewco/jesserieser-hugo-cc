@@ -53,7 +53,7 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: 0
+    text_color: ""
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -264,7 +264,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '10'
-    title_margin_left: -55
+    title_margin_left: "-55"
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -378,7 +378,7 @@ content_blocks:
     title: Christmas in America
     color: '#F4C8C8'
     meta: "2010 - \_2019"
-    align_y: 0
+    align_y: 
     margin_left: '0'
     margin_right: '10'
     title_margin_left: '5'
@@ -528,7 +528,7 @@ content_blocks:
     title: The Star Geezers
     color: '#9bbad5'
     meta: "Condor\_Airlines (Germany)"
-    align_y: 0
+    align_y: 
     margin_left: '25'
     margin_right: '0'
     title_margin_left: '70'
@@ -564,7 +564,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '15'
-    title_margin_left: -20
+    title_margin_left: "-20"
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -728,7 +728,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '20'
-    title_margin_left: -15
+    title_margin_left: "-15"
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -781,7 +781,7 @@ content_blocks:
     theme_color: '#C8B3EB'
   - _bookshop_name: home/media-feature
     width: '40'
-    align_y: 0
+    align_y: start
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
@@ -822,7 +822,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    title_margin_left: -30
+    title_margin_left: "-30"
     title_margin_right: '0'
     meta_align: right
     title: Amtrak the National

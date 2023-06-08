@@ -58,6 +58,8 @@ _inputs:
       italic: true
       link: true
       removeformat: true
+  about_bio:
+    type: markdown
   collection_content:
     type: markdown
     options:
@@ -226,6 +228,7 @@ _inputs:
       type: select
       options:
         values:
+          - '0'
           - '5'
           - '10'
           - '15'
@@ -246,7 +249,26 @@ _inputs:
           - '90'
           - '95'
           - '100'
-          - '0'
+          - '-5'
+          - '-10'
+          - '-15'
+          - '-20'
+          - '-25'
+          - '-30'
+          - '-35'
+          - '-40'
+          - '-45'
+          - '-50'
+          - '-55'
+          - '-60'
+          - '-65'
+          - '-70'
+          - '-75'
+          - '-80'
+          - '-85'
+          - '-90'
+          - '-95'
+          - '-100'
   title_margin_right:
     type: select
     options:
