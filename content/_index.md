@@ -290,7 +290,7 @@ content_blocks:
     margin_right: '0'
     title: 'AP 38: American Photography Annual'
     color: '#ffaaaa'
-    block_aspect_ratio: 5x4
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/Rieser_ap38-1_vertical.jpg
     blog_header:
     caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
