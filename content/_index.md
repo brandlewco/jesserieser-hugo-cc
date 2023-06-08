@@ -60,7 +60,7 @@ content_blocks:
     font_weight: normal
     meta_align: left
   - _bookshop_name: home/modal-blog
-    title: AP 39
+    title: 'AP 39: American Photography Annual '
     meta: Awards
     attached_blog: posts/ap-39-american-photography-annual.md
     text_size: base
@@ -72,7 +72,7 @@ content_blocks:
     margin_right: '15'
     block_aspect_ratio: 4x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
-    caption: AP 39
+    caption: 'Barron''s: Beyond The Drought'
     theme_color: '#ffd2d2'
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -479,7 +479,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
