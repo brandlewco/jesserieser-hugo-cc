@@ -43,14 +43,18 @@ about_bio: >-
   painter and educator and a father who draws and paints; they exposed him to
   the colorful pop art movement of the 50s, American photo realism of the 70s;
   and the use of light to celebrate the subjects in the Dutch Baroque, and
-  Renaissance periods — all major influences in his aesthetic. For the past
-  decade Jesse has carefully constructed a photographic world built on the
-  foundation of celebrating the mundane and humorous elements that often go
-  overlooked in our day-to-day American experience. His use of light and
+  Renaissance periods — all major influences in his aesthetic.
+
+
+  For the past decade Jesse has carefully constructed a photographic world built
+  on the foundation of celebrating the mundane and humorous elements that often
+  go overlooked in our day-to-day American experience. His use of light and
   bleached color, leaves the viewer with the illusion that our existence is
   equally beautiful as it is fleeting. In this world you will find one-time
   paradisal places and memories framed by our modern anxieties about the past,
   present, and future — examining our rituals and the artifacts left behind.
+
+
   Clients find him as a creative additive to the collaborative process not only
   with his technical expertise but also in the ideation phase. He feels his
   greatest currency is how he communicates and sees the world. Some call it
