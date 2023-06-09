@@ -225,6 +225,7 @@ _inputs:
         - '100'
         - '0'
   title_margin_y:
+      label: Title Margin Top
       type: select
       options:
         values:

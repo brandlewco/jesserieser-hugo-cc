@@ -473,7 +473,7 @@ content_blocks:
     caption: test caption
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: 0
+    text_color: "#ffffff"
     line_height: normal
     text_alignment: center
     text_tracking: normal
