@@ -379,7 +379,7 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
     color: '#F4C8C8'
-    meta: "2010 - 2019"
+    meta: 2010 - 2019
     align_y:
     margin_left: '0'
     margin_right: '10'
@@ -474,10 +474,10 @@ content_blocks:
     align_y: center
     color: '#c3d6eb'
     caption: test caption
-    title_margin_y: '0'
+    title_margin_y: '-10'
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: "#ffffff"
+    text_color: '#f6a3f7'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -554,11 +554,11 @@ content_blocks:
     margin_left: '0'
     margin_right: '5'
     title: The Photo Banter
-    color: '#0CA5E5'
+    color: '#0ca5e5'
     block_aspect_ratio: 1x1
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
     caption: Interview
-    theme_color: '#FFD595'
+    theme_color: '#ffd595'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
