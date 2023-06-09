@@ -36,8 +36,8 @@ header_col_3: >-
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 about_bio: >-
-  **Bio** Jesse was born in the Ozarks — an 80s kid with a Midwestern upbringing
-  in Springfield, Missouri. At Arizona State University he majored in
+  **Bio**<br>Jesse was born in the Ozarks — an 80s kid with a Midwestern
+  upbringing in Springfield, Missouri. At Arizona State University he majored in
   photography and art history while attending the Herberger Institute of Art and
   Design. His world has been shaped by his artistic parents: a mother who is a
   painter and educator and a father who draws and paints; they exposed him to
