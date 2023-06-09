@@ -108,9 +108,11 @@ about_blocks:
         icon:
         url:
       - content: >-
-          **2021**<br>I am Not a Soldier. But I Have Been Trained to
-          Kill.<br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory
-          21
+          **2021**
+
+
+          I am Not a Soldier. But I Have Been Trained to Kill.<br>Legend City
+          Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory 21
         icon:
         url:
       - content: |-
