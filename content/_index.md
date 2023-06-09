@@ -407,10 +407,10 @@ content_blocks:
     align_y: center
     color: '#fdddad'
     caption: test caption
-    title_margin_y: '0'
+    title_margin_y: '10'
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: '#d0f79c'
+    text_color: '#fd8080'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -474,7 +474,7 @@ content_blocks:
     align_y: center
     color: '#c3d6eb'
     caption: test caption
-    title_margin_y: '-10'
+    title_margin_y: '-5'
     title_margin_left: '0'
     title_margin_right: '0'
     text_color: '#f6a3f7'
