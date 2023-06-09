@@ -36,14 +36,17 @@ header_col_3: >-
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 about_bio: >-
-  **Bio**<br>Jesse was born in the Ozarks — an 80s kid with a Midwestern
-  upbringing in Springfield, Missouri. At Arizona State University he majored in
-  photography and art history while attending the Herberger Institute of Art and
-  Design. His world has been shaped by his artistic parents: a mother who is a
-  painter and educator and a father who draws and paints; they exposed him to
-  the colorful pop art movement of the 50s, American photo realism of the 70s;
-  and the use of light to celebrate the subjects in the Dutch Baroque, and
-  Renaissance periods — all major influences in his aesthetic.
+  **Bio**
+
+
+  Jesse was born in the Ozarks — an 80s kid with a Midwestern upbringing in
+  Springfield, Missouri. At Arizona State University he majored in photography
+  and art history while attending the Herberger Institute of Art and Design. His
+  world has been shaped by his artistic parents: a mother who is a painter and
+  educator and a father who draws and paints; they exposed him to the colorful
+  pop art movement of the 50s, American photo realism of the 70s; and the use of
+  light to celebrate the subjects in the Dutch Baroque, and Renaissance periods
+  — all major influences in his aesthetic.
 
 
   For the past decade Jesse has carefully constructed a photographic world built
