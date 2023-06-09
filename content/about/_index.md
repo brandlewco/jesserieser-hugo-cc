@@ -95,13 +95,9 @@ about_blocks:
           Shadows.<br>Paradise Valley, AZ (Solo Show)
 
 
-          *A Vanishing Folklore* 2012 - 2022
-
-
-          *The Changing Landscape of American Retail*&nbsp; 2015 - 2022
-
-
-          *Christmas In America: Happy Birthday, Jesus*&nbsp; 2010 - 2022
+          *A Vanishing Folklore* 2012 - 2022<br>*The Changing Landscape of
+          American Retail*&nbsp; 2015 - 2022<br>*Christmas In America: Happy
+          Birthday, Jesus*&nbsp; 2010 - 2022
         icon:
         url:
       - content: >-
