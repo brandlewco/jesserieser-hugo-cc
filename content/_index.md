@@ -29,6 +29,7 @@ content_blocks:
     align_y: center
     color: '#c7e7f5'
     caption: test caption
+    title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
     text_color: '#000000'
@@ -51,6 +52,7 @@ content_blocks:
     align_y: center
     color: '#c1e6ac'
     caption: test caption
+    title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
     text_color: ''
@@ -405,6 +407,7 @@ content_blocks:
     align_y: center
     color: '#fdddad'
     caption: test caption
+    title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
     text_color: '#d0f79c'
@@ -471,6 +474,7 @@ content_blocks:
     align_y: center
     color: '#c3d6eb'
     caption: test caption
+    title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
     text_color: "#ffffff"
