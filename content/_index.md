@@ -407,8 +407,8 @@ content_blocks:
     align_y: center
     color: '#fdddad'
     caption: test caption
-    title_margin_y: '10'
-    title_margin_left: '0'
+    title_margin_y: '20'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_color: '#fd8080'
     line_height: normal
