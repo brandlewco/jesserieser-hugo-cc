@@ -91,10 +91,7 @@ about_blocks:
     modal_color: '#77ddd4'
     modal_block:
       - content: >-
-          **2022**
-
-
-          *Souvenirs From Paradise*<br>The Gallery at Mountain
+          **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain
           Shadows.<br>Paradise Valley, AZ (Solo Show)
 
 
