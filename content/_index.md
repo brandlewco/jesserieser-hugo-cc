@@ -397,7 +397,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: ESPN
-    meta: 'The Wildest Hole in Golf '
+    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg
     width: '30'
@@ -415,7 +415,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: center
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
