@@ -489,7 +489,7 @@ collection_awards: []
 collection_press: []
 collection_archive: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: black
 px_extra: true
 row_alignment: between
