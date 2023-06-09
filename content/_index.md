@@ -474,8 +474,8 @@ content_blocks:
     align_y: center
     color: '#c3d6eb'
     caption: test caption
-    title_margin_y: '-5'
-    title_margin_left: '0'
+    title_margin_y: '10'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_color: '#f6a3f7'
     line_height: normal
