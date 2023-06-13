@@ -91,45 +91,36 @@ about_blocks:
     modal_block:
       - content: >-
           **2022**
-          Souvenirs From Paradise
-          The Gallery at Mountain
-          Shadows.
-          Paradise Valley, AZ (Solo Show)
 
 
-          *A Vanishing Folklore* 2012 - 2022
-          *The Changing Landscape of American Retail 2015 - 2022*
-          Christmas In America: Happy Birthday, Jesus 2010 - 2022
+          Souvenirs From Paradise The Gallery at Mountain Shadows. Paradise
+          Valley, AZ (Solo Show)
+
+
+          *A Vanishing Folklore* 2012 - 2022 *The Changing Landscape of American
+          Retail 2015 - 2022* Christmas In America: Happy Birthday, Jesus 2010 -
+          2022
         icon:
         url:
       - content: >-
-          **2021**
-          I am Not a Soldier. But I Have Been Trained to Kill.
-          Legend City Gallery. Phoenix, AZ (Group Show)
-          Chaos Theory 21
+          **2021** I am Not a Soldier. But I Have Been Trained to Kill. Legend
+          City Gallery. Phoenix, AZ (Group Show) Chaos Theory 21
         icon:
         url:
       - content: >-
-          **2020**  
-          _The Changing Landscape of American Retail_  
-          Fresh Exhibiting Artist  
-          Klompching Gallery  
-          Brooklyn, NY (Group Show)
+          **2020**   _The Changing Landscape of American Retail_   Fresh
+          Exhibiting Artist   Klompching Gallery   Brooklyn, NY (Group Show)
         icon:
         url:
       - content: >-
-          **2020 - 2019**  
-          _The Changing Landscape of American Retail_
+          **2020 - 2019**   _The Changing Landscape of American Retail_
 
           Photoville The Fence:
 
-          * Brooklyn Bridge Park. Brooklyn, NY.
-          * Santa Fe Railyard Park. Santa Fe, NM.
-          * LoDo District. Denver, CO.
-          * Atlanta Beltline. Atlanta, GA.
-          * City Hall Plaza. Durham, NC.
-          * SoWa Southie Plaza. Boston, MA.
-          * Fourth Ward. Houston, TX.
+          * Brooklyn Bridge Park. Brooklyn, NY. * Santa Fe Railyard Park. Santa
+          Fe, NM. * LoDo District. Denver, CO. * Atlanta Beltline. Atlanta, GA.
+          * City Hall Plaza. Durham, NC. * SoWa Southie Plaza. Boston, MA. *
+          Fourth Ward. Houston, TX.
         icon:
         url:
       - content: >-
@@ -144,188 +135,142 @@ about_blocks:
         icon:
         url:
       - content: >-
-          **2019**  
-          _Grand Canyon National Park Centennial for Time Magazine_  
-          Terry Etherton Gallery. Tucson, AZ (Group Show)  
-          Celebrating The Grand Canyon National Park at 100
+          **2019**   _Grand Canyon National Park Centennial for Time Magazine_  
+          Terry Etherton Gallery. Tucson, AZ (Group Show)   Celebrating The
+          Grand Canyon National Park at 100
         icon:
         url:
       - content: >-
-          **2019**  
-          _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 20
+          **2019**   _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
+          Legend City Gallery. Phoenix, AZ (Group Show)   Chaos Theory 20
         icon:
         url:
       - content: >-
-          **2019**  
-          _The Changing Landscape of American Retail_  
-          Camerawork Gallery  
-          Portland, OR (Solo Show)
+          **2019**   _The Changing Landscape of American Retail_   Camerawork
+          Gallery   Portland, OR (Solo Show)
         icon:
         url:
       - content: >-
-          **2019**  
-          _The Changing Landscape of American Retail_  
-          Standard Vision LA at LA Live.   
-          Los Angeles, CA (Solo Show)
+          **2019**   _The Changing Landscape of American Retail_   Standard
+          Vision LA at LA Live.    Los Angeles, CA (Solo Show)
         icon:
         url:
       - content: >-
-          **2018 - 2019**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Mabee-Gerrer Museum of Art  
-          Shawnee, OK (Solo Show)
+          **2018 - 2019**   _Christmas In America: Happy Birthday, Jesus_  
+          Mabee-Gerrer Museum of Art   Shawnee, OK (Solo Show)
         icon:
         url:
       - content: >-
-          **2018**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Industry City  
-          Brooklyn, NY (Solo Show)
+          **2018**   _Christmas In America: Happy Birthday, Jesus_   Industry
+          City   Brooklyn, NY (Solo Show)
         icon:
         url:
       - content: >-
-          **2018**  
-          _The Changing Landscape of American Retail_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 18
+          **2018**   _The Changing Landscape of American Retail_   Legend City
+          Gallery. Phoenix, AZ (Group Show)   Chaos Theory 18
         icon:
         url:
       - content: >-
-          **2018**  
-          _Stalking A Serial Killer_  
-          HCP Print Auction, Houston Center for Photography.  
-          Houston, TX (Group Show)
+          **2018**   _Stalking A Serial Killer_   HCP Print Auction, Houston
+          Center for Photography.   Houston, TX (Group Show)
         icon:
         url:
       - content: >-
-          **2017 - 2018**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Irving Arts Center a Smithsonian Affiliate  
-          Irving, TX (Solo Show)
+          **2017 - 2018**   _Christmas In America: Happy Birthday, Jesus_  
+          Irving Arts Center a Smithsonian Affiliate   Irving, TX (Solo Show)
         icon:
         url:
       - content: >-
-          **2017 - 2018**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Standard Vision LA at LA Live.   
-          Los Angeles, CA (Solo Show)
+          **2017 - 2018**   _Christmas In America: Happy Birthday, Jesus_  
+          Standard Vision LA at LA Live.    Los Angeles, CA (Solo Show)
         icon:
         url:
       - content: >-
-          **2017 - 2018**  
-          _Christmas In America: Happy Birthday, Jesus_  
+          **2017 - 2018**   _Christmas In America: Happy Birthday, Jesus_  
           Photoville The Fence:
 
-          * Brooklyn Bridge Park. Brooklyn, NY.
-          * Santa Fe Railyard Park. Santa Fe, NM.
-          * LoDo District. Denver, CO.
-          * Atlanta Beltline. Atlanta, GA.
-          * City Hall Plaza. Durham, NC.
-          * SoWa Southie Plaza. Boston, MA.
-          * Fourth Ward. Houston, TX.
+          * Brooklyn Bridge Park. Brooklyn, NY. * Santa Fe Railyard Park. Santa
+          Fe, NM. * LoDo District. Denver, CO. * Atlanta Beltline. Atlanta, GA.
+          * City Hall Plaza. Durham, NC. * SoWa Southie Plaza. Boston, MA. *
+          Fourth Ward. Houston, TX.
         icon:
         url:
       - content: >-
-          **2017**  
-          _Stalking A Serial Killer_  
-          Sunday Afternoon Gallery.  
+          **2017**   _Stalking A Serial Killer_   Sunday Afternoon Gallery.  
           New York, NY (Group Show)
         icon:
         url:
       - content: >-
-          **2017**  
-          _Chaos Theory 17_  
-          Legend City Gallery. Phoenix, AZ (Group Show)
+          **2017**   _Chaos Theory 17_   Legend City Gallery. Phoenix, AZ (Group
+          Show)
         icon:
         url:
       - content: >-
-          **2016**  
-          _Sounds of Cement_  
-          Inert Gallery. New York, NY (Group Show)  
-          Sunday Afternoon Artist Exhibition
+          **2016**   _Sounds of Cement_   Inert Gallery. New York, NY (Group
+          Show)   Sunday Afternoon Artist Exhibition
         icon:
         url:
       - content: >-
-          **2016**  
-          _A New American Folklore_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 16
+          **2016**   _A New American Folklore_   Legend City Gallery. Phoenix,
+          AZ (Group Show)   Chaos Theory 16
         icon:
         url:
       - content: >-
-          **2014**  
-          _The Wallow Fire_  
-          How One Thing Leads To Another: Critical Mass Top 50 Touring Show
+          **2014**   _The Wallow Fire_   How One Thing Leads To Another:
+          Critical Mass Top 50 Touring Show
 
-          * Corden Potts Gallery. San Francisco, CA
-          * Houston Center For Photography. Houston, TX (Group Show)
+          * Corden Potts Gallery. San Francisco, CA * Houston Center For
+          Photography. Houston, TX (Group Show)
         icon:
         url:
       - content: >-
-          **2014**  
-          OFFF Barcelona: A Post Digital Culture Festival  
+          **2014**   OFFF Barcelona: A Post Digital Culture Festival  
           Barcelona, Spain (Group Show)
         icon:
         url:
       - content: >-
-          **2014**  
-          The ADC Festival of Art + Craft in Advertising and Design.  
-          The New World Center.  
-          Miami, FL
+          **2014**   The ADC Festival of Art + Craft in Advertising and
+          Design.   The New World Center.   Miami, FL
         icon:
         url:
       - content: >-
-          **2013**  
-          _The Wallow Fire_  
-          Monorchid Gallery. Phoenix, AZ (Group Show)  
-          The Forty Eighth: Contemporary Photography at Arizona’s Centennial
+          **2013**   _The Wallow Fire_   Monorchid Gallery. Phoenix, AZ (Group
+          Show)   The Forty Eighth: Contemporary Photography at Arizona’s
+          Centennial
         icon:
         url:
       - content: >-
-          **2013**  
-          Chaos Theory 13  
-          _A New American Folklore_  
-          Legend City Gallery. Phoenix, AZ (Group Show)
+          **2013**   Chaos Theory 13   _A New American Folklore_   Legend City
+          Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
       - content: >-
-          **2012**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show
+          **2012**   _Christmas In America: Happy Birthday, Jesus_   Love,
+          Anxiety, and Happiness: Critical Mass Top 50 Touring Show
 
-          * Northwest Center For Photography. Seattle, WA
-          * Newspace Center For Photography. Portland, OR
-          * Raykko Gallery. San Francisco, CA (Group Show)
+          * Northwest Center For Photography. Seattle, WA * Newspace Center For
+          Photography. Portland, OR * Raykko Gallery. San Francisco, CA (Group
+          Show)
         icon:
         url:
       - content: >-
-          **2012**  
-          _Class of 99 Turns 30_  
-          La Fototeca Gallery. Guatemala City (Group Show)  
-          Guate Photo Festival: \[DOT\]COM
+          **2012**   _Class of 99 Turns 30_   La Fototeca Gallery. Guatemala
+          City (Group Show)   Guate Photo Festival: \[DOT\]COM
         icon:
         url:
       - content: >-
-          **2011**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Newspace Center for Photography.  
-          Portland, OR (Solo Show)
+          **2011**   _Christmas In America: Happy Birthday, Jesus_   Newspace
+          Center for Photography.   Portland, OR (Solo Show)
         icon:
         url:
       - content: >-
-          **2011**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          The Saguaro, A Joie de Vivre Boutique Hotel.  
-          Scottsdale, AZ (Solo Show)
+          **2011**   _Christmas In America: Happy Birthday, Jesus_   The
+          Saguaro, A Joie de Vivre Boutique Hotel.   Scottsdale, AZ (Solo Show)
         icon:
         url:
       - content: >-
-          **2011**  
-          _Art Director’s Club Young Guns 9 Exhibition_  
-          Art Director’s Club Gallery.  
-          New York, NY. (Group Show)
+          **2011**   _Art Director’s Club Young Guns 9 Exhibition_   Art
+          Director’s Club Gallery.   New York, NY. (Group Show)
         icon:
         url:
       - content: >-
@@ -342,38 +287,28 @@ about_blocks:
         icon:
         url:
       - content: >-
-          **2011**  
-          _Christmas In America: Happy Birthday, Jesus_  
-          Camera Club of New York Gallery  
-          New York, NY (Group Show)
+          **2011**   _Christmas In America: Happy Birthday, Jesus_   Camera Club
+          of New York Gallery   New York, NY (Group Show)
         icon:
         url:
       - content: >-
-          **2011**  
-          _Starting Over: Will Move for Work_  
-          Filter Photo Festival Juried Exhibition  
-          Black Cloud Gallery. Chicago, IL (Group Show)
+          **2011**   _Starting Over: Will Move for Work_   Filter Photo Festival
+          Juried Exhibition   Black Cloud Gallery. Chicago, IL (Group Show)
         icon:
         url:
       - content: >-
-          **2010**  
-          _The Class of 99 Turns 30_  
-          Chaos Theory 10  
-          Legend City Gallery. Phoenix, AZ (Group Show)
+          **2010**   _The Class of 99 Turns 30_   Chaos Theory 10   Legend City
+          Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
       - content: >-
-          **2009**  
-          _On the Verge of Existence_  
-          Hendershot Gallery.  
-          New York, NY (Group Show)
+          **2009**   _On the Verge of Existence_   Hendershot Gallery.   New
+          York, NY (Group Show)
         icon:
         url:
-      - content: >-
+      - content: |-
           **Test Formatting**
-
           Testing Next Line
-
           Testing New Line
         icon:
         url:
@@ -400,33 +335,24 @@ about_blocks:
     meta_align: right
     modal_color: '#FAD267'
     modal_block:
-      - content: >-
+      - content: |-
           **2021**  
-
           _I am Not a Soldier. But I Have Been Trained to Kill._  
-
           Legend City Gallery. Phoenix, AZ (Group Show)  
-
           Chaos Theory 21
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2020**  
-
           _The Changing Landscape of American Retail_  
-
           Fresh Exhibiting Artist  
-
           Klompching Gallery  
-
           Brooklyn, NY (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2020 - 2019**  
-
           _The Changing Landscape of American Retail_
-
 
 
 
@@ -434,19 +360,12 @@ about_blocks:
 
 
 
-
           * Brooklyn Bridge Park. Brooklyn, NY.
-
           * Santa Fe Railyard Park. Santa Fe, NM.
-
           * LoDo District. Denver, CO.
-
           * Atlanta Beltline. Atlanta, GA.
-
           * City Hall Plaza. Durham, NC.
-
           * SoWa Southie Plaza. Boston, MA.
-
           * Fourth Ward. Houston, TX.
         icon: ''
         url: ''
@@ -464,276 +383,194 @@ about_blocks:
           Geographic
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2019**  
-
           _Grand Canyon National Park Centennial for Time Magazine_ \ 
-
           Terry Etherton Gallery. Tucson, AZ (Group Show)  
-
           Celebrating The Grand Canyon National Park at 100
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2019**  
-
           _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
-
           Legend City Gallery. Phoenix, AZ (Group Show)  
-
           Chaos Theory 20
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2019**  
-
           _The Changing Landscape of American Retail_  
-
           Camerawork Gallery  
-
           Portland, OR (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2019**  
-
           _The Changing Landscape of American Retail_  
-
           Standard Vision LA at LA Live.   
-
           Los Angeles, CA (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2018 - 2019**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Mabee-Gerrer Museum of Art  
-
           Shawnee, OK (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2018**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Industry City  
-
           Brooklyn, NY (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2018**  
-
           _The Changing Landscape of American Retail_  
-
           Legend City Gallery. Phoenix, AZ (Group Show)  
-
           Chaos Theory 18
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2018**  
-
           _Stalking A Serial Killer_  
-
           HCP Print Auction, Houston Center for Photography.  
-
           Houston, TX (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2017 - 2018**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Irving Arts Center a Smithsonian Affiliate  
-
           Irving, TX (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2017 - 2018**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Standard Vision LA at LA Live.   
-
           Los Angeles, CA (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2017 - 2018**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Photoville The Fence:
 
 
 
-
           * Brooklyn Bridge Park. Brooklyn, NY.
-
           * Santa Fe Railyard Park. Santa Fe, NM.
-
           * LoDo District. Denver, CO.
-
           * Atlanta Beltline. Atlanta, GA.
-
           * City Hall Plaza. Durham, NC.
-
           * SoWa Southie Plaza. Boston, MA.
-
           * Fourth Ward. Houston, TX.
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2017**  
-
           _Stalking A Serial Killer_  
-
           Sunday Afternoon Gallery. \ 
-
           New York, NY (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2017**  
-
           _Chaos Theory 17_  
-
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2016**  
-
           _Sounds of Cement_  
-
           Inert Gallery. New York, NY (Group Show)  
-
           Sunday Afternoon Artist Exhibition
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2016**  
-
           _A New American Folklore_  
-
           Legend City Gallery. Phoenix, AZ (Group Show)  
-
           Chaos Theory 16
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2014**  
-
           _The Wallow Fire_  
-
           How One Thing Leads To Another: Critical Mass Top 50 Touring Show
 
 
 
-
           * Corden Potts Gallery. San Francisco, CA
-
           * Houston Center For Photography. Houston, TX (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2014**  
-
           OFFF Barcelona: A Post Digital Culture Festival  
-
           Barcelona, Spain (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2014**  
-
           The ADC Festival of Art + Craft in Advertising and Design. \ 
-
           The New World Center.  
-
           Miami, FL
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2013**  
-
           _The Wallow Fire_  
-
           Monorchid Gallery. Phoenix, AZ (Group Show)  
-
           The Forty Eighth: Contemporary Photography at Arizona’s Centennial
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2013**  
-
           Chaos Theory 13  
-
           _A New American Folklore_  
-
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2012**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show
 
 
 
-
           * Northwest Center For Photography. Seattle, WA
-
           * Newspace Center For Photography. Portland, OR
-
           * Raykko Gallery. San Francisco, CA (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2012**  
-
           _Class of 99 Turns 30_  
-
           La Fototeca Gallery. Guatemala City (Group Show)  
-
           Guate Photo Festival: \\[DOT\\]COM
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2011**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Newspace Center for Photography.  
-
           Portland, OR (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2011**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           The Saguaro, A Joie de Vivre Boutique Hotel.  
-
           Scottsdale, AZ (Solo Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2011**  
-
           _Art Director’s Club Young Guns 9 Exhibition_  
-
           Art Director’s Club Gallery.  
-
           New York, NY. (Group Show)
         icon: ''
         url: ''
@@ -754,43 +591,31 @@ about_blocks:
           Lyceum Theatre Gallery. San Diego, CA (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2011**  
-
           _Christmas In America: Happy Birthday, Jesus_  
-
           Camera Club of New York Gallery  
-
           New York, NY (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2011**  
-
           _Starting Over: Will Move for Work_  
-
           Filter Photo Festival Juried Exhibition  
-
           Black Cloud Gallery. Chicago, IL (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2010**  
-
           _The Class of 99 Turns 30_  
-
           Chaos Theory 10  
-
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: >-
+      - content: |-
           **2009**  
-
           _On the Verge of Existence_  
-
           Hendershot Gallery.  
-
           New York, NY (Group Show)
         icon: ''
         url: ''

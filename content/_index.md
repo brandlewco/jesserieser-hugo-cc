@@ -46,7 +46,7 @@ content_blocks:
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
     width: '55'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '10'
     margin_right: '0'
     align_y: center
@@ -55,7 +55,7 @@ content_blocks:
     title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
-    text_color: ''
+    text_color:
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -68,7 +68,7 @@ content_blocks:
     text_size: base
     color: '#ffffff'
     width: '15'
-    align_y: center
+    align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '10'
