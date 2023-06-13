@@ -366,7 +366,12 @@ about_blocks:
           New York, NY (Group Show)
         icon:
         url:
-      - content: '**Test Formatting**<br><br>Testing Next Line<br><br>Testing New Line'
+      - content: |-
+          **Test Formatting**
+
+          Testing Next Line
+
+          Testing New Line
         icon:
         url:
   - _bookshop_name: about/modal-list
