@@ -829,6 +829,10 @@ footer a {
   pointer-events: auto;
 }
 
+.popup-modal p {
+  margin-bottom: 0 !important;
+}
+
 @media (min-width: 768px) {
   .sm\:meta-hover h6 {
   opacity: 0 !important;
