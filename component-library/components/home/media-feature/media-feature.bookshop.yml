@@ -17,7 +17,7 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: "Collection Title" 
-  meta: "meta"
+  meta: "Collection Meta"
   attached_collection: collections/xmas-in-america.md
   image: /images/hero/hero-image-2.png
   width: '40'
@@ -30,6 +30,7 @@ blueprint:
   title_margin_y: '0'
   title_margin_left: '0'
   title_margin_right: '0'
+  text_size: 4xl
   text_color: "#000000"
   line_height: normal
   text_alignment: center
