@@ -493,13 +493,13 @@ content_blocks:
     margin_left: '0'
     margin_right: '0'
     title: Star Geezers on BOOOOOOM!
-    color: '#FFE7C3'
+    color: '#ffe7c3'
     text_size:
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
     caption: Fisheye Photo Review 2021.22
-    theme_color: '#D9F8F4'
+    theme_color: '#d9f8f4'
   - _bookshop_name: home/media-feature
     width: '50'
     align_y: start
