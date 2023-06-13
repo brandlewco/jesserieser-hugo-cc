@@ -73,8 +73,8 @@ about_blocks:
     margin_y: '800'
     margin_left: '15'
     margin_right: '0'
-    title_margin_left: -30
-    align_y: 0
+    title_margin_left: '-30'
+    align_y: start
     title_margin_right:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     title: Exhibitions
@@ -377,7 +377,7 @@ about_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
     color: '#FFDA8A'
-    align_y: 0
+    align_y: start
     title_margin_right:
     meta: 1984. © Rob Rieser
     title_margin_y: '35'
@@ -986,7 +986,7 @@ about_blocks:
     margin_left: '20'
     margin_right: '0'
     title_margin_left: -35
-    align_y: 0
+    align_y: start
     title_margin_right:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
