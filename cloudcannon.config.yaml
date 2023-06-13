@@ -47,10 +47,9 @@ _inputs:
   text:
     type: markdown
   icon:
-    type: select
-    options:
-      values:
-        - ph-user-square
+    type: image
+  url:
+    type: text
   description:
     type: markdown
     options:
