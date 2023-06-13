@@ -91,22 +91,26 @@ about_blocks:
     modal_color: '#77ddd4'
     modal_block:
       - content: >-
-          **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain
-          Shadows.<br>Paradise Valley, AZ (Solo Show)
+          **2022**
+          Souvenirs From Paradise
+          The Gallery at Mountain
+          Shadows.
+          Paradise Valley, AZ (Solo Show)
 
 
-          *A Vanishing Folklore* 2012 - 2022<br>*The Changing Landscape of
-          American Retail*&nbsp; 2015 - 2022<br>*Christmas In America: Happy
-          Birthday, Jesus*&nbsp; 2010 - 2022
+          *A Vanishing Folklore* 2012 - 2022
+          *The Changing Landscape of American Retail 2015 - 2022*
+          Christmas In America: Happy Birthday, Jesus 2010 - 2022
         icon:
         url:
       - content: >-
-          **2021**<br>I am Not a Soldier. But I Have Been Trained to
-          Kill.<br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory
-          21
+          **2021**
+          I am Not a Soldier. But I Have Been Trained to Kill.
+          Legend City Gallery. Phoenix, AZ (Group Show)
+          Chaos Theory 21
         icon:
         url:
-      - content: |-
+      - content: >-
           **2020**  
           _The Changing Landscape of American Retail_  
           Fresh Exhibiting Artist  
@@ -114,7 +118,7 @@ about_blocks:
           Brooklyn, NY (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2020 - 2019**  
           _The Changing Landscape of American Retail_
 
@@ -140,77 +144,77 @@ about_blocks:
           Geographic
         icon:
         url:
-      - content: |-
+      - content: >-
           **2019**  
           _Grand Canyon National Park Centennial for Time Magazine_  
           Terry Etherton Gallery. Tucson, AZ (Group Show)  
           Celebrating The Grand Canyon National Park at 100
         icon:
         url:
-      - content: |-
+      - content: >-
           **2019**  
           _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
           Legend City Gallery. Phoenix, AZ (Group Show)  
           Chaos Theory 20
         icon:
         url:
-      - content: |-
+      - content: >-
           **2019**  
           _The Changing Landscape of American Retail_  
           Camerawork Gallery  
           Portland, OR (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2019**  
           _The Changing Landscape of American Retail_  
           Standard Vision LA at LA Live.   
           Los Angeles, CA (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2018 - 2019**  
           _Christmas In America: Happy Birthday, Jesus_  
           Mabee-Gerrer Museum of Art  
           Shawnee, OK (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2018**  
           _Christmas In America: Happy Birthday, Jesus_  
           Industry City  
           Brooklyn, NY (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2018**  
           _The Changing Landscape of American Retail_  
           Legend City Gallery. Phoenix, AZ (Group Show)  
           Chaos Theory 18
         icon:
         url:
-      - content: |-
+      - content: >-
           **2018**  
           _Stalking A Serial Killer_  
           HCP Print Auction, Houston Center for Photography.  
           Houston, TX (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2017 - 2018**  
           _Christmas In America: Happy Birthday, Jesus_  
           Irving Arts Center a Smithsonian Affiliate  
           Irving, TX (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2017 - 2018**  
           _Christmas In America: Happy Birthday, Jesus_  
           Standard Vision LA at LA Live.   
           Los Angeles, CA (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2017 - 2018**  
           _Christmas In America: Happy Birthday, Jesus_  
           Photoville The Fence:
@@ -224,34 +228,34 @@ about_blocks:
           * Fourth Ward. Houston, TX.
         icon:
         url:
-      - content: |-
+      - content: >-
           **2017**  
           _Stalking A Serial Killer_  
           Sunday Afternoon Gallery.  
           New York, NY (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2017**  
           _Chaos Theory 17_  
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2016**  
           _Sounds of Cement_  
           Inert Gallery. New York, NY (Group Show)  
           Sunday Afternoon Artist Exhibition
         icon:
         url:
-      - content: |-
+      - content: >-
           **2016**  
           _A New American Folklore_  
           Legend City Gallery. Phoenix, AZ (Group Show)  
           Chaos Theory 16
         icon:
         url:
-      - content: |-
+      - content: >-
           **2014**  
           _The Wallow Fire_  
           How One Thing Leads To Another: Critical Mass Top 50 Touring Show
@@ -260,34 +264,34 @@ about_blocks:
           * Houston Center For Photography. Houston, TX (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2014**  
           OFFF Barcelona: A Post Digital Culture Festival  
           Barcelona, Spain (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2014**  
           The ADC Festival of Art + Craft in Advertising and Design.  
           The New World Center.  
           Miami, FL
         icon:
         url:
-      - content: |-
+      - content: >-
           **2013**  
           _The Wallow Fire_  
           Monorchid Gallery. Phoenix, AZ (Group Show)  
           The Forty Eighth: Contemporary Photography at Arizona’s Centennial
         icon:
         url:
-      - content: |-
+      - content: >-
           **2013**  
           Chaos Theory 13  
           _A New American Folklore_  
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2012**  
           _Christmas In America: Happy Birthday, Jesus_  
           Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show
@@ -297,28 +301,28 @@ about_blocks:
           * Raykko Gallery. San Francisco, CA (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2012**  
           _Class of 99 Turns 30_  
           La Fototeca Gallery. Guatemala City (Group Show)  
           Guate Photo Festival: \[DOT\]COM
         icon:
         url:
-      - content: |-
+      - content: >-
           **2011**  
           _Christmas In America: Happy Birthday, Jesus_  
           Newspace Center for Photography.  
           Portland, OR (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2011**  
           _Christmas In America: Happy Birthday, Jesus_  
           The Saguaro, A Joie de Vivre Boutique Hotel.  
           Scottsdale, AZ (Solo Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2011**  
           _Art Director’s Club Young Guns 9 Exhibition_  
           Art Director’s Club Gallery.  
@@ -338,35 +342,35 @@ about_blocks:
           Lyceum Theatre Gallery. San Diego, CA (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2011**  
           _Christmas In America: Happy Birthday, Jesus_  
           Camera Club of New York Gallery  
           New York, NY (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2011**  
           _Starting Over: Will Move for Work_  
           Filter Photo Festival Juried Exhibition  
           Black Cloud Gallery. Chicago, IL (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2010**  
           _The Class of 99 Turns 30_  
           Chaos Theory 10  
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2009**  
           _On the Verge of Existence_  
           Hendershot Gallery.  
           New York, NY (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **Test Formatting**
 
           Testing Next Line
@@ -398,7 +402,7 @@ about_blocks:
     meta_align: right
     modal_color: '#FAD267'
     modal_block:
-      - content: |-
+      - content: >-
           **2021**  
 
           _I am Not a Soldier. But I Have Been Trained to Kill._  
@@ -408,7 +412,7 @@ about_blocks:
           Chaos Theory 21
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2020**  
 
           _The Changing Landscape of American Retail_  
@@ -420,7 +424,7 @@ about_blocks:
           Brooklyn, NY (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2020 - 2019**  
 
           _The Changing Landscape of American Retail_
@@ -462,7 +466,7 @@ about_blocks:
           Geographic
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2019**  
 
           _Grand Canyon National Park Centennial for Time Magazine_ \ 
@@ -472,7 +476,7 @@ about_blocks:
           Celebrating The Grand Canyon National Park at 100
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2019**  
 
           _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
@@ -482,7 +486,7 @@ about_blocks:
           Chaos Theory 20
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2019**  
 
           _The Changing Landscape of American Retail_  
@@ -492,7 +496,7 @@ about_blocks:
           Portland, OR (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2019**  
 
           _The Changing Landscape of American Retail_  
@@ -502,7 +506,7 @@ about_blocks:
           Los Angeles, CA (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2018 - 2019**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -512,7 +516,7 @@ about_blocks:
           Shawnee, OK (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2018**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -522,7 +526,7 @@ about_blocks:
           Brooklyn, NY (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2018**  
 
           _The Changing Landscape of American Retail_  
@@ -532,7 +536,7 @@ about_blocks:
           Chaos Theory 18
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2018**  
 
           _Stalking A Serial Killer_  
@@ -542,7 +546,7 @@ about_blocks:
           Houston, TX (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2017 - 2018**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -552,7 +556,7 @@ about_blocks:
           Irving, TX (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2017 - 2018**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -562,7 +566,7 @@ about_blocks:
           Los Angeles, CA (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2017 - 2018**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -587,7 +591,7 @@ about_blocks:
           * Fourth Ward. Houston, TX.
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2017**  
 
           _Stalking A Serial Killer_  
@@ -597,7 +601,7 @@ about_blocks:
           New York, NY (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2017**  
 
           _Chaos Theory 17_  
@@ -605,7 +609,7 @@ about_blocks:
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2016**  
 
           _Sounds of Cement_  
@@ -615,7 +619,7 @@ about_blocks:
           Sunday Afternoon Artist Exhibition
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2016**  
 
           _A New American Folklore_  
@@ -625,7 +629,7 @@ about_blocks:
           Chaos Theory 16
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2014**  
 
           _The Wallow Fire_  
@@ -640,7 +644,7 @@ about_blocks:
           * Houston Center For Photography. Houston, TX (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2014**  
 
           OFFF Barcelona: A Post Digital Culture Festival  
@@ -648,7 +652,7 @@ about_blocks:
           Barcelona, Spain (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2014**  
 
           The ADC Festival of Art + Craft in Advertising and Design. \ 
@@ -658,7 +662,7 @@ about_blocks:
           Miami, FL
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2013**  
 
           _The Wallow Fire_  
@@ -668,7 +672,7 @@ about_blocks:
           The Forty Eighth: Contemporary Photography at Arizona’s Centennial
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2013**  
 
           Chaos Theory 13  
@@ -678,7 +682,7 @@ about_blocks:
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2012**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -695,7 +699,7 @@ about_blocks:
           * Raykko Gallery. San Francisco, CA (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2012**  
 
           _Class of 99 Turns 30_  
@@ -705,7 +709,7 @@ about_blocks:
           Guate Photo Festival: \\[DOT\\]COM
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2011**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -715,7 +719,7 @@ about_blocks:
           Portland, OR (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2011**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -725,7 +729,7 @@ about_blocks:
           Scottsdale, AZ (Solo Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2011**  
 
           _Art Director’s Club Young Guns 9 Exhibition_  
@@ -752,7 +756,7 @@ about_blocks:
           Lyceum Theatre Gallery. San Diego, CA (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2011**  
 
           _Christmas In America: Happy Birthday, Jesus_  
@@ -762,7 +766,7 @@ about_blocks:
           New York, NY (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2011**  
 
           _Starting Over: Will Move for Work_  
@@ -772,7 +776,7 @@ about_blocks:
           Black Cloud Gallery. Chicago, IL (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2010**  
 
           _The Class of 99 Turns 30_  
@@ -782,7 +786,7 @@ about_blocks:
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2009**  
 
           _On the Verge of Existence_  
