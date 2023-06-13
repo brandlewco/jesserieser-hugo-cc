@@ -249,7 +249,6 @@ collection_blocks:
     align_y: start
     background_color: ''
     background_image_toggle: false
-    block: media-text
     caption_css:
     font_weight:
     image:
@@ -270,7 +269,6 @@ collection_blocks:
     align_y: start
     background_color: ''
     background_image_toggle: false
-    block: media-text
     caption_css:
     font_weight: normal
     image:

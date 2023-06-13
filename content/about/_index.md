@@ -67,7 +67,6 @@ about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
   - _bookshop_name: about/modal-list
-    block: modal-list
     width: '30'
     align_x: start
     margin_y: '800'
@@ -379,7 +378,6 @@ about_blocks:
         icon:
         url:
   - _bookshop_name: about/modal-list
-    block: modal-list
     width: '40'
     align_x: start
     margin_y: '200'
@@ -819,7 +817,6 @@ about_blocks:
   - _bookshop_name: about/media-row
     row_alignment: between
   - _bookshop_name: about/modal-list
-    block: modal-list
     width: '25'
     align_x: start
     margin_y: '50'
@@ -1170,7 +1167,6 @@ about_blocks:
         icon:
         url:
   - _bookshop_name: about/modal-list
-    block: modal-list
     width: '45'
     align_y: start
     margin_y: '600'
