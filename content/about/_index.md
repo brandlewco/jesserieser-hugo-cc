@@ -103,8 +103,8 @@ about_blocks:
         icon:
         url:
       - content: >-
-          **2021** I am Not a Soldier. But I Have Been Trained to Kill. Legend
-          City Gallery. Phoenix, AZ (Group Show) Chaos Theory 21
+          **2021**<br>I am Not a Soldier. But I Have Been Trained to Kill.
+          Legend City Gallery. Phoenix, AZ (Group Show) Chaos Theory 21
         icon:
         url:
       - content: >-
@@ -124,14 +124,9 @@ about_blocks:
         icon:
         url:
       - content: >-
-          **2019**  
-
-          _Christmas In America: Happy Birthday: Jesus_  
-
-          Monopoli, Italy (Solo Show)  
-
-          Phest Photography Festival: See Beyond the Sea with National
-          Geographic
+          **2019**<br> *Christmas In America: Happy Birthday: Jesus*<br>
+          Monopoli, Italy (Solo Show)<br> Phest Photography Festival: See Beyond
+          the Sea with National Geographic
         icon:
         url:
       - content: >-
@@ -1173,6 +1168,9 @@ about_blocks:
         url:
       - content: '**Wired**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wired.png
+        url:
+      - content: ''
+        icon: ''
         url:
   - _bookshop_name: about/media-row-end
 footer_links:
