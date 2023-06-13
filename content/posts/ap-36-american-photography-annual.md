@@ -8,7 +8,7 @@ content: >-
   I am honored to share that [**_The Internet Giant Who Went
   Too_**](https://jesserieser.com/collections/wired-magazine/ ) Far for _Wired_
   has been named one of the year’s best by the [**_American Photography 36
-  Annual **](https://www.ai-ap.com/slideshow/AP/36/?status=selected267)for
+  Annual_**](https://www.ai-ap.com/slideshow/AP/36/?status=selected267) for
   editorial photography.
 
 

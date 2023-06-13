@@ -20,7 +20,7 @@ content: >-
 
   **Interview:**  
 
-  _An inflatable Santa Claus loomed four stories over a Christmas tree lot,
+  An inflatable Santa Claus loomed four stories over a Christmas tree lot,
   waving in the breeze and catching Jesse Rieser’s attention as he drove through
   Phoenix in 2009.  
     
@@ -37,17 +37,17 @@ content: >-
   discuss their flamboyant displays. Many of them told him that they staged the
   elaborate scenes to tap into nostalgia for their childhoods, while some said
   they were trying to bring joy to other families — a particularly poignant goal
-  during the isolating_
+  during the isolating
   [_coronavirus_](https://www.washingtonpost.com/coronavirus/?itid=lk_inline_manual_13)
-  _pandemic.  
+  pandemic.  
     
   “A lot of these homes become the sort of de facto community centers for the
   neighborhood,” Rieser said. “The kids want to come, so the parents come. It
   sort of brings people together in this kind of adorable side effect of this
-  mass consumption.”_
+  mass consumption.”
 
 
-  _The title of the project, “Christmas in America: Happy Birthday, Jesus,”
+  The title of the project, “Christmas in America: Happy Birthday, Jesus,”
   originated from one of Rieser’s favorite photos. Neon red lights spell “Happy
   birt, Jesus” over the roof of a white garage, with the missing four letters
   resting atop the shingles.  
@@ -68,7 +68,7 @@ content: >-
   watching the television show “Cops.”  
     
   Quirky decorations, Rieser said, may be a way for those sisters and others to
-  find and share joy._
+  find and share joy.
 date: 2021-12-25T07:00:00.000Z
 news_category:
   - press

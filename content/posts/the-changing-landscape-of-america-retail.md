@@ -7,8 +7,7 @@ blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
 caption: Featured on Washington Post and Business Insider
 content: >-
   For the kickoff of the holiday spending season, I talk [**_The Changing
-  Landscape of American Retail
-  _**](https://jesserieser.com/projects/changing-landscape-american-retail)to
+  Landscape of American Retail_**](https://jesserieser.com/projects/changing-landscape-american-retail) to
   _The Washington Post_. Click
   [here](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/)
   to read in full. 

@@ -109,25 +109,16 @@ blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header: AP 39
 caption: 'Barron''s Cover Story: Beyond the Drought'
 content: >-
-  \*\*\*<a target="_blank"
-  href="https://jesserieser.com/collections/mead-barrons">Beyond The Drought
-  commissioned by Barron's</a>&nbsp;\*\*\*has been named one of the year’s best
-  in the upcoming <a target="_blank"
-  href="https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1"><strong><em>American
-  Photography 39 Photo Annual</em></strong></a> book.
+  [Beyond The Drought commissioned by Barron's](https://jesserieser.com/collections/mead-barrons) *has been named one of the year’s best in the upcoming [**_American Photography 39 Photo Annual_**](https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1) book. 
 
 
-  The scarcity of fresh water is rapidly emerging as a global economic threat
-  that could disrupt businesses, crimp profits, and jeopardize growth.⁠
+  The scarcity of fresh water is rapidly emerging as a global economic threat that could disrupt businesses, crimp profits, and jeopardize growth.⁠
 
 
-  The Colorado River has fallen to record-low levels. Its two enormous
-  reservoirs, Lake Mead and Lake Powell, are below 30% of capacity, exposing
-  sunken boats and even human skeletal remains.
+  The Colorado River has fallen to record-low levels. Its two enormous reservoirs, Lake Mead and Lake Powell, are below 30% of capacity, exposing sunken boats and even human skeletal remains.
 
 
-  Thank you judges and Sarina Finkelstein for assigning and submitting to this
-  year’s annual. ⁠
+  Thank you judges and Sarina Finkelstein for assigning and submitting to this year’s annual. ⁠
 date:
 news_category:
   - awards
