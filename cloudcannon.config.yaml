@@ -442,6 +442,7 @@ _inputs:
         - Exhibited Workså
         - Award Winning
         - Kids
+        - Gun Culture
   collection_filter:
     type: select
     options:

@@ -370,7 +370,7 @@ about_blocks:
     block: modal-list
     width: '40'
     align_x: start
-    margin_y: '0'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     title_margin_left: '-25'
@@ -391,332 +391,553 @@ about_blocks:
     modal_color: '#FAD267'
     modal_block:
       - content: >-
-          [_The New York Times Lens
-          Blog_](https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1)
-        url:
-        icon:
+          **2021**  
+          
+          
+          _I am Not a Soldier. But I Have Been Trained to Kill._  
+          
+          
+          Legend
+          City Gallery. Phoenix, AZ (Group Show)  
+          
+          
+          Chaos Theory 21
+        icon: ''
+        url: ''
       - content: >-
-          [_National
-          Geographic_](https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/)
-        url:
-        icon:
+          **2020**  
+          
+          
+          _The Changing Landscape of American Retail_  
+          
+          
+          Fresh Exhibiting
+          Artist  
+          
+          
+          Klompching Gallery  
+          
+          
+          Brooklyn, NY (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_The Washington
-          Post_](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram)
-        url:
-        icon:
+          **2020 - 2019**  
+          
+          
+          _The Changing Landscape of American Retail_
+          
+          
+          
+          
+          
+          Photoville
+          The Fence:
+          
+          
+          
+          
+          
+          * Brooklyn Bridge Park. Brooklyn, NY.
+          
+          
+          * Santa Fe Railyard Park.
+          Santa Fe, NM.
+          
+          
+          * LoDo District. Denver, CO.
+          
+          
+          * Atlanta Beltline. Atlanta, GA.
+          
+          
+          *
+          City Hall Plaza. Durham, NC.
+          
+          
+          * SoWa Southie Plaza. Boston, MA.
+          
+          
+          * Fourth Ward.
+          Houston, TX.
+        icon: ''
+        url: ''
       - content: >-
-          [_Time
-          Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
-        url:
-        icon:
+          **2019**  
+          
+          
+          _Christmas In America: Happy Birthday: Jesus_  
+          
+          
+          Monopoli,
+          Italy (Solo Show)  
+          
+          
+          Phest Photography Festival: See Beyond the Sea with National
+          Geographic
+        icon: ''
+        url: ''
       - content: >-
-          [_Buzzfeed
-          I_](https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb)
-        url:
-        icon:
+          **2019**  
+          
+          
+          _Grand Canyon National Park Centennial for Time Magazine_
+          \ 
+          
+          
+          Terry Etherton Gallery. Tucson, AZ (Group Show)  
+          
+          
+          Celebrating The Grand
+          Canyon National Park at 100
+        icon: ''
+        url: ''
       - content: >-
-          [_Buzzfeed
-          II_](https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz)
-        url:
-        icon:
+          **2019**  
+          
+          
+          _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
+          
+          
+          Legend
+          City Gallery. Phoenix, AZ (Group Show)  
+          
+          
+          Chaos Theory 20
+        icon: ''
+        url: ''
       - content: >-
-          [_BuzzFeed
-          III_](https://www.buzzfeednews.com/article/gabrielsanchez/football-highschool-nfl-season-america-sports-players-team)
-        url:
-        icon:
+          **2019**  
+          
+          
+          _The Changing Landscape of American Retail_  
+          
+          
+          Camerawork
+          Gallery  
+          
+          
+          Portland, OR (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_NPR Radio Interview
-          I_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
-        url:
-        icon:
+          **2019**  
+          
+          
+          _The Changing Landscape of American Retail_  
+          
+          
+          Standard
+          Vision LA at LA Live.   
+          
+          
+          Los Angeles, CA (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_NPR Radio Interview
-          II_](https://theshow.kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america)
-        url:
-        icon:
+          **2018 - 2019**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Mabee-Gerrer
+          Museum of Art  
+          
+          
+          Shawnee, OK (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_NPR Picture
-          Show_](http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america)
-        url:
-        icon:
+          **2018**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Industry
+          City  
+          
+          
+          Brooklyn, NY (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Architectural
-          Digest_](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)
-        url:
-        icon:
+          **2018**  
+          
+          
+          _The Changing Landscape of American Retail_  
+          
+          
+          Legend City
+          Gallery. Phoenix, AZ (Group Show)  
+          
+          
+          Chaos Theory 18
+        icon: ''
+        url: ''
       - content: >-
-          [_Fast Company Design Co.
-          I_](https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas)
-        url:
-        icon:
+          **2018**  
+          
+          
+          _Stalking A Serial Killer_  
+          
+          
+          HCP Print Auction, Houston
+          Center for Photography.  
+          
+          
+          Houston, TX (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Fast Company Design Co.
-          II_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer)
-        icon:
-        url:
+          **2017 - 2018**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Irving
+          Arts Center a Smithsonian Affiliate  
+          
+          
+          Irving, TX (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Fast Company Design Co.
-          III_](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)
-        icon:
-        url:
-      - content: '[_Wired I_](https://www.wired.com/tag/jesse-rieser/)'
-        icon:
-        url:
+          **2017 - 2018**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Standard
+          Vision LA at LA Live.   
+          
+          
+          Los Angeles, CA (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Wired
-          II_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)
-        icon:
-        url:
-      - content: '[_MSNBC_](http://www.msnbc.com/msnbc/when-fall-came-early)'
-        icon:
-        url:
+          **2017 - 2018**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Photoville
+          The Fence:
+          
+          
+          
+          
+          
+          * Brooklyn Bridge Park. Brooklyn, NY.
+          
+          
+          * Santa Fe Railyard Park.
+          Santa Fe, NM.
+          
+          
+          * LoDo District. Denver, CO.
+          
+          
+          * Atlanta Beltline. Atlanta, GA.
+          
+          
+          *
+          City Hall Plaza. Durham, NC.
+          
+          
+          * SoWa Southie Plaza. Boston, MA.
+          
+          
+          * Fourth Ward.
+          Houston, TX.
+        icon: ''
+        url: ''
       - content: >-
-          [_Vice_](https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space?utm_campaign=later-linkinbio-jesserieser&utm_content=later-2819936&utm_medium=social&utm_source=instagram)
-        icon:
-        url:
-      - content: _ESPN Sportscenter_
-        icon:
-        url:
+          **2017**  
+          
+          
+          _Stalking A Serial Killer_  
+          
+          
+          Sunday Afternoon Gallery.
+          \ 
+          
+          
+          New York, NY (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Yahoo!_](https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html)
-        icon:
-        url:
+          **2017**  
+          
+          
+          _Chaos Theory 17_  
+          
+          
+          Legend City Gallery. Phoenix, AZ (Group
+          Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_The Gaurdian
-          I_](https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph)
-        icon:
-        url:
+          **2016**  
+          
+          
+          _Sounds of Cement_  
+          
+          
+          Inert Gallery. New York, NY (Group
+          Show)  
+          
+          
+          Sunday Afternoon Artist Exhibition
+        icon: ''
+        url: ''
       - content: >-
-          [_The Gaurdian
-          II_](https://www.theguardian.com/artanddesign/2018/sep/19/jesse-rieser-best-photograph-school-football-farewell-phoenix-arizona)
-        icon:
-        url:
+          **2016**  
+          
+          
+          _A New American Folklore_  
+          
+          
+          Legend City Gallery. Phoenix,
+          AZ (Group Show)  
+          
+          
+          Chaos Theory 16
+        icon: ''
+        url: ''
       - content: >-
-          [_The Daily Mail
-          UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
-        icon:
-        url:
+          **2014**  
+          
+          
+          _The Wallow Fire_  
+          
+          
+          How One Thing Leads To Another: Critical
+          Mass Top 50 Touring Show
+          
+          
+          
+          
+          
+          * Corden Potts Gallery. San Francisco, CA
+          
+          
+          * Houston
+          Center For Photography. Houston, TX (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_New York Magazine:
-          Vulture_](http://www.vulture.com/2008/12/photographer_jesse_rieser.html)
-        icon:
-        url:
-      - content: '[_Esquire Russia_](http://esquire.ru/photo/xmas)'
-        icon:
-        url:
+          **2014**  
+          
+          
+          OFFF Barcelona: A Post Digital Culture Festival  
+          
+          
+          Barcelona,
+          Spain (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Refinery29_](http://www.refinery29.com/2015/12/100005/photos-suburbia-christmas-decorations#slide)
-        icon:
-        url:
+          **2014**  
+          
+          
+          The ADC Festival of Art + Craft in Advertising and Design.
+          \ 
+          
+          
+          The New World Center.  
+          
+          
+          Miami, FL
+        icon: ''
+        url: ''
       - content: >-
-          [_It's Nice
-          That_](http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america)
-        icon:
-        url:
+          **2013**  
+          
+          
+          _The Wallow Fire_  
+          
+          
+          Monorchid Gallery. Phoenix, AZ (Group
+          Show)  
+          
+          
+          The Forty Eighth: Contemporary Photography at Arizona’s Centennial
+        icon: ''
+        url: ''
       - content: >-
-          [_Cool
-          Hunting_](https://coolhunting.com/culture/photographer-jesse-rieser-christmas/)
-        icon:
-        url:
+          **2013**  
+          
+          
+          Chaos Theory 13  
+          
+          
+          _A New American Folklore_  
+          
+          
+          Legend City
+          Gallery. Phoenix, AZ (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Business
-          Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
-        icon:
-        url:
+          **2012**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Love, Anxiety,
+          and Happiness: Critical Mass Top 50 Touring Show
+          
+          
+          
+          
+          
+          * Northwest Center For Photography.
+          Seattle, WA
+          
+          
+          * Newspace Center For Photography. Portland, OR
+          
+          
+          * Raykko Gallery.
+          San Francisco, CA (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Artsy_](https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor)
-        icon:
-        url:
+          **2012**  
+          
+          
+          _Class of 99 Turns 30_  
+          
+          
+          La Fototeca Gallery. Guatemala
+          City (Group Show)  
+          
+          
+          Guate Photo Festival: \\[DOT\\]COM
+        icon: ''
+        url: ''
       - content: >-
-          [_BOOOOOOOM
-          I_](https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Newspace
+          Center for Photography.  
+          
+          
+          Portland, OR (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_BOOOOOOOM
-          II_](https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          The Saguaro,
+          A Joie de Vivre Boutique Hotel.  
+          
+          
+          Scottsdale, AZ (Solo Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_BOOOOOOOM
-          III_](https://www.booooooom.com/2022/06/28/i-am-not-a-soldier-but-i-have-been-trained-to-kill-by-photographer-jesse-rieser/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Art Director’s Club Young Guns 9 Exhibition_  
+          
+          
+          Art Director’s
+          Club Gallery.  
+          
+          
+          New York, NY. (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_BOOOOOOOM 64 x 64: Best of
-          2017_](https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Art of
+          Photography Juried Exhibition  
+          
+          
+          Juried by Ann Lyden, Assoc. Curator of J. Paul
+          Getty Museum, Los Angeles  
+          
+          
+          Lyceum Theatre Gallery. San Diego, CA (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_BOOOOOOOM 64 x 64: Best of
-          2018_](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Christmas In America: Happy Birthday, Jesus_  
+          
+          
+          Camera
+          Club of New York Gallery  
+          
+          
+          New York, NY (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Ignant_](https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/)
-        icon:
-        url:
+          **2011**  
+          
+          
+          _Starting Over: Will Move for Work_  
+          
+          
+          Filter Photo Festival
+          Juried Exhibition  
+          
+          
+          Black Cloud Gallery. Chicago, IL (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Hyperallergic_](http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/)
-        icon:
-        url:
+          **2010**  
+          
+          
+          _The Class of 99 Turns 30_  
+          
+          
+          Chaos Theory 10  
+          
+          
+          Legend
+          City Gallery. Phoenix, AZ (Group Show)
+        icon: ''
+        url: ''
       - content: >-
-          [_Musee
-          Magazine_](http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser)
-        icon:
-        url:
-      - content: _Society Magazine (France)_
-        icon:
-        url:
-      - content: _Wings Magazine (Germany)_
-        icon:
-        url:
-      - content: _Geo Magazine (Germany)_
-        icon:
-        url:
-      - content: _Chaeg (South Korea)_
-        icon:
-        url:
-      - content: _Blkswn (Japan)_
-        icon:
-        url:
-      - content: _Amtrak the National_
-        icon:
-        url:
-      - content: >-
-          [_n by
-          Norwegian_](http://edition.pagesuite.com/html5/reader/production/default.aspx?pubname=&edid=9f5ceea1-4a78-4d7d-b232-d84af31e0cc8&pnum=94)
-        icon:
-        url:
-      - content: >-
-          [_Dallas Morning
-          News_](https://www.dallasnews.com/arts/visual-arts/2016/12/19/photographer-adds-dallas-weird-wondrous-christmas-america-series)
-        icon:
-        url:
-      - content: _LA Confidential_
-        icon:
-        url:
-      - content: >-
-          [_The Magazine Santa
-          Fe_](https://themagsantafe.com/jesse-rieser-portfolio/)
-        icon:
-        url:
-      - content: _Working Not Working Magazine_
-        icon:
-        url:
-      - content: >-
-          [_PDN
-          Magazine_](https://pdnonline.com/photography-business/photo-clients/advertising/creating-motion-content-short-attention-spans/)
-        icon:
-        url:
-      - content: _PDN Photo of the Day I_
-        icon:
-        url:
-      - content: _PDN Photo of the Day II_
-        icon:
-        url:
-      - content: _PDN Photo of the Day III_
-        icon:
-        url:
-      - content: >-
-          [_Feature Shoot
-          I_](http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/)
-        icon:
-        url:
-      - content: >-
-          [_Feature Shoot
-          II_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
-        icon:
-        url:
-      - content: _Rangefinder Magazine_
-        icon:
-        url:
-      - content: _Resource Magazine_
-        icon:
-        url:
-      - content: >-
-          [_A Photo
-          Editor_](https://aphotoeditor.com/2019/09/13/the-best-work-i-saw-at-photolucida-part-5/?fbclid=IwAR31utip0SP2c9bmRTVjtasF-qMTtffi_P0Sg1wrYRJRC3aFvuC84PkHy6U&utm_campaign=later-linkinbio-jesserieser&utm_content=later-3853091&utm_medium=social&utm_source=instagram)
-        icon:
-        url:
-      - content: >-
-          [_No Plastic
-          Sleeves_](http://blog.noplasticsleeves.com/its-spring-time-to-renew-your-portfolio-design/)
-        icon:
-        url:
-      - content: >-
-          [_Duncan Miller Gallery
-          I_](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
-        icon:
-        url:
-      - content: >-
-          [_Duncan Miller Gallery
-          II_](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de)
-        icon:
-        url:
-      - content: '[_Lenscratch I_](http://lenscratch.com/2011/12/jesse-rieser-3/)'
-        icon:
-        url:
-      - content: '[_Lenscratch II_](http://lenscratch.com/2011/06/jesse-rieser-2/)'
-        icon:
-        url:
-      - content: '[_Lenscratch III_](http://lenscratch.com/2012/08/jesse-rieser/)'
-        icon:
-        url:
-      - content: '[_Lenscratch IV_](http://lenscratch.com/2018/06/jesse-reiser/)'
-        icon:
-        url:
-      - content: >-
-          [_Don't Take Pictures
-          I_](http://www.donttakepictures.com/photo-of-the-day/2018/6/20/jesse-rieser)
-        icon:
-        url:
-      - content: >-
-          [_Don't Take Pictures
-          II_](http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser)
-        icon:
-        url:
-      - content: _Nacione_
-        icon:
-        url:
-      - content: >-
-          [_Muuuz Architecture & Design
-          Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
-        icon:
-        url:
-      - content: >-
-          [_Archinect_](https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture)
-        icon:
-        url:
-      - content: >-
-          [_Mache_](https://www.mache.digital/series/2017/12/15/christmas-in-america)
-        icon:
-        url:
-      - content: >-
-          [_Mache
-          II_](https://www.mache.digital/features/2017/12/15/jesse-rieser)
-        icon:
-        url:
-      - content: >-
-          [_Plain
-          Magazine_](https://plainmagazine.com/jesse-rieser-changing-american-retail/)
-        icon:
-        url:
-      - content: _Finite Photo_
-        icon:
-        url:
-      - content: >-
-          [_The
-          Oregonian_](http://www.oregonlive.com/art/index.ssf/2011/12/review_christmas_in_america_by.html)
-        icon:
-        url:
-      - content: _University North Carolina at Charlotte Photography Journal_
-        icon:
-        url:
-      - content: _JAVA Magazine_
-        icon:
-        url:
+          **2009**  
+          
+          
+          _On the Verge of Existence_  
+          
+          
+          Hendershot Gallery.  
+          
+          
+          New
+          York, NY (Group Show)
+        icon: ''
+        url: ''
   - _bookshop_name: about/media-row
     row_alignment: center
   - _bookshop_name: about/media-text
@@ -727,7 +948,25 @@ about_blocks:
     margin_left: '10'
     margin_right: '0'
     background_color: '#ff6a5a'
-    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_\n\n\"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_\n\n“This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_\n\n“You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
+    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_
+          
+          
+          
+          
+          
+          \"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_
+          
+          
+          
+          
+          
+          “This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_
+          
+          
+          
+          
+          
+          “You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
     parallax: true
     text_size: lg
     background_image_toggle: false
