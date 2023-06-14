@@ -89,21 +89,18 @@ about_blocks:
     meta_align: left
     modal_color: '#77ddd4'
     modal_block:
-      - content: >-
+      - content: |-
           **2022**
 
+          Souvenirs From Paradise The Gallery at Mountain Shadows.
 
-          Souvenirs From Paradise The Gallery at Mountain Shadows.<br>Paradise
-          Valley, AZ (Solo Show)
-
+          Paradise Valley, AZ (Solo Show)
 
 
 
           *A Vanishing Folklore* 2012 - 2022<br>
 
-
           *The Changing Landscape of American Retail 2015 - 2022*
-
 
           *Christmas In America: Happy Birthday, Jesus* 2010 - 2022
         icon:
