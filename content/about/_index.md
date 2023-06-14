@@ -349,18 +349,18 @@ about_blocks:
           Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: >-
+      - content: |-
           **2012**
 
-
-          _Christmas In America: Happy Birthday, Jesus_ 
-
+          *Christmas In America: Happy Birthday, Jesus*
 
           Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show
 
-          * Northwest Center For Photography. Seattle, WA * Newspace Center For
-          Photography. Portland, OR * Raykko Gallery. San Francisco, CA (Group
-          Show)
+          Northwest Center For Photography. Seattle, WA
+
+          Newspace Center For Photography. Portland, OR
+
+          Raykko Gallery. San Francisco, CA (Group Show)
         icon:
         url:
       - content: |-
