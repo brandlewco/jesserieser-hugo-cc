@@ -46,7 +46,7 @@ content_blocks:
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
     width: '55'
-    margin_y: '400'
+    margin_y: '200'
     margin_left: '10'
     margin_right: '0'
     align_y: center
@@ -76,6 +76,30 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
     caption: 'Barron''s: Beyond The Drought'
     theme_color: '#ffd2d2'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Smithsonian '
+    meta: 'Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-3.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y: center
+    color: '#000000'
+    caption: smithsonian
+    title_margin_y: '0'
+    title_margin_left: '-25'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#fdd4a2'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -965,8 +989,6 @@ content_blocks:
     blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
