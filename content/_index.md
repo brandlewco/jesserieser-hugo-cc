@@ -91,7 +91,7 @@ content_blocks:
     color: '#000000'
     caption: smithsonian
     title_margin_y: '10'
-    title_margin_left: '-25'
+    title_margin_left: '25'
     title_margin_right: '0'
     text_size: 7xl
     text_color: '#fdd4a2'
