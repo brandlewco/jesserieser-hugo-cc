@@ -1,15 +1,22 @@
 ---
-attached_collection: 
-attached_link: 
-blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
+_schema: default
+title: The Photo Banter
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between []
-blog_header: 
+blog_slider:
+  - _bookshop_name: posts/media-motion-id
+    show_controls: true-id
+    vimeo_id: 523950651
+attached_collection: collections/vanishing-folklore.md
+attached_link:
+block_aspect_ratio: ratio-16x9
+blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
+blog_header:
 caption: Interview
 content: >-
-  I recently had the pleasure of sitting down with Alex Gagne for _The Photo
-  Banter_.  We cover a range of topics from my past to current works, my
+  I recently had the pleasure of sitting down with Alex Gagne for *The Photo
+  Banter*. We cover a range of topics from my past to current works, my
   photographic philosophies, and navigating both the art and the commissioned
   audience of the industry. We also touch on something I have been thinking a
   lot about lately- time as a medium... Conceptually, technically, and
@@ -17,16 +24,16 @@ content: >-
 
 
   It was such an honor to join an impressive list of peers, mentors, and
-  photographic legends. 
+  photographic legends.
 
 
   In addition to the above interview, podcasts are available on
-  [**_iTunes_**](https://podcasts.apple.com/us/podcast/jesse-rieser/id1315846850?i=1000513097100),
-  [**_Spotify_**](https://open.spotify.com/episode/653I69hF3iixGSeBWwynkn?si=-p_Uo4mDTTqFGVizqUc8-A),
-  and [**_Soundcloud_**](https://soundcloud.com/thephotobanter/jesse-rieser).
+  [***iTunes***](https://podcasts.apple.com/us/podcast/jesse-rieser/id1315846850?i=1000513097100),
+  [***Spotify***](https://open.spotify.com/episode/653I69hF3iixGSeBWwynkn?si=-p_Uo4mDTTqFGVizqUc8-A),
+  and [***Soundcloud***](https://soundcloud.com/thephotobanter/jesse-rieser).
 
 
-  > _On today’s podcast I speak with photographer Jesse Rieser. Jesse Has worked
+  > *On today’s podcast I speak with photographer Jesse Rieser. Jesse Has worked
   with clients such as ESPN, Coca Cola, Esquire, The NBA, and Adidas to name a
   few. In this interview I speak to Jesse about his recent cover shoot with NBA
   player Devin Booker for ESPN , I also speak to Jesse about his approach to
@@ -37,17 +44,10 @@ content: >-
   landscape photos and portraits that utilize color and space in a unique way.
   Jesse brings a wealth of knowledge and experience in the photographic industry
   so I was pumped to get a chance to speak with him about his journey with
-  photography so I hope you enjoy and thanks for listening._
-date: 
+  photography so I hope you enjoy and thanks for listening.*
+date:
 news_category:
   - press
-theme_color: "#FFD595"
-title: The Photo Banter
-seo:
-  meta_description: Watch this podcast interview with Jesse Rieser for Photo Banter. 
-  meta_title: Jesse Rieser Photo Banter Podcast Interview
-blog_slider:
-  - _bookshop_name: posts/media-motion-id
-    show_controls: true-id
-    vimeo_id: 523950651
+theme_color: '#ffd595'
+vimeo_block_cover: 769252337
 ---

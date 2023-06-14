@@ -1,13 +1,51 @@
 ---
+_schema: default
+title: 'AP 38: American Photography Annual Chosen'
+post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-3.jpg
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-4.jpg
+    width: '66'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-7.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-8.jpg
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-5.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-6.jpg
+    width: '50'
+  - _bookshop_name: posts/media-row-end
+blog_slider:
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-1.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
 attached_collection: collections/popular-mechanics.md
-attached_link: 
+attached_link:
+block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
-blog_header: 
-caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."
+blog_header:
+caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
 content: >-
-  [**_Can Science Cure Death? It Sure Looks Like
-  It_**](https://jesserieser.com/collections/popular-mechanics-longevity) for
-  _Popular Mechanics_ has been “chosen” by the [**American Photography 38 Photo
+  [***Can Science Cure Death? It Sure Looks Like
+  It***](https://jesserieser.com/collections/popular-mechanics-longevity) for
+  *Popular Mechanics* has been “chosen” by the [**American Photography 38 Photo
   Annual**](https://www.ai-ap.com/slideshow/AP/38/jesse-rieser/)
 
 
@@ -19,76 +57,38 @@ content: >-
   Congratulations to all the winners and thank you to this year’s judges:
 
 
-  Samir Abady, Photo Editor, _The Wall Street Journal_
+  Samir Abady, Photo Editor, *The Wall Street Journal*
 
 
-  Dudley M. Brooks, Photo Editor, _The Washington Post Magazine_
+  Dudley M. Brooks, Photo Editor, *The Washington Post Magazine*
 
 
-  Shahrzad Elghanayan, Senior Photo Editor, _NBC News_
+  Shahrzad Elghanayan, Senior Photo Editor, *NBC News*
 
 
-  Gail Fletcher, Photo Editor, _The Guardian_
+  Gail Fletcher, Photo Editor, *The Guardian*
 
 
-  Jeanne Graves, Director of Photography, _Fast Company_
+  Jeanne Graves, Director of Photography, *Fast Company*
 
 
-  Whitney Matewe, Photo Editor, _TIME Magazine_
+  Whitney Matewe, Photo Editor, *TIME Magazine*
 
 
   Michele Romero, Creative Photography Director, PhotoRehab
 
 
-  Elijah S Walker, Visual Journalist and Photography Editor, _The New York
-  Times_
+  Elijah S Walker, Visual Journalist and Photography Editor, *The New York
+  Times*
 
 
-  Amy Wolff, Photo Director, _Hearst Enthusiast Group_
+  Amy Wolff, Photo Director, *Hearst Enthusiast Group*
 
 
   Nili Zadok, Executive Producer
-date: 
+date:
 news_category:
   - awards
-theme_color: "#FF052B"
-title: "AP 38: American Photography Annual Chosen"
-seo:
-  meta_description: 
-  meta_title: 
-post_blocks:
-  - _bookshop_name: posts/media-row-start
-    row_alignment: between
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-3.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-4.jpg
-    width: '66'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-7.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-8.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-5.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-6.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-end
-blog_slider:
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-1.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
+theme_color: '#ff052b'
+vimeo_block_cover: 769252337
 ---

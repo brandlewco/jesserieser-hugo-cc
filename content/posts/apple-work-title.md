@@ -1,26 +1,24 @@
 ---
-attached_collection: 
-attached_link: 
-attached_link_text: View Full Project
-blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
+_schema: default
+title: Apple Work Title
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between []
-blog_header: 
+blog_slider:
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg
+attached_collection: collections/vanishing-folklore.md
+attached_link:
+block_aspect_ratio: ratio-16x9
+blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
+blog_header:
 caption: Apple Work Caption
 content: |-
   Info About Requesting Apple Gallery.
 
   [Request Gallery](mailto:jesse@jesserieser.com?subject=test)
-date: 
+date:
 news_category: []
-theme_color: "#FFFFFF"
-title: Apple Work Title
-vimeo_block_cover: 
-seo:
-  meta_description: Apple Post Meta
-  meta_title: Apple Post Title
-blog_slider:
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg
+theme_color: '#ffffff'
+vimeo_block_cover: 769252337
 ---
