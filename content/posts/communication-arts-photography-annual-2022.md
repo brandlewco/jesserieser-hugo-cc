@@ -86,28 +86,55 @@ blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
 blog_header:
 caption: Antoine’s Escalaras
 content: >-
-  Beyond thrilled to share that [**\_Antoine’s
-  Escalara\_s**](https://jesserieser.com/collections/escalaras) has been
+  Beyond thrilled to share that [**Antoine’s
+  Escalaras**](https://jesserieser.com/collections/escalaras) has been
   recognized in this year’s [***Communication Arts Photo
   Annual***](https://www.commarts.com/project/34295/antoine-s-escalaras).
 
 
   This new photo and film hybrid project marries my environmental architectural
-  sensibilities with my sport photographic works.
+  sensibilities with my sport photographic
 
 
-  Congrats to the fellow winners and thank you to the judges:<br>Mike Davis,
-  visual storytelling consultant/photo editor/educator/author, Minneapolis,
-  MN<br>Jennifer Dorn, photo director, *Variety*, Los Angeles, CA<br>Luis Paulo
-  Gatti, creative director/head of art/teacher, Stuttgart, Germany<br>Natalia
-  Jiménez, picture editor, the *Washington Post*, Washington, DC<br>Marcia
-  Minter, co-founder/executive director, Indigo Arts Alliance, Portland,
-  MA<br>Nikki Ormerod, director/photographer/partner, Undivided Creative,
-  Toronto, Canada<br>Adrienne Pao, photographer/creative director/director of
-  Academy of Art University School of Photography, San Francisco Bay Area,
-  CA<br>David Roennfeldt, founder/creative director, 3 Deep Design, Melbourne,
-  Australia<br>Marcus Smith, photographer/director, Chicago, IL<br>Steve
-  Wallington, creative director and co-founder, the Photography Movement,
+  works.
+
+
+  Congrats to the fellow winners and thank you to the judges:
+
+
+  Mike Davis, visual storytelling consultant/photo editor/educator/author,
+  Minneapolis, MN
+
+
+  Jennifer Dorn, photo director, *Variety*, Los Angeles, CA
+
+
+  Luis Paulo Gatti, creative director/head of art/teacher, Stuttgart, Germany
+
+
+  Natalia Jiménez, picture editor, the *Washington Post*, Washington, DC
+
+
+  Marcia Minter, co-founder/executive director, Indigo Arts Alliance, Portland,
+  MA
+
+
+  Nikki Ormerod, director/photographer/partner, Undivided Creative, Toronto,
+  Canada
+
+
+  Adrienne Pao, photographer/creative director/director of Academy of Art
+  University School of Photography, San Francisco Bay Area, CA
+
+
+  David Roennfeldt, founder/creative director, 3 Deep Design, Melbourne,
+  Australia
+
+
+  Marcus Smith, photographer/director, Chicago, IL
+
+
+  Steve Wallington, creative director and co-founder, the Photography Movement,
   London, United Kingdom
 date:
 news_category:
