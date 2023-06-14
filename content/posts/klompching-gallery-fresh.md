@@ -1,12 +1,50 @@
 ---
+_schema: default
+title: 'Klompching Gallery: Fresh'
+post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-3.jpg
+    width: '100'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-5.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-4.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-6.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-2.jpg
+    width: '50'
+  - _bookshop_name: posts/media-row-end
+blog_slider:
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
 attached_collection: collections/retail.md
-attached_link: 
+attached_link:
+block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-blog_header: 
-caption: The Changing Landscape of American Retail September 9 - October 10 
+blog_header:
+caption: The Changing Landscape of American Retail September 9 - October 10
 content: >-
-  [_The_ _Changing_ _Landscape_ _of American
-  Retail_](https://jesserieser.com/projects/changing-landscape-american-retail/)
+  [*The* *Changing* *Landscape* *of American
+  Retail*](https://jesserieser.com/projects/changing-landscape-american-retail/)
   is on display through October 10th in the annual Fresh exhibition at
   [Klompching Gallery](https://www.klompching.com/about). The gallery has
   arranged a zoom panel with owners Debra Klompching and Darren Ching with
@@ -37,58 +75,20 @@ content: >-
   mean you can’t be sentimental.
 
 
-  Celebrated in the _PDN Photo Annual_ and _Photolucida’s_ _Critical Mass_, you
-  can learn more by visiting interviews on [_The Washington
-  Post_](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/)_,_
-  [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)_,_
-  [_Architectural
-  Digest_](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)_,_
-  [_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)_,_
-  [_Fast
-  Company_](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)_,_
-  and [_Business
-  Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)_._
-date: 
+  Celebrated in the *PDN Photo Annual* and *Photolucida’s* *Critical Mass*, you
+  can learn more by visiting interviews on [*The Washington
+  Post*](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/)*,*
+  [*NPR*](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)*,*
+  [*Architectural
+  Digest*](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)*,*
+  [*Wired*](https://www.wired.com/story/photo-gallery-retail-apocalypse/)*,*
+  [*Fast
+  Company*](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)*,*
+  and [*Business
+  Insider*](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)*.*
+date:
 news_category:
   - exhibition
-theme_color: "#D8F1AE"
-title: "Klompching Gallery: Fresh"
-seo:
-  meta_description: 
-  meta_title: 
-post_blocks:
-  - _bookshop_name: posts/media-row-start
-    row_alignment: between
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-3.jpg
-    width: '100'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-5.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-4.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-6.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-2.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-end
-blog_slider:
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+theme_color: '#d8f1ae'
+vimeo_block_cover: 769252337
 ---

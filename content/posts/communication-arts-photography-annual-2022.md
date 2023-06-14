@@ -96,20 +96,19 @@ content: >-
   sensibilities with my sport photographic works.
 
 
-  Congrats to the fellow winners and thank you to the judges: Mike
-  Davis\*\*,\*\* visual storytelling consultant/photo editor/educator/author,
-  Minneapolis, MN<br>Jennifer Dorn\*\*,\*\* photo director, *Variety*, Los
-  Angeles, CA<br>Luis Paulo Gatti\*\*,\*\* creative director/head of
-  art/teacher, Stuttgart, Germany<br>Natalia Jiménez\*\*,\*\* picture editor,
-  the *Washington Post*, Washington, DC<br>Marcia Minter\*\*,\*\*
-  co-founder/executive director, Indigo Arts Alliance, Portland, MA<br>Nikki
-  Ormerod\*\*,\*\* director/photographer/partner, Undivided Creative, Toronto,
-  Canada<br>Adrienne Pao\*\*,\*\* photographer/creative director/director of
+  Congrats to the fellow winners and thank you to the judges:<br>Mike Davis,
+  visual storytelling consultant/photo editor/educator/author, Minneapolis,
+  MN<br>Jennifer Dorn, photo director, *Variety*, Los Angeles, CA<br>Luis Paulo
+  Gatti, creative director/head of art/teacher, Stuttgart, Germany<br>Natalia
+  Jiménez, picture editor, the *Washington Post*, Washington, DC<br>Marcia
+  Minter, co-founder/executive director, Indigo Arts Alliance, Portland,
+  MA<br>Nikki Ormerod, director/photographer/partner, Undivided Creative,
+  Toronto, Canada<br>Adrienne Pao, photographer/creative director/director of
   Academy of Art University School of Photography, San Francisco Bay Area,
-  CA<br>David Roennfeldt\*\*,\*\* founder/creative director, 3 Deep Design,
-  Melbourne, Australia<br>Marcus Smith\*\*,\*\* photographer/director, Chicago,
-  IL<br>Steve Wallington, creative director and co-founder, the Photography
-  Movement, London, United Kingdom
+  CA<br>David Roennfeldt, founder/creative director, 3 Deep Design, Melbourne,
+  Australia<br>Marcus Smith, photographer/director, Chicago, IL<br>Steve
+  Wallington, creative director and co-founder, the Photography Movement,
+  London, United Kingdom
 date:
 news_category:
   - awards

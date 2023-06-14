@@ -1,11 +1,82 @@
 ---
+_schema: default
+title: The Star Geezers
+post_blocks:
+  - _bookshop_name: posts/media-row-start
+    row_alignment: between
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-3.jpg
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-5.jpg
+    width: '100'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-6.jpg
+    width: '40'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-7.jpg
+    width: '20'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-8.jpg
+    width: '40'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-10.jpg
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-9.jpg
+    width: '66'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-11.jpg
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-12.jpg
+    width: '33'
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-14.jpg
+    width: '33'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    caption:
+    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-13.jpg
+    width: '100'
+  - _bookshop_name: posts/media-row-end
+blog_slider:
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-4.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-2.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-3.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-4.jpg
+  - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-5.jpg
 attached_collection: collections/star-geezers.md
-attached_link: 
+attached_link:
+block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
 caption: Fisheye Photo Review 2021.22
 content: >-
-  [**_The Star Geezers_**](https://jesserieser.com/collections/star-geezers) is
+  [***The Star Geezers***](https://jesserieser.com/collections/star-geezers) is
   featured in Fisheye’s Photo Review for 2021 and 2022. This French biennial
   review of contemporary photography stands at 564 pages and can be purchased
   [here.](https://www.fisheyemagazine.fr/store/en/product/fisheye-photo-review-2021-22/)
@@ -33,80 +104,9 @@ content: >-
   feet. So dark you never knew so many stars existed- appearing dizzying,
   textural, and 3-dimensional. So dark as your eyes adjust, you can see your
   shadow cast by the stars overhead.
-date: 
+date:
 news_category:
   - Press
-theme_color: "#D9F8F4"
-title: The Star Geezers 
-seo:
-  meta_description: 
-  meta_title: 
-post_blocks:
-  - _bookshop_name: posts/media-row-start
-    row_alignment: between
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-3.jpg
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg
-    width: '50'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-5.jpg
-    width: '100'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-6.jpg
-    width: '40'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-7.jpg
-    width: '20'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-8.jpg
-    width: '40'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-10.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-9.jpg
-    width: '66'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-11.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-12.jpg
-    width: '33'
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-14.jpg
-    width: '33'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    caption: 
-    image: https://d1sf55qlb7p6hz.cloudfront.net/blog_skygeezer-13.jpg
-    width: '100'
-  - _bookshop_name: posts/media-row-end
-blog_slider:
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-4.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-2.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-3.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-4.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-5.jpg
+theme_color: '#d9f8f4'
+vimeo_block_cover: 769252337
 ---
