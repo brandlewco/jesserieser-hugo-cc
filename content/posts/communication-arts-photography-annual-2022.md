@@ -99,11 +99,8 @@ content: >-
   works.
 
 
-  Congrats to the fellow winners and thank you to the judges:
-
-
-  Mike Davis, visual storytelling consultant/photo editor/educator/author,
-  Minneapolis, MN
+  Congrats to the fellow winners and thank you to the judges:<br>Mike Davis,
+  visual storytelling consultant/photo editor/educator/author, Minneapolis, MN
 
 
   Jennifer Dorn, photo director, *Variety*, Los Angeles, CA
