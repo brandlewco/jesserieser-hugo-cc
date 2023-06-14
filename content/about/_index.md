@@ -125,16 +125,23 @@ about_blocks:
           Brooklyn, NY (Group Show)
         icon:
         url:
-      - content: |-
+      - content: >-
           **2020 - 2019**
 
-          _The Changing Landscape of American Retail_
-          Photoville The Fence:
-          * Brooklyn Bridge Park. Brooklyn, NY. * Santa Fe Railyard Park. Santa
 
-          Fe, NM. * LoDo District. Denver, CO. * Atlanta Beltline. Atlanta, GA.
+          *The Changing Landscape of American Retail* Photoville The Fence:
 
-          * City Hall Plaza. Durham, NC. * SoWa Southie Plaza. Boston, MA. *
+
+          Brooklyn Bridge Park. Brooklyn, NY. \*Santa Fe Railyard Park. Santa
+
+
+          Fe, NM. LoDo District. Denver, CO.&nbsp; Atlanta Beltline. Atlanta,
+          GA.
+
+
+          City Hall Plaza. Durham, NC. &nbsp;SoWa Southie Plaza. Boston,
+          MA.&nbsp;
+
 
           Fourth Ward. Houston, TX.
         icon:
