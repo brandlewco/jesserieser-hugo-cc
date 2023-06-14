@@ -227,33 +227,38 @@ about_blocks:
       - content: |-
           **2017 - 2018**
 
-          _Christmas In America: Happy Birthday, Jesus_
+          *Christmas In America: Happy Birthday, Jesus*
 
-          Irving Arts Center a Smithsonian Affiliate 
-          Irving, TX (Solo Show)
+          Irving Arts Center a Smithsonian Affiliate Irving, TX (Solo Show)
         icon:
         url:
       - content: |-
           **2017 - 2018**
 
-          _Christmas In America: Happy Birthday, Jesus_
+          *Christmas In America: Happy Birthday, Jesus*
 
-          Standard Vision LA at LA Live.
-          Los Angeles, CA (Solo Show)
+          Standard Vision LA at LA Live. Los Angeles, CA (Solo Show)
         icon:
         url:
-      - content: >-
+      - content: |-
           **2017 - 2018**
 
-
-          _Christmas In America: Happy Birthday, Jesus_  
-
+          *Christmas In America: Happy Birthday, Jesus*
 
           Photoville The Fence:
 
-          * Brooklyn Bridge Park. Brooklyn, NY. * Santa Fe Railyard Park. Santa
-          Fe, NM. * LoDo District. Denver, CO. * Atlanta Beltline. Atlanta, GA.
-          * City Hall Plaza. Durham, NC. * SoWa Southie Plaza. Boston, MA. *
+          Brooklyn Bridge Park. Brooklyn, NY.
+
+          Santa Fe Railyard Park. Santa Fe, NM.&nbsp;
+
+          LoDo District. Denver, CO.
+
+          Atlanta Beltline. Atlanta, GA.
+
+          City Hall Plaza. Durham, NC.
+
+          SoWa Southie Plaza. Boston, MA.&nbsp;
+
           Fourth Ward. Houston, TX.
         icon:
         url:
