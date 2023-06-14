@@ -1229,6 +1229,9 @@ about_blocks:
       - content: Anomaly
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__anomoly.png
         url:
+      - content: Apple&nbsp;
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__apple.png
+        url:
       - content: '**Atlantic**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Atlantic.png
         url:
@@ -1247,6 +1250,9 @@ about_blocks:
         url:
       - content: '**Best Buy**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__bestbuy.png
+        url:
+      - content: Bloomberg
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__bloomberg.png
         url:
       - content: '**Coca Cola**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__cococola.png
@@ -1341,6 +1347,9 @@ about_blocks:
       - content: '**Smart Water**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__smartwater.png
         url:
+      - content: Smithsonian
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__smithsonian.png
+        url:
       - content: '**This American Life**'
         icon: >-
           https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__thisamerican.png
@@ -1374,15 +1383,6 @@ about_blocks:
         url:
       - content: '**Wired**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wired.png
-        url:
-      - content: Apple&nbsp;
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__apple.png
-        url:
-      - content: Bloomberg
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__bloomberg.png
-        url:
-      - content: Smithsonian
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__smithsonian.png
         url:
   - _bookshop_name: about/media-row-end
 footer_links:
