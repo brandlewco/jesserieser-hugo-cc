@@ -475,7 +475,7 @@ about_blocks:
     text_alignment:
     text_tracking:
     font_weight:
-    meta_align: center
+    meta_align: right
     modal_color: '#fad267'
     modal_block:
       - content: |-
