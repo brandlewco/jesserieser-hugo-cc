@@ -99,9 +99,13 @@ about_blocks:
 
 
 
-          *A Vanishing Folklore* 2012 - 2022<br>*The Changing Landscape of
-          American Retail 2015 - 2022*<br>Christmas In America: Happy Birthday,
-          Jesus 2010 - 2022
+          *A Vanishing Folklore* 2012 - 2022<br>
+
+
+          *The Changing Landscape of American Retail 2015 - 2022*
+
+
+          *Christmas In America: Happy Birthday, Jesus* 2010 - 2022
         icon:
         url:
       - content: |-
