@@ -485,7 +485,7 @@ about_blocks:
 
           Best Editorial Series:
 
-          Barron's "Beyond The Drought"
+          *Barron's* "Beyond The Drought"
         icon: ''
         url: ''
       - content: |-
