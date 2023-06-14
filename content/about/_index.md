@@ -1375,8 +1375,14 @@ about_blocks:
       - content: '**Wired**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wired.png
         url:
-      - content: ''
-        icon: ''
+      - content: Apple&nbsp;
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__apple.png
+        url:
+      - content: Bloomberg
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__bloomberg.png
+        url:
+      - content: Smithsonian
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__smithsonian.png
         url:
   - _bookshop_name: about/media-row-end
 footer_links:
