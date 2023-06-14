@@ -478,518 +478,524 @@ about_blocks:
     meta_align: right
     modal_color: '#fad267'
     modal_block:
-    - content: |-
-        **2022**
-        
-        
-        Communication Arts Photography Annual 
-        
-        
-        Best "For Sale"
-          Series:
-        
-        
-        "Antoine's Escalaras"
-      icon: ''
-      url: ''
-    - content: |-
-        **2022**
-        
-        
-        AP 38: American Photography Annual 38
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _Wired_ “I’m Not a Soldier, but I Have Been Trained to Kill”
-      icon: ''
-      url: ''
-    - content: |-
-        **2022**
-        
-        
-        AP 38: American Photography Annual 38
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _Popular Mechanics_ “Can Science Cure Death? It Sure Looks Like It.”
-      icon: ''
-      url: ''
-    - content: |-
-        **2022**
-        
-        
-        SPD Merit Winner
-        
-        
-        _Baron's_ "Vegas Presses It's Luck
-        in the Postpandemic Era Cover Story" for 
-      icon: ''
-      url: ''
-    - content: |-
-        **2022**
-        
-        
-        The Agents Club Awards
-        
-        
-        Finalist "Poetic Documentary"
-        _The New York Times_ "America is Reopening"
-      icon: ''
-      url: ''
-    - content: |-
-        **2022**
-        
-        
-        Spotlight Awards presented by Production Paradise
-        
-        
-        Architectural
-          and Interior Finalist:
-        
-        
-        _The New York Times_ "Auctioning Off a Dead Mall"
-      icon: ''
-      url: ''
-    - content: |-
-        **2021**
-        
-        
-        _AP 37: American Photography Annual 37_
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _The New York Times_ "Auctioning Off a Dead Mall"
-      icon: ''
-      url: ''
-    - content: |-
-        **2020**
-        
-        
-        Klompching Gallery Fresh 2020 
-        
-        
-        Winning Exhibitor
-        
-        
-        _The Changing Landscape of American Retail_
-      icon: ''
-      url: ''
-    - content: |-
-        **2020**
-        
-        
-        _AP 36: American Photography Annual 36_
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _Wired_ "The Internet Giant That Went Too Far"
-      icon: ''
-      url: ''
-    - content: |-
-        **2019**
-        
-        
-        _AP 35: American Photography Annual 35_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _A Dystopian Legoland That Tastes Like Candy_"
-      url: ''
-      icon: ''
-    - content: |-
-        **2019**
-        
-        
-        Photolucida Critical Mass
-        
-        
-        Finalist: Top 200 International
-          Project
-        
-        
-        _A Vanishing American Folklore_"
-      url: ''
-      icon: ''
-    - content: |-
-        **2018**
-        
-        
-        Photolucida Critical Mass
-        
-        
-        Winner: Top 50 International
-          Project
-        
-        
-        _The Changing Landscape of American Retail_"
-      url: ''
-      icon: ''
-    - content: |-
-        **2018**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best Personal Work Series:
-        
-        
-        _The Changing Landscape Of American Retail_
-      url: ''
-      icon: ''
-    - content: |-
-        **2018**
-        
-        
-        _AP 34: American Photography Annual 34_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _Autobiography Of A Contact Sport_
-      url: ''
-      icon: ''
-    - content: |-
-        **2018 + 2017**
-        
-        
-        _Luezer's Archive_
-        
-        
-        200 Best Best Ad Photographers Worldwide
-      url: ''
-      icon: ''
-    - content: |-
-        **2017**
-        
-        
-        _Communication Arts Photography Annual_
-        
-        
-        Best Unpublished
-          Series:
-        
-        
-        _Christmas In America: Happy Birthday, Jesus_
-      url: ''
-      icon: ''
-    - content: |-
-        **2017**
-        
-        
-        _AP 33: American Photography Annual 33_
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _Stalking A Serial Killer_"
-      url: ''
-      icon: ''
-    - content: |-
-        **2017**
-        
-        
-        _AP 33: American Photography Annual 33_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _Christmas In America: Happy Birthday, Jesus_
-      url: ''
-      icon: ''
-    - content: |-
-        **2016**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best For Sale Photography:
-        
-        
-        _Sounds of Cement_
-      url: ''
-      icon: ''
-    - content: |-
-        **2016**
-        
-        
-        _AP 32: American Photography Annual 32_
-        
-        
-        Best Editorial
-          Photography:
-        
-        
-        _Gioia_ for _Hearst Italia_
-      url: ''
-      icon: ''
-    - content: |-
-        **2016**
-        
-        
-        _AP 32: American Photography Annual 32_
-        
-        
-        Best Editorial
-          Photography:
-        
-        
-        _Unbridled Spirit_ for _Phoenix Home & Garden_
-      url: ''
-      icon: ''
-    - content: |-
-        **2015**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best Editorial Series:
-        
-        
-        _When Fall Came Early_ for MSNBC"
-      url: ''
-      icon: ''
-    - content: |-
-        **2015**
-        
-        
-        Photolucida Critical Mass 
-        
-        
-        Finalist: Top 200 International
-          Project
-        
-        
-        _When Fall Came Early_
-      url: ''
-      icon: ''
-    - content: |-
-        **2014**
-        
-        
-        _AP 30: American Photography Annual 30_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _When Fall Came Early_
-      icon: ''
-      url: ''
-    - content: |-
-        **2014 + 2013**
-        
-        
-        _Luezer’s Archive_
-        
-        
-        200 Best Ad Photographers Worldwide
-      icon: ''
-      url: ''
-    - content: |-
-        **2013**
-        
-        
-        Photolucida Critical Mass Winner
-        
-        
-        Top 50 International
-          Project
-        
-        
-        _The Wallow Fire_
-      icon: ''
-      url: ''
-    - content: |-
-        **2012**
-        
-        
-        _Communications Arts Photography Annual_
-        
-        
-        Best Self Promotional
-          Series:
-        
-        
-        _Christmas In America: Happy Birthday, Jesus_
-      icon: ''
-      url: ''
-    - content: |-
-        **2012**
-        
-        
-        Magenta Foundation Flash Forward Winner
-        
-        
-        Top Emerging
-          Fine Art Photographer In North America and U.K. Under 34
-      icon: ''
-      url: ''
-    - content: |-
-        **2012**
-        
-        
-        Photolucida Critical Mass 
-        
-        
-        Finalist: Top 200 International
-          Project
-        
-        
-        _Starting Over: Will Move For Work_
-      icon: ''
-      url: ''
-    - content: |-
-        **2012**
-        
-        
-        _PDN 30_ 
-        
-        
-        Finalist
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        _Art Director’s Club Young Guns 9_
-        
-        
-        Top International
-          Creative 30 & Under
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best Personal Work Series:
-        
-        
-        _Christmas
-          In America: Happy Birthday, Jesus_
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        _AP 27: American Photography Annual 27_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _Christmas In America: Happy Birthday, Jesus_
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        _AP 27: American Photography Annual 27_
-        
-        
-        Best Editorial
-          Series:
-        
-        
-        _Sex Church_
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        Center's Review Santa Fe 100
-        
-        
-        _The Class of 99 Turns 30_
-      icon: ''
-      url: ''
-    - content: |-
-        **2011**
-        
-        
-        _The 10 Most Exciting Photographers This Year_
-        
-        
-        Phoenix
-          Art Museum
-        
-        
-        CCP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson
-      icon: ''
-      url: ''
-    - content: |-
-        **2010**
-        
-        
-        _AP 26: American Photography Annual 26_
-        
-        
-        Best Personal
-          Work Series:
-        
-        
-        _The Class of 99 Turns 30_
-      icon: ''
-      url: ''
-    - content: |-
-        **2008**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best Advertising Work:
-        
-        
-        Phoenix Children's Hospital for Santy
-      icon: ''
-      url: ''
-    - content: |-
-        **2008**
-        
-        
-        _PDN Photography Annual_
-        
-        
-        Best Personal Work Series:
-        
-        
-        _Spaceman & Baby_
-      icon: ''
-      url: ''
+      - content: |-
+          **2023**
+
+          AP 39: American Photography Annual
+
+          Best Editorial Series:
+
+          Barron's "Beyond The Drought"
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+          Communication Arts Photography Annual
+
+          Best "For Sale" Series:
+
+          "Antoine's Escalaras"
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+
+          AP 38: American Photography Annual 38
+
+
+          Best Editorial
+            Series:
+
+
+          _Wired_ “I’m Not a Soldier, but I Have Been Trained to Kill”
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+
+          AP 38: American Photography Annual 38
+
+
+          Best Editorial
+            Series:
+
+
+          _Popular Mechanics_ “Can Science Cure Death? It Sure Looks Like It.”
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+
+          SPD Merit Winner
+
+
+          _Baron's_ "Vegas Presses It's Luck
+          in the Postpandemic Era Cover Story" for 
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+
+          The Agents Club Awards
+
+
+          Finalist "Poetic Documentary"
+          _The New York Times_ "America is Reopening"
+        icon: ''
+        url: ''
+      - content: |-
+          **2022**
+
+
+          Spotlight Awards presented by Production Paradise
+
+
+          Architectural
+            and Interior Finalist:
+
+
+          _The New York Times_ "Auctioning Off a Dead Mall"
+        icon: ''
+        url: ''
+      - content: |-
+          **2021**
+
+
+          _AP 37: American Photography Annual 37_
+
+
+          Best Editorial
+            Series:
+
+
+          _The New York Times_ "Auctioning Off a Dead Mall"
+        icon: ''
+        url: ''
+      - content: |-
+          **2020**
+
+
+          Klompching Gallery Fresh 2020 
+
+
+          Winning Exhibitor
+
+
+          _The Changing Landscape of American Retail_
+        icon: ''
+        url: ''
+      - content: |-
+          **2020**
+
+
+          _AP 36: American Photography Annual 36_
+
+
+          Best Editorial
+            Series:
+
+
+          _Wired_ "The Internet Giant That Went Too Far"
+        icon: ''
+        url: ''
+      - content: |-
+          **2019**
+
+
+          _AP 35: American Photography Annual 35_
+
+
+          Best Personal
+            Work Series:
+
+
+          _A Dystopian Legoland That Tastes Like Candy_"
+        url: ''
+        icon: ''
+      - content: |-
+          **2019**
+
+
+          Photolucida Critical Mass
+
+
+          Finalist: Top 200 International
+            Project
+
+
+          _A Vanishing American Folklore_"
+        url: ''
+        icon: ''
+      - content: |-
+          **2018**
+
+
+          Photolucida Critical Mass
+
+
+          Winner: Top 50 International
+            Project
+
+
+          _The Changing Landscape of American Retail_"
+        url: ''
+        icon: ''
+      - content: |-
+          **2018**
+
+
+          _PDN Photography Annual_
+
+
+          Best Personal Work Series:
+
+
+          _The Changing Landscape Of American Retail_
+        url: ''
+        icon: ''
+      - content: |-
+          **2018**
+
+
+          _AP 34: American Photography Annual 34_
+
+
+          Best Personal
+            Work Series:
+
+
+          _Autobiography Of A Contact Sport_
+        url: ''
+        icon: ''
+      - content: |-
+          **2018 + 2017**
+
+
+          _Luezer's Archive_
+
+
+          200 Best Best Ad Photographers Worldwide
+        url: ''
+        icon: ''
+      - content: |-
+          **2017**
+
+
+          _Communication Arts Photography Annual_
+
+
+          Best Unpublished
+            Series:
+
+
+          _Christmas In America: Happy Birthday, Jesus_
+        url: ''
+        icon: ''
+      - content: |-
+          **2017**
+
+
+          _AP 33: American Photography Annual 33_
+
+
+          Best Editorial
+            Series:
+
+
+          _Stalking A Serial Killer_"
+        url: ''
+        icon: ''
+      - content: |-
+          **2017**
+
+
+          _AP 33: American Photography Annual 33_
+
+
+          Best Personal
+            Work Series:
+
+
+          _Christmas In America: Happy Birthday, Jesus_
+        url: ''
+        icon: ''
+      - content: |-
+          **2016**
+
+
+          _PDN Photography Annual_
+
+
+          Best For Sale Photography:
+
+
+          _Sounds of Cement_
+        url: ''
+        icon: ''
+      - content: |-
+          **2016**
+
+
+          _AP 32: American Photography Annual 32_
+
+
+          Best Editorial
+            Photography:
+
+
+          _Gioia_ for _Hearst Italia_
+        url: ''
+        icon: ''
+      - content: |-
+          **2016**
+
+
+          _AP 32: American Photography Annual 32_
+
+
+          Best Editorial
+            Photography:
+
+
+          _Unbridled Spirit_ for _Phoenix Home & Garden_
+        url: ''
+        icon: ''
+      - content: |-
+          **2015**
+
+
+          _PDN Photography Annual_
+
+
+          Best Editorial Series:
+
+
+          _When Fall Came Early_ for MSNBC"
+        url: ''
+        icon: ''
+      - content: |-
+          **2015**
+
+
+          Photolucida Critical Mass 
+
+
+          Finalist: Top 200 International
+            Project
+
+
+          _When Fall Came Early_
+        url: ''
+        icon: ''
+      - content: |-
+          **2014**
+
+
+          _AP 30: American Photography Annual 30_
+
+
+          Best Personal
+            Work Series:
+
+
+          _When Fall Came Early_
+        icon: ''
+        url: ''
+      - content: |-
+          **2014 + 2013**
+
+
+          _Luezer’s Archive_
+
+
+          200 Best Ad Photographers Worldwide
+        icon: ''
+        url: ''
+      - content: |-
+          **2013**
+
+
+          Photolucida Critical Mass Winner
+
+
+          Top 50 International
+            Project
+
+
+          _The Wallow Fire_
+        icon: ''
+        url: ''
+      - content: |-
+          **2012**
+
+
+          _Communications Arts Photography Annual_
+
+
+          Best Self Promotional
+            Series:
+
+
+          _Christmas In America: Happy Birthday, Jesus_
+        icon: ''
+        url: ''
+      - content: |-
+          **2012**
+
+
+          Magenta Foundation Flash Forward Winner
+
+
+          Top Emerging
+            Fine Art Photographer In North America and U.K. Under 34
+        icon: ''
+        url: ''
+      - content: |-
+          **2012**
+
+
+          Photolucida Critical Mass 
+
+
+          Finalist: Top 200 International
+            Project
+
+
+          _Starting Over: Will Move For Work_
+        icon: ''
+        url: ''
+      - content: |-
+          **2012**
+
+
+          _PDN 30_ 
+
+
+          Finalist
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          _Art Director’s Club Young Guns 9_
+
+
+          Top International
+            Creative 30 & Under
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          _PDN Photography Annual_
+
+
+          Best Personal Work Series:
+
+
+          _Christmas
+            In America: Happy Birthday, Jesus_
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          _AP 27: American Photography Annual 27_
+
+
+          Best Personal
+            Work Series:
+
+
+          _Christmas In America: Happy Birthday, Jesus_
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          _AP 27: American Photography Annual 27_
+
+
+          Best Editorial
+            Series:
+
+
+          _Sex Church_
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          Center's Review Santa Fe 100
+
+
+          _The Class of 99 Turns 30_
+        icon: ''
+        url: ''
+      - content: |-
+          **2011**
+
+
+          _The 10 Most Exciting Photographers This Year_
+
+
+          Phoenix
+            Art Museum
+
+
+          CCP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson
+        icon: ''
+        url: ''
+      - content: |-
+          **2010**
+
+
+          _AP 26: American Photography Annual 26_
+
+
+          Best Personal
+            Work Series:
+
+
+          _The Class of 99 Turns 30_
+        icon: ''
+        url: ''
+      - content: |-
+          **2008**
+
+
+          _PDN Photography Annual_
+
+
+          Best Advertising Work:
+
+
+          Phoenix Children's Hospital for Santy
+        icon: ''
+        url: ''
+      - content: |-
+          **2008**
+
+
+          _PDN Photography Annual_
+
+
+          Best Personal Work Series:
+
+
+          _Spaceman & Baby_
+        icon: ''
+        url: ''
   - _bookshop_name: about/media-row
     row_alignment: center
   - _bookshop_name: about/media-text
