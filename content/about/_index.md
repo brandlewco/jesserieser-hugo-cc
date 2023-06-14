@@ -536,348 +536,518 @@ about_blocks:
     meta_align: right
     modal_color: '#FAD267'
     modal_block:
-      - content: |-
-          **2021**  
-
-          
-          _I am Not a Soldier. But I Have Been Trained to Kill._  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 21
-        icon: ''
-        url: ''
-      - content: |-
-          **2020**  
-
-          
-          _The Changing Landscape of American Retail_  
-          Fresh Exhibiting Artist  
-          Klompching Gallery  
-          Brooklyn, NY (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2020 - 2019**  
-
-          
-          _The Changing Landscape of American Retail_
-
-
-
-          Photoville The Fence:
-
-
-
-          * Brooklyn Bridge Park. Brooklyn, NY.
-          * Santa Fe Railyard Park. Santa Fe, NM.
-          * LoDo District. Denver, CO.
-          * Atlanta Beltline. Atlanta, GA.
-          * City Hall Plaza. Durham, NC.
-          * SoWa Southie Plaza. Boston, MA.
-          * Fourth Ward. Houston, TX.
-        icon: ''
-        url: ''
-      - content: >-
-          **2019**  
-
-
-          _Christmas In America: Happy Birthday: Jesus_  
-
-
-          Monopoli, Italy (Solo Show)  
-
-
-          Phest Photography Festival: See Beyond the Sea with National
-          Geographic
-        icon: ''
-        url: ''
-      - content: |-
-          **2019**  
-
-          
-          _Grand Canyon National Park Centennial for Time Magazine_ \ 
-          Terry Etherton Gallery. Tucson, AZ (Group Show)  
-          Celebrating The Grand Canyon National Park at 100
-        icon: ''
-        url: ''
-      - content: |-
-          **2019**  
-
-          
-          _Phoenix: A Dystopian Legoland That Tastes Like Candy_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 20
-        icon: ''
-        url: ''
-      - content: |-
-          **2019**  
-
-          
-          _The Changing Landscape of American Retail_  
-          Camerawork Gallery  
-          Portland, OR (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2019**  
-
-          
-          _The Changing Landscape of American Retail_  
-          Standard Vision LA at LA Live.   
-          Los Angeles, CA (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2018 - 2019**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Mabee-Gerrer Museum of Art  
-          Shawnee, OK (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2018**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Industry City  
-          Brooklyn, NY (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2018**  
-
-          
-          _The Changing Landscape of American Retail_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 18
-        icon: ''
-        url: ''
-      - content: |-
-          **2018**  
-
-          
-          _Stalking A Serial Killer_  
-          HCP Print Auction, Houston Center for Photography.  
-          Houston, TX (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2017 - 2018**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Irving Arts Center a Smithsonian Affiliate  
-          Irving, TX (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2017 - 2018**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Standard Vision LA at LA Live.   
-          Los Angeles, CA (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2017 - 2018**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Photoville The Fence:
-
-
-
-          * Brooklyn Bridge Park. Brooklyn, NY.
-          * Santa Fe Railyard Park. Santa Fe, NM.
-          * LoDo District. Denver, CO.
-          * Atlanta Beltline. Atlanta, GA.
-          * City Hall Plaza. Durham, NC.
-          * SoWa Southie Plaza. Boston, MA.
-          * Fourth Ward. Houston, TX.
-        icon: ''
-        url: ''
-      - content: |-
-          **2017**  
-
-          
-          _Stalking A Serial Killer_  
-          Sunday Afternoon Gallery. \ 
-          New York, NY (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2017**  
-
-          
-          _Chaos Theory 17_  
-          Legend City Gallery. Phoenix, AZ (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2016**  
-
-          
-          _Sounds of Cement_  
-          Inert Gallery. New York, NY (Group Show)  
-          Sunday Afternoon Artist Exhibition
-        icon: ''
-        url: ''
-      - content: |-
-          **2016**  
-
-          
-          _A New American Folklore_  
-          Legend City Gallery. Phoenix, AZ (Group Show)  
-          Chaos Theory 16
-        icon: ''
-        url: ''
-      - content: |-
-          **2014**  
-
-          
-          _The Wallow Fire_  
-          How One Thing Leads To Another: Critical Mass Top 50 Touring Show
-
-
-
-          * Corden Potts Gallery. San Francisco, CA
-          * Houston Center For Photography. Houston, TX (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2014**  
-          OFFF Barcelona: A Post Digital Culture Festival  
-          Barcelona, Spain (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2014**  
-          The ADC Festival of Art + Craft in Advertising and Design. \ 
-          The New World Center.  
-          Miami, FL
-        icon: ''
-        url: ''
-      - content: |-
-          **2013**  
-
-          
-          _The Wallow Fire_  
-          Monorchid Gallery. Phoenix, AZ (Group Show)  
-          The Forty Eighth: Contemporary Photography at Arizona’s Centennial
-        icon: ''
-        url: ''
-      - content: |-
-          **2013**  
-          Chaos Theory 13  
-          _A New American Folklore_  
-          Legend City Gallery. Phoenix, AZ (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2012**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show
-
-
-
-          * Northwest Center For Photography. Seattle, WA
-          * Newspace Center For Photography. Portland, OR
-          * Raykko Gallery. San Francisco, CA (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2012**  
-
-          
-          _Class of 99 Turns 30_  
-          La Fototeca Gallery. Guatemala City (Group Show)  
-          Guate Photo Festival: \\[DOT\\]COM
-        icon: ''
-        url: ''
-      - content: |-
-          **2011**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Newspace Center for Photography.  
-          Portland, OR (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2011**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          The Saguaro, A Joie de Vivre Boutique Hotel.  
-          Scottsdale, AZ (Solo Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2011**  
-
-          
-          _Art Director’s Club Young Guns 9 Exhibition_  
-          Art Director’s Club Gallery.  
-          New York, NY. (Group Show)
-        icon: ''
-        url: ''
-      - content: >-
-          **2011**  
-
-
-          _Christmas In America: Happy Birthday, Jesus_  
-
-
-          Art of Photography Juried Exhibition  
-
-
-          Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
-          Angeles  
-
-
-          Lyceum Theatre Gallery. San Diego, CA (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2011**  
-
-          
-          _Christmas In America: Happy Birthday, Jesus_  
-          Camera Club of New York Gallery  
-          New York, NY (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2011**  
-
-          
-          _Starting Over: Will Move for Work_  
-          Filter Photo Festival Juried Exhibition  
-          Black Cloud Gallery. Chicago, IL (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2010**  
-
-          
-          _The Class of 99 Turns 30_  
-          Chaos Theory 10  
-          Legend City Gallery. Phoenix, AZ (Group Show)
-        icon: ''
-        url: ''
-      - content: |-
-          **2009**  
-
-          
-          _On the Verge of Existence_  
-          Hendershot Gallery.  
-          New York, NY (Group Show)
-        icon: ''
-        url: ''
+    - content: |-
+        **2022**
+        
+        
+        Communication Arts Photography Annual 
+        
+        
+        Best "For Sale"
+          Series:
+        
+        
+        "Antoine's Escalaras"
+      icon: ''
+      url: ''
+    - content: |-
+        **2022**
+        
+        
+        AP 38: American Photography Annual 38
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _Wired_ “I’m Not a Soldier, but I Have Been Trained to Kill”
+      icon: ''
+      url: ''
+    - content: |-
+        **2022**
+        
+        
+        AP 38: American Photography Annual 38
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _Popular Mechanics_ “Can Science Cure Death? It Sure Looks Like It.”
+      icon: ''
+      url: ''
+    - content: |-
+        **2022**
+        
+        
+        SPD Merit Winner
+        
+        
+        _Baron's_ "Vegas Presses It's Luck
+        in the Postpandemic Era Cover Story" for 
+      icon: ''
+      url: ''
+    - content: |-
+        **2022**
+        
+        
+        The Agents Club Awards
+        
+        
+        Finalist "Poetic Documentary"
+        _The New York Times_ "America is Reopening"
+      icon: ''
+      url: ''
+    - content: |-
+        **2022**
+        
+        
+        Spotlight Awards presented by Production Paradise
+        
+        
+        Architectural
+          and Interior Finalist:
+        
+        
+        _The New York Times_ "Auctioning Off a Dead Mall"
+      icon: ''
+      url: ''
+    - content: |-
+        **2021**
+        
+        
+        _AP 37: American Photography Annual 37_
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _The New York Times_ "Auctioning Off a Dead Mall"
+      icon: ''
+      url: ''
+    - content: |-
+        **2020**
+        
+        
+        Klompching Gallery Fresh 2020 
+        
+        
+        Winning Exhibitor
+        
+        
+        _The Changing Landscape of American Retail_
+      icon: ''
+      url: ''
+    - content: |-
+        **2020**
+        
+        
+        _AP 36: American Photography Annual 36_
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _Wired_ "The Internet Giant That Went Too Far"
+      icon: ''
+      url: ''
+    - content: |-
+        **2019**
+        
+        
+        _AP 35: American Photography Annual 35_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _A Dystopian Legoland That Tastes Like Candy_"
+      url: ''
+      icon: ''
+    - content: |-
+        **2019**
+        
+        
+        Photolucida Critical Mass
+        
+        
+        Finalist: Top 200 International
+          Project
+        
+        
+        _A Vanishing American Folklore_"
+      url: ''
+      icon: ''
+    - content: |-
+        **2018**
+        
+        
+        Photolucida Critical Mass
+        
+        
+        Winner: Top 50 International
+          Project
+        
+        
+        _The Changing Landscape of American Retail_"
+      url: ''
+      icon: ''
+    - content: |-
+        **2018**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best Personal Work Series:
+        
+        
+        _The Changing Landscape Of American Retail_
+      url: ''
+      icon: ''
+    - content: |-
+        **2018**
+        
+        
+        _AP 34: American Photography Annual 34_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _Autobiography Of A Contact Sport_
+      url: ''
+      icon: ''
+    - content: |-
+        **2018 + 2017**
+        
+        
+        _Luezer's Archive_
+        
+        
+        200 Best Best Ad Photographers Worldwide
+      url: ''
+      icon: ''
+    - content: |-
+        **2017**
+        
+        
+        _Communication Arts Photography Annual_
+        
+        
+        Best Unpublished
+          Series:
+        
+        
+        _Christmas In America: Happy Birthday, Jesus_
+      url: ''
+      icon: ''
+    - content: |-
+        **2017**
+        
+        
+        _AP 33: American Photography Annual 33_
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _Stalking A Serial Killer_"
+      url: ''
+      icon: ''
+    - content: |-
+        **2017**
+        
+        
+        _AP 33: American Photography Annual 33_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _Christmas In America: Happy Birthday, Jesus_
+      url: ''
+      icon: ''
+    - content: |-
+        **2016**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best For Sale Photography:
+        
+        
+        _Sounds of Cement_
+      url: ''
+      icon: ''
+    - content: |-
+        **2016**
+        
+        
+        _AP 32: American Photography Annual 32_
+        
+        
+        Best Editorial
+          Photography:
+        
+        
+        _Gioia_ for _Hearst Italia_
+      url: ''
+      icon: ''
+    - content: |-
+        **2016**
+        
+        
+        _AP 32: American Photography Annual 32_
+        
+        
+        Best Editorial
+          Photography:
+        
+        
+        _Unbridled Spirit_ for _Phoenix Home & Garden_
+      url: ''
+      icon: ''
+    - content: |-
+        **2015**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best Editorial Series:
+        
+        
+        _When Fall Came Early_ for MSNBC"
+      url: ''
+      icon: ''
+    - content: |-
+        **2015**
+        
+        
+        Photolucida Critical Mass 
+        
+        
+        Finalist: Top 200 International
+          Project
+        
+        
+        _When Fall Came Early_
+      url: ''
+      icon: ''
+    - content: |-
+        **2014**
+        
+        
+        _AP 30: American Photography Annual 30_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _When Fall Came Early_
+      icon: ''
+      url: ''
+    - content: |-
+        **2014 + 2013**
+        
+        
+        _Luezer’s Archive_
+        
+        
+        200 Best Ad Photographers Worldwide
+      icon: ''
+      url: ''
+    - content: |-
+        **2013**
+        
+        
+        Photolucida Critical Mass Winner
+        
+        
+        Top 50 International
+          Project
+        
+        
+        _The Wallow Fire_
+      icon: ''
+      url: ''
+    - content: |-
+        **2012**
+        
+        
+        _Communications Arts Photography Annual_
+        
+        
+        Best Self Promotional
+          Series:
+        
+        
+        _Christmas In America: Happy Birthday, Jesus_
+      icon: ''
+      url: ''
+    - content: |-
+        **2012**
+        
+        
+        Magenta Foundation Flash Forward Winner
+        
+        
+        Top Emerging
+          Fine Art Photographer In North America and U.K. Under 34
+      icon: ''
+      url: ''
+    - content: |-
+        **2012**
+        
+        
+        Photolucida Critical Mass 
+        
+        
+        Finalist: Top 200 International
+          Project
+        
+        
+        _Starting Over: Will Move For Work_
+      icon: ''
+      url: ''
+    - content: |-
+        **2012**
+        
+        
+        _PDN 30_ 
+        
+        
+        Finalist
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        _Art Director’s Club Young Guns 9_
+        
+        
+        Top International
+          Creative 30 & Under
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best Personal Work Series:
+        
+        
+        _Christmas
+          In America: Happy Birthday, Jesus_
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        _AP 27: American Photography Annual 27_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _Christmas In America: Happy Birthday, Jesus_
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        _AP 27: American Photography Annual 27_
+        
+        
+        Best Editorial
+          Series:
+        
+        
+        _Sex Church_
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        Center's Review Santa Fe 100
+        
+        
+        _The Class of 99 Turns 30_
+      icon: ''
+      url: ''
+    - content: |-
+        **2011**
+        
+        
+        _The 10 Most Exciting Photographers This Year_
+        
+        
+        Phoenix
+          Art Museum
+        
+        
+        CCP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson
+      icon: ''
+      url: ''
+    - content: |-
+        **2010**
+        
+        
+        _AP 26: American Photography Annual 26_
+        
+        
+        Best Personal
+          Work Series:
+        
+        
+        _The Class of 99 Turns 30_
+      icon: ''
+      url: ''
+    - content: |-
+        **2008**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best Advertising Work:
+        
+        
+        Phoenix Children's Hospital for Santy
+      icon: ''
+      url: ''
+    - content: |-
+        **2008**
+        
+        
+        _PDN Photography Annual_
+        
+        
+        Best Personal Work Series:
+        
+        
+        _Spaceman & Baby_
+      icon: ''
+      url: ''
   - _bookshop_name: about/media-row
     row_alignment: center
   - _bookshop_name: about/media-text

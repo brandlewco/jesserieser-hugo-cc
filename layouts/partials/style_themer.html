@@ -1,6 +1,6 @@
 <!-- {{ with .Site.Home }}
-        body.page-{{lower .Title | urlize}} .hue-header.page .shift{
-            color: {{.Params.feature_color}} !important;
+        body.page-{{lower .Title | urlize}} .hue-header.page .shift svg{
+            fill: {{.Params.feature_color}} !important;
         };
 {{end}} -->
 /* about */
@@ -11,6 +11,10 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
 
     body.page-{{lower .Title | urlize}} .hue-header.page .shift{
         color: {{.Params.theme_color}} !important;
+    }
+
+    body.page-{{lower .Title | urlize}} .hue-header.page .shift svg{
+        fill: {{.Params.theme_color}} !important;
     }
     html.to-about body {
         background-color: {{.Params.theme_color}};
@@ -26,10 +30,11 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
     body.page-{{lower .Title | urlize}} .hue-header.page .shift{
         color: {{.Params.theme_color}} !important;
     }
+
+    body.page-{{lower .Title | urlize}} .hue-header.page .shift svg {
+        fill: {{.Params.theme_color}} !important;
+    }
     
-    <!-- html.to-collection-{{lower .Title | urlize}} body {
-        background-color: {{.Params.theme_color}};
-    } -->
     {{$URL := .RelPermalink | safeCSS | replaceRE "/" "-"}}
     html.to{{substr $URL 0 -1 }} body {
         background-color: {{.Params.theme_color}};
