@@ -3,14 +3,13 @@
     {{ partial "about_header" .}}
     </section>
     <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
-        <div class="px-4 xl:px-16">
-            <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-                <div class="px-0">
-                    {{ partial "about_bio" .}}
+        <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
+            <div class="px-4 xl:px-16">
+                {{ partial "about_bio" .}}
 
-                    {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
-                    {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
-                  </div>
+                {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
+                {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
+            </div>
             <div class="h-8 sm:h-24 w-full"></div>
             <div class="flex flex-row justify-center w-full">
                 <figure class="bg-center w-full sm:w-40/100 relative">
@@ -23,8 +22,7 @@
                     <h6 class="w-full absolute bottom-0 right-0 mb-4 ml-0 text-black font-normal text-xs sm:text-base tracking-widest text-right leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">{{.Params.about_bio_doodle_credit}}</h6>
                 </figure>
             </div>
-            </section>
-        </div>
+        </section>
         <footer class="px-4 xl:px-16 py-10 flex flex-wrap" style="background-color: {{.Params.theme_color}};">
             {{ range .Params.footer_links }}
                 <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-white text-base md:text-lg" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               

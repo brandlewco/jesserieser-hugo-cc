@@ -7,7 +7,6 @@ spec:
   preview:
     text:
       - key: title
-      - No Caption
     subtext:
       - key: width
   tags: ["about"]
@@ -17,11 +16,11 @@ blueprint:
   title: "List Title" 
   image: /images/hero/hero-image-2.png
   meta: "meta"
-  text_size: base
+  width: '30'
   color: "#ffffff"
   modal_color: "#000000"
   text_color: "#ffffff"
-  width: '30'
+  text_size: base
   line_height: normal
   text_alignment: left
   text_tracking: normal
