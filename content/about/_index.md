@@ -526,15 +526,15 @@ about_blocks:
           _Popular Mechanics_ “Can Science Cure Death? It Sure Looks Like It.”
         icon: ''
         url: ''
-      - content: |-
+      - content: >-
           **2022**
 
 
           SPD Merit Winner
 
 
-          _Baron's_ "Vegas Presses It's Luck
-          in the Postpandemic Era Cover Story" for 
+          *Barron's* "Vegas Presses It's Luck in the Postpandemic Era Cover
+          Story" for
         icon: ''
         url: ''
       - content: |-
