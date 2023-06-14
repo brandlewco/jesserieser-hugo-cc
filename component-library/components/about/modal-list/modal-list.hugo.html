@@ -1,10 +1,12 @@
+{{ $textColor :=  .text_color }}
+
 <article class="block-hover sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <button type="button" id="{{.title | lower | urlize}}" class="popup-trigger flex flex-col relative w-full" data-popup-trigger="{{.title | lower}}">
   <figure class="figure relative" style="background: {{with .color}}{{. | safeHTMLAttr}}{{else}}{{.Page.Params.theme_color}}{{end}};" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" data-sal="image">
         <img class="lazyload" src="{{ .image }}?height=1080" data-srcset="{{ .image }}?height=1080" alt="{{ .caption | htmlUnescape }}"/>
   {{ if .title }}
     <figcaption class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}" style="{{with .title_margin_y}}top:{{. | safeHTMLAttr}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{. | safeHTMLAttr }}%;{{end}} {{with .title_margin_right}}margin-right:{{. | safeHTMLAttr}}%;{{end}}" data-rellax-speed="4" data-rellax-xs-speed="1">
-      <h2 class="text-4xl {{with .text_size }}sm:text-{{.}}{{else}}sm:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" style="{{with .text_color }}color:{{. | safeHTMLAttr}}{{end}}">
+      <h2 class="text-4xl {{with .text_size }}sm:text-{{.}}{{else}}sm:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" {{with $textColor }}style="color:{{.}}"{{end}}>
         {{ .title | markdownify}}
       </h2>
     </figcaption>
