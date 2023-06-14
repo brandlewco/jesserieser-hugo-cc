@@ -83,7 +83,7 @@ content: >-
   judges:<br>Samir Abady, Photo Editor, The Wall Street Journal<br>Dudley M.
   Brooks, Photo Editor, The Washington Post Magazine<br>Shahrzad Elghanayan,
   Senior Photo Editor, NBC News<br>Gail Fletcher, Photo Editor, The
-  Guardian<br>Jeanne Graves, Director of Photography, \_Fast Company<br>Whitney
+  Guardian<br>Jeanne Graves, Director of Photography, Fast Company<br>Whitney
   Matewe, Photo Editor, TIME Magazine<br>Michele Romero, Creative Photography
   Director, PhotoRehab<br>Elijah S Walker, Visual Journalist and Photography
   Editor, The New York Times<br>Amy Wolff, Photo Director, Hearst Enthusiast
