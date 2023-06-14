@@ -464,19 +464,19 @@ about_blocks:
     title_margin_left: '-25'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
-    color: '#FFDA8A'
+    color: '#ffda8a'
     align_y: start
     title_margin_right: '0'
     meta: 1984. © Rob Rieser
     title_margin_y: '35'
-    text_color: '#79B3FF'
+    text_color: '#79b3ff'
     text_size: 8xl
     line_height:
     text_alignment:
     text_tracking:
     font_weight:
-    meta_align: right
-    modal_color: '#FAD267'
+    meta_align: center
+    modal_color: '#fad267'
     modal_block:
       - content: |-
           **2021**  
