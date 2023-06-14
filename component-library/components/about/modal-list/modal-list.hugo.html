@@ -6,7 +6,7 @@
         <img class="lazyload" src="{{ .image }}?height=1080" data-srcset="{{ .image }}?height=1080" alt="{{ .caption | htmlUnescape }}"/>
   {{ if .title }}
     <figcaption class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}" style="{{with .title_margin_y}}top:{{. | safeHTMLAttr}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{. | safeHTMLAttr }}%;{{end}} {{with .title_margin_right}}margin-right:{{. | safeHTMLAttr}}%;{{end}}" data-rellax-speed="4" data-rellax-xs-speed="1">
-      <h2 class="text-4xl {{with .text_size }}sm:text-{{.}}{{else}}sm:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" {{with $textColor }}style="color:{{.}}"{{end}}>
+      <h2 class="text-4xl {{with .text_size }}sm:text-{{.}}{{else}}sm:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" style="{{with .text_color }}color:{{ printf . | safeHTMLAttr }};{{end}}">
         {{ .title | markdownify}}
       </h2>
     </figcaption>
