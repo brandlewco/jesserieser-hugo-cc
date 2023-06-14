@@ -9,7 +9,7 @@ feature_description: >-
   art practice, please head over to [**_Jesse Rieser
   Projects_**](https://jesserieserprojects.com/).
 seo:
-  meta_title: Selected Works of Phoenix, Arizona Photographer Jesse Rieser
+  meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
   meta_description: >-
     Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
     Director specializing in portraiture, reportage, sport and conceptual
