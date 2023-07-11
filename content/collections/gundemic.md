@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Gunsmoke, Mythology, and the American Gundemic
 title: Gunsmoke, Mythology, and the American Gundemic
 collection_meta: 2021 - 2022
 collection_meta_2: ''
