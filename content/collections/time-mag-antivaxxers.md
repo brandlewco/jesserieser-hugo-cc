@@ -2,16 +2,14 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: The Vaccine Battlegrounds for Time Magazine
 title: Time Magazine
 collection_meta: The Vaccine Battlegrounds
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   On May 18th marches and rallies were held across the country in response to
   state and federal lawmakers moving to make immunization mandatory by law in
   the wake of the recent measles outbreak.
-collection_content: >-
-  For this project I visited the Arizona “March for Medical Freedoms.” Medical freedom and medical choice is how the anti-vaxxers are referring to themselves to better frame public opinion and perception. The event was lead by state and federal lawmakers, Robert F Kennedy JR as the key note speaker, and local mothers with anecdotal stories of child tragedies of being vaccine injured. One woman pulled me aside and pleaded that I cover the real story, stories of children being kidnapped and held hostage jointly by law enforcement and medical officials.\n\nOn May 18th marches and rallies were held across the country in response to state and federal lawmakers moving to make immunization mandatory by law in the wake of the recent measles outbreak.\n\nArticle by Jeffrey Kluger and assigned by Katherine Pomerantz.
 collection_description_alignment: center
 slug: time-magazine-ii
 collection_blocks:
