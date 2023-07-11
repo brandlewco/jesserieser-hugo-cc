@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Auctioning Off A Dead Mall for The New York Times
 title: The New York Times
 collection_meta: Auctioning Off A Dead Mall
 collection_meta_2: ''
