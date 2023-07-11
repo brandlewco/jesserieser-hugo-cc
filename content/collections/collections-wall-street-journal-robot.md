@@ -1,48 +1,11 @@
 ---
-collection_archive: false
-collection_awards: []
-collection_category:
-  - Editorial
-  - Science
-  - Tech
-  - Reportage
-  - Color
-  - Climate Change
-  - Workplace
-collection_content: >-
-  On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
-  that could help feed impoverished countries and fuel American cars.⁠ The
-  70-foot-tall colossus, called a “Field Scanalyzer,” is the world’s biggest
-  agricultural robot, the project’s researchers say. Resembling an oversize
-  scaffold with a box perched in its middle, it lumbers daily over 2 acres of
-  crops including sorghum, lettuce and wheat, its cluster of electronic eyes
-  assessing their temperature, shape and hue, the angle of each leaf.⁠
-
-
-  The Scanalyzer beams this data—up to 10 terabytes a day, roughly equivalent to
-  about 2.6 million copies of Tolstoy’s “War and Peace”—to computers in Illinois
-  and Missouri. Analyzing the range and depth of data generated is possible only
-  with machine-learning algorithms, according to data scientists at George
-  Washington University and St. Louis University, where researchers are teaching
-  the computers to identify connections between specific genes and plant traits
-  the Scanalyzer observes.⁠
-
-
-  Deep learning, a form of AI that uses conclusions from data to further refine
-  a system, can also help pinpoint how some varieties of a plant may subtly
-  differ from one another in ways that plant scientists may not anticipate,
-  researchers say.⁠
-
-
-  The effort—part of a five-year, roughly $26 million project funded by the U.S.
-  Department of Energy and the Bill and Melinda Gates Foundation—is aimed at
-  helping plant breeders identify characteristics and genetic markers pointing
-  to the most efficient and resilient crop varieties. Researchers are seeking to
-  develop crops that can produce biofuels, reducing reliance on fossil fuels. It
-  could also help identify food crops that can thrive in drier, hotter
-  conditions as climates change.
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-45.jpg
+_schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: The Field Scanalyzer for The Wall Street Journal
+title: The Wall Street Journal
+collection_meta: The Field Scanalyzer
+collection_meta_2: '2023'
 collection_description: >-
   On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
   that could help feed impoverished countries and fuel American cars.⁠ The
@@ -51,47 +14,29 @@ collection_description: >-
   scaffold with a box perched in its middle, it lumbers daily over 2 acres of
   crops including sorghum, lettuce and wheat, its cluster of electronic eyes
   assessing their temperature, shape and hue, the angle of each leaf.⁠
-collection_exhibition: []
-collection_filter: Commissioned + Stock
-collection_hidden: false
-collection_meta: The Field Scanalyzer
-collection_press: []
-collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg
-cover_image: 
-date: 
-hide_footer: false 
-logo: 
-navigation_theme: white
-px_extra: true
+collection_description_alignment: center
 slug: wall-street-journal-robot
-theme_color: "#B8EEBC"
-theme_color_all_works: "#6D94FF"
-title: The Wall Street Journal
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FCD79E"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FCD79E'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#BBD2E5"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
+  - _bookshop_name: collections/media-element
+    color: '#BBD2E5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '55'
-  - _bookshop_name: collections/media-element 
-    color: "#D4E3C8"
+  - _bookshop_name: collections/media-element
+    color: '#D4E3C8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-3.jpg
     margin_left: '0'
     margin_right: '0'
@@ -99,92 +44,121 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAEBBE"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAEBBE'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
     margin_left: '25'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#DBE0EB"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
+  - _bookshop_name: collections/media-element
+    color: '#DBE0EB'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '40'
-  - _bookshop_name: collections/media-element 
-    color: "#EEE6D9"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
+  - _bookshop_name: collections/media-element
+    color: '#EEE6D9'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
     margin_left: '0'
     margin_right: '30'
     margin_y: '600'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F4D4BB"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F4D4BB'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-7.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F55656"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F55656'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#C5C1DA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
+  - _bookshop_name: collections/media-element
+    color: '#C5C1DA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
     margin_left: '10'
     margin_y: '200'
     width: '40'
-  - _bookshop_name: collections/media-element 
-    color: "#F1EFB3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F1EFB3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
     margin_left: '0'
     margin_right: '25'
     margin_y: '700'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F0DDCA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F0DDCA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
     margin_left: '20'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#EDE8E4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
+  - _bookshop_name: collections/media-element
+    color: '#EDE8E4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '25'
-  - _bookshop_name: collections/media-element 
-    color: "#000000"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg
+  - _bookshop_name: collections/media-element
+    color: '#000000'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-13.jpg
     margin_left: '0'
     margin_right: '25'
     margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#1C1733"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
+  - _bookshop_name: collections/media-element
+    color: '#1C1733'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
     margin_left: '15'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row-end
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-45.jpg
+collection_filter: Commissioned + Stock
+collection_category:
+  - Editorial
+  - Science
+  - Tech
+  - Reportage
+  - Color
+  - Climate Change
+  - Workplace
+date: 2019-05-01T07:00:00Z
+theme_color: '#b8eebc'
+theme_color_all_works: '#6d94ff'
+logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
+collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg
+collection_awards: []
+collection_press: []
+collection_archive: false
+collection_hidden: false
+hide_footer: false
+navigation_theme: white
+px_extra: true
+row_alignment:
 ---
