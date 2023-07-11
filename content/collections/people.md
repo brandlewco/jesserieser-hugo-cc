@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Uvalde Mass Shooting One Year Later for People Magazine
 title: People
 collection_meta: Missing Layla
 collection_meta_2: Uvalde Mass Shooting One Year Later
