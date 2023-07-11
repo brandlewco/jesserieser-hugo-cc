@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: >-
+    West Coast photographer Jesse Rieser's long term and surreal photographic
+    project on America
+  meta_title: 'A Vanishing Folklore '
 title: A Vanishing Folklore
 collection_meta: 2012 - 2023
 collection_meta_2: ''
