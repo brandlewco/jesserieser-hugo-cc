@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: 'Adidas Golf: Adicross'
 title: 'Adidas Golf: Adicross'
 collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Adicross is a marriage of Adidas street wear and golf attire and in their
   words “Always On Because The Game Never Stops.” Due to the narrative quality
@@ -296,7 +296,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-4.jpg
 collection_awards: []
-collection_press:
+collection_press: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
