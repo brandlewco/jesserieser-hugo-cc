@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: ''
-  meta_title: ''
+  meta_title: 'Amtrak The National: Tucson to El Paso On the Texas Eagle'
 title: 'Amtrak the National '
 collection_meta: Tucson to El Paso On the Texas Eagle
 collection_meta_2: ''
