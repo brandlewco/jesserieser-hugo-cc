@@ -5,7 +5,7 @@ seo:
     Jesse Rieser was commissioned by the NY Times as part of a nationwide
     project documenting America reopening post Covid. The photographs were made
     in Phoenix, AZ
-  meta_title: Placeholder Title
+  meta_title: America is Reopening for The New York Times
 title: The New York Times
 collection_meta: America is Reopening
 collection_meta_2: Here is What it Looks like
