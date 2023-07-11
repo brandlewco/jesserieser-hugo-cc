@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: >-
+    West coast photographer Jesse Rieser photographs Golf Legend Jack Nicklaus
+    for Golf Digest. 
+  meta_title: Golf Digest Jack Vs. Nicklaus
 title: Golf Digest
 collection_meta: Jack Vs. Nicklaus
 collection_meta_2: Jack Nicklaus’ Legal Battle Against His Own Company
