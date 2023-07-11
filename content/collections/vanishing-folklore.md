@@ -9,10 +9,13 @@ collection_meta_2: ''
 collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
-  is alarmed by it. The photographs are as much about the American roadside as
-  they are the infinitely flat and delusional digital landscape, a place where
-  reverence is arbitrarily distributed between the meaningful and meaningless
-  components of our world, both existing and extinct.
+  is alarmed by it.
+
+
+  The photographs are as much about the American roadside as they are the
+  infinitely flat and delusional digital landscape, a place where reverence is
+  arbitrarily distributed between the meaningful and meaningless components of
+  our world, both existing and extinct.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:
