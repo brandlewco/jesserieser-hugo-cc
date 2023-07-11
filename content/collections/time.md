@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: "Grand Canyon 100th Anniversary\_ for Time Magazine"
 title: Time Magazine
 collection_meta: "Grand Canyon 100th Anniversary\_"
 collection_meta_2: '2023'
