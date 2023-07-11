@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: The Star Geezers
 title: Condor Airlines
 collection_meta: The Star Geezers
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   This is a story about “Sky Village,” an astronomy centric retirement community
   and their founders Jack and Alice Newton, also known as the “Star Geezers.”
