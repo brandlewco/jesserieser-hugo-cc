@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Devin Booker for ESPN
 title: 'ESPN: Becoming Legendary'
 collection_meta: Devin Booker Cover Story
 collection_meta_2: ''
