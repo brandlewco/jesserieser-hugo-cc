@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: The Evolution of Marcus Stroman for Wine Enthusiast
 title: Wine Enthusiast
 collection_meta: The Evolution of Marcus Stroman
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   The Chicago Cubs pitcher on defining himself beyond baseball.
 
