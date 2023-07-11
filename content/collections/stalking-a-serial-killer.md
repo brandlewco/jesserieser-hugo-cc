@@ -1,47 +1,13 @@
 ---
-collection_archive: false
-collection_category:
-  - Award Winning
-  - Exhibited Works 
-  - Editorial
-  - Reportage
-  - Conceptual
-  - Still Life + Details
-  - Color
-  - Environments
-collection_content: >-
-  _Stalking A Serial Killer_ is narrated by quotes taken from detectives,
-  residents, family members, witnesses, and survivors as a singular voice of a
-  Phoenix neighborhood terrorized by a serial killer. The “Serial Street
-  Shooter” has gunned down seven and wounded two. The killings are at random
-  from his car and the victims are often in cars, near cars, or exiting their
-  car.
-
-
-  Originally published during the week of the US election for the French
-  magazine _Society_ for their ‘America’ issue, this photo essay depicts the
-  black and Hispanic neighborhood of Maryvale roamed by the killer, while
-  serving as a metaphor for issues plaguing American policy and politics; a lack
-  of immigration reform, racial inequity, a shrinking middle class, community
-  policing dysfunction, a lack of mental health care and quotidian gun violence.
-
-
-  Original interview and reporting by Emmanuelle Andreani-Facchin and typeset by
-  Juan Carlos Pagan.
-
-
-  “_The innovative layout of this story allows for both the strengths and the
-  weaknesses of visual storytelling to be seen. The subject matter itself is
-  shadowy, ephemeral, fitting the form. The images are beautiful, and start to
-  create their own context and narrative when only surrounded by quotes — and
-  nothing else. It’s a striking way to report on a story — one that tantalizes,
-  leading to more questions than answers, and leaves you wanting more._”  
-
-  – Buzzfeed –
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-6.jpg
+_schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Stalking A Serial Killer for Society Magazine
+title: Society Magazine
+collection_meta: Stalking A Serial Killer
+collection_meta_2: '2023'
 collection_description: >-
-  Published during the 2016 election for French magazine _Society’s_ “America”
+  Published during the 2016 election for French magazine *Society’s* “America”
   issue. The photo essay depicts the Latino neighborhood plagued by “The Serial
   Street Shooter” while serving as a metaphor for issues in American policy and
   politics: a lack of immigration reform, racial inequity, a shrinking middle
@@ -49,329 +15,325 @@ collection_description: >-
   quotidian gun violence.
 
 
-  Winner in the _2017 American Photography Annual: AP 33,_ featured by
-  _Buzzfeed, Fast Company, Feature Shoot, The Daily Mail,_ and exhibited at the
+  Winner in the *2017 American Photography Annual: AP 33,* featured by
+  *Buzzfeed, Fast Company, Feature Shoot, The Daily Mail,* and exhibited at the
   Houston Center of Photography.
-collection_filter: Commissioned + Stock
-collection_hidden: false
-collection_meta: Stalking A Serial Killer
-collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-1-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-4.jpg
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-15.jpg
-date:  
-logo: 
-navigation_theme: white
-px_extra: true
+collection_description_alignment: center
 slug: stalking-serial-killer
-theme_color: "#9CB8D7"
-theme_color_all_works: "#9BC6FF"
-title: Society Magazine
-collection_awards:
-  - content: |-
-      **2017**  
-      _AP 33: American Photography Annual 33_  
-      Best Editorial Series
-    template: popup-text-element
-collection_exhibition:
-  - content: |-
-      **2018**  
-      _HCP Print Auction, Houston Center for Photography_  
-      Houston, TX (Group Show)
-    template: popup-text-element
-  - content: |-
-      **2017**  
-      _Sunday Afternoon Artist Show_  
-      New York, NY (Group Show)
-    template: popup-text-element
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#FCF4D6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-3.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FCF4D6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-3.jpg
     margin_right: '5'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F8E9DF"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-4.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F8E9DF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-4.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '45'
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-5.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-5.jpg
     margin_left: '0'
     margin_right: '10'
     margin_y: '700'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#D6E6FB"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
+  - _bookshop_name: collections/media-element
+    color: '#D6E6FB'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#DED0DA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-8.jpg
+  - _bookshop_name: collections/media-element
+    color: '#DED0DA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-8.jpg
     margin_left: '5'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-7.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-7.jpg
     margin_left: '0'
     margin_right: '20'
     margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-9.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-9.jpg
     margin_left: '15'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#F7EAE1"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-10.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F7EAE1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-10.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-11.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-11.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '300'
     width: '25'
-  - _bookshop_name: collections/media-element 
-    color: "#C8DBE1"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-12.jpg
+  - _bookshop_name: collections/media-element
+    color: '#C8DBE1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-12.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-13.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-13.jpg
     margin_left: '10'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#ECE0D5"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-14.jpg
+  - _bookshop_name: collections/media-element
+    color: '#ECE0D5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-14.jpg
     margin_left: '0'
     margin_right: '15'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F0DEC9"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-16.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F0DEC9'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-16.jpg
     margin_left: '5'
     margin_y: '100'
     width: '55'
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-15.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-15.jpg
     margin_right: '5'
     margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-17.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-17.jpg
     margin_left: '10'
     margin_y: '300'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#DAEBED"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-18.jpg
+  - _bookshop_name: collections/media-element
+    color: '#DAEBED'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-18.jpg
     margin_left: '0'
     margin_right: '10'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-19.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-19.jpg
     margin_right: '5'
     margin_y: '100'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#F9F0E6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-20.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F9F0E6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-20.jpg
     margin_left: '5'
     margin_y: '400'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-21.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-21.jpg
     margin_left: '10'
     margin_y: '100'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#51413A"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-23.jpg
+  - _bookshop_name: collections/media-element
+    color: '#51413A'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-23.jpg
     margin_right: '5'
     margin_y: '300'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-22.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-22.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#E6DACE"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-25.jpg
+  - _bookshop_name: collections/media-element
+    color: '#E6DACE'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-25.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '90'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-24.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-24.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#E9E5E4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-26.jpg
+  - _bookshop_name: collections/media-element
+    color: '#E9E5E4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-26.jpg
     margin_right: '10'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#CDDDD5"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-28.jpg
+  - _bookshop_name: collections/media-element
+    color: '#CDDDD5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-28.jpg
     margin_left: '0'
     margin_y: '100'
     width: '66'
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-27.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-27.jpg
     margin_left: '0'
     margin_y: '500'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-30.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-30.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#F2E7DB"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-29.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F2E7DB'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-29.jpg
     margin_left: '0'
     margin_right: '15'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#E2E9EA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-31.jpg
+  - _bookshop_name: collections/media-element
+    color: '#E2E9EA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-31.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '45'
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-32.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-32.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '300'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#D0EED7"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-33.jpg
+  - _bookshop_name: collections/media-element
+    color: '#D0EED7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-33.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-34.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-34.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#F9C1A3"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-35.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F9C1A3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-35.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '300'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#FAFAFA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-36.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FAFAFA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-36.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#D6E7EA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/serial-37.jpg
+  - _bookshop_name: collections/media-element
+    color: '#D6E7EA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/serial-37.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '66'
   - _bookshop_name: collections/media-row-end
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-6.jpg
+collection_filter: Commissioned + Stock
+collection_category:
+  - Award Winning
+  - Exhibited Works
+  - Editorial
+  - Reportage
+  - Conceptual
+  - Still Life + Details
+  - Color
+  - Environments
+date: 2019-05-01T07:00:00Z
+theme_color: '#9cb8d7'
+theme_color_all_works: '#9bc6ff'
+logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-15.jpg
+collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-1-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-4.jpg
+collection_awards:
+  - content: |-
+      **2017**  
+      _AP 33: American Photography Annual 33_  
+      Best Editorial Series
+    template: popup-text-element
 collection_press:
   - content: >-
       [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb)
-    slug: 
+    slug:
     template: popup-text-element
   - content: >-
       [_Fast
@@ -381,11 +343,16 @@ collection_press:
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
     template: popup-text-element
-  - content: >-
-      _PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) 
+  - content: '_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) '
     template: popup-text-element
   - content: >-
       [_The Daily Mail
       UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
     template: popup-text-element
+collection_archive: false
+collection_hidden: false
+hide_footer: true
+navigation_theme: white
+px_extra: true
+row_alignment:
 ---
