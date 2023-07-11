@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Kitt Peak National Observatory for Smithsonian Magazine
 title: Smithsonian Magazine
 collection_meta: Kitt Peak National Observatory
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Astronomer and Data Scientist Dr. Stéphanie Juneau at Kitt Peak National
   Observatory.
