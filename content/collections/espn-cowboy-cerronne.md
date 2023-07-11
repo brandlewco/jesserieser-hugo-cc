@@ -1,39 +1,11 @@
 ---
-collection_archive: false
-collection_awards: []
-collection_category:
-  - Portraits
-  - Kids
-  - Still Life + Details
-  - Sports + Athletes
-  - Studio
-  - Editorial
-  - Color
-collection_content: >-
-  “Disemboweled by an ATV, head butted by a horse: The painful stories behind
-  Donald Cerrone’s injuries."
-
-
-  Ahead of UFC 246 welterweight bout at the T Mobile Arena in Las Vegas, I
-  headed out to Edgewood, NM to visit with Donald “Cowboy” Ceronne at his BMF
-  (Bad Mother Fucker) ranch + gym.  
-    
-  As he faced off against the sport’s most popular and recognizable personality
-  in Conor McGregor, Cerrone is a fighter’s fighter, holding the sports all time
-  record of wins, bouts, and fights finished. He appeared calm, gracious, funny,
-  and at peace with this stage of his career and the “biggest fight of his
-  life.”
-
-
-  Conceptually my goal was to create a portfolio of intimate portraits paired
-  with studies of Cowboy’s injuries- tightly framed and appearing larger than
-  life as abstractions of an anatomical landscape. It was an unexpected bonus
-  that his 18 month old son “Danger” wanted to be a part of the project. His
-  involvement and embrace with his father nicely bridges the gap between the
-  landscape-like injury studies and portraits, leaving the viewer with a sense
-  of intimate masculinity.
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
+_schema: default
+seo:
+  meta_description: Donald “Cowboy” Cerrone for ESPN
+  meta_title: Placeholder Title
+title: ESPN
+collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
+collection_meta_2: '2023'
 collection_description: >-
   “Disemboweled by an ATV, head butted by a horse: The painful stories behind
   Donald Cerrone’s injuries."
@@ -44,152 +16,164 @@ collection_description: >-
   Cowboy’s 18-month-old son Danger’s embrace with his father nicely bridges the
   gap between the landscape-like injuries and portraits, leaving the viewer with
   a sense of intimate masculinity.
-collection_exhibition: []
-collection_filter: Commissioned + Stock
-collection_hidden: false
-collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
-collection_press: []
-collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-4.jpg
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-36.jpg
-date:  
-logo: 
-navigation_theme: white
-px_extra: true
+collection_description_alignment: center
 slug: espn
-theme_color: "#161518"
-theme_color_all_works: "#F76969"
-title: ESPN
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F1B784"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F1B784'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '60'
-  - _bookshop_name: collections/media-element 
-    color: "#FCDDBA"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-2.jpg
+  - _bookshop_name: collections/media-element
+    color: '#FCDDBA'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-2.jpg
     margin_left: '20'
     margin_y: '100'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#DEB08E"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
+  - _bookshop_name: collections/media-element
+    color: '#DEB08E'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
     margin_left: '0'
     margin_right: '20'
     margin_y: '500'
     width: '25'
-  - _bookshop_name: collections/media-element 
-    color: "#B69565"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-4.jpg
+  - _bookshop_name: collections/media-element
+    color: '#B69565'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-4.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '200'
     width: '50'
-  - _bookshop_name: collections/media-element 
-    color: "#B47D64"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-3.jpg
+  - _bookshop_name: collections/media-element
+    color: '#B47D64'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-3.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#9F7769"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
+  - _bookshop_name: collections/media-element
+    color: '#9F7769'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-element 
-    color: "#663C2B"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-7.jpg
+  - _bookshop_name: collections/media-element
+    color: '#663C2B'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-7.jpg
     margin_left: '0'
     margin_right: '10'
     margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#E98A74"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
+  - _bookshop_name: collections/media-element
+    color: '#E98A74'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#ECBE9C"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-9.jpg
+  - _bookshop_name: collections/media-element
+    color: '#ECBE9C'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-9.jpg
     margin_left: '5'
     margin_y: '100'
     width: '30'
-  - _bookshop_name: collections/media-element 
-    color: "#866254"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg
+  - _bookshop_name: collections/media-element
+    color: '#866254'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg
     margin_left: '0'
     margin_right: '25'
     margin_y: '500'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#42312D"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
+  - _bookshop_name: collections/media-element
+    color: '#42312D'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
     margin_left: '30'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#F1D0B6"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-12.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F1D0B6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-12.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '50'
-  - _bookshop_name: collections/media-element 
-    color: "#D1513A"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-13.jpg
+  - _bookshop_name: collections/media-element
+    color: '#D1513A'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-13.jpg
     margin_right: '15'
     margin_y: '300'
     width: '20'
-  - _bookshop_name: collections/media-element 
-    color: "#B2805B"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-15.jpg
+  - _bookshop_name: collections/media-element
+    color: '#B2805B'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-15.jpg
     margin_left: '40'
     margin_right: '5'
     margin_y: '100'
     width: '40'
-  - _bookshop_name: collections/media-element 
-    color: "#F4DFCC"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
+  - _bookshop_name: collections/media-element
+    color: '#F4DFCC'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element 
-    color: "#5A2B21"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-17.jpg
+  - _bookshop_name: collections/media-element
+    color: '#5A2B21'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-17.jpg
     margin_left: '10'
     margin_y: '300'
     width: '40'
-  - _bookshop_name: collections/media-element 
-    color: "#D8875E"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/cowboy-16.jpg
+  - _bookshop_name: collections/media-element
+    color: '#D8875E'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-16.jpg
     margin_right: '15'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row-end
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
+collection_filter: Commissioned + Stock
+collection_category:
+  - Portraits
+  - Kids
+  - Still Life + Details
+  - Sports + Athletes
+  - Studio
+  - Editorial
+  - Color
+date: 2019-05-01T07:00:00Z
+theme_color: '#161518'
+theme_color_all_works: '#f76969'
+logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-36.jpg
+collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-4.jpg
+collection_awards: []
+collection_press: []
+collection_archive: false
+collection_hidden: false
+hide_footer: true
+navigation_theme: white
+px_extra: true
+row_alignment:
 ---
