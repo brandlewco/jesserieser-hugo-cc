@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Cam Young for Golf Digest
 title: Golf Digest
 collection_meta: 'Cameron Young Cover Story '
 collection_meta_2: 'Your Longest Year Ever '
