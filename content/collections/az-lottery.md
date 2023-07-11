@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: 'Arizona Lottery: Welcome Back Willie'
 title: 'Arizona Lottery: Welcome Back Willie'
 collection_meta: OH Partners
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Arizona first got to know Willie in 1981 as a simple hand-drawn character seen
   in the company’s logo and advertising efforts. Through the years his look and
