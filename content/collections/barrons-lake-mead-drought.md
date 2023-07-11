@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: 'Barron’s: Beyond the Drought'
 title: Barron's
 collection_meta: Beyond the Drought Cover Story
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   The scarcity of fresh water is rapidly emerging as a global economic threat
   that could disrupt businesses, crimp profits, and jeopardize growth.
