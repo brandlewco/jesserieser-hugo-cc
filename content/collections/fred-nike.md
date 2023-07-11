@@ -1,13 +1,24 @@
 ---
 _schema: default
+seo:
+  meta_description: Placeholder Description
+  meta_title: Nike Running’s Fred Kerley
 title: Nike Running’s
+collection_meta: Fred Kerley
+collection_meta_2: '2023'
+collection_description: >-
+  As a new face of Nike Running, Kerley is ranked \#1 in the world in the 400.
+  With a personal best of 43.70, he is inching closer to being the first ever to
+  break the 43 second mark. Watch for him to take the gold in this year’s Tokyo
+  Olympic Games.
+collection_description_alignment: center
 slug: fred-kerley
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#A0ECEC"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
+    color: '#A0ECEC'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
@@ -15,51 +26,43 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#FBF0DD"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
+    color: '#FBF0DD'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-2.jpg
     margin_left: '10'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-element
-    color: "#D3E7AF"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
+    color: '#D3E7AF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-3.jpg
     margin_right: '5'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#FFD5DD"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
+    color: '#FFD5DD'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-4.jpg
     margin_left: '35'
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#FBECE4"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
+    color: '#FBECE4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-5.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
-    color: "#C5E4F2"
-    image:  https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
+    color: '#C5E4F2'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/fred-6.jpg
     margin_right: '5'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-29.jpg
-collection_meta: Fred Kerley
-collection_meta_2: 
-collection_description_alignment: center
-collection_description: >-
-  As a new face of Nike Running, Kerley is ranked #1 in the world in the 400.
-  With a personal best of 43.70, he is inching closer to being the first ever to
-  break the 43 second mark. Watch for him to take the gold in this year’s Tokyo
-  Olympic Games.
 collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
