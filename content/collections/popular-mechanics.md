@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Can Science Cure Death? For Popular Mechanics
 title: Popular Mechanics
 collection_meta: Can Science Cure Death? It Sure Looks Like It.
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Pictured is 72 year old James Strohle. Strohle is cofounder of People
   Unlimited, a community to inspire people to live infinite lifespans and to
