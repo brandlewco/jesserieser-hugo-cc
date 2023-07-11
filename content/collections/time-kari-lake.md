@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Portraits of Arizona Governor Candidate Kari Lake
-  meta_title: Time Kari Lake
+  meta_title: Kari Lake for Time Magazine
 title: Time Magazine
 collection_meta: How Kari Lake Went From Local Anchor
 collection_meta_2: to New Face of the Maga Right
