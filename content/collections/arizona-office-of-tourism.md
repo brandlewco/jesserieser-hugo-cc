@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_title: Arizona Office of Tourism
 title: Arizona Office of Tourism
 collection_meta: Visit A New State of Mind
 collection_meta_2: Off Madison Avenute
