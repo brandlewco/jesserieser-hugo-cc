@@ -5,7 +5,7 @@ seo:
     Jesse Rieser photographs Ryan Hall and Sara Hall in Flagstaff Arizona. Jesse
     Rieser makes portraits and documents their workouts for Runner’s World
     Magazine.
-  meta_title: Placeholder Title
+  meta_title: The Reinvention of Ryan and Sara Hall for Runner's World
 title: Runner's World
 collection_meta: The Reinvention of Ryan and Sara Hall
 collection_meta_2: ''
