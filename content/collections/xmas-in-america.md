@@ -4,7 +4,7 @@ seo:
   meta_description: Placeholder Description
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
 title: 'Christmas In America: Happy Birthday, Jesus'
-collection_meta: "2010 - \_2020"
+collection_meta: "2010 - \_2022"
 collection_meta_2: ''
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
