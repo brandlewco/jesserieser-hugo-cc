@@ -4,7 +4,7 @@ seo:
   meta_description: Placeholder Description
   meta_title: 'National Geographic: “50 Grades of Shade”'
 title: National Geographic
-collection_meta: “50 Grades of Shade”
+collection_meta: 50 Grades of Shade
 collection_meta_2: ''
 collection_description: >-
   Dr. Ariane Middel and MaRTy (median radiant temperature robot)
