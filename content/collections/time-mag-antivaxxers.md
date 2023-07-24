@@ -5,7 +5,7 @@ seo:
   meta_title: The Vaccine Battlegrounds for Time Magazine
 title: Time Magazine
 collection_meta: The Vaccine Battlegrounds
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   On May 18th marches and rallies were held across the country in response to
   state and federal lawmakers moving to make immunization mandatory by law in
