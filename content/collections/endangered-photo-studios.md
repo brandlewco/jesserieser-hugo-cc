@@ -5,7 +5,7 @@ seo:
   meta_title: Photo Studios Extinction
 title: Photo Studios Extinction
 collection_meta: Preview of a Work in Progress
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Like many of my works, I am interested in the artifacts left behind by our
   evolving relationship with technology. Will iPhones and influencers cover all
