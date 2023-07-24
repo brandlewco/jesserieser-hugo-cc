@@ -5,7 +5,7 @@ seo:
   meta_title: 'The Cactus League for ESPN '
 title: ESPN the Magazine
 collection_meta: Cactus League
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Cactus League examines the intersection of fan culture and professional
   athletes during spring workouts. Baseball’s spring training brings the fans
