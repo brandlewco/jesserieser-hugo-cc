@@ -7,7 +7,7 @@ seo:
   meta_title: David Quammen for "Outside"by Photographer Jesse Rieser
 title: Outside Magazine
 collection_meta: Golf At Last An Apologia by David Quammen
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   For the latest issue of *Outside Magazine*, I photographed travel, nature,
   conservation, and science writer David Quammen.
