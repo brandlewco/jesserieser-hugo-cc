@@ -5,7 +5,7 @@ seo:
   meta_title: 'Fisher Price: Play is a Place Featuring John Goodman for Wieden Kennedy'
 title: 'Fisher Price: Play is a Place'
 collection_meta: Featuring John Goodman for Wieden Kennedy
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   John Goodman as the classic Fisher Price farmer for Wieden Kennedy. Sometimes
   great projects are executed but never seen to completion.
