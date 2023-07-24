@@ -5,7 +5,7 @@ seo:
   meta_title: Ice T Ich Habe Einen Traum for Zeit Magazin
 title: Zeit Magazin
 collection_meta: Ice T Ich Habe Einen Traum
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Ice T featured in Zeit's reoccurring celebrity column "Ich Habe Einen Traum”
   where the subject shares their dreams, hopes, visions, and nightmares.
