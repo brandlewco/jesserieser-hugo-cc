@@ -5,7 +5,7 @@ seo:
   meta_title: Nike Running’s Fred Kerley
 title: Nike Running’s
 collection_meta: Fred Kerley
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   As a new face of Nike Running, Kerley is ranked \#1 in the world in the 400.
   With a personal best of 43.70, he is inching closer to being the first ever to
