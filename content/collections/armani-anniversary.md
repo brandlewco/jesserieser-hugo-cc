@@ -5,7 +5,7 @@ seo:
   meta_title: Deandre Hopkins for Emporio Armani’s 50th Anniversary
 title: Emporio Armani’s 50th Anniversary
 collection_meta: Featuring Deandre Hopkins
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Part of a 12 subject calendar produced by V and V Man celebrating 50 years of
   Emporio Armani.
