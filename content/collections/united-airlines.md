@@ -5,7 +5,7 @@ seo:
   meta_title: Sedona for United Airlines Rhapsody
 title: United Airlines Rhapsody
 collection_meta: Sedona
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Novelist and ***Interview Magazine’s*** Editor At Large, Christopher Bollen
   soars over Arizona’s red-rock canyons, recreating his earliest memory and
