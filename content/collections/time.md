@@ -5,7 +5,7 @@ seo:
   meta_title: "Grand Canyon 100th Anniversary\_ for Time Magazine"
 title: Time Magazine
 collection_meta: "Grand Canyon 100th Anniversary\_"
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   *“As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
   Next Century.”* A nod to Teddy Roosevelt’s legacy of conservation, these works
