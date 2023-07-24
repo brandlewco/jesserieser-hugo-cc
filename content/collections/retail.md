@@ -5,7 +5,7 @@ seo:
   meta_title: The Changing Landscape of American Retail 2015 - 2022
 title: The Changing Landscape of American Retail
 collection_meta: 2015 - 2022
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Like memories, familiar retail entities are fading away as they stand as
   modern-day ruins from the not-so-distant past. This work documents the shift
