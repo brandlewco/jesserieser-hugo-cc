@@ -5,7 +5,7 @@ seo:
   meta_title: 'Banner Health: Significance'
 title: 'Banner Health: Significance'
 collection_meta: Mullen Lowe Agency NY & Boston
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   These works celebrate Banner Health's recent hi-profile hires. The concept was
   to use a medical diagram to help tell each subject’s story and accomplishments
