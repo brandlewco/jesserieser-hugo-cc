@@ -1381,9 +1381,6 @@ about_blocks:
       - content: _JAVA Magazine_
         icon:
         url:
-      - content: ''
-        icon:
-        url:
   - _bookshop_name: about/modal-list
     width: '45'
     align_y: start
