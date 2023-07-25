@@ -1386,13 +1386,13 @@ about_blocks:
           href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/"><em>Fisheye
           I</em></a>
         icon:
-        url:
+        url: https://fisheyemagazine.fr/article/le-pere-noel-est-americain/
       - content: >-
           <a target="_blank" rel="noopener"
-          href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/"><em>Fisheye
+          href="https://fisheyemagazine.fr/article/the-star-geezers-a-la-belle-etoile/"><em>Fisheye
           II</em></a>
         icon:
-        url:
+        url: https://fisheyemagazine.fr/article/the-star-geezers-a-la-belle-etoile/
   - _bookshop_name: about/modal-list
     width: '45'
     align_y: start
