@@ -1029,17 +1029,17 @@ about_blocks:
     title_margin_right: '0'
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    color: '#DDC4E7'
+    color: '#ddc4e7'
     meta: © Nicky Hedyatzadeh
     title_margin_y: '30'
-    text_color: '#9DFD7C'
+    text_color: '#9dfd7c'
     text_size:
     line_height:
     text_alignment:
     text_tracking:
     font_weight: normal
     meta_align: left
-    modal_color: '#DDC4E7'
+    modal_color: '#ddc4e7'
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -1200,8 +1200,8 @@ about_blocks:
         icon:
         url:
       - content: >-
-          [_BOOOOOOOM 64 x 64: Best of
-          2018_](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
+          [*BOOOOOOOM 64 x 64: Best of
+          2018*](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
         icon:
         url:
       - content: >-
@@ -1217,6 +1217,10 @@ about_blocks:
           Magazine_](http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser)
         icon:
         url:
+      - content: '*C 41 Magazine*'
+        icon:
+        url: >-
+          https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/
       - content: _Society Magazine (France)_
         icon:
         url:
