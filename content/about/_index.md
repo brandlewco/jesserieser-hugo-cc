@@ -1256,6 +1256,12 @@ about_blocks:
         icon:
         url:
       - content: >-
+          <a target="_blank" rel="noopener"
+          href="https://www.faz.net/aktuell/fotografie/dekoration-in-adventszeit-skurrile-weihnachten-in-den-usa-18552263.html"><em>Frankfurter
+          Allgemeine Zeitung</em></a>
+        icon:
+        url:
+      - content: >-
           [_The Magazine Santa
           Fe_](https://themagsantafe.com/jesse-rieser-portfolio/)
         icon:
@@ -1373,6 +1379,9 @@ about_blocks:
         icon:
         url:
       - content: _JAVA Magazine_
+        icon:
+        url:
+      - content: ''
         icon:
         url:
   - _bookshop_name: about/modal-list
