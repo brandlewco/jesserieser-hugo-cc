@@ -494,7 +494,7 @@ collection_category:
   - Portraits
 date: 2022-10-17T16:25:38Z
 theme_color: '#fdcdcd'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
@@ -512,7 +512,7 @@ collection_awards: []
 collection_press: []
 collection_archive: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
