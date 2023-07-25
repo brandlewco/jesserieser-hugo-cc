@@ -11,7 +11,7 @@ collection_description: >-
   the Phoenix Suns Guard is on a quest to become legendary.* Go
   [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-booker)
   to read Michael Willbon's profile on Devin Booker.
-collection_description_alignment: left
+collection_description_alignment: center
 slug: espn-booker
 collection_blocks:
   - _bookshop_name: collections/media-row-start
