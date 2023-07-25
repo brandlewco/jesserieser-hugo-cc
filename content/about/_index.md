@@ -1180,6 +1180,13 @@ about_blocks:
         icon:
         url:
       - content: >-
+          <a target="_blank" rel="noopener"
+          href="https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/"><em>C
+          41 Magazine</em></a>
+        icon:
+        url: >-
+          https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/
+      - content: >-
           [_BOOOOOOOM
           I_](https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/)
         icon:
@@ -1217,10 +1224,6 @@ about_blocks:
           Magazine_](http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser)
         icon:
         url:
-      - content: '*C 41 Magazine*'
-        icon:
-        url: >-
-          https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/
       - content: _Society Magazine (France)_
         icon:
         url:
