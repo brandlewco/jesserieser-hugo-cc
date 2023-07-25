@@ -1381,6 +1381,18 @@ about_blocks:
       - content: _JAVA Magazine_
         icon:
         url:
+      - content: >-
+          <a target="_blank" rel="noopener"
+          href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/"><em>Fisheye
+          I</em></a>
+        icon:
+        url:
+      - content: >-
+          <a target="_blank" rel="noopener"
+          href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/"><em>Fisheye
+          II</em></a>
+        icon:
+        url:
   - _bookshop_name: about/modal-list
     width: '45'
     align_y: start
