@@ -9,6 +9,62 @@ collection_meta_2: ''
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
   Kruger are getting ready for another season of long bus rides and longer odds.
+collection_content: >-
+  While big leaguers fight with owners about labor issues, minor leaguers like
+  Jack Kruger are getting ready for another season of long bus rides and longer
+  odds.
+
+
+  “Get on the first plane to Los Angeles,” his manager said.
+
+
+  The Angels, Salt Lake’s parent club, were promoting Kruger to the majors to
+  replace a catcher with a concussion. The Angels were playing the Tampa Bay
+  Rays that evening, May 6, 2021, and he was expected to be there.
+
+
+  He watched from the bench as the game spun by quickly. Fifth inning. Sixth.
+  Seventh. Finally, in the ninth inning, Kruger got the nod. He jogged to the
+  plate, eyes focused, shin guards, chest protector and catcher’s mask on.
+
+
+  There had been no time to warm up properly. He had taken only six practice
+  throws instead of his usual 40. What if he had to make a quick throw to second
+  base? Would the ball sail into the outfield? Would it hit the pitcher. But
+  everything unfolded perfectly. The Angels got three quick outs. Final score:
+  Tampa Bay 8, Los Angeles 3. Kruger’s team lost, and he never got to bat, but
+  at least he tasted the big time.
+
+
+  Here’s the thing about professional baseball: It does not take long for harsh
+  reality to crash down.
+
+
+  The next day, as Kruger readied for his second game with the Angels, a team
+  executive pulled him aside. Kruger thought he was about to get a hearty
+  congratulations. Instead, the executive informed him that he was being
+  designated for assignment — a kind of baseball purgatory. If no other team
+  wanted him, the Angels could send him back to the minors or cut him
+  completely.
+
+
+  Kruger has always been an underdog. As a child he developed Perthes disease, a
+  hip bone disorder that forced him to use crutches for nearly two years in
+  grade school. Because the disorder slowed his growth, he was often the
+  smallest player on the field until midway through high school.
+
+
+  “Jack has what I call a ‘figure-it-out component,’” said his college coach.
+  “He’s the guy who can figure out how to get off the island. He could be on
+  Wall Street right now, he could be in business right now, he could be a lawyer
+  now. But he loves baseball too much.”
+
+
+  I see myself on the Rangers, behind the dish, helping lead the team to a win
+  in the World Series,” he said. “You have to be delusional in a way. Confident
+  where you 110 percent believe that you are the right man for the job. And if
+  other people don’t see it, then they’re wrong, and you have to show them
+  that.”
 collection_description_alignment: center
 slug: nytimes-jackkruger
 collection_blocks:

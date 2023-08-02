@@ -19,6 +19,27 @@ collection_description: >-
 
   Winner of the 2015 *PDN Photography Annual* and *AP 30*\: *American
   Photography 2015.*
+collection_content: >-
+  Recently the United States experienced its worst drought in more than 50
+  years. Roughly half the nation, most of the high plains, Midwest and South
+  were in extreme or exceptional drought, the two worst categories. These
+  photographs bear witness to how that drought devastated the Arkansas River
+  Basin.
+
+
+  “This is a study of how climate change is altering the landscape, the backdrop
+  to my childhood, my beloved Ozark Mountains,” Jesse said.
+
+
+  The drought caused leaves to turn color and drop in mid-July, shriveled corn
+  never to be harvested, and left cattle unable to find food, shade or relief
+  from hot, dusty winds.
+
+
+  This collection of seven images is poignant, the images simple and stark in
+  their quiet brutality. The photos are a prescient expression of the fear and
+  anger 400,000 people gave voice to in September 2014 during the People’s
+  Climate March in New York City, days before the United Nations climate summit.
 collection_description_alignment: center
 slug: when-fall-came-early
 collection_blocks:
@@ -110,19 +131,19 @@ collection_awards:
       **2015**  
       **_PDN Photo Annual_**  
       Best Editorial Series: _When Fall Came Early_ published by MSNBC
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2015**  
       **_AP 31: American Photography Annual 30_**  
       Best Personal Work Series
-    template: popup-text-element
+    template: array-placeholder
 collection_press:
   - content: >-
       [**_MSNBC. Feature and
       Interview._**](http://www.msnbc.com/msnbc/when-fall-came-early)
-    template: popup-text-element
+    template: array-placeholder
   - content: '**_AARP Earth Day Feature_**'
-    template: popup-text-element
+    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: true

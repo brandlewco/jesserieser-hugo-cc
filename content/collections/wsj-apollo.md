@@ -13,6 +13,23 @@ collection_description: >-
   Street Journal* to photograph a group of amateur tech anthropologists as they
   began a two week at-home refurbishing project to get Loocke’s Apollo Guidance
   Computer (ACG) up and running.
+collection_content: >-
+  Ever wonder about the computers which guided the Apollo moon landing 50 years
+  ago today? One was unknowingly purchased in a Nasa garage sale by Texas
+  resident Jimmie Loocke (purple polo.) I headed to Silicon Valley for The Wall
+  Street Journal to photograph a group of amateur tech anthropologists as they
+  began a two week at-home refurbishing project to get Loocke’s Apollo Guidance
+  Computer (ACG) up and running.
+
+
+  These moonshot machines were the world’s first general-purpose, portable,
+  digital computers, the first to fly and the first on which human lives
+  directly depended. If all went well, the group would run the computer programs
+  that, a half-century ago, put astronauts on the moon.⁠
+
+
+  Barely two dozen Apollo onboard computers remain in museums or private hands.
+  According to computer historians, no one has turned one on in generations.
 collection_description_alignment: center
 slug: wall-street-journal
 collection_blocks:

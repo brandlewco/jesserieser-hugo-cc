@@ -14,6 +14,41 @@ collection_description: >-
   “Suddenly I have this thought, that all of our lives are in the hands of the
   pilots flying the plane, with that much power and responsibility, how
   vulnerable does that make the pilots?”
+collection_content: >-
+  # T.J. Newman drafted her Novel "Falling" on Cocktail Napkins. It Took Off.
+
+
+  “Suddenly I have this thought, that all of our lives are in the hands of the
+  pilots flying the plane, with that much power and responsibility, how
+  vulnerable does that make the pilots?”
+
+
+  Newman author of the hit suspense novel Falling was a veteran flight
+  attendant. While on a Virgin America red-eye from Los Angeles to New York,
+  looking out at a cabin filled with dozing strangers. You can imagine the view:
+  slack mouths and lolling heads, fleece blankets draped every which way, a
+  handful of insomniacs bathed in pools of light.
+
+
+  “Suddenly I have this thought, that all of our lives are in the hands of the
+  pilots flying the plane, with that much power and responsibility, how
+  vulnerable does that make the pilots?”
+
+
+  That story — of a hijacking and an abduction happening simultaneously, with a
+  compromised pilot as the common denominator and a quick-thinking flight
+  attendant taking charge — is the crux of “Falling,”
+
+
+  Newman wrote the book during downtime on long flights, using hotel pens to jot
+  scenes on cocktail napkins Newman wrote the book during downtime on long
+  flights, using hotel pens to jot scenes on cocktail napkins.
+
+
+  “You become really good at reading people: Has this person had too much to
+  drink? Is this person showing a proclivity for noncompliance?” she said. “We
+  are in a metal tube traveling hundreds of miles an hour, miles up in the sky.
+  We’re always aware of the margin of error.”
 collection_description_alignment: center
 slug: nytimes-tjnewman
 collection_blocks:

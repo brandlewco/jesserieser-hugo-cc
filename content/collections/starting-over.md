@@ -11,6 +11,35 @@ collection_description: >-
   we keep. In 2009, my parents Rob and Stephanie Rieser left Springfield,
   Missouri for suburban Phoenix, forced to find work in a new city when the
   economy in our hometown faltered.
+collection_content: >-
+  This is a story about transition. About the things we lose, and the memories
+  we keep.
+
+
+  In 2009, my parents, Rob and Stephanie Rieser, left Springfield, Missouri, for
+  suburban Phoenix, forced to find work in a new city when the economy in our
+  hometown faltered.
+
+
+  The photographs in this new series document their last days in the home in
+  which, for 23 years, they raised three sons, hosted countless family holidays,
+  planted gardens, decorated rooms, and built a life. I capture my Mom and Dad
+  packing to leave Missouri, striving to personalize their new home in Arizona,
+  and marking a family milestone under a new roof. Watching them fix up their
+  new house reminds me that they are a team, one with remarkable energy and
+  affection after 35 years of marriage. They are my relationship role models.
+
+
+  I loved our Springfield house not for its bricks and gardens, doors and
+  stairs, but for the home my parents made it. I saw it as a refuge, a familiar
+  constant for my brothers and myself. When my parents left that home to start
+  over in Arizona, I felt the final chapter in my childhood had come to an end.
+
+
+  While the photos in this series are intimate, they are universal in their
+  illustration of vulnerability and apprehension, optimism and love. They
+  represent the fragility of housing and employment, and the strength of family
+  and commitment.
 collection_description_alignment: center
 slug: starting-over
 collection_blocks:
@@ -200,40 +229,40 @@ collection_awards:
       **2012**  
       _Photolucida's Critical Mass_  
       Finalist: Top International Project
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2011**  
       _Filter Photo Festival Official Selection_
-    template: popup-text-element
+    template: array-placeholder
 collection_press:
   - content: >-
       [**_Landscape
       Stories_**](http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [**_OITZARISME: Romanian Online Magazine on
       Photography_**](http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/)
-    template: popup-text-element
+    template: array-placeholder
   - content: _Nacione_
-    template: popup-text-element
+    template: array-placeholder
 collection_exhibition:
   - content: |-
       **2012**  
       _Guate Photo Festival: \[DOT\]COM_  
       La Fototeca Gallery. Guatemala City (Group Show)
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2011**  
       _Filter Photo Jurried Exhibition_  
       Black Cloud Gallery. Chicago, IL (Group Show)
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2011**  
       _Art Director’s Club Young Guns 9 Exhibition_
 
       Art Director’s Club Gallery.   
       New York, NY. (Group Show)
-    template: popup-text-element
+    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: true

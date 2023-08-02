@@ -106,6 +106,25 @@ collection_description_alignment: center
 collection_description: >-
   Republican women in America’s suburbs helped make Joe Biden president, Elaine
   Godfrey reports. Are they Democrats now?⁠
+collection_content: >-
+  Republican women in America’s suburbs helped make Joe Biden president, Elaine
+  Godfrey reports. Are they Democrats now?  
+
+  In Arizona, a key battleground state for the presidency, these Republican
+  women—all white, all from the greater Phoenix area—had been repelled by Donald
+  Trump in 2016. But none of them voted for Hillary Clinton. Over the past four
+  years, as they watched their party fall to Trumpism, their disgust sent them
+  all in the same direction: the Democratic Party, Godfrey reports.  
+
+  “If you pointed to any of us and asked if we’re Republican … It just doesn’t
+  fit anymore,” Jane Andersen, a disillusioned Maricopa County Republican who
+  voted for Biden, told Godfrey.   
+
+  Biden is currently leading Trump in both Maricopa County and Arizona overall.
+  Fox News and the AP called the state for Biden, though the major news networks
+  have yet to make a call. But for Andersen, Fox’s decision to call her state
+  for Biden was like “walking toward a new nation, I’m walking through the
+  wilderness, but I feel okay with that.” ⁠
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial

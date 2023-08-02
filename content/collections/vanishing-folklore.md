@@ -18,6 +18,29 @@ collection_description: >-
   infinitely flat and delusional digital landscape, a place where reverence is
   arbitrarily distributed between the meaningful and meaningless components of
   our world, both existing and extinct.
+collection_content: >-
+  This long-term works in progress are the transmissions of a citizen who seems
+  comfortable sitting with the knowledge that he is as excited by his home as he
+  is alarmed by it. The photographs are as much about the American roadside as
+  they are the infinitely flat and delusional digital landscape, a place where
+  reverence is arbitrarily distributed between the meaningful and meaningless
+  components of our world, both existing and extinct.
+
+
+  If [**_Christmas in
+  America_**](https://jesserieser.com/projects/christmas-in-america) is a
+  thematic and a visual exercise in American Maximalism, these images are
+  deceptively nuanced photographs of—and for—an America that has done everything
+  it can to abolish nuance, creating bleached-out stand-ins for the place
+  itself. Here I am using light as a tool and metaphor for the brazenness of
+  current American politics— the lies have gotten bigger, more accepted, and
+  seemingly without consequence. Illuminated for all to see.
+
+
+  It’s hard to ignore the current collective fear of losing one’s version of
+  America—their way of life, the fear that it too is fleeting. It’s as if their
+  concept of America is un-shareable. You will find images of implied loss, or
+  as if something is missing or been plucked out of the frame. Erased.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:

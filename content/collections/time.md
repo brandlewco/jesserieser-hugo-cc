@@ -16,6 +16,20 @@ collection_description: >-
   Showcased at the *Grand Canyon National Park 100* exhibition at Etherton
   Gallery, this work served as a contemporary counterpoint to the historical
   works of Ansel Adams, Lee Friedlander, William Bell, and Barry Goldwater.
+collection_content: >-
+  “_As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
+  Next Century_.” These new works pay homage to American Romanticism and
+  celebrate the west as I photograph head ranger Mathew Vandzura at Grandeur
+  Point on the South Rim as a nod to Teddy Roosevelt’s legacy of conservation.
+
+
+  Vandzura talks at length about modernizing an ancient natural wonder, the park
+  system’s responsibility to the public, the recent government shutdown, and
+  exploring every possible option before limiting visitation to the 6.4 million
+  annual park-goers.
+
+
+  Interview by Lily Rothman, assigned by Kim Bubello.
 collection_description_alignment: center
 slug: time-magazine-grand-canyon-100th-anniversary
 collection_blocks:
@@ -198,7 +212,7 @@ collection_exhibition:
       _Grand Canyon National Park 100_  
       Etherton Gallery  
       Tucson, AZ (Group Show)
-    template: popup-text-element
+    template: array-placeholder
 collection_awards: []
 collection_press: []
 collection_archive: false

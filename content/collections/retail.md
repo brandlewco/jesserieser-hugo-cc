@@ -19,6 +19,68 @@ collection_description: >-
   *Photolucida* *Critical Mass* top 50 international fine art photographic
   project. Featured on *NPR, The Washington Post, Architectural Digest, Wired,
   Fast Company,* and *Business Insider.*
+collection_content: >-
+  Beginning in 2015, _The Changing Landscape of American Retail_ is an ongoing
+  documentation of the shift from traditional brick-and-mortar locations where
+  we once socialized and interacted with our community to the stark and generic
+  structures that house shipping, fulfillment, call, and server centers, now
+  essential for e-commerce.
+
+
+  Like memories, familiar retail entities are fading away. Today, they stand as
+  modern-day ruins and architectural artifacts that reach into the
+  not-so-distant past of our own maturing interests and evolving identities.
+
+
+  Toys “R” Us brings back of memories of avoiding my brother’s aerial assaults
+  of red dodge balls and Nerf guns while simultaneously ignoring my mother’s
+  plea to stop tearing into brand-new boxes of Teenage Mutant Ninja Turtle
+  action figures and Lego Pirate sets.
+
+
+  The Battlefield Mall was once a central meeting spot for my junior high
+  peers—anchored by the food court and Aladdin’s Castle arcade. Here, a myriad
+  of sights and smells trigger the memory to act as a roadmap for navigating the
+  mall. Orange Julius produced the sweet scent of Florida citrus in Southern
+  Missouri; there was the salty cheese sauce wafting from Potato Plus; and the
+  fragrant cinnamon-sugar of Auntie Anne’s baked pretzels. The nearby arcade
+  elicits a sensory transaction when I’m greeted by the flashing lights of
+  Street Fighter II, manic electronic beeps, purple geometric carpet, and the
+  oddly unique odor of stale popcorn mixed with the metallic scent of quarters,
+  tucked into my front pocket.
+
+
+  During high school and college, I spent hours at the Best Buy listening
+  stations, previewing new music releases from my favorite artists. Today, I
+  laugh when thinking back to a time when a Circuit City sales associate
+  begrudgingly answered my product question by reading the back of the box, all
+  before returning to watch Shaq and Kobe’s Lakers in the NBA Finals. It makes
+  sense, Circuit City was known for having the best televisions and poor
+  customer service.
+
+
+  By 2012, Circuit City closed their doors. Toys “R” Us folded in the spring of
+  2018, and Best Buy continues to shutter underperforming stores. Additionally,
+  arcades and food courts are endangered as small- and medium-sized “Class B”
+  malls are closing all over the U.S.
+
+
+  Like most Americans, I love the ease and product availability of Amazon and
+  online retailers. I order my toothpaste with a click of a button and can
+  obtain work supplies from the comfort of my sofa. My concerns are rooted in
+  our recent pattern of isolationism and shrinking human interaction. Store
+  closings feel like a continuation of our declining thoughtful conversations,
+  empty playgrounds, and sense of community as we opt for a digital facsimile.
+  We are no longer previewing music and getting recommendations on new releases
+  in person and in retail shops. We will no longer meet our friends in food
+  courts. And there will never be an opportunity to watch an NBA game with an
+  uninformed and complacent Circuit City employee.
+
+
+  _The Changing Landscape of American Retail_ is an exercise of looking to the
+  past and peering into the future, serving as a metaphor of how technology is
+  accelerating cultural change in the modern world. I know you can’t fight
+  change, but that doesn’t mean you can’t be sentimental.
 collection_description_alignment: center
 slug: changing-landscape-american-retail
 collection_blocks:
@@ -219,71 +281,71 @@ collection_awards:
       **2020**  
       Klompching Gallery 2020 Fresh  
       One of five winning exhibitions
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2018**  
       Photolucida Critical Mass  
       Top 50 International Project 
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2018**  
       _PDN Photo Annual_   
       Best Personal Work Series
-    template: popup-text-element
+    template: array-placeholder
 collection_press:
   - content: >-
       [_The Washington
       Post_](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
-    template: popup-text-element
+    template: array-placeholder
   - content: '[_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)'
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Architectural
       Digest_](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Fast
       Company_](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Business
       Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
-    template: popup-text-element
+    template: array-placeholder
   - content: '["_Fraction Magazine 131_"](http://www.fractionmagazine.com/jesse-rieser)'
-    template: popup-text-element
+    template: array-placeholder
   - content: '_Blkswn (Japan)_ '
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_BOOOOOOOM 64 x 64: Best of
       2018_](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_BOOOOOOOM_](https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Ignant_](https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Plain
       Magazine_](https://plainmagazine.com/jesse-rieser-changing-american-retail/)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Archinect_](https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Muuuz Architecture & Design
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
-    template: popup-text-element
+    template: array-placeholder
 collection_exhibition:
   - content: |-
       **2020**  
       _Fresh 2020_  
       Klompching Gallery.  
       Brooklyn, NY. (Group Show)
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2019 - 2020**  
       _Photoville The Fence:_
@@ -292,17 +354,17 @@ collection_exhibition:
       Santa Fe Railyard Park. Santa Fe, NM.  
       LoDo District. Denver, CO.  
       Atlanta Beltline. Atlanta, GA.
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2019**  
       _Standard Vision LA at LA Live_  
       Los Angeles, CA (Solo Show)
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2019**  
       _Camera Work Gallery_  
       Portland, OR (Solo Show)
-    template: popup-text-element
+    template: array-placeholder
 collection_archive: false
 collection_hidden: false
 hide_footer: true

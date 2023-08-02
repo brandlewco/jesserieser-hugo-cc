@@ -18,6 +18,35 @@ collection_description: >-
   Winner in the *2017 American Photography Annual: AP 33,* featured by
   *Buzzfeed, Fast Company, Feature Shoot, The Daily Mail,* and exhibited at the
   Houston Center of Photography.
+collection_content: >-
+  _Stalking A Serial Killer_ is narrated by quotes taken from detectives,
+  residents, family members, witnesses, and survivors as a singular voice of a
+  Phoenix neighborhood terrorized by a serial killer. The “Serial Street
+  Shooter” has gunned down seven and wounded two. The killings are at random
+  from his car and the victims are often in cars, near cars, or exiting their
+  car.
+
+
+  Originally published during the week of the US election for the French
+  magazine _Society_ for their ‘America’ issue, this photo essay depicts the
+  black and Hispanic neighborhood of Maryvale roamed by the killer, while
+  serving as a metaphor for issues plaguing American policy and politics; a lack
+  of immigration reform, racial inequity, a shrinking middle class, community
+  policing dysfunction, a lack of mental health care and quotidian gun violence.
+
+
+  Original interview and reporting by Emmanuelle Andreani-Facchin and typeset by
+  Juan Carlos Pagan.
+
+
+  “_The innovative layout of this story allows for both the strengths and the
+  weaknesses of visual storytelling to be seen. The subject matter itself is
+  shadowy, ephemeral, fitting the form. The images are beautiful, and start to
+  create their own context and narrative when only surrounded by quotes — and
+  nothing else. It’s a striking way to report on a story — one that tantalizes,
+  leading to more questions than answers, and leaves you wanting more._”  
+
+  – Buzzfeed –
 collection_description_alignment: center
 slug: stalking-serial-killer
 collection_blocks:
@@ -329,38 +358,38 @@ collection_awards:
       **2017**  
       _AP 33: American Photography Annual 33_  
       Best Editorial Series
-    template: popup-text-element
+    template: array-placeholder
 collection_press:
   - content: >-
       [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb)
     slug:
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Fast
       Company_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer) 
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) 
-    template: popup-text-element
+    template: array-placeholder
   - content: >-
       [_The Daily Mail
       UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
-    template: popup-text-element
+    template: array-placeholder
 collection_exhibition:
   - content: |-
       **2018**  
       _HCP Print Auction, Houston Center for Photography_  
       Houston, TX (Group Show)
-    template: popup-text-element
+    template: array-placeholder
   - content: |-
       **2017**  
       _Sunday Afternoon Artist Show_  
       New York, NY (Group Show)
-    template: popup-text-element
+    template: array-placeholder
 collection_archive: false
 collection_hidden: false
 hide_footer: false

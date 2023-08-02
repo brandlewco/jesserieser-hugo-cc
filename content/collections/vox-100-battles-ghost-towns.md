@@ -10,6 +10,36 @@ collection_description: >-
   Across the West, entrepreneurs are buying up abandoned outposts and
   transforming them into resorts and tourist photo ops. But how do you rebuild
   an actual community?
+collection_content: >-
+  Across the West, entrepreneurs are buying up abandoned outposts and
+  transforming them into resorts and tourist photo ops. But how do you rebuild
+  an actual community?
+
+
+  Cleator was founded in the late 1800s, after prospectors discovered gold in
+  the sandy soil, and came into its own as a railroad hub at the turn of the
+  century
+
+
+  By 1949, with only around 60 people living there, James Cleator had put his
+  namesake up for sale. It didn’t take long for him to realize that nobody
+  wanted to pay cash for an abandoned town.
+
+
+  Cleator is again up for sale, by James’s descendants, this time for the price
+  of [$999,999](https://www.buycleator.com/). It’s just one of more than 3,800
+  ghost towns scattered across America in need of new ownership.
+
+
+  Also pictured is Goldfield Ghost Town and Mine, a reconstructed 1890s western
+  town. Here the remnants of a kitschy Hollywood Western entertain visitors with
+  rides, tours, gun fights, and retail, capitalizing on a place lost to time.
+
+
+  The power of the American ghost town seems to be existential, with stories of
+  the people who have lived there—stories of drunken fights, guns waved in
+  faces, prison time, personal vendettas, love affairs, mysterious wealth and
+  witchcraft.
 collection_description_alignment: center
 slug: vox-ghosttowns
 collection_blocks:

@@ -279,7 +279,7 @@ collection_exhibition:
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
+    template: array-placeholder
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-8.jpg
 collection_filter: Commissioned + Stock

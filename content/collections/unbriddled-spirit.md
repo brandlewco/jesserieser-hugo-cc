@@ -97,7 +97,7 @@ collection_awards:
       **2016**  
       _AP 32: American Photography Annual 32_  
       Best Editorial Work:
-    template: popup-text-element
+    template: array-placeholder
 collection_press: []
 collection_archive: true
 collection_hidden: false

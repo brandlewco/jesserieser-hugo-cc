@@ -13,6 +13,29 @@ collection_description: >-
   depression.⁠ Krar opens up about his battle with depression, the balance of
   his personal life and life as a professional athlete, what he means to the
   running community, and how his running camp has “saved lives.”
+collection_content: >-
+  “_Rob Krar had to embrace incredible physical pain to win iconic
+  ultramarathons like the Leadville Traill 100 and the Western States Endurance
+  Run. But that’s a form suffering he can control- unlike his decades-long
+  struggle with depression._”⁠
+
+
+  This past fall my brother Shea and I visited the 5th annual _Rob Krar Running
+  Camp_ in Flagstaff, AZ. It was the perfect time of year- the air cool and
+  crisp as fall approached and the aspens golden in color illuminated Locket
+  Meadow. As someone who copes with clinical depression and anxiety disorder, we
+  loved our time with Rob, Christina, campers, and volunteers.
+
+
+  Article by former _Runner’s World_ editor Christine Fennessy, Krar opens up
+  about his battle with depression, the balance of his personal life and life a
+  professional athlete, what he means to the running community, and how his
+  running camp has “saved lives."
+
+
+  If you or someone you know is having thoughts of suicide or self-harm, call
+  the National Suicide Prevention Lifeline toll-free from anywhere in the U.S.
+  at 1-800-273-8255.
 collection_description_alignment: center
 slug: rob-krar-outside-magazine
 collection_blocks:

@@ -170,9 +170,9 @@ collection_preview:
 collection_awards: []
 collection_press:
   - content: _PDN Photo of the Day_
-    template: popup-text-element
+    template: array-placeholder
   - content: Press List Item
-    template: popup-text-element
+    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: true

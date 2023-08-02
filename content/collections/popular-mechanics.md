@@ -14,6 +14,27 @@ collection_description: >-
 
   Selected by the 2022 American Photography Annual (AP 38) as one of the year’s
   best in editorial photography.
+collection_content: >-
+  Pictured is 72 year old James Strohle. Strohle is cofounder of People
+  Unlimited, a community to inspire people to live infinite lifespans, in 1995,
+  then added the nonprofit Coalition for Radical Life Extension (CRLE) in 2016.
+  A major goal of both organizations is to introduce the public to anti-aging
+  developments so that when innovations come, they can be integrated into
+  society as naturally as possible.⁠⁠  
+
+  ⁠⁠  
+
+  He’s bullish on senolytics, drugs that purge the body of deteriorating cells,
+  and exosome treatments, which infuse the body with little packages of
+  extracellular communication materials, usually from immortal stem cells.
+  Neither is approved by the U.S. Food and Drug Administration, but Strole says
+  he feels like a teenager, living and working in the retirement paradise of
+  Scottsdale, Arizona.⁠⁠
+
+
+  What happens if Strohle doesn’t make it? If his doctor says he’s got six
+  weeks? “First I’d do everything to turn that around, but I would look then at
+  staying alive on some level. I probably would look at Cryogenic freezing."⁠⁠
 collection_description_alignment: center
 slug: popular-mechanics-longevity
 collection_blocks:
@@ -150,7 +171,7 @@ collection_awards:
       AP 38: American Photography Annual 38  
       Best Editorial Series
     icon:
-    template: popup-text-element
+    template: array-placeholder
     url:
 collection_press: []
 collection_archive: false

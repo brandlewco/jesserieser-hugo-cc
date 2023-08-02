@@ -18,6 +18,41 @@ collection_description: >-
   and *PDN Photo Annual* as one the year’s best. Featured by the *New York
   Times, Time Magazine, Wired, NPR, Buzzfeed, Fast Company, Esquire, The
   Guardian, Artsy,* and *Refinery 29.*
+collection_content: >-
+  Beyond the glowing green and red lights, past the shimmering silvery tinsel,
+  around the fragrant pine boughs, another Christmas lingers, a Christmas of
+  contradictions.
+
+
+  This is a Christmas where carved foam soldiers guard Santa in the parking lot
+  of a church just before a holiday parade. This is a Christmas where thousands
+  of Santas run in an annual fundraising race, a sea of red hats and performance
+  apparel. This is a Christmas where garages and homes are transformed into
+  elaborate, festive wonderlands. This is a Christmas where Christian families
+  reenact the birth of Christ, where Santa plays pool in a bar and where more is
+  more is more.
+
+
+  This Christmas is complex and at times, uncomfortable. It’s awkward and
+  sometimes bleak. But it is also sincere and celebratory, colorful and
+  creative.
+
+
+  This is the Christmas I have grown to love during my 7 year photographic
+  exploration of the biggest event on the American calendar. I grew up in a
+  secular home and at times felt like a Christmas outsider, never connected to
+  the holiday’s religious importance, or its more extreme cultural trappings.
+  But in these photos, I become a Christmas insider, working to discover and
+  reveal what holiday magic, or mania, compels so many to devote thousands of
+  hours to hanging lights, to carving and painting figurines, to building
+  miniature villages, to converting their homes, yards, garages and cars into
+  monuments to merriness.
+
+
+  Initially inspired by the absurdity of a four story inflatable Santa who
+  appeared to be guarding a tree lot, I have launched this survey of uniquely
+  American Christmas traditions. “Christmas in America” is an unvarnished
+  examination of the ways people mark the holiday’s meaning.
 collection_description_alignment: center
 slug: christmas-in-america
 collection_blocks:
@@ -678,7 +713,7 @@ collection_awards:
       Winner: Best Unpublished Series_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2017**  
@@ -686,7 +721,7 @@ collection_awards:
       Winner: Best Personal Work Series
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2012**  
@@ -694,7 +729,7 @@ collection_awards:
       Winner: Best Self-Promotion Campaign
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2012**  
@@ -702,7 +737,7 @@ collection_awards:
       Top Emerging Fine Art Photographer in North America and U.K.
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2011**  
@@ -710,7 +745,7 @@ collection_awards:
       Top International Emerging Creative 30 and Under
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2011**  
@@ -718,7 +753,7 @@ collection_awards:
       Winner: Best Personal Work Series
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2011**  
@@ -726,7 +761,7 @@ collection_awards:
       Winner: Best Personal Work Series
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2011**  
@@ -734,7 +769,7 @@ collection_awards:
       Winner: Top 50 International Projects
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: |-
       **2011**  
@@ -743,7 +778,7 @@ collection_awards:
       ICP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
 collection_press:
   - content: >-
@@ -751,256 +786,256 @@ collection_press:
       Blog_](https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_National
       Geographic_](https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_NPR Picture
       Show_](http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_NPR Radio
       Interview_](https://kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Fast
       Company_](https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas) 
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Esquire Russia_](http://esquire.ru/photo/xmas)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_The
       Gaurdian_](https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Refinery29_](http://www.refinery29.com/2015/12/100005/photos-suburbia-christmas-decorations#slide)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Artsy_](https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_It's Nice
       That_](http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Musee
       Magazine_](http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [**_BOOOOOOOM_**](https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_BOOOOOOOM 64 x 64: Best of
       2017_](https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Hyperallergic_](http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Yahoo!_](https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Society Magazine (France)_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Wings Magazine (Germany)_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _n by Norwegian_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Geo Magazine (Germany)_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Chaeg (South Korea)_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Amtrak the National_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Dallas Morning News_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Los Angeles
       Confidential_](http://la-confidential-magazine.com/the-latest/pursuits/postings/la-photographer-jesse-rieser-christmas-in-america-happy-birthday-jesus)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_The Magazine Santa
       Fe_](https://themagsantafe.com/jesse-rieser-portfolio/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Feature
       Shoot_](http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _PDN Photo of the Day_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Working Not Working Magazine_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Mache_](https://www.mache.digital/series/2017/12/15/christmas-in-america)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Don't Take
       Pictures_](http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Konbini_](http://www.konbini.com/fr/inspiration-2/en-images-les-bizarreries-de-noel-au-coeur-de-lamerique/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Duncan Miller Gallery "Your Daily
       Photograph"_](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Curbed_](http://curbed.com/tags/jesse-rieser)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [**_Tycho's ISO
       50_**](http://blog.iso50.com/33088/christmas-in-america-by-jesse-rieser/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Resource Magazine_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _Finite Foto_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: >-
       [_Inspiration
       Lab_](https://inspirationlab.wordpress.com/2012/10/18/jesse-rieser/)
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
   - content: _The Oregonian (Exhibition Review)_
     icon:
     slug:
-    template: popup-text-element
+    template: array-placeholder
     url:
 collection_exhibition:
   - content: |-
@@ -1009,7 +1044,7 @@ collection_exhibition:
       Monopoli, Italy (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2018 - 2019**  
@@ -1017,7 +1052,7 @@ collection_exhibition:
       Shawnee, OK (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2018**  
@@ -1025,7 +1060,7 @@ collection_exhibition:
       Brooklyn, NY (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2017 - 2018**  
@@ -1033,7 +1068,7 @@ collection_exhibition:
       Irving, TX (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2017 - 2018**  
@@ -1060,7 +1095,7 @@ collection_exhibition:
       Houston, TX (Group Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2017**  
@@ -1068,7 +1103,7 @@ collection_exhibition:
       Los Angeles, CA (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2012**  
@@ -1083,7 +1118,7 @@ collection_exhibition:
       San Franciso, CA (Group Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2011**  
@@ -1091,7 +1126,7 @@ collection_exhibition:
       Portland, OR. (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2011**  
@@ -1099,7 +1134,7 @@ collection_exhibition:
       New York, NY (Group Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2011**  
@@ -1107,7 +1142,7 @@ collection_exhibition:
       Scottsdale, AZ. (Solo Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2011**  
@@ -1116,7 +1151,7 @@ collection_exhibition:
       New York, NY. (Group Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
   - content: |-
       **2011**  
@@ -1126,7 +1161,7 @@ collection_exhibition:
       San Diego, CA (Group Show)
     icon: ''
     slug: ''
-    template: popup-text-element
+    template: array-placeholder
     url: ''
 collection_archive: false
 collection_hidden: false

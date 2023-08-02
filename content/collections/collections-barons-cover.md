@@ -113,14 +113,14 @@ collection_awards:
   - content: |-
       **2019**<br> AP 35: American Photography Annual 35<br> Best Personal Work
       Series:<br> "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
+    template: array-placeholder
 collection_press:
   - content: |-
       **2019**  
       AP 35: American Photography Annual 35  
       Best Personal Work Series:  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: popup-text-element
+    template: array-placeholder
     icon:
     url:
 collection_archive: false

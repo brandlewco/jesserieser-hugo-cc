@@ -15,6 +15,17 @@ collection_description: >-
 
   Named a finalist for the 2023 Communication Arts Photography Annual as one of
   the year’s best in editorial photography.
+collection_content: >-
+  These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
+  Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
+  Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
+  Ruidoso, and Carlsbad Caverns.
+
+
+  Forgotten and unpublished, I recently revisited these images. Sadly, the
+  National was a casualty of Covid and permanently closed their doors April,
+  2020 and the images never made it into print. I hope this serves a fitting and
+  surreal farewell to one of my favorite clients.
 collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:

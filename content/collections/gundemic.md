@@ -13,6 +13,26 @@ collection_description: >-
 
 
   Featured on Buzzfeed News.
+collection_content: >-
+  This work-in progress investigates gun culture not in a singular sense as one
+  belonging to the enthusiast, but one that is synonymous with being an American
+  citizen as we share the land with more guns than citizens. Stories on guns are
+  plenty but none which look at the role firearms have played in the mythology
+  of the American West. From film, music, and literature, the world loves our
+  pop culture exports of the gun carrying character personified as the cowboy,
+  pioneer, soldier, mobster and the gangster. A uniquely American export is now
+  a uniquely American health crisis.
+
+
+  I have a long personal relationship with firearms. Raised in the Ozarks
+  hunting is a way of life yet my brothers and I were not allowed to play with
+  toy guns. In high school I was on a mass shooting kill list. In 2012 my cousin
+  took her and her young children’s lives (11, 10, and 22 months).
+
+
+  Here you will find scenes from civilian tactical training facilities,
+  neighborhoods wracked by gun violence, activists, politicians, wild-west
+  shootouts, “patriots,” and gun safety exercises.
 collection_description_alignment: center
 slug: gundemic
 collection_blocks:
