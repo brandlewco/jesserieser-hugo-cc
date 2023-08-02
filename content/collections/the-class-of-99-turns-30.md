@@ -283,6 +283,17 @@ collection_awards:
 collection_press:
   - content: '**_LENSCRATCH_**](http://lenscratch.com/2011/06/jesse-rieser-2/)'
     template: popup-text-element
+collection_exhibition:
+  - content: |-
+      **2011**  
+      **_Art Director's Club Young Guns 9 Exhibition_**  
+      Art Director's Club Gallery. New York, NY. (Group Show)
+    template: popup-text-element
+  - content: |-
+      **2010**  
+      **_Chaos Theory 11_**  
+      Legend City Gallery. Phoenix, AZ. (Group Show)
+    template: popup-text-element
 collection_archive: true
 collection_hidden: false
 hide_footer: true

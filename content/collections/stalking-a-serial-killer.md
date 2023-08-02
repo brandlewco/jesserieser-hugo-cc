@@ -343,15 +343,27 @@ collection_press:
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
     template: popup-text-element
-  - content: '_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) '
+  - content: >-
+      [_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) 
     template: popup-text-element
   - content: >-
       [_The Daily Mail
       UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
     template: popup-text-element
+collection_exhibition:
+  - content: |-
+      **2018**  
+      _HCP Print Auction, Houston Center for Photography_  
+      Houston, TX (Group Show)
+    template: popup-text-element
+  - content: |-
+      **2017**  
+      _Sunday Afternoon Artist Show_  
+      New York, NY (Group Show)
+    template: popup-text-element
 collection_archive: false
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:

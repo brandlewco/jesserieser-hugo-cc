@@ -273,6 +273,13 @@ collection_blocks:
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row-end
+collection_exhibition:
+  - content: |-
+      **2019**  
+      AP 35: American Photography Annual 35  
+      Best Personal Work Series:  
+      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+    template: popup-text-element
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-8.jpg
 collection_filter: Commissioned + Stock
@@ -299,7 +306,7 @@ collection_awards: []
 collection_press: []
 collection_archive: false
 collection_hidden: false
-hide_footer: true
+hide_footer: 
 navigation_theme: white
 px_extra: true
 row_alignment:

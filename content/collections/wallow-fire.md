@@ -224,7 +224,23 @@ collection_press:
       [**_Duncan Miller Gallery: Your Daily
       Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
     template: popup-text-element
-  - content: '**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'
+  - content: >-
+      [**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'
+    template: popup-text-element
+collection_exhibition:
+  - content: |-
+      **2014**  
+      **_How One Thing Leads To Another: Critical Mass Top 50_**  
+      Corden Potts Gallery. San Francisco, CA  
+      Houston Center For Photography. Houston, TX (Group Show)
+    template: popup-text-element
+  - content: >-
+      **2012**  
+
+      **_The Forty Eighth: Contemporary Photography at Arizona's
+      Centennial_**   
+
+      Monorchid Gallery. Phoenix, AZ
     template: popup-text-element
 collection_archive: true
 collection_hidden: false

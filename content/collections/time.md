@@ -192,6 +192,13 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-3.jpg
+collection_exhibition:
+  - content: |-
+      **2019**  
+      _Grand Canyon National Park 100_  
+      Etherton Gallery  
+      Tucson, AZ (Group Show)
+    template: popup-text-element
 collection_awards: []
 collection_press: []
 collection_archive: false

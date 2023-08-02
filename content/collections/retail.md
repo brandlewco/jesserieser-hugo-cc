@@ -277,6 +277,32 @@ collection_press:
       [_Muuuz Architecture & Design
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
     template: popup-text-element
+collection_exhibition:
+  - content: |-
+      **2020**  
+      _Fresh 2020_  
+      Klompching Gallery.  
+      Brooklyn, NY. (Group Show)
+    template: popup-text-element
+  - content: |-
+      **2019 - 2020**  
+      _Photoville The Fence:_
+
+      Brooklyn Bridge Park. Brooklyn, NY.  
+      Santa Fe Railyard Park. Santa Fe, NM.  
+      LoDo District. Denver, CO.  
+      Atlanta Beltline. Atlanta, GA.
+    template: popup-text-element
+  - content: |-
+      **2019**  
+      _Standard Vision LA at LA Live_  
+      Los Angeles, CA (Solo Show)
+    template: popup-text-element
+  - content: |-
+      **2019**  
+      _Camera Work Gallery_  
+      Portland, OR (Solo Show)
+    template: popup-text-element
 collection_archive: false
 collection_hidden: false
 hide_footer: true

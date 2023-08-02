@@ -760,7 +760,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
+  - content: >-
+      [_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
     icon:
     slug:
     template: popup-text-element
@@ -785,7 +786,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
+  - content: >-
+      [_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
     icon:
     slug:
     template: popup-text-element
@@ -797,7 +799,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Esquire Russia_](http://esquire.ru/photo/xmas)
+  - content: >-
+      [_Esquire Russia_](http://esquire.ru/photo/xmas)
     icon:
     slug:
     template: popup-text-element
@@ -828,7 +831,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
+  - content: >-
+      [_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
     icon:
     slug:
     template: popup-text-element
@@ -957,7 +961,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Curbed_](http://curbed.com/tags/jesse-rieser)
+  - content: >-
+      [_Curbed_](http://curbed.com/tags/jesse-rieser)
     icon:
     slug:
     template: popup-text-element
@@ -974,7 +979,8 @@ collection_press:
     slug:
     template: popup-text-element
     url:
-  - content: _Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
+  - content: >-
+      [_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
     icon:
     slug:
     template: popup-text-element
@@ -996,6 +1002,132 @@ collection_press:
     slug:
     template: popup-text-element
     url:
+collection_exhibition:
+  - content: |-
+      **2019**  
+      _Phest Photo Festival & National Geographic: See Beyond the Sea_  
+      Monopoli, Italy (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2018 - 2019**  
+      _Mabee-Gerrer Museum of Art_  
+      Shawnee, OK (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2018**  
+      _Industry City_  
+      Brooklyn, NY (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2017 - 2018**  
+      _Irving Arts Center a Smithsonian Affiliate_  
+      Irving, TX (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2017 - 2018**  
+      _The Fence_  
+      Brooklyn Bridge Park  
+      Brooklyn, NY  
+        
+      Santa Fe Re Railyard Park  
+      Santa Fe, NM  
+        
+      LoDo District  
+      Denver, CO  
+        
+      Atlanta Beltline  
+      Atlanta, GA  
+        
+      Durham City Hall Plaza  
+      Durham, NC  
+        
+      SoWa Southie Plaza  
+      Boston, MA  
+        
+      Fourth Ward  
+      Houston, TX (Group Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2017**  
+      _Standard Vision L.A. Live_   
+      Los Angeles, CA (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2012**  
+      Critical Mass: Love, Anxiety, and Happiness  
+      Northwest Center For Photography.  
+      Seattle, WA
+
+      Newspace Center For Photography.  
+      Portland, OR
+
+      Raykko Gallery.  
+      San Franciso, CA (Group Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2011**  
+      _Newspace Center For Photography_  
+      Portland, OR. (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2011**  
+      _Camera Club of New York Gallery_  
+      New York, NY (Group Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2011**  
+      _Saguaro Hotel Gallery_  
+      Scottsdale, AZ. (Solo Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2011**  
+      Art Director’s Club Young Guns 9 Exhibition  
+      Art Director’s Club Gallery  
+      New York, NY. (Group Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
+  - content: |-
+      **2011**  
+      Art of Photography Juried Exhibition  
+      Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los Angeles  
+      Lyceum Theatre Gallery  
+      San Diego, CA (Group Show)
+    icon: ''
+    slug: ''
+    template: popup-text-element
+    url: ''
 collection_archive: false
 collection_hidden: false
 hide_footer: false

@@ -229,6 +229,12 @@ collection_awards:
 collection_press:
   - content: _LoDown Magazine_ _(Germany)_
     template: popup-text-element
+collection_exhibition:
+  - content: |-
+      **2019**  
+      _Chaos Theory 20_  
+      Legend City Gallery. Phoenix, AZ (Group Show)
+    template: popup-text-element
 collection_archive: false
 collection_hidden: false
 hide_footer: true
