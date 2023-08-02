@@ -6,6 +6,7 @@ title: Adidas Basketball
 collection_meta: Crazy Explosive Primeknit
 collection_meta_2: "2023"
 collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
+collection_content: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
 collection_description_alignment: center
 slug: collections/adidas-basketball
 collection_blocks:
