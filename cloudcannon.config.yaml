@@ -448,6 +448,18 @@ _inputs:
       values:
         - Commissioned + Stock
         - Personal
+  collection_awards:
+    type: array
+  collection_awards[*]:
+    type: markdown
+  collection_press:
+    type: array
+  collection_press[*]:
+    type: markdown
+  collection_exhibition:
+    type: array
+  collection_exhibition[*]:
+    type: markdown
   navigation_theme:
     type: select
     options:
