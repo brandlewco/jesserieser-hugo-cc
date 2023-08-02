@@ -6,7 +6,6 @@ title: Adidas Basketball
 collection_meta: Crazy Explosive Primeknit
 collection_meta_2: "2023"
 collection_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
-collection_content: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
 collection_description_alignment: center
 slug: collections/adidas-basketball
 collection_blocks:
@@ -32,6 +31,7 @@ theme_color_all_works: "#FFE05A"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview: [https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-1.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-2.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-3.jpg, https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-4.jpg]
+collection_content:
 collection_awards: []
 collection_press: []
 collection_exhibition: []
