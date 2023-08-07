@@ -5,7 +5,7 @@ seo:
   meta_title: Autobiography of a Contact Sport
 title: Autobiography of a Contact Sport
 collection_meta: '2016'
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   This personal project explores my nostalgia and love for the game that shaped
   me. This work puts you on the sideline, in the helmet, and in the bleachers
@@ -15,70 +15,6 @@ collection_description: >-
 
   Winner of the *American Photography Annual 34* and featured by *Buzzfeed* and
   *The Guardian.*
-collection_content: >-
-  0: The number of times I regret playing high school football.
-
-
-  1: The number of points Sunnyslope High School lost by to keep them from
-  playing in the division III Arizona High School Championship.
-
-
-  2: The approximate number of high school football players who die every year
-  from concussions.
-
-
-  3: The number of years I started varsity football in Missouri.
-
-
-  68: Varsity jersey number.
-
-
-  81: Junior Varsity jersey number.
-
-
-  100: The percent chance my unborn son will not play the game that I miss; the
-  game that I love; the game that made me.
-
-
-  I grew up in Missouri and I was an art-jock. I felt like I was unique—maybe I
-  was—who knows. I received a handful of scholarships, which I considered, but I
-  opted for pursuing my passion for art and photography. I love being a
-  photographer. I still suffer from the effects of playing the game. Some
-  include coping with depression and general panic disorder (my doctor now
-  thinks these are related to my playing days) chronic back and knee pain, two
-  torn thumbs, two torn hamstrings, two shoulder surgeries and a hip surgery. I
-  would never say the pain outweighs the power. The game gave me an
-  understanding of power and restraint.
-
-
-  Over time, I have become more and more leery of passing on my playing legacy,
-  my family’s football heirloom (my grandfather, father, and both my brothers
-  played.) Living with my own physical and mental ailments combined with our
-  better understanding of CTE, if I were ever to have a son, I now think that my
-  family's football heirloom ends with me. 
-
-
-  As a farewell, I chose to document the Phoenix based Sunny Slope football
-  program. They are the Sunny Slope Vikings. I was a Parkview Viking. Both
-  mascots depicted with the familiar horns flanking our helmets. We share the
-  same school colors and are nearly identical in socio economic complexion. It
-  was a perfect fit and the closest thing to being home without actually going
-  home.
-
-
-  There’s a violent beauty at the heart of the sport. These boys wear a costume
-  of manhood, disguised by their strength, speed, and violence which only lasts
-  so long when their childlike joy and rage comes to the surface.
-
-
-  In New Orleans they have big bands at funerals and in football marching bands
-  announce the euphoria and pain. I imagine football like that: an end, a
-  beginning, and a celebration all wrapped up in the light of my nostalgia.
-  Don’t consider this a eulogy. This is a celebration.
-
-
-  Typography treatment by Patricia Pruiss of Sunday Afternoon and interview
-  excerpts from Ian Reed, the Arizona defensive player of the year.
 collection_description_alignment: center
 slug: autobiography-contact-sport
 collection_blocks:
@@ -473,6 +409,70 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-4.jpg
+collection_content: >-
+  0: The number of times I regret playing high school football.
+
+
+  1: The number of points Sunnyslope High School lost by to keep them from
+  playing in the division III Arizona High School Championship.
+
+
+  2: The approximate number of high school football players who die every year
+  from concussions.
+
+
+  3: The number of years I started varsity football in Missouri.
+
+
+  68: Varsity jersey number.
+
+
+  81: Junior Varsity jersey number.
+
+
+  100: The percent chance my unborn son will not play the game that I miss; the
+  game that I love; the game that made me.
+
+
+  I grew up in Missouri and I was an art-jock. I felt like I was unique—maybe I
+  was—who knows. I received a handful of scholarships, which I considered, but I
+  opted for pursuing my passion for art and photography. I love being a
+  photographer. I still suffer from the effects of playing the game. Some
+  include coping with depression and general panic disorder (my doctor now
+  thinks these are related to my playing days) chronic back and knee pain, two
+  torn thumbs, two torn hamstrings, two shoulder surgeries and a hip surgery. I
+  would never say the pain outweighs the power. The game gave me an
+  understanding of power and restraint.
+
+
+  Over time, I have become more and more leery of passing on my playing legacy,
+  my family’s football heirloom (my grandfather, father, and both my brothers
+  played.) Living with my own physical and mental ailments combined with our
+  better understanding of CTE, if I were ever to have a son, I now think that my
+  family's football heirloom ends with me.
+
+
+  As a farewell, I chose to document the Phoenix based Sunny Slope football
+  program. They are the Sunny Slope Vikings. I was a Parkview Viking. Both
+  mascots depicted with the familiar horns flanking our helmets. We share the
+  same school colors and are nearly identical in socio economic complexion. It
+  was a perfect fit and the closest thing to being home without actually going
+  home.
+
+
+  There’s a violent beauty at the heart of the sport. These boys wear a costume
+  of manhood, disguised by their strength, speed, and violence which only lasts
+  so long when their childlike joy and rage comes to the surface.
+
+
+  In New Orleans they have big bands at funerals and in football marching bands
+  announce the euphoria and pain. I imagine football like that: an end, a
+  beginning, and a celebration all wrapped up in the light of my nostalgia.
+  Don’t consider this a eulogy. This is a celebration.
+
+
+  Typography treatment by Patricia Pruiss of Sunday Afternoon and interview
+  excerpts from Ian Reed, the Arizona defensive player of the year.
 collection_awards:
   - content: |-
       **2018**  
@@ -489,9 +489,10 @@ collection_press:
     template: array-placeholder
   - content: _Nacione_
     template: array-placeholder
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
