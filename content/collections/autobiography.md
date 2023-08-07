@@ -5,7 +5,7 @@ seo:
   meta_title: Autobiography of a Contact Sport
 title: Autobiography of a Contact Sport
 collection_meta: '2015'
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   This personal project explores my nostalgia and love for the game that shaped
   me. This work puts you on the sideline, in the helmet, and in the bleachers
