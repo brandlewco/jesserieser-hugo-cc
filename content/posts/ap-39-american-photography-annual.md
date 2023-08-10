@@ -115,13 +115,19 @@ content: >-
   Annual***](https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1) book.
 
 
+
+
   The scarcity of fresh water is rapidly emerging as a global economic threat
   that could disrupt businesses, crimp profits, and jeopardize growth.⁠
+
+
 
 
   The Colorado River has fallen to record-low levels. Its two enormous
   reservoirs, Lake Mead and Lake Powell, are below 30% of capacity, exposing
   sunken boats and even human skeletal remains.
+
+
 
 
   Thank you judges and Sarina Finkelstein for assigning and submitting to this
