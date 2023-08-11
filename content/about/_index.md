@@ -92,13 +92,13 @@ about_blocks:
       - content: |-
           **2022**
 
-          Souvenirs From Paradise The Gallery at Mountain Shadows.
+          Souvenirs From Paradise
+
+          The Gallery at Mountain Shadows.
 
           Paradise Valley, AZ (Solo Show)
 
-
-
-          *A Vanishing Folklore* 2012 - 2022<br>
+          *A Vanishing Folklore* 2012 - 2022
 
           *The Changing Landscape of American Retail 2015 - 2022*
 
