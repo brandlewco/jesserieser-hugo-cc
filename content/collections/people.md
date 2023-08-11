@@ -218,6 +218,7 @@ collection_category:
   - Color
   - Portraits
   - Motion
+  - Gun Culture
 date: 2019-05-01T07:00:00Z
 theme_color: '#aae9c0'
 theme_color_all_works: '#ffe05a'
@@ -228,8 +229,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-4.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
