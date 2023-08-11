@@ -218,10 +218,12 @@ about_blocks:
           Chaos Theory 18
         icon:
         url:
-      - content: |-
-          **2018** _Stalking A Serial Killer_
-          HCP Print Auction, Houston Center for Photography.
-          Houston, TX (Group Show)
+      - content: >-
+          **2018**
+
+
+          *Stalking A Serial Killer* HCP Print Auction, Houston Center for
+          Photography. Houston, TX (Group Show)
         icon:
         url:
       - content: |-
