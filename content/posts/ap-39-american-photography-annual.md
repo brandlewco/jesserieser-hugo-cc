@@ -110,7 +110,7 @@ blog_header: AP 39
 caption: 'Barron''s Cover Story: Beyond the Drought'
 content: >-
   [Beyond The Drought commissioned by
-  Barron's](https://jesserieser.com/collections/mead-barrons)&nbsp;\*has been
+  Barron's](https://jesserieser.com/collections/mead-barrons)&nbsp;has been
   named one of the year’s best in the upcoming [***American Photography 39 Photo
   Annual***](https://www.ai-ap.com/slideshow/AP/39/jesse-rieser/#1) book.
 

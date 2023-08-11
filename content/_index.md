@@ -499,7 +499,7 @@ content_blocks:
     color: '#c3d6eb'
     caption: test caption
     title_margin_y: '10'
-    title_margin_left: '5'
+    title_margin_left: '-25'
     title_margin_right: '0'
     text_color: '#f6a3f7'
     line_height: normal
