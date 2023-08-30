@@ -8,6 +8,7 @@ feature_description: >-
   If you are solely interested in the works produced in my personal photographic
   art practice, please head over to [**_Jesse Rieser
   Projects_**](https://jesserieserprojects.com/).
+text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
   meta_description: >-

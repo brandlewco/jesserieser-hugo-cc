@@ -34,7 +34,7 @@
     {{ $attached := string $attached}}
     {{ with site.GetPage $attached }}
     <section class="mt-4 sm:mt-16 text-black">
-      <a href="/{{.Params.slug}}/" alt="view collection" class="exit-modal">
+      <a href="/collections/{{.Params.slug}}/" alt="view collection" class="exit-modal">
           <div class="mx-auto w-full mb-8 text-center font-light"  data-sal="slide-down" data-sal-delay="300">
               <p class="text-md sm:text-xl font-light">View Full Project</p>
           </div>
