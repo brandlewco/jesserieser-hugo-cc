@@ -20,7 +20,7 @@ blueprint:
   text: caption
   color: "#000000"
   show_controls: true
-  block_aspect_ratio: 16x9
+  block_aspect_ratio: '16x9'
   width: '50'
   align_y: start
   margin_y: '0'
