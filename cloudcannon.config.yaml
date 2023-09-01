@@ -447,31 +447,8 @@ _inputs:
   collection_category:
     type: multiselect
     options:
-      values:
-        - Portraits
-        - Environments
-        - Still Life + Details
-        - Sports + Athletes
-        - Humor
-        - Conceptual
-        - Lifestyle
-        - Workplace
-        - Color
-        - Black and White
-        - Climate Change
-        - Travel
-        - Reportage
-        - Motion
-        - Tech
-        - Science
-        - Editorial
-        - Advertising
-        - Stock
-        - Studio
-        - Exhibited Workså
-        - Award Winning
-        - Kids
-        - Gun Culture
+      values: data.categories.categories.categories
+      value_key: content_path
   collection_filter:
     type: select
     options:
