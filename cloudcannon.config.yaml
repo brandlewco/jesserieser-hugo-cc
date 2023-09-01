@@ -447,7 +447,7 @@ _inputs:
   collection_category:
     type: multiselect
     options:
-      values: data.categories.categories.categories
+      values: data.categories.categories
       value_key: content_path
   collection_filter:
     type: select
