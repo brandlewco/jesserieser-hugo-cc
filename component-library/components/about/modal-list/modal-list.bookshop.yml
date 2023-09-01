@@ -13,32 +13,29 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: "List Title" 
+  title: "List Title"
   image: /images/hero/hero-image-2.png
   meta: "meta"
-  width: '30'
+  width: "30"
   color: "#ffffff"
   modal_color: "#000000"
   text_color: "#ffffff"
-  text_size: base
+  text_size: "base"
   line_height: normal
   text_alignment: left
   text_tracking: normal
   font_weight: normal
   meta_align: left
   align_y: center
-  margin_y: '0'
-  margin_left: '0'
-  margin_right: '0'
-  title_margin_y: '0'
-  title_margin_left: '0'
-  title_margin_right: '0'
-
-
+  margin_y: "0"
+  margin_left: "0"
+  margin_right: "0"
+  title_margin_y: "0"
+  title_margin_left: "0"
+  title_margin_right: "0"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

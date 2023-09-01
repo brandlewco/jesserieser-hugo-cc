@@ -3,7 +3,7 @@ spec:
   structures:
     - about_blocks
   label: Text
-  description: 
+  description:
   preview:
   tags: ["collection"]
 
@@ -14,24 +14,21 @@ blueprint:
   background_image_toggle: true
   image:
   text_color: "#000000"
-  text_size: lg
+  text_size: "lg"
   text_alignment: left
   text_tracking: normal
   font_weight: normal
-  width: '50'
+  width: "50"
   align_y: start
-  margin_y: '0'
-  margin_left: '0'
-  margin_right: '0'
+  margin_y: "0"
+  margin_left: "0"
+  margin_right: "0"
   parallax: true
   image_css:
   caption_css:
 
-
-
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

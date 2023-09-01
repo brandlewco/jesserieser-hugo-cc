@@ -14,26 +14,23 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: "Collection Title" 
+  title: "Collection Title"
   meta: "meta"
   attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-  text_size: base
+  text_size: "base"
   color: "#ffffff"
-  width: '30'
+  width: "30"
   align_y: center
-  margin_y: '0'
-  margin_left: '0'
-  margin_right: '0'
-  block_aspect_ratio: '1x1'
+  margin_y: "0"
+  margin_left: "0"
+  margin_right: "0"
+  block_aspect_ratio: "1x1"
   blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
   caption: Caption
   theme_color: "#000000"
 
-
-
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

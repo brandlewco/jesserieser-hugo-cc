@@ -11,7 +11,7 @@ spec:
 blueprint:
   title: link title
   meta: "meta"
-  text_size: base
+  text_size: "base"
   align_y: center
   width: "33"
   margin_y: "0"
@@ -23,11 +23,8 @@ blueprint:
   color: "#000000"
   text_color: "#ffffff"
 
-
-
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
