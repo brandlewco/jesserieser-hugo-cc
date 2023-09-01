@@ -448,7 +448,6 @@ _inputs:
     type: multiselect
     options:
       values: data.categories.categories
-      value_key: content_path
   collection_filter:
     type: select
     options:
