@@ -5,7 +5,7 @@ seo:
   meta_title: "Backpage.com\_for Wired"
 title: Wired Magazine
 collection_meta: "Backpage.com\_Cover Story"
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   I photographed Michael Lacey and Jim Larkin as they await trial for owning and
   operating the online classified giant [Backpage.com](http://Backpage.com).
