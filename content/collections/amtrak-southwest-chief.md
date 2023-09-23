@@ -262,9 +262,11 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-2-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_swchief_covers-4-1.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white
