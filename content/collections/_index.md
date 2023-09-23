@@ -1,6 +1,8 @@
 ---
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg
-collection_description: Collections and projects of Jesse Rieser - Phoenix, Arizona based photographer. A student of subtleties.
+collection_description: >-
+  Collections and projects of Jesse Rieser - Phoenix, Arizona based
+  photographer. A student of subtleties.
 title: Jesse Rieser - All Work Portfolio
 collection_sorter:
   - collections/golf-digest-cam-young.md
@@ -30,9 +32,7 @@ collection_sorter:
   - collections/armani-anniversary.md
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
-  - collections/espn-ryan-resch.md
   - collections/wine-enthusiast.md
-  - collections/the-new-york-times-tj-newman.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-sunset-limited.md
@@ -47,13 +47,9 @@ collection_sorter:
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md
-  - collections/endangered-photo-studios.md
-  - collections/bloomberg-business-week.md
   - collections/amtrak-southwest-chief.md
-  - collections/runner-s-world.md
   - collections/the-new-york-times-2.md
   - collections/collections-barons-cover.md
-  - collections/espn-deandre-ayton.md
   - collections/etrade.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
@@ -61,15 +57,5 @@ collection_sorter:
   - collections/sounds-of-cement.md
   - collections/amtrak-the-national.md
   - collections/time-mag-antivaxxers.md
-  - collections/wsj-ieg-lab.md
-  - collections/fred-nike.md
-  - collections/outside-dq.md
-  - collections/gioa-hearst-itallia.md
-  - collections/espn-cactus-league.md
-  - collections/golf-digest.md
-  - collections/united-airlines.md
-  - collections/az-lottery.md
-  - collections/collections-fisher-price.md
-  - collections/collections-fred-kerley-copy.md
   - collections/the-class-of-99-turns-30.md
 ---
