@@ -5,7 +5,7 @@ seo:
   meta_title: The Truck of the Future
 title: Barron's
 collection_meta: The Truck of the Future Cover Story
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   This recent cover for Barron’s I had [***Shane
   Griffin***](http://www.shanegriffin.nyc) lend a chromatic helping-hand to
@@ -109,6 +109,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-nikola_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-nikola_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barron-2.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2019**<br> AP 35: American Photography Annual 35<br> Best Personal Work
@@ -123,7 +124,8 @@ collection_press:
     template: array-placeholder
     icon:
     url:
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: black
