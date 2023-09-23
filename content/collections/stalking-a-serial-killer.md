@@ -5,7 +5,7 @@ seo:
   meta_title: Stalking A Serial Killer for Society Magazine
 title: Society Magazine
 collection_meta: Stalking A Serial Killer
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Published during the 2016 election for French magazine *Society’s* “America”
   issue. The photo essay depicts the Latino neighborhood plagued by “The Serial
@@ -18,35 +18,6 @@ collection_description: >-
   Winner in the *2017 American Photography Annual: AP 33,* featured by
   *Buzzfeed, Fast Company, Feature Shoot, The Daily Mail,* and exhibited at the
   Houston Center of Photography.
-collection_content: >-
-  _Stalking A Serial Killer_ is narrated by quotes taken from detectives,
-  residents, family members, witnesses, and survivors as a singular voice of a
-  Phoenix neighborhood terrorized by a serial killer. The “Serial Street
-  Shooter” has gunned down seven and wounded two. The killings are at random
-  from his car and the victims are often in cars, near cars, or exiting their
-  car.
-
-
-  Originally published during the week of the US election for the French
-  magazine _Society_ for their ‘America’ issue, this photo essay depicts the
-  black and Hispanic neighborhood of Maryvale roamed by the killer, while
-  serving as a metaphor for issues plaguing American policy and politics; a lack
-  of immigration reform, racial inequity, a shrinking middle class, community
-  policing dysfunction, a lack of mental health care and quotidian gun violence.
-
-
-  Original interview and reporting by Emmanuelle Andreani-Facchin and typeset by
-  Juan Carlos Pagan.
-
-
-  “_The innovative layout of this story allows for both the strengths and the
-  weaknesses of visual storytelling to be seen. The subject matter itself is
-  shadowy, ephemeral, fitting the form. The images are beautiful, and start to
-  create their own context and narrative when only surrounded by quotes — and
-  nothing else. It’s a striking way to report on a story — one that tantalizes,
-  leading to more questions than answers, and leaves you wanting more._”  
-
-  – Buzzfeed –
 collection_description_alignment: center
 slug: stalking-serial-killer
 collection_blocks:
@@ -353,6 +324,34 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-1-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/serial_cover-4.jpg
+collection_content: >-
+  *Stalking A Serial Killer* is narrated by quotes taken from detectives,
+  residents, family members, witnesses, and survivors as a singular voice of a
+  Phoenix neighborhood terrorized by a serial killer. The “Serial Street
+  Shooter” has gunned down seven and wounded two. The killings are at random
+  from his car and the victims are often in cars, near cars, or exiting their
+  car.
+
+
+  Originally published during the week of the US election for the French
+  magazine *Society* for their ‘America’ issue, this photo essay depicts the
+  black and Hispanic neighborhood of Maryvale roamed by the killer, while
+  serving as a metaphor for issues plaguing American policy and politics; a lack
+  of immigration reform, racial inequity, a shrinking middle class, community
+  policing dysfunction, a lack of mental health care and quotidian gun violence.
+
+
+  Original interview and reporting by Emmanuelle Andreani-Facchin and typeset by
+  Juan Carlos Pagan.
+
+
+  “*The innovative layout of this story allows for both the strengths and the
+  weaknesses of visual storytelling to be seen. The subject matter itself is
+  shadowy, ephemeral, fitting the form. The images are beautiful, and start to
+  create their own context and narrative when only surrounded by quotes — and
+  nothing else. It’s a striking way to report on a story — one that tantalizes,
+  leading to more questions than answers, and leaves you wanting more.*”<br>–
+  Buzzfeed –
 collection_awards:
   - content: |-
       **2017**  
@@ -372,8 +371,7 @@ collection_press:
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
     template: array-placeholder
-  - content: >-
-      [_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) 
+  - content: '[_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) '
     template: array-placeholder
   - content: >-
       [_The Daily Mail
@@ -390,7 +388,7 @@ collection_exhibition:
       _Sunday Afternoon Artist Show_  
       New York, NY (Group Show)
     template: array-placeholder
-collection_archive: false
+collection_archive: true
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
