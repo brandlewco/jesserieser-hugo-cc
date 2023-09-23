@@ -5,7 +5,7 @@ seo:
   meta_title: The Field Scanalyzer for The Wall Street Journal
 title: The Wall Street Journal
 collection_meta: The Field Scanalyzer
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
   that could help feed impoverished countries and fuel American cars.⁠ The
