@@ -51,10 +51,10 @@ collection_sorter:
   - collections/the-new-york-times-2.md
   - collections/collections-barons-cover.md
   - collections/etrade.md
+  - collections/sounds-of-cement.md
+  - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
   - collections/starting-over.md
-  - collections/sounds-of-cement.md
-  - collections/amtrak-the-national.md
   - collections/the-class-of-99-turns-30.md
 ---
