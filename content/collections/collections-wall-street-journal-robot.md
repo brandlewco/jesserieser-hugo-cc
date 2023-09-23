@@ -5,7 +5,7 @@ seo:
   meta_title: The Field Scanalyzer for The Wall Street Journal
 title: The Wall Street Journal
 collection_meta: The Field Scanalyzer
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
   that could help feed impoverished countries and fuel American cars.⁠ The
@@ -14,38 +14,6 @@ collection_description: >-
   scaffold with a box perched in its middle, it lumbers daily over 2 acres of
   crops including sorghum, lettuce and wheat, its cluster of electronic eyes
   assessing their temperature, shape and hue, the angle of each leaf.⁠
-collection_content: >-
-  On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
-  that could help feed impoverished countries and fuel American cars.⁠ The
-  70-foot-tall colossus, called a “Field Scanalyzer,” is the world’s biggest
-  agricultural robot, the project’s researchers say. Resembling an oversize
-  scaffold with a box perched in its middle, it lumbers daily over 2 acres of
-  crops including sorghum, lettuce and wheat, its cluster of electronic eyes
-  assessing their temperature, shape and hue, the angle of each leaf.⁠
-
-
-  The Scanalyzer beams this data—up to 10 terabytes a day, roughly equivalent to
-  about 2.6 million copies of Tolstoy’s “War and Peace”—to computers in Illinois
-  and Missouri. Analyzing the range and depth of data generated is possible only
-  with machine-learning algorithms, according to data scientists at George
-  Washington University and St. Louis University, where researchers are teaching
-  the computers to identify connections between specific genes and plant traits
-  the Scanalyzer observes.⁠
-
-
-  Deep learning, a form of AI that uses conclusions from data to further refine
-  a system, can also help pinpoint how some varieties of a plant may subtly
-  differ from one another in ways that plant scientists may not anticipate,
-  researchers say.⁠
-
-
-  The effort—part of a five-year, roughly $26 million project funded by the U.S.
-  Department of Energy and the Bill and Melinda Gates Foundation—is aimed at
-  helping plant breeders identify characteristics and genetic markers pointing
-  to the most efficient and resilient crop varieties. Researchers are seeking to
-  develop crops that can produce biofuels, reducing reliance on fossil fuels. It
-  could also help identify food crops that can thrive in drier, hotter
-  conditions as climates change.
 collection_description_alignment: center
 slug: wall-street-journal-robot
 collection_blocks:
@@ -185,9 +153,42 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg
+collection_content: >-
+  On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
+  that could help feed impoverished countries and fuel American cars.⁠ The
+  70-foot-tall colossus, called a “Field Scanalyzer,” is the world’s biggest
+  agricultural robot, the project’s researchers say. Resembling an oversize
+  scaffold with a box perched in its middle, it lumbers daily over 2 acres of
+  crops including sorghum, lettuce and wheat, its cluster of electronic eyes
+  assessing their temperature, shape and hue, the angle of each leaf.⁠
+
+
+  The Scanalyzer beams this data—up to 10 terabytes a day, roughly equivalent to
+  about 2.6 million copies of Tolstoy’s “War and Peace”—to computers in Illinois
+  and Missouri. Analyzing the range and depth of data generated is possible only
+  with machine-learning algorithms, according to data scientists at George
+  Washington University and St. Louis University, where researchers are teaching
+  the computers to identify connections between specific genes and plant traits
+  the Scanalyzer observes.⁠
+
+
+  Deep learning, a form of AI that uses conclusions from data to further refine
+  a system, can also help pinpoint how some varieties of a plant may subtly
+  differ from one another in ways that plant scientists may not anticipate,
+  researchers say.⁠
+
+
+  The effort—part of a five-year, roughly $26 million project funded by the U.S.
+  Department of Energy and the Bill and Melinda Gates Foundation—is aimed at
+  helping plant breeders identify characteristics and genetic markers pointing
+  to the most efficient and resilient crop varieties. Researchers are seeking to
+  develop crops that can produce biofuels, reducing reliance on fossil fuels. It
+  could also help identify food crops that can thrive in drier, hotter
+  conditions as climates change.
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
