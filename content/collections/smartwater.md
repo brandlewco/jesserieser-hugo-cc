@@ -10,11 +10,9 @@ collection_description: >-
   Commissioned by Anomaly NY, I was asked to photographically compliment Smart
   Water’s sleek and simple aesthetic. Partially influenced by [***The Changing
   Landscape of American
-  Retail***](https://jesserieser.com/projects/changing-landscape-american-retail/)and
-  [***Phoenix: A Dystopian Legoland That Tastes Like
-  Candy***](https://jesserieser.com/projects/phoenix) by the way I utilize stark
-  and minimal scenes to influence a subject’s actions and purpose, uniquely
-  framing the subject.
+  Retail***](https://jesserieser.com/projects/changing-landscape-american-retail/)&nbsp;
+  by the way I utilize stark and minimal scenes to influence a subject’s actions
+  and purpose, uniquely framing the subject.
 
 
   Featured is the 2018 NBA Rookie of the Year, 2019 & 2020 NBA All Star and 2020
@@ -140,9 +138,11 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-3.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: black
