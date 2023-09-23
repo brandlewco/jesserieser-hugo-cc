@@ -4,8 +4,8 @@ seo:
   meta_description: Placeholder Description
   meta_title: Sounds of Cement
 title: Sounds of Cement
-collection_meta:
-collection_meta_2:
+collection_meta: Crazy Explosive Primeknit
+collection_meta_2: PDN Photo Annual 2016
 collection_description: >-
   These works celebrate the beautiful dance-like aesthetic between two athletes
   competing in a racquetball match while confined by 4 concrete walls.
@@ -26,13 +26,6 @@ collection_blocks:
     margin_y: '100'
     vimeo_id: 155619696
     width: '66'
-  - _bookshop_name: collections/media-element
-    color: '#EDE4E0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/soc-1.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '200'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -164,12 +157,14 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-4.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2016**  
       **_PDN Photo Annual_**   
       Best Stock Photography
     template: array-placeholder
+collection_press: []
 collection_exhibition:
   - content: |-
       **2017**  
@@ -181,7 +176,6 @@ collection_exhibition:
       **_Sunday Afternoon Artist Exhibition_**  
       Inert Gallery. New York, NY (Group Show)
     template: array-placeholder
-collection_press: []
 collection_archive: true
 collection_hidden: false
 hide_footer: true
