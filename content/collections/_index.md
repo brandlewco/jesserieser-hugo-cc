@@ -56,6 +56,5 @@ collection_sorter:
   - collections/starting-over.md
   - collections/sounds-of-cement.md
   - collections/amtrak-the-national.md
-  - collections/time-mag-antivaxxers.md
   - collections/the-class-of-99-turns-30.md
 ---
