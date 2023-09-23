@@ -123,9 +123,11 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-10.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-11.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-8.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: black
