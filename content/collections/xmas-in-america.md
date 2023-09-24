@@ -18,41 +18,6 @@ collection_description: >-
   and *PDN Photo Annual* as one the year’s best. Featured by the *New York
   Times, Time Magazine, Wired, NPR, Buzzfeed, Fast Company, Esquire, The
   Guardian, Artsy,* and *Refinery 29.*
-collection_content: >-
-  Beyond the glowing green and red lights, past the shimmering silvery tinsel,
-  around the fragrant pine boughs, another Christmas lingers, a Christmas of
-  contradictions.
-
-
-  This is a Christmas where carved foam soldiers guard Santa in the parking lot
-  of a church just before a holiday parade. This is a Christmas where thousands
-  of Santas run in an annual fundraising race, a sea of red hats and performance
-  apparel. This is a Christmas where garages and homes are transformed into
-  elaborate, festive wonderlands. This is a Christmas where Christian families
-  reenact the birth of Christ, where Santa plays pool in a bar and where more is
-  more is more.
-
-
-  This Christmas is complex and at times, uncomfortable. It’s awkward and
-  sometimes bleak. But it is also sincere and celebratory, colorful and
-  creative.
-
-
-  This is the Christmas I have grown to love during my 7 year photographic
-  exploration of the biggest event on the American calendar. I grew up in a
-  secular home and at times felt like a Christmas outsider, never connected to
-  the holiday’s religious importance, or its more extreme cultural trappings.
-  But in these photos, I become a Christmas insider, working to discover and
-  reveal what holiday magic, or mania, compels so many to devote thousands of
-  hours to hanging lights, to carving and painting figurines, to building
-  miniature villages, to converting their homes, yards, garages and cars into
-  monuments to merriness.
-
-
-  Initially inspired by the absurdity of a four story inflatable Santa who
-  appeared to be guarding a tree lot, I have launched this survey of uniquely
-  American Christmas traditions. “Christmas in America” is an unvarnished
-  examination of the ways people mark the holiday’s meaning.
 collection_description_alignment: center
 slug: christmas-in-america
 collection_blocks:
@@ -72,7 +37,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F8F3F3'
+    color: '#f8f3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-2.jpg
     margin_left: '5'
     margin_right: '0'
@@ -706,6 +671,41 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-4.jpg
+collection_content: >-
+  Beyond the glowing green and red lights, past the shimmering silvery tinsel,
+  around the fragrant pine boughs, another Christmas lingers, a Christmas of
+  contradictions.
+
+
+  This is a Christmas where carved foam soldiers guard Santa in the parking lot
+  of a church just before a holiday parade. This is a Christmas where thousands
+  of Santas run in an annual fundraising race, a sea of red hats and performance
+  apparel. This is a Christmas where garages and homes are transformed into
+  elaborate, festive wonderlands. This is a Christmas where Christian families
+  reenact the birth of Christ, where Santa plays pool in a bar and where more is
+  more is more.
+
+
+  This Christmas is complex and at times, uncomfortable. It’s awkward and
+  sometimes bleak. But it is also sincere and celebratory, colorful and
+  creative.
+
+
+  This is the Christmas I have grown to love during my 7 year photographic
+  exploration of the biggest event on the American calendar. I grew up in a
+  secular home and at times felt like a Christmas outsider, never connected to
+  the holiday’s religious importance, or its more extreme cultural trappings.
+  But in these photos, I become a Christmas insider, working to discover and
+  reveal what holiday magic, or mania, compels so many to devote thousands of
+  hours to hanging lights, to carving and painting figurines, to building
+  miniature villages, to converting their homes, yards, garages and cars into
+  monuments to merriness.
+
+
+  Initially inspired by the absurdity of a four story inflatable Santa who
+  appeared to be guarding a tree lot, I have launched this survey of uniquely
+  American Christmas traditions. “Christmas in America” is an unvarnished
+  examination of the ways people mark the holiday’s meaning.
 collection_awards:
   - content: |-
       **2017**  
@@ -795,8 +795,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)
+  - content: '[_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)'
     icon:
     slug:
     template: array-placeholder
@@ -821,8 +820,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)
+  - content: '[_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)'
     icon:
     slug:
     template: array-placeholder
@@ -834,8 +832,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Esquire Russia_](http://esquire.ru/photo/xmas)
+  - content: '[_Esquire Russia_](http://esquire.ru/photo/xmas)'
     icon:
     slug:
     template: array-placeholder
@@ -866,8 +863,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)
+  - content: '[_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)'
     icon:
     slug:
     template: array-placeholder
@@ -996,8 +992,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Curbed_](http://curbed.com/tags/jesse-rieser)
+  - content: '[_Curbed_](http://curbed.com/tags/jesse-rieser)'
     icon:
     slug:
     template: array-placeholder
@@ -1014,8 +1009,7 @@ collection_press:
     slug:
     template: array-placeholder
     url:
-  - content: >-
-      [_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)
+  - content: '[_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)'
     icon:
     slug:
     template: array-placeholder
