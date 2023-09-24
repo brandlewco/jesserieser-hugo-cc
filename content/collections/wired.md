@@ -173,13 +173,6 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    caption:
-    color: '#A2A2A2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-15.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-13.jpg
