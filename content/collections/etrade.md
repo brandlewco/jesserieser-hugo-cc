@@ -5,7 +5,7 @@ seo:
   meta_title: E*Trade
 title: E*Trade
 collection_meta: Mullen Lowe Agency
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Image library showcasing E\*Trade’s mobile and desktop app for investing on
   the go, at home, and in the office.
@@ -15,7 +15,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E4BDA2'
+    color: '#e4bda2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-1.jpg
     margin_left: '30'
     margin_right: '0'
