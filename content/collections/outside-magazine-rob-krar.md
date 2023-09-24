@@ -5,7 +5,7 @@ seo:
   meta_title: Rob Krar Running In The Dark for Outside Magazine
 title: Outside Magazine
 collection_meta: Rob Krar Running In The Dark
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Rob Krar had to embrace incredible physical pain to win iconic ultramarathons
   like the Leadville Traill 100 and the Western States Endurance Run. But that’s
@@ -19,7 +19,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#CDDCEC'
+    color: '#cddcec'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-1.jpg
     margin_left: '15'
     margin_right: '0'

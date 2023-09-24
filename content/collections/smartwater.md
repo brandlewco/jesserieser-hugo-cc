@@ -25,7 +25,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#D1E3EB'
+    color: '#d1e3eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
     margin_left: '30'
     margin_right: '0'
