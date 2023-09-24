@@ -83,18 +83,11 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    caption:
-    color: '#8ABBB6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-8.jpg
-    margin_left: '25'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     caption:
-    color: '#F9F8F6'
+    color: '#f9f8f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-9.jpg
     margin_left: '0'
     margin_y: '100'
