@@ -18,7 +18,7 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#e1f3dd'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
+    image: /uploads/cam-young-1.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
