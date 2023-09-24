@@ -5,7 +5,7 @@ seo:
   meta_title: The Star Geezers
 title: Condor Airlines
 collection_meta: The Star Geezers
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   This is a story about “Sky Village,” an astronomy centric retirement community
   and their founders Jack and Alice Newton, also known as the “Star Geezers.”
@@ -15,22 +15,6 @@ collection_description: >-
 
 
   Featured on *Vice*, *Fish* *Eye Magazine* and *Booooooom.*
-collection_content: >-
-  This is a story about “Sky Village,” an astronomy centric retirement community
-  and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
-  Located in Arizona near the New Mexico and Mexico border, the remoteness
-  (closest grocery store is 3 hours away) is a gift as this is one of the
-  darkest places on the North American light pollution map. Couple this with the
-  clear air of the desert, this was how the Newtons selected and purchased
-  several hundred acres of land and divided them into 22 distinct lots.
-
-
-  Easily one of the most interesting places I have visited in recent memory. A
-  close-knit community bonded by their love of the celestial, the remoteness,
-  and the darkness….. so dark that on a new moon you can no longer see your
-  feet. So dark you never knew so many stars existed- appearing dizzying,
-  textural, and 3-dimensional. So dark as your eyes adjust, you can see your
-  shadow cast by the stars overhead.
 collection_description_alignment: center
 slug: star-geezers
 collection_blocks:
@@ -279,6 +263,22 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-3.jpg
+collection_content: >-
+  This is a story about “Sky Village,” an astronomy centric retirement community
+  and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
+  Located in Arizona near the New Mexico and Mexico border, the remoteness
+  (closest grocery store is 3 hours away) is a gift as this is one of the
+  darkest places on the North American light pollution map. Couple this with the
+  clear air of the desert, this was how the Newtons selected and purchased
+  several hundred acres of land and divided them into 22 distinct lots.
+
+
+  Easily one of the most interesting places I have visited in recent memory. A
+  close-knit community bonded by their love of the celestial, the remoteness,
+  and the darkness….. so dark that on a new moon you can no longer see your
+  feet. So dark you never knew so many stars existed- appearing dizzying,
+  textural, and 3-dimensional. So dark as your eyes adjust, you can see your
+  shadow cast by the stars overhead.
 collection_awards: []
 collection_press:
   - content: >-
@@ -291,7 +291,8 @@ collection_press:
       [**_Fish Eye
       Magazine_**](https://www.fisheyemagazine.fr/decouvertes/images/the-star-geezers-a-la-belle-etoile/)
     template: array-placeholder
-collection_archive: false
+collection_exhibition: []
+collection_archive: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white
