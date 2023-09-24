@@ -215,7 +215,7 @@ collection_exhibition:
       Etherton Gallery  
       Tucson, AZ (Group Show)
     template: array-placeholder
-collection_archive: false
+collection_archive: true
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
