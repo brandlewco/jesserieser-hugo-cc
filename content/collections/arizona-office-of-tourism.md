@@ -12,15 +12,6 @@ slug: aot
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#DCE3F3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-26.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -290,8 +281,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/aot_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/aot_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/aot_4x3-2.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true

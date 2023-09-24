@@ -20,7 +20,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: start
-    color: '#CCCCCC'
+    color: '#cccccc'
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
