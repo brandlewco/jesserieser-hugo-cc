@@ -18,7 +18,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FFD9B0'
+    color: '#ffd9b0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-1.jpg
     margin_left: '10'
     margin_right: '0'
@@ -220,6 +220,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2019**  

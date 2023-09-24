@@ -5,7 +5,7 @@ seo:
   meta_title: "Grand Canyon 100th Anniversary\_ for Time Magazine"
 title: Time Magazine
 collection_meta: "Grand Canyon 100th Anniversary\_"
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   *“As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
   Next Century.”* A nod to Teddy Roosevelt’s legacy of conservation, these works
@@ -16,20 +16,6 @@ collection_description: >-
   Showcased at the *Grand Canyon National Park 100* exhibition at Etherton
   Gallery, this work served as a contemporary counterpoint to the historical
   works of Ansel Adams, Lee Friedlander, William Bell, and Barry Goldwater.
-collection_content: >-
-  “_As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
-  Next Century_.” These new works pay homage to American Romanticism and
-  celebrate the west as I photograph head ranger Mathew Vandzura at Grandeur
-  Point on the South Rim as a nod to Teddy Roosevelt’s legacy of conservation.
-
-
-  Vandzura talks at length about modernizing an ancient natural wonder, the park
-  system’s responsibility to the public, the recent government shutdown, and
-  exploring every possible option before limiting visitation to the 6.4 million
-  annual park-goers.
-
-
-  Interview by Lily Rothman, assigned by Kim Bubello.
 collection_description_alignment: center
 slug: time-magazine-grand-canyon-100th-anniversary
 collection_blocks:
@@ -70,7 +56,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EEDDDD'
+    color: '#eedddd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
     margin_left: '25'
     margin_y: '100'
@@ -206,6 +192,22 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-3.jpg
+collection_content: >-
+  “*As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
+  Next Century*.” These new works pay homage to American Romanticism and
+  celebrate the west as I photograph head ranger Mathew Vandzura at Grandeur
+  Point on the South Rim as a nod to Teddy Roosevelt’s legacy of conservation.
+
+
+  Vandzura talks at length about modernizing an ancient natural wonder, the park
+  system’s responsibility to the public, the recent government shutdown, and
+  exploring every possible option before limiting visitation to the 6.4 million
+  annual park-goers.
+
+
+  Interview by Lily Rothman, assigned by Kim Bubello.
+collection_awards: []
+collection_press: []
 collection_exhibition:
   - content: |-
       **2019**  
@@ -213,8 +215,6 @@ collection_exhibition:
       Etherton Gallery  
       Tucson, AZ (Group Show)
     template: array-placeholder
-collection_awards: []
-collection_press: []
 collection_archive: false
 collection_hidden: false
 hide_footer: false

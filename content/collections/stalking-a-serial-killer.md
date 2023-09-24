@@ -5,7 +5,7 @@ seo:
   meta_title: Stalking A Serial Killer for Society Magazine
 title: Society Magazine
 collection_meta: Stalking A Serial Killer
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Published during the 2016 election for French magazine *Society’s* “America”
   issue. The photo essay depicts the Latino neighborhood plagued by “The Serial
@@ -24,7 +24,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: '#fafafa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
     margin_left: '5'
     margin_right: '0'
