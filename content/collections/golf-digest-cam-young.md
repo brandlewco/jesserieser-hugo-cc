@@ -139,8 +139,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/cam_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/cam_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/cam_4x3-1.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true

@@ -31,7 +31,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EDD7B2'
+    color: '#edd7b2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     margin_left: '30'
     margin_right: '0'
@@ -292,6 +292,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-4.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2019**  
@@ -310,6 +311,7 @@ collection_press:
     icon:
     template: array-placeholder
     url:
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
