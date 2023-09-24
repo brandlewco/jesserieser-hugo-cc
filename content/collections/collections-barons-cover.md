@@ -5,7 +5,7 @@ seo:
   meta_title: The Truck of the Future
 title: Barron's
 collection_meta: The Truck of the Future Cover Story
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   This recent cover for Barron’s I had [***Shane
   Griffin***](http://www.shanegriffin.nyc) lend a chromatic helping-hand to
@@ -20,7 +20,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#A994AB'
+    color: '#a994ab'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
     margin_left: '35'
     margin_right: '0'
