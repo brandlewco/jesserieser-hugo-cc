@@ -21,7 +21,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E1F3DD'
+    color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     margin_left: '40'
     margin_right: '0'
@@ -191,8 +191,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-5.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true

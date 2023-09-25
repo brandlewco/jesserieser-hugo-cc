@@ -5,7 +5,7 @@ seo:
   meta_title: Can Science Cure Death? For Popular Mechanics
 title: Popular Mechanics
 collection_meta: Can Science Cure Death? It Sure Looks Like It.
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Pictured is 72 year old James Strohle. Strohle is cofounder of People
   Unlimited, a community to inspire people to live infinite lifespans and to
@@ -14,27 +14,6 @@ collection_description: >-
 
   Selected by the 2022 American Photography Annual (AP 38) as one of the year’s
   best in editorial photography.
-collection_content: >-
-  Pictured is 72 year old James Strohle. Strohle is cofounder of People
-  Unlimited, a community to inspire people to live infinite lifespans, in 1995,
-  then added the nonprofit Coalition for Radical Life Extension (CRLE) in 2016.
-  A major goal of both organizations is to introduce the public to anti-aging
-  developments so that when innovations come, they can be integrated into
-  society as naturally as possible.⁠⁠  
-
-  ⁠⁠  
-
-  He’s bullish on senolytics, drugs that purge the body of deteriorating cells,
-  and exosome treatments, which infuse the body with little packages of
-  extracellular communication materials, usually from immortal stem cells.
-  Neither is approved by the U.S. Food and Drug Administration, but Strole says
-  he feels like a teenager, living and working in the retirement paradise of
-  Scottsdale, Arizona.⁠⁠
-
-
-  What happens if Strohle doesn’t make it? If his doctor says he’s got six
-  weeks? “First I’d do everything to turn that around, but I would look then at
-  staying alive on some level. I probably would look at Cryogenic freezing."⁠⁠
 collection_description_alignment: center
 slug: popular-mechanics-longevity
 collection_blocks:
@@ -43,7 +22,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#F3F0DD'
+    color: '#f3f0dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-1.jpg
     margin_left: '30'
     margin_right: '0'
@@ -54,7 +33,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#FF052A'
+    color: '#ff052a'
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-2.jpg
     margin_left: '10'
     margin_right: '0'
@@ -96,7 +75,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#F3DFF7'
+    color: '#f3dff7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
     margin_left: '25'
     margin_right: '0'
@@ -165,6 +144,23 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/popmech_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/popmech_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/popmech_4x3-3.jpg
+collection_content: >-
+  Pictured is 72 year old James Strohle. Strohle is cofounder of People
+  Unlimited, a community to inspire people to live infinite lifespans, in 1995,
+  then added the nonprofit Coalition for Radical Life Extension (CRLE) in 2016.
+  A major goal of both organizations is to introduce the public to anti-aging
+  developments so that when innovations come, they can be integrated into
+  society as naturally as possible.⁠⁠<br>⁠⁠<br>He’s bullish on senolytics, drugs
+  that purge the body of deteriorating cells, and exosome treatments, which
+  infuse the body with little packages of extracellular communication materials,
+  usually from immortal stem cells. Neither is approved by the U.S. Food and
+  Drug Administration, but Strole says he feels like a teenager, living and
+  working in the retirement paradise of Scottsdale, Arizona.⁠⁠
+
+
+  What happens if Strohle doesn’t make it? If his doctor says he’s got six
+  weeks? “First I’d do everything to turn that around, but I would look then at
+  staying alive on some level. I probably would look at Cryogenic freezing."⁠⁠
 collection_awards:
   - content: |-
       **2022**  
@@ -174,6 +170,7 @@ collection_awards:
     template: array-placeholder
     url:
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
