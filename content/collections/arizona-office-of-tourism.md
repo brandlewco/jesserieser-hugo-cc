@@ -15,7 +15,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     width: '66'
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: center
