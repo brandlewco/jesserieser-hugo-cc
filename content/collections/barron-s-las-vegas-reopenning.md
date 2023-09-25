@@ -192,39 +192,12 @@ collection_blocks:
     margin_right:
     margin_y: '100'
     width: '50'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E9E2F6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-18.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '200'
-    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F8E4D9'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-20.jpg
-    margin_left: '20'
-    margin_right:
-    margin_y: '100'
-    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#75588C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-21.jpg
-    margin_left: '30'
-    margin_right:
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -265,70 +238,16 @@ collection_blocks:
     text_size: 4xl
     text_tracking: normal
     width: '50'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F9F2F2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-1.jpg
-    margin_left: '5'
-    margin_right:
-    margin_y: '50'
-    width: '70'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EFEFE9'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-2.jpg
-    margin_left: '55'
-    margin_right:
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F2EEF1'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-3.jpg
-    margin_left: '15'
-    margin_right:
-    margin_y: '100'
-    width: '55'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EEFFEB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-4.jpg
-    margin_left: '5'
-    margin_right:
-    margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E5F4FD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-28.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '300'
-    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FCF4ED'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-conventioncenter-6.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-banners-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertical-covers-53.jpg
