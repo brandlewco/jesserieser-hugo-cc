@@ -5,7 +5,7 @@ seo:
   meta_title: 'Barron’s: Beyond the Drought'
 title: Barron's
 collection_meta: Beyond the Drought Cover Story
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   The scarcity of fresh water is rapidly emerging as a global economic threat
   that could disrupt businesses, crimp profits, and jeopardize growth.
@@ -94,26 +94,8 @@ collection_blocks:
     margin_right: '0'
     margin_y: '300'
     width: '40'
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#D5F4F6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-8.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
-    width: '15'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#F9D1BC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-9.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -273,15 +255,6 @@ collection_blocks:
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#D8E9BA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-25.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
