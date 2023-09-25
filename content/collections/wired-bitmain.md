@@ -116,7 +116,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F8D9B6'
+    color: '#f8d9b6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-13.jpg
     margin_left: '25'
     margin_right: '0'
