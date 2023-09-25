@@ -73,13 +73,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#D1C0DF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/barron-3.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/barrons_header-cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-43.jpg
