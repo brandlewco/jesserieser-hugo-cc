@@ -134,18 +134,6 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#5A2B21'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-17.jpg
-    margin_left: '10'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#D8875E'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-16.jpg
-    margin_right: '15'
-    margin_y: '100'
-    width: '30'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
