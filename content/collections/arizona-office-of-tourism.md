@@ -37,8 +37,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#C6E2D4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-27.jpg
+    color: '#c6e2d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-3.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
@@ -46,7 +46,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8D7E3'
+    color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-4.jpg
     margin_left: '0'
     margin_right: '15'
