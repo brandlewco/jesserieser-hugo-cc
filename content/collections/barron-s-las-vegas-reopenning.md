@@ -202,24 +202,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-text
-    align_y: start
-    background_color: ''
-    background_image_toggle: false
-    caption_css:
-    font_weight: normal
-    image:
-    image_css:
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    parallax: true
-    text: The New Las Vegas Convention Center
-    text_alignment:
-    text_color: ''
-    text_size: 4xl
-    text_tracking: normal
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
