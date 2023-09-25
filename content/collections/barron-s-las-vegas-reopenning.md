@@ -25,7 +25,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DDF3F3'
+    color: '#ddf3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-1.jpg
     margin_left: '20'
     margin_right:
@@ -151,7 +151,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#FFE0E1'
+    color: '#ffe0e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-diptech-1.jpg
     margin_left: '5'
     margin_right: '0'
@@ -370,8 +370,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/vegas_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/vegas_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/vegas_4x3-3.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true

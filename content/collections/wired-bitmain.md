@@ -14,52 +14,13 @@ collection_description: >-
   jobs. New industry would replace the old. Instead, Milam County and other
   communities have learned a real-life lesson about the elusive promise of
   virtual currency with only 20-30 new jobs created.
-collection_content: >-
-  This commission touches on something I think a lot about- how will “Main
-  Street” and the idyllic small towns of America’s yesterday survive tomorrow?
-  As the economy and workforce move to urban communities in record numbers, I’m
-  afraid in the not-so-distant future the US landscape will be littered with
-  ghost towns and abandoned communities, bringing a fabled American way of life
-  to near extinction.
-
-
-  These works are a portrait of a community on life support, the closed Alcoa
-  plant (the one-time financial lifeline), and the players working to bring the
-  world’s largest bitcoin mining facility to a community desperately needing
-  good news: Milam County Judge Steve Young, The Director of Rockdale Municipal
-  Development Kara Chlore, and Joan and Dan Ratliff, owners of the historic
-  Rainbow Courts Motel.
-
-
-  In 1952, **_The Saturday Evening Post_** christened Rockdale, Texas, “_The
-  Town Where It Rains Money_.” More recently, though, prosperity has eluded
-  Rockdale. The Alcoa smelter was shuttered in 2008, and an adjoining coal-fired
-  power plant closed last year. More than 1,000 jobs vanished, sending Rockdale
-  and surrounding Milam County, population 25,000, into a nosedive.
-
-
-  Then, last summer, a ray of hope pierced the gloom. Bitmain, a Chinese company
-  that makes specialized computers for “mining” crypto currency, said it would
-  invest $500 million in the closed Alcoa smelter, which, crucially, was still
-  connected to massive electrical lines. Most important for Milam County,
-  Bitmain promised to create between 400 and 600 jobs. New industry would
-  replace the old.
-
-
-  Instead, Milam County and other communities have learned a real-life lesson
-  about the elusive promise of virtual currency as the promised 400-600 jobs are
-  currently at 20-40.
-
-
-  [**_Article_**](https://www.wired.com/story/hard-luck-texas-town-bet-bitcoin-lost/)
-  written by Mark Dent and assigned by Samantha Cooper.
 collection_description_alignment: center
 slug: wired-magazine-2
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#A3C8AD'
+    color: '#a3c8ad'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
     margin_left: '35'
     margin_right: '0'
@@ -86,7 +47,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#7DDBC0'
+    color: '#7ddbc0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-4.jpg
     margin_left: '15'
     margin_right: '0'
@@ -334,8 +295,48 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/bitmain_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bitmain_covers-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bitmain_covers-5.jpg
+collection_content: >-
+  This commission touches on something I think a lot about- how will “Main
+  Street” and the idyllic small towns of America’s yesterday survive tomorrow?
+  As the economy and workforce move to urban communities in record numbers, I’m
+  afraid in the not-so-distant future the US landscape will be littered with
+  ghost towns and abandoned communities, bringing a fabled American way of life
+  to near extinction.
+
+
+  These works are a portrait of a community on life support, the closed Alcoa
+  plant (the one-time financial lifeline), and the players working to bring the
+  world’s largest bitcoin mining facility to a community desperately needing
+  good news: Milam County Judge Steve Young, The Director of Rockdale Municipal
+  Development Kara Chlore, and Joan and Dan Ratliff, owners of the historic
+  Rainbow Courts Motel.
+
+
+  In 1952, ***The Saturday Evening Post*** christened Rockdale, Texas, “*The
+  Town Where It Rains Money*.” More recently, though, prosperity has eluded
+  Rockdale. The Alcoa smelter was shuttered in 2008, and an adjoining coal-fired
+  power plant closed last year. More than 1,000 jobs vanished, sending Rockdale
+  and surrounding Milam County, population 25,000, into a nosedive.
+
+
+  Then, last summer, a ray of hope pierced the gloom. Bitmain, a Chinese company
+  that makes specialized computers for “mining” crypto currency, said it would
+  invest $500 million in the closed Alcoa smelter, which, crucially, was still
+  connected to massive electrical lines. Most important for Milam County,
+  Bitmain promised to create between 400 and 600 jobs. New industry would
+  replace the old.
+
+
+  Instead, Milam County and other communities have learned a real-life lesson
+  about the elusive promise of virtual currency as the promised 400-600 jobs are
+  currently at 20-40.
+
+
+  [***Article***](https://www.wired.com/story/hard-luck-texas-town-bet-bitcoin-lost/)
+  written by Mark Dent and assigned by Samantha Cooper.
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true

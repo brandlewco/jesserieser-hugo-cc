@@ -5,7 +5,7 @@ seo:
   meta_title: Placeholder Title
 title: ESPN
 collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   “Disemboweled by an ATV, head butted by a horse: The painful stories behind
   Donald Cerrone’s injuries."
@@ -16,36 +16,13 @@ collection_description: >-
   Cowboy’s 18-month-old son Danger’s embrace with his father nicely bridges the
   gap between the landscape-like injuries and portraits, leaving the viewer with
   a sense of intimate masculinity.
-collection_content: >-
-  “Disemboweled by an ATV, head butted by a horse: The painful stories behind
-  Donald Cerrone’s injuries."
-
-
-  Ahead of UFC 246 welterweight bout at the T Mobile Arena in Las Vegas, I
-  headed out to Edgewood, NM to visit with Donald “Cowboy” Ceronne at his BMF
-  (Bad Mother Fucker) ranch + gym.  
-    
-  As he faced off against the sport’s most popular and recognizable personality
-  in Conor McGregor, Cerrone is a fighter’s fighter, holding the sports all time
-  record of wins, bouts, and fights finished. He appeared calm, gracious, funny,
-  and at peace with this stage of his career and the “biggest fight of his
-  life.”
-
-
-  Conceptually my goal was to create a portfolio of intimate portraits paired
-  with studies of Cowboy’s injuries- tightly framed and appearing larger than
-  life as abstractions of an anatomical landscape. It was an unexpected bonus
-  that his 18 month old son “Danger” wanted to be a part of the project. His
-  involvement and embrace with his father nicely bridges the gap between the
-  landscape-like injury studies and portraits, leaving the viewer with a sense
-  of intimate masculinity.
 collection_description_alignment: center
 slug: espn
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F1B784'
+    color: '#f1b784'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg
     margin_left: '35'
     margin_right: '0'
@@ -191,8 +168,33 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-4.jpg
+collection_content: >-
+  “Disemboweled by an ATV, head butted by a horse: The painful stories behind
+  Donald Cerrone’s injuries."
+
+
+  Ahead of UFC 246 welterweight bout at the T Mobile Arena in Las Vegas, I
+  headed out to Edgewood, NM to visit with Donald “Cowboy” Ceronne at his BMF
+  (Bad Mother Fucker) ranch + gym.
+
+
+  As he faced off against the sport’s most popular and recognizable personality
+  in Conor McGregor, Cerrone is a fighter’s fighter, holding the sports all time
+  record of wins, bouts, and fights finished. He appeared calm, gracious, funny,
+  and at peace with this stage of his career and the “biggest fight of his
+  life.”
+
+
+  Conceptually my goal was to create a portfolio of intimate portraits paired
+  with studies of Cowboy’s injuries- tightly framed and appearing larger than
+  life as abstractions of an anatomical landscape. It was an unexpected bonus
+  that his 18 month old son “Danger” wanted to be a part of the project. His
+  involvement and embrace with his father nicely bridges the gap between the
+  landscape-like injury studies and portraits, leaving the viewer with a sense
+  of intimate masculinity.
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
