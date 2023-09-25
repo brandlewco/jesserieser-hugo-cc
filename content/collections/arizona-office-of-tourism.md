@@ -90,8 +90,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DCEDF8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-25.jpg
+    color: '#dcedf8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-8.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
