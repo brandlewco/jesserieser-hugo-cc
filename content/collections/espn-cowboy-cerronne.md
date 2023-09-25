@@ -73,8 +73,6 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#e98a74'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
@@ -118,6 +116,17 @@ collection_blocks:
     margin_right: '15'
     margin_y: '300'
     width: '20'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#f4dfcc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#B2805B'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-15.jpg
@@ -125,15 +134,6 @@ collection_blocks:
     margin_right: '5'
     margin_y: '100'
     width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#F4DFCC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
