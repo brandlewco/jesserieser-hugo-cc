@@ -191,38 +191,20 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D7F9D5'
+    color: '#d7f9d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-15.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '55'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F6F4D2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '700'
-    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#CFF7F2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-17.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F0D0CF'
+    color: '#f0d0cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
     margin_left: '25'
     margin_right: '0'
@@ -244,24 +226,6 @@ collection_blocks:
     width: '80'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-text
-    align_y: start
-    background_color: ''
-    background_image_toggle: false
-    caption_css:
-    font_weight: normal
-    image:
-    image_css:
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '300'
-    parallax: true
-    text: Written By Michael Willbon
-    text_alignment: left
-    text_color: ''
-    text_size: 4xl
-    text_tracking: normal
-    width: '30'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-vert-2.jpg
