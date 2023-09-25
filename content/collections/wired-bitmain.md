@@ -230,44 +230,19 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FAEEDC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-27.jpg
-    margin_left: '35'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E7DEF3'
+    color: '#e7def3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-28.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '400'
     width: '50'
-  - _bookshop_name: collections/media-element
-    color: '#F1CDBA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-29.jpg
-    margin_right: '10'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#E79F85'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-30.jpg
-    margin_left: '30'
-    margin_y: '100'
-    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    caption: Deflation. Tempe, AZ. 2016
-    color: '#D9A663'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-31.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-27.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-11.jpg
