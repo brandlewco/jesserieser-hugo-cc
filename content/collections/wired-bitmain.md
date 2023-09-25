@@ -5,7 +5,7 @@ seo:
   meta_title: The Hard-Luck Texas Town That Bet on Bitcoin and Lost for Wired
 title: Wired Magazine
 collection_meta: The Hard-Luck Texas Town That Bet on Bitcoin and Lost
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   These works are a portrait of Rockdale, Texas a community on life support, the
   closed Alcoa plant (their one-time financial lifeline), and the players
@@ -232,13 +232,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#e7def3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-28.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '400'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -314,7 +307,7 @@ collection_press: []
 collection_exhibition: []
 collection_archive: false
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
