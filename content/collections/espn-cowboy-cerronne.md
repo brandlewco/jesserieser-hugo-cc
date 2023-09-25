@@ -73,32 +73,32 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#E98A74'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ECBE9C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-9.jpg
-    margin_left: '5'
+    color: '#e98a74'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
+    margin_left: '0'
+    margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '25'
+  - _bookshop_name: collections/media-element
+    color: '#ecbe9c'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-9.jpg
+    margin_left: '0'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-element
     color: '#866254'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg
     margin_left: '0'
-    margin_right: '25'
-    margin_y: '500'
-    width: '33'
+    margin_right: '0'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#42312D'
+    color: '#42312d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
     margin_left: '30'
     margin_y: '100'
@@ -125,6 +125,8 @@ collection_blocks:
     margin_right: '5'
     margin_y: '100'
     width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F4DFCC'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
@@ -132,8 +134,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
