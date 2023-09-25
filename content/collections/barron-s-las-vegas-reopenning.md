@@ -200,24 +200,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-text
-    align_y: start
-    background_color: ''
-    background_image_toggle: false
-    caption_css:
-    font_weight:
-    image:
-    image_css:
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
-    parallax: false
-    text: 'Part 2:'
-    text_alignment: left
-    text_color: '#000000'
-    text_size: 10xl
-    text_tracking: normal
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
