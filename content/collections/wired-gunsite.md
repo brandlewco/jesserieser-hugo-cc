@@ -23,7 +23,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DCE3F3'
+    color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-1.jpg
     margin_left: '20'
     margin_right: '0'
@@ -552,6 +552,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-4.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2022**  
@@ -561,6 +562,7 @@ collection_awards:
     template: array-placeholder
     url:
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
