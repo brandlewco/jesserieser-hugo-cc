@@ -5,7 +5,7 @@ seo:
   meta_title: E*Trade
 title: E*Trade
 collection_meta: Mullen Lowe Agency
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Image library showcasing E\*Trade’s mobile and desktop app for investing on
   the go, at home, and in the office.
@@ -96,7 +96,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E7DED9'
+    color: '#e7ded9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-11.jpg
     margin_left: '35'
     margin_right: '0'
@@ -105,14 +105,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F0C19F'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-13.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#D4E4F0'
+    color: '#d4e4f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-12.jpg
     margin_left: '0'
     margin_right: '10'
@@ -120,12 +113,6 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#C9BBCC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-14.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/etrade-12.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-18.jpg
