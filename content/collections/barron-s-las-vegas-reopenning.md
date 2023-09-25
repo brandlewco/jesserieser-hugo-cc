@@ -171,7 +171,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFEEDA'
+    color: '#ffeeda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-13.jpg
     margin_left: '50'
     margin_right:
