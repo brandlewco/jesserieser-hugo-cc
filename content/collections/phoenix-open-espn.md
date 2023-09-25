@@ -70,7 +70,7 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#DCEDF8'
+    color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-5.jpg
     margin_left: '45'
     margin_right: '0'
