@@ -191,79 +191,16 @@ collection_blocks:
     margin_right: '0'
     margin_y: '300'
     width: '55'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F9DECE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-18.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#D8F3D8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-21.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '20'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#CCE1F3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-20.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '200'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#D5D9F0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-19.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EDDAF0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-23.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FBC1A2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-22.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f6f1d0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-24.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
