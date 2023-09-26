@@ -223,35 +223,8 @@ collection_blocks:
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F9EDD5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-16.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F8E4D9'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-18.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '500'
-    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#75588C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-19.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -266,26 +239,8 @@ collection_blocks:
     show_controls: false
     vimeo_id: 737207172
     width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E5F4FD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-20.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FCF4ED'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-21.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '200'
-    width: '66'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-14.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-23.jpg
