@@ -90,7 +90,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFE5C9'
+    color: '#ffe5c9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
     margin_left: '0'
     margin_right: '5'
