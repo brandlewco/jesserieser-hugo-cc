@@ -5,7 +5,7 @@ seo:
   meta_title: 'Amtrak The National: On The Southwest Chief'
 title: Amtrak The National
 collection_meta: On The Southwest Chief
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   A project celebrating the romanticism of train travel and the light of the
   Southwest as a unifying ingredient—taking you from inside the train, out the
@@ -196,7 +196,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D5B1A6'
+    color: '#d5b1a6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-24.jpg
     margin_left: '45'
     margin_right:
@@ -234,12 +234,6 @@ collection_blocks:
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#E6F0F8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-29.jpg
-    margin_left: '35'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-14.jpg
