@@ -8,7 +8,9 @@ feature_description: >-
   issue will cleaned up and  resolved by Thursday Sept 28. 
 
 
-  In the meantime, see an updated selected works pdf here
+  In the meantime, see an updated selected works pdf download at the link
+  bellow:
+
 
   https://wetransfer.com/downloads/fb6bb9ed811feaed665f825229ad534320230926160819/c935ee075fb8d5c3654bbc1403d7cf5c20230926160836/a94dfd
 text_alignment: center
