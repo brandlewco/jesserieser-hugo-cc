@@ -1,13 +1,16 @@
 ---
 title: Jesse Rieser
 feature_description: >-
-  Here you will find handpicked photographic art works, client commissions, and
-  recent news. For a more expansive experience please head over to all works.
+  - Sept 26, 2023  -  
+
+  During a recent update and maintenance, our CMS server crashed causing
+  abnormalities in portfolio layouts including glitches and redundancies. The
+  issue will cleaned up and  resolved by Thursday Sept 28. 
 
 
-  If you are solely interested in the works produced in my personal photographic
-  art practice, please head over to [**_Jesse Rieser
-  Projects_**](https://jesserieserprojects.com/).
+  In the meantime, see an updated selected works pdf here
+
+  https://wetransfer.com/downloads/fb6bb9ed811feaed665f825229ad534320230926160819/c935ee075fb8d5c3654bbc1403d7cf5c20230926160836/a94dfd
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser

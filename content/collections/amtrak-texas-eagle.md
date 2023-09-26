@@ -15,17 +15,6 @@ collection_description: >-
 
   Named a finalist for the 2023 Communication Arts Photography Annual as one of
   the year’s best in editorial photography.
-collection_content: >-
-  These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
-  Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
-  Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
-  Ruidoso, and Carlsbad Caverns.
-
-
-  Forgotten and unpublished, I recently revisited these images. Sadly, the
-  National was a casualty of Covid and permanently closed their doors April,
-  2020 and the images never made it into print. I hope this serves a fitting and
-  surreal farewell to one of my favorite clients.
 collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:
@@ -34,7 +23,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: ''
     caption: ''
-    color: '#DCE3F3'
+    color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-1.jpg
     margin_left: '5'
     margin_right: ''
@@ -310,8 +299,20 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-2.jpg
+collection_content: >-
+  These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
+  Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
+  Chiricahuas, The Dragoons, Guadalupe National Park, Roswell, White Sands,
+  Ruidoso, and Carlsbad Caverns.
+
+
+  Forgotten and unpublished, I recently revisited these images. Sadly, the
+  National was a casualty of Covid and permanently closed their doors April,
+  2020 and the images never made it into print. I hope this serves a fitting and
+  surreal farewell to one of my favorite clients.
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
