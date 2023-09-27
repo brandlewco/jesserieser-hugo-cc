@@ -24,7 +24,7 @@
 		"enableGitInfo": false,
 		"gc": false,
 		"i18nWarnings": false,
-		"ignoreCache": false,
+		"ignoreCache": true,
 		"ignoreVendor": false,
 		"log": false,
 		"minify": false,
