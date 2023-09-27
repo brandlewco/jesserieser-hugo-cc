@@ -22,7 +22,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#a3c8ad'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     test_field: >-
