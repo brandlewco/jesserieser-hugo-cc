@@ -122,39 +122,12 @@ collection_blocks:
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#D2A872'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-14.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#EED4C4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-3.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#CFB699'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-15.jpg
-    margin_right: '25'
-    margin_y: '400'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#EFDEC3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-16.jpg
-    margin_left: '20'
-    margin_right: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-10.jpg
