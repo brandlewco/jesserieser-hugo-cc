@@ -24,6 +24,28 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: Collection Title
+    meta: Collection Meta
+    attached_collection: collections/outdoor-life.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
+    width: '40'
+    margin_y: '0'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#000000'
+    caption: test caption
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: center
+  - _bookshop_name: home/media-feature
     title:
     meta: 'Cameron Young Cover Story '
     attached_collection: collections/golf-digest-cam-young.md
@@ -996,6 +1018,28 @@ content_blocks:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
   - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/media-feature
+    title: Collection Title
+    meta: Collection Meta
+    attached_collection: collections/time-magazine-clone-test.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
+    width: '30'
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#000000'
+    caption: test caption
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: center
 collection_description: A student of subtleties.
 collection_content: ''
 navigation_theme: black
