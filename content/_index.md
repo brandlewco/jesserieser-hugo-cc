@@ -1,18 +1,9 @@
 ---
 title: Jesse Rieser
 feature_description: >-
-  - Sept 26, 2023  -  
 
-  During a recent update and maintenance, our CMS server crashed causing
-  abnormalities in portfolio layouts including glitches and redundancies. The
-  issue will cleaned up and  resolved by Thursday Sept 28. 
-
-
-  In the meantime, see an updated selected works pdf download at the link
-  bellow:
-
-
-  https://wetransfer.com/downloads/fb6bb9ed811feaed665f825229ad534320230926160819/c935ee075fb8d5c3654bbc1403d7cf5c20230926160836/a94dfd
+  Here you will find handpicked photographic art works, client commissions, and
+  recent news. For a more expansive experience please head over to all works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -24,51 +15,51 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Collection Title
-    meta: Collection Meta
+    title: 'Outside Life '
+    meta: A Son's First Solo Hunt
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
-    width: '40'
+    width: '55'
     margin_y: '0'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
-    color: '#000000'
+    color: '#c9fce6'
     caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
+    title_margin_y: '5'
+    title_margin_left: '-15'
     title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#000000'
+    text_size: 8xl
+    text_color: '#b2c995'
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: normal
-    meta_align: center
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Collection Title
-    meta: Collection Meta
+    title: 'Wired '
+    meta: 'A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
-    width: '30'
-    margin_y: '0'
-    margin_left: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
-    color: '#000000'
+    color: '#cd98d4'
     caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
+    title_margin_y: '15'
+    title_margin_left: '-30'
     title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#000000'
+    text_size: 8xl
+    text_color: '#91dac5'
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: normal
-    meta_align: center
+    font_weight: bold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -271,15 +262,15 @@ content_blocks:
     caption: Antoine’s Escalaras
     theme_color: '#fabdc2'
   - _bookshop_name: home/media-feature
-    width: '40'
+    width: '50'
     align_y: start
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
-    title_margin_y: '35'
-    title_margin_left: '0'
+    margin_right: '5'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 2xl
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -288,15 +279,15 @@ content_blocks:
     color: '#d4dee6'
     attached_collection: collections/espn-devin-booker-cover-story.md
     meta: 'Devin Booker: Becoming Legendary Cover Story'
-    title:
+    title: ESPN
     text_color:
-    font_weight:
+    font_weight: bold
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '60'
+    width: '40'
     align_y: start
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     title_margin_left: '5'
@@ -307,13 +298,13 @@ content_blocks:
     attached_collection: collections/retail.md
     meta: 2015 - 2022
     title: The Changing Landscape of American Retail
-    text_color: '#ffd38f'
+    text_color: '#75d8a0'
     text_size: 6xl
     text_alignment: left
     text_tracking: widest
-    font_weight: semibold
+    font_weight: bold
     line_height: tight
-    title_margin_y: '15'
+    title_margin_y: '5'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -617,27 +608,6 @@ content_blocks:
     meta: 2022
     attached_collection: collections/one-night-in-the-valley.md
     text_color: '#F4CF95'
-  - _bookshop_name: home/media-feature
-    width: '40'
-    align_y: start
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-5.jpg
-    title: Outside Magazine
-    color: '#F6E9CC'
-    attached_collection: collections/outside-magazine-rob-krar.md
-    meta: Rob Krar Running in the Dark
-    text_color: '#93EDBF'
-    text_size: 6xl
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    line_height: tight
-    title_margin_y: '15'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -698,7 +668,7 @@ content_blocks:
     margin_y: '200'
     margin_left: '15'
     margin_right: '0'
-    title_margin_y: '75'
+    title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
@@ -706,13 +676,13 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
-    title: National Geographic
-    meta: 50 Grades of Shade
-    attached_collection: collections/national-geographic.md
-    color: '#F5E9A3'
-    text_color: '#E0CAFB'
-    font_weight: semibold
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    title: 'Amtrak '
+    meta: 'On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    color: '#f5e9a3'
+    text_color: '#f6f2a3'
+    font_weight: bold
   - _bookshop_name: home/modal-blog
     attached_blog: posts/agents-club-22-awards-poetic-documentary.md
     text_size: 2xl
@@ -861,15 +831,15 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    title_margin_left: '-30'
+    title_margin_left: '-20'
     title_margin_right: '0'
     meta_align: right
-    title: Amtrak the National
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg
+    title: Arizona Tourism
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     color: '#a8f1e1'
-    meta: Palm Springs to Yuma on the Sunset Limited
-    attached_collection: collections/amtrak-sunset-limited.md
-    text_color: '#ff3939'
+    meta: 'Visit A New State of Mind '
+    attached_collection: collections/arizona-office-of-tourism.md
+    text_color: '#b5fb9f'
     text_size: 6xl
     text_alignment:
     text_tracking: normal
