@@ -33,7 +33,6 @@ collection_sorter:
   - collections/golf-digest-1.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
-  - collections/amtrak-sunset-limited.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/time.md
