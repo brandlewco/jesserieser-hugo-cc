@@ -108,26 +108,19 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#cce3fa'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-10.jpg
-    margin_left: '20'
-    margin_right: '0'
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 833488651
+    text: caption
+    color: '#ff0000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '40'
+    align_y: start
     margin_y: '100'
-    width: '55'
+    margin_left: '15'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#f1e3cf'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-12.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '300'
-    width: '50'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -137,6 +130,15 @@ collection_blocks:
     margin_right: '5'
     margin_y: '100'
     width: '33'
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#f1e3cf'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-12.jpg
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '300'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -152,17 +154,6 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 833488651
-    text: caption
-    color: '#ff0000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
