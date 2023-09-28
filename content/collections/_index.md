@@ -12,7 +12,6 @@ collection_sorter:
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
-  - collections/the-new-york-times.md
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
@@ -32,7 +31,6 @@ collection_sorter:
   - collections/armani-anniversary.md
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
-  - collections/wine-enthusiast.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-sunset-limited.md
