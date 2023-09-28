@@ -5,7 +5,8 @@ collection_description: >-
   photographer. A student of subtleties.
 title: Jesse Rieser - All Work Portfolio
 collection_sorter:
-  - collections/golf-digest-cam-young.md
+  - collections/outdoor-life.md
+  - collections/time-magazine-clone-test.md
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
@@ -26,6 +27,7 @@ collection_sorter:
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
   - collections/the-new-york-times-3.md
+  - collections/golf-digest-cam-young.md
   - collections/national-geographic.md
   - collections/smartwater.md
   - collections/armani-anniversary.md
@@ -54,5 +56,4 @@ collection_sorter:
   - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
-  - collections/time-magazine-clone-test.md
 ---
