@@ -16,6 +16,18 @@ slug: espn-booker
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    align_y: start
+    block_aspect_ratio:
+    caption:
+    color:
+    image:
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '100'
+    show_controls: false
+    vimeo_id: 515559208
+    width: '80'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -120,6 +132,18 @@ collection_blocks:
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    align_y: start
+    block_aspect_ratio:
+    caption:
+    color:
+    image:
+    margin_left: '20'
+    margin_right: '0'
+    margin_y: '100'
+    show_controls: false
+    vimeo_id: 515559092
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -138,7 +162,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
     margin_left: '15'
     margin_right: '0'
-    margin_y: '300'
+    margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -147,22 +171,14 @@ collection_blocks:
     caption:
     color: '#c2f4f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-    margin_left: '0'
+    margin_left: '25'
     margin_right: '10'
     margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio:
-    caption:
-    color:
-    image:
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    show_controls: false
-    vimeo_id: 515559092
-    width: '33'
+    width: '55'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -176,26 +192,10 @@ collection_blocks:
     caption:
     color: '#f0d0cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '45'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio:
-    caption:
-    color:
-    image:
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    show_controls: false
-    vimeo_id: 515559208
-    width: '80'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-vert-2.jpg
