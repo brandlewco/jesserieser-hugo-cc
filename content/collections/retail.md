@@ -267,10 +267,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#f0cdc4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-32.jpg
-    margin_left: '10'
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '40'
   - _bookshop_name: collections/media-element
     color: '#a9cffd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-33.jpg
@@ -299,8 +299,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#fbe6df'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-36.jpg
-    margin_left: '5'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     margin_y: '300'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -308,7 +308,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#fce6c8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-37.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
