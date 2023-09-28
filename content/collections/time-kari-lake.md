@@ -145,8 +145,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-8.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-9.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/lake_header-5.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-2.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Studio
