@@ -5,7 +5,7 @@ seo:
   meta_title: Can Science Cure Death? For Popular Mechanics
 title: Popular Mechanics
 collection_meta: Can Science Cure Death? It Sure Looks Like It.
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Pictured is 72 year old James Strohle. Strohle is cofounder of People
   Unlimited, a community to inspire people to live infinite lifespans and to
@@ -23,7 +23,7 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#f3f0dd'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-1.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
@@ -34,7 +34,7 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#ff052a'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-2.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
@@ -44,39 +44,21 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#E3F4EB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-3.jpg
-    margin_left: '0'
+    color: '#fbebe1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-3.jpg
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#FBEBE1'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-4.jpg
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '400'
-    width: '40'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#E3F5FB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_repacemen-3.jpg
-    margin_left: '15'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#f3dff7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-4.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
@@ -84,8 +66,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#FE1A25'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/popmech_pairing-2.jpg
+    color: '#fe1a25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-5.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '100'
@@ -95,17 +77,17 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#E0F8D8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-9.jpg
+    color: '#e0f8d8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-6.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#F9EFD6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-8.jpg
+    color: '#f9efd6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-7.jpg
     margin_left: '0'
     margin_right: '15'
     margin_y: '400'
@@ -115,8 +97,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#FE012C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-10.jpg
+    color: '#fe012c'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-9.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
