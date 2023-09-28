@@ -33,7 +33,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#e1f9fb'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-2.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
@@ -43,7 +43,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBEBD6'
+    color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
     margin_left: '15'
     margin_right: '0'
@@ -83,8 +83,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F7F7D0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake-time-2.jpg
+    color: '#f7f7d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-7.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
@@ -140,37 +140,10 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '20'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FBEACD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-14.jpg
-    margin_left: '0'
-    margin_right: '25'
-    margin_y: '400'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E6F3FE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-13.jpg
-    margin_left: '50'
-    margin_right: '0'
-    margin_y: '200'
-    width: '15'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FDF9EA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-15.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '200'
-    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-8.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-9.jpg
