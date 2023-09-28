@@ -1,9 +1,11 @@
 ---
 title: Jesse Rieser
 feature_description: >-
-
   Here you will find handpicked photographic art works, client commissions, and
-  recent news. For a more expansive experience please head over to all works.
+  recent news.
+
+
+  For a more expansive experience please head over to all works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -550,26 +552,25 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     width: '45'
-    align_x: end
+    align_y: start
     margin_y: '300'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
-    attached_collection: collections/star-geezers.md
-    title: The Star Geezers
-    color: '#9bbad5'
-    meta: "Condor\_Airlines (Germany)"
-    align_y:
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
-    title_margin_left: '70'
+    title_margin_y: '10'
+    title_margin_left: '5'
     title_margin_right: '0'
-    meta_align: left
-    text_color: '#F38EFF'
     text_size: 6xl
+    line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
-    line_height: none
-    title_margin_y: '15'
+    meta_align: left
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    title: 'Amtrak '
+    meta: 'On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    color: '#f5e9a3'
+    text_color: '#f6f2a3'
+    font_weight: bold
   - _bookshop_name: home/modal-blog
     attached_blog: posts/the-photo-banter.md
     text_size: 4xl
@@ -663,25 +664,26 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     width: '55'
-    align_y: start
+    align_x: end
     margin_y: '200'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
+    attached_collection: collections/star-geezers.md
+    title: The Star Geezers
+    color: '#9bbad5'
+    meta: "Condor\_Airlines (Germany)"
+    align_y:
     margin_left: '15'
     margin_right: '0'
-    title_margin_y: '10'
-    title_margin_left: '5'
+    title_margin_left: '70'
     title_margin_right: '0'
+    meta_align: left
+    text_color: '#f38eff'
     text_size: 6xl
-    line_height: normal
     text_alignment: left
     text_tracking: normal
-    meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    title: 'Amtrak '
-    meta: 'On the Southwest Chief '
-    attached_collection: collections/amtrak-southwest-chief.md
-    color: '#f5e9a3'
-    text_color: '#f6f2a3'
-    font_weight: bold
+    font_weight: semibold
+    line_height: none
+    title_margin_y: '15'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/agents-club-22-awards-poetic-documentary.md
     text_size: 2xl
