@@ -20,6 +20,7 @@ collection_sorter:
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
+  - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
@@ -42,7 +43,6 @@ collection_sorter:
   - collections/wired.md
   - collections/collections-ice-t.md
   - collections/espn-cowboy-cerronne.md
-  - collections/time-kari-lake.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md
