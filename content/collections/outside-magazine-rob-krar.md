@@ -101,13 +101,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C4EDF3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-13.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '700'
-    width: '25'
-  - _bookshop_name: collections/media-element
     color: '#EEE0CC'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-11.jpg
     margin_right: '10'
@@ -116,8 +109,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D1DEC4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-14.jpg
+    color: '#d1dec4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-12.jpg
     margin_left: '15'
     margin_y: '100'
     width: '45'
