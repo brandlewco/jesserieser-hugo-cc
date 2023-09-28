@@ -552,7 +552,7 @@ content_blocks:
     width: '45'
     align_y: start
     margin_y: '300'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     title_margin_y: '10'
     title_margin_left: '5'
