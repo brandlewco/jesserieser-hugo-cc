@@ -922,21 +922,21 @@ content_blocks:
     align_y: start
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
-    title_margin_y: '20'
-    title_margin_left: '5'
+    margin_right: '5'
+    title_margin_y: '60'
+    title_margin_left: '-55'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    title: The New York Times
-    meta: America is Reopening. This is What it Looks Like
-    attached_collection: collections/the-new-york-times-1.md
+    title: Autobiography of a Contact Sport
+    meta:
+    attached_collection: collections/autobiography.md
     color: '#fdd3d3'
-    text_color: '#81ff6e'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-4.jpg
+    text_color: '#e0e39b'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto-blog-19.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
