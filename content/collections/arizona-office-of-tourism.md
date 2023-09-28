@@ -5,7 +5,7 @@ seo:
   meta_title: Arizona Office of Tourism
 title: Arizona Office of Tourism
 collection_meta: Visit A New State of Mind
-collection_meta_2: Off Madison Avenute
+collection_meta_2: Off Madison Avenue
 collection_description: ''
 collection_description_alignment: center
 slug: aot
