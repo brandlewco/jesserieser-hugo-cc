@@ -5,14 +5,14 @@ collection_description: >-
   photographer. A student of subtleties.
 title: Jesse Rieser - All Work Portfolio
 collection_sorter:
-  - collections/golf-digest-cam-young.md
+  - collections/outdoor-life.md
+  - collections/time-magazine-clone-test.md
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
-  - collections/the-new-york-times.md
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
@@ -20,6 +20,7 @@ collection_sorter:
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
+  - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
@@ -27,15 +28,14 @@ collection_sorter:
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
   - collections/the-new-york-times-3.md
+  - collections/golf-digest-cam-young.md
   - collections/national-geographic.md
   - collections/smartwater.md
   - collections/armani-anniversary.md
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
-  - collections/wine-enthusiast.md
   - collections/wired-bitmain.md
   - collections/amtrak-texas-eagle.md
-  - collections/amtrak-sunset-limited.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/time.md
@@ -43,7 +43,6 @@ collection_sorter:
   - collections/wired.md
   - collections/collections-ice-t.md
   - collections/espn-cowboy-cerronne.md
-  - collections/time-kari-lake.md
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md

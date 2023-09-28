@@ -1,18 +1,9 @@
 ---
 title: Jesse Rieser
 feature_description: >-
-  - Sept 26, 2023  -  
 
-  During a recent update and maintenance, our CMS server crashed causing
-  abnormalities in portfolio layouts including glitches and redundancies. The
-  issue will cleaned up and  resolved by Thursday Sept 28. 
-
-
-  In the meantime, see an updated selected works pdf download at the link
-  bellow:
-
-
-  https://wetransfer.com/downloads/fb6bb9ed811feaed665f825229ad534320230926160819/c935ee075fb8d5c3654bbc1403d7cf5c20230926160836/a94dfd
+  Here you will find handpicked photographic art works, client commissions, and
+  recent news. For a more expansive experience please head over to all works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -24,25 +15,50 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Cameron Young Cover Story '
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
-    width: '33'
-    margin_y: '50'
-    margin_left: '50'
+    title: 'Outside Life '
+    meta: A Son's First Solo Hunt
+    attached_collection: collections/outdoor-life.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
+    width: '55'
+    margin_y: '0'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
-    color: '#c7e7f5'
+    color: '#c9fce6'
     caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
+    title_margin_y: '5'
+    title_margin_left: '-15'
     title_margin_right: '0'
-    text_color: '#000000'
+    text_size: 8xl
+    text_color: '#b2c995'
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: normal
+    font_weight: bold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Wired '
+    meta: 'A Wrinkle In Time '
+    attached_collection: collections/time-magazine-clone-test.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: center
+    color: '#cd98d4'
+    caption: test caption
+    title_margin_y: '15'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 8xl
+    text_color: '#91dac5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -150,7 +166,7 @@ content_blocks:
     attached_collection: collections/time-kari-lake.md
     text_color: '#a6cdec'
     font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -246,70 +262,49 @@ content_blocks:
     caption: Antoine’s Escalaras
     theme_color: '#fabdc2'
   - _bookshop_name: home/media-feature
-    width: '40'
+    width: '50'
     align_y: start
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
-    title_margin_y: '35'
-    title_margin_left: '0'
+    margin_right: '5'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 2xl
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    color: '#D4DEE6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+    color: '#d4dee6'
     attached_collection: collections/espn-devin-booker-cover-story.md
     meta: 'Devin Booker: Becoming Legendary Cover Story'
-    title:
+    title: ESPN
     text_color:
-    font_weight:
+    font_weight: bold
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '60'
+    width: '40'
     align_y: start
-    margin_y: '400'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     title_margin_left: '5'
     title_margin_right: '0'
     meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg
-    color: '#F2ECDF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
+    color: '#f2ecdf'
     attached_collection: collections/retail.md
     meta: 2015 - 2022
     title: The Changing Landscape of American Retail
-    text_color: '#FFD38F'
+    text_color: '#75d8a0'
     text_size: 6xl
     text_alignment: left
     text_tracking: widest
-    font_weight: semibold
+    font_weight: bold
     line_height: tight
-    title_margin_y: '15'
-  - _bookshop_name: home/media-feature
-    width: '25'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
     title_margin_y: '10'
-    title_margin_left: '-55'
-    title_margin_right: '0'
-    text_size: 6xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
-    color: '#f8cfbf'
-    title: The New York Times
-    meta: Auctioning Off A Dead Mall
-    attached_collection: collections/the-new-york-times.md
-    text_color: '#bcf9bf'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -365,12 +360,12 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-17.jpg
-    color: '#D0E5EF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
+    color: '#d0e5ef'
     title: A Vanishing Folklore
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore.md
-    text_color: '#FF3939'
+    text_color: '#ff3939'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/klompching-gallery-fresh.md
     text_size: base
@@ -483,12 +478,12 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-27.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
     attached_collection: collections/wired-gunsite.md
-    color: '#D9F4C3'
+    color: '#d9f4c3'
     title: Wired
     meta: I Am Not a Soldier but I Have Been Trained to Kill
-    text_color: '#FFB8FE'
+    text_color: '#ffb8fe'
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -496,7 +491,7 @@ content_blocks:
     title: 'People '
     meta: 'Uvalde Mass Shooting: One Year Later'
     attached_collection: collections/people.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
     width: '33'
     margin_y: '100'
     margin_left: '15'
@@ -612,27 +607,6 @@ content_blocks:
     meta: 2022
     attached_collection: collections/one-night-in-the-valley.md
     text_color: '#F4CF95'
-  - _bookshop_name: home/media-feature
-    width: '40'
-    align_y: start
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-5.jpg
-    title: Outside Magazine
-    color: '#F6E9CC'
-    attached_collection: collections/outside-magazine-rob-krar.md
-    meta: Rob Krar Running in the Dark
-    text_color: '#93EDBF'
-    text_size: 6xl
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    line_height: tight
-    title_margin_y: '15'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -693,7 +667,7 @@ content_blocks:
     margin_y: '200'
     margin_left: '15'
     margin_right: '0'
-    title_margin_y: '75'
+    title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
@@ -701,13 +675,13 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
-    title: National Geographic
-    meta: 50 Grades of Shade
-    attached_collection: collections/national-geographic.md
-    color: '#F5E9A3'
-    text_color: '#E0CAFB'
-    font_weight: semibold
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    title: 'Amtrak '
+    meta: 'On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    color: '#f5e9a3'
+    text_color: '#f6f2a3'
+    font_weight: bold
   - _bookshop_name: home/modal-blog
     attached_blog: posts/agents-club-22-awards-poetic-documentary.md
     text_size: 2xl
@@ -843,11 +817,11 @@ content_blocks:
     margin_left: '0'
     margin_right: '10'
     title: 2022 SPD Awards
-    color: '#D2B9ED'
+    color: '#d2b9ed'
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
     caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
-    theme_color: '#FFDAA3'
+    theme_color: '#ffdaa3'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -856,15 +830,15 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    title_margin_left: '-30'
+    title_margin_left: '-20'
     title_margin_right: '0'
     meta_align: right
-    title: Amtrak the National
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-6.jpg
+    title: Arizona Tourism
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     color: '#a8f1e1'
-    meta: Palm Springs to Yuma on the Sunset Limited
-    attached_collection: collections/amtrak-sunset-limited.md
-    text_color: '#ff3939'
+    meta: 'Visit A New State of Mind '
+    attached_collection: collections/arizona-office-of-tourism.md
+    text_color: '#b5fb9f'
     text_size: 6xl
     text_alignment:
     text_tracking: normal
@@ -897,12 +871,12 @@ content_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
     title: Wired
-    color: '#FFE087'
+    color: '#ffe087'
     meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
     attached_collection: collections/wired-bitmain.md
-    text_color: '#F8F1BC'
+    text_color: '#f8f1bc'
     text_size: 6xl
     text_alignment: left
     text_tracking: normal
@@ -947,21 +921,21 @@ content_blocks:
     align_y: start
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
-    title_margin_y: '20'
-    title_margin_left: '5'
+    margin_right: '5'
+    title_margin_y: '60'
+    title_margin_left: '-55'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    title: The New York Times
-    meta: America is Reopening. This is What it Looks Like
-    attached_collection: collections/the-new-york-times-1.md
+    title: Autobiography of a Contact Sport
+    meta:
+    attached_collection: collections/autobiography.md
     color: '#fdd3d3'
-    text_color: '#81ff6e'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
+    text_color: '#e0e39b'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto-blog-19.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -996,6 +970,8 @@ content_blocks:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
   - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/media-row
+    row_alignment: between
 collection_description: A student of subtleties.
 collection_content: ''
 navigation_theme: black

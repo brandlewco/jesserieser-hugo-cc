@@ -101,13 +101,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C4EDF3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-13.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '700'
-    width: '25'
-  - _bookshop_name: collections/media-element
     color: '#EEE0CC'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-11.jpg
     margin_right: '10'
@@ -116,56 +109,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D1DEC4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-14.jpg
+    color: '#d1dec4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-12.jpg
     margin_left: '15'
     margin_y: '100'
     width: '45'
-  - _bookshop_name: collections/media-element
-    color: '#EFC69C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-15.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '500'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#C1EDF0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-17.jpg
-    margin_left: '5'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#FA855E'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-16.jpg
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '500'
-    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FAB0A9'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-18.jpg
-    margin_left: '10'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-element
-    color: '#EAE1B0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-19.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '200'
-    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FAE79D'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-20.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-9.jpg

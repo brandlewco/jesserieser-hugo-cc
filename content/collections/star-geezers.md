@@ -70,13 +70,6 @@ collection_blocks:
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#F7F2EE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-7.jpg
-    margin_left: '45'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -292,7 +285,7 @@ collection_press:
       Magazine_**](https://www.fisheyemagazine.fr/decouvertes/images/the-star-geezers-a-la-belle-etoile/)
     template: array-placeholder
 collection_exhibition: []
-collection_archive: true
+collection_archive: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

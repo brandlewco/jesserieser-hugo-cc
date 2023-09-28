@@ -201,6 +201,15 @@ collection_blocks:
     show_controls: false
     vimeo_id: 737206960
     width: '40'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#EAEEF6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '400'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -212,15 +221,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EAEEF6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row

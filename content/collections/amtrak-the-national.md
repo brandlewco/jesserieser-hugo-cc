@@ -5,7 +5,7 @@ seo:
   meta_title: 'Amtrak The National: Ted Turner Is On A Mission To Save Everything'
 title: Amtrak The National
 collection_meta: Ted Turner Is On A Mission To Save Everything
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Ted Turner has put his fortune and land to good use in his efforts to save
   numerous species from extinction. He recently launched "Ted Turner
@@ -17,13 +17,6 @@ slug: amtrak-the-national
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#c5d7d0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-1.jpg
-    margin_left: '20'
-    margin_right: ''
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -50,13 +43,6 @@ collection_blocks:
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#C6D6E0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-5.jpg
-    margin_left: '25'
-    margin_right: ''
-    margin_y: '100'
-    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

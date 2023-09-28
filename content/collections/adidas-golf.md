@@ -5,7 +5,7 @@ seo:
   meta_title: 'Adidas Golf: Adicross'
 title: 'Adidas Golf: Adicross'
 collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Adicross is a marriage of Adidas street wear and golf attire and in their
   words “Always On Because The Game Never Stops.” Due to the narrative quality
@@ -39,13 +39,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '300'
     width: '33'
-  - _bookshop_name: collections/media-element
-    color: '#4D4D4D'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-2.jpg
-    margin_left:
-    margin_right: '5'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -56,19 +49,6 @@ collection_blocks:
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#D7D7D7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-5.jpg
-    margin_left:
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#A7A7A7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-6.jpg
-    margin_right: '15'
-    margin_y: '300'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -80,13 +60,6 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#B5B5B5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-8.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -104,12 +77,6 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#565656'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-11.jpg
-    margin_left: '40'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -152,22 +119,8 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#C2C2C2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-17.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#efefeF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-19.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-element
     color: '#C4C4C4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-18.jpg
@@ -186,12 +139,6 @@ collection_blocks:
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#CDCDCD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-21.jpg
-    margin_left: '5'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-element
     color: '#B1B1B1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-22.jpg
@@ -266,20 +213,7 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#919191'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-31.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
   - _bookshop_name: collections/media-row-end
-collection_exhibition:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
-      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    template: array-placeholder
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adicross-12.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-8.jpg
 collection_filter: Commissioned + Stock
@@ -302,11 +236,19 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_Covers-4.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition:
+  - content: |-
+      **2019**  
+      AP 35: American Photography Annual 35  
+      Best Personal Work Series:  
+      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
+    template: array-placeholder
 collection_archive: false
 collection_hidden: false
-hide_footer: 
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment:

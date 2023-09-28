@@ -10,7 +10,7 @@ collection_description: >-
   Commissioned by Anomaly NY, I was asked to photographically compliment Smart
   Water’s sleek and simple aesthetic. Partially influenced by [***The Changing
   Landscape of American
-  Retail***](https://jesserieser.com/projects/changing-landscape-american-retail/)&nbsp;
+  Retail***](https://jesserieser.com/projects/changing-landscape-american-retail/)
   by the way I utilize stark and minimal scenes to influence a subject’s actions
   and purpose, uniquely framing the subject.
 
@@ -142,7 +142,7 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
-collection_archive: true
+collection_archive: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: black

@@ -213,16 +213,6 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#EDE5DE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-18.jpg
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -237,16 +227,6 @@ collection_blocks:
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#D8F3F3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-21.jpg
-    margin_left: '30'
-    margin_right: ''
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -265,7 +245,7 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EDDAF0'
+    color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-23.jpg
     margin_left: '35'
     margin_right: '10'
@@ -283,28 +263,8 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '40'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#D8E9BA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-25.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '400'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#DDEDF6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-26.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -351,16 +311,6 @@ collection_blocks:
     margin_right: ''
     margin_y: '400'
     width: '55'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#F0D5E7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-29.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -399,7 +349,7 @@ collection_category:
   - Environments
 date: 2023-04-12T16:05:37Z
 theme_color: '#f4e399'
-theme_color_all_works:
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
@@ -407,8 +357,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-2.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
