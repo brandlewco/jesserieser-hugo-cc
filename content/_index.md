@@ -972,8 +972,6 @@ content_blocks:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
   - _bookshop_name: home/media-row-end
-  - _bookshop_name: home/media-row
-    row_alignment: between
 collection_description: A student of subtleties.
 collection_content: ''
 navigation_theme: black
