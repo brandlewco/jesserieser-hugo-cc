@@ -288,7 +288,7 @@ content_blocks:
     width: '40'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '25'
     margin_right: '0'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -360,8 +360,7 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-    image: >-
-      https://d1sf55qlb7p6hz.cloudfront.net/rieser-folklore_cover-horizontal-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
     color: '#d0e5ef'
     title: A Vanishing Folklore
     meta: 2012 - 2022
