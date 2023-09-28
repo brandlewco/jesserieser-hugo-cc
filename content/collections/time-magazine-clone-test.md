@@ -3,16 +3,12 @@ _schema: default
 seo:
   meta_description: Portraits of Arizona Governor Candidate Kari Lake
   meta_title: Kari Lake for Time Magazine
-title: Time Magazine clone test
-collection_meta: How Kari Lake Went From Local Anchor
-collection_meta_2: to New Face of the Maga Right
+title: 'Wired '
+collection_meta: Pattie Moore
+collection_meta_2: 'A Wrinkle In Time '
 collection_description: >-
-  Lake has parlayed what may matter most in today’s Republican Party—the ability
-  to captivate an audience—into a startling political ascent.
-
-
-  Election results show her locked in a dead heat with Democrat Katie Hobbs in
-  the race to lead a key battleground state.
+  As a young industrial designer,&nbsp;*Patricia Moore*&nbsp;undertook a radical
+  experiment in aging. Her discoveries reshaped the built world.
 collection_description_alignment: center
 slug: time-lake
 collection_blocks:
@@ -22,7 +18,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#e1f3dd'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
@@ -33,7 +29,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#e1f9fb'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-2.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
@@ -44,7 +40,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#fbebd6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-3.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
@@ -52,8 +48,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#E4F6FE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-4.jpg
+    color: '#e4f6fe'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-4.jpg
     margin_left: '0'
     margin_right: '20'
     margin_y: '300'
@@ -63,8 +59,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFD9CF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-5.jpg
+    color: '#ffd9cf'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-5.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
@@ -72,8 +68,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DDF5DA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
+    color: '#ddf5da'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
     margin_left: '0'
     margin_right: '15'
     margin_y: '500'
@@ -84,7 +80,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#f7f7d0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-7.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
@@ -92,8 +88,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E0EFFF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
+    color: '#e0efff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-8.jpg
     margin_left: '0'
     margin_right: '20'
     margin_y: '300'
@@ -103,8 +99,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F0E7FF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
+    color: '#f0e7ff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-9.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
@@ -145,7 +141,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-8.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-lake_covers-9.jpg
 collection_filter: Commissioned + Stock
 collection_category:
