@@ -45,27 +45,30 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Cameron Young Cover Story '
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam_coverb-1.jpg
-    width: '33'
-    margin_y: '50'
-    margin_left: '50'
+    title: Collection Title
+    meta: Collection Meta
+    attached_collection: collections/time-magazine-clone-test.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
+    width: '30'
+    margin_y: '0'
+    margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#c7e7f5'
+    color: '#000000'
     caption: test caption
     title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
+    text_size: 4xl
     text_color: '#000000'
     line_height: normal
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: right
+    meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -172,7 +175,7 @@ content_blocks:
     attached_collection: collections/time-kari-lake.md
     text_color: '#a6cdec'
     font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -281,8 +284,8 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    color: '#D4DEE6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+    color: '#d4dee6'
     attached_collection: collections/espn-devin-booker-cover-story.md
     meta: 'Devin Booker: Becoming Legendary Cover Story'
     title:
@@ -299,39 +302,18 @@ content_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-cover-1.jpg
-    color: '#F2ECDF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
+    color: '#f2ecdf'
     attached_collection: collections/retail.md
     meta: 2015 - 2022
     title: The Changing Landscape of American Retail
-    text_color: '#FFD38F'
+    text_color: '#ffd38f'
     text_size: 6xl
     text_alignment: left
     text_tracking: widest
     font_weight: semibold
     line_height: tight
     title_margin_y: '15'
-  - _bookshop_name: home/media-feature
-    width: '25'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    title_margin_y: '10'
-    title_margin_left: '-55'
-    title_margin_right: '0'
-    text_size: 6xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-7.jpg
-    color: '#f8cfbf'
-    title: The New York Times
-    meta: Auctioning Off A Dead Mall
-    attached_collection: collections/the-new-york-times.md
-    text_color: '#bcf9bf'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -387,12 +369,13 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-17.jpg
-    color: '#D0E5EF'
+    image: >-
+      https://d1sf55qlb7p6hz.cloudfront.net/rieser-folklore_cover-horizontal-1.jpg
+    color: '#d0e5ef'
     title: A Vanishing Folklore
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore.md
-    text_color: '#FF3939'
+    text_color: '#ff3939'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/klompching-gallery-fresh.md
     text_size: base
@@ -505,12 +488,12 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-27.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
     attached_collection: collections/wired-gunsite.md
-    color: '#D9F4C3'
+    color: '#d9f4c3'
     title: Wired
     meta: I Am Not a Soldier but I Have Been Trained to Kill
-    text_color: '#FFB8FE'
+    text_color: '#ffb8fe'
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -518,7 +501,7 @@ content_blocks:
     title: 'People '
     meta: 'Uvalde Mass Shooting: One Year Later'
     attached_collection: collections/people.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
     width: '33'
     margin_y: '100'
     margin_left: '15'
@@ -865,11 +848,11 @@ content_blocks:
     margin_left: '0'
     margin_right: '10'
     title: 2022 SPD Awards
-    color: '#D2B9ED'
+    color: '#d2b9ed'
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
     caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
-    theme_color: '#FFDAA3'
+    theme_color: '#ffdaa3'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -919,12 +902,12 @@ content_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
     title: Wired
-    color: '#FFE087'
+    color: '#ffe087'
     meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
     attached_collection: collections/wired-bitmain.md
-    text_color: '#F8F1BC'
+    text_color: '#f8f1bc'
     text_size: 6xl
     text_alignment: left
     text_tracking: normal
@@ -983,7 +966,7 @@ content_blocks:
     attached_collection: collections/the-new-york-times-1.md
     color: '#fdd3d3'
     text_color: '#81ff6e'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-4.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -1018,28 +1001,8 @@ content_blocks:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
   - _bookshop_name: home/media-row-end
-  - _bookshop_name: home/media-feature
-    title: Collection Title
-    meta: Collection Meta
-    attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
-    width: '30'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#000000'
-    caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
 collection_description: A student of subtleties.
 collection_content: ''
 navigation_theme: black
