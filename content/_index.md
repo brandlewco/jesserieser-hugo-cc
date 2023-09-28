@@ -1,9 +1,11 @@
 ---
 title: Jesse Rieser
 feature_description: >-
-
   Here you will find handpicked photographic art works, client commissions, and
-  recent news. For a more expansive experience please head over to all works.
+  recent news.
+
+
+  For a more expansive experience please head over to all works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
