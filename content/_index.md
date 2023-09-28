@@ -304,7 +304,7 @@ content_blocks:
     text_tracking: widest
     font_weight: bold
     line_height: tight
-    title_margin_y: '5'
+    title_margin_y: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
