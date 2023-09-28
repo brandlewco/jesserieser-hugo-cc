@@ -90,11 +90,11 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FFDFC9'
+    color: '#ffdfc9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-10.jpg
     margin_left: '10'
-    margin_y: '600'
-    width: '33'
+    margin_y: '500'
+    width: '30'
   - _bookshop_name: collections/media-element
     color: '#E0F3EB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-9.jpg
