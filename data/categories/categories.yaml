@@ -24,6 +24,7 @@ categories:
   - Kids
   - Gun Culture
 collection_pager:
+  - collections/outside-dq.md
   - collections/golf-digest-cam-young.md
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
@@ -40,6 +41,7 @@ collection_pager:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/vox-100-battles-ghost-towns.md
+  - collections/time-magazine-clone-test.md
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
   - collections/star-geezers.md
