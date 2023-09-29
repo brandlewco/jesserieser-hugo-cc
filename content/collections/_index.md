@@ -25,6 +25,7 @@ collection_sorter:
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
   - collections/star-geezers.md
+  - collections/amtrak-southwest-chief.md
   - collections/amtrak-texas-eagle.md
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
@@ -46,7 +47,6 @@ collection_sorter:
   - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md
-  - collections/amtrak-southwest-chief.md
   - collections/the-new-york-times-2.md
   - collections/collections-barons-cover.md
   - collections/etrade.md
