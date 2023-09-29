@@ -13,7 +13,6 @@ collection_sorter:
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
-  - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
   - collections/gundemic.md
@@ -32,17 +31,18 @@ collection_sorter:
   - collections/the-new-york-times-3.md
   - collections/golf-digest-cam-young.md
   - collections/golf-digest-1.md
+  - collections/phoenix.md
   - collections/smartwater.md
-  - collections/armani-anniversary.md
   - collections/adidas-golf.md
+  - collections/autobiography.md
+  - collections/armani-anniversary.md
+  - collections/espn-cowboy-cerronne.md
+  - collections/popular-mechanics.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/time.md
-  - collections/autobiography.md
   - collections/wired.md
   - collections/collections-ice-t.md
-  - collections/espn-cowboy-cerronne.md
-  - collections/popular-mechanics.md
   - collections/collections-wall-street-journal-robot.md
   - collections/stalking-a-serial-killer.md
   - collections/the-new-york-times-2.md
