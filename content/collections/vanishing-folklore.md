@@ -5,9 +5,9 @@ seo:
     West Coast photographer Jesse Rieser's long term and surreal photographic
     project on America
   meta_title: 'A Vanishing Folklore '
-title: 'Souvenirs From Paradise:'
-collection_meta: A Vanishing Folklore
-collection_meta_2: 2012 - 2023
+title: 'Souvenirs From Paradise: A Vanishing Folklore'
+collection_meta: 2012 - 2023
+collection_meta_2:
 collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
