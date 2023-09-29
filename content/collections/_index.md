@@ -23,8 +23,8 @@ collection_sorter:
   - collections/smithsonian.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
-  - collections/amtrak-southwest-chief.md
   - collections/amtrak-texas-eagle.md
+  - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
   - collections/phoenix-open-espn.md
