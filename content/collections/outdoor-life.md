@@ -8,7 +8,7 @@ collection_meta: 'A Son''s First Solo Hunt, '
 collection_meta_2: and a Father's Lesson in Letting Him Go
 collection_description: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
-  usual hunting buddy behind
+  usual hunting buddy behind&nbsp;
 collection_description_alignment: center
 slug: outdoor-solo
 collection_blocks:
@@ -184,22 +184,21 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt_header-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-3-3.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Studio
   - Editorial
-  - Motion
   - Lifestyle
-  - Sports + Athletes
   - Portraits
+  -
+  - ''
 date: 2019-05-01T07:00:00Z
 theme_color: '#eac5bf'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-10.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-12.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
 collection_content: ''
 collection_awards:
   - content: |-
