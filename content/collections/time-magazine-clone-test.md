@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: Portraits of Arizona Governor Candidate Kari Lake
-  meta_title: Kari Lake for Time Magazine
+  meta_description: Portraits of designer Pattie Moore for Wired Magazine
+  meta_title: Pattie Moore for Wired Magazine
 title: Wired Magazine
 collection_meta: Pattie Moore
 collection_meta_2: 'A Wrinkle In Time '
