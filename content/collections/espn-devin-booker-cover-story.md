@@ -213,10 +213,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
 collection_content: ''
 collection_awards:
   - content: |-
