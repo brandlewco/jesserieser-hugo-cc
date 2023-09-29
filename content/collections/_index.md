@@ -25,6 +25,7 @@ collection_sorter:
   - collections/smithsonian.md
   - collections/one-night-in-the-valley.md
   - collections/star-geezers.md
+  - collections/amtrak-texas-eagle.md
   - collections/outside-magazine-rob-krar.md
   - collections/arizona-office-of-tourism.md
   - collections/the-new-york-times-3.md
@@ -35,7 +36,6 @@ collection_sorter:
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/wired-bitmain.md
-  - collections/amtrak-texas-eagle.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/time.md
