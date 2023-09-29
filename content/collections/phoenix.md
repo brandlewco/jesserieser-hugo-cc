@@ -172,10 +172,10 @@ theme_color_all_works: '#ff8f47'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-10.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-18.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
