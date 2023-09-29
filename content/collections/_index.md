@@ -42,18 +42,18 @@ collection_sorter:
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/etrade.md
-  - collections/wired.md
-  - collections/collections-ice-t.md
-  - collections/collections-wall-street-journal-robot.md
   - collections/time.md
   - collections/stalking-a-serial-killer.md
-  - collections/collections-barons-cover.md
+  - collections/wired.md
+  - collections/outside-magazine-rob-krar.md
   - collections/sounds-of-cement.md
+  - collections/collections-ice-t.md
+  - collections/collections-wall-street-journal-robot.md
+  - collections/collections-barons-cover.md
+  - collections/national-geographic.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
-  - collections/national-geographic.md
-  - collections/outside-magazine-rob-krar.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 ---
