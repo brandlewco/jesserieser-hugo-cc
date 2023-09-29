@@ -2,13 +2,13 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: Devin Booker for ESPN
+  meta_title: A Son's First Hunt for Outdoor Life
 title: Outdoor Life
 collection_meta: 'A Son''s First Solo Hunt, '
 collection_meta_2: and a Father's Lesson in Letting Him Go
 collection_description: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
-  usual hunting buddy behind&nbsp;
+  usual hunting buddy behind
 collection_description_alignment: center
 slug: outdoor-solo
 collection_blocks:
