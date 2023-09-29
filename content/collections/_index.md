@@ -16,27 +16,25 @@ collection_sorter:
   - collections/phoenix.md
   - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
-  - collections/phoenix-open-espn.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
-  - collections/one-night-in-the-valley.md
   - collections/star-geezers.md
+  - collections/one-night-in-the-valley.md
   - collections/amtrak-southwest-chief.md
   - collections/amtrak-texas-eagle.md
-  - collections/outside-magazine-rob-krar.md
+  - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
+  - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
   - collections/golf-digest-cam-young.md
-  - collections/national-geographic.md
+  - collections/golf-digest-1.md
   - collections/smartwater.md
   - collections/armani-anniversary.md
   - collections/adidas-golf.md
-  - collections/golf-digest-1.md
-  - collections/wired-bitmain.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/time.md
@@ -54,6 +52,8 @@ collection_sorter:
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
+  - collections/national-geographic.md
+  - collections/outside-magazine-rob-krar.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 ---
