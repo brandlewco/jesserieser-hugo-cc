@@ -48,7 +48,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EEF9C7'
+    color: '#eef9c7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     margin_left: '15'
     margin_right: '0'
@@ -260,10 +260,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-2.jpg
