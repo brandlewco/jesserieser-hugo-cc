@@ -608,12 +608,16 @@ footer a {
   max-height: 0;
   opacity: 0;
   will-change: max-height;
-  transition: max-height 0.33s ease-in-out, opacity 0.33s ease-in-out;
+  transition: all 0.33s ease-in-out;
   overflow: hidden;
+  padding-top: 0.5rem;
+  padding-bottom: 0px;
 }
 #categories.opened {
   max-height: 600px;
   opacity: 1;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 
 #catToggle::after {
