@@ -5,7 +5,7 @@ seo:
   meta_title: The Changing Landscape of American Retail 2015 - 2022
 title: The Changing Landscape of American Retail
 collection_meta: 2015 - 2022
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Like memories, familiar retail entities are fading away as they stand as
   modern-day ruins from the not-so-distant past. This work documents the shift
@@ -384,9 +384,9 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '66'
-  - _bookshop_name: collections/media-row-end
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-2.jpg
 collection_filter: Personal

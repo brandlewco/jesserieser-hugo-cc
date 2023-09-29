@@ -369,6 +369,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/nytimes_metro-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/metro_covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/metro_covers-1.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2019**  
