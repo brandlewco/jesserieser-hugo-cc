@@ -27,6 +27,7 @@ collection_sorter:
   - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
+  - collections/the-wall-street-journal.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
   - collections/golf-digest-cam-young.md
@@ -56,5 +57,4 @@ collection_sorter:
   - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
-  - collections/the-wall-street-journal.md
 ---
