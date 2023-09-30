@@ -210,27 +210,24 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-8.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertical-covers-58.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-9.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
   - Reportage
   - Travel
-  - Climate Change
   - Color
   - Environments
-  - Portraits
-  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#fdcdcd'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-18.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-4.jpg
 collection_content: ''
