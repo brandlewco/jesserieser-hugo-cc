@@ -59,8 +59,9 @@ collection_pager:
   - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/time.md
   - collections/etrade.md
+  - collections/amtrak-the-national.md
+  - collections/time.md
   - collections/stalking-a-serial-killer.md
   - collections/wired.md
   - collections/outside-magazine-rob-krar.md
@@ -70,7 +71,6 @@ collection_pager:
   - collections/collections-barons-cover.md
   - collections/national-geographic.md
   - collections/amtrak-southwest-chief.md
-  - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
   - collections/starting-over.md
