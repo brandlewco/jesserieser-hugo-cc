@@ -4,7 +4,7 @@ seo:
   meta_description: Placeholder Description
   meta_title: One Night In the Valley
 title: One Night In the Valley
-collection_meta:
+collection_meta: Crazy Explosive Primeknit
 collection_meta_2: ''
 collection_description: >-
   A collection of images from a scouting exercise for a collaborative project
@@ -103,8 +103,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-valley-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-valley-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-valley-4.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
