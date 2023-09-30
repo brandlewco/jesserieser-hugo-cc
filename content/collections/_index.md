@@ -27,7 +27,6 @@ collection_sorter:
   - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
-  - collections/the-wall-street-journal.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
   - collections/golf-digest-cam-young.md
@@ -42,6 +41,7 @@ collection_sorter:
   - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
+  - collections/the-wall-street-journal.md
   - collections/etrade.md
   - collections/time.md
   - collections/stalking-a-serial-killer.md
