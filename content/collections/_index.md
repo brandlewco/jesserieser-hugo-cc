@@ -13,8 +13,8 @@ collection_sorter:
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
-  - collections/vanishing-folklore.md
   - collections/xmas-in-america.md
+  - collections/vanishing-folklore.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
