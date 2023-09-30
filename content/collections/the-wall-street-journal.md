@@ -28,10 +28,10 @@ collection_blocks:
     caption:
     color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-1.jpg
-    margin_left: '25'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -39,10 +39,10 @@ collection_blocks:
     caption:
     color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-2.jpg
-    margin_left: '5'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -50,19 +50,19 @@ collection_blocks:
     caption:
     color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-3.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
-    margin_y: '400'
-    width: '60'
+    margin_y: '1000'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-4.jpg
-    margin_left: '15'
+    margin_left: '0'
     margin_right: '0'
-    margin_y: '400'
-    width: '33'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -78,17 +78,17 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-5.jpg
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_y: '200'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#d0f1f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-6.jpg
     margin_left: '0'
-    margin_right: '0'
-    margin_y: '400'
-    width: '55'
+    margin_right: '5'
+    margin_y: '200'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -96,10 +96,10 @@ collection_blocks:
     caption:
     color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-7.jpg
-    margin_left: '15'
+    margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '70'
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -107,19 +107,19 @@ collection_blocks:
     caption:
     color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-8.jpg
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
-    margin_y: '200'
-    width: '50'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#eadef4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-9.jpg
     margin_left: '0'
-    margin_right: '5'
-    margin_y: '800'
-    width: '30'
+    margin_right: '10'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -127,10 +127,10 @@ collection_blocks:
     caption:
     color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-10.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '200'
-    width: '60'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -138,10 +138,10 @@ collection_blocks:
     caption:
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-11.jpg
-    margin_left: '60'
+    margin_left: '65'
     margin_right: '0'
     margin_y: '200'
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -149,10 +149,10 @@ collection_blocks:
     caption:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-12.jpg
-    margin_left: '30'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -160,19 +160,19 @@ collection_blocks:
     caption:
     color: '#ede5de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-13.jpg
-    margin_left: '5'
+    margin_left: '30'
     margin_right: '0'
-    margin_y: '200'
-    width: '45'
+    margin_y: '1000'
+    width: '20'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#daf0d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-14.jpg
     margin_left: '0'
-    margin_right: '0'
-    margin_y: '200'
-    width: '45'
+    margin_right: '15'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -183,7 +183,7 @@ collection_blocks:
     margin_left: '40'
     margin_right: '0'
     margin_y: '200'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -191,10 +191,10 @@ collection_blocks:
     caption:
     color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-16.jpg
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -202,10 +202,10 @@ collection_blocks:
     caption:
     color: '#fbc1a2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-17.jpg
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
