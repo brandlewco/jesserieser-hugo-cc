@@ -24,98 +24,8 @@ collection_blocks:
     align_y:
     caption:
     color: '#ddf3f3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-1.jpg
     margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio: 4x3
-    caption:
-    color: ''
-    image:
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '700'
-    show_controls: false
-    vimeo_id: 737204973
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#eef9c7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FBE3E5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-3.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '700'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EADAF8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-4.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '200'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio: 4x3
-    caption:
-    color: ''
-    image:
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    show_controls: false
-    vimeo_id: 737205489
-    width: '45'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E3EFF4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-6.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F7E8DB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-7.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '1000'
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F7E0FF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-8.jpg
-    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '55'
@@ -125,9 +35,90 @@ collection_blocks:
     align_y: start
     block_aspect_ratio: 4x3
     caption:
-    color: ''
+    color:
     image:
+    margin_left: '45'
+    margin_right: '0'
+    margin_y: '100'
+    show_controls: false
+    vimeo_id: 737204973
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#fbe3e5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-2.jpg
     margin_left: '10'
+    margin_right: '0'
+    margin_y: '600'
+    width: '50'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eaeef6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-3.jpg
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eadaf8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-4.jpg
+    margin_left: '45'
+    margin_right: '0'
+    margin_y: '100'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-motion
+    align_y: start
+    block_aspect_ratio: 4x3
+    caption:
+    color:
+    image:
+    margin_left: '15'
+    margin_right: '0'
+    margin_y: '100'
+    show_controls: false
+    vimeo_id: 737205489
+    width: '40'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#e3eff4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-5.jpg
+    margin_left: '0'
+    margin_right: '15'
+    margin_y: '700'
+    width: '25'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f7e8db'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-6.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-motion
+    align_y: start
+    block_aspect_ratio: 4x3
+    caption:
+    color:
+    image:
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     show_controls: false
@@ -150,95 +141,95 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E7EEFF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
-    margin_left: '15'
+    color: '#f7e0ff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-7.jpg
+    margin_left: '30'
     margin_right: '0'
-    margin_y: '200'
-    width: '60'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8FDF1'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-10.jpg
-    margin_left: '0'
+    color: '#e7eeff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
+    margin_left: '5'
     margin_right: '0'
-    margin_y: '300'
-    width: '45'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FFEBE6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-11.jpg
-    margin_left: '0'
-    margin_right: '20'
     margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-motion
+    align_y: start
+    block_aspect_ratio: 4x3
+    caption:
+    color:
+    image:
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    show_controls: false
+    vimeo_id: 737206960
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFEEDA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-13.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    align_y: start
-    block_aspect_ratio: 4x3
-    caption:
-    color: ''
-    image:
+    color: '#ffebe6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-9.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    show_controls: false
-    vimeo_id: 737206960
-    width: '40'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EAEEF6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-15.jpg
+    color: '#d8fdf1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-10.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '400'
-    width: '55'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EAFDF1'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-14.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 4x3
     caption:
-    color: ''
+    color:
     image:
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737207172
-    width: '33'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#ffeeda'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-11.jpg
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '100'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eafdf1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-12.jpg
+    margin_left: '0'
+    margin_right: '20'
+    margin_y: '400'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
