@@ -35,12 +35,12 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F0F3D4'
+    color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-13.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -132,17 +132,17 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '400'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EDF1D0'
+    color: '#edf1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-11.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     margin_y: '100'
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -173,31 +173,9 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EFE5DD'
+    color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-15.jpg
     margin_left: '10'
-    margin_right: ''
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#C6E2D4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-16.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#D8D7E3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-17.jpg
-    margin_left: '30'
     margin_right: ''
     margin_y: '100'
     width: '33'
@@ -205,11 +183,33 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#CCE1F3'
+    color: '#c6e2d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-16.jpg
+    margin_left: '0'
+    margin_right: '15'
+    margin_y: '400'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#d8d7e3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-17.jpg
+    margin_left: '30'
+    margin_right: ''
+    margin_y: '100'
+    width: '25'
+  - _bookshop_name: collections/media-element
+    align_x: start
+    align_y: ''
+    caption: ''
+    color: '#cce1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomadsb-1.jpg
     margin_left: '0'
-    margin_right: ''
-    margin_y: '300'
+    margin_right: '5'
+    margin_y: '400'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -247,7 +247,7 @@ collection_blocks:
     caption: ''
     color: '#f6f1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-24.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '400'
     width: '30'
@@ -271,7 +271,7 @@ collection_blocks:
     caption: ''
     color: '#ffebda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-27.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '50'
@@ -281,12 +281,12 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EDE5DE'
+    color: '#ede5de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-28.jpg
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -298,7 +298,7 @@ collection_blocks:
     margin_left: '40'
     margin_right: ''
     margin_y: '100'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
