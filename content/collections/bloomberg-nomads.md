@@ -219,12 +219,12 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#DAF0D5'
+    color: '#daf0d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-19.jpg
-    margin_left: '10'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -233,9 +233,9 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#FBC1A2'
+    color: '#fbc1a2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-22.jpg
-    margin_left: '50'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -247,22 +247,22 @@ collection_blocks:
     caption: ''
     color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-23.jpg
-    margin_left: '35'
-    margin_right: '10'
+    margin_left: '40'
+    margin_right: '0'
     margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F6F1D0'
+    color: '#f6f1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-24.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
