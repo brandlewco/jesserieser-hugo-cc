@@ -4,20 +4,14 @@ seo:
   meta_description: Placeholder Description
   meta_title: WSJ The 4 Seasons
 title: The Wall Street Journal
-collection_meta: Inside the Day and the Life
-collection_meta_2: of a 4 Star Resort
+collection_meta: 'Four Seasons Resort Scottsdale at '
+collection_meta_2: at Troon North
 collection_description: >-
-  The scarcity of fresh water is rapidly emerging as a global economic threat
-  that could disrupt businesses, crimp profits, and jeopardize growth.
+  The Cheapest Four Seasons Is a Bargain—if You Can Stand the Heat.
 
 
-  This photographic essay features the receding waters of Lake Mead while
-  exploring how companies, regulators, and investors are starting to react.
-
-
-  Selected by the 2023 *American Photography Annual* (AP 39) and named a
-  finalist for the 2023 *Communication Arts Photography Annual* one of the
-  year’s best in editorial photography.
+  Travelers willing to put up with the intense Arizona summer pay one-third the
+  price of peak room rates.
 collection_description_alignment: left
 slug: wsj-4seasons
 collection_blocks:
