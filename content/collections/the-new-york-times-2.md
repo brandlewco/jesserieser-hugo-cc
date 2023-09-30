@@ -73,12 +73,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8E9FF'
+    color: '#d8e9ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-6.jpg
-    margin_left: '40'
+    margin_left: '60'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -165,15 +165,6 @@ collection_blocks:
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#DBEEFB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-15.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
