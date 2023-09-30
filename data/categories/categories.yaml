@@ -44,6 +44,7 @@ collection_pager:
   - collections/one-night-in-the-valley.md
   - collections/amtrak-texas-eagle.md
   - collections/wired-bitmain.md
+  - collections/amtrak-the-national.md
   - collections/arizona-office-of-tourism.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
@@ -73,7 +74,6 @@ collection_pager:
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
   - collections/starting-over.md
-  - collections/amtrak-the-national.md
   - collections/the-class-of-99-turns-30.md
 filter:
   - Personal
