@@ -7,7 +7,7 @@ seo:
   meta_title: 'A Vanishing Folklore '
 title: 'Souvenirs From Paradise: A Vanishing Folklore'
 collection_meta: 2012 - 2023
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
