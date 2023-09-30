@@ -109,7 +109,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-8.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '500'
+    margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
@@ -149,11 +149,11 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F1E3CF'
+    color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-12.jpg
     margin_left: '25'
     margin_right: ''
-    margin_y: '200'
+    margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
