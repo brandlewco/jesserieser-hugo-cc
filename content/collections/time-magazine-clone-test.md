@@ -61,18 +61,18 @@ collection_blocks:
     caption:
     color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-5.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
     margin_left: '0'
-    margin_right: '15'
-    margin_y: '500'
+    margin_right: '5'
+    margin_y: '400'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
