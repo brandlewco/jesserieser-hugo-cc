@@ -40,6 +40,7 @@ collection_pager:
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
+  - collections/amtrak-southwest-chief.md
   - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/amtrak-texas-eagle.md
@@ -74,7 +75,6 @@ collection_pager:
   - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
-  - collections/amtrak-southwest-chief.md
 filter:
   - Personal
   - Commissioned + Stock
