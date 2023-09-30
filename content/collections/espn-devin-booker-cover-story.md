@@ -3,8 +3,8 @@ _schema: default
 seo:
   meta_description: Placeholder Description
   meta_title: Devin Booker for ESPN
-title: 'ESPN: Becoming Legendary'
-collection_meta: Devin Booker Cover Story
+title: ESPN
+collection_meta: 'Devin Booker: Becoming Legendary'
 collection_meta_2: ''
 collection_description: >-
   *The Rise of Devin Booker: Kobe mentored him. Chris Paul challenged him. Now
