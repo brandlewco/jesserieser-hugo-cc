@@ -188,7 +188,7 @@ collection_category:
   - Reportage
   - Award Winning
 date: 2021-06-26T06:00:05Z
-theme_color: '#91f8c6'
+theme_color: '#85e1b5'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
