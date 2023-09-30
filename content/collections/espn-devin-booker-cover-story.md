@@ -171,10 +171,10 @@ collection_blocks:
     caption:
     color: '#c2f4f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-    margin_left: '35'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -192,10 +192,10 @@ collection_blocks:
     caption:
     color: '#f0d0cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    margin_left: '45'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-vert-2.jpg
