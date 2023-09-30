@@ -73,10 +73,10 @@ collection_blocks:
     caption: ''
     color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '200'
-    width: '66'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
