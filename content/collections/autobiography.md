@@ -4,7 +4,7 @@ seo:
   meta_description: Placeholder Description
   meta_title: Autobiography of a Contact Sport
 title: Autobiography of a Contact Sport
-collection_meta: '2015'
+collection_meta: '2016'
 collection_meta_2:
 collection_description: >-
   This personal project explores my nostalgia and love for the game that shaped
