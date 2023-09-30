@@ -64,7 +64,7 @@ collection_blocks:
     caption:
     color: '#f9d5d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '50'
@@ -75,7 +75,7 @@ collection_blocks:
     caption:
     color: '#d9e3f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
-    margin_left: '0'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '30'
@@ -85,51 +85,51 @@ collection_blocks:
     color: '#e6f3e6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '400'
-    width: '60'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#CFF1F3'
+    color: '#cff1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
-    margin_left: '0'
+    margin_left: '25'
     margin_right: '0'
-    margin_y: '50'
-    width: '50'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#ffe5c9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EBD1EF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '50'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#ebd1ef'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
+    margin_left: '45'
+    margin_right: '0'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#CEF8E1'
+    color: '#cef8e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -138,7 +138,7 @@ collection_blocks:
     caption:
     color:
     image:
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     show_controls: false
@@ -147,12 +147,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F9D4C0'
+    color: '#f9d4c0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    margin_left: '0'
+    margin_right: '20'
+    margin_y: '300'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -160,7 +160,7 @@ collection_blocks:
     caption:
     color: '#f4d4d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -171,10 +171,10 @@ collection_blocks:
     caption:
     color: '#c2f4f4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-    margin_left: '25'
-    margin_right: '10'
+    margin_left: '35'
+    margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -192,10 +192,10 @@ collection_blocks:
     caption:
     color: '#f0d0cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    margin_left: '15'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '40'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-vert-2.jpg
