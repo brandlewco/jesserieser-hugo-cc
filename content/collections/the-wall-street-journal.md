@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: 'Barron’s: Beyond the Drought'
+  meta_title: WSJ The 4 Seasons
 title: The Wall Street Journal
 collection_meta: Inside the Day and the Life of a 4 Star Resort
 collection_meta_2:
