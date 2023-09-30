@@ -17,29 +17,8 @@ collection_description: >-
   the 2014 People’s Climate March.
 
 
-  Winner of the 2015 *PDN Photography Annual* and *AP 30*\: *American
-  Photography 2015.*
-collection_content: >-
-  Recently the United States experienced its worst drought in more than 50
-  years. Roughly half the nation, most of the high plains, Midwest and South
-  were in extreme or exceptional drought, the two worst categories. These
-  photographs bear witness to how that drought devastated the Arkansas River
-  Basin.
-
-
-  “This is a study of how climate change is altering the landscape, the backdrop
-  to my childhood, my beloved Ozark Mountains,” Jesse said.
-
-
-  The drought caused leaves to turn color and drop in mid-July, shriveled corn
-  never to be harvested, and left cattle unable to find food, shade or relief
-  from hot, dusty winds.
-
-
-  This collection of seven images is poignant, the images simple and stark in
-  their quiet brutality. The photos are a prescient expression of the fear and
-  anger 400,000 people gave voice to in September 2014 during the People’s
-  Climate March in New York City, days before the United Nations climate summit.
+  Winner of the 2015 *PDN Photography Annual* and *AP 30*: *American Photography
+  2015.*
 collection_description_alignment: center
 slug: when-fall-came-early
 collection_blocks:
@@ -126,6 +105,27 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/fall-cover-4.jpg
+collection_content: >-
+  Recently the United States experienced its worst drought in more than 50
+  years. Roughly half the nation, most of the high plains, Midwest and South
+  were in extreme or exceptional drought, the two worst categories. These
+  photographs bear witness to how that drought devastated the Arkansas River
+  Basin.
+
+
+  “This is a study of how climate change is altering the landscape, the backdrop
+  to my childhood, my beloved Ozark Mountains,” Jesse said.
+
+
+  The drought caused leaves to turn color and drop in mid-July, shriveled corn
+  never to be harvested, and left cattle unable to find food, shade or relief
+  from hot, dusty winds.
+
+
+  This collection of seven images is poignant, the images simple and stark in
+  their quiet brutality. The photos are a prescient expression of the fear and
+  anger 400,000 people gave voice to in September 2014 during the People’s
+  Climate March in New York City, days before the United Nations climate summit.
 collection_awards:
   - content: |-
       **2015**  
@@ -144,6 +144,7 @@ collection_press:
     template: array-placeholder
   - content: '**_AARP Earth Day Feature_**'
     template: array-placeholder
+collection_exhibition: []
 collection_archive: true
 collection_hidden: false
 hide_footer: true
