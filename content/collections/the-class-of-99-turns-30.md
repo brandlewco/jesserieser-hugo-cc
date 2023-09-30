@@ -5,7 +5,7 @@ seo:
   meta_title: The Class of 99 Turns 30
 title: The Class of 99 Turns 30
 collection_meta: 2009 - 2010
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Captured while visiting my hometown for my 10-year high school reunion, this
   personal work investigates what has been gained or lost while entering
@@ -15,38 +15,6 @@ collection_description: >-
 
 
   Winner of the *American Photography Annual: AP 26.*
-collection_content: >-
-  In 2010, my high school classmates and I turned 30. As we entered adulthood we
-  had reason to be optimistic and confident. Our formative years were cocooned
-  in security, a youth spent in a time of economic growth and low unemployment.
-
-
-  This is what we were promised: “_You are being bequeathed the tools for
-  achieving a material existence that neither my generation or any that preceded
-  it could have even remotely imagined as we began our life’s work._” – Allan
-  Greenspan 1999 commencement speech.
-
-
-  But when I made these photographs, unemployment hovered at 9.6 percent.
-  Housing foreclosures were at an all-time high and personal bankruptcy filings
-  affected 1.7 million Americans. My generation is the first in 100 years
-  unlikely to be financially better off than its parents. It’s in this moment of
-  transition that I photographed my classmates in settings relevant to the lives
-  they are building.
-
-
-  The images show a community last assembled at graduation during America’s most
-  prosperous moment, regrouping in 2009-2010 during the toughest economic and
-  social circumstances since the Great Depression. These portraits examine what
-  had been gained or lost in the interim.
-
-
-  Some are recovering from job losses, drug and alcohol addiction and loss of
-  family. Others are building families, achieving in their early careers and
-  volunteering in their communities. They are gay and straight, veteran and
-  adult entertainer, married and divorced. Like all generations, we struggle to
-  define ourselves as parents, citizens, family members and spouses. We work to
-  create meaningful lives; we work to understand what “meaningful” looks like.
 collection_description_alignment: center
 slug: the-class-of-99-turns-30
 collection_blocks:
@@ -301,6 +269,38 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-4.jpg
+collection_content: >-
+  In 2010, my high school classmates and I turned 30. As we entered adulthood we
+  had reason to be optimistic and confident. Our formative years were cocooned
+  in security, a youth spent in a time of economic growth and low unemployment.
+
+
+  This is what we were promised: “*You are being bequeathed the tools for
+  achieving a material existence that neither my generation or any that preceded
+  it could have even remotely imagined as we began our life’s work.*” – Allan
+  Greenspan 1999 commencement speech.
+
+
+  But when I made these photographs, unemployment hovered at 9.6 percent.
+  Housing foreclosures were at an all-time high and personal bankruptcy filings
+  affected 1.7 million Americans. My generation is the first in 100 years
+  unlikely to be financially better off than its parents. It’s in this moment of
+  transition that I photographed my classmates in settings relevant to the lives
+  they are building.
+
+
+  The images show a community last assembled at graduation during America’s most
+  prosperous moment, regrouping in 2009-2010 during the toughest economic and
+  social circumstances since the Great Depression. These portraits examine what
+  had been gained or lost in the interim.
+
+
+  Some are recovering from job losses, drug and alcohol addiction and loss of
+  family. Others are building families, achieving in their early careers and
+  volunteering in their communities. They are gay and straight, veteran and
+  adult entertainer, married and divorced. Like all generations, we struggle to
+  define ourselves as parents, citizens, family members and spouses. We work to
+  create meaningful lives; we work to understand what “meaningful” looks like.
 collection_awards:
   - content: |-
       **2011**  
@@ -328,7 +328,7 @@ collection_exhibition:
     template: array-placeholder
 collection_archive: true
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
