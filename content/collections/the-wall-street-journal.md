@@ -44,7 +44,7 @@ collection_blocks:
     caption:
     color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-3.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '1000'
     width: '50'
@@ -56,7 +56,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -69,20 +69,20 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#cce3fa'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-5.jpg
-    margin_left: '10'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-18.jpg
+    margin_left: '0'
     margin_right: '0'
     margin_y: '200'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
     color: '#d0f1f0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-19.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '200'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -195,7 +195,7 @@ collection_blocks:
     align_y: 0
     caption:
     color: '#fbc1a2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-20.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '100'
