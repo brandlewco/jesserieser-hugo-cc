@@ -11,35 +11,6 @@ collection_description: >-
   we keep. In 2009, my parents Rob and Stephanie Rieser left Springfield,
   Missouri for suburban Phoenix, forced to find work in a new city when the
   economy in our hometown faltered.
-collection_content: >-
-  This is a story about transition. About the things we lose, and the memories
-  we keep.
-
-
-  In 2009, my parents, Rob and Stephanie Rieser, left Springfield, Missouri, for
-  suburban Phoenix, forced to find work in a new city when the economy in our
-  hometown faltered.
-
-
-  The photographs in this new series document their last days in the home in
-  which, for 23 years, they raised three sons, hosted countless family holidays,
-  planted gardens, decorated rooms, and built a life. I capture my Mom and Dad
-  packing to leave Missouri, striving to personalize their new home in Arizona,
-  and marking a family milestone under a new roof. Watching them fix up their
-  new house reminds me that they are a team, one with remarkable energy and
-  affection after 35 years of marriage. They are my relationship role models.
-
-
-  I loved our Springfield house not for its bricks and gardens, doors and
-  stairs, but for the home my parents made it. I saw it as a refuge, a familiar
-  constant for my brothers and myself. When my parents left that home to start
-  over in Arizona, I felt the final chapter in my childhood had come to an end.
-
-
-  While the photos in this series are intimate, they are universal in their
-  illustration of vulnerability and apprehension, optimism and love. They
-  represent the fragility of housing and employment, and the strength of family
-  and commitment.
 collection_description_alignment: center
 slug: starting-over
 collection_blocks:
@@ -224,6 +195,35 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/startingover_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/startingover_covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/startingover_covers-4.jpg
+collection_content: >-
+  This is a story about transition. About the things we lose, and the memories
+  we keep.
+
+
+  In 2009, my parents, Rob and Stephanie Rieser, left Springfield, Missouri, for
+  suburban Phoenix, forced to find work in a new city when the economy in our
+  hometown faltered.
+
+
+  The photographs in this new series document their last days in the home in
+  which, for 23 years, they raised three sons, hosted countless family holidays,
+  planted gardens, decorated rooms, and built a life. I capture my Mom and Dad
+  packing to leave Missouri, striving to personalize their new home in Arizona,
+  and marking a family milestone under a new roof. Watching them fix up their
+  new house reminds me that they are a team, one with remarkable energy and
+  affection after 35 years of marriage. They are my relationship role models.
+
+
+  I loved our Springfield house not for its bricks and gardens, doors and
+  stairs, but for the home my parents made it. I saw it as a refuge, a familiar
+  constant for my brothers and myself. When my parents left that home to start
+  over in Arizona, I felt the final chapter in my childhood had come to an end.
+
+
+  While the photos in this series are intimate, they are universal in their
+  illustration of vulnerability and apprehension, optimism and love. They
+  represent the fragility of housing and employment, and the strength of family
+  and commitment.
 collection_awards:
   - content: |-
       **2012**  
@@ -265,7 +265,7 @@ collection_exhibition:
     template: array-placeholder
 collection_archive: true
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
