@@ -5,7 +5,7 @@ seo:
   meta_title: The Wallow Fire
 title: The Wallow Fire
 collection_meta: '2012'
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   A personal project based on Arizona’s largest wildfire in history. This body
   of work explores the paradox of otherworldly beauty caused by a destructive
@@ -19,44 +19,6 @@ collection_description: >-
   *Photolucida’s Critical Mass.* Exhibited at Corden Potts Gallery San
   Francisco, Houston Center for Photography, and The Forty Eighth: Contemporary
   Photography at Arizona’s Centennial.
-collection_content: >-
-  In Eastern Arizona, near the border with New Mexico, is a land of dirt roads
-  stretching out to white-washed horizons. Here, ranches are carved out of the
-  scrub and pine-dotted landscapes and grazing cattle are the only living things
-  for miles.
-
-
-  The area’s beauty comes from its pervasive remoteness.
-
-
-  But from late May to early June in 2011, the land in and surrounding the Bear
-  Wallow Wilderness Area in the White Mountains was remade with a terrible,
-  devastating kind of beauty. One that turned the landscape lunar and the air
-  yellowed and hazy. A campfire sparked a conflagration that charred 841 miles
-  across Arizona and New Mexico, destroying 72 buildings, 32 of them homes.
-
-
-  As I traveled across the western United States in late May 2011, I saw the
-  Wallow Fire, as it was named, and I was mesmerized by the towering smoke
-  plumes and expanses of blackened earth. I stopped to stay, to photograph the
-  fire, its effects, and the international community of men and women assembled
-  to fight and eventually extinguish the blaze.
-
-
-  I was drawn by the way the Wallow Fire, reshaped the landscape and the
-  atmosphere, making it a surreal, deadly place where playgrounds stood empty,
-  where tree bark turned to ash scales, where grazing land was charred to
-  cinder, where the air swirled thick with smoke and heat. It quickly became the
-  largest fire in Arizona’s history, forcing everyone to evacuate.
-
-
-  Sadly, due to man made climate change, this was the first of many historic
-  fires that has severely impacted the land and residents of Colorado,
-  California, New Mexico, Texas, and again Arizona. This project is dedicated to
-  the families of the 19 fallen firefighters of the Granite Mountain Hotshot
-  Crew of Arizona who lost their lives in the Yarnell Hill Fire on June 30,
-  2013. The deadliest day for United States firefighters since September 11,
-  2001.
 collection_description_alignment: center
 slug: the-wallow-fire
 collection_blocks:
@@ -246,6 +208,44 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-4.jpg
+collection_content: >-
+  In Eastern Arizona, near the border with New Mexico, is a land of dirt roads
+  stretching out to white-washed horizons. Here, ranches are carved out of the
+  scrub and pine-dotted landscapes and grazing cattle are the only living things
+  for miles.
+
+
+  The area’s beauty comes from its pervasive remoteness.
+
+
+  But from late May to early June in 2011, the land in and surrounding the Bear
+  Wallow Wilderness Area in the White Mountains was remade with a terrible,
+  devastating kind of beauty. One that turned the landscape lunar and the air
+  yellowed and hazy. A campfire sparked a conflagration that charred 841 miles
+  across Arizona and New Mexico, destroying 72 buildings, 32 of them homes.
+
+
+  As I traveled across the western United States in late May 2011, I saw the
+  Wallow Fire, as it was named, and I was mesmerized by the towering smoke
+  plumes and expanses of blackened earth. I stopped to stay, to photograph the
+  fire, its effects, and the international community of men and women assembled
+  to fight and eventually extinguish the blaze.
+
+
+  I was drawn by the way the Wallow Fire, reshaped the landscape and the
+  atmosphere, making it a surreal, deadly place where playgrounds stood empty,
+  where tree bark turned to ash scales, where grazing land was charred to
+  cinder, where the air swirled thick with smoke and heat. It quickly became the
+  largest fire in Arizona’s history, forcing everyone to evacuate.
+
+
+  Sadly, due to man made climate change, this was the first of many historic
+  fires that has severely impacted the land and residents of Colorado,
+  California, New Mexico, Texas, and again Arizona. This project is dedicated to
+  the families of the 19 fallen firefighters of the Granite Mountain Hotshot
+  Crew of Arizona who lost their lives in the Yarnell Hill Fire on June 30,
+  2013. The deadliest day for United States firefighters since September 11,
+  2001.
 collection_awards:
   - content: |-
       **2013**  
@@ -262,8 +262,7 @@ collection_press:
       [**_Duncan Miller Gallery: Your Daily
       Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
     template: array-placeholder
-  - content: >-
-      [**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'
+  - content: '[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'''
     template: array-placeholder
 collection_exhibition:
   - content: |-
@@ -282,7 +281,7 @@ collection_exhibition:
     template: array-placeholder
 collection_archive: true
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
