@@ -2,10 +2,10 @@
 _schema: default
 seo:
   meta_description: Placeholder Description
-  meta_title: E*Trade
+  meta_title: E* Trade for Mullen Lowe Agency
 title: E*Trade
 collection_meta: Mullen Lowe Agency
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Image library showcasing E\*Trade’s mobile and desktop app for investing on
   the go, at home, and in the office.
