@@ -4,7 +4,7 @@ seo:
   meta_description: Placeholder Description
   meta_title: WSJ The 4 Seasons
 title: The Wall Street Journal
-collection_meta: 'Four Seasons Resort Scottsdale at '
+collection_meta: Four Seasons Resort Scottsdale
 collection_meta_2: at Troon North
 collection_description: >-
   The Cheapest Four Seasons Is a Bargain—if You Can Stand the Heat.
