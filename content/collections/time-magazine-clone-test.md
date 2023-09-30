@@ -81,7 +81,7 @@ collection_blocks:
     caption:
     color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-7.jpg
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '50'
@@ -91,9 +91,9 @@ collection_blocks:
     color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-8.jpg
     margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
-    width: '25'
+    margin_right: '15'
+    margin_y: '600'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -101,7 +101,7 @@ collection_blocks:
     caption:
     color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-9.jpg
-    margin_left: '50'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     width: '33'
