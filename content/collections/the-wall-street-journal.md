@@ -4,8 +4,8 @@ seo:
   meta_description: Placeholder Description
   meta_title: WSJ The 4 Seasons
 title: The Wall Street Journal
-collection_meta: Inside the Day and the Life of a 4 Star Resort
-collection_meta_2:
+collection_meta: Inside the Day and the Life
+collection_meta_2: of a 4 Star Resort
 collection_description: >-
   The scarcity of fresh water is rapidly emerging as a global economic threat
   that could disrupt businesses, crimp profits, and jeopardize growth.
@@ -43,6 +43,8 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -52,8 +54,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '400'
     width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -215,7 +215,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-5.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-8.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertical-covers-58.jpg
 collection_filter: Commissioned + Stock
 collection_category:
