@@ -57,76 +57,76 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#F8EBCC'
+    color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-4.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '400'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#DCEDF8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-5.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#F3E1D4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-6.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '200'
-    width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#F4DFE7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-7.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#CCE3FA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-10.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
+    margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#D0F1F0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-11.jpg
+    color: '#dcedf8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-5.jpg
     margin_left: '0'
-    margin_right: '0'
-    margin_y: '400'
-    width: '55'
+    margin_right: '5'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#F1E3CF'
+    color: '#f3e1d4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-6.jpg
+    margin_left: '40'
+    margin_right: '0'
+    margin_y: '100'
+    width: '50'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#f4dfe7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-7.jpg
+    margin_left: '50'
+    margin_right: '0'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#cce3fa'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-10.jpg
+    margin_left: '25'
+    margin_right: '0'
+    margin_y: '500'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#d0f1f0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-11.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '100'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y: 0
+    caption:
+    color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-12.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '70'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -240,10 +240,10 @@ collection_blocks:
     caption:
     color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-23.jpg
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '200'
-    width: '30'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -260,12 +260,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#DDEDF6'
+    color: '#ddedf6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-26.jpg
-    margin_left: '45'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
