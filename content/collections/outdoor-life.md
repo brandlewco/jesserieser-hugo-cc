@@ -127,7 +127,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '700'
+    margin_y: '500'
     width: '25'
   - _bookshop_name: collections/media-element
     align_y:
