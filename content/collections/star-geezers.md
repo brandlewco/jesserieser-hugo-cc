@@ -287,7 +287,7 @@ collection_press:
 collection_exhibition: []
 collection_archive: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment:
