@@ -213,10 +213,10 @@ collection_blocks:
     caption:
     color: '#ffeeda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-11.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
