@@ -50,10 +50,10 @@ collection_blocks:
     caption:
     color: '#fbe3e5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-2.jpg
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '300'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -165,11 +165,11 @@ collection_blocks:
     color:
     image:
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '30'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737206960
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
