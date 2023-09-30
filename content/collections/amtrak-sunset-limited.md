@@ -10,23 +10,6 @@ collection_description: >-
   These works showcase the Sunset Limited train between Palm Springs and Yuma
   with stops at Joshua Tree National Park, Anza Borrego California State Park,
   The Salton Sea, Salvation Mountain, East Jesus, and the Imperial Sand Dunes.
-collection_content: >-
-  These works showcase the Sunset Limited train between Palm Springs and Yuma
-  with stops at Joshua Tree National Park, Anza Borrego California State Park,
-  The Salton Sea, Salvation Mountain, East Jesus, and the Imperial Sand Dunes.
-
-
-  Released during the Covid-19 shutdown, this portfolio highlights some of the
-  things I am currently missing the most – travel, being out in the American
-  West, conversation with fellow travelers, and desert spring flowers. As
-  Americans, we cherish our freedom of mobility and liberty which is ultimately
-  the ethos of the west. That same identity thrives on isolation paired with a
-  strong desire of community, all while surviving in a challenging landscape.
-  The exact thing we are currently called upon to do.
-
-
-  Shot last year, I invited my folks along during my mom’s spring break so she
-  could see her first “super bloom.” ⁠
 collection_description_alignment: center
 slug: sunsetlimited
 collection_blocks:
@@ -280,11 +263,29 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_sunsetlimited_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_sunsetlimited_covers-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrak_sunsetlimited_covers-6.jpg
+collection_content: >-
+  These works showcase the Sunset Limited train between Palm Springs and Yuma
+  with stops at Joshua Tree National Park, Anza Borrego California State Park,
+  The Salton Sea, Salvation Mountain, East Jesus, and the Imperial Sand Dunes.
+
+
+  Released during the Covid-19 shutdown, this portfolio highlights some of the
+  things I am currently missing the most – travel, being out in the American
+  West, conversation with fellow travelers, and desert spring flowers. As
+  Americans, we cherish our freedom of mobility and liberty which is ultimately
+  the ethos of the west. That same identity thrives on isolation paired with a
+  strong desire of community, all while surviving in a challenging landscape.
+  The exact thing we are currently called upon to do.
+
+
+  Shot last year, I invited my folks along during my mom’s spring break so she
+  could see her first “super bloom.” ⁠
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
-hide_footer: true
+hide_footer: false
 navigation_theme: white
 px_extra: true
 row_alignment:
