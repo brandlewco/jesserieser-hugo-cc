@@ -156,7 +156,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_resort-13.jpg
     margin_left: '30'
     margin_right: '0'
-    margin_y: '600'
+    margin_y: '800'
     width: '20'
   - _bookshop_name: collections/media-element
     align_y: 0
