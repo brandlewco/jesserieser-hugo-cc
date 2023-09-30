@@ -52,7 +52,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-2.jpg
     margin_left: '10'
     margin_right: '0'
-    margin_y: '600'
+    margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
     align_y:
