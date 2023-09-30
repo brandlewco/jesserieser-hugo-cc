@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Exploring the business of reopening Las Vegas
-  meta_title: Photographs by Jesse Rieser of Las Vegas Reopening
+  meta_title: Las Vegas Reopens Post Covid for Barron's
 title: Barron's
 collection_meta: Las Vegas Presses Its Luck in the
 collection_meta_2: Postpandemic Era Cover Story
