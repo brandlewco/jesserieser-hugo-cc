@@ -200,12 +200,12 @@ collection_blocks:
     caption:
     color:
     image:
-    margin_left: '45'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     show_controls: false
     vimeo_id: 737207172
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -213,7 +213,7 @@ collection_blocks:
     caption:
     color: '#ffeeda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-11.jpg
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '30'
@@ -223,7 +223,7 @@ collection_blocks:
     color: '#eafdf1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-12.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-row
