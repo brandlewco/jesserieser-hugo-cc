@@ -12,7 +12,7 @@ collection_description: >-
 
   Travelers willing to put up with the intense Arizona summer pay one-third the
   price of peak room rates.
-collection_description_alignment: left
+collection_description_alignment: center
 slug: wsj-4seasons
 collection_blocks:
   - _bookshop_name: collections/media-row-start
