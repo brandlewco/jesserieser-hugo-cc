@@ -359,7 +359,7 @@ collection_blocks:
     caption:
     color: '#f6f7a0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-34.jpg
-    margin_left: '45'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -370,9 +370,9 @@ collection_blocks:
     caption:
     color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-35.jpg
-    margin_left: '20'
+    margin_left: '5'
     margin_right: '0'
-    margin_y: '500'
+    margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
     align_y:
@@ -380,9 +380,9 @@ collection_blocks:
     color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-36.jpg
     margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_right: '5'
+    margin_y: '400'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -390,7 +390,7 @@ collection_blocks:
     caption:
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-37.jpg
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '55'
