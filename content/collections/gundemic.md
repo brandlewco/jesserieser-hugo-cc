@@ -380,8 +380,8 @@ collection_blocks:
     color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-36.jpg
     margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
+    margin_right: '0'
+    margin_y: '300'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
