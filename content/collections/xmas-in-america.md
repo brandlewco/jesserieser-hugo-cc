@@ -466,60 +466,29 @@ collection_blocks:
     caption:
     color: '#edf1e9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-43.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E6EEEC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-44.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#C22B2C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-45.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F4E8DD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-46.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#120C05'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-47.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#A4BCCA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-48.jpg
     margin_left: '20'
+    margin_right: '0'
+    margin_y: '600'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#e6eeec'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-44.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#c22b2c'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-45.jpg
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '50'
@@ -528,21 +497,52 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EBE6DC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-49.jpg
+    color: '#f4e8dd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-46.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
+    width: '55'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#120c05'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-47.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '900'
     width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EEDEE1'
+    color: '#a4bcca'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-48.jpg
+    margin_left: '35'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#ebe6dc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-49.jpg
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '100'
+    width: '40'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eedee1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-50.jpg
     margin_left: '0'
-    margin_right: '10'
-    margin_y: '300'
-    width: '40'
+    margin_right: '0'
+    margin_y: '400'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -564,16 +564,16 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '500'
-    width: '45'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#B3BDA5'
+    color: '#b3bda5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-53.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '15'
     margin_y: '100'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -581,10 +581,10 @@ collection_blocks:
     caption:
     color: '#261819'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-54.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -610,32 +610,32 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DBDFDC'
+    color: '#dbdfdc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-57.jpg
-    margin_left: '10'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F5E7CE'
+    color: '#f5e7ce'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-58.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    margin_y: '700'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#5F5547'
+    color: '#5f5547'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-59.jpg
     margin_left: '0'
-    margin_right: '10'
-    margin_y: '700'
-    width: '30'
+    margin_right: '5'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
