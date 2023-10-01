@@ -180,7 +180,7 @@ collection_blocks:
     image_css:
     margin_left: '25'
     margin_right: '0'
-    margin_y: '500'
+    margin_y: '400'
     parallax: true
     text: >-
       *“Certainly there is no hunting like the hunting of man and those who have
@@ -263,7 +263,7 @@ collection_blocks:
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 3x2
