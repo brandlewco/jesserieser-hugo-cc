@@ -178,7 +178,7 @@ collection_blocks:
     font_weight:
     image:
     image_css:
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '500'
     parallax: true
@@ -188,9 +188,9 @@ collection_blocks:
       else thereafter.”*
     text_alignment: left
     text_color: '#000000'
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: normal
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
