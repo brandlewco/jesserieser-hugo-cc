@@ -738,10 +738,10 @@ collection_blocks:
     caption:
     color: '#f5e7ce'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-69.jpg
-    margin_left: '0'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -749,21 +749,21 @@ collection_blocks:
     caption:
     color: '#5f5547'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-70.jpg
-    margin_left: '0'
+    margin_left: '25'
     margin_right: '0'
-    margin_y: '200'
+    margin_y: '600'
     width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#ebe6dc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-71.jpg
-    margin_left: '30'
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -772,7 +772,7 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '70'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
