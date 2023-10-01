@@ -280,7 +280,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-25.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '800'
+    margin_y: '500'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
