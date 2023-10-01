@@ -159,10 +159,10 @@ collection_blocks:
     caption:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-17.jpg
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
