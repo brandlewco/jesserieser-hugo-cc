@@ -143,7 +143,7 @@ collection_blocks:
       make you do something you’re gonna feel for the rest of your life.”*
     text_alignment: left
     text_color: '#000000'
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: normal
     width: '40'
   - _bookshop_name: collections/media-element
