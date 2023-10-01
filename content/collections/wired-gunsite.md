@@ -119,9 +119,9 @@ collection_blocks:
     color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-8.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '400'
-    width: '60'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
