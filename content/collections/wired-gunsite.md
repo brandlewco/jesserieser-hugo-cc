@@ -310,7 +310,7 @@ collection_blocks:
     image_css:
     margin_left: '15'
     margin_right: '0'
-    margin_y: '-200'
+    margin_y: '-250'
     parallax: true
     text: >-
       *“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
