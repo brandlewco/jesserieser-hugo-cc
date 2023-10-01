@@ -33,40 +33,40 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: ''
+    background_color:
     background_image_toggle: false
     caption_css:
     font_weight: normal
     image:
     image_css:
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '200'
     parallax: true
-    text: _“You ask yourself, Is my world safe?’_
+    text: '*“You ask yourself, Is my world safe?’*'
     text_alignment: left
     text_color: '#000000'
-    text_size: 6xl
+    text_size: 4xl
     text_tracking: normal
     width: '60'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EFE5DD'
+    color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-2.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#C6E2D4'
+    color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-3.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '300'
-    width: '60'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -74,12 +74,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8D7E3'
+    color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-4.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '50'
-    width: '50'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
