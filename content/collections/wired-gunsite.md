@@ -427,9 +427,9 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
-    margin_y: '400'
+    margin_y: '200'
     parallax: true
     text: '*Community sounds really great, but it is not an inclusive concept.*'
     text_alignment: left
