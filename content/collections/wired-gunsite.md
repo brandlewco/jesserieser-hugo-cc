@@ -56,7 +56,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-2.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
+    margin_y: '50'
     width: '50'
   - _bookshop_name: collections/media-element
     align_y:
