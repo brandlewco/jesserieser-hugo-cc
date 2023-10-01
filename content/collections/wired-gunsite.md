@@ -41,12 +41,12 @@ collection_blocks:
     image_css:
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
+    margin_y: '-200'
     parallax: true
     text: '*“You ask yourself, Is my world safe?’*'
     text_alignment: left
     text_color: '#000000'
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: normal
     width: '60'
   - _bookshop_name: collections/media-element
