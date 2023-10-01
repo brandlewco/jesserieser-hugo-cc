@@ -222,11 +222,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8F3D8'
+    color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-21.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '600'
+    margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-element
     align_y:
