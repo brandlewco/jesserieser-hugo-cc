@@ -10,9 +10,6 @@ collection_description: >-
   Firearms are deeply ingrained with what it means to be American and our
   history of the American West—a history of celebrated individualism
   paradoxically based on our freedom as the conquering settler and oppressor.
-
-
-  Featured on Buzzfeed News.
 collection_description_alignment: center
 slug: gundemic
 collection_blocks:
