@@ -436,7 +436,7 @@ collection_blocks:
     text_color:
     text_size: 2xl
     text_tracking: tight
-    width: '33'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
