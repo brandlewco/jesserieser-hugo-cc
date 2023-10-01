@@ -244,7 +244,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-21.jpg
     margin_left: '30'
     margin_right: '0'
-    margin_y: '500'
+    margin_y: '400'
     width: '25'
   - _bookshop_name: collections/media-element
     align_y:
@@ -306,7 +306,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-28.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '800'
+    margin_y: '700'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -348,7 +348,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-32.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '300'
+    margin_y: '200'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
