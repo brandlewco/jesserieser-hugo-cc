@@ -134,7 +134,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '40'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
@@ -145,7 +145,7 @@ collection_blocks:
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
