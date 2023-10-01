@@ -211,11 +211,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D5D9F0'
+    color: '#d5d9f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-19.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '600'
+    margin_y: '800'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
