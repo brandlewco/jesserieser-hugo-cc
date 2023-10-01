@@ -134,14 +134,14 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '30'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
     text: >-
       *"You should feel angry at the target,” he growled in my ear. “It’s gonna
       make you do something you’re gonna feel for the rest of your life.”*
-    text_alignment: left
+    text_alignment: right
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
