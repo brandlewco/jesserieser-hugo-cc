@@ -464,12 +464,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EDF1E9'
+    color: '#edf1e9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-43.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
