@@ -361,7 +361,7 @@ collection_blocks:
     font_weight:
     image:
     image_css:
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '-50'
     parallax: true
@@ -372,7 +372,7 @@ collection_blocks:
     text_color:
     text_size: 2xl
     text_tracking: normal
-    width: '60'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
