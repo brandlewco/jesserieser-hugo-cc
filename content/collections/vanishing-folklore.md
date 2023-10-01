@@ -7,7 +7,7 @@ seo:
   meta_title: 'A Vanishing Folklore '
 title: 'Souvenirs From Paradise: A Vanishing Folklore'
 collection_meta: 2012 - 2023
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
@@ -366,7 +366,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-folklore_cover-horizontal-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-32.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-19.jpg
 collection_filter: Personal
 collection_category:
