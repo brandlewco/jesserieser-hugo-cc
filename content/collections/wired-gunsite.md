@@ -134,7 +134,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '45'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
