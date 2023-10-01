@@ -151,7 +151,7 @@ collection_blocks:
     caption:
     color: '#f3e1d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-9.jpg
-    margin_left: '5'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '100'
     width: '33'
