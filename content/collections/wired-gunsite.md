@@ -155,17 +155,17 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#f4dfe7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-10.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
+    margin_left: '15'
+    margin_right: '0'
+    margin_y: '100'
     width: '55'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
