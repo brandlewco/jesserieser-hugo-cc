@@ -148,7 +148,7 @@ collection_blocks:
     caption:
     color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-13.jpg
-    margin_left: '45'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '33'
@@ -159,7 +159,7 @@ collection_blocks:
     caption:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-17.jpg
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '55'
