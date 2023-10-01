@@ -59,7 +59,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '10'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
@@ -68,7 +68,7 @@ collection_blocks:
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '60'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
