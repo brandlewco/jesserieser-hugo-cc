@@ -114,10 +114,10 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '70'
+    width: '80'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -126,10 +126,10 @@ collection_blocks:
     caption:
     color: '#d0f1f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-11.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    margin_left: '25'
+    margin_right: '0'
+    margin_y: '300'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
@@ -138,7 +138,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '5'
     margin_y: '100'
-    width: '50'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
