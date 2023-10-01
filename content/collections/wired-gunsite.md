@@ -254,16 +254,16 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '200'
     parallax: true
     text: '*“Refuse to be a victim"*'
     text_alignment: left
     text_color: '#000000'
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: normal
-    width: '40'
+    width: '20'
   - _bookshop_name: collections/media-motion
     align_y: start
     block_aspect_ratio: 3x2
