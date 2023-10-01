@@ -286,7 +286,7 @@ collection_blocks:
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -302,22 +302,22 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: ''
+    background_color:
     background_image_toggle: false
     caption_css:
     font_weight: normal
     image:
     image_css:
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
-    margin_y: '-100'
+    margin_y: '-200'
     parallax: true
     text: >-
-      _“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
-      you how to fight when death comes to your door.”_
+      *“We’re not teaching you how to shoot,” he said sternly. “We’re teaching
+      you how to fight when death comes to your door.”*
     text_alignment: left
     text_color: '#000000'
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: normal
     width: '25'
   - _bookshop_name: collections/media-row
