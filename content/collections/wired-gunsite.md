@@ -61,7 +61,7 @@ collection_blocks:
     image_css:
     margin_left: '15'
     margin_right: '0'
-    margin_y: '300'
+    margin_y: '500'
     parallax: true
     text: '*“You ask yourself, Is my world safe?’*'
     text_alignment: left
