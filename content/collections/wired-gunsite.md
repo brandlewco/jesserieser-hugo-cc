@@ -41,7 +41,7 @@ collection_blocks:
     image_css:
     margin_left: '10'
     margin_right: '0'
-    margin_y: '200'
+    margin_y: '100'
     parallax: true
     text: '*“You ask yourself, Is my world safe?’*'
     text_alignment: left
@@ -76,30 +76,32 @@ collection_blocks:
     caption:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-4.jpg
-    margin_left: '10'
+    margin_left: '40'
     margin_right: '0'
-    margin_y: '50'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EDE5DE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-5.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '200'
-    width: '25'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EFCAB3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-6.jpg
-    margin_left: '45'
+    color: '#ede5de'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-5.jpg
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#efcab3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-6.jpg
+    margin_left: '15'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -107,26 +109,26 @@ collection_blocks:
     caption:
     color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-7.jpg
-    margin_left: '35'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DCEDF8'
+    color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-8.jpg
-    margin_left: '20'
+    margin_left: '0'
     margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    margin_y: '400'
+    width: '60'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
     align_y: start
-    background_color: ''
+    background_color:
     background_image_toggle: false
     caption_css:
     font_weight: normal
@@ -137,8 +139,8 @@ collection_blocks:
     margin_y: '-200'
     parallax: true
     text: >-
-      _"You should feel angry at the target,” he growled in my ear. “It’s gonna
-      make you do something you’re gonna feel for the rest of your life.”_
+      *"You should feel angry at the target,” he growled in my ear. “It’s gonna
+      make you do something you’re gonna feel for the rest of your life.”*
     text_alignment: left
     text_color: '#000000'
     text_size: 4xl
@@ -473,8 +475,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
