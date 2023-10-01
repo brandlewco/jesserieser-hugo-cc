@@ -361,14 +361,14 @@ collection_blocks:
     font_weight:
     image:
     image_css:
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '-50'
     parallax: true
     text: >-
       *He believes Joe Biden’s election was a coup, one that is be up to the
       American people to rectify: “Serious times require serious Americans.”*
-    text_alignment: left
+    text_alignment: center
     text_color:
     text_size: 2xl
     text_tracking: normal
