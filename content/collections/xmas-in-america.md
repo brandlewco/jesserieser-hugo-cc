@@ -342,7 +342,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-31.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '800'
+    margin_y: '600'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -373,7 +373,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
     margin_left: '0'
     margin_right: '0'
-    margin_y: '200'
+    margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -446,7 +446,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-41.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
+    margin_y: '600'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -510,7 +510,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-47.jpg
     margin_left: '0'
     margin_right: '0'
-    margin_y: '900'
+    margin_y: '600'
     width: '33'
   - _bookshop_name: collections/media-element
     align_y:
@@ -563,7 +563,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-52.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '500'
+    margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-element
     align_y:
@@ -584,7 +584,7 @@ collection_blocks:
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -625,7 +625,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-58.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '700'
+    margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-element
     align_y:
@@ -751,7 +751,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-70.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '600'
+    margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-element
     align_y:
