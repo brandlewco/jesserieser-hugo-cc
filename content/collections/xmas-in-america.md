@@ -249,7 +249,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-22.jpg
     margin_left: '0'
     margin_right: '10'
-    margin_y: '300'
+    margin_y: '400'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
