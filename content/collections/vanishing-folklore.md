@@ -229,9 +229,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#CCE1F3'
+    color: '#cce1f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-20.jpg
-    margin_left: '5'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -240,21 +240,21 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8F3D8'
+    color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-21.jpg
-    margin_left: '10'
+    margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
+    margin_y: '500'
     width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBC1A2'
+    color: '#fbc1a2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-22.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '300'
-    width: '55'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -262,52 +262,52 @@ collection_blocks:
     caption:
     color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-23.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F6F1D0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-24.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '400'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#DDEDF6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-26.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '33'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f6f1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-24.jpg
+    margin_left: '0'
+    margin_right: '15'
+    margin_y: '400'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFEBDA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-27.jpg
-    margin_left: '15'
+    color: '#ddedf6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-26.jpg
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '50'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBFAC0'
+    color: '#ffebda'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-27.jpg
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '100'
+    width: '50'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#fbfac0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-28.jpg
     margin_left: '0'
-    margin_right: '15'
-    margin_y: '300'
-    width: '40'
+    margin_right: '5'
+    margin_y: '500'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
