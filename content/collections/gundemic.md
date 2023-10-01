@@ -341,7 +341,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-32.jpg
     margin_left: '35'
     margin_right: '0'
-    margin_y: '400'
+    margin_y: '300'
     width: '25'
   - _bookshop_name: collections/media-element
     align_y:
