@@ -319,7 +319,7 @@ collection_blocks:
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '25'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
