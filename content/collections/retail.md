@@ -139,27 +139,27 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#edd5be'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
+    margin_y: '300'
     width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#fbe6df'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-17.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#fce6c8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-18.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_y: '100'
-    width: '55'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -173,7 +173,7 @@ collection_blocks:
     color: '#fbf9e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-20.jpg
     margin_right: '5'
-    margin_y: '400'
+    margin_y: '300'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -222,7 +222,7 @@ collection_blocks:
     margin_left: '45'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -276,7 +276,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-33.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
+    margin_y: '500'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -299,7 +299,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-36.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '500'
+    margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -316,10 +316,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#d9d1ce'
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-38.jpg
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
