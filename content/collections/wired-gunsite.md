@@ -329,7 +329,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-19.jpg
     margin_left: '20'
     margin_right: '0'
-    margin_y: '0'
+    margin_y: '50'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -361,7 +361,7 @@ collection_blocks:
     font_weight:
     image:
     image_css:
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '-50'
     parallax: true
@@ -372,7 +372,7 @@ collection_blocks:
     text_color:
     text_size: 2xl
     text_tracking: normal
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
