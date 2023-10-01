@@ -105,12 +105,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F8EBCC'
+    color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-7.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '20'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -174,7 +174,7 @@ collection_blocks:
     font_weight:
     image:
     image_css:
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '500'
     parallax: true
@@ -193,51 +193,53 @@ collection_blocks:
     color: '#d5f4f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-11.jpg
     margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F9D1BC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-12.jpg
-    margin_left: '15'
-    margin_right: '0'
+    margin_right: '10'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#CCE3FA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-13.jpg
-    margin_left: '0'
-    margin_right: '25'
-    margin_y: '500'
-    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F0F3D4'
+    color: '#f9d1bc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-12.jpg
+    margin_left: '20'
+    margin_right: '0'
+    margin_y: '100'
+    width: '55'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#cce3fa'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-13.jpg
+    margin_left: '10'
+    margin_right: '25'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-14.jpg
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EADEF4'
+    color: '#eadef4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-15.jpg
-    margin_left: '0'
-    margin_right: '10'
+    margin_left: '60'
+    margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -248,7 +250,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '200'
     parallax: true
@@ -262,10 +264,10 @@ collection_blocks:
     align_y: start
     block_aspect_ratio: 3x2
     caption:
-    color: '#E8D6F1'
+    color: '#e8d6f1'
     image:
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     margin_y: '100'
     show_controls: false
     vimeo_id: 522470092
@@ -275,23 +277,23 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F1E3CF'
+    color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-17.jpg
-    margin_left: '10'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F9DECE'
+    color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-18.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '50'
+    margin_left: '10'
+    margin_right: '0'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -319,12 +321,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D5D9F0'
+    color: '#d5d9f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-19.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -372,47 +374,45 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBC1A2'
+    color: '#fbc1a2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-22.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '66'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#EDDAF0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F6F1D0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-24.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '700'
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#D8E9BA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-25.jpg
-    margin_left: '25'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eddaf0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '100'
+    width: '60'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f6f1d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-24.jpg
+    margin_left: '45'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#d8e9ba'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-25.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
@@ -458,21 +458,21 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBFAC0'
+    color: '#fbfac0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-28.jpg
-    margin_left: '5'
+    margin_left: '35'
     margin_right: '0'
-    margin_y: '400'
-    width: '60'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
     color: '#f6f7a0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-34.jpg
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
-    margin_y: '200'
-    width: '66'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
