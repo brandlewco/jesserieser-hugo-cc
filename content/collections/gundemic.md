@@ -193,7 +193,7 @@ collection_blocks:
     caption:
     color: '#f1e3cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-17.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '45'
