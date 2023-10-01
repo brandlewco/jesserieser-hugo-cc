@@ -502,14 +502,14 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#120c05'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-47.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '600'
     width: '33'
   - _bookshop_name: collections/media-element
@@ -676,7 +676,7 @@ collection_blocks:
     caption:
     color: '#b3bda5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-63.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
     width: '33'
