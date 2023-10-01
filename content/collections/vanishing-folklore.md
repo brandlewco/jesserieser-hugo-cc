@@ -218,7 +218,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-19.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
+    margin_y: '500'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
