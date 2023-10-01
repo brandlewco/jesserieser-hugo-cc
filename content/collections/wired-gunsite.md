@@ -434,7 +434,7 @@ collection_blocks:
     text: '*Community sounds really great, but it is not an inclusive concept.*'
     text_alignment: left
     text_color:
-    text_size: 4xl
+    text_size: 2xl
     text_tracking: tight
     width: '40'
   - _bookshop_name: collections/media-element
@@ -453,10 +453,10 @@ collection_blocks:
     caption:
     color: '#ffebda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-27.jpg
-    margin_left: '25'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -464,7 +464,7 @@ collection_blocks:
     caption:
     color: '#fbfac0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-28.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -473,10 +473,10 @@ collection_blocks:
     caption:
     color: '#f6f7a0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-34.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
