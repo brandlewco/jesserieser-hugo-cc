@@ -44,7 +44,7 @@ collection_blocks:
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-3.jpg
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     margin_y: '500'
     width: '40'
   - _bookshop_name: collections/media-row
