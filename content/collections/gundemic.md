@@ -149,10 +149,10 @@ collection_blocks:
     caption:
     color: '#cce3fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-13.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
