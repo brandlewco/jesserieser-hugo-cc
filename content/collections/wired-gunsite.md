@@ -427,7 +427,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '200'
     parallax: true
