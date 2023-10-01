@@ -59,7 +59,7 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '60'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
@@ -68,14 +68,14 @@ collection_blocks:
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-4.jpg
-    margin_left: '40'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     margin_y: '100'
     width: '45'
   - _bookshop_name: collections/media-row
@@ -89,7 +89,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-5.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '0'
+    margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
