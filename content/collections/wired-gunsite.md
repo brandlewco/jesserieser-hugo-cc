@@ -134,18 +134,18 @@ collection_blocks:
     font_weight: normal
     image:
     image_css:
-    margin_left: '50'
+    margin_left: '45'
     margin_right: '0'
     margin_y: '-200'
     parallax: true
     text: >-
       *"You should feel angry at the target,” he growled in my ear. “It’s gonna
       make you do something you’re gonna feel for the rest of your life.”*
-    text_alignment: right
+    text_alignment: center
     text_color: '#000000'
     text_size: 2xl
     text_tracking: normal
-    width: '40'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
