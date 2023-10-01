@@ -42,7 +42,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -50,8 +50,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-3.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '400'
-    width: '45'
+    margin_y: '500'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -62,91 +62,91 @@ collection_blocks:
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#9D0310'
+    color: '#9d0310'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-5.jpg
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F8E8DC'
+    color: '#f8e8dc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-6.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '300'
+    margin_y: '400'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#d5d3c6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-7.jpg
+    margin_left: '35'
+    margin_right: '0'
+    margin_y: '400'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption: >-
+      <p><strong>Mikey.</strong> <em>Windcrest, TX. 2016. Grunwald
+      Residence.</em></p>
+    color: '#eefbe7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-8.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '100'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#e5ecf5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-9.jpg
+    margin_left: '25'
+    margin_right: '0'
+    margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D5D3C6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-7.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption: >-
-      <p><strong>Mikey.</strong> <em>Windcrest, TX. 2016. Grunwald
-      Residence.</em></p>
-    color: '#EEFBE7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-8.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E5ECF5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-9.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
-    width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ECE9E2'
+    color: '#ece9e2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-10.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#203D49'
+    color: '#203d49'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-11.jpg
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '10'
+    margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#000000'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-12.jpg
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     margin_y: '300'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -194,133 +194,102 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E7EDF4'
+    color: '#e7edf4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-17.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FAEDE1'
+    color: '#faede1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-19.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#280503'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-18.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     margin_y: '300'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E8CCB4'
+    color: '#e8ccb4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-20.jpg
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EAE2CC'
+    color: '#eae2cc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-21.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#BB0412'
+    color: '#bb0412'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-22.jpg
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     margin_y: '300'
-    width: '50'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFE29B'
+    color: '#ffe29b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-23.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E5D4CB'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-24.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#E0C6CA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-25.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#AFB1B7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-26.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8C9D8'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-27.jpg
-    margin_left: '0'
+    color: '#e5d4cb'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-24.jpg
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EFF5F6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-28.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
+    color: '#e0c6ca'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-25.jpg
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '800'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F1EBE6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-29.jpg
-    margin_left: '30'
+    color: '#afb1b7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-26.jpg
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -329,29 +298,29 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D9E5DE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-30.jpg
-    margin_left: '0'
+    color: '#d8c9d8'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-27.jpg
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E4EBED'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-31.jpg
-    margin_left: '0'
+    color: '#eff5f6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-28.jpg
+    margin_left: '5'
     margin_right: '5'
-    margin_y: '400'
+    margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EEE6DC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-32.jpg
-    margin_left: '30'
+    color: '#f1ebe6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-29.jpg
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '45'
@@ -360,19 +329,61 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DDEFEC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-33.jpg
-    margin_left: '5'
+    color: '#d9e5de'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-30.jpg
+    margin_left: '20'
     margin_right: '0'
-    margin_y: '200'
-    width: '30'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F1EFED'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
+    color: '#e4ebed'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-31.jpg
     margin_left: '0'
     margin_right: '5'
+    margin_y: '800'
+    width: '25'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eee6dc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-32.jpg
+    margin_left: '40'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#ddefec'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-33.jpg
+    margin_left: '20'
+    margin_right: '0'
+    margin_y: '100'
+    width: '25'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f1efed'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '200'
+    width: '50'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#eb2f36'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-35.jpg
+    margin_left: '30'
+    margin_right: '0'
     margin_y: '100'
     width: '55'
   - _bookshop_name: collections/media-row
@@ -380,85 +391,74 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#EB2F36'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-35.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#F4F4EB'
+    color: '#f4f4eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-36.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D9DEE1'
+    color: '#d9dee1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-37.jpg
     margin_left: '0'
-    margin_right: '10'
-    margin_y: '400'
-    width: '40'
+    margin_right: '20'
+    margin_y: '500'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#CFE0DB'
+    color: '#cfe0db'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-38.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F2ECE9'
+    color: '#f2ece9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-39.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F8EEE5'
+    color: '#f8eee5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-40.jpg
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#1C1914'
+    color: '#1c1914'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-41.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '700'
-    width: '30'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DDD9DD'
+    color: '#ddd9dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-42.jpg
-    margin_left: '30'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
