@@ -464,10 +464,10 @@ collection_blocks:
     caption:
     color: '#fbfac0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-28.jpg
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
