@@ -284,11 +284,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8E9BA'
+    color: '#d8e9ba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-25.jpg
     margin_left: '15'
     margin_right: '0'
-    margin_y: '300'
+    margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-element
     align_y:
