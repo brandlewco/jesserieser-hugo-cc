@@ -44,9 +44,9 @@ collection_blocks:
     color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     margin_y: '300'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
