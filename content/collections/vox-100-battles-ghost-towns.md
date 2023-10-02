@@ -42,7 +42,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-4.jpg
     margin_left: '0'
     margin_right: '10'
-    margin_y: '700'
+    margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -62,19 +62,19 @@ collection_blocks:
     caption:
     color: '#ede5de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-5.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '300'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-6.jpg
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     margin_y: '100'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
