@@ -34,7 +34,7 @@ collection_blocks:
     caption:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-2.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
     width: '33'
@@ -44,7 +44,7 @@ collection_blocks:
     color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -54,10 +54,10 @@ collection_blocks:
     caption:
     color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-4.jpg
-    margin_left: '35'
+    margin_left: '45'
     margin_right: '25'
     margin_y: '100'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
