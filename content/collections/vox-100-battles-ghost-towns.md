@@ -300,10 +300,10 @@ collection_blocks:
     caption:
     color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_ghostown-spread.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '70'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_ghostown-cover.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-1.jpg
