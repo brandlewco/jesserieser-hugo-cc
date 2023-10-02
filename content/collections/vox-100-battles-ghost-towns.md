@@ -119,7 +119,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-11.jpg
     margin_left: '10'
     margin_right: '0'
-    margin_y: '200'
+    margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-element
     align_y:
