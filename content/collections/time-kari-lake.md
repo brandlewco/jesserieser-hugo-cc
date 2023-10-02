@@ -116,7 +116,7 @@ collection_blocks:
     caption:
     color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '25'
