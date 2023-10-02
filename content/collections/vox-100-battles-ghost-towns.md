@@ -261,10 +261,10 @@ collection_blocks:
     caption:
     color: '#ddedf6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-26.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
