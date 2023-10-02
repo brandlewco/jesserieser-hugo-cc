@@ -210,10 +210,10 @@ collection_blocks:
     caption: ''
     color: '#d8e9ba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-17.jpg
-    margin_left: '55'
+    margin_left: '15'
     margin_right: '0'
-    margin_y: '200'
-    width: '33'
+    margin_y: '100'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
