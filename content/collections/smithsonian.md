@@ -81,21 +81,11 @@ collection_blocks:
     align_y: ''
     caption: ''
     color: '#f4dfe7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-6.jpg
-    margin_left: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo_dyptech-1.jpg
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
-  - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#f3e1d4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '45'
+    width: '90'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
