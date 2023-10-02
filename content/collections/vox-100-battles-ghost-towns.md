@@ -74,7 +74,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '15'
     margin_y: '100'
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
