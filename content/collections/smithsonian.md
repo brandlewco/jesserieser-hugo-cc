@@ -179,7 +179,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '600'
-    width: '25'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -203,7 +203,7 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
