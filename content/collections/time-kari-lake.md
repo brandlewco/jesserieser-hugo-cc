@@ -96,19 +96,19 @@ collection_blocks:
     caption:
     color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '20'
+    width: '15'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '30'
     margin_y: '400'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -116,7 +116,7 @@ collection_blocks:
     caption:
     color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '25'
