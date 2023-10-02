@@ -127,7 +127,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
     margin_left: '0'
     margin_right: '20'
-    margin_y: '600'
+    margin_y: '500'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -136,10 +136,10 @@ collection_blocks:
     caption:
     color: '#e6fbd0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-12.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
