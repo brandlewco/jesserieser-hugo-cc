@@ -186,22 +186,22 @@ collection_blocks:
     caption: ''
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-15.jpg
-    margin_left: '15'
-    margin_right: ''
-    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '700'
     width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
     color: '#c6e2d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-16.jpg
-    margin_left: '35'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     margin_y: '100'
-    width: '55'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
