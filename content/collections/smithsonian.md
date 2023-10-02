@@ -82,7 +82,7 @@ collection_blocks:
     caption: ''
     color: '#f4dfe7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-6.jpg
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     margin_y: '100'
     width: '45'
