@@ -157,7 +157,7 @@ collection_blocks:
     caption:
     color: '#eadef4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-15.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '40'
