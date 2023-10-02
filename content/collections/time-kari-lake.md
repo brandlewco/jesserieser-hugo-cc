@@ -34,10 +34,10 @@ collection_blocks:
     caption:
     color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-2.jpg
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
