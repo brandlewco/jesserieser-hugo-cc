@@ -289,10 +289,10 @@ collection_blocks:
     caption:
     color: '#ddf1ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -300,10 +300,10 @@ collection_blocks:
     caption:
     color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_ghostown-spread.jpg
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '66'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-1.jpg
