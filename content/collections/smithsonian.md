@@ -233,7 +233,7 @@ collection_blocks:
     color: '#daf0d5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-19.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '600'
     width: '33'
   - _bookshop_name: collections/media-row
