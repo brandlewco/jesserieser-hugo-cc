@@ -37,65 +37,56 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
     color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: '0'
+    margin_right: '15'
+    margin_y: '300'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#E4F6FE'
+    color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-4.jpg
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '300'
+    margin_left: '35'
+    margin_right: '25'
+    margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFD9CF'
+    color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-5.jpg
-    margin_left: '0'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#DDF5DA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '500'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#f7f7d0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-7.jpg
-    margin_left: '20'
+    color: '#ddf5da'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E0EFFF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
+    color: '#f7f7d0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-7.jpg
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     margin_y: '300'
     width: '20'
   - _bookshop_name: collections/media-row
@@ -103,43 +94,52 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F0E7FF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
+    color: '#e0efff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8F9FD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
+    color: '#f0e7ff'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '30'
     margin_y: '300'
-    width: '20'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E6FFEA'
+    color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '25'
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#d8f9fd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
+    margin_left: '0'
+    margin_right: '25'
+    margin_y: '500'
+    width: '15'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E6FBD0'
+    color: '#e6fbd0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-12.jpg
-    margin_left: '15'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '20'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
