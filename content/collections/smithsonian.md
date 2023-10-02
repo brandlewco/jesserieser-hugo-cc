@@ -188,8 +188,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-15.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '400'
-    width: '30'
+    margin_y: '600'
+    width: '25'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
