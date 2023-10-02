@@ -186,9 +186,9 @@ collection_blocks:
     caption: ''
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-15.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '700'
+    margin_left: '5'
+    margin_right: '0'
+    margin_y: '400'
     width: '30'
   - _bookshop_name: collections/media-element
     align_x: start
