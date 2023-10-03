@@ -62,11 +62,11 @@ collection_blocks:
     width: '30'
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FFE19E'
+    color: '#ffe19e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-6.jpg
     margin_left: '0'
     margin_right: '20'
-    margin_y: '600'
+    margin_y: '400'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: start
