@@ -178,9 +178,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#ffda9c'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
