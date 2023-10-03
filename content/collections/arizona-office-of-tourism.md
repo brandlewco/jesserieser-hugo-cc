@@ -42,7 +42,7 @@ collection_blocks:
     margin_left: '35'
     margin_right: '0'
     margin_y: '500'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
