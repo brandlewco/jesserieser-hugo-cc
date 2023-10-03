@@ -165,54 +165,54 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F6E0D2'
+    color: '#f6e0d2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-20.jpg
-    margin_left: '65'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
+    width: '40'
+  - _bookshop_name: collections/media-element
+    color: '#faf4ea'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
+    margin_left: '25'
+    margin_y: '500'
+    width: '30'
+  - _bookshop_name: collections/media-element
+    color: '#dbd0da'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-22.jpg
+    margin_left: '0'
+    margin_right: '10'
+    margin_y: '200'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FAF4EA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#DBD0DA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-22.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
+    color: '#fcefe6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-26.jpg
+    margin_left: '20'
+    margin_right:
+    margin_y: '1000'
     width: '20'
   - _bookshop_name: collections/media-element
-    color: '#D8E4E4'
+    color: '#d8e4e4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-23.jpg
     margin_left: '0'
-    margin_right: '40'
+    margin_right: '20'
     margin_y: '100'
-    width: '25'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#d5b1a6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-24.jpg
-    margin_left: '45'
-    margin_right:
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FCEFE6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-26.jpg
-    margin_left: '15'
+    margin_left: '30'
     margin_right:
     margin_y: '100'
     width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#F9F0F6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
