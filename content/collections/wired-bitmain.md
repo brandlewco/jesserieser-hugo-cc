@@ -22,7 +22,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#a3c8ad'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     test_field: >-
@@ -32,18 +32,18 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E7A973'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2.jpg
-    margin_left: '5'
+    color: '#e7a973'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
+    margin_left: '10'
     margin_y: '100'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-element
-    color: '#FFD467'
+    color: '#ffd467'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-3.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     margin_y: '500'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -52,66 +52,68 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     margin_y: '200'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
-    color: '#FD9496'
+    color: '#fd9496'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-5.jpg
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     margin_y: '200'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EFD6B4'
+    color: '#efd6b4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-6.jpg
     margin_left: '5'
     margin_y: '200'
     width: '33'
   - _bookshop_name: collections/media-element
-    color: '#E1EA6D'
+    color: '#e1ea6d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-7.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '25'
     margin_y: '400'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#CEDCDD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
-    margin_left: '5'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-element
-    color: '#E7BFAA'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-9.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '500'
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#A4D38E'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
-    margin_left: '25'
+    color: '#cedcdd'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
+    margin_left: '20'
     margin_y: '100'
-    width: '50'
+    width: '33'
+  - _bookshop_name: collections/media-element
+    color: '#e7bfaa'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-9.jpg
+    margin_left: '0'
+    margin_right: '0'
+    margin_y: '500'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F5614B'
+    color: '#a4d38e'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
+    margin_left: '40'
+    margin_y: '100'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#f5614b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-11.jpg
-    margin_left: '5'
+    margin_left: '55'
     margin_right: '0'
     margin_y: '100'
     width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#A6CAE5'
+    color: '#a6cae5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-12.jpg
-    margin_right: '15'
-    margin_y: '600'
+    margin_right: '0'
+    margin_y: '100'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -228,8 +230,6 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '33'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
