@@ -24,16 +24,16 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#f1b784'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-element
-    color: '#FCDDBA'
+    color: '#fcddba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-2.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_y: '100'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#DEB08E'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
@@ -49,12 +49,12 @@ collection_blocks:
     margin_y: '200'
     width: '50'
   - _bookshop_name: collections/media-element
-    color: '#B47D64'
+    color: '#b47d64'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-3.jpg
-    margin_left: '25'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
