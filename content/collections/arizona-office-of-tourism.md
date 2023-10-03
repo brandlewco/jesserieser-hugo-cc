@@ -83,7 +83,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-7.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '800'
+    margin_y: '600'
     width: '20'
   - _bookshop_name: collections/media-element
     align_y:
