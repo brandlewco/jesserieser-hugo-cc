@@ -166,10 +166,10 @@ collection_blocks:
     caption:
     color: '#eafdf1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-15.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right:
     margin_y: '100'
-    width: '55'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -177,10 +177,10 @@ collection_blocks:
     caption:
     color: '#eaeef6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-14.jpg
-    margin_left: '10'
+    margin_left: '15'
     margin_right:
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
