@@ -123,10 +123,10 @@ collection_blocks:
     caption:
     color: '#d5f4f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-11.jpg
-    margin_left: '25'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -134,10 +134,10 @@ collection_blocks:
     caption:
     color: '#f9d1bc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-12.jpg
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
