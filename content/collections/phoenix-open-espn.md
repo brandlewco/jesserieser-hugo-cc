@@ -46,12 +46,12 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EFCAB3'
+    color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-3.jpg
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
