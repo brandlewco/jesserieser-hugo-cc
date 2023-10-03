@@ -35,9 +35,9 @@ collection_blocks:
     row_alignment: start
   - _bookshop_name: collections/media-element
     caption:
-    color: '#D4E6F6'
+    color: '#d4e6f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-3.jpg
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '55'
@@ -45,12 +45,12 @@ collection_blocks:
     row_alignment: start
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FEA470'
+    color: '#fea470'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-4.jpg
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -74,19 +74,19 @@ collection_blocks:
     caption:
     color: '#002774'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-7.jpg
-    margin_left: '15'
+    margin_left: '25'
     margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '33'
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FF904D'
+    color: '#ff904d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-8.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: '10'
+    margin_right: '5'
+    margin_y: '700'
+    width: '25'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
