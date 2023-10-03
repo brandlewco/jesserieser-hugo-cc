@@ -100,7 +100,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
@@ -109,7 +109,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '25'
     margin_y: '600'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
