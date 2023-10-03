@@ -211,10 +211,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#d8e59d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '600'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#ffdcb6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
@@ -227,10 +227,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#e1eef5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
