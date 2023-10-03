@@ -17,9 +17,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D3FAFF'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
-    margin_left: '30'
+    color: '#feeece'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
     width: '40'
@@ -28,21 +28,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FEEECE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
-    margin_left: '5'
+    color: '#fdc888'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-3.jpg
+    margin_left: '45'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#FDC888'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-3.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '500'
-    width: '55'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -116,6 +107,17 @@ collection_blocks:
     margin_right: '0'
     margin_y: '200'
     width: '70'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#D3FAFF'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover_vert-1.jpg
