@@ -91,57 +91,57 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FFF8D0'
+    color: '#fff8d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-10.jpg
-    margin_left: '10'
-    margin_y: '100'
+    margin_left: '15'
+    margin_y: '600'
     width: '25'
   - _bookshop_name: collections/media-element
     caption:
-    color: '#B0DAF2'
+    color: '#b0daf2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-9.jpg
-    margin_right: '15'
-    margin_y: '400'
-    width: '40'
+    margin_right: '20'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     caption:
-    color: '#EBD995'
+    color: '#ebd995'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-11.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '55'
+    margin_left: '25'
+    margin_right: '0'
+    margin_y: '100'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     caption:
-    color: '#FDE3D3'
+    color: '#fde3d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-12.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    margin_y: '500'
+    width: '40'
   - _bookshop_name: collections/media-element
     caption:
-    color: '#BA94DC'
+    color: '#ba94dc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-13.jpg
     margin_left: '0'
     margin_right: '20'
-    margin_y: '400'
-    width: '40'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FCBE8E'
+    color: '#fcbe8e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-14.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
