@@ -5,7 +5,7 @@ seo:
   meta_title: E* Trade for Mullen Lowe Agency
 title: E*Trade
 collection_meta: Mullen Lowe Agency
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Image library showcasing E\*Trade’s mobile and desktop app for investing on
   the go, at home, and in the office.
@@ -30,29 +30,29 @@ collection_blocks:
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
-    color: '#F3E3DF'
+    color: '#f3e3df'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-3.jpg
     margin_left: '0'
-    margin_right: '10'
-    margin_y: '400'
-    width: '33'
+    margin_right: '15'
+    margin_y: '500'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F5D6BF'
+    color: '#f5d6bf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-4.jpg
-    margin_left: '20'
+    margin_left: '30'
     margin_y: '100'
-    width: '50'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D3E5AF'
+    color: '#d3e5af'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-5.jpg
-    margin_left: '5'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '25'
   - _bookshop_name: collections/media-element
     color: '#FAEEC0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-6.jpg
@@ -62,55 +62,55 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#43C6CF'
+    color: '#43c6cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-7.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FFC777'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-9.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
-    width: '30'
-  - _bookshop_name: collections/media-element
-    color: '#F0E3D6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-8.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '400'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#D7CAD7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-10.jpg
     margin_left: '25'
     margin_right: '0'
-    margin_y: '200'
-    width: '25'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#ffc777'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-9.jpg
+    margin_left: '10'
+    margin_right: '0'
+    margin_y: '100'
+    width: '25'
+  - _bookshop_name: collections/media-element
+    color: '#f0e3d6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-8.jpg
+    margin_left: '0'
+    margin_right: '25'
+    margin_y: '300'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#d7cad7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-10.jpg
+    margin_left: '30'
+    margin_right: '0'
+    margin_y: '700'
+    width: '20'
   - _bookshop_name: collections/media-element
     color: '#e7ded9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-11.jpg
-    margin_left: '35'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     margin_y: '100'
-    width: '50'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#d4e4f0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/etrade-12.jpg
-    margin_left: '0'
-    margin_right: '10'
+    margin_left: '20'
+    margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
