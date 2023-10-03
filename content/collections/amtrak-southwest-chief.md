@@ -228,7 +228,7 @@ collection_blocks:
     color: '#faf4ea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
     margin_left: '10'
-    margin_y: '800'
+    margin_y: '600'
     width: '45'
   - _bookshop_name: collections/media-element
     color: '#ebe3eb'
