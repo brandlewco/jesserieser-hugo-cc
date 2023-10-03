@@ -84,10 +84,10 @@ collection_blocks:
     caption: ''
     color: '#f3e1d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: ''
     margin_y: '100'
-    width: '60'
+    width: '55'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -157,7 +157,7 @@ collection_blocks:
     margin_left: '30'
     margin_right: ''
     margin_y: '400'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -165,9 +165,9 @@ collection_blocks:
     color: '#f9dece'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-13.jpg
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     margin_y: '100'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
