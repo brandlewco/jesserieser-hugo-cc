@@ -113,9 +113,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#d1513a'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-13.jpg
-    margin_right: '10'
+    margin_right: '15'
     margin_y: '300'
-    width: '25'
+    width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
