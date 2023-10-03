@@ -58,17 +58,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#9F7769'
+    color: '#9f7769'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
-    color: '#663C2B'
+    color: '#663c2b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-7.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     margin_y: '300'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -98,42 +98,42 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#42312d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
-    margin_left: '30'
+    margin_left: '25'
     margin_y: '100'
     width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F1D0B6'
+    color: '#f1d0b6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-12.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '45'
   - _bookshop_name: collections/media-element
-    color: '#D1513A'
+    color: '#d1513a'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-13.jpg
-    margin_right: '15'
+    margin_right: '10'
     margin_y: '300'
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#f4dfcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#B2805B'
+    color: '#b2805b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-15.jpg
-    margin_left: '40'
+    margin_left: '20'
     margin_right: '5'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
