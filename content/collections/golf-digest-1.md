@@ -59,12 +59,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E2F9E5'
+    color: '#e2f9e5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-6.jpg
-    margin_left: '45'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '200'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -112,12 +112,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D3FAFF'
+    color: '#d3faff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover_vert-1.jpg
