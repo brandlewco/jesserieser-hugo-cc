@@ -195,7 +195,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
     margin_left: '0'
     margin_right: '20'
-    margin_y: '800'
+    margin_y: '600'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -213,7 +213,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
     margin_left: '15'
     margin_right: '0'
-    margin_y: '1000'
+    margin_y: '600'
     width: '30'
   - _bookshop_name: collections/media-element
     color: '#ffdcb6'
