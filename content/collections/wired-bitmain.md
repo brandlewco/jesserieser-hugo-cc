@@ -172,7 +172,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '5'
     margin_y: '100'
-    width: '25'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
