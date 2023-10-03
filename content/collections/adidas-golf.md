@@ -5,7 +5,7 @@ seo:
   meta_title: 'Adidas Golf: Adicross'
 title: 'Adidas Golf: Adicross'
 collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-collection_meta_2: '2023'
+collection_meta_2:
 collection_description: >-
   Adicross is a marriage of Adidas street wear and golf attire and in their
   words “Always On Because The Game Never Stops.” Due to the narrative quality
@@ -13,11 +13,11 @@ collection_description: >-
   and off the course.
 
 
-  The campaign features the&nbsp;<a target="_blank"
-  href="https://www.instagram.com/explore/tags/1/">#1</a>&nbsp;ranked player in
-  the world Dustin Johnson, rising star Xander Schauffele (he became the first
-  ever rookie to win the tour championship in 2017) and long time tour favorite
-  and 2017 Masters Champion, Sergio Garcia.
+  The campaign features the <a target="_blank"
+  href="https://www.instagram.com/explore/tags/1/">#1</a> ranked player in the
+  world Dustin Johnson, rising star Xander Schauffele (he became the first ever
+  rookie to win the tour championship in 2017) and long time tour favorite and
+  2017 Masters Champion, Sergio Garcia.
 collection_description_alignment: left
 slug: adidas-golf-adicross
 collection_blocks:
