@@ -5,7 +5,7 @@ seo:
   meta_title: Placeholder Title
 title: ESPN
 collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   “Disemboweled by an ATV, head butted by a horse: The painful stories behind
   Donald Cerrone’s injuries."
@@ -147,7 +147,7 @@ collection_category:
   - Editorial
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#161518'
+theme_color: '#f7edb9'
 theme_color_all_works: '#f76969'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-36.jpg
