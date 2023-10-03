@@ -100,7 +100,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#191919'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-14.jpg
-    margin_left: '5'
+    margin_left: '50'
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
