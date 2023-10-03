@@ -36,9 +36,9 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F0F3D4'
+    color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '500'
     width: '40'
@@ -60,10 +60,10 @@ collection_blocks:
     caption: ''
     color: '#f8ebcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-4.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '66'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -72,10 +72,10 @@ collection_blocks:
     caption: ''
     color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-5.jpg
-    margin_left: '45'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -86,18 +86,18 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     margin_left: '5'
     margin_right: ''
-    margin_y: '100'
+    margin_y: '400'
     width: '55'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F4DFE7'
+    color: '#f4dfe7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-7.jpg
     margin_left: '0'
-    margin_right: '0'
-    margin_y: '300'
-    width: '33'
+    margin_right: '5'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -130,10 +130,10 @@ collection_blocks:
     caption: ''
     color: '#cce3fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-10.jpg
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
