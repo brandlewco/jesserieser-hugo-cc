@@ -36,12 +36,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#E2DCDC'
+    color: '#e2dcdc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -75,34 +75,25 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#E3DCE9'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#EEECE1'
+    color: '#eeece1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
-    margin_left: '10'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '200'
-    width: '50'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#C0BFDC'
+    color: '#c0bfdc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
-    margin_left: '45'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '100'
     width: '33'
@@ -111,12 +102,12 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#C4D8EB'
+    color: '#c4d8eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '75'
+    width: '70'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater_cover-horizontal-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-42.jpg
