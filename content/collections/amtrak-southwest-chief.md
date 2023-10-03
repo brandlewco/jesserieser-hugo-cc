@@ -167,10 +167,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#f6e0d2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-20.jpg
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#faf4ea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
@@ -214,28 +214,28 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F9F0F6'
+    color: '#f9f0f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
-    margin_left: '10'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#FCD6CC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
-    margin_right: '15'
+    margin_left: '50'
     margin_y: '100'
-    width: '30'
+    width: '45'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EBE3EB'
+    color: '#faf4ea'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
+    margin_left: '10'
+    margin_y: '800'
+    width: '45'
+  - _bookshop_name: collections/media-element
+    color: '#ebe3eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
     margin_left: '0'
-    margin_right: '20'
-    margin_y: '700'
-    width: '20'
+    margin_right: '10'
+    margin_y: '100'
+    width: '30'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-14.jpg
