@@ -1,8 +1,8 @@
-<!-- {{ with .Site.Home }}
-        body.page-{{lower .Title | urlize}} .hue-header.page .shift svg{
+{{ with .Site.Home }}
+        body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig{
             fill: {{.Params.feature_color}} !important;
         };
-{{end}} -->
+{{end}}
 /* about */
 {{ with .Site.GetPage "about" }}
 body.page-{{lower .Title | urlize}} .hue-header.page .bun {
@@ -13,7 +13,7 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
         color: {{.Params.theme_color}} !important;
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift svg{
+    body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig {
         fill: {{.Params.theme_color}} !important;
     }
     html.to-about body {
@@ -31,7 +31,7 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
         color: {{.Params.theme_color}} !important;
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift svg {
+    body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig {
         fill: {{.Params.theme_color}} !important;
     }
     

@@ -150,6 +150,11 @@ html.is-animating .transition-nav {
     color: #000 !important;
   }
 
+  .hue-header.white .shift.nav-ig {
+    fill: #fff;
+  }
+
+
 
 svg.hover:hover path {
   stroke-width: 15;
