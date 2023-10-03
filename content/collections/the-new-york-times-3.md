@@ -26,34 +26,34 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E1F9FB'
+    color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '900'
-    width: '20'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBEBD6'
+    color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg
-    margin_left: '45'
+    margin_left: '50'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#E4F6FE'
+    color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-4.jpg
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -79,52 +79,52 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F7F7D0'
+    color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E0EFFF'
+    color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg
     margin_left: '0'
     margin_right: '20'
-    margin_y: '300'
+    margin_y: '400'
     width: '20'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F0E7FF'
+    color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg
-    margin_left: '10'
+    margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    margin_y: '500'
+    width: '30'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D8F9FD'
+    color: '#d8f9fd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '800'
+    margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E6FFEA'
+    color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg
     margin_left: '50'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
