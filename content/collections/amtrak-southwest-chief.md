@@ -5,7 +5,7 @@ seo:
   meta_title: 'Amtrak The National: On The Southwest Chief'
 title: Amtrak The National
 collection_meta: On The Southwest Chief
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   A project celebrating the romanticism of train travel and the light of the
   Southwest as a unifying ingredient—taking you from inside the train, out the
@@ -23,6 +23,15 @@ collection_blocks:
     margin_right:
     margin_y: '100'
     width: '60'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#ecebe1'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-2.jpg
+    margin_left: '0'
+    margin_right: '30'
+    margin_y: '200'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -198,20 +207,6 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F9F0F6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
-    margin_left: '10'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#FCD6CC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
-    margin_right: '15'
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
     color: '#FCEFE6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-26.jpg
     margin_left: '15'
@@ -219,14 +214,28 @@ collection_blocks:
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
+    color: '#F9F0F6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
+    margin_left: '10'
+    margin_y: '300'
+    width: '40'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#FCD6CC'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
+    margin_right: '15'
+    margin_y: '100'
+    width: '30'
+  - _bookshop_name: collections/media-element
     color: '#EBE3EB'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
     margin_left: '0'
     margin_right: '20'
     margin_y: '700'
     width: '20'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-14.jpg
