@@ -81,10 +81,10 @@ collection_blocks:
     caption:
     color: '#ff904d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-8.jpg
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '5'
     margin_y: '700'
-    width: '25'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
