@@ -101,29 +101,7 @@ collection_blocks:
     caption:
     color: '#f3e1d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-9.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f4dfe7'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-10.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#d5f4f6'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-11.jpg
-    margin_left: '30'
+    margin_left: '40'
     margin_right: '0'
     margin_y: '100'
     width: '33'
@@ -132,12 +110,34 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#f9d1bc'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-12.jpg
-    margin_left: '45'
+    color: '#f4dfe7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-10.jpg
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '25'
+    width: '55'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#d5f4f6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-11.jpg
+    margin_left: '25'
+    margin_right: '0'
+    margin_y: '100'
+    width: '30'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    align_y:
+    caption:
+    color: '#f9d1bc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-12.jpg
+    margin_left: '35'
+    margin_right: '0'
+    margin_y: '100'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
