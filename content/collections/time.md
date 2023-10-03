@@ -42,7 +42,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-3.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
+    margin_y: '600'
     width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -129,7 +129,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-7.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-10.jpg
 collection_filter: Commissioned + Stock
 collection_category:
