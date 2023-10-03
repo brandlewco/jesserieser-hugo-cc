@@ -51,11 +51,12 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fff1e3'
+    color: '#f6e0d2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-6.jpg
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -171,6 +172,8 @@ collection_blocks:
     margin_right: '0'
     margin_y: '100'
     width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#faf4ea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
@@ -184,8 +187,6 @@ collection_blocks:
     margin_right: '10'
     margin_y: '200'
     width: '30'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
