@@ -390,12 +390,12 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#F6F1D0'
+    color: '#f6f1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-34.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '400'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -406,10 +406,10 @@ collection_blocks:
     caption: ''
     color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-1.jpg
-    margin_left: '0'
+    margin_left: '20'
     margin_right: '0'
-    margin_y: '500'
-    width: '40'
+    margin_y: '100'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
