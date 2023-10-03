@@ -147,7 +147,7 @@ collection_category:
   - Editorial
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#f7edb9'
+theme_color: '#aeb5e9'
 theme_color_all_works: '#f76969'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-36.jpg
