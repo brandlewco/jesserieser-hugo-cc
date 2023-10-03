@@ -19,7 +19,7 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     align_y: center
-    color: '#d5f0e1'
+    color: '#d5dcf0'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
