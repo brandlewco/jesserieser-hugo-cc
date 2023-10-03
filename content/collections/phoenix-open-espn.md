@@ -203,7 +203,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -211,7 +211,7 @@ collection_blocks:
     color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-17.jpg
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     margin_y: '400'
     width: '33'
   - _bookshop_name: collections/media-row
@@ -225,7 +225,7 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     margin_y: '500'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
@@ -235,7 +235,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '5'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
