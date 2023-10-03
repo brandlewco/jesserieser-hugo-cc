@@ -5,7 +5,7 @@ seo:
   meta_title: 'Adidas Golf: Adicross'
 title: 'Adidas Golf: Adicross'
 collection_meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-collection_meta_2:
+collection_meta_2: '2023'
 collection_description: >-
   Adicross is a marriage of Adidas street wear and golf attire and in their
   words “Always On Because The Game Never Stops.” Due to the narrative quality
@@ -100,9 +100,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#191919'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-14.jpg
-    margin_left: '10'
+    margin_left: '5'
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -111,21 +111,27 @@ collection_blocks:
     margin_left: '30'
     margin_right: '0'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#b2b2b2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-15.jpg
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '40'
   - _bookshop_name: collections/media-element
-    color: '#e0e0e0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-16.jpg
+    color: '#565656'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-13.jpg
+    margin_left: '35'
+    margin_right: '0'
     margin_y: '100'
     width: '25'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#818181'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-20.jpg
@@ -133,10 +139,6 @@ collection_blocks:
     margin_right: '20'
     margin_y: '700'
     width: '25'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#a8a8a8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-26.jpg
