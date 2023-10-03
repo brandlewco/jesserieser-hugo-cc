@@ -358,22 +358,22 @@ collection_blocks:
     align_x: start
     align_y: ''
     caption: ''
-    color: '#D8F3D8'
+    color: '#d8f3d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-31.jpg
-    margin_left: '25'
+    margin_left: '5'
     margin_right: ''
     margin_y: '100'
-    width: '40'
+    width: '45'
   - _bookshop_name: collections/media-element
     align_x: start
     align_y: ''
     caption: ''
-    color: '#EDDAF0'
+    color: '#eddaf0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-23.jpg
     margin_left: '0'
     margin_right: '10'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
