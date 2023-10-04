@@ -4,8 +4,8 @@ seo:
   meta_description: Placeholder Description
   meta_title: Sounds of Cement
 title: Sounds of Cement
-collection_meta: Crazy Explosive Primeknit
-collection_meta_2: PDN Photo Annual 2016
+collection_meta: PDN Photo Annual 2016
+collection_meta_2:
 collection_description: >-
   These works celebrate the beautiful dance-like aesthetic between two athletes
   competing in a racquetball match while confined by 4 concrete walls.
