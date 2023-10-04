@@ -24,11 +24,11 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EDEDED'
+    color: '#ededed'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-3.jpg
     margin_left: '5'
     margin_right: '0'
-    margin_y: '900'
+    margin_y: '800'
     width: '40'
   - _bookshop_name: collections/media-element
     color: '#4D4D4D'
@@ -42,9 +42,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#272727'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ice-4.jpg
-    margin_left: '30'
+    margin_left: '35'
     margin_y: '100'
-    width: '40'
+    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
