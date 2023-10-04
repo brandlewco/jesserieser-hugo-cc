@@ -7,7 +7,7 @@ title: Wired Magazine
 collection_meta: Pattie Moore
 collection_meta_2: 'A Wrinkle In Time '
 collection_description: >-
-  As a young industrial designer,&nbsp;*Patricia Moore*&nbsp;undertook a radical
+  As a young industrial designer, *Patricia Moore* undertook a radical
   experiment in aging. Her discoveries reshaped the built world.
 collection_description_alignment: center
 slug: wired-moore
@@ -121,6 +121,7 @@ collection_category:
   - Editorial
   - Color
   - Portraits
+  - ''
 date: 2019-05-01T07:00:00Z
 theme_color: '#bcebd5'
 theme_color_all_works: '#ffe05a'
