@@ -24,20 +24,20 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E1F3DD'
+    color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '45'
+    width: '50'
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E1F9FB'
+    color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
+    margin_y: '600'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
