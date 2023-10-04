@@ -202,7 +202,45 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/uvalde_4x3-4.jpg
-collection_content: ''
+collection_content: >-
+  Their 11-year-old 4th Grader was one of 21 victims killed at Robb Elementary
+  School last May. The Salazar family are still feeling pain so raw it’s hard to
+  move on.”
+
+
+  I recently traveled to Uvalde, TX to spend the day with the Salazar family. I
+  can’t thank them enough for their hospitality and openness while navigating
+  and living every parent’s worst nightmare.&nbsp;
+
+
+  “Layla was just 7 months old in 2011 when Vinnie, who worked for a steel
+  company, moved the family from a Chicago suburb to his hometown of Uvalde
+  because he believed it would be safer there.&nbsp;
+
+
+  At around 11:40 a.m., May 22, 2022 Vinnie received a text message about a
+  lockdown at the school. Then, a short while later, another text: An active
+  shooter was on the school campus. Vinnie heard sirens wailing and cars racing
+  past the family’s home and called Melinda at work to tell her the news. “By
+  the time I got to the school, it was already chaos,” he says. “People were
+  screaming and running everywhere.”
+
+
+  Officials announced that no students or teachers had been hurt, Vinnie says,
+  and they directed parents to pick up their children at the nearby civic
+  center. There, over the course of the next hours, school buses packed with
+  children arrived—but Layla never appeared. At 9 o’clock that evening, when the
+  small group of parents remaining were asked to give DNA samples, Vinnie and
+  Melinda realized they would never see Layla again. Not long afterward they
+  were led into another room and informed that their DNA was a match for one of
+  the victims. “ ‘We’re sorry,’ they told us,” Vinnie recalls as tears stream
+  down his cheeks. “ ‘Your daughter was one of the deceased.’ ”
+
+
+  At the end of their new hallway is an empty bedroom that echoes in silence,
+  with neatly stacked clothes, a twin bed and a door plastered with Billie
+  Eilish stickers leaning against a wall. That door was brought here from the
+  family’s old house (last frame).
 collection_awards: []
 collection_press: []
 collection_exhibition: []
