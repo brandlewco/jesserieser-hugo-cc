@@ -18,7 +18,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#feeece'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-1.jpg
     margin_left: '25'
     margin_right: '0'
     margin_y: '100'
@@ -29,7 +29,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#fdc888'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-2.jpg
     margin_left: '45'
     margin_right: '0'
     margin_y: '100'
@@ -48,8 +48,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D6F0F3'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-4.jpg
+    color: '#d6f0f3'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-3.jpg
     margin_left: '0'
     margin_right: '5'
     margin_y: '200'
@@ -60,7 +60,7 @@ collection_blocks:
     align_y:
     caption:
     color: '#e2f9e5'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-4.jpg
     margin_left: '50'
     margin_right: '0'
     margin_y: '200'
@@ -70,8 +70,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFF1DC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-7.jpg
+    color: '#fff1dc'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-5.jpg
     margin_left: '0'
     margin_right: '0'
     margin_y: '200'
@@ -79,8 +79,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#D1F8F4'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie_10-1.jpg
+    color: '#d1f8f4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-6.jpg
     margin_left: '0'
     margin_right: '30'
     margin_y: '200'
@@ -90,8 +90,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E8DFFE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-9.jpg
+    color: '#e8dffe'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-7.jpg
     margin_left: '10'
     margin_right: '0'
     margin_y: '100'
@@ -101,8 +101,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFEBAD'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-10.jpg
+    color: '#ffebad'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-8.jpg
     margin_left: '20'
     margin_right: '0'
     margin_y: '200'
@@ -113,14 +113,14 @@ collection_blocks:
     align_y:
     caption:
     color: '#d3faff'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-9.jpg
     margin_left: '35'
     margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-1.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover_vert-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-10.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/scottie_vcover-10.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Sports + Athletes
