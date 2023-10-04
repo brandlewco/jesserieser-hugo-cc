@@ -26,6 +26,14 @@ collection_blocks:
     margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-element
+    color: '#CA8660'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-19.jpg
+    margin_left: '30'
+    margin_y: '100'
+    width: '50'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     color: '#E1572A'
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-3.jpg
     margin_left: ''
@@ -41,8 +49,6 @@ collection_blocks:
     margin_right: ''
     margin_y: '100'
     width: '50'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -159,12 +165,6 @@ collection_blocks:
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#CA8660'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-19.jpg
-    margin_left: '30'
-    margin_y: '100'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
