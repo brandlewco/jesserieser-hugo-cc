@@ -776,7 +776,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-6.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-3.jpg
 collection_filter: Personal
 collection_category:
@@ -795,10 +795,10 @@ theme_color_all_works: '#69e5ce'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-2.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas-cover-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-4.jpg
 collection_content: >-
   Beyond the glowing green and red lights, past the shimmering silvery tinsel,
   around the fragrant pine boughs, another Christmas lingers, a Christmas of
