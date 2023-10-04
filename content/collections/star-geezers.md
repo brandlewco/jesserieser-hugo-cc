@@ -215,10 +215,10 @@ theme_color_all_works: '#ff9595'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-11.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/star-geezers_cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/geezers_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/geezers_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/geezers_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/geezers_4x3-4.jpg
 collection_content: >-
   This is a story about “Sky Village,” an astronomy centric retirement community
   and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
