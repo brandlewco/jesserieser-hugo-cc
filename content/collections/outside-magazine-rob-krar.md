@@ -76,46 +76,47 @@ collection_blocks:
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#F8967D'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-8.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '200'
-    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C4D4E2'
+    color: '#c4d4e2'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-9.jpg
-    margin_left: '5'
-    margin_y: '200'
+    margin_left: '10'
+    margin_y: '400'
     width: '33'
   - _bookshop_name: collections/media-element
-    color: '#B89990'
+    color: '#b89990'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-10.jpg
     margin_left: '0'
-    margin_right: '20'
-    margin_y: '400'
-    width: '30'
+    margin_right: '25'
+    margin_y: '100'
+    width: '25'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EEE0CC'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-11.jpg
-    margin_right: '10'
+    color: '#f8967d'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-8.jpg
+    margin_left: '5'
+    margin_right: '0'
     margin_y: '100'
     width: '50'
+  - _bookshop_name: collections/media-element
+    color: '#eed8c9'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-11.jpg
+    margin_left: '0'
+    margin_right: '5'
+    margin_y: '400'
+    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     color: '#d1dec4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-12.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_y: '100'
-    width: '45'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
