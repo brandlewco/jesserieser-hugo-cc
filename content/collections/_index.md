@@ -1,7 +1,7 @@
 ---
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg
 collection_description: >-
-  Collections and projects of Jesse Rieser - Phoenix, Arizona based
+  Collections and projects of Jesse Rieser - Los Angeles and Phoenix &nbsp;based
   photographer. A student of subtleties.
 title: Jesse Rieser - All Work Portfolio
 collection_sorter:
@@ -41,7 +41,6 @@ collection_sorter:
   - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/the-wall-street-journal.md
   - collections/etrade.md
   - collections/time.md
   - collections/stalking-a-serial-killer.md
