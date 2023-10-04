@@ -21,23 +21,23 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E2EFF9'
+    color: '#e2eff9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FEF4EA'
+    color: '#fef4ea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-2.jpg
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '30'
+    width: '33'
   - _bookshop_name: collections/media-element
-    color: '#FFE7D8'
+    color: '#ffe7d8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-3.jpg
     margin_left: '0'
     margin_right: '5'
@@ -46,12 +46,12 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EFF4F8'
+    color: '#eff4f8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-4.jpg
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '40'
   - _bookshop_name: collections/media-element
     color: '#AE9B9B'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-5.jpg
@@ -62,36 +62,34 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FADFCD'
+    color: '#fadfcd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-6.jpg
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     margin_y: '100'
     width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#211F2D'
+    color: '#211f2d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-8.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '100'
-    width: '60'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#404B51'
+    color: '#404b51'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-9.jpg
     margin_left: '10'
     margin_y: '100'
-    width: '33'
+    width: '30'
   - _bookshop_name: collections/media-element
-    color: '#2F292E'
+    color: '#2f292e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-10.jpg
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     margin_y: '300'
     width: '40'
   - _bookshop_name: collections/media-row
@@ -102,7 +100,7 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -115,34 +113,27 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     align_y: 0
-    color: '#FCE4D0'
-    margin_left: '5'
+    color: '#fce4d0'
+    margin_left: '30'
     margin_right: '0'
-    margin_y: '300'
+    margin_y: '100'
     show_controls: false
     vimeo_id: 414925506
-    width: '40'
-  - _bookshop_name: collections/media-element
-    color: '#95527C'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-13.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
-    width: '33'
+    width: '50'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FFE7CA'
+    color: '#ffe7ca'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-15.jpg
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     margin_y: '300'
     width: '50'
   - _bookshop_name: collections/media-element
-    color: '#F0F4F7'
+    color: '#f0f4f7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-14.jpg
     margin_y: '100'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -162,17 +153,10 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F6E5D1'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-17.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    color: '#E8D2CF'
+    color: '#e8d2cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-18.jpg
-    margin_left: '0'
-    margin_y: '500'
+    margin_left: '30'
+    margin_y: '100'
     width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -201,27 +185,14 @@ collection_blocks:
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element
-    color: '#EFF4F2'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-22.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '300'
-    width: '40'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
     color: '#000000'
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-24.jpg
     margin_left: '5'
     margin_right: '0'
     margin_y: '300'
     width: '50'
-  - _bookshop_name: collections/media-element
-    color: '#E0C8CE'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-23.jpg
-    margin_left: '0'
-    margin_y: '100'
-    width: '33'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -230,6 +201,14 @@ collection_blocks:
     margin_left: '30'
     margin_y: '100'
     width: '60'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    color: '#E0C8CE'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-23.jpg
+    margin_left: '0'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-4.jpg
