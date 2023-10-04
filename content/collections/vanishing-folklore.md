@@ -381,14 +381,14 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-9.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-8.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-1.jpg
 collection_content: >-
   This long-term works in progress are the transmissions of a citizen who seems
