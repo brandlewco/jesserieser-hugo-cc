@@ -5,7 +5,7 @@ feature_description: >-
   recent news.
 
 
-  For a more expansive experience please head over to all works.
+  For additional projects and archive head over to all works. 
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
