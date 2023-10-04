@@ -174,8 +174,10 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-4x3-4.jpg
+collection_content: ''
 collection_awards: []
 collection_press: []
+collection_exhibition: []
 collection_archive: true
 collection_hidden: false
 hide_footer: true
