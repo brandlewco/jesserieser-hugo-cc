@@ -105,10 +105,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#f8967d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-8.jpg
-    margin_left: '30'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '50'
+    width: '60'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
