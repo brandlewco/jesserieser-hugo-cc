@@ -35,16 +35,16 @@ collection_blocks:
     margin_y: '100'
     width: '25'
   - _bookshop_name: collections/media-element
-    color: '#EEEEEE'
+    color: '#eeeeee'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-1.jpg
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     margin_y: '400'
-    width: '33'
+    width: '40'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C3C3C3'
+    color: '#c3c3c3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-2.jpg
     margin_left: '20'
     margin_y: '100'
@@ -83,29 +83,29 @@ collection_blocks:
     margin_y: '100'
     width: '20'
   - _bookshop_name: collections/media-element
-    color: '#9D9D9D'
+    color: '#9d9d9d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-6.jpg
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     margin_y: '400'
-    width: '55'
+    width: '45'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#DBDBDB'
+    color: '#dbdbdb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-7.jpg
     margin_left: '5'
     margin_y: '100'
-    width: '80'
+    width: '66'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C9C9C9'
+    color: '#c9c9c9'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-9.jpg
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     margin_y: '100'
-    width: '55'
+    width: '45'
   - _bookshop_name: collections/media-element
     color: '#F6F6F6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-bw-redo2-8.jpg
@@ -130,11 +130,11 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#1B1B1B'
+    color: '#1b1b1b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/soc-15.jpg
-    margin_left: '25'
+    margin_left: '30'
     margin_y: '100'
-    width: '45'
+    width: '40'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw_horizontal-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw_vertical-1.jpg
