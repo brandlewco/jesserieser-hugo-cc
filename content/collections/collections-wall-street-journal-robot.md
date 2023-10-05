@@ -135,10 +135,10 @@ theme_color_all_works: '#6d94ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-scanalyzer_covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-robot_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-robot_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-robot_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wsj-robot_4x3-4.jpg
 collection_content: >-
   On a green swatch in the Arizona desert, a 30-ton robot is scrutinizing plants
   that could help feed impoverished countries and fuel American cars.⁠ The
