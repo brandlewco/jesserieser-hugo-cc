@@ -21,7 +21,6 @@ collection_sorter:
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
-  - collections/one-night-in-the-valley.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
