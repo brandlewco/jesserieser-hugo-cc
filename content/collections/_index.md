@@ -21,7 +21,6 @@ collection_sorter:
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
-  - collections/star-geezers.md
   - collections/one-night-in-the-valley.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-southwest-chief.md
@@ -37,11 +36,11 @@ collection_sorter:
   - collections/autobiography.md
   - collections/armani-anniversary.md
   - collections/espn-cowboy-cerronne.md
-  - collections/popular-mechanics.md
   - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/etrade.md
+  - collections/star-geezers.md
   - collections/time.md
   - collections/stalking-a-serial-killer.md
   - collections/wired.md
@@ -49,8 +48,8 @@ collection_sorter:
   - collections/sounds-of-cement.md
   - collections/collections-ice-t.md
   - collections/collections-wall-street-journal-robot.md
+  - collections/popular-mechanics.md
   - collections/collections-barons-cover.md
-  - collections/national-geographic.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
