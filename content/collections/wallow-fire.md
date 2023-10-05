@@ -204,9 +204,9 @@ theme_color_all_works: '#ed5c5c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-8.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wallow-cover-4.jpg
 collection_content: >-
   In Eastern Arizona, near the border with New Mexico, is a land of dirt roads
