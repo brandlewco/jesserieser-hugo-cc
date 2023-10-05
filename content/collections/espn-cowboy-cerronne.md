@@ -152,10 +152,10 @@ theme_color_all_works: '#f76969'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-36.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_cowboy_covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/cowboy_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/cowboy_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/cowboy_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/cowboy_4x3-4.jpg
 collection_content: >-
   “Disemboweled by an ATV, head butted by a horse: The painful stories behind
   Donald Cerrone’s injuries."
