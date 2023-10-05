@@ -292,8 +292,8 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-6.jpg
