@@ -149,10 +149,10 @@ theme_color_all_works: '#ffbaba'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-12.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gc_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-4.jpg
 collection_content: >-
   “*As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
   Next Century*.” These new works pay homage to American Romanticism and
