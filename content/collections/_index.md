@@ -48,7 +48,6 @@ collection_sorter:
   - collections/collections-ice-t.md
   - collections/collections-wall-street-journal-robot.md
   - collections/popular-mechanics.md
-  - collections/collections-barons-cover.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md
