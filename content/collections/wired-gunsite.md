@@ -480,7 +480,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/gunsite_cover-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-14.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-50.jpg
 collection_filter: Commissioned + Stock
 collection_category:
@@ -496,10 +496,10 @@ theme_color_all_works: '#f8fda8'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite-thumb-cover-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/gunsite_4x3-4.jpg
 collection_content: ''
 collection_awards:
   - content: |-
