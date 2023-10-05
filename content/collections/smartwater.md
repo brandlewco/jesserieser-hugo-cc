@@ -109,7 +109,7 @@ collection_blocks:
     margin_y: '100'
     width: '70'
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater_cover-horizontal-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-42.jpg
 collection_filter: Commissioned + Stock
 collection_category:
@@ -125,10 +125,10 @@ theme_color_all_works: '#ffe767'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater-simmons_horizontal-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/smartwater_4x3-4.jpg
 collection_content: ''
 collection_awards: []
 collection_press: []
