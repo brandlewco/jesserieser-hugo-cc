@@ -38,22 +38,14 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-element
     align_y: start
-    color: '#0a0a0b'
-    image: /uploads/backpage-1.jpg
+    color: '#e4d3bf'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
     margin_left: '0'
     margin_right: '15'
-    margin_y: '500'
+    margin_y: '900'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    align_y: start
-    color: '#e4d3bf'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
