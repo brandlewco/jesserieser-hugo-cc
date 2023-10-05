@@ -435,10 +435,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-11.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/guns_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/guns_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/guns_4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/guns_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-10.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-guns-8.jpg
