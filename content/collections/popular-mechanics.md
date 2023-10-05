@@ -153,7 +153,7 @@ collection_awards:
     url:
 collection_press: []
 collection_exhibition: []
-collection_archive: false
+collection_archive: true
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
