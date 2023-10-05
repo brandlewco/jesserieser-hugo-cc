@@ -202,6 +202,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/stroman_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/stroman_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/stroman_4x3-4.jpg
+collection_content: ''
 collection_awards:
   - content: |-
       **2019**  
@@ -220,6 +221,7 @@ collection_press:
     icon:
     template: array-placeholder
     url:
+collection_exhibition: []
 collection_archive: false
 collection_hidden: false
 hide_footer: true
