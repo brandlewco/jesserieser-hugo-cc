@@ -40,6 +40,23 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-link
+    text_size: 2xl
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    block_aspect_ratio: 3x2
+    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
+    title: 'Request a Pdf '
+    link: >-
+      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
+    color: '#000000'
+    text_color: '#FFFFFF'
+    meta: 'Silver Sneakers & Apple Fitness + '
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title: 'Wired '
     meta: 'A Wrinkle In Time '
@@ -210,21 +227,6 @@ content_blocks:
     text_color: '#ffe9d8'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-link
-    text_size: 2xl
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    block_aspect_ratio: 3x2
-    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
-    title: 'Request a Pdf '
-    link: >-
-      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
-    color: '#000000'
-    text_color: '#FFFFFF'
-    meta: 'Silver Sneakers & Apple Fitness + '
   - _bookshop_name: home/media-feature
     width: '60'
     align_y: start
