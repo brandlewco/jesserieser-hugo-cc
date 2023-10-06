@@ -21,7 +21,6 @@ collection_sorter:
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
-  - collections/amtrak-texas-eagle.md
   - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
@@ -36,6 +35,7 @@ collection_sorter:
   - collections/armani-anniversary.md
   - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-2.md
+  - collections/amtrak-texas-eagle.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/etrade.md
