@@ -15,14 +15,14 @@ collection_sorter:
   - collections/golfdigest-nicklaus.md
   - collections/xmas-in-america.md
   - collections/vanishing-folklore.md
+  - collections/amtrak-southwest-chief.md
+  - collections/wired-bitmain.md
   - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
-  - collections/amtrak-southwest-chief.md
-  - collections/wired-bitmain.md
   - collections/arizona-office-of-tourism.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
