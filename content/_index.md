@@ -58,6 +58,90 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
+    width: '60'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    title_margin_y: '50'
+    title_margin_left: '-25'
+    title_margin_right: '0'
+    text_size: 7xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: left
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
+    attached_collection: collections/antoine-s-escalaras.md
+    color: '#E5F5B5'
+    title: Antoine's Escalaras
+    meta: 2022 Communications Arts Photo Annual
+    text_color: '#B4F0F7'
+    font_weight: semibold
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    text_size: 2xl
+    width: '25'
+    align_y: start
+    margin_y: '50'
+    margin_left: '5'
+    margin_right: '0'
+    color: '#fcc8cc'
+    title: Communication Arts Photography Annual 2022
+    block_aspect_ratio: 4x5
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    blog_header:
+    caption: Antoine’s Escalaras
+    theme_color: '#fabdc2'
+  - _bookshop_name: home/media-feature
+    width: '50'
+    align_y: start
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+    color: '#d4dee6'
+    attached_collection: collections/espn-devin-booker-cover-story.md
+    meta: 'Devin Booker: Becoming Legendary Cover Story'
+    title: ESPN
+    text_color:
+    font_weight: bold
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    width: '40'
+    align_y: start
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    meta_align: left
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
+    color: '#f2ecdf'
+    attached_collection: collections/retail.md
+    meta: 2015 - 2022
+    title: The Changing Landscape of American Retail
+    text_color: '#75d8a0'
+    text_size: 6xl
+    text_alignment: left
+    text_tracking: widest
+    font_weight: bold
+    line_height: tight
+    title_margin_y: '10'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     title: 'Wired '
     meta: 'A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
@@ -225,90 +309,6 @@ content_blocks:
     meta: Beyond the Drought Cover Story
     title: Barron's
     text_color: '#ffe9d8'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '60'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    title_margin_y: '50'
-    title_margin_left: '-25'
-    title_margin_right: '0'
-    text_size: 7xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    attached_collection: collections/antoine-s-escalaras.md
-    color: '#E5F5B5'
-    title: Antoine's Escalaras
-    meta: 2022 Communications Arts Photo Annual
-    text_color: '#B4F0F7'
-    font_weight: semibold
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    text_size: 2xl
-    width: '25'
-    align_y: start
-    margin_y: '50'
-    margin_left: '5'
-    margin_right: '0'
-    color: '#fcc8cc'
-    title: Communication Arts Photography Annual 2022
-    block_aspect_ratio: 4x5
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
-    blog_header:
-    caption: Antoine’s Escalaras
-    theme_color: '#fabdc2'
-  - _bookshop_name: home/media-feature
-    width: '50'
-    align_y: start
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    color: '#d4dee6'
-    attached_collection: collections/espn-devin-booker-cover-story.md
-    meta: 'Devin Booker: Becoming Legendary Cover Story'
-    title: ESPN
-    text_color:
-    font_weight: bold
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
-    color: '#f2ecdf'
-    attached_collection: collections/retail.md
-    meta: 2015 - 2022
-    title: The Changing Landscape of American Retail
-    text_color: '#75d8a0'
-    text_size: 6xl
-    text_alignment: left
-    text_tracking: widest
-    font_weight: bold
-    line_height: tight
-    title_margin_y: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
