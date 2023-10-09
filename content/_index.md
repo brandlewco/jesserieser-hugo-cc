@@ -177,7 +177,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: bold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     attached_blog: posts/souvenirs-from-paradise.md
     text_size: 2xl
@@ -254,7 +254,7 @@ content_blocks:
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    meta_align: right
+    meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
     color: '#d6bfe9'
     title: Bloomberg
@@ -341,7 +341,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
     color: '#d0e5ef'
     title: A Vanishing Folklore
@@ -407,9 +407,9 @@ content_blocks:
     meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '30'
-    margin_y: '200'
-    margin_left: '15'
+    width: '33'
+    margin_y: '300'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
     color: '#fdddad'
@@ -422,7 +422,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-feature
     title: 'Smithsonian '
     meta: 'Kitt Peak National Obserbatory '
@@ -543,7 +543,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
     color: '#f8e4d0'
     title: Vox's 100 Battles
@@ -815,7 +815,7 @@ content_blocks:
     margin_right: '0'
     title_margin_left: '-20'
     title_margin_right: '0'
-    meta_align: right
+    meta_align: left
     title: Arizona Tourism
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     color: '#a8f1e1'
@@ -853,7 +853,7 @@ content_blocks:
     margin_right: '0'
     title_margin_left: '5'
     title_margin_right: '0'
-    meta_align: right
+    meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
     title: Wired
     color: '#ffe087'
@@ -914,7 +914,7 @@ content_blocks:
     text_tracking: normal
     meta_align: right
     title: Autobiography of a Contact Sport
-    meta:
+    meta: '2016'
     attached_collection: collections/autobiography.md
     color: '#fdd3d3'
     text_color: '#e0e39b'
