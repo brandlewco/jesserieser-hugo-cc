@@ -408,7 +408,7 @@ content_blocks:
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '-200'
     margin_left: '15'
     margin_right: '0'
     align_y: center
