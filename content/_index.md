@@ -406,10 +406,10 @@ content_blocks:
     title: ESPN
     meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg
-    width: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
+    width: '33'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#fdddad'
@@ -428,18 +428,18 @@ content_blocks:
     meta: 'Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    width: '40'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     align_y: center
     color: '#000000'
     caption: smithsonian
     title_margin_y: '10'
     title_margin_left: '25'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#fdd4a2'
+    text_size: 6xl
+    text_color: '#a2cffd'
     line_height: normal
     text_alignment: center
     text_tracking: normal
