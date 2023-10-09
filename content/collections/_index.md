@@ -6,13 +6,13 @@ collection_description: >-
 title: Jesse Rieser - All Work Portfolio
 collection_sorter:
   - collections/outdoor-life.md
-  - collections/time-magazine-clone-test.md
-  - collections/bloomberg-nomads.md
-  - collections/golfdigest-nicklaus.md
-  - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
+  - collections/time-magazine-clone-test.md
+  - collections/barrons-lake-mead-drought.md
+  - collections/bloomberg-nomads.md
+  - collections/golfdigest-nicklaus.md
   - collections/xmas-in-america.md
   - collections/vanishing-folklore.md
   - collections/gundemic.md
