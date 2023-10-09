@@ -518,7 +518,7 @@ content_blocks:
     attached_blog: posts/star-geezers-on-boooooom.md
     width: '25'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     title: Star Geezers on BOOOOOOM!
@@ -532,7 +532,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: '50'
     align_y: start
-    margin_y: '400'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     title_margin_y: '15'
@@ -545,11 +545,11 @@ content_blocks:
     font_weight: semibold
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
-    color: '#F8E4D0'
+    color: '#f8e4d0'
     title: Vox's 100 Battles
     meta: Summoning the Ghost Town
     attached_collection: collections/vox-100-battles-ghost-towns.md
-    text_color: '#A5F48A'
+    text_color: '#a5f48a'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
