@@ -127,7 +127,7 @@ content_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     color: '#f2ecdf'
     attached_collection: collections/retail.md
     meta: 2015 - 2022
