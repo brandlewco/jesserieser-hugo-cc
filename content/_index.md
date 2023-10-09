@@ -17,13 +17,13 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Outside Life '
+    title: 'Outdoor Life '
     meta: A Son's First Solo Hunt
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
     width: '55'
     margin_y: '0'
-    margin_left: '10'
+    margin_left: '40'
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
@@ -53,7 +53,7 @@ content_blocks:
     link: >-
       mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
     color: '#000000'
-    text_color: '#FFFFFF'
+    text_color: '#ffffff'
     meta: 'Silver Sneakers & Apple Fitness + '
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -73,10 +73,10 @@ content_blocks:
     meta_align: left
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     attached_collection: collections/antoine-s-escalaras.md
-    color: '#E5F5B5'
+    color: '#e5f5b5'
     title: Antoine's Escalaras
     meta: 2022 Communications Arts Photo Annual
-    text_color: '#B4F0F7'
+    text_color: '#b4f0f7'
     font_weight: semibold
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -119,10 +119,10 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '40'
+    width: '55'
     align_y: start
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     title_margin_left: '5'
     title_margin_right: '0'
