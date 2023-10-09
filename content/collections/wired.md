@@ -42,7 +42,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage-2.jpg
     margin_left: '0'
     margin_right: '15'
-    margin_y: '900'
+    margin_y: '700'
     width: '30'
   - _bookshop_name: collections/media-row
     row_alignment: between
