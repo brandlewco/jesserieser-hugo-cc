@@ -408,7 +408,7 @@ content_blocks:
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     width: '30'
-    margin_y: '-200'
+    margin_y: '200'
     margin_left: '15'
     margin_right: '0'
     align_y: center
@@ -429,11 +429,11 @@ content_blocks:
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
     align_y: center
-    color: '#000000'
+    color: '#a1c7f7'
     caption: smithsonian
     title_margin_y: '10'
     title_margin_left: '35'
@@ -749,11 +749,11 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
-    color: '#C1EEE7'
+    color: '#c1eee7'
     title: V
     meta: Armani 50th Anniversary Featuring Deandre Hopkins
     attached_collection: collections/armani-anniversary.md
-    text_color: '#F270F1'
+    text_color: '#f270f1'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
