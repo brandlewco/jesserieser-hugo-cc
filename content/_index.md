@@ -44,7 +44,7 @@ content_blocks:
     text_size: 2xl
     width: '33'
     align_y: start
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '25'
     margin_right: '0'
     block_aspect_ratio: 3x2
@@ -55,6 +55,21 @@ content_blocks:
     color: '#000000'
     text_color: '#ffffff'
     meta: 'Silver Sneakers & Apple Fitness + '
+  - _bookshop_name: home/modal-blog
+    title: 'AP 39: American Photography Annual '
+    meta: Awards
+    attached_blog: posts/ap-39-american-photography-annual.md
+    text_size: base
+    color: '#ffffff'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    block_aspect_ratio: 4x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
+    caption: 'Barron''s: Beyond The Drought'
+    theme_color: '#ffd2d2'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -141,6 +156,21 @@ content_blocks:
     title_margin_y: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/souvenirs-from-paradise.md
+    text_size: 2xl
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    title: Souvenirs From Paradise Exhibition
+    color: '#F3D7D7'
+    block_aspect_ratio: 16x9
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+    caption: The Gallery at Mountain Shadows
+    theme_color: '#F6E7D1'
+    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-feature
     title: 'Wired '
     meta: 'A Wrinkle In Time '
@@ -186,21 +216,6 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: 'AP 39: American Photography Annual '
-    meta: Awards
-    attached_blog: posts/ap-39-american-photography-annual.md
-    text_size: base
-    color: '#ffffff'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    block_aspect_ratio: 4x3
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
-    caption: 'Barron''s: Beyond The Drought'
-    theme_color: '#ffd2d2'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -273,21 +288,6 @@ content_blocks:
     title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    attached_blog: posts/souvenirs-from-paradise.md
-    text_size: 2xl
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    title: Souvenirs From Paradise Exhibition
-    color: '#F3D7D7'
-    block_aspect_ratio: 16x9
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
-    caption: The Gallery at Mountain Shadows
-    theme_color: '#F6E7D1'
-    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-feature
     width: '55'
     align_y: start
