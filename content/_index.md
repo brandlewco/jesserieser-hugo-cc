@@ -553,10 +553,10 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '45'
+    width: '60'
     align_y: start
     margin_y: '300'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     title_margin_y: '10'
     title_margin_left: '5'
@@ -589,27 +589,6 @@ content_blocks:
     theme_color: '#ffd595'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    title_margin_y: '15'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 6xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-valley-3.jpg
-    color: '#D4F2ED'
-    title: One Night In The Valley
-    meta: 2022
-    attached_collection: collections/one-night-in-the-valley.md
-    text_color: '#F4CF95'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
