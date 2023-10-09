@@ -90,7 +90,7 @@ content_blocks:
     attached_collection: collections/antoine-s-escalaras.md
     color: '#e5f5b5'
     title: Antoine's Escalaras
-    meta: 2022 Communications Arts Photo Annual
+    meta: Communications Arts Photo Annual
     text_color: '#b4f0f7'
     font_weight: semibold
   - _bookshop_name: home/media-row
