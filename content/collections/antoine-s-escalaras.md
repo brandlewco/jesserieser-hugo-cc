@@ -6,7 +6,7 @@ seo:
     sport
   meta_title: Antoines Escalaras selected by Communication Arts
 title: Antoine's Escalaras
-collection_meta: 2022 Communication Arts Photo Annual
+collection_meta: Communication Arts Photo Annual
 collection_meta_2: ''
 collection_description: >-
   A photo and film project that marries my environmental architectural
