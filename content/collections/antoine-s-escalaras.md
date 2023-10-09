@@ -9,7 +9,7 @@ title: Antoine's Escalaras
 collection_meta: Communication Arts Photo Annual
 collection_meta_2: ''
 collection_description: >-
-  A photo and film project that marries my environmental architectural
+  A photo and film project combining my environmental architectural
   sensibilities with my sport photographic works.
 
 
