@@ -171,8 +171,8 @@ content_blocks:
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#91dac5'
+    text_size: 6xl
+    text_color: '#91dacd'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -247,20 +247,20 @@ content_blocks:
     margin_y: '300'
     margin_left: '10'
     margin_right: '0'
-    title_margin_y: '15'
+    title_margin_y: '10'
     title_margin_left: '-25'
     title_margin_right: '0'
-    text_size: 7xl
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
     meta_align: right
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
     color: '#d6bfe9'
-    title: BLOOMBERG
+    title: Bloomberg
     meta: America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
-    text_color: '#f5a8a8'
+    text_color: '#e7a8f5'
     font_weight: semibold
   - _bookshop_name: home/media-feature
     width: '33'
@@ -269,9 +269,9 @@ content_blocks:
     margin_left: '0'
     margin_right: '5'
     title_margin_y: '25'
-    title_margin_left: '60'
+    title_margin_left: '65'
     title_margin_right: '0'
-    text_size: 8xl
+    text_size: 6xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -282,7 +282,7 @@ content_blocks:
     text_color: '#a6cdec'
     font_weight: semibold
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
-    title: TIME
+    title: 'Time '
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -317,14 +317,14 @@ content_blocks:
     attached_collection: collections/phoenix.md
     meta: Torpedo London
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    color: '#D0F4F2'
+    color: '#d0f4f2'
     text_size: 6xl
     font_weight: semibold
     text_tracking: normal
     text_alignment: left
     line_height: normal
     title: Adobe
-    text_color: '#FFFA8A'
+    text_color: '#fffa8a'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -439,7 +439,7 @@ content_blocks:
     title_margin_left: '25'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#a2cffd'
+    text_color: '#a2fdd9'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -561,7 +561,7 @@ content_blocks:
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 8xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
