@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Communication Arts Photography Annual 2022
+title: Communication Arts Photography Annual
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -88,7 +88,7 @@ caption: Antoine’s Escalaras
 content: >-
   Beyond thrilled to share that [**Antoine’s
   Escalaras**](https://jesserieser.com/collections/escalaras) has been
-  recognized in this year’s [***Communication Arts Photo
+  recognized in the&nbsp;[***Communication Arts Photo
   Annual***](https://www.commarts.com/project/34295/antoine-s-escalaras).
 
 
