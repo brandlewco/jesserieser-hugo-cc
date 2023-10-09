@@ -147,7 +147,7 @@ content_blocks:
     attached_collection: collections/retail.md
     meta: 2015 - 2022
     title: The Changing Landscape of American Retail
-    text_color: '#75d8a0'
+    text_color: '#f18961'
     text_size: 6xl
     text_alignment: left
     text_tracking: widest
@@ -242,13 +242,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '40'
+    width: '45'
     align_y: start
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    title_margin_y: '10'
-    title_margin_left: '-25'
+    title_margin_y: '5'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
     line_height: normal
@@ -407,7 +407,7 @@ content_blocks:
     meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '33'
+    width: '30'
     margin_y: '-200'
     margin_left: '15'
     margin_right: '0'
@@ -417,7 +417,7 @@ content_blocks:
     title_margin_y: '20'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_color: '#fd8080'
+    text_color: '#57c09a'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -428,7 +428,7 @@ content_blocks:
     meta: 'Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
-    width: '40'
+    width: '45'
     margin_y: '300'
     margin_left: '0'
     margin_right: '5'
@@ -436,10 +436,10 @@ content_blocks:
     color: '#000000'
     caption: smithsonian
     title_margin_y: '10'
-    title_margin_left: '25'
+    title_margin_left: '35'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#a2fdd9'
+    text_color: '#72c2fb'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -504,9 +504,9 @@ content_blocks:
     color: '#c3d6eb'
     caption: test caption
     title_margin_y: '10'
-    title_margin_left: '-25'
+    title_margin_left: '-15'
     title_margin_right: '0'
-    text_color: '#f6a3f7'
+    text_color: '#fbb46a'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -687,15 +687,15 @@ content_blocks:
     width: '33'
     align_y: start
     margin_y: '200'
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     title: AP 37
-    color: '#F6F9AD'
+    color: '#f6f9ad'
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
     blog_header:
     caption: 'The New York Times: Auctioning Off a Dead Mall'
-    theme_color: '#FFCC8E'
+    theme_color: '#ffcc8e'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/young-guns-19.md
     text_size: 2xl
@@ -705,11 +705,11 @@ content_blocks:
     margin_left: '0'
     margin_right: '20'
     title: YG 19
-    color: '#FFE6E6'
+    color: '#ffe6e6'
     block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
     caption: Judge and The New Procrastinator's Guide
-    theme_color: '#B9F1A8'
+    theme_color: '#b9f1a8'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
