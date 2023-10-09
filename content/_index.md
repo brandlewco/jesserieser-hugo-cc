@@ -244,7 +244,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: '40'
     align_y: start
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     title_margin_y: '10'
@@ -265,7 +265,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     width: '33'
     align_y: start
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     title_margin_y: '25'
