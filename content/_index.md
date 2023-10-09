@@ -379,22 +379,22 @@ content_blocks:
     caption: Washington Post Cover Feature + Interview
     theme_color: '#FF5252'
   - _bookshop_name: home/media-feature
-    width: '50'
+    width: '55'
     align_x: start
     margin_y: '400'
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     attached_collection: collections/xmas-in-america.md
     title: Christmas in America
-    color: '#F4C8C8'
-    meta: 2010 - 2019
+    color: '#f4c8c8'
+    meta: 2010 - 2022
     align_y:
     margin_left: '0'
     margin_right: '10'
     title_margin_left: '5'
     title_margin_right:
     meta_align: right
-    text_color: '#F7EE81'
-    text_size: 6xl
+    text_color: '#f7ee81'
+    text_size: 7xl
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
