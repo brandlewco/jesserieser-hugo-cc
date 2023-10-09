@@ -21,8 +21,8 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
-  - collections/vox-100-battles-ghost-towns.md
   - collections/smithsonian.md
+  - collections/vox-100-battles-ghost-towns.md
   - collections/arizona-office-of-tourism.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
