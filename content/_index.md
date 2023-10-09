@@ -570,7 +570,7 @@ content_blocks:
     title: 'Amtrak '
     meta: 'On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
-    color: '#f5e9a3'
+    color: '#d8c0ed'
     text_color: '#f6f2a3'
     font_weight: bold
   - _bookshop_name: home/modal-blog
