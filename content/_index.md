@@ -242,10 +242,10 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '45'
+    width: '40'
     align_y: start
-    margin_y: '100'
-    margin_left: '40'
+    margin_y: '300'
+    margin_left: '10'
     margin_right: '0'
     title_margin_y: '15'
     title_margin_left: '-25'
@@ -266,8 +266,8 @@ content_blocks:
     width: '33'
     align_y: start
     margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     title_margin_y: '25'
     title_margin_left: '60'
     title_margin_right: '0'
@@ -285,28 +285,6 @@ content_blocks:
     title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
-    align_y: center
-    color: '#000000'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '25'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#fdd4a2'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -440,6 +418,28 @@ content_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     text_color: '#fd8080'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/media-feature
+    title: 'Smithsonian '
+    meta: 'Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y: center
+    color: '#000000'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '25'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#fdd4a2'
     line_height: normal
     text_alignment: center
     text_tracking: normal
