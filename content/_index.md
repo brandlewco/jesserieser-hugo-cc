@@ -134,10 +134,10 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    width: '55'
+    width: '60'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -156,35 +156,20 @@ content_blocks:
     title_margin_y: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    attached_blog: posts/souvenirs-from-paradise.md
-    text_size: 2xl
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    title: Souvenirs From Paradise Exhibition
-    color: '#F3D7D7'
-    block_aspect_ratio: 16x9
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
-    caption: The Gallery at Mountain Shadows
-    theme_color: '#F6E7D1'
-    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-feature
     title: 'Wired '
     meta: 'A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '30'
+    width: '33'
+    margin_y: '300'
+    margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#cd98d4'
     caption: test caption
     title_margin_y: '15'
-    title_margin_left: '-30'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_size: 8xl
     text_color: '#91dac5'
@@ -193,6 +178,21 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    attached_blog: posts/souvenirs-from-paradise.md
+    text_size: 2xl
+    width: '45'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    title: Souvenirs From Paradise Exhibition
+    color: '#f3d7d7'
+    block_aspect_ratio: 16x9
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+    caption: The Gallery at Mountain Shadows
+    theme_color: '#f6e7d1'
+    vimeo_block_cover: '769252337'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -200,9 +200,9 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
-    width: '55'
-    margin_y: '200'
-    margin_left: '10'
+    width: '50'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -216,6 +216,73 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    width: '60'
+    align_y: start
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
+    title_margin_y: '15'
+    title_margin_left: '10'
+    title_margin_right: '0'
+    text_size: 8xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
+    color: '#d3e8ef'
+    attached_collection: collections/barrons-lake-mead-drought.md
+    font_weight: semibold
+    meta: Beyond the Drought Cover Story
+    title: Barron's
+    text_color: '#ffe9d8'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    width: '45'
+    align_y: start
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
+    title_margin_y: '15'
+    title_margin_left: '-25'
+    title_margin_right: '0'
+    text_size: 7xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
+    color: '#d6bfe9'
+    title: BLOOMBERG
+    meta: America's New Climate Nomads Embrace Van Life to Save Energy
+    attached_collection: collections/bloomberg-nomads.md
+    text_color: '#f5a8a8'
+    font_weight: semibold
+  - _bookshop_name: home/media-feature
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    title_margin_y: '25'
+    title_margin_left: '60'
+    title_margin_right: '0'
+    text_size: 8xl
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    meta_align: right
+    color: '#cdf0d6'
+    meta: 'Kari Lake: Face of the New Maga Right'
+    attached_collection: collections/time-kari-lake.md
+    text_color: '#a6cdec'
+    font_weight: semibold
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
+    title: TIME
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -242,73 +309,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '45'
-    align_y: start
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    title_margin_y: '15'
-    title_margin_left: '-25'
-    title_margin_right: '0'
-    text_size: 7xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
-    color: '#d6bfe9'
-    title: BLOOMBERG
-    meta: America's New Climate Nomads Embrace Van Life to Save Energy
-    attached_collection: collections/bloomberg-nomads.md
-    text_color: '#f5a8a8'
-    font_weight: semibold
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    title_margin_y: '25'
-    title_margin_left: '60'
-    title_margin_right: '0'
-    text_size: 8xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    meta_align: right
-    color: '#cdf0d6'
-    meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: collections/time-kari-lake.md
-    text_color: '#a6cdec'
-    font_weight: semibold
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
-    title: TIME
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    width: '55'
-    align_y: start
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    title_margin_y: '15'
-    title_margin_left: '10'
-    title_margin_right: '0'
-    text_size: 8xl
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    meta_align: right
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
-    color: '#d3e8ef'
-    attached_collection: collections/barrons-lake-mead-drought.md
-    font_weight: semibold
-    meta: Beyond the Drought Cover Story
-    title: Barron's
-    text_color: '#ffe9d8'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
