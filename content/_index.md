@@ -407,9 +407,9 @@ content_blocks:
     meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '10'
+    width: '40'
+    margin_y: '700'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#fdddad'
