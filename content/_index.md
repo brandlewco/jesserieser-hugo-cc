@@ -813,7 +813,7 @@ content_blocks:
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
     width: '33'
-    margin_y: '-250'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y: center
@@ -834,10 +834,10 @@ content_blocks:
     meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
     attached_collection: collections/espn-cowboy-cerronne.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '20'
+    width: '15'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '30'
     align_y: center
     color: '#2d1360'
     caption: test caption
