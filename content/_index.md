@@ -1013,7 +1013,7 @@ selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
     theme_color: '#b1adf1'
-    image_mobile:
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-2.jpg
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
     theme_color: '#a9f7c8'
