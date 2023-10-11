@@ -408,7 +408,7 @@ content_blocks:
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     width: '40'
-    margin_y: '700'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -429,14 +429,14 @@ content_blocks:
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
     width: '45'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: start
     color: '#a1c7f7'
     caption: smithsonian
     title_margin_y: '10'
-    title_margin_left: '70'
+    title_margin_left: '65'
     title_margin_right: '0'
     text_size: 7xl
     text_color: '#b1d7f7'
