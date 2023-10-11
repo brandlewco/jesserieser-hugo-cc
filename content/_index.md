@@ -834,10 +834,10 @@ content_blocks:
     meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
     attached_collection: collections/espn-cowboy-cerronne.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '15'
-    margin_y: '300'
+    width: '20'
+    margin_y: '800'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '25'
     align_y: start
     color: '#2d1360'
     caption: test caption
