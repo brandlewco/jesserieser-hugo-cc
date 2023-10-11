@@ -1006,26 +1006,21 @@ collection_content: ''
 navigation_theme: black
 row_alignment: between
 selected_works_theme:
-  - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
+  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
     theme_color: '#f3c5c5'
-    image_mobile:
-  - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
+    image_mobile: ''
+  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
     theme_color: '#b1adf1'
-    image_mobile:
-  - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
+    image_mobile: ''
+  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
     theme_color: '#a9f7c8'
-    image_mobile:
-  - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
+    image_mobile: ''
+  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
     theme_color: '#a0c6ff'
-    image_mobile:
-  - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
+    image_mobile: ''
+  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
     theme_color: '#f9d7ac'
-    image_mobile:
+    image_mobile: ''
 px_extra: true
 date: 2017-11-01T23:00:00Z
 ---
