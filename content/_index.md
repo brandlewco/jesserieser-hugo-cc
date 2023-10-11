@@ -952,7 +952,8 @@ content_blocks:
     blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
-  - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title: ESPN
     meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
@@ -975,6 +976,7 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: center
+  - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
 navigation_theme: black
