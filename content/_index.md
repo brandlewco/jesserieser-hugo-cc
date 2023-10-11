@@ -417,7 +417,7 @@ content_blocks:
     title_margin_y: '20'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_color: '#57c09a'
+    text_color: '#f39696'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -436,10 +436,10 @@ content_blocks:
     color: '#a1c7f7'
     caption: smithsonian
     title_margin_y: '10'
-    title_margin_left: '35'
+    title_margin_left: '70'
     title_margin_right: '0'
     text_size: 7xl
-    text_color: '#72c2fb'
+    text_color: '#b1d7f7'
     line_height: normal
     text_alignment: center
     text_tracking: normal
