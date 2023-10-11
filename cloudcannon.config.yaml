@@ -91,6 +91,8 @@ _inputs:
     type: text
   image:
     type: image
+  image_mobile:
+    type: image
   align_y:
     type: select
     options:

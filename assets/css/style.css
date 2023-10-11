@@ -576,16 +576,6 @@ html.is-changing #content {
   list-style: none;
 }
 
-@responsive {
-  .translate-0 {
-    transform: translateY(0%);
-  }
-
-  .translate-neg {
-    transform: translateY(-200%);
-  }
-}
-
 @media (max-width: 768px) {
   .translate-none {
     transform: none !important;
