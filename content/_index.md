@@ -1017,15 +1017,15 @@ selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
     theme_color: '#a9f7c8'
-    image_mobile:
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-3.jpg
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
     theme_color: '#a0c6ff'
-    image_mobile:
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-4.jpg
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
     theme_color: '#f9d7ac'
-    image_mobile:
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-5.jpg
 px_extra: true
 date: 2017-11-01T23:00:00Z
 ---
