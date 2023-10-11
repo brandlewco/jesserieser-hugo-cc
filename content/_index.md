@@ -828,7 +828,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: center
+    meta_align: left
   - _bookshop_name: home/media-feature
     title: ESPN
     meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
