@@ -411,7 +411,7 @@ content_blocks:
     margin_y: '300'
     margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#fdddad'
     caption: test caption
     title_margin_y: '20'
@@ -432,7 +432,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    align_y: center
+    align_y: start
     color: '#a1c7f7'
     caption: smithsonian
     title_margin_y: '10'
@@ -816,7 +816,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#c5f6fb'
     caption: test caption
     title_margin_y: '10'
@@ -838,7 +838,7 @@ content_blocks:
     margin_y: '300'
     margin_left: '0'
     margin_right: '30'
-    align_y: center
+    align_y: start
     color: '#2d1360'
     caption: test caption
     title_margin_y: '-10'
@@ -1006,21 +1006,26 @@ collection_content: ''
 navigation_theme: black
 row_alignment: between
 selected_works_theme:
-  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
     theme_color: '#f3c5c5'
-    image_mobile: ''
-  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
     theme_color: '#b1adf1'
-    image_mobile: ''
-  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
     theme_color: '#a9f7c8'
-    image_mobile: ''
-  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
     theme_color: '#a0c6ff'
-    image_mobile: ''
-  - image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
     theme_color: '#f9d7ac'
-    image_mobile: ''
+    image_mobile:
 px_extra: true
 date: 2017-11-01T23:00:00Z
 ---
