@@ -234,9 +234,9 @@ collection_blocks:
     color: '#ebe3eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
     margin_left: '0'
-    margin_right: '25'
-    margin_y: '300'
-    width: '30'
+    margin_right: '15'
+    margin_y: '400'
+    width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-14.jpg
