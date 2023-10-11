@@ -80,7 +80,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-10.jpg
     margin_left: '15'
     margin_right: '0'
-    margin_y: '700'
+    margin_y: '900'
     width: '20'
   - _bookshop_name: collections/media-element
     color: '#f5f1ee'
