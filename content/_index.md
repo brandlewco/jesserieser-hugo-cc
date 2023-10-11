@@ -841,7 +841,7 @@ content_blocks:
     align_y: center
     color: '#2d1360'
     caption: test caption
-    title_margin_y: '5'
+    title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
