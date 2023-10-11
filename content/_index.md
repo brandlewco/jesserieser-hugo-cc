@@ -958,22 +958,26 @@ collection_content: ''
 navigation_theme: black
 row_alignment: between
 selected_works_theme:
-  - template: selected-works-theme
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_2021-horizontal-2.jpg
-    theme_color: '#86d5f3'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_2021-vertical-2.jpg
-  - template: selected-works-theme
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-3.jpg
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-3.jpg
-    theme_color: '#C5E2D6'
-  - template: selected-works-theme
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-6.jpg
-    theme_color: '#F3DDC8'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-6.jpg
-  - template: selected-works-theme
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks-7.jpg
-    theme_color: '#DEDFF7'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-selectedworks_verts-7.jpg
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
+    theme_color: '#f3c5c5'
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
+    theme_color: '#b1adf1'
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
+    theme_color: '#a9f7c8'
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
+    theme_color: '#a0c6ff'
+    image_mobile:
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
+    theme_color: '#f9d7ac'
+    image_mobile:
 px_extra: true
 date: 2017-11-01T23:00:00Z
 ---
