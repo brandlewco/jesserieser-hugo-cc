@@ -875,7 +875,7 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     line_height: none
-    title_margin_y: '75'
+    title_margin_y: '60'
   - _bookshop_name: home/modal-blog
     attached_blog: posts/ap-36-american-photography-annual.md
     width: '15'
