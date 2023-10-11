@@ -217,9 +217,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#f9f0f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
-    margin_left: '50'
+    margin_left: '5'
     margin_y: '100'
-    width: '45'
+    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -228,14 +228,14 @@ collection_blocks:
     color: '#faf4ea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
     margin_left: '10'
-    margin_y: '600'
-    width: '45'
+    margin_y: '100'
+    width: '33'
   - _bookshop_name: collections/media-element
     color: '#ebe3eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
     margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
+    margin_right: '25'
+    margin_y: '300'
     width: '30'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
