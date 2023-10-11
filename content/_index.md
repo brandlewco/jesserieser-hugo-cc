@@ -808,6 +808,54 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: Golf Digest
+    meta: 'Cameron Young Cover Story '
+    attached_collection: collections/golf-digest-cam-young.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
+    width: '30'
+    margin_y: '-250'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#c5f6fb'
+    caption: test caption
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: center
+  - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
+    attached_collection: collections/espn-cowboy-cerronne.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
+    width: '33'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: center
+    color: '#2d1360'
+    caption: test caption
+    title_margin_y: '0'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#faabab'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     width: '45'
     align_y: start
     margin_y: '100'
@@ -952,30 +1000,6 @@ content_blocks:
     blog_header:
     caption: The Fence at The Griffin Museum of Photography
     theme_color: '#E5E5EF'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
-    attached_collection: collections/espn-cowboy-cerronne.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '33'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#2d1360'
-    caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#faabab'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: center
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
