@@ -199,8 +199,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     color: '#d8e4e4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-23.jpg
-    margin_left: '0'
-    margin_right: '20'
+    margin_left: '45'
+    margin_right: '0'
     margin_y: '100'
     width: '33'
   - _bookshop_name: collections/media-row
