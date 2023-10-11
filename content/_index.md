@@ -812,15 +812,15 @@ content_blocks:
     meta: 'Cameron Young Cover Story '
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
-    width: '25'
+    width: '33'
     margin_y: '-250'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#c5f6fb'
     caption: test caption
-    title_margin_y: '20'
-    title_margin_left: '-30'
+    title_margin_y: '5'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
     text_color: '#f7b983'
@@ -834,10 +834,10 @@ content_blocks:
     meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
     attached_collection: collections/espn-cowboy-cerronne.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '33'
+    width: '20'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '25'
     align_y: center
     color: '#2d1360'
     caption: test caption
