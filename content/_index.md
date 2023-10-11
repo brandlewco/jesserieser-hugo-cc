@@ -271,7 +271,7 @@ content_blocks:
     title_margin_y: '25'
     title_margin_left: '65'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 8xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
