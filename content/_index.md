@@ -250,7 +250,7 @@ content_blocks:
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 8xl
+    text_size: 7xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -271,7 +271,7 @@ content_blocks:
     title_margin_y: '25'
     title_margin_left: '65'
     title_margin_right: '0'
-    text_size: 8xl
+    text_size: 7xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -318,7 +318,7 @@ content_blocks:
     meta: Torpedo London
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
     color: '#d0f4f2'
-    text_size: 6xl
+    text_size: 7xl
     font_weight: semibold
     text_tracking: normal
     text_alignment: left
@@ -438,7 +438,7 @@ content_blocks:
     title_margin_y: '10'
     title_margin_left: '35'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     text_color: '#72c2fb'
     line_height: normal
     text_alignment: center
@@ -538,7 +538,7 @@ content_blocks:
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -908,7 +908,7 @@ content_blocks:
     meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
     attached_collection: collections/wired-bitmain.md
     text_color: '#f8f1bc'
-    text_size: 6xl
+    text_size: 7xl
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
@@ -965,7 +965,7 @@ content_blocks:
     meta: '2016'
     attached_collection: collections/autobiography.md
     color: '#fdd3d3'
-    text_color: '#e0e39b'
+    text_color: '#74d29e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto-blog-19.jpg
     font_weight: semibold
   - _bookshop_name: home/media-row
