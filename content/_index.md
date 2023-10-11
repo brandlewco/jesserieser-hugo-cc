@@ -822,8 +822,8 @@ content_blocks:
     title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#000000'
+    text_size: 6xl
+    text_color: '#f7b983'
     line_height: normal
     text_alignment: center
     text_tracking: normal
