@@ -812,15 +812,15 @@ content_blocks:
     meta: 'Cameron Young Cover Story '
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
-    width: '30'
+    width: '25'
     margin_y: '-250'
-    margin_left: '0'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#c5f6fb'
     caption: test caption
-    title_margin_y: '0'
-    title_margin_left: '0'
+    title_margin_y: '20'
+    title_margin_left: '-30'
     title_margin_right: '0'
     text_size: 6xl
     text_color: '#f7b983'
@@ -837,11 +837,11 @@ content_blocks:
     width: '33'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: center
     color: '#2d1360'
     caption: test caption
-    title_margin_y: '0'
+    title_margin_y: '5'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
@@ -859,7 +859,7 @@ content_blocks:
     width: '45'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     title_margin_left: '-20'
     title_margin_right: '0'
@@ -882,15 +882,15 @@ content_blocks:
     align_y: start
     margin_y: '700'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     title: AP 36
-    color: '#D8EBEE'
+    color: '#d8ebee'
     text_size: 4xl
     block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
     caption: 'Wired: The Internet Giant That Went Too Far'
-    theme_color: '#FDF9B0'
+    theme_color: '#fdf9b0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
