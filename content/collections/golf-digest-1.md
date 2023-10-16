@@ -120,7 +120,7 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-10.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/scottie_vcover-10.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-9.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Sports + Athletes
