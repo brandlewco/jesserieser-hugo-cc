@@ -110,7 +110,7 @@ collection_blocks:
     width: '70'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-42.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-11.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Advertising
