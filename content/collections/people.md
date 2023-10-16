@@ -183,7 +183,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-9.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/uvalde-cover-vert-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-7.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
@@ -210,12 +210,12 @@ collection_content: >-
 
   I recently traveled to Uvalde, TX to spend the day with the Salazar family. I
   can’t thank them enough for their hospitality and openness while navigating
-  and living every parent’s worst nightmare.&nbsp;
+  and living every parent’s worst nightmare.
 
 
   “Layla was just 7 months old in 2011 when Vinnie, who worked for a steel
   company, moved the family from a Chicago suburb to his hometown of Uvalde
-  because he believed it would be safer there.&nbsp;
+  because he believed it would be safer there.
 
 
   At around 11:40 a.m., May 22, 2022 Vinnie received a text message about a
