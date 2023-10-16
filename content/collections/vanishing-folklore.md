@@ -376,7 +376,7 @@ collection_category:
   - Portraits
   - Reportage
 date: 2022-07-25T23:56:24Z
-theme_color: '#f1dcc4'
+theme_color: '#c4f1d6'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
