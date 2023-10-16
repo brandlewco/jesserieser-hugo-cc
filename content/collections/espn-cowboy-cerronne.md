@@ -136,7 +136,7 @@ collection_blocks:
     width: '33'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-16.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-12.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
