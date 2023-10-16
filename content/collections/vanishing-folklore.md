@@ -367,7 +367,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-19.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-5.jpg
 collection_filter: Personal
 collection_category:
   - Exhibited Works
