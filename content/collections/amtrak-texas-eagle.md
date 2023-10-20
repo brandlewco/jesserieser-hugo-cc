@@ -84,9 +84,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-7.jpg
-    width: '45'
+    width: '50'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y: ''
     color: '#efcab3'
@@ -105,7 +105,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-9.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '10'
     margin_right: ''
     align_y: ''
@@ -113,20 +113,20 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-10.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: ''
     color: '#dcedf8'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-11.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#f4dfe7'
@@ -134,7 +134,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-12.jpg
     width: '30'
     margin_y: '100'
     margin_left: '5'
@@ -143,7 +143,7 @@ collection_blocks:
     color: '#d5f4f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-13.jpg
     width: '50'
     margin_y: '400'
     margin_left: '0'
@@ -154,86 +154,86 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-13.jpg
-    width: '60'
-    margin_y: '300'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y: ''
-    color: '#CCE3FA'
+    color: '#cce3fa'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-17.jpg
-    width: '50'
-    margin_y: '200'
+    width: '45'
+    margin_y: '100'
     margin_left: '0'
     margin_right: ''
     align_y: ''
-    color: '#F1E3CF'
+    color: '#f1e3cf'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-18.jpg
     width: '45'
-    margin_y: '600'
+    margin_y: '100'
     margin_left: ''
     margin_right: '0'
     align_y: ''
-    color: '#F9DECE'
+    color: '#f9dece'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-20.jpg
-    width: '50'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-18.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '30'
     margin_right: ''
     align_y: ''
-    color: '#CCE1F3'
+    color: '#cce1f3'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-19.jpg
     width: '50'
     margin_y: '200'
     margin_left: '0'
     margin_right: ''
     align_y: ''
-    color: '#D8F3D8'
+    color: '#d8f3d8'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-20.jpg
     width: '50'
     margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     align_y: ''
-    color: '#FBC1A2'
+    color: '#fbc1a2'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-21.jpg
     width: '55'
     margin_y: '200'
     margin_left: '40'
     margin_right: ''
     align_y: ''
-    color: '#D5D9F0'
+    color: '#d5d9f0'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-22.jpg
     width: '45'
     margin_y: '400'
     margin_left: '5'
     margin_right: ''
     align_y: ''
-    color: '#DDEDF6'
+    color: '#ddedf6'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-24.jpg
@@ -249,13 +249,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-29.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-23.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: ''
-    color: '#DDFFE6'
+    color: '#ddffe6'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
