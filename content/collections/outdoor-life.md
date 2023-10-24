@@ -219,24 +219,8 @@ collection_content: >-
   ⁠He’d proven himself as a hunter: to himself, to me, and to the wilderness. In
   the eyes of the old hunter-gatherer people who once lived here, he was now a
   man and capable of providing.”⁠
-collection_awards:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
-      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    icon:
-    template: array-placeholder
-    url:
-collection_press:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
-      "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-    icon:
-    template: array-placeholder
-    url:
+collection_awards: []
+collection_press: []
 collection_exhibition: []
 collection_archive: false
 collection_hidden: false
