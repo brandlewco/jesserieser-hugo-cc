@@ -1,16 +1,50 @@
 {{- define "main" -}}
-<section data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}" class="relative z-0">
-    {{ partial "about_header" .}}
-    </section>
-    <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
-        <section class="flex flex-wrap overflow-hidden filter-container z-10 mx-auto relative pl-0 sm:pl-5 md:pl-6">
-Placeholder
-        </section>
+    <section data-hue="black" class="pt-20 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
+        <section id="filter" class="flex flex-wrap overflow-hidden filter-container z-10 mx-auto relative pl-0 sm:pl-5 md:pl-6">
+            <div id="filter-loading" class="fixed mt-24" style="left: 50%; margin-left: -1rem;">
+                <svg id="filter-loading" class="text-4xl icon h-8 w-8 text-black spin">
+                    <use xlink:href="#spinner"></use>
+                </svg>
+            </div>
+            {{ range .Params.overview_collection}}
+            {{ with $.Site.GetPage . }}
+            <figure class="filter-item h-auto py-4 pr-4 sm:pr-0 pl-4 lg:w-grid-four sm:w-grid-three w-full overflow-hidden all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}">
+                <a href="{{substr .Permalink 0 -1}}">
+                    {{if .Params.collection_preview }}
+                    <div class="collection-preview relative lazyload" style="padding-top:75%; background-color:{{.Params.theme_color}};">
+                    {{else}}
+                    <div class="relative" style="padding-top:75%; background-color:{{.Params.theme_color}};">
+                    {{end}}
+                    <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
+                        <use xlink:href="#spinner"></use>
+                    </svg>
+                        {{with .Params.collection_preview}}
+                        {{ range first 1 . }}
+                        <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
+                        {{end}}
+                        {{ range first 3 (after 1 . )}}
+                        <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
+                        {{end}}
+                        {{else}}
+                        <img data-sizes="auto" data-parent-fit="cover" data-srcset="{{.Params.collection_cover}}?width=400&h=300 400w, {{.Params.collection_cover}}?width=600&h=450 600w, {{.Params.collection_cover}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" alt="{{.Title}}"/>
+                        {{end}}
 
-        <footer class="px-4 xl:px-16 py-10 flex flex-wrap" style="background-color: {{.Params.theme_color}};">
-            {{ range .Params.footer_links }}
-                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-white text-base md:text-lg" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
-            {{ end }}
-        </footer>
+                    </div>
+                    
+                    <figcaption class="text-black text-base">
+                    <span class="font-medium italic block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
+                    <span class="font-normal block text-xs pt-1 tracking-widest leading-tight no-underline">{{.Params.collection_meta}} {{with .Params.collection_meta_2}} - {{.}}{{end}}</span>
+                    </figcaption>
+                </a>
+            </figure>     
+            {{end}}
+            {{end}}       
+        </section>
 </section>
+{{- end -}}
+
+{{- define "attached" -}}
+{{- $options := dict "targetPath" "js/overview-out.js" -}}
+{{- $jsBundle := resources.Get "js/overview.js" | js.Build $options | fingerprint -}}
+    <script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
 {{- end -}}
