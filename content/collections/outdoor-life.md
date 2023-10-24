@@ -200,10 +200,6 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
 collection_content: >-
-  A Son's First Solo Hunt, and a Father's Lesson in Letting Him Go” new for
-  “Outdoor Life” magazine. ⁠
-
-
   A young hunter sets out to track big mule deer through the desert, leaving his
   usual hunting buddy behind. ⁠
 
