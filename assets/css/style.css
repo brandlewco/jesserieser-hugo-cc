@@ -4533,12 +4533,20 @@ body.cms-editor-active figcaption {
     margin-top: 1000px;
   }
 
+  .sm\:mt-150 {
+    margin-top: 150px;
+  }
+
   .sm\:mt-16 {
     margin-top: 4rem;
   }
 
   .sm\:mt-200 {
     margin-top: 200px;
+  }
+
+  .sm\:mt-250 {
+    margin-top: 250px;
   }
 
   .sm\:mt-300 {
@@ -4549,8 +4557,16 @@ body.cms-editor-active figcaption {
     margin-top: 8rem;
   }
 
+  .sm\:mt-350 {
+    margin-top: 350px;
+  }
+
   .sm\:mt-400 {
     margin-top: 400px;
+  }
+
+  .sm\:mt-450 {
+    margin-top: 450px;
   }
 
   .sm\:mt-50 {
@@ -4561,20 +4577,40 @@ body.cms-editor-active figcaption {
     margin-top: 500px;
   }
 
+  .sm\:mt-550 {
+    margin-top: 550px;
+  }
+
   .sm\:mt-600 {
     margin-top: 600px;
+  }
+
+  .sm\:mt-650 {
+    margin-top: 650px;
   }
 
   .sm\:mt-700 {
     margin-top: 700px;
   }
 
+  .sm\:mt-750 {
+    margin-top: 750px;
+  }
+
   .sm\:mt-800 {
     margin-top: 800px;
   }
 
+  .sm\:mt-850 {
+    margin-top: 850px;
+  }
+
   .sm\:mt-900 {
     margin-top: 900px;
+  }
+
+  .sm\:mt-950 {
+    margin-top: 950px;
   }
 
   .sm\:flex {

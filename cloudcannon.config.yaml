@@ -27,6 +27,12 @@ collections_config:
     schemas:
       default:
         path: schemas/posts.md
+  overview:
+    _enabled_editors:
+      - visual
+    schemas:
+      default:
+        path: schemas/overview.md
   shop:
     _enabled_editors:
       - visual
@@ -59,6 +65,12 @@ _inputs:
       removeformat: true
   about_bio:
     type: markdown
+  overview_collection:
+    type: array
+  overview_collection[*]:
+    type: select
+    options:
+      values: collections.collections
   collection_content:
     type: markdown
     options:

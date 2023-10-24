@@ -1,0 +1,16 @@
+{{- define "main" -}}
+<section data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}" class="relative z-0">
+    {{ partial "about_header" .}}
+    </section>
+    <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
+        <section class="flex flex-wrap overflow-hidden filter-container z-10 mx-auto relative pl-0 sm:pl-5 md:pl-6">
+Placeholder
+        </section>
+
+        <footer class="px-4 xl:px-16 py-10 flex flex-wrap" style="background-color: {{.Params.theme_color}};">
+            {{ range .Params.footer_links }}
+                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-white text-base md:text-lg" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
+            {{ end }}
+        </footer>
+</section>
+{{- end -}}
