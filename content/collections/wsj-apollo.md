@@ -1,8 +1,9 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: Ever wonder about the computers which guided the Apollo moon landing 50 years
+  ago today?
+  meta_title: "The Wall Street Journal: 'Apollo 11 50th Anniversary: Guidance Computer Rebuild'"
 title: The Wall Street Journal
 collection_meta: 'Apollo 11 50th Anniversary: Guidance Computer Rebuild'
 collection_meta_2: '2023'

@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
+  meta_title: "Skeleton Party: A Portfolio of Work Made with Skeleton Crews"
 title: Skeleton Party
 collection_meta: A Portfolio of Work Made with Skeleton Crews
 collection_meta_2: See Image Captions For Crew Size

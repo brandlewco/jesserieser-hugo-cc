@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: A self-produced portfolio featuring Adidas Basketball apparel and footwear.
+  meta_title: 'Adidas Basketball: Crazy Explosive Primeknit'
 title: Adidas Basketball
 collection_meta: Crazy Explosive Primeknit
 collection_meta_2: ''
