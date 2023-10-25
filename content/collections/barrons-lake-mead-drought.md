@@ -206,10 +206,10 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-20.jpg
     width: '45'
     margin_y: '200'
-    margin_left: '40'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
-    color: '#CCE1F3'
+    color: '#cce1f3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
