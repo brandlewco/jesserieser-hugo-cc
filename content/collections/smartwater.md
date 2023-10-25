@@ -23,91 +23,91 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#d1e3eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
+    width: '66'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    align_y: start
+    color: '#d1e3eb'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#e2dcdc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: start
+    color: '#e2dcdc'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#D8E4F4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    align_y: start
+    color: '#d8e4f4'
+    caption: Ben Simmons for Smart Water Text Caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#D0CEE6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
-  - _bookshop_name: collections/media-element
     align_y: start
+    color: '#D0CEE6'
     caption:
-    color: '#FABDAB'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
+    width: '33'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '10'
-    margin_y: '600'
-    width: '33'
+    align_y: start
+    color: '#FABDAB'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#eeece1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
+    width: '25'
+    margin_y: '200'
     margin_left: '40'
     margin_right: '0'
-    margin_y: '200'
-    width: '25'
+    align_y: start
+    color: '#eeece1'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#c0bfdc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '50'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: start
+    color: '#c0bfdc'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#c4d8eb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
+    width: '70'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '70'
+    align_y: start
+    color: '#c4d8eb'
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-11.jpg
