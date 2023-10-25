@@ -432,7 +432,7 @@ content_blocks:
     title_margin_y: '20'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 4xl
+    text_size: 6xl
     text_color: '#f39696'
     line_height: normal
     text_alignment: center
