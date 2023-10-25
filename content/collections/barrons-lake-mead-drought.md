@@ -131,21 +131,21 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-13.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f9dece'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-14.jpg
-    width: '30'
-    margin_y: '800'
+    width: '33'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '5'
     align_y: center
-    color: '#EADEF4'
+    color: '#eadef4'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
