@@ -55,7 +55,7 @@
     "bookshop-update": "npx @bookshop/up",
     "build": "run-s build:*",
     "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -m",
-    "build:hugo": "hugo --source ./ --destination public --baseURL /",
+    "build:hugo": "hugo --source ./ --destination public --baseURL https://jesserieser.com/",
     "dev": "run-p hugo-server bookshop",
     "hugo-server": "hugo server -D --watch",
     "init": "npx @bookshop/init@latest",
