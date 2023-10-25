@@ -12,22 +12,20 @@ spec:
       - No Caption
     subtext:
       - key: width
-  tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
   image: /images/hero/hero-image-2.png
-  width: '40'
-  margin_y: '0'
-  margin_left: '0'
-  margin_right: '0'
+  width: "40"
+  margin_y: "0"
+  margin_left: "0"
+  margin_right: "0"
   align_y: center
   color: "ff0000"
   caption: "test caption"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

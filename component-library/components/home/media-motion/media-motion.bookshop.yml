@@ -12,7 +12,6 @@ spec:
       - No Caption
     subtext:
       - key: width
-  tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
@@ -21,16 +20,14 @@ blueprint:
   color: "#000000"
   show_controls: true
   block_aspect_ratio: 16x9
-  width: '50'
+  width: "50"
   align_y: start
-  margin_y: '0'
-  margin_left: '0'
-  margin_right: '0'
-
+  margin_y: "0"
+  margin_left: "0"
+  margin_right: "0"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

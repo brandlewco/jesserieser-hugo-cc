@@ -3,9 +3,8 @@ spec:
   structures:
     - about_blocks
   label: Link
-  description: 
+  description:
   preview:
-  tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
@@ -13,11 +12,8 @@ blueprint:
   link_url:
   open_in_new_tab:
 
-
-
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
-
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:

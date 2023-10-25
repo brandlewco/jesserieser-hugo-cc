@@ -4,7 +4,6 @@ spec:
     - post_blocks
   label: Collection Top
   icon: "vertical_align_top"
-  tags: ["collection"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
