@@ -1,8 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Photographed for NYC skateboarding legend Alex Corporan (Supreme) and sponsors
-  Nike SB and Arizona Iced Tea.
+  meta_description: Photographed for NYC skateboarding legend Alex Corporan (Supreme) and sponsors Nike SB and Arizona Iced Tea.
   meta_title: "New York City: GoSkateBoardingDay"
 title: New York City
 collection_meta: GoSkateBoardingDay

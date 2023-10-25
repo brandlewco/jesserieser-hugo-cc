@@ -13,5 +13,6 @@ sale_price = 275
 shop = true
 theme_color = ""
 title = "Facility Study No. 5. 2016"
+sitemap_exclude = true
 
 +++

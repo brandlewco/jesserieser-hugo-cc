@@ -12,5 +12,6 @@ sale = false
 sale_price = 79
 theme_color = "#B8EEBC"
 title = "Cindy-Lou Who & Jesus. 2015"
+sitemap_exclude = true
 
 +++

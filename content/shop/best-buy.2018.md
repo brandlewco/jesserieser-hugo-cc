@@ -13,5 +13,6 @@ sale_price = 0
 shop = true
 theme_color = ""
 title = "BEST BUY. 2018"
+sitemap_exclude = true
 
 +++

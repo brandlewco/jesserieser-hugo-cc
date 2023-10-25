@@ -12,5 +12,6 @@ sale = false
 sale_price = 0
 theme_color = "#38DBA4"
 title = "Merry Monster Truck. 2016"
+sitemap_exclude = true
 
 +++

@@ -13,5 +13,6 @@ sale_price = 0
 shop = true
 theme_color = ""
 title = "Sears. 2015"
+sitemap_exclude = true
 
 +++

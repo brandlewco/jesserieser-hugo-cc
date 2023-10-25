@@ -12,5 +12,6 @@ sale = false
 sale_price = 325
 theme_color = "#C3D5E5"
 title = "Deflation. 2017 "
+sitemap_exclude = true
 
 +++
