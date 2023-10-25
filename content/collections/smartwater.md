@@ -52,7 +52,7 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#d8e4f4'
-    caption: Ben Simmons for Smart Water Text Caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
