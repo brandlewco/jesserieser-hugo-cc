@@ -5,6 +5,8 @@ spec:
   label: Post
   description:
   preview:
+    image:
+      - key: blog_block_cover
     text:
       - key: title
       - No Caption
