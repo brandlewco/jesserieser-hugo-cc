@@ -294,6 +294,10 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'AP 38: American Photography Annual'
     meta: meta
@@ -713,7 +717,7 @@ content_blocks:
     color: '#f6f9ad'
     width: '33'
     align_y: start
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     block_aspect_ratio: 4x5
@@ -727,14 +731,14 @@ content_blocks:
     attached_blog: posts/young-guns-19.md
     text_size: 2xl
     color: '#ffe6e6'
-    width: '30'
+    width: '25'
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    block_aspect_ratio: 16x9
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
-    vimeo_block_cover: 0
+    vimeo_block_cover: 618420931
     caption: Judge and The New Procrastinator's Guide
     theme_color: '#b9f1a8'
   - _bookshop_name: home/media-row
