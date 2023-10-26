@@ -736,9 +736,9 @@ content_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    block_aspect_ratio: 4x5
+    block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
-    vimeo_block_cover: 618420931
+    vimeo_block_cover: 0
     caption: Judge and The New Procrastinator's Guide
     theme_color: '#b9f1a8'
   - _bookshop_name: home/media-row
