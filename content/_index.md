@@ -736,7 +736,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    block_aspect_ratio: 16x9
+    block_aspect_ratio: 4x5
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
     vimeo_block_cover: 618420931
     caption: Judge and The New Procrastinator's Guide
