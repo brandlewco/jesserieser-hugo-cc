@@ -3,4 +3,5 @@ Disallow: /cc-connection-test
 Disallow: /update
 Disallow: /login
 Disallow: /logout
+
 Sitemap: {{ "sitemap.xml" | absLangURL }}
