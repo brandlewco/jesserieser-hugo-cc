@@ -724,6 +724,11 @@ function init() {
     }
   })();
 
+  //Vimeo lazyload with lazysizes
+
+  
+  
+
   // accesibility highlighter
   (function(document, window) {
     var styleText = "::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;";
