@@ -28,7 +28,7 @@ blueprint:
   margin_right: "0"
   block_aspect_ratio: "1x1"
   blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-  vimeo_block_cover: 123456678
+  vimeo_block_cover: 
   caption: Caption
   theme_color: "#000000"
 
