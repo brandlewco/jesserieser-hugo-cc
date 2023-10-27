@@ -2,8 +2,7 @@
 _schema: default
 title: The Star Geezers
 seo:
-  meta_description: This is a story about “Sky Village,” an astronomy centric retirement community
-  and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
+  meta_description: This is a story about “Sky Village,” an astronomy centric retirement community and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
   meta_title: The Star Geezers featured in Fisheye’s Photo Review for 2021 and 2022
 post_blocks:
   - _bookshop_name: posts/media-row-start

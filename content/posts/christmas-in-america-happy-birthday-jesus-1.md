@@ -75,9 +75,7 @@ news_category:
 theme_color: "#FF5252"
 title: "Christmas In America: Happy Birthday, Jesus"
 seo:
-  meta_description: An inflatable Santa Claus loomed four stories over a Christmas tree lot,
-  waving in the breeze and catching Jesse Rieser’s attention as he drove through
-  Phoenix in 2009.  
+  meta_description: An inflatable Santa Claus loomed four stories over a Christmas tree lot, waving in the breeze and catching Jesse Rieser’s attention as he drove through Phoenix in 2009.  
   meta_title: "'Christmas In America: Happy Birthday, Jesus' featured in the Washington Post"
 blog_slider:
   - _bookshop_name: posts/media-element-url
