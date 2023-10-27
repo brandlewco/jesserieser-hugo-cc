@@ -4,7 +4,7 @@
     {{if .media }}
       <img 
       data-sizes="auto"
-      src="{{ .media | safeHTML }}?width=300"
+      data-src="{{ .media | safeHTML }}?width=300"
       data-srcset="{{ .media | safeHTML }}?width=300 300w,
       {{ .media | safeHTML }}?width=600 600w,
       {{ .media| safeHTML }}?width=900 900w,
