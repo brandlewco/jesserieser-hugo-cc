@@ -6,7 +6,7 @@
       <img
       data-sizes="auto"
       data-srcset="{{.image}}?width=450 450w, {{.image }}?width=780 780w, {{.image }}?width=1440 1440w, {{.image }}?width=1920 1920w, {{.image }}?width=2560 2560w"
-      class="lazyload h-full object-cover z-0"
+      class="{{ if site.Params.env_bookshop_live }}{{else}}lazyload-delay{{end}} h-full object-cover z-0"
       alt="{{ .caption }}"/>
     </div>
     </figure>  

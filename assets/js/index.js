@@ -523,6 +523,7 @@ function init() {
         disablePageScroll(popupList);
       }
       lazyloadToggle(popupModal);
+      console.log(lazyloadToggle, popupModal)
       if (popupGalleryInit) {
         var flkty = new Flickity(popupGalleryInit, {
           wrapAround: true,
