@@ -195,7 +195,7 @@ content_blocks:
     margin_right: '5'
     block_aspect_ratio: 16x9
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
-    vimeo_block_cover: '769252337'
+    vimeo_block_cover: 769252337
     caption: The Gallery at Mountain Shadows
     theme_color: '#f6e7d1'
   - _bookshop_name: home/media-row

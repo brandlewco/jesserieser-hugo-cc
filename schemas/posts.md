@@ -36,5 +36,4 @@ content:
 date: 
 news_category:
 theme_color: 
-vimeo_block_cover: 
 ---
