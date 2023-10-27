@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: Donald “Cowboy” Cerrone for ESPN
-  meta_title: Placeholder Title
+  meta_description: "UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries"
+  meta_title: Donald “Cowboy” Cerrone for ESPN
 title: ESPN
 collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
 collection_meta_2:

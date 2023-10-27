@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Amtrak The National: On The Southwest Chief'
 title: Amtrak The National
 collection_meta: On The Southwest Chief

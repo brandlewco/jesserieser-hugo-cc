@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description:
   meta_title: The Field Scanalyzer for The Wall Street Journal
 title: The Wall Street Journal
 collection_meta: The Field Scanalyzer
@@ -20,103 +20,103 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fcd79e'
+    color: "#fcd79e"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-1.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#bbd2e5'
+    color: "#bbd2e5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-2.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-element
-    color: '#d4e3c8'
+    color: "#d4e3c8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-3.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
-    width: '33'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "500"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#faebbe'
+    color: "#faebbe"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-4.jpg
-    margin_left: '45'
-    margin_y: '100'
-    width: '33'
+    margin_left: "45"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#dbe0eb'
+    color: "#dbe0eb"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-6.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '400'
-    width: '33'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "400"
+    width: "33"
   - _bookshop_name: collections/media-element
-    color: '#eee6d9'
+    color: "#eee6d9"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-5.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '100'
-    width: '20'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "100"
+    width: "20"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f55656'
+    color: "#f55656"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "35"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C5C1DA'
+    color: "#C5C1DA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-9.jpg
-    margin_left: '10'
-    margin_y: '200'
-    width: '40'
+    margin_left: "10"
+    margin_y: "200"
+    width: "40"
   - _bookshop_name: collections/media-element
-    color: '#f1efb3'
+    color: "#f1efb3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-10.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '900'
-    width: '25'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "900"
+    width: "25"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f0ddca'
+    color: "#f0ddca"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-11.jpg
-    margin_left: '25'
-    margin_y: '100'
-    width: '50'
+    margin_left: "25"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ede8e4'
+    color: "#ede8e4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-12.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "25"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#1c1733'
+    color: "#1c1733"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-14.jpg
-    margin_left: '35'
-    margin_y: '100'
-    width: '55'
+    margin_left: "35"
+    margin_y: "100"
+    width: "55"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wsj_robot-8.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-45.jpg
@@ -130,8 +130,8 @@ collection_category:
   - Climate Change
   - Workplace
 date: 2019-05-01T07:00:00Z
-theme_color: '#b8eebc'
-theme_color_all_works: '#6d94ff'
+theme_color: "#b8eebc"
+theme_color_all_works: "#6d94ff"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:

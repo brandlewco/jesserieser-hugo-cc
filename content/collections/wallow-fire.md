@@ -1,10 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description:
   meta_title: The Wallow Fire
 title: The Wallow Fire
-collection_meta: '2012'
+collection_meta: "2012"
 collection_meta_2:
 collection_description: >-
   A personal project based on Arizona’s largest wildfire in history. This body
@@ -25,166 +25,166 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FBF1D3'
+    color: "#FBF1D3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C2D5B2'
+    color: "#C2D5B2"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-3.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-element
-    color: '#FADFBB'
+    color: "#FADFBB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-2.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '300'
-    width: '30'
+    margin_left: "0"
+    margin_right: "10"
+    margin_y: "300"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#DBB782'
+    color: "#DBB782"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-4.jpg
-    margin_left: '40'
-    margin_y: '100'
-    width: '40'
+    margin_left: "40"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D5C5C5'
+    color: "#D5C5C5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-5.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E0E9E5'
+    color: "#E0E9E5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-6.jpg
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_right: "0"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-element
-    color: '#F9E99F'
+    color: "#F9E99F"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-7.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '600'
-    width: '30'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "600"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F0E2C8'
+    color: "#F0E2C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-8.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E5EEEC'
+    color: "#E5EEEC"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-9.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-element
-    color: '#CAC9C8'
+    color: "#CAC9C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-10.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '300'
-    width: '50'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "300"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E1E3DE'
+    color: "#E1E3DE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-11.jpg
-    margin_left: '15'
-    margin_y: '100'
-    width: '60'
+    margin_left: "15"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D0C797'
+    color: "#D0C797"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-13.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#B3AE99'
+    color: "#B3AE99"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-12.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '400'
-    width: '50'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "400"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F9DCBC'
+    color: "#F9DCBC"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-14.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FBEECD'
+    color: "#FBEECD"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-15.jpg
-    margin_left: '35'
-    margin_y: '100'
-    width: '60'
+    margin_left: "35"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D4CEC3'
+    color: "#D4CEC3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-17.jpg
-    margin_left: '5'
-    margin_y: '500'
-    width: '33'
+    margin_left: "5"
+    margin_y: "500"
+    width: "33"
   - _bookshop_name: collections/media-element
-    color: '#E7EEEF'
+    color: "#E7EEEF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-16.jpg
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FCE7A3'
+    color: "#FCE7A3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-18.jpg
-    margin_left: '30'
-    margin_y: '100'
-    width: '50'
+    margin_left: "30"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#CACBD2'
+    color: "#CACBD2"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-19.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#222842'
+    color: "#222842"
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-20.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/wallow-15.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-15.jpg
@@ -199,8 +199,8 @@ collection_category:
   - Environments
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#d8e1e1'
-theme_color_all_works: '#ed5c5c'
+theme_color: "#d8e1e1"
+theme_color_all_works: "#ed5c5c"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-8.jpg
 collection_preview:
@@ -262,7 +262,7 @@ collection_press:
       [**_Duncan Miller Gallery: Your Daily
       Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
     template: array-placeholder
-  - content: '[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'''
+  - content: "[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'"
     template: array-placeholder
 collection_exhibition:
   - content: |-

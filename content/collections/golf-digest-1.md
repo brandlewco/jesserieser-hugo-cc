@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Scottie Scheffler for Golf Digest
 title: Golf Digest
 collection_meta: Take Your Game to the Next Level Cover Story

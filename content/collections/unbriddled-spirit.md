@@ -1,8 +1,9 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
-  meta_title: Placeholder Title
+  meta_description: "Portraits of celebrated cowboy artist Curt Mattson. Winner in 'AP 32: American
+  Photography Annual 2016 in editorial photography.'"
+  meta_title: Curt Mattson Unbridled Spirit
 title: Phoenix Home & Garden
 collection_meta: Curt Mattson Unbridled Spirit
 collection_meta_2: '2023'

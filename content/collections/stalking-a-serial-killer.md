@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description:
   meta_title: Stalking A Serial Killer for Society Magazine
 title: Society Magazine
 collection_meta: Stalking A Serial Killer
@@ -24,285 +24,285 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
-    width: '30'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "200"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#FCF4D6'
+    color: "#FCF4D6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-3.jpg
-    margin_right: '5'
-    margin_y: '100'
-    width: '55'
+    margin_right: "5"
+    margin_y: "100"
+    width: "55"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F8E9DF'
+    color: "#F8E9DF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-4.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-5.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '700'
-    width: '30'
+    margin_left: "0"
+    margin_right: "10"
+    margin_y: "700"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#D6E6FB'
+    color: "#D6E6FB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '70'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "70"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#DED0DA'
+    color: "#DED0DA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-8.jpg
-    margin_left: '5'
-    margin_y: '100'
-    width: '33'
+    margin_left: "5"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-7.jpg
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '400'
-    width: '30'
+    margin_left: "0"
+    margin_right: "20"
+    margin_y: "400"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-9.jpg
-    margin_left: '15'
-    margin_y: '200'
-    width: '30'
+    margin_left: "15"
+    margin_y: "200"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#F7EAE1'
+    color: "#F7EAE1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-10.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-11.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '300'
-    width: '25'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "300"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#C8DBE1'
+    color: "#C8DBE1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-12.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '60'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-13.jpg
-    margin_left: '10'
-    margin_y: '200'
-    width: '30'
+    margin_left: "10"
+    margin_y: "200"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#ECE0D5'
+    color: "#ECE0D5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-14.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '100'
-    width: '40'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F0DEC9'
+    color: "#F0DEC9"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-16.jpg
-    margin_left: '5'
-    margin_y: '100'
-    width: '55'
+    margin_left: "5"
+    margin_y: "100"
+    width: "55"
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-15.jpg
-    margin_right: '5'
-    margin_y: '400'
-    width: '30'
+    margin_right: "5"
+    margin_y: "400"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-17.jpg
-    margin_left: '10'
-    margin_y: '300'
-    width: '30'
+    margin_left: "10"
+    margin_y: "300"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#DAEBED'
+    color: "#DAEBED"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-18.jpg
-    margin_left: '0'
-    margin_right: '10'
-    margin_y: '100'
-    width: '40'
+    margin_left: "0"
+    margin_right: "10"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-19.jpg
-    margin_right: '5'
-    margin_y: '100'
-    width: '30'
+    margin_right: "5"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#F9F0E6'
+    color: "#F9F0E6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-20.jpg
-    margin_left: '5'
-    margin_y: '400'
-    width: '55'
+    margin_left: "5"
+    margin_y: "400"
+    width: "55"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-21.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-22.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '400'
-    width: '40'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "400"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-23.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-24.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '90'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "90"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#e6dace'
+    color: "#e6dace"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-25.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '300'
-    width: '25'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "300"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#E9E5E4'
+    color: "#E9E5E4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-26.jpg
-    margin_right: '10'
-    margin_y: '100'
-    width: '50'
+    margin_right: "10"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#cdddd5'
+    color: "#cdddd5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-28.jpg
-    margin_left: '5'
-    margin_y: '100'
-    width: '60'
+    margin_left: "5"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-27.jpg
-    margin_left: '0'
-    margin_y: '500'
-    width: '30'
+    margin_left: "0"
+    margin_y: "500"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-30.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '300'
-    width: '25'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "300"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#F2E7DB'
+    color: "#F2E7DB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-29.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '100'
-    width: '45'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#E2E9EA'
+    color: "#E2E9EA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-31.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-32.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '300'
-    width: '30'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "300"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#d0eed7'
+    color: "#d0eed7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-33.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "35"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FAFAFA'
+    color: "#FAFAFA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-34.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#F9C1A3'
+    color: "#F9C1A3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-35.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '300'
-    width: '55'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "300"
+    width: "55"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#fafafa'
+    color: "#fafafa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-36.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: "35"
+    margin_right: "0"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#d6e7ea'
+    color: "#d6e7ea"
     image: https://d1sf55qlb7p6hz.cloudfront.net/serial-37.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-6.jpg
@@ -317,8 +317,8 @@ collection_category:
   - Color
   - Environments
 date: 2019-05-01T07:00:00Z
-theme_color: '#9cb8d7'
-theme_color_all_works: '#9bc6ff'
+theme_color: "#9cb8d7"
+theme_color_all_works: "#9bc6ff"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-15.jpg
 collection_preview:
@@ -367,13 +367,13 @@ collection_press:
     template: array-placeholder
   - content: >-
       [_Fast
-      Company_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer) 
+      Company_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer)
     template: array-placeholder
   - content: >-
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
     template: array-placeholder
-  - content: '[_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) '
+  - content: "[_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) "
     template: array-placeholder
   - content: >-
       [_The Daily Mail
