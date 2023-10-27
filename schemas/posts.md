@@ -36,5 +36,5 @@ content:
 date: 
 news_category:
 theme_color: 
-vimeo_block_cover: 769252337
+vimeo_block_cover: 
 ---

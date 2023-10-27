@@ -19,6 +19,5 @@ content: |-
   [Request Gallery](mailto:jesse@jesserieser.com?subject=test)
 date:
 news_category: []
-theme_color: '#ffffff'
-vimeo_block_cover: 769252337
+theme_color: "#ffffff"
 ---

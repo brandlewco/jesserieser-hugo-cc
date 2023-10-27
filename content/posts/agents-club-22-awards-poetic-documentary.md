@@ -7,56 +7,56 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-2.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-3.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-4.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-5.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-6.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-7.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-8.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-9.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-10.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-11.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-12.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-13.jpg
-    width: '100'
+    width: "100"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -66,7 +66,7 @@ attached_link:
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
 blog_header:
-caption: 'New York Times: America Is Reopening'
+caption: "New York Times: America Is Reopening"
 content: >-
   [***America Is Reopening. Here is What it Looks
   Like***](https://jesserieser.com/collections/nytimes-reopen) for **The New
@@ -113,6 +113,5 @@ content: >-
 date:
 news_category:
   - awards
-theme_color: '#ccaaf8'
-vimeo_block_cover: 769252337
+theme_color: "#ccaaf8"
 ---

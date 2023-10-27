@@ -1,35 +1,35 @@
 ---
 _schema: default
-title: 'AP 38: American Photography Annual Chosen'
+title: "AP 38: American Photography Annual Chosen"
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-3.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-4.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-7.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-8.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-5.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-6.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -41,7 +41,7 @@ attached_link:
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
 blog_header:
-caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
+caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."
 content: >-
   [***Can Science Cure Death? It Sure Looks Like
   It***](https://jesserieser.com/collections/popular-mechanics-longevity) for
@@ -89,6 +89,5 @@ content: >-
 date:
 news_category:
   - awards
-theme_color: '#ff052b'
-vimeo_block_cover: 769252337
+theme_color: "#ff052b"
 ---

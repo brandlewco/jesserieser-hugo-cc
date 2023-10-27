@@ -7,51 +7,51 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-4.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-5.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-6.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-7.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-8.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-9.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-10.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-11.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-12.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-16.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -81,6 +81,5 @@ content: >-
 date:
 news_category:
   - press
-theme_color: '#f8ddcd'
-vimeo_block_cover: 769252337
+theme_color: "#f8ddcd"
 ---

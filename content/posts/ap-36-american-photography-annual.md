@@ -1,62 +1,62 @@
 ---
 _schema: default
-title: 'AP 36: American Photography Annual'
+title: "AP 36: American Photography Annual"
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-2.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-3.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-4.jpg
-    width: '100'
+    width: "100"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-5.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-6.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-7.jpg
-    width: '40'
+    width: "40"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-8.jpg
-    width: '20'
+    width: "20"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-9.jpg
-    width: '40'
+    width: "40"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-11.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-10.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-13.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-12.jpg
-    width: '100'
+    width: "100"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -70,7 +70,7 @@ attached_link:
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
-caption: 'Wired: The Internet Giant That Went Too Far'
+caption: "Wired: The Internet Giant That Went Too Far"
 content: >-
   I am honored to share that [***The Internet Giant Who Went
   Too***](https://jesserieser.com/collections/wired-magazine/) Far for *Wired*
@@ -106,6 +106,5 @@ content: >-
 date:
 news_category:
   - Awards
-theme_color: '#fdf9b0'
-vimeo_block_cover: 769252337
+theme_color: "#fdf9b0"
 ---

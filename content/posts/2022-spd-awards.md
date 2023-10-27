@@ -7,51 +7,51 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-3.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-4.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-5.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-6.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-7.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-8.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-9.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-10.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-11.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-12.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-13.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -63,7 +63,7 @@ attached_link:
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
 blog_header:
-caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
+caption: "Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era"
 content: >-
   Excited to learn that my
   [***Barron’s***](https://jesserieser.com/collections/barrons-lasvegas) cover
@@ -97,6 +97,5 @@ content: >-
 date:
 news_category:
   - awards
-theme_color: '#ffdaa3'
-vimeo_block_cover: 769252337
+theme_color: "#ffdaa3"
 ---

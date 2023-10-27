@@ -1,57 +1,57 @@
 ---
 _schema: default
-title: 'AP 38: American Photography Annual'
+title: "AP 38: American Photography Annual"
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-4.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-5.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-6.jpg
-    width: '60'
+    width: "60"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-7.jpg
-    width: '40'
+    width: "40"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-8.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-9.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-10.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-11.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-12.jpg
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-16.jpg
-    width: '66'
+    width: "66"
   - _bookshop_name: posts/media-element-static
     caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-13.jpg
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -65,7 +65,7 @@ attached_link:
 block_aspect_ratio: 1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:
-caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
+caption: "Wired: I Am Not a Soldier, but I Have Been Trained to Kill"
 content: >-
   [***I Am Not a Soldier, but I Have Been Trained to Kill* for *Wired
   Magazine***](https://jesserieser.com/collections/gunsite) has been named one
@@ -91,6 +91,5 @@ content: >-
 date:
 news_category:
   - awards
-theme_color: '#f8d9d9'
-vimeo_block_cover: 769252337
+theme_color: "#f8d9d9"
 ---

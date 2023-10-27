@@ -326,5 +326,5 @@ date:
 news_category:
   - exhibition
 theme_color: '#f6e7d1'
-vimeo_block_cover: 769252337
+
 ---

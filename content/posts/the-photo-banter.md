@@ -48,6 +48,5 @@ content: >-
 date:
 news_category:
   - press
-theme_color: '#ffd595'
-vimeo_block_cover: 769252337
+theme_color: "#ffd595"
 ---
