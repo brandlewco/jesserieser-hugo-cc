@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: I Am Not a Soldier, but I Have Been Trained to Kill for Wired
 title: Wired Magazine
 collection_meta: I Am Not a Soldier, but I Have Been Trained to Kill

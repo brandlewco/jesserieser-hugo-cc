@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: The Vaccine Battlegrounds for Time Magazine
 title: Time Magazine
 collection_meta: The Vaccine Battlegrounds

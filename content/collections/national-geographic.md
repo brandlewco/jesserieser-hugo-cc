@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'National Geographic: “50 Grades of Shade”'
 title: National Geographic
 collection_meta: 50 Grades of Shade

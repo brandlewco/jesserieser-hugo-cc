@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Best Selling Author T.J. Newman for The New York Times
 title: The New York Times
 collection_meta: Best Selling Author T.J. Newman

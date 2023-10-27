@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Kitt Peak National Observatory for Smithsonian Magazine
 title: Smithsonian Magazine
 collection_meta: Kitt Peak National Observatory

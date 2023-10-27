@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Can Science Cure Death? For Popular Mechanics
 title: Popular Mechanics
 collection_meta: Can Science Cure Death? It Sure Looks Like It.

@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: E* Trade for Mullen Lowe Agency
 title: E*Trade
 collection_meta: Mullen Lowe Agency

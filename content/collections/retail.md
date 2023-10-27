@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: The Changing Landscape of American Retail 2015 - 2022
 title: The Changing Landscape of American Retail
 collection_meta: 2015 - 2022

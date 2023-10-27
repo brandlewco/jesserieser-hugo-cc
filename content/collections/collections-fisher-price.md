@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Fisher Price: Play is a Place Featuring John Goodman for Wieden Kennedy'
 title: 'Fisher Price: Play is a Place'
 collection_meta: Featuring John Goodman for Wieden Kennedy

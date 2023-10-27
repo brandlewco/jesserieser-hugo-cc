@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: The Class of 99 Turns 30
 title: The Class of 99 Turns 30
 collection_meta: 2009 - 2010

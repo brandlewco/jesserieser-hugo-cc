@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: One Night In the Valley
 title: One Night In the Valley
 collection_meta:

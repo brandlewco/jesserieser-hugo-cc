@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Cam Young for Golf Digest
 title: Golf Digest
 collection_meta: 'Cameron Young Cover Story '

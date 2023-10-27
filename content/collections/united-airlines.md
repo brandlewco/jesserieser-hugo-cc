@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Sedona for United Airlines Rhapsody
 title: United Airlines Rhapsody
 collection_meta: Sedona

@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'The Cactus League for ESPN '
 title: ESPN the Magazine
 collection_meta: Cactus League

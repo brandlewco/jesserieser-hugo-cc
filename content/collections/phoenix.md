@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Adobe: Turn Up the Vibrancy. Make it pop. Make it louder'
 title: 'Adobe: Turn Up the Vibrancy'
 collection_meta: Make it pop. Make it louder. Amplify the mood. For Torpedo London

@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: The Hard-Luck Texas Town That Bet on Bitcoin and Lost for Wired
 title: Wired Magazine
 collection_meta: The Hard-Luck Texas Town That Bet on Bitcoin and Lost

@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
 title: 'Christmas In America: Happy Birthday, Jesus'
 collection_meta: "2010 - \_2022"

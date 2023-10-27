@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: Ryan Resch for ESPN
 title: ESPN
 collection_meta: 'Ryan Resch: The First Openly Gay NBA Executive'

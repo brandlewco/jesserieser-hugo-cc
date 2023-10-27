@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Arizona Lottery: Welcome Back Willie'
 title: 'Arizona Lottery: Welcome Back Willie'
 collection_meta: OH Partners

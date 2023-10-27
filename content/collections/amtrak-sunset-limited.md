@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: Placeholder Description
+  meta_description: 
   meta_title: 'Amtrak The National: Palm Springs to Yuma On The Sunset Limited'
 title: Amtrak The National
 collection_meta: Palm Springs to Yuma On The Sunset Limited
