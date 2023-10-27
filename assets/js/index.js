@@ -49,15 +49,11 @@ const swup = new Swup(options);
 swup.on("contentReplaced", init);
 
 function init() {
-  // document.addEventListener("load", function(e) {
-  //   console.log(e.target.currentSrc || e.target.src, e.target.width, "w", e.target.height, "h", "width", body.clientWidth);
-  // }, true);
 
   const body = document.body;
   const navigation = document.getElementById("navigation");
   const navigationHeight = navigation.clientHeight;
 
-  // swup.preloadPages();
 
   // First we get the viewport height and we multiple it by 1% to get a value for a vh unit
   const vh = window.innerHeight * 0.01;
@@ -102,27 +98,6 @@ function init() {
     once: false,
     threshold: 0.15,
   });
-
-  // Rellax Animation with content loaded detection
-  // const content = document.getElementById("content");
-  // imagesLoaded(content, function() {
-  //   const rellaxIn = document.querySelectorAll(".rellax");
-  //   rellaxIn.forEach((el) => {
-  //     const rellax = new Rellax(el, {
-  //       speed: 4,
-  //       center: true,
-  //       relativeToWrapper: true,
-  //       wrapper: el.parentElement,
-  //       round: true,
-  //       vertical: true,
-  //       horizontal: false,
-  //       breakpoints: [1200, 1600, 2000]
-  //     });
-  //     window.addEventListener("scroll", () => { // fix to init
-  //       rellax.refresh();
-  //     });
-  //   });
-  // });
 
   const rellaxIn = document.querySelectorAll(".rellax");
   rellaxIn.forEach((el) => {
@@ -169,10 +144,6 @@ function init() {
           linkEl = figureEl.children[0]; // <a> element
           imgEl = linkEl.children[0]; // <img>
 
-          // size = linkEl.getAttribute("data-size").split("x");
-
-
-          // background=" + (videoBg ? 1 : 0) + "&amp;autoplay=" + (videoBg ? 1 : 0) + "
           // create slide object
           if (linkEl.classList.contains("video")) {
             var videoID = linkEl.getAttribute("pid");
@@ -212,10 +183,6 @@ function init() {
         return el && (fn(el) ? el : closest(el.parentNode, fn));
       };
 
-      // triggers when user clicks on thumbnail
-      // var onThumbnailsHover = function(e) {
-      //   console.log("hover:", "srcElement", e.srcElement, "target", e.target);
-      // };
 
       function galleryUiLaunch() {
         navigation.style.zIndex = 0;
@@ -724,11 +691,6 @@ function init() {
     }
   })();
 
-  //Vimeo lazyload with lazysizes
-
-  
-  
-
   // accesibility highlighter
   (function(document, window) {
     var styleText = "::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;";
@@ -761,4 +723,3 @@ document.addEventListener("visibilitychange", function() {
     console.time("visible");
   }
 });
-

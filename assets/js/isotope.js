@@ -133,12 +133,7 @@ imagesLoaded(grid, function() {
         filterComissioned.classList.remove("is-checked");
         filterPersonal.classList.remove("is-checked");
       }
-      // filterComissioned.addEventListener("click", function() {
-      //   if (filterComissioned.classList.contains("is-checked")) {
-      //     removeFilter(".commissionedstock");
-      //     filterComissioned.classList.remove("is-checked");
-      //   }
-      // });
+
 
       // filter isotope
       // group filters together, inclusive
@@ -195,12 +190,6 @@ imagesLoaded(grid, function() {
       });
     }
 
-    // const filtersClear = document.getElementById("all");
-    // filtersClear.addEventListener("click", function() {
-    //   removeHash();
-    //   clearActiveClass();
-    //   resetFilters();
-    // });
 
     const collectionPreview = document.querySelectorAll(".collection-preview");
     collectionPreview.forEach((preview) => {
@@ -254,35 +243,6 @@ imagesLoaded(grid, function() {
       // var slides = items.getElementsByTagName("img");
       var fader;
 
-      // unset after initial load
-      // for (var i = 0; i < slides.length; i++) {
-      //   slides[0].style.removeProperty("opacity");
-      // }
-
-      // function faderTimer() {
-      //   for (var i = 0; i < slides.length; i++) {
-      //     slides[i].style.opacity = 0;
-      //     slides[i].style.transitionDelay = "0.25s";
-      //   }
-      //   current = current != slides.length - 1 ? current + 1 : 0;
-      //   slides[current].style.opacity = 1;
-      //   fader = setTimeout(faderTimer, 1000);
-      // }
-
-      // // start a crossfade animation by looping the images
-      // function crossfade() {
-      //   faderTimer();
-      // }
-
-      // // clear timeout and reset styles
-      // function stopCrossfade() {
-      //   clearTimeout(fader);
-      //   current = 0;
-      //   slides[0].style.removeProperty("opacity");
-      //   slides[1].style.removeProperty("opacity");
-      //   slides[2].style.removeProperty("opacity");
-      //   slides[3].style.removeProperty("opacity");
-      // }
 
       items.addEventListener("mouseenter", () => {
         // crossfade
