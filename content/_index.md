@@ -1047,6 +1047,7 @@ content_blocks:
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
 row_alignment: between
 selected_works_theme:
