@@ -204,7 +204,7 @@ content_blocks:
     title:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/jack_spread-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-2.jpg
     width: '50'
     margin_y: '100'
     margin_left: '20'
