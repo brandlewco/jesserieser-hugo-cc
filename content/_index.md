@@ -252,7 +252,7 @@ content_blocks:
     title: Bloomberg
     meta: America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
     width: '45'
     margin_y: '100'
     margin_left: '10'
@@ -808,19 +808,19 @@ content_blocks:
     title: adidas Golf
     meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
     attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-6.jpg
     width: '40'
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#D0F6CB'
+    color: '#d0f6cb'
     caption: test caption
     title_margin_y: '80'
     title_margin_left: '50'
     title_margin_right:
     text_size: 6xl
-    text_color: '#FDABAB'
+    text_color: '#fdabab'
     line_height: none
     text_alignment: left
     text_tracking: normal
@@ -992,7 +992,7 @@ content_blocks:
     title: Autobiography of a Contact Sport
     meta: '2016'
     attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto-blog-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
     width: '55'
     margin_y: '300'
     margin_left: '0'
