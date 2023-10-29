@@ -336,7 +336,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomads_header-2.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-60.jpg
 collection_filter: Commissioned + Stock
 collection_category:
