@@ -673,7 +673,7 @@ content_blocks:
     title: The Star Geezers
     meta: "Condor\_Airlines (Germany)"
     attached_collection: collections/star-geezers.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-10.jpg
     width: '55'
     margin_y: '200'
     margin_left: '15'
