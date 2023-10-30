@@ -178,7 +178,7 @@ collection_blocks:
     color: '#1b1b1b'
     caption: test caption
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw_horizontal-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw_vertical-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
@@ -195,10 +195,10 @@ theme_color_all_works: '#fbb58d'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-21.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/soc-redobw-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-10.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-9.jpg
 collection_content: ''
 collection_awards:
   - content: |-
