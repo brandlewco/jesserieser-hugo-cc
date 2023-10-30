@@ -1064,7 +1064,7 @@ selected_works_theme:
     theme_color: '#a9f7c8'
     image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-3.jpg
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
     theme_color: '#a0c6ff'
     image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-4.jpg
   - template: ''
