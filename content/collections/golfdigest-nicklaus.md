@@ -10,7 +10,7 @@ collection_meta: Jack Vs. Nicklaus
 collection_meta_2: Jack Nicklaus’ Legal Battle Against His Own Company
 collection_description: >-
   How did the game's greatest champion become embroiled in a lawsuit against the
-  company he founded?&nbsp;
+  company he founded?
 collection_description_alignment: center
 slug: golfdigest-nicklaus
 collection_blocks:
@@ -88,7 +88,7 @@ collection_blocks:
     color: '#f7f7d0'
     caption:
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
@@ -102,9 +102,9 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/jack_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/jack_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/jack_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/jack_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-2.jpg
 collection_content: ''
