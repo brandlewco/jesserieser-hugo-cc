@@ -72,18 +72,18 @@ collection_blocks:
     color: '#e4dedc'
     caption: test caption
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-6.jpg
     width: '33'
     margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: center
-    color: '#C0C0C0'
+    color: '#c0c0c0'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-7.jpg
     width: '50'
     margin_y: '100'
     margin_left: '25'
@@ -94,13 +94,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-8.jpg
     width: '60'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: center
-    color: '#7F7F7F'
+    color: '#7f7f7f'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -114,66 +114,66 @@ collection_blocks:
     color: '#FFFFFF'
     caption: test caption
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-10.jpg
     width: '50'
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
     align_y: center
-    color: '#E9E9E9'
+    color: '#e9e9e9'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/_T0A5314.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: center
-    color: '#D0D0D0'
-    caption: test caption
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-11.jpg
     width: '33'
     margin_y: '100'
     margin_left: '35'
     margin_right: '5'
     align_y: center
-    color: '#F3F2F0'
+    color: '#f3f2f0'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-12.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: center
+    color: '#d0d0d0'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-13.jpg
     width: '33'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y: center
-    color: '#D3D3D3'
+    color: '#d3d3d3'
     caption: test caption
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-14.jpg
     width: '40'
     margin_y: '300'
     margin_left: '0'
     margin_right: '10'
     align_y: center
-    color: '#B1B1B1'
+    color: '#b1b1b1'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-15.jpg
     width: '50'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: center
-    color: '#C4C4C4'
+    color: '#c4c4c4'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-16.jpg
@@ -187,55 +187,55 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-17.jpg
     width: '60'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     align_y: center
-    color: '#A5A5A5'
+    color: '#a5a5a5'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-18.jpg
     width: '33'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: center
-    color: '#CCCCCC'
+    color: '#cccccc'
     caption: test caption
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-19.jpg
     width: '40'
     margin_y: '300'
     margin_left: '0'
     margin_right: '10'
     align_y: center
-    color: '#FCFAFB'
+    color: '#fcfafb'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-20.jpg
     width: '50'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: center
-    color: '#E6E6E6'
+    color: '#e6e6e6'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-21.jpg
     width: '40'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#2D2D2D'
+    color: '#2d2d2d'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-22.jpg
@@ -249,13 +249,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '60'
     margin_y: '50'
     margin_left: '35'
     margin_right: '0'
     align_y: center
-    color: '#FFE1D7'
+    color: '#ffe1d7'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
