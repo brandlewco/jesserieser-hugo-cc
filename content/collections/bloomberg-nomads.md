@@ -353,10 +353,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad4x3-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomads4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
 collection_content: >-
   Meet the Americans who live in their vans, buses and cars in pursuit of a
   simpler life using less energy. Seen here is Bob Wells (a central figure in
