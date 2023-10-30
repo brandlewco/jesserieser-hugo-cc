@@ -505,7 +505,7 @@ collection_blocks:
     align_y: center
     color: '#9F9F9F'
     caption: test caption
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/autobiography-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-7.jpg
 collection_filter: Personal
 collection_category:
@@ -524,9 +524,9 @@ theme_color_all_works: '#a7e05c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-4.jpg
 collection_content: >-
   0: The number of times I regret playing high school football.
