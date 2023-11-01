@@ -1003,7 +1003,7 @@ about_blocks:
 
           Communication Arts Photography Annual Short List
 
-          Best "Editorial" Series:
+          Best Editorial Series:
 
           *Amtrak The National "*Tucson to El Paso On The Desert Eagle*"*&nbsp;
         icon: ''
