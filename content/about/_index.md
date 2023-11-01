@@ -67,19 +67,12 @@ about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
   - _bookshop_name: about/modal-list
-    width: '30'
-    align_x: start
-    margin_y: '800'
-    margin_left: '15'
-    margin_right: '0'
-    title_margin_left: '-30'
-    align_y: start
-    title_margin_right: '0'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     title: Exhibitions
-    color: '#77ddd4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     meta: My dad & I, © Rob Rieser
-    title_margin_y: '15'
+    width: '30'
+    color: '#77ddd4'
+    modal_color: '#77ddd4'
     text_color: '#ffe42d'
     text_size: 7xl
     line_height:
@@ -87,7 +80,14 @@ about_blocks:
     text_tracking:
     font_weight:
     meta_align: left
-    modal_color: '#77ddd4'
+    align_y: start
+    margin_y: '800'
+    margin_left: '15'
+    margin_right: '0'
+    title_margin_y: '15'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    align_x: start
     modal_block:
       - content: |-
           **2022**
@@ -458,19 +458,12 @@ about_blocks:
         icon:
         url:
   - _bookshop_name: about/modal-list
-    width: '40'
-    align_x: start
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '0'
-    title_margin_left: '-25'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     title: Awards
-    color: '#ffda8a'
-    align_y: start
-    title_margin_right: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
     meta: 1984. © Rob Rieser
-    title_margin_y: '35'
+    width: '40'
+    color: '#ffda8a'
+    modal_color: '#fad267'
     text_color: '#79b3ff'
     text_size: 8xl
     line_height:
@@ -478,7 +471,14 @@ about_blocks:
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: '#fad267'
+    align_y: start
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '0'
+    title_margin_y: '35'
+    title_margin_left: '-25'
+    title_margin_right: '0'
+    align_x: start
     modal_block:
       - content: |-
           **2023**
@@ -998,42 +998,45 @@ about_blocks:
           _Spaceman & Baby_
         icon: ''
         url: ''
+      - content: |-
+          **2023**
+
+          Communication Arts Photography Annual Short List
+
+          Best "Editorial" Series:
+
+          *Amtrak The National "*Tucson to El Paso On The Desert Eagle*"*&nbsp;
+        icon: ''
+        url: ''
   - _bookshop_name: about/media-row
     row_alignment: center
   - _bookshop_name: about/media-text
+    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_\n\n\n\n\n\"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_\n\n\n\n\n“This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_\n\n\n\n\n“You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
+    background_color: '#ff6a5a'
+    background_image_toggle: false
+    image:
+    text_color: '#ffffff'
+    text_size: lg
+    text_alignment: left
     text_tracking: widest
+    font_weight: light
     width: '40'
     align_y: start
     margin_y: '200'
     margin_left: '10'
     margin_right: '0'
-    background_color: '#ff6a5a'
-    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_\n\n\n\n\n\"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_\n\n\n\n\n“This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_\n\n\n\n\n“You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
     parallax: true
-    text_size: lg
-    background_image_toggle: false
-    image:
-    text_color: '#ffffff'
-    font_weight: light
     image_css:
     caption_css:
-    text_alignment: left
   - _bookshop_name: about/media-row
     row_alignment: between
   - _bookshop_name: about/modal-list
-    width: '25'
-    align_x: start
-    margin_y: '50'
-    margin_left: '20'
-    margin_right: '0'
-    title_margin_left: '-35'
-    align_y: start
-    title_margin_right: '0'
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    color: '#ddc4e7'
     meta: © Nicky Hedyatzadeh
-    title_margin_y: '30'
+    width: '25'
+    color: '#ddc4e7'
+    modal_color: '#ddc4e7'
     text_color: '#9dfd7c'
     text_size:
     line_height:
@@ -1041,7 +1044,14 @@ about_blocks:
     text_tracking:
     font_weight: normal
     meta_align: left
-    modal_color: '#ddc4e7'
+    align_y: start
+    margin_y: '50'
+    margin_left: '20'
+    margin_right: '0'
+    title_margin_y: '30'
+    title_margin_left: '-35'
+    title_margin_right: '0'
+    align_x: start
     modal_block:
       - content: >-
           [_The New York Times Lens
@@ -1396,18 +1406,12 @@ about_blocks:
         icon:
         url: https://fisheyemagazine.fr/article/the-star-geezers-a-la-belle-etoile/
   - _bookshop_name: about/modal-list
-    width: '45'
-    align_y: start
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '0'
-    title_margin_left: '5'
-    title_margin_right: '0'
     title: Clients
-    color: '#d5e3f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-13.jpg
     meta: Ben Simmons for Smart Water & Anomaly NY. © Dayvid Lemmon
-    title_margin_y: '10'
+    width: '45'
+    color: '#d5e3f6'
+    modal_color: '#d5e3f6'
     text_color: '#fab7ed'
     text_size: 7xl
     line_height:
@@ -1415,7 +1419,13 @@ about_blocks:
     text_tracking:
     font_weight:
     meta_align: right
-    modal_color: '#d5e3f6'
+    align_y: start
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '0'
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
     modal_block:
       - content: '**AARP**'
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__aarp.png
