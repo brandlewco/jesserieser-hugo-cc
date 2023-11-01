@@ -573,15 +573,11 @@ about_blocks:
       - content: |-
           **2022**
 
-
           Spotlight Awards presented by Production Paradise
 
+          Architectural and Interior Finalist:
 
-          Architectural
-            and Interior Finalist:
-
-
-          _The New York Times_ "Auctioning Off a Dead Mall"
+          *The New York Times* "Auctioning Off a Dead Mall"
         icon: ''
         url: ''
       - content: |-
@@ -1016,6 +1012,25 @@ about_blocks:
 
 
           _Spaceman & Baby_
+        icon: ''
+        url: ''
+      - content: >-
+          **2023**
+
+
+          Spotlight Awards presented by Production Paradise
+
+
+          Architectural and Interior Finalist:<br>*Smithsonian* "Kitt Peak
+          National Observatory"
+
+
+          Celebrity and Portraiture Finalist:<br>*People*&nbsp;"Remembering
+          Layla"
+
+
+          Travel & Documentary Finalist:<br>*ESPN* &nbsp;"A Wild Weekend at the
+          Most Outrageous Hole in Golf"
         icon: ''
         url: ''
   - _bookshop_name: about/media-row
