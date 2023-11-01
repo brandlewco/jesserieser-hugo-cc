@@ -192,7 +192,7 @@ collection_category:
   - Portraits
   - Motion
   - Gun Culture
-  - Award Winnin
+  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#aae9c0'
 theme_color_all_works: '#ffe05a'
