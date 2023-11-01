@@ -57,39 +57,39 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-16.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-14.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-17.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-18.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-19.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-20.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-24.jpg
     title: blog title
-    caption: test caption
+    caption:
     width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end

@@ -53,6 +53,10 @@ body.archive .pswp--zoom-allowed .pswp__img {
 
 }
 
+body.archive .pswp__bg {
+  opacity: 0 !important;
+}
+
 .pswp--zoomed-in .pswp__img {
   /* autoprefixer: off */
   cursor: -webkit-grab;
