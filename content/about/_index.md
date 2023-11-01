@@ -491,6 +491,26 @@ about_blocks:
         icon: ''
         url: ''
       - content: |-
+          **2023**
+
+          Communication Arts Photography Annual Short List
+
+          Best Editorial Series:
+
+          *Amtrak The National "*Tucson to El Paso On The Desert Eagle*"*&nbsp;
+        icon: ''
+        url: ''
+      - content: |-
+          **2023**
+
+          Communication Arts Photography Annual Short List
+
+          Best Editorial Series:
+
+          *Barron's "*Tucson to El Paso On The Desert Eagle*"*&nbsp;
+        icon: ''
+        url: ''
+      - content: |-
           **2022**
 
           Communication Arts Photography Annual
@@ -996,16 +1016,6 @@ about_blocks:
 
 
           _Spaceman & Baby_
-        icon: ''
-        url: ''
-      - content: |-
-          **2023**
-
-          Communication Arts Photography Annual Short List
-
-          Best Editorial Series:
-
-          *Amtrak The National "*Tucson to El Paso On The Desert Eagle*"*&nbsp;
         icon: ''
         url: ''
   - _bookshop_name: about/media-row
