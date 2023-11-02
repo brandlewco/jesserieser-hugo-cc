@@ -131,7 +131,7 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#4d4d4d'
-    caption: archive test
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-13.jpg
