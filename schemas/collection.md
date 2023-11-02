@@ -25,7 +25,6 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-horizo
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-vertical-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  [Award Winning, Stock, Black and White, Sports + Athletes, Black and White]
 date: 2019-05-01T07:00:00Z
 theme_color: "#F4E9A8"
 theme_color_all_works: "#FFE05A"
