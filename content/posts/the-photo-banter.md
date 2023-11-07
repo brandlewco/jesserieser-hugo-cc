@@ -6,7 +6,7 @@ post_blocks:
     row_alignment: between []
 blog_slider:
   - _bookshop_name: posts/media-motion-id
-    show_controls: true-id
+    show_controls: true
     vimeo_id: 523950651
 attached_collection: collections/vanishing-folklore.md
 attached_link:

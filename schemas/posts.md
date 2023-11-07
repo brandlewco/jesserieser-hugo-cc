@@ -26,6 +26,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-2.jpg
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
+attached: true
 attached_collection: collections/vanishing-folklore.md
 attached_link: 
 block_aspect_ratio: ratio-16x9
