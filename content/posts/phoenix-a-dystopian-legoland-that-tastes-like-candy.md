@@ -69,6 +69,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-4.jpg
 attached_collection: collections/phoenix.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-3b-cover.jpg
 blog_header:

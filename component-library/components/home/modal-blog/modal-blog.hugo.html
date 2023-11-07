@@ -63,8 +63,8 @@
   </div>
   {{ if $key.Params.attached }}
   {{ if $key.Params.attached_collection }}
-  {{ $attached := $key.Params.attached_collection }}
-  {{ $attached := string $attached}}
+    {{ $attached := $key.Params.attached_collection }}
+    {{ $attached := string $attached}}
   {{ with site.GetPage $attached }}
   <section class="mt-4 sm:mt-16 text-black">
     <a href="/collections/{{.Params.slug}}/" alt="view collection" class="exit-modal">

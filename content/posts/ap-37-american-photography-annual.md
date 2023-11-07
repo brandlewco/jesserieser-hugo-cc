@@ -82,6 +82,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ap_blog-1.jpg
 attached_collection: collections/the-new-york-times.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
 blog_header:

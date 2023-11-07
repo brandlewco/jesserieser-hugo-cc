@@ -58,6 +58,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: 'AP 39: American Photography Annual '
     meta: Awards
+    attached: true
     attached_blog: posts/ap-39-american-photography-annual.md
     text_size: base
     color: '#ffffff'

@@ -9,6 +9,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-12.jpg
 attached_collection: collections/vanishing-folklore.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
 blog_header:

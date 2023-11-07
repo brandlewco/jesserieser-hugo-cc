@@ -81,6 +81,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-5.jpg
 attached_collection: collections/antoine-s-escalaras.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
 blog_header:

@@ -58,6 +58,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-2.jpg
 attached_collection: collections/wired-gunsite.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
 blog_header:

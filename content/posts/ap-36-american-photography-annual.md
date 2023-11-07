@@ -67,6 +67,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_apwired-1.jpg
 attached_collection: collections/wired.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg

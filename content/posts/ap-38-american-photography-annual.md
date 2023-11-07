@@ -62,6 +62,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 attached_collection: collections/wired-gunsite.md
 attached_link:
+attached: true
 block_aspect_ratio: 1x1
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header:

@@ -87,6 +87,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-20.jpg
 attached_collection: collections/vanishing-folklore.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
 blog_header:

@@ -228,6 +228,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/Jesse5-09.jpg
 attached_collection: collections/vanishing-folklore.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
 blog_header:

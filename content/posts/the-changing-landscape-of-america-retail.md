@@ -70,6 +70,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-2b.jpg
 attached_collection: collections/retail.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg

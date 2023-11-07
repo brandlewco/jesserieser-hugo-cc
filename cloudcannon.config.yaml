@@ -95,6 +95,7 @@ _inputs:
     type: image
   attached:
     type: switch
+    comment: show "attached colleciton" link
   blog_block_cover:
     type: image
   isActive:

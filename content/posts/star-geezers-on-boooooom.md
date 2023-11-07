@@ -74,6 +74,7 @@ blog_slider:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-5.jpg
 attached_collection: collections/star-geezers.md
 attached_link:
+attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
