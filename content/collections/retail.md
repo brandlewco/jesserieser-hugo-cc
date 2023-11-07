@@ -650,14 +650,12 @@ collection_exhibition:
       **2020**<br><br>*Fresh 2020*&nbsp;Klompching Gallery.<br><br>Brooklyn, NY.
       (Group Show)
     template: array-placeholder
-  - content: |-
-      **2019 - 2020**  
-      _Photoville The Fence:_
+  - content: >-
+      **2019 - 2020**<br>*Photoville The Fence:*
 
-      Brooklyn Bridge Park. Brooklyn, NY.  
-      Santa Fe Railyard Park. Santa Fe, NM.  
-      LoDo District. Denver, CO.  
-      Atlanta Beltline. Atlanta, GA.
+
+      Brooklyn Bridge Park. Brooklyn, NY.<br>Santa Fe Railyard Park. Santa Fe,
+      NM.<br>LoDo District. Denver, CO.<br>Atlanta Beltline. Atlanta, GA.
     template: array-placeholder
   - content: |-
       **2019**  
