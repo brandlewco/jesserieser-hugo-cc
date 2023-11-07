@@ -652,7 +652,7 @@ collection_exhibition:
   - content: |-
       **2020**
 
-      <br>*Fresh 2020*<br>Klompching Gallery.
+      *Fresh 2020* Klompching Gallery.
 
       Brooklyn, NY. (Group Show)
     template: array-placeholder
