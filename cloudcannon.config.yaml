@@ -1,3 +1,5 @@
+data_config:
+ categories: true
 collections_config:
   pages:
     _enabled_editors:
@@ -95,7 +97,7 @@ _inputs:
     type: image
   attached:
     type: switch
-    comment: show "attached colleciton" link
+    comment: show "View Full Project" link
   blog_block_cover:
     type: image
   isActive:
