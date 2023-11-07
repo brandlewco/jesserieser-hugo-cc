@@ -491,14 +491,29 @@ _inputs:
     type: array
   collection_awards[*]:
     type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
   collection_press:
     type: array
   collection_press[*]:
     type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
   collection_exhibition:
     type: array
   collection_exhibition[*]:
     type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
   navigation_theme:
     type: select
     options:

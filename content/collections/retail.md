@@ -642,17 +642,27 @@ collection_press:
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
     template: array-placeholder
 collection_exhibition:
-  - content: >-
-      **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain Shadows.
+  - content: |-
+      **2022**
+      *Souvenirs From Paradise*
+      The Gallery at Mountain Shadows.
       Paradise Valley, AZ (Solo Show)
-  - content: >-
-      **2020**<br>*Fresh 2020*&nbsp;Klompching Gallery.<br>Brooklyn, NY. (Group
+  - content: |-
+      **2020**
+      *Fresh 2020*
+      Klompching Gallery.
+      Brooklyn, NY. (Group
       Show)
     template: array-placeholder
-  - content: >-
-      **2019 - 2020**<br>*Photoville The Fence:*<br>Brooklyn Bridge Park.
-      Brooklyn, NY.<br>Santa Fe Railyard Park. Santa Fe, NM.<br>LoDo District.
-      Denver, CO.<br>Atlanta Beltline. Atlanta, GA.
+  - content: |-
+      **2019 - 2020**
+      *Photoville The Fence:*
+      Brooklyn Bridge Park.
+      Brooklyn, NY.
+      Santa Fe Railyard Park. Santa Fe, NM.
+      LoDo District.
+      Denver, CO.
+      Atlanta Beltline. Atlanta, GA.
     template: array-placeholder
   - content: |-
       **2019**  
