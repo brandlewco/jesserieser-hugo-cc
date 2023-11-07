@@ -50,6 +50,11 @@ collections_config:
 _inputs:
   content:
     type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
   title: 
     type: text
   text:
