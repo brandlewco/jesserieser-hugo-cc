@@ -17,14 +17,17 @@
   -webkit-box-shadow: none;
   box-shadow: none;
 }
+
 .pswp__button:focus,
 .pswp__button:hover {
   opacity: 1;
 }
+
 .pswp__button:active {
   outline: none;
   opacity: 0.9;
 }
+
 .pswp__button::-moz-focus-inner {
   padding: 0;
   border: 0;
@@ -35,33 +38,6 @@
   opacity: 1;
 }
 
-
-/* .pswp__button--arrow--left:before,
-.pswp__button--arrow--right:before {
-  background: url(/uploads/default-skin-01.png) 0 0 no-repeat;
-  background-size: 264px 88px;
-  width: 44px;
-  height: 44px;
-} */
-
-/* @media (-webkit-min-device-pixel-ratio: 1.1),
-  (-webkit-min-device-pixel-ratio: 1.09375),
-  (min-resolution: 105dpi),
-  (min-resolution: 1.1dppx) {
-  .pswp--svg .pswp__button,
-  .pswp--svg .pswp__button--arrow--left:before,
-  .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(/uploads/default-skin-01.svg);
-  }
-  .pswp--svg .pswp__button--arrow--left,
-  .pswp--svg .pswp__button--arrow--right {
-    background: none;
-  }
-} */
-
-/* .pswp__button--close {
-  background-position: 0 -44px;
-} */
 
 .pswp__button--share {
   background-position: -44px -44px;
@@ -115,14 +91,14 @@
   left: 0;
 }
 
- 
+
 body.archive .pswp__button--arrow--left:hover {
   cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' fill='rgb(255, 255, 255)' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M213.2 13.5L200 0.2 72.3 127.8 200 255.5 213.2 242.2 98.9 127.8z'/%3E %3C/svg%3E"), pointer;
- }
+}
 
 .pswp__button--arrow--left:hover {
   cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M213.2 13.5L200 0.2 72.3 127.8 200 255.5 213.2 242.2 98.9 127.8z'/%3E %3C/svg%3E"), pointer;
- }
+}
 
 .pswp__button--arrow--right {
   right: 0;
@@ -132,33 +108,14 @@ body.archive #pswp_close {
   filter: invert(1);
 }
 
- 
-body.archive  .pswp__button--arrow--right:hover {
+
+body.archive .pswp__button--arrow--right:hover {
   cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_2' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' fill='rgb(255, 255, 255)' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M72.3 13.5L85.5 0.2 213.2 127.8 85.5 255.5 72.3 242.2 186.7 127.8z'/%3E %3C/svg%3E"), pointer;
 }
 
 .pswp__button--arrow--right:hover {
   cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_2' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M72.3 13.5L85.5 0.2 213.2 127.8 85.5 255.5 72.3 242.2 186.7 127.8z'/%3E %3C/svg%3E"), pointer;
 }
-/* .pswp__button--arrow--left:before,
-.pswp__button--arrow--right:before {
-  content: "";
-  top: 35px;
-  background-color: rgba(255,255,255,1);
-  height: 30px;
-  width: 32px;
-  position: absolute;
-} */
-/* 
-.pswp__button--arrow--left:before {
-  left: 6px;
-  background-position: -138px -44px;
-}
-
-.pswp__button--arrow--right:before {
-  right: 6px;
-  background-position: -94px -44px;
-} */
 
 /*
   
@@ -213,6 +170,7 @@ body.archive  .pswp__button--arrow--right:hover {
   -webkit-backface-visibility: hidden;
   will-change: transform;
 }
+
 .pswp__share-tooltip a {
   display: block;
   padding: 8px 12px;
@@ -221,13 +179,16 @@ body.archive  .pswp__button--arrow--right:hover {
   font-size: 14px;
   line-height: 18px;
 }
+
 .pswp__share-tooltip a:hover {
   text-decoration: none;
   color: #000;
 }
+
 .pswp__share-tooltip a:first-child {
   border-radius: 2px 2px 0 0;
 }
+
 .pswp__share-tooltip a:last-child {
   border-radius: 0 0 2px 2px;
 }
@@ -235,6 +196,7 @@ body.archive  .pswp__button--arrow--right:hover {
 .pswp__share-modal--fade-in {
   opacity: 1;
 }
+
 .pswp__share-modal--fade-in .pswp__share-tooltip {
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
@@ -265,6 +227,7 @@ a.pswp__share--facebook:hover {
   background: #3e5c9a;
   color: #000;
 }
+
 a.pswp__share--facebook:hover:before {
   border-bottom-color: #3e5c9a;
 }
@@ -318,12 +281,12 @@ a.pswp__share--download:hover {
   transition: opacity 0.1s linear;
 }
 
-.caption:empty + .info {
+.caption:empty+.info {
   opacity: 0 !important;
 }
 
 .pswp__caption:hover .caption {
-    opacity: 1 !important;
+  opacity: 1 !important;
 }
 
 /* .pswp__caption small {
@@ -349,6 +312,7 @@ a.pswp__share--download:hover {
 .pswp__caption--fake {
   visibility: hidden;
 }
+
 .pswp__preloader {
   width: 44px;
   height: 44px;
@@ -373,6 +337,7 @@ a.pswp__share--download:hover {
 .pswp__preloader--active {
   opacity: 1;
 }
+
 .pswp__preloader--active .pswp__preloader__icn {
   /* We use .gif in browsers that don't support CSS animation */
   background: url(/uploads/preloader.gif) 0 0 no-repeat;
@@ -381,10 +346,12 @@ a.pswp__share--download:hover {
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1;
 }
+
 .pswp--css_animation .pswp__preloader--active .pswp__preloader__icn {
   -webkit-animation: clockwise 500ms linear infinite;
   animation: clockwise 500ms linear infinite;
 }
+
 .pswp--css_animation .pswp__preloader--active .pswp__preloader__donut {
   -webkit-animation: donut-rotate 1000ms cubic-bezier(0.4, 0, 0.22, 1) infinite;
   animation: donut-rotate 1000ms cubic-bezier(0.4, 0, 0.22, 1) infinite;
@@ -439,6 +406,7 @@ a.pswp__share--download:hover {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -450,6 +418,7 @@ a.pswp__share--download:hover {
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -461,10 +430,12 @@ a.pswp__share--download:hover {
     -webkit-transform: rotate(0);
     transform: rotate(0);
   }
+
   50% {
     -webkit-transform: rotate(-140deg);
     transform: rotate(-140deg);
   }
+
   100% {
     -webkit-transform: rotate(0);
     transform: rotate(0);
@@ -476,10 +447,12 @@ a.pswp__share--download:hover {
     -webkit-transform: rotate(0);
     transform: rotate(0);
   }
+
   50% {
     -webkit-transform: rotate(-140deg);
     transform: rotate(-140deg);
   }
+
   100% {
     -webkit-transform: rotate(0);
     transform: rotate(0);

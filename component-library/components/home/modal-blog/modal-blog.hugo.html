@@ -61,6 +61,7 @@
       </div>
     </section>
   </div>
+  {{ if $key.Params.attached }}
   {{ if $key.Params.attached_collection }}
   {{ $attached := $key.Params.attached_collection }}
   {{ $attached := string $attached}}
@@ -81,6 +82,7 @@
         </div>
     </a>
   </section>
+  {{end}}
   {{end}}
 </article>
 {{ end }}

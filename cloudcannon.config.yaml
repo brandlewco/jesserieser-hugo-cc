@@ -93,6 +93,8 @@ _inputs:
     type: array
   collection_preview[*]:
     type: image
+  attached:
+    type: switch
   blog_block_cover:
     type: image
   isActive:

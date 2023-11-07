@@ -12,6 +12,6 @@
 </header>
 <article id="project-description" class="w-full py-8 px-4 sm:px-32 lg:px-64 text-sm sm:text-lg text-{{.Params.navigation_theme}} items-center leading-tight relative z-100"  style="backface-visibility: hidden;">
     <div class="flex flex-col justify-center mx-auto {{with .Params.text_alignment}}text-{{.}}{{else}}text-left{{end}}" data-sal="slide-up" data-sal-delay="100">
-            {{ .Params.feature_description | safeHTML }}
+            {{ .Params.feature_description | markdownify }}
     </div>
 </article>

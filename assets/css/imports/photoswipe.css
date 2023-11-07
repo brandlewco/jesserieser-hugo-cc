@@ -195,7 +195,11 @@ body.archive .pswp__bg {
 .pswp.pswp--animated-in .pswp__item.active-wrapper {
   opacity: 1;
 } */
-@media (pointer: fine) {
+
+
+/* Photo slide transition. disabled for more modern look */
+
+/* @media (pointer: fine) {
   .pswp__container {
     transition-delay: 0.5s;
   }
@@ -225,7 +229,7 @@ body.archive .pswp__bg {
     transition: transform 0.5s ease-out 0.5s, opacity 0.5s ease-out 0.5s;
     opacity: 1 !important;
   }
-}
+} */
 
 /* smartphones, touchscreens */
 @media (pointer: coarse) {
