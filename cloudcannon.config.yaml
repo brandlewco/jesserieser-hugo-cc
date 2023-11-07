@@ -48,6 +48,8 @@ collections_config:
       subtext:
         - key: price
 _inputs:
+  content:
+    type: markdown
   title: 
     type: text
   text:
