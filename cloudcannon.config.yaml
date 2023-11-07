@@ -473,7 +473,7 @@ _inputs:
   collection_category:
     type: multiselect
     options:
-      values: data.categories.categoiries
+      values: data.categories.categoiries.categories
   collection_filter:
     type: select
     options:
