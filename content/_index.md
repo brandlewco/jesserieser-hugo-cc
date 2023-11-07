@@ -5,8 +5,7 @@ feature_description: >-
   recent news.
 
 
-  For additional <a target="_blank" rel="noopener" href="/projects">projects</a>
-  and archive head over to all works.
+  For additional [projects](/projects) and archive head over to all works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
