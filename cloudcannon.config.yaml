@@ -65,6 +65,8 @@ _inputs:
       removeformat: true
   about_bio:
     type: markdown
+  feature_description:
+    type: markdown
   overview_collection:
     type: array
   overview_collection[*]:
