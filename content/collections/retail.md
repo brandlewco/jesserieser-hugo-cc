@@ -580,9 +580,10 @@ collection_content: >-
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
 collection_awards:
-  - content: >-
-      **2020**<br>Klompching Gallery 2020 Fresh<br>One of five winning
-      exhibitions
+  - content: |-
+      **2020**
+      Klompching Gallery 2020 Fresh
+      One of five winning exhibitions
     template: array-placeholder
   - content: |-
       **2018**  
@@ -644,28 +645,21 @@ collection_press:
 collection_exhibition:
   - content: |-
       **2022**
-
       *Souvenirs From Paradise* The Gallery at Mountain Shadows.
-
       Paradise Valley, AZ (Solo Show)
   - content: |-
       **2020**
-
       *Fresh 2020*
-
       Klompching Gallery.
-
       Brooklyn, NY. (Group Show)
     template: array-placeholder
-  - content: >-
+  - content: |-
       **2019 - 2020**
-
-
       *Photoville The Fence:* Brooklyn Bridge Park. Brooklyn, NY. Santa Fe
       Railyard Park. Santa Fe, NM. LoDo District. Denver, CO. Atlanta Beltline.
       Atlanta, GA.
     template: array-placeholder
-  - content: >-
+  - content: |-
       **2019**<br> *Standard Vision LA at LA Live*<br> Los Angeles, CA (Solo
       Show)
     template: array-placeholder
