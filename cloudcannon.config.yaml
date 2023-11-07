@@ -471,7 +471,7 @@ _inputs:
         - center
         - right
   categories:
-    type:
+    type: array
   collection_category:
     type: multiselect
     options:
