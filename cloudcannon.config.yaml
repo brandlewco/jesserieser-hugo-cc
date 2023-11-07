@@ -67,6 +67,11 @@ _inputs:
     type: markdown
   feature_description:
     type: markdown
+    options:
+      bold: true
+      italic: true
+      link: true
+      removeformat: true
   overview_collection:
     type: array
   overview_collection[*]:
