@@ -644,8 +644,8 @@ collection_press:
     template: array-placeholder
 collection_exhibition:
   - content: >-
-      **2022** *Souvenirs From Paradise* The Gallery at Mountain Shadows.
-      Paradise Valley, AZ (Solo Show)
+      **2022**<br>*Souvenirs From Paradise* The Gallery at Mountain
+      Shadows.<br>Paradise Valley, AZ (Solo Show)
   - content: |-
       **2020**
       *Fresh 2020*
