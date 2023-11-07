@@ -580,10 +580,9 @@ collection_content: >-
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
 collection_awards:
-  - content: |-
-      **2020**  
-      Klompching Gallery 2020 Fresh  
-      One of five winning exhibitions
+  - content: >-
+      **2020**<br>Klompching Gallery 2020 Fresh<br>One of five winning
+      exhibitions
     template: array-placeholder
   - content: |-
       **2018**  
@@ -643,22 +642,17 @@ collection_press:
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
     template: array-placeholder
 collection_exhibition:
-  - content: |-
-      **2022**
-
-      *Souvenirs From Paradise*
-
-      The Gallery at Mountain Shadows. Paradise Valley, AZ (Solo Show)
   - content: >-
-      **2020**<br><br>*Fresh 2020*&nbsp;Klompching Gallery.<br><br>Brooklyn, NY.
-      (Group Show)
+      **2022**<br>*Souvenirs From Paradise*<br>The Gallery at Mountain Shadows.
+      Paradise Valley, AZ (Solo Show)
+  - content: >-
+      **2020**<br>*Fresh 2020*&nbsp;Klompching Gallery.<br>Brooklyn, NY. (Group
+      Show)
     template: array-placeholder
   - content: >-
-      **2019 - 2020**<br>*Photoville The Fence:*
-
-
-      Brooklyn Bridge Park. Brooklyn, NY.<br>Santa Fe Railyard Park. Santa Fe,
-      NM.<br>LoDo District. Denver, CO.<br>Atlanta Beltline. Atlanta, GA.
+      **2019 - 2020**<br>*Photoville The Fence:*<br>Brooklyn Bridge Park.
+      Brooklyn, NY.<br>Santa Fe Railyard Park. Santa Fe, NM.<br>LoDo District.
+      Denver, CO.<br>Atlanta Beltline. Atlanta, GA.
     template: array-placeholder
   - content: |-
       **2019**  
