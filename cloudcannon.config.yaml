@@ -470,10 +470,12 @@ _inputs:
         - left
         - center
         - right
+  categories:
+    type:
   collection_category:
     type: multiselect
     options:
-      values: data.categories.categoiries.categories
+      values: data.categories
   collection_filter:
     type: select
     options:
