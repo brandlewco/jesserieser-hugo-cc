@@ -644,30 +644,30 @@ collection_press:
 collection_exhibition:
   - content: |-
       **2022**
-      *Souvenirs From Paradise*
-      The Gallery at Mountain Shadows.
+
+      *Souvenirs From Paradise* The Gallery at Mountain Shadows.
+
       Paradise Valley, AZ (Solo Show)
   - content: |-
       **2020**
+
       *Fresh 2020*
+
       Klompching Gallery.
-      Brooklyn, NY. (Group
-      Show)
+
+      Brooklyn, NY. (Group Show)
     template: array-placeholder
-  - content: |-
+  - content: >-
       **2019 - 2020**
-      *Photoville The Fence:*
-      Brooklyn Bridge Park.
-      Brooklyn, NY.
-      Santa Fe Railyard Park. Santa Fe, NM.
-      LoDo District.
-      Denver, CO.
-      Atlanta Beltline. Atlanta, GA.
+
+
+      *Photoville The Fence:* Brooklyn Bridge Park. Brooklyn, NY. Santa Fe
+      Railyard Park. Santa Fe, NM. LoDo District. Denver, CO. Atlanta Beltline.
+      Atlanta, GA.
     template: array-placeholder
-  - content: |-
-      **2019**  
-      _Standard Vision LA at LA Live_  
-      Los Angeles, CA (Solo Show)
+  - content: >-
+      **2019**<br> *Standard Vision LA at LA Live*<br> Los Angeles, CA (Solo
+      Show)
     template: array-placeholder
   - content: |-
       **2019**  
