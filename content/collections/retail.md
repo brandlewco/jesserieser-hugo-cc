@@ -643,9 +643,12 @@ collection_press:
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
     template: array-placeholder
 collection_exhibition:
-  - content: >-
-      **2022**<br>*Souvenirs From Paradise* The Gallery at Mountain
-      Shadows.<br>Paradise Valley, AZ (Solo Show)
+  - content: |-
+      **2022**
+
+      *Souvenirs From Paradise* The Gallery at Mountain Shadows.
+
+      Paradise Valley, AZ (Solo Show)
   - content: |-
       **2020**
       *Fresh 2020*
