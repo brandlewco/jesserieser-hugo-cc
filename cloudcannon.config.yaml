@@ -485,15 +485,18 @@ _inputs:
   collection_awards:
     type: array
   collection_awards[*]:
-    type: markdown
+    content:
+      type: html
   collection_press:
     type: array
   collection_press[*]:
-    type: markdown
+    content:
+      type: html
   collection_exhibition:
     type: array
   collection_exhibition[*]:
-    type: markdown
+    content:
+      type: html
   navigation_theme:
     type: select
     options:
