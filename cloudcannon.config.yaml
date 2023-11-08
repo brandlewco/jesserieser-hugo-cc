@@ -476,14 +476,6 @@ _inputs:
     type: multiselect
     options:
       values: data.categories
-  attached_collection:
-    type: select
-    options:
-      values: collections.collections
-      value_key: content_path
-      preview:
-        text:
-          - key: slug
   collection_filter:
     type: select
     options:
@@ -520,16 +512,30 @@ _inputs:
     type: text
   header_col_3:
     type: html
+  attached_collection:
+    type: select
+    options:
+      values: collections.collections
+      value_key: content_path
+      preview:
+        text:
+          - key: slug
   collection_pager:
     type: multiselect
     options:
       values: collections.collections
       value_key: content_path
+      preview:
+        text:
+          - key: slug
   collection_sorter:
     type: multiselect
     options:
       values: collections.collections
       value_key: content_path  
+      preview:
+        text:
+          - key: slug
   shop_sorter:
     type: multiselect
     options:
