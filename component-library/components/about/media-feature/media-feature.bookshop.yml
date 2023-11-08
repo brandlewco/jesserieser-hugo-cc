@@ -39,12 +39,5 @@ blueprint:
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
-_inputs:
-  attached_collection:
-    type: select
-    options:
-      values: collections.collections
-      value_key: content_path
-      preview:
-        text:
-          - key: collection_meta
+_inputs: 
+

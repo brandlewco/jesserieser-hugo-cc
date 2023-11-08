@@ -476,6 +476,14 @@ _inputs:
     type: multiselect
     options:
       values: data.categories
+  attached_collection:
+    type: select
+    options:
+      values: collections.collections
+      value_key: content_path
+      preview:
+        text:
+          - key: slug
   collection_filter:
     type: select
     options:
