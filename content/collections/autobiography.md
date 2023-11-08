@@ -610,7 +610,7 @@ collection_press:
     template: array-placeholder
   - content: <em>Nacione</em>
     template: array-placeholder
-collection_exhibition: []
+collection_exhibition: 
 collection_archive: false
 collection_hidden: false
 hide_footer: false
