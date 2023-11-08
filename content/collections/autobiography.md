@@ -598,7 +598,6 @@ collection_awards:
       <p><strong>2018</strong><br /><em>AP 34: American Photography Annual
       34</em><br />Best Personal Work Series</p>
     template: array-placeholder
-  - <p><strong>Test</strong><br /><em>test</em></p>
 collection_press:
   - content: >-
       <p><a
