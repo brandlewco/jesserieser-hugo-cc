@@ -204,19 +204,19 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/stroman_4x3-4.jpg
 collection_content: ""
 collection_awards:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
+  - content: >-
+      <strong>2019</strong><br>  
+      AP 35: American Photography Annual 35<br>  
+      Best Personal Work Series:<br> 
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon:
     template: array-placeholder
     url:
 collection_press:
-  - content: |-
-      **2019**  
-      AP 35: American Photography Annual 35  
-      Best Personal Work Series:  
+  - content: >-
+      <strong>2019</strong><br>
+      AP 35: American Photography Annual 35<br>
+      Best Personal Work Series:<br>  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
     icon:
     template: array-placeholder

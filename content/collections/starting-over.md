@@ -225,13 +225,13 @@ collection_content: >-
   represent the fragility of housing and employment, and the strength of family
   and commitment.
 collection_awards:
-  - content: |-
-      **2012**  
+  - content: >-
+      <strong>2012</strong>  
       _Photolucida's Critical Mass_  
       Finalist: Top International Project
     template: array-placeholder
-  - content: |-
-      **2011**  
+  - content: >-
+      <strong>2011</strong>  
       _Filter Photo Festival Official Selection_
     template: array-placeholder
 collection_press:
@@ -246,18 +246,18 @@ collection_press:
   - content: _Nacione_
     template: array-placeholder
 collection_exhibition:
-  - content: |-
-      **2012**  
+  - content: >-
+      <strong>2012</strong>  
       _Guate Photo Festival: \[DOT\]COM_  
       La Fototeca Gallery. Guatemala City (Group Show)
     template: array-placeholder
-  - content: |-
-      **2011**  
+  - content: >-
+      <strong>2011</strong>  
       _Filter Photo Jurried Exhibition_  
       Black Cloud Gallery. Chicago, IL (Group Show)
     template: array-placeholder
-  - content: |-
-      **2011**  
+  - content: >-
+      <strong>2011</strong>  
       _Art Director’s Club Young Guns 9 Exhibition_
 
       Art Director’s Club Gallery.   

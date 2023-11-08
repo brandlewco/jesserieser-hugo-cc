@@ -94,9 +94,9 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/unbridled_covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/unbridled_covers-4.jpg
 collection_awards:
-  - content: |-
-      **2016**  
-      _AP 32: American Photography Annual 32_  
+  - content: >-
+      <strong>2016</strong><br>  
+      <em>AP 32: American Photography Annual 32</em><br>  
       Best Editorial Work:
     template: array-placeholder
 collection_press: []

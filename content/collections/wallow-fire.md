@@ -247,14 +247,14 @@ collection_content: >-
   2013. The deadliest day for United States firefighters since September 11,
   2001.
 collection_awards:
-  - content: |-
-      **2013**  
-      **_Photolucida's Critical Mass_**  
+  - content: >-
+      <strong>2013</strong><br>
+      <em>Photolucida's Critical Mass</em><br>  
       Winner" Top 50 International Project
     template: array-placeholder
-  - content: |-
-      **2013**  
-      **_Canteen Magazine:_**  
+  - content: >-
+      <strong>2013</strong><br>
+      <em>Canteen Magazine:</em><br>
       Naked Judging Finalist
     template: array-placeholder
 collection_press:
@@ -265,17 +265,17 @@ collection_press:
   - content: "[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'"
     template: array-placeholder
 collection_exhibition:
-  - content: |-
-      **2014**  
-      **_How One Thing Leads To Another: Critical Mass Top 50_**  
-      Corden Potts Gallery. San Francisco, CA  
+  - content: >-
+      <strong>2014</strong><br>  
+      <em>How One Thing Leads To Another: Critical Mass Top 50</em><br>
+      Corden Potts Gallery. San Francisco, CA<br>
       Houston Center For Photography. Houston, TX (Group Show)
     template: array-placeholder
   - content: >-
-      **2012**  
+      <strong>2012</strong><br>  
 
-      **_The Forty Eighth: Contemporary Photography at Arizona's
-      Centennial_**   
+      <em>The Forty Eighth: Contemporary Photography at Arizona's
+      Centennial</em><br>
 
       Monorchid Gallery. Phoenix, AZ
     template: array-placeholder

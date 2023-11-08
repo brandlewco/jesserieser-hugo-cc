@@ -373,28 +373,28 @@ collection_content: >-
   define ourselves as parents, citizens, family members and spouses. We work to
   create meaningful lives; we work to understand what “meaningful” looks like.
 collection_awards:
-  - content: |-
-      **2011**  
-      **_Center's Review Santa Fe 100_**  
+  - content: >-
+      <strong>2011</strong><br>  
+      <em>Center's Review Santa Fe 100</em><br>  
       Top 100 International Project
     template: array-placeholder
-  - content: |-
-      **2010**  
-      **_AP 26: American Photography Annual 26_**  
+  - content: >-
+      <strong>2010</strong><br>
+      <em>AP 26: American Photography Annual 26</em><br>
       Best Personal Work Series
     template: array-placeholder
 collection_press:
   - content: "**_LENSCRATCH_**](http://lenscratch.com/2011/06/jesse-rieser-2/)"
     template: array-placeholder
 collection_exhibition:
-  - content: |-
-      **2011**  
-      **_Art Director's Club Young Guns 9 Exhibition_**  
+  - content: >-
+      <strong>2011</strong><br>  
+      <em>Art Director's Club Young Guns 9 Exhibition</em><br>  
       Art Director's Club Gallery. New York, NY. (Group Show)
     template: array-placeholder
-  - content: |-
-      **2010**  
-      **_Chaos Theory 11_**  
+  - content: >-
+      <strong>2010</strong><br>  
+      <em>Chaos Theory 11</em><br>
       Legend City Gallery. Phoenix, AZ. (Group Show)
     template: array-placeholder
 collection_archive: true

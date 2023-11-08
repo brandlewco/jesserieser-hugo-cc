@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: 
+  meta_description:
   meta_title: Can Science Cure Death? For Popular Mechanics
 title: Popular Mechanics
 collection_meta: Can Science Cure Death? It Sure Looks Like It.
@@ -22,34 +22,34 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#f3f0dd'
+    color: "#f3f0dd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-1.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#ff052a'
+    color: "#ff052a"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-2.jpg
-    margin_left: '40'
-    margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    margin_left: "40"
+    margin_right: "0"
+    margin_y: "100"
+    width: "55"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#fbebe1'
+    color: "#fbebe1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-3.jpg
-    margin_left: '50'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_left: "50"
+    margin_right: "0"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -57,52 +57,52 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#f3dff7'
+    color: "#f3dff7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-4.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#fe1a25'
+    color: "#fe1a25"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-5.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#e0f8d8'
+    color: "#e0f8d8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-6.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#f9efd6'
+    color: "#f9efd6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-7.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '500'
-    width: '40'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "500"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:
-    color: '#fe012c'
+    color: "#fe012c"
     image: https://d1sf55qlb7p6hz.cloudfront.net/pop_mech-redo-9.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/pop%20mech-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-53.jpg
@@ -117,8 +117,8 @@ collection_category:
   - Portraits
   - Color
 date: 2021-07-25T23:18:43Z
-theme_color: '#a3a7f3'
-theme_color_all_works: '#ffe05a'
+theme_color: "#a3a7f3"
+theme_color_all_works: "#ffe05a"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
@@ -144,9 +144,9 @@ collection_content: >-
   weeks? “First I’d do everything to turn that around, but I would look then at
   staying alive on some level. I probably would look at Cryogenic freezing."⁠⁠
 collection_awards:
-  - content: |-
-      **2022**  
-      AP 38: American Photography Annual 38  
+  - content: >-
+      <strong>2022</strong><br>  
+      AP 38: American Photography Annual 38<br>  
       Best Editorial Series
     icon:
     template: array-placeholder

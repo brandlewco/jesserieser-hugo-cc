@@ -170,10 +170,10 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition:
-  - content: |-
-      **2019**  
-      _Grand Canyon National Park 100_  
-      Etherton Gallery  
+  - content: >-
+      <strong>2019</strong><br>  
+      <em>Grand Canyon National Park 100</em><br>  
+      Etherton Gallery<br> 
       Tucson, AZ (Group Show)
     template: array-placeholder
 collection_archive: true

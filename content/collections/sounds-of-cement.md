@@ -201,21 +201,21 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/soc_recolor-9.jpg
 collection_content: ""
 collection_awards:
-  - content: |-
-      **2016**  
-      **_PDN Photo Annual_**   
+  - content: >-
+      <strong>2016</strong><br>
+      <em>PDN Photo Annual</em>  
       Best Stock Photography
     template: array-placeholder
 collection_press: []
 collection_exhibition:
-  - content: |-
-      **2017**  
-      **_Chaos Theory 17_**  
-      Legend City Gallery. Phoenix, AZ (Group Sh_ow)_
+  - content: >-
+      <strong>2017</strong><br>
+      <em>Chaos Theory 17</em><br>  
+      Legend City Gallery. Phoenix, AZ (Group Show)
     template: array-placeholder
-  - content: |-
-      **2016**  
-      **_Sunday Afternoon Artist Exhibition_**  
+  - content: >-
+      <strong>2016</strong><br>
+      <em>Sunday Afternoon Artist Exhibition</em><br>  
       Inert Gallery. New York, NY (Group Show)
     template: array-placeholder
 collection_archive: true

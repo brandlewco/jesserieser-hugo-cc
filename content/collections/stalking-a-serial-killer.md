@@ -355,9 +355,9 @@ collection_content: >-
   leading to more questions than answers, and leaves you wanting more.*”<br>–
   Buzzfeed –
 collection_awards:
-  - content: |-
-      **2017**  
-      _AP 33: American Photography Annual 33_  
+  - content: >-
+      <strong>2017</strong><br>
+      <em>AP 33: American Photography Annual 33</em>
       Best Editorial Series
     template: array-placeholder
 collection_press:
@@ -380,14 +380,14 @@ collection_press:
       UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
     template: array-placeholder
 collection_exhibition:
-  - content: |-
-      **2018**  
-      _HCP Print Auction, Houston Center for Photography_  
+  - content: >-
+      <strong>2018</strong><br>
+      <em>HCP Print Auction, Houston Center for Photography</em><br>
       Houston, TX (Group Show)
     template: array-placeholder
-  - content: |-
-      **2017**  
-      _Sunday Afternoon Artist Show_  
+  - content: >-
+      <strong>2017</strong><br>
+      <em>Sunday Afternoon Artist Show</em><br> 
       New York, NY (Group Show)
     template: array-placeholder
 collection_archive: true
