@@ -49,7 +49,7 @@ collections_config:
         - key: price
 _inputs:
   content:
-    type: markdown
+    type: html
   title: 
     type: text
   text:
@@ -485,15 +485,15 @@ _inputs:
   collection_awards:
     type: array
   collection_awards[*]:
-    type: markdown
+    type: html
   collection_press:
     type: array
   collection_press[*]:
-    type: markdown
+    type: html
   collection_exhibition:
     type: array
   collection_exhibition[*]:
-    type: markdown
+    type: html
   navigation_theme:
     type: select
     options:
