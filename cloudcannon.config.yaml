@@ -555,8 +555,7 @@ _inputs:
 _structures:
   nested_content:
     values:
-      - label: Item
-        icon: format_align_left
+      - icon: format_align_left
         value:
           content:
         
