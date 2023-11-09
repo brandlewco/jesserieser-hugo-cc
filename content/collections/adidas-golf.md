@@ -255,6 +255,8 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
 collection_content: ''
 collection_awards:
+  - content: <p><strong>test</strong><br />​​​​​​​<em>test</em></p>
+    template:
 collection_press:
 collection_exhibition:
   - content: >-
