@@ -485,18 +485,15 @@ _inputs:
   collection_awards:
     type: array
   collection_awards[*]:
-    content:
-      type: html
+    type: html
   collection_press:
     type: array
   collection_press[*]:
-    content:
-      type: html
+    type: html
   collection_exhibition:
-    type: array
-  collection_exhibition[*]:
-    content:
-      type: html
+    type: object
+    options:
+      structures: _structures.testing
   navigation_theme:
     type: select
     options:
@@ -547,11 +544,10 @@ _inputs:
 
 
 _structures:
-  features:
+  testing:
     values:
-      - value: 
-          item: 
-          isActive: 
+      - content: markdown
+ 
 
 _editables:
   text:
