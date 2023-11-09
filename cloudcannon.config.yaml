@@ -484,20 +484,14 @@ _inputs:
         - Personal
   collection_awards:
     type: array
-  collection_awards[*]:
-    type: object
     options:
       structures: _structures.nested_content
   collection_press:
     type: array
-  collection_press[*]:
-    type: object
     options:
       structures: _structures.nested_content
   collection_exhibition:
     type: array
-  ollection_exhibition[*]:
-    type: object
     options:
       structures: _structures.nested_content
   navigation_theme:
@@ -556,6 +550,7 @@ _structures:
         icon: format_align_left
         value:
           content:
+          template:
  
 
 _editables:
