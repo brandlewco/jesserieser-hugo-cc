@@ -483,17 +483,17 @@ _inputs:
         - Commissioned + Stock
         - Personal
   collection_awards:
-    type: array
-  collection_awards[*]:
-    type: html
+    type: object
+    options:
+      structures: _structures.nested_content
   collection_press:
-    type: array
-  collection_press[*]:
-    type: html
+    type: object
+    options:
+      structures: _structures.nested_content
   collection_exhibition:
     type: object
     options:
-      structures: _structures.testing
+      structures: _structures.nested_content
   navigation_theme:
     type: select
     options:
@@ -544,13 +544,12 @@ _inputs:
 
 
 _structures:
-  testing:
+  nested_content:
     values:
       - label: Item
-        icon: image
+        icon: format_align_left
         value:
-          content: 
-          placeholder: 
+          content:
  
 
 _editables:
