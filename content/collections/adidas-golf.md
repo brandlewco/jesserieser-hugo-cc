@@ -254,8 +254,8 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-18.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
 collection_content: ""
-collection_awards: []
-collection_press: []
+collection_awards: 
+collection_press: 
 collection_exhibition:
   - content: >-
       <strong>2019</strong><br> 
