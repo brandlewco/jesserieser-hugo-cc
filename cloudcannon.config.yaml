@@ -550,6 +550,7 @@ _structures:
         icon: format_align_left
         value:
           content:
+          template: "placeholder"
  
 
 _editables:
