@@ -546,7 +546,11 @@ _inputs:
 _structures:
   testing:
     values:
-      - content: markdown
+      - label: Item
+        icon: image
+        value:
+          content: 
+          placeholder: 
  
 
 _editables:
