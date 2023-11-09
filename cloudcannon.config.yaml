@@ -483,14 +483,20 @@ _inputs:
         - Commissioned + Stock
         - Personal
   collection_awards:
+    type: array
+  collection_awards[*]:
     type: object
     options:
       structures: _structures.nested_content
   collection_press:
+    type: array
+  collection_press[*]:
     type: object
     options:
       structures: _structures.nested_content
   collection_exhibition:
+    type: array
+  ollection_exhibition[*]:
     type: object
     options:
       structures: _structures.nested_content
@@ -550,7 +556,6 @@ _structures:
         icon: format_align_left
         value:
           content:
-          template: "placeholder"
  
 
 _editables:
