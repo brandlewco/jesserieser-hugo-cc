@@ -361,18 +361,16 @@ collection_awards:
       Best Editorial Series
 collection_press:
   - content: >-
-      [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb)
-    slug:
+      <a href="https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb"><em>Buzzfeed</em></a>
   - content: >-
-      [_Fast
-      Company_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer)
+      <a href="https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer"><em>Fast Company</em></a>
   - content: >-
-      [_Feature
-      Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
-  - content: "[_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) "
+      <a href="http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/"><em>Feature Shoot</em></a>
   - content: >-
-      [_The Daily Mail
-      UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
+      <a href="https://potd.pdnonline.com/2017/08/48088/"><em>PDN Photo of the Day</em></a>
+  - content: >-
+      <a href="https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html"><em>The Daily Mail UK</em></a>
+
 collection_exhibition:
   - content: >-
       <strong>2018</strong><br>

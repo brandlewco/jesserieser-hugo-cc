@@ -839,304 +839,141 @@ collection_awards:
       <strong>2017</strong><br> 
       <em>Communication Arts Photography Annual</em><br> 
       Winner: Best Unpublished Series_
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2017</strong><br>  
       <em>AP 33 American Photography Annual 33</em><br>
       Winner: Best Personal Work Series
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2012</strong><br>  
       <em>Communication Arts Photography Annual</em><br>   
       Winner: Best Self-Promotion Campaign
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2012</strong><br>  
       <em>Magenta Foundation Flash Forward Winner</em><br>  
       Top Emerging Fine Art Photographer in North America and U.K.
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2011</strong><br>  
       <em>Art Director's Club Young Guns 9</em><br>  
       Top International Emerging Creative 30 and Under
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2011</strong><br>  
       <em>PDN Photo Annual</em><br> 
       Winner: Best Personal Work Series
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2011</strong><br>  
       <em>AP 27: American Photography Annual 27</em><br>
       Winner: Best Personal Work Series
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2011</strong><br> 
       <em>Photolucida Critical Mass</em><br>  
       Winner: Top 50 International Projects
-    icon:
-    slug:
-    url:
   - content: >-
       <strong>2011</strong><br>  
       <em>The 10 Most Exciting Photographers This Year</em><br> 
       Phoenix Art Museum<br>
       ICP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson
-    icon:
-    slug:
-    url:
 collection_press:
   - content: >-
-      [_New York Times Lens
-      Blog_](https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1)
-    icon:
-    slug:
-    url:
+      <a href="https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1"><em>New York Times Lens Blog</em></a>
   - content: >-
-      [_National
-      Geographic_](https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/)
-    icon:
-    slug:
-    url:
-  - content: "[_Time Magazine_](https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time)"
-    icon:
-    slug:
-    url:
+      <a href="https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/"><em>National Geographic</em></a>
   - content: >-
-      [_NPR Picture
-      Show_](http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america)
-    icon:
-    slug:
-    url:
+      <a href="https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time"><em>Time Magazine</em></a>
   - content: >-
-      [_NPR Radio
-      Interview_](https://kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america)
-    icon:
-    slug:
-    url:
+      <a href="http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america"><em>NPR Picture Show</em></a>
   - content: >-
-      [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz)
-    icon:
-    slug:
-    url:
-  - content: "[_Wired_](https://www.wired.com/2012/12/jesse-rieser-xmas/)"
-    icon:
-    slug:
-    url:
+      <a href="https://kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america"><em>NPR Radio Interview</em></a>
   - content: >-
-      [_Fast
-      Company_](https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas)
-    icon:
-    slug:
-    url:
-  - content: "[_Esquire Russia_](http://esquire.ru/photo/xmas)"
-    icon:
-    slug:
-    url:
+      <a href="https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz"><em>Buzzfeed</em></a>
   - content: >-
-      [_The
-      Gaurdian_](https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph)
-    icon:
-    slug:
-    url:
+      <a href="https://www.wired.com/2012/12/jesse-rieser-xmas/"><em>Wired</em></a>
   - content: >-
-      [_Refinery29_](http://www.refinery29.com/2015/12/100005/photos-suburbia-christmas-decorations#slide)
-    icon:
-    slug:
-    url:
+      <a href="https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas"><em>Fast Company</em></a>
   - content: >-
-      [_Artsy_](https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor)
-    icon:
-    slug:
-    url:
+      <a href="http://esquire.ru/photo/xmas"><em>Esquire Russia</em></a>
   - content: >-
-      [_It's Nice
-      That_](http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america)
-    icon:
-    slug:
-    url:
-  - content: "[_Cool Hunting_](https://jesserieser.com/projects/christmas-in-america/)"
-    icon:
-    slug:
-    url:
+      <a href="https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph"><em>The Guardian</em></a>
   - content: >-
-      [_Musee
-      Magazine_](http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser)
-    icon:
-    slug:
-    url:
+      <a href="http://www.refinery29.com/2015/12/100005/photos-suburbia-christmas-decorations#slide"><em>Refinery29</em></a>
   - content: >-
-      [**_BOOOOOOOM_**](https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/)
-    icon:
-    slug:
-    url:
+      <a href="https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor"><em>Artsy</em></a>
   - content: >-
-      [_BOOOOOOOM 64 x 64: Best of
-      2017_](https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/)
-    icon:
-    slug:
-    url:
+      <a href="http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america"><em>It's Nice That</em></a>
   - content: >-
-      [_Hyperallergic_](http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/)
-    icon:
-    slug:
-    url:
+      <a href="https://jesserieser.com/projects/christmas-in-america/"><em>Cool Hunting</em></a>
   - content: >-
-      [_Yahoo!_](https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html)
-    icon:
-    slug:
-    url:
-  - content: <em>Society Magazine (France)</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Wings Magazine (Germany)</em>
-    icon:
-    slug:
-    url:
-  - content: <em>n by Norwegian</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Geo Magazine (Germany)</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Chaeg (South Korea)</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Amtrak the National</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Dallas Morning News</em>
-    icon:
-    slug:
-    url:
+      <a href="http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser"><em>Musee Magazine</em></a>
   - content: >-
-      [_Los Angeles
-      Confidential_](http://la-confidential-magazine.com/the-latest/pursuits/postings/la-photographer-jesse-rieser-christmas-in-america-happy-birthday-jesus)
-    icon:
-    slug:
-    url:
+      <a href="https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/"><strong><em>BOOOOOOOM</em></strong></a>
   - content: >-
-      [_The Magazine Santa
-      Fe_](https://themagsantafe.com/jesse-rieser-portfolio/)
-    icon:
-    slug:
-    url:
+      <a href="https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/"><em>BOOOOOOOM 64 x 64: Best of 2017</em></a>
   - content: >-
-      [_Feature
-      Shoot_](http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/)
-    icon:
-    slug:
-    url:
-  - content: <em>PDN Photo of the Day</em>
-    icon:
-    slug:
-    url:
-  - content: <em>Working Not Working Magazine</em>
-    icon:
-    slug:
-    url:
+      <a href="http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/"><em>Hyperallergic</em></a>
   - content: >-
-      [_Mache_](https://www.mache.digital/series/2017/12/15/christmas-in-america)
-    icon:
-    slug:
-    url:
+      <a href="https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html"><em>Yahoo!</em></a>
   - content: >-
-      [_Don't Take
-      Pictures_](http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser)
-    icon:
-    slug:
-    url:
+      <em>Society Magazine (France)</em>
   - content: >-
-      [_Konbini_](http://www.konbini.com/fr/inspiration-2/en-images-les-bizarreries-de-noel-au-coeur-de-lamerique/)
-    icon:
-    slug:
-    url:
+      <em>Wings Magazine (Germany)</em>
   - content: >-
-      [_Duncan Miller Gallery "Your Daily
-      Photograph"_](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de)
-    icon:
-    slug:
-    url:
-  - content: "[_Curbed_](http://curbed.com/tags/jesse-rieser)"
-    icon:
-    slug:
-    url:
+      <em>n by Norwegian</em>
   - content: >-
-      [**_Tycho's ISO
-      50_**](http://blog.iso50.com/33088/christmas-in-america-by-jesse-rieser/)
-    icon:
-    slug:
-    url:
-  - content: </em>Resource Magazine</em>
-    icon:
-    slug:
-    url:
-  - content: "[_Lenscratch_](http://lenscratch.com/2011/12/jesse-rieser-3/)"
-    icon:
-    slug:
-    url:
-  - content: </em>Finite Foto</em>
-    icon:
-    slug:
-    url:
+      <em>Geo Magazine (Germany)</em>
   - content: >-
-      [_Inspiration
-      Lab_](https://inspirationlab.wordpress.com/2012/10/18/jesse-rieser/)
-    icon:
-    slug:
-    url:
-  - content: <em>The Oregonian (Exhibition Review)</em>
-    icon:
-    slug:
-    url:
+      <em>Chaeg (South Korea)</em>
+  - content: >-
+      <em>Amtrak the National</em>
+  - content: >-
+      <em>Dallas Morning News</em>
+  - content: >-
+      <a href="http://la-confidential-magazine.com/the-latest/pursuits/postings/la-photographer-jesse-rieser-christmas-in-america-happy-birthday-jesus"><em>Los Angeles Confidential</em></a>
+  - content: >-
+      <a href="https://themagsantafe.com/jesse-rieser-portfolio/"><em>The Magazine Santa Fe</em></a>
+  - content: >-
+      <a href="http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/"><em>Feature Shoot</em></a>
+  - content: >-
+      <em>PDN Photo of the Day</em>
+  - content: >-
+      <em>Working Not Working Magazine</em>
+  - content: >-
+      <a href="https://www.mache.digital/series/2017/12/15/christmas-in-america"><em>Mache</em></a>
+  - content: >-
+      <a href="http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser"><em>Don't Take Pictures</em></a>
+  - content: >-
+      <a href="http://www.konbini.com/fr/inspiration-2/en-images-les-bizarreries-de-noel-au-coeur-de-lamerique/"><em>Konbini</em></a>
+  - content: >-
+      <a href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de"><em>Duncan Miller Gallery "Your Daily Photograph"</em></a>
+  - content: >-
+      <a href="http://curbed.com/tags/jesse-rieser"><em>Curbed</em></a>
+  - content: >-
+      <a href="http://blog.iso50.com/33088/christmas-in-america-by-jesse-rieser/"><strong><em>Tycho's ISO 50</em></strong></a>
+  - content: >-
+      <em>Resource Magazine</em>
+  - content: >-
+      <a href="http://lenscratch.com/2011/12/jesse-rieser-3/"><em>Lenscratch</em></a>
+  - content: >-
+      <em>Finite Foto</em>
+  - content: >-
+      <a href="https://inspirationlab.wordpress.com/2012/10/18/jesse-rieser/"><em>Inspiration Lab</em></a>
+  - content: >-
+      <em>The Oregonian (Exhibition Review)</em>
 collection_exhibition:
   - content: >-
       <strong>2019</strong><br>  
       <em>Phest Photo Festival & National Geographic: See Beyond the Sea</em><br>
       Monopoli, Italy (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2018 - 2019</strong><br>
       <em>Mabee-Gerrer Museum of Art</em><br> 
       Shawnee, OK (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2018</strong><br>  
       <em>Industry City</em><br> 
       Brooklyn, NY (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2017 - 2018</strong><br> 
       </em>Irving Arts Center a Smithsonian Affiliate</em><br>
       Irving, TX (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2017 - 2018</strong><br>  
       <em>The Fence</em><br>
@@ -1160,16 +997,10 @@ collection_exhibition:
         <br>
       Fourth Ward<br> 
       Houston, TX (Group Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2017</strong><br>  
       <em>Standard Vision L.A. Live</em><br>
       Los Angeles, CA (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2012</strong><br>  
       Critical Mass: Love, Anxiety, and Happiness<br>  
@@ -1181,47 +1012,29 @@ collection_exhibition:
 
       Raykko Gallery.<br>  
       San Franciso, CA (Group Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2011</strong><br>  
       <em>Newspace Center For Photography</em><br>  
       Portland, OR. (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2011</strong><br>  
       <em>Camera Club of New York Gallery</em><br>
       New York, NY (Group Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2011</strong><br>  
       <em>Saguaro Hotel Gallery</em><br>  
       Scottsdale, AZ. (Solo Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2011</strong><br>  
       Art Director’s Club Young Guns 9 Exhibition<br>  
       Art Director’s Club Gallery<br>  
       New York, NY. (Group Show)
-    icon: ""
-    slug: ""
-    url: ""
   - content: >-
       <strong>2011</strong><br>  
       Art of Photography Juried Exhibition<br>  
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los Angeles<br>  
       Lyceum Theatre Gallery<br>
       San Diego, CA (Group Show)
-    icon: ""
-    slug: ""
-    url: ""
 collection_archive: false
 collection_hidden: false
 hide_footer: false

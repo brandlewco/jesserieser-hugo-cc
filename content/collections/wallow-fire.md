@@ -257,9 +257,9 @@ collection_awards:
       Naked Judging Finalist
 collection_press:
   - content: >-
-      [**_Duncan Miller Gallery: Your Daily
-      Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
-  - content: "[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'"
+      <a href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee"><strong><em>Duncan Miller Gallery: Your Daily Photograph</em></strong></a>
+  - content: >-
+      <a href="http://lenscratch.com/2012/08/jesse-rieser/"><strong><em>Lenscratch</em></strong></a>
 collection_exhibition:
   - content: >-
       <strong>2014</strong><br>  

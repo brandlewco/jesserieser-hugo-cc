@@ -238,12 +238,11 @@ collection_content: >-
 collection_awards: []
 collection_press:
   - content: >-
-      [**_VICE_**](https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space)
+      <a href="https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space"><strong><em>VICE</em></strong></a>
   - content: >-
-      [**_BOOOOOOOM_**](https://www.booooooom.com/2020/02/11/the-star-stargeezers-by-photographer-jesse-rieser/)
+      <a href="https://www.booooooom.com/2020/02/11/the-star-stargeezers-by-photographer-jesse-rieser/"><strong><em>BOOOOOOOM</em></strong></a>
   - content: >-
-      [**_Fish Eye
-      Magazine_**](https://www.fisheyemagazine.fr/decouvertes/images/the-star-geezers-a-la-belle-etoile/)
+      <a href="https://www.fisheyemagazine.fr/decouvertes/images/the-star-geezers-a-la-belle-etoile/"><strong><em>Fish Eye Magazine</em></strong></a>
 collection_exhibition: []
 collection_archive: true
 collection_hidden: false

@@ -234,11 +234,11 @@ collection_awards:
       <em>Filter Photo Festival Official Selection</em>
 collection_press:
   - content: >-
-      [**_Landscape
-      Stories_**](http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser)
+      <a href="http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser"><strong>Landscape
+      Stories</strong></a>
   - content: >-
-      [**_OITZARISME: Romanian Online Magazine on
-      Photography_**](http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/)
+      <a href="http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/"><strong>OITZARISME: Romanian Online Magazine on
+      Photography</strong></a>
   - content: _Nacione_
 collection_exhibition:
   - content: >-

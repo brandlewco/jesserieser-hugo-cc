@@ -594,37 +594,33 @@ collection_awards:
       Best Personal Work Series
 collection_press:
   - content: >-
-      [_The Washington
-      Post_](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram)
+      <a href="https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram"><em>The Washington Post</em></a>
   - content: >-
-      [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
-  - content: "[_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)"
+      <a href="https://kjzz.org/content/708344/changing-face-retail-through-camera-lens"><em>NPR</em></a>
   - content: >-
-      [_Architectural
-      Digest_](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)
+      <a href="https://www.wired.com/story/photo-gallery-retail-apocalypse/"><em>Wired</em></a>
   - content: >-
-      [_Fast
-      Company_](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)
+      <a href="https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse"><em>Architectural Digest</em></a>
   - content: >-
-      [_Business
-      Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
-  - content: '["_Fraction Magazine 131_"](http://www.fractionmagazine.com/jesse-rieser)'
-  - content: "_Blkswn (Japan)_ "
+      <a href="https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures"><em>Fast Company</em></a>
   - content: >-
-      [_BOOOOOOOM 64 x 64: Best of
-      2018_](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
+      <a href="https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12"><em>Business Insider</em></a>
   - content: >-
-      [_BOOOOOOOM_](https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/)
+      <a href="http://www.fractionmagazine.com/jesse-rieser"><em>Fraction Magazine 131</em></a>
   - content: >-
-      [_Ignant_](https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/)
+      <em>Blkswn (Japan)</em>
   - content: >-
-      [_Plain
-      Magazine_](https://plainmagazine.com/jesse-rieser-changing-american-retail/)
+      <a href="https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/"><em>BOOOOOOOM 64 x 64: Best of 2018</em></a>
   - content: >-
-      [_Archinect_](https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture)
+      <a href="https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/"><em>BOOOOOOOM</em></a>
   - content: >-
-      [_Muuuz Architecture & Design
-      Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
+      <a href="https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/"><em>Ignant</em></a>
+  - content: >-
+      <a href="https://plainmagazine.com/jesse-rieser-changing-american-retail/"><em>Plain Magazine</em></a>
+  - content: >-
+      <a href="https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture"><em>Archinect</em></a>
+  - content: >-
+      <a href="https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html"><em>Muuuz Architecture & Design Magazine</em></a>
 collection_exhibition:
   - content: >-
       <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The

@@ -137,8 +137,7 @@ collection_awards:
       Best Personal Work Series
 collection_press:
   - content: >-
-      [**_MSNBC. Feature and
-      Interview._**](http://www.msnbc.com/msnbc/when-fall-came-early)
+      <a href="http://www.msnbc.com/msnbc/when-fall-came-early"><strong><em>MSNBC. Feature and Interview.</em></strong></a>
   - content: >-
       <strong>AARP Earth Day Feature</strong>
 collection_exhibition: []
