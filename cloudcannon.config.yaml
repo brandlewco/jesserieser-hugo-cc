@@ -486,14 +486,23 @@ _inputs:
     type: array
     options:
       structures: _structures.nested_content
+      preview:
+        text:
+          - key: content
   collection_press:
     type: array
     options:
       structures: _structures.nested_content
+      preview:
+        text:
+          - key: content
   collection_exhibition:
     type: array
     options:
       structures: _structures.nested_content
+      preview:
+        text:
+          - key: content
   navigation_theme:
     type: select
     options:
@@ -550,7 +559,7 @@ _structures:
         icon: format_align_left
         value:
           content:
-          template:
+        
  
 
 _editables:
