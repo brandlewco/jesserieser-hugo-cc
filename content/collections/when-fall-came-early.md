@@ -131,20 +131,16 @@ collection_awards:
       <strong>2015</strong><br>  
       <em>PDN Photo Annual</em><br> 
       Best Editorial Series: <em>When Fall Came Early</em> published by MSNBC
-    template: array-placeholder
   - content: >-
       <strong>2015</strong><br> 
       <em>AP 31: American Photography Annual 30</em>  
       Best Personal Work Series
-    template: array-placeholder
 collection_press:
   - content: >-
       [**_MSNBC. Feature and
       Interview._**](http://www.msnbc.com/msnbc/when-fall-came-early)
-    template: array-placeholder
   - content: >-
       <strong>AARP Earth Day Feature</strong>
-    template: array-placeholder
 collection_exhibition: []
 collection_archive: true
 collection_hidden: false

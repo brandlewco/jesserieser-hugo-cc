@@ -226,43 +226,35 @@ collection_content: >-
   and commitment.
 collection_awards:
   - content: >-
-      <strong>2012</strong>  
-      _Photolucida's Critical Mass_  
+      <strong>2012</strong><br>
+      <em>Photolucida's Critical Mass</em><br>
       Finalist: Top International Project
-    template: array-placeholder
   - content: >-
-      <strong>2011</strong>  
-      _Filter Photo Festival Official Selection_
-    template: array-placeholder
+      <strong>2011</strong><br>  
+      <em>Filter Photo Festival Official Selection</em>
 collection_press:
   - content: >-
       [**_Landscape
       Stories_**](http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser)
-    template: array-placeholder
   - content: >-
       [**_OITZARISME: Romanian Online Magazine on
       Photography_**](http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/)
-    template: array-placeholder
   - content: _Nacione_
-    template: array-placeholder
 collection_exhibition:
   - content: >-
-      <strong>2012</strong>  
-      _Guate Photo Festival: \[DOT\]COM_  
+      <strong>2012</strong><br>  
+      <em>Guate Photo Festival: \[DOT\]COM</em><br>  
       La Fototeca Gallery. Guatemala City (Group Show)
-    template: array-placeholder
   - content: >-
-      <strong>2011</strong>  
-      _Filter Photo Jurried Exhibition_  
+      <strong>2011</strong><br> 
+      <em>Filter Photo Jurried Exhibition</em><br> 
       Black Cloud Gallery. Chicago, IL (Group Show)
-    template: array-placeholder
   - content: >-
-      <strong>2011</strong>  
-      _Art Director’s Club Young Guns 9 Exhibition_
+      <strong>2011</strong><br> 
+      <em>Art Director’s Club Young Guns 9 Exhibition</em><br>
 
-      Art Director’s Club Gallery.   
+      Art Director’s Club Gallery.<br>   
       New York, NY. (Group Show)
-    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: false

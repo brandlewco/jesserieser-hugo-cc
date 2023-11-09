@@ -149,7 +149,6 @@ collection_awards:
       AP 38: American Photography Annual 38<br>  
       Best Editorial Series
     icon:
-    template: array-placeholder
     url:
 collection_press: []
 collection_exhibition: []

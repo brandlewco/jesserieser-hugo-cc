@@ -359,37 +359,29 @@ collection_awards:
       <strong>2017</strong><br>
       <em>AP 33: American Photography Annual 33</em>
       Best Editorial Series
-    template: array-placeholder
 collection_press:
   - content: >-
       [_Buzzfeed_](https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb)
     slug:
-    template: array-placeholder
   - content: >-
       [_Fast
       Company_](https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer)
-    template: array-placeholder
   - content: >-
       [_Feature
       Shoot_](http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/)
-    template: array-placeholder
   - content: "[_PDN Photo of the Day_](https://potd.pdnonline.com/2017/08/48088/) "
-    template: array-placeholder
   - content: >-
       [_The Daily Mail
       UK_](https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html)
-    template: array-placeholder
 collection_exhibition:
   - content: >-
       <strong>2018</strong><br>
       <em>HCP Print Auction, Houston Center for Photography</em><br>
       Houston, TX (Group Show)
-    template: array-placeholder
   - content: >-
       <strong>2017</strong><br>
       <em>Sunday Afternoon Artist Show</em><br> 
       New York, NY (Group Show)
-    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: false

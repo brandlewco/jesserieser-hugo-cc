@@ -584,64 +584,47 @@ collection_awards:
       <strong>2020</strong><br>
       Klompching Gallery 2020 Fresh<br>
       One of five winning exhibitions
-    template: array-placeholder
   - content: >-
       <strong>2018</strong><br>  
       Photolucida Critical Mass<br>  
       Top 50 International Project
-    template: array-placeholder
   - content: >-
       <strong>2018</strong><br>  
       <em>PDN Photo Annual</em><br>   
       Best Personal Work Series
-    template: array-placeholder
 collection_press:
   - content: >-
       [_The Washington
       Post_](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram)
-    template: array-placeholder
   - content: >-
       [_NPR_](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)
-    template: array-placeholder
   - content: "[_Wired_](https://www.wired.com/story/photo-gallery-retail-apocalypse/)"
-    template: array-placeholder
   - content: >-
       [_Architectural
       Digest_](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)
-    template: array-placeholder
   - content: >-
       [_Fast
       Company_](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)
-    template: array-placeholder
   - content: >-
       [_Business
       Insider_](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)
-    template: array-placeholder
   - content: '["_Fraction Magazine 131_"](http://www.fractionmagazine.com/jesse-rieser)'
-    template: array-placeholder
   - content: "_Blkswn (Japan)_ "
-    template: array-placeholder
   - content: >-
       [_BOOOOOOOM 64 x 64: Best of
       2018_](https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/)
-    template: array-placeholder
   - content: >-
       [_BOOOOOOOM_](https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/)
-    template: array-placeholder
   - content: >-
       [_Ignant_](https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/)
-    template: array-placeholder
   - content: >-
       [_Plain
       Magazine_](https://plainmagazine.com/jesse-rieser-changing-american-retail/)
-    template: array-placeholder
   - content: >-
       [_Archinect_](https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture)
-    template: array-placeholder
   - content: >-
       [_Muuuz Architecture & Design
       Magazine_](https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html)
-    template: array-placeholder
 collection_exhibition:
   - content: >-
       <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The
@@ -651,22 +634,18 @@ collection_exhibition:
       <em>Fresh 2020</em><br>
       Klompching Gallery.<br>
       Brooklyn, NY. (Group Show)
-    template: array-placeholder
   - content: >-
       <strong>2019 - 2020</strong><br>
       <em>Photoville The Fence:</em> Brooklyn Bridge Park. Brooklyn, NY. Santa Fe<br>
       Railyard Park. Santa Fe, NM. LoDo District. Denver, CO. Atlanta Beltline.<br>
       Atlanta, GA.
-    template: array-placeholder
   - content: >-
       <strong>2019</strong><br> <em>Standard Vision LA at LA Live</em><br> Los Angeles, CA (Solo
       Show)
-    template: array-placeholder
   - content: >-
       <strong>2019</strong><br>  
       <em>Camera Work Gallery</em><br>  
       Portland, OR (Solo Show)<br>
-    template: array-placeholder
 collection_archive: false
 collection_hidden: false
 hide_footer: false

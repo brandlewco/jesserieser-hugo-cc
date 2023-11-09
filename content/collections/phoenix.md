@@ -185,18 +185,15 @@ collection_awards:
       <strong>2019</strong><br>  
       <em>AP 35: American Photography Annual 35</em><br>  
       Best Personal Work Series:
-    template: array-placeholder
 collection_press:
   - content: >-
       <em>LoDown Magazine</em><br>
       <em>(Germany)</em>
-    template: array-placeholder
 collection_exhibition:
   - content: >-
       <strong>2019</strong><br>
       <em>Chaos Theory 20</em><br> 
       Legend City Gallery. Phoenix, AZ (Group Show)
-    template: array-placeholder
 collection_archive: false
 collection_hidden: false
 hide_footer: true

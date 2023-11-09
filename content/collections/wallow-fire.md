@@ -251,26 +251,21 @@ collection_awards:
       <strong>2013</strong><br>
       <em>Photolucida's Critical Mass</em><br>  
       Winner" Top 50 International Project
-    template: array-placeholder
   - content: >-
       <strong>2013</strong><br>
       <em>Canteen Magazine:</em><br>
       Naked Judging Finalist
-    template: array-placeholder
 collection_press:
   - content: >-
       [**_Duncan Miller Gallery: Your Daily
       Photograph_**](http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee)
-    template: array-placeholder
   - content: "[**_Lenscratch_**](http://lenscratch.com/2012/08/jesse-rieser/)'"
-    template: array-placeholder
 collection_exhibition:
   - content: >-
       <strong>2014</strong><br>  
       <em>How One Thing Leads To Another: Critical Mass Top 50</em><br>
       Corden Potts Gallery. San Francisco, CA<br>
       Houston Center For Photography. Houston, TX (Group Show)
-    template: array-placeholder
   - content: >-
       <strong>2012</strong><br>  
 
@@ -278,7 +273,6 @@ collection_exhibition:
       Centennial</em><br>
 
       Monorchid Gallery. Phoenix, AZ
-    template: array-placeholder
 collection_archive: true
 collection_hidden: false
 hide_footer: false
