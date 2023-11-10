@@ -89,20 +89,11 @@ about_blocks:
     title_margin_right: '0'
     align_x: start
     modal_block:
-      - content: |-
-          **2022**
-
-          Souvenirs From Paradise
-
-          The Gallery at Mountain Shadows.
-
-          Paradise Valley, AZ (Solo Show)
-
-          *A Vanishing Folklore* 2012 - 2022
-
-          *The Changing Landscape of American Retail 2015 - 2022*
-
-          *Christmas In America: Happy Birthday, Jesus* 2010 - 2022
+      - content: >-
+          <p>**2022** Souvenirs From Paradise The Gallery at Mountain Shadows.
+          Paradise Valley, AZ (Solo Show) *A Vanishing Folklore* 2012 - 2022
+          *The Changing Landscape of American Retail 2015 - 2022* *Christmas In
+          America: Happy Birthday, Jesus* 2010 - 2022</p>
         icon:
         url:
       - content: |-
