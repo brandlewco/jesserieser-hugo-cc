@@ -5,7 +5,8 @@ feature_description: >-
   recent news.
 
 
-  For additional projects and archive head over to all works.
+  For additional projects and archive head over to [all
+  works.](https://jesserieser.com/collections/)
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -58,7 +59,6 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: 'AP 39: American Photography Annual '
     meta: Awards
-    attached: true
     attached_blog: posts/ap-39-american-photography-annual.md
     text_size: base
     color: '#ffffff'
@@ -71,6 +71,7 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
     caption: 'Barron''s: Beyond The Drought'
     theme_color: '#ffd2d2'
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
