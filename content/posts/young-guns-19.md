@@ -5,26 +5,31 @@ post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_Y.jpg
-    width: "25"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '25'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_G.jpg
-    width: "25"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '25'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_1.jpg
-    width: "25"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '25'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_9.jpg
-    width: "25"
+    title: blog title
+    caption:
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/jury2.jpg
-    width: "100"
+    title: blog title
+    caption:
+    width: '100'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-motion-id
@@ -32,9 +37,9 @@ blog_slider:
     vimeo_id: 618420931
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/01_article.jpg
+attached: false
 attached_collection: collections/wired-gunsite.md
 attached_link:
-attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
 blog_header:
@@ -59,25 +64,26 @@ content: >-
   in New York City on Wednesday, November 17th.
 
 
-  **The New Procrastinator’s Guide to Entering Young Guns**<br>Jesse
-  Rieser<br>Photographer<br>YG9 Winner<br>YG19 Judge
+  **The New Procrastinator’s Guide to Entering Young Guns**<br />Jesse Rieser<br
+  />Photographer<br />YG9 Winner<br />YG19 Judge
 
 
-  > *If you don’t procrastinate, there is a strong chance we can’t be friends
+  &gt; *If you don’t procrastinate, there is a strong chance we can’t be friends
   (half joking. sorta). I’ve procrastinated as long as I can remember. And at
   every stage. Elementary school book reports, university term papers, client
   deadlines, grant proposals… all of it. Look, I get it. Besides, everything is
   a little spicier when the clock is ticking, and the pressure is on.*
 
-  >
+  &gt;
 
-  > *But don’t let my fondness of chaos come off as an endorsement to craft an
-  entry in disarray. I have had the honor of jurying three winning classes and I
-  want to help position yourself to stand out in a hyper-competitive field.*
+  &gt; *But don’t let my fondness of chaos come off as an endorsement to craft
+  an entry in disarray. I have had the honor of jurying three winning classes
+  and I want to help position yourself to stand out in a hyper-competitive
+  field.*
 
-  >
+  &gt;
 
-  > *When compiling your entry, my first point of advice is stylistic
+  &gt; *When compiling your entry, my first point of advice is stylistic
   consistency. I want to be able to look at work and immediately say “That looks
   like the work of so and so.” Second is to think about the uniqueness of you.
   Think about how only you see the world the way you do; this is your most
@@ -86,11 +92,11 @@ content: >-
   of view over awards and high-profile client work with stylistic
   inconsistencies. Embrace your vision and push your*
 
-  >
+  &gt;
 
-  > *creative currency, the awards and clients will come later. And often.*
+  &gt; *creative currency, the awards and clients will come later. And often.*
 date:
 news_category:
   - press
-theme_color: "#b9f1a8"
+theme_color: '#b9f1a8'
 ---
