@@ -15,96 +15,96 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    align_y:
+    color: '#e1f3dd'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-2.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y:
+    color: '#e1f9fb'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-3.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y: start
+    align_y:
+    color: '#fbebd6'
     caption:
-    color: '#e4f6fe'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-4.jpg
+    width: '25'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '20'
-    margin_y: '300'
-    width: '25'
+    align_y: start
+    color: '#e4f6fe'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-5.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '40'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#ffd9cf'
     caption:
-    color: '#ddf5da'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-6.jpg
+    width: '45'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '400'
-    width: '45'
+    align_y:
+    color: '#ddf5da'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-7.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#f7f7d0'
     caption:
-    color: '#e0efff'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-8.jpg
+    width: '20'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '600'
-    width: '20'
+    align_y:
+    color: '#e0efff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f0e7ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-9.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '40'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y:
+    color: '#f0e7ff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -121,7 +121,8 @@ collection_category:
   - Editorial
   - Color
   - Portraits
-  - ''
+  - Tech
+  - Workplace
 date: 2019-05-01T07:00:00Z
 theme_color: '#bcebd5'
 theme_color_all_works: '#ffe05a'
