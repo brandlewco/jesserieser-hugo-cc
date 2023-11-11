@@ -89,109 +89,216 @@ about_blocks:
     title_margin_right: '0'
     align_x: start
     modal_block:
-      - content: '<strong>2022</strong> Souvenirs From Paradise The Gallery at Mountain Shadows. Paradise Valley, AZ (Solo Show) <em>A Vanishing Folklore</em> 2012 - 2022 <em>The Changing Landscape of American Retail 2015 - 2022</em> <em>Christmas In America: Happy Birthday, Jesus</em> 2010 - 2022'
+      - content: >-
+          <p><strong>2022</strong> Souvenirs From Paradise The Gallery at
+          Mountain Shadows. Paradise Valley, AZ (Solo Show) <em>A Vanishing
+          Folklore</em> 2012 - 2022 <em>The Changing Landscape of American
+          Retail 2015 - 2022</em> <em>Christmas In America: Happy Birthday,
+          Jesus</em> 2010 - 2022</p>
         icon:
         url:
-      - content: '<strong>2021</strong><br>I am Not a Soldier. But I Have Been Trained to Kill.<br>Legend City Gallery. Phoenix, AZ (Group Show) Chaos Theory 21'
+      - content: >-
+          <strong>2021</strong><br>I am Not a Soldier. But I Have Been Trained
+          to Kill.<br>Legend City Gallery. Phoenix, AZ (Group Show) Chaos Theory
+          21
         icon:
         url:
-      - content: '<strong>2020</strong><br><em>The Changing Landscape of American Retail</em><br>Fresh Exhibiting Artist<br>Klompching Gallery<br>Brooklyn, NY (Group Show)'
+      - content: >-
+          <strong>2020</strong><br><em>The Changing Landscape of American
+          Retail</em><br>Fresh Exhibiting Artist<br>Klompching
+          Gallery<br>Brooklyn, NY (Group Show)
         icon:
         url:
-      - content: '<strong>2020 - 2019</strong><br><em>The Changing Landscape of American Retail</em> Photoville The Fence:<br>Brooklyn Bridge Park. Brooklyn, NY. <em>Santa Fe Railyard Park. Santa Fe, NM. LoDo District. Denver, CO. Atlanta Beltline. Atlanta, GA. City Hall Plaza. Durham, NC. SoWa Southie Plaza. Boston, MA. Fourth Ward. Houston, TX.</em>'
+      - content: >-
+          <strong>2020 - 2019</strong><br><em>The Changing Landscape of American
+          Retail</em> Photoville The Fence:<br>Brooklyn Bridge Park. Brooklyn,
+          NY. <em>Santa Fe Railyard Park. Santa Fe, NM. LoDo District. Denver,
+          CO. Atlanta Beltline. Atlanta, GA. City Hall Plaza. Durham, NC. SoWa
+          Southie Plaza. Boston, MA. Fourth Ward. Houston, TX.</em>
         icon:
         url:
-      - content: '<strong>2019</strong><br><strong>Christmas In America: Happy Birthday: Jesus</strong><br>Monopoli, Italy (Solo Show)<br>Phest Photography Festival: See Beyond the Sea with National Geographic'
+      - content: >-
+          <strong>2019</strong><br><strong>Christmas In America: Happy Birthday:
+          Jesus</strong><br>Monopoli, Italy (Solo Show)<br>Phest Photography
+          Festival: See Beyond the Sea with National Geographic
         icon:
         url:
-      - content: '<strong>2019</strong><br><em>Grand Canyon National Park Centennial for Time Magazine</em><br>Terry Etherton Gallery. Tucson, AZ (Group Show)<br>Celebrating The Grand Canyon National Park at 100'
+      - content: >-
+          <strong>2019</strong><br><em>Grand Canyon National Park Centennial for
+          Time Magazine</em><br>Terry Etherton Gallery. Tucson, AZ (Group
+          Show)<br>Celebrating The Grand Canyon National Park at 100
         icon:
         url:
-      - content: '<strong>2019</strong><br><em>Phoenix: A Dystopian Legoland That Tastes Like Candy</em><br>Legend City Gallery. Phoenix, AZ (Group Show)   Chaos Theory 20'
+      - content: >-
+          <strong>2019</strong><br><em>Phoenix: A Dystopian Legoland That Tastes
+          Like Candy</em><br>Legend City Gallery. Phoenix, AZ (Group Show)  
+          Chaos Theory 20
         icon:
         url:
-      - content: '<strong>2019</strong><br><em>The Changing Landscape of American Retail</em><br>Camerawork Gallery<br>Portland, OR (Solo Show)'
+      - content: >-
+          <strong>2019</strong><br><em>The Changing Landscape of American
+          Retail</em><br>Camerawork Gallery<br>Portland, OR (Solo Show)
         icon:
         url:
-      - content: '<strong>2019</strong><br><em>The Changing Landscape of American Retail</em><br>Standard Vision LA at LA Live.<br>Los Angeles, CA (Solo Show)'
+      - content: >-
+          <strong>2019</strong><br><em>The Changing Landscape of American
+          Retail</em><br>Standard Vision LA at LA Live.<br>Los Angeles, CA (Solo
+          Show)
         icon:
         url:
-      - content: '<strong>2018 - 2019</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Mabee-Gerrer Museum of Art   Shawnee, OK (Solo Show)'
+      - content: >-
+          <strong>2018 - 2019</strong><br><em>Christmas In America: Happy
+          Birthday, Jesus</em><br>Mabee-Gerrer Museum of Art   Shawnee, OK (Solo
+          Show)
         icon:
         url:
-      - content: '<strong>2018</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Industry City   Brooklyn, NY (Solo Show)'
+      - content: >-
+          <strong>2018</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>Industry City   Brooklyn, NY (Solo Show)
         icon:
         url:
-      - content: '<strong>2018</strong><br><em>The Changing Landscape of American Retail</em><br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory 18'
+      - content: >-
+          <strong>2018</strong><br><em>The Changing Landscape of American
+          Retail</em><br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos
+          Theory 18
         icon:
         url:
-      - content: '<strong>2018</strong><br><em>Stalking A Serial Killer</em> HCP Print Auction, Houston Center for Photography. Houston, TX (Group Show)'
+      - content: >-
+          <strong>2018</strong><br><em>Stalking A Serial Killer</em> HCP Print
+          Auction, Houston Center for Photography. Houston, TX (Group Show)
         icon:
         url:
-      - content: '<strong>2017 - 2018</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Irving Arts Center a Smithsonian Affiliate Irving, TX (Solo Show)'
+      - content: >-
+          <strong>2017 - 2018</strong><br><em>Christmas In America: Happy
+          Birthday, Jesus</em><br>Irving Arts Center a Smithsonian Affiliate
+          Irving, TX (Solo Show)
         icon:
         url:
-      - content: '<strong>2017 - 2018</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Standard Vision LA at LA Live. Los Angeles, CA (Solo Show)'
+      - content: >-
+          <strong>2017 - 2018</strong><br><em>Christmas In America: Happy
+          Birthday, Jesus</em><br>Standard Vision LA at LA Live. Los Angeles, CA
+          (Solo Show)
         icon:
         url:
-      - content: '<strong>2017 - 2018</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Photoville The Fence:<br>Brooklyn Bridge Park. Brooklyn, NY. Santa Fe Railyard Park. Santa Fe, NM. LoDo District. Denver, CO. Atlanta Beltline. Atlanta, GA. City Hall Plaza. Durham, NC. SoWa Southie Plaza. Boston, MA. Fourth Ward. Houston, TX.'
+      - content: >-
+          <strong>2017 - 2018</strong><br><em>Christmas In America: Happy
+          Birthday, Jesus</em><br>Photoville The Fence:<br>Brooklyn Bridge Park.
+          Brooklyn, NY. Santa Fe Railyard Park. Santa Fe, NM. LoDo District.
+          Denver, CO. Atlanta Beltline. Atlanta, GA. City Hall Plaza. Durham,
+          NC. SoWa Southie Plaza. Boston, MA. Fourth Ward. Houston, TX.
         icon:
         url:
-      - content: '<strong>2017</strong><br><em>Stalking A Serial Killer</em><br>Sunday Afternoon Gallery.  New York, NY (Group Show)'
+      - content: >-
+          <strong>2017</strong><br><em>Stalking A Serial Killer</em><br>Sunday
+          Afternoon Gallery.  New York, NY (Group Show)
         icon:
         url:
-      - content: '<strong>2017</strong><br><em>Chaos Theory 17</em><br>Legend City Gallery. Phoenix, AZ (Group Show)'
+      - content: >-
+          <strong>2017</strong><br><em>Chaos Theory 17</em><br>Legend City
+          Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: '<strong>2016</strong><br><em>Sounds of Cement</em><br>Inert Gallery. New York, NY (Group Show)<br>Sunday Afternoon Artist Exhibition'
+      - content: >-
+          <strong>2016</strong><br><em>Sounds of Cement</em><br>Inert Gallery.
+          New York, NY (Group Show)<br>Sunday Afternoon Artist Exhibition
         icon:
         url:
-      - content: '<strong>2016</strong><br><em>A New American Folklore</em><br>Legend City Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory 16'
+      - content: >-
+          <strong>2016</strong><br><em>A New American Folklore</em><br>Legend
+          City Gallery. Phoenix, AZ (Group Show)<br>Chaos Theory 16
         icon:
         url:
-      - content: '<strong>2014</strong><br><em>The Wallow Fire</em><br>How One Thing Leads To Another:<br>Critical Mass Top 50 Touring Show<br><em>Corden Potts Gallery. San Francisco, CA</em> <em>Houston Center For Photography. Houston, TX (Group Show)</em>'
+      - content: >-
+          <strong>2014</strong><br><em>The Wallow Fire</em><br>How One Thing
+          Leads To Another:<br>Critical Mass Top 50 Touring Show<br><em>Corden
+          Potts Gallery. San Francisco, CA</em> <em>Houston Center For
+          Photography. Houston, TX (Group Show)</em>
         icon:
         url:
-      - content: '<strong>2014</strong><br>OFFF Barcelona: A Post Digital Culture Festival  <br>Barcelona, Spain (Group Show)'
+      - content: >-
+          <strong>2014</strong><br>OFFF Barcelona: A Post Digital Culture
+          Festival  <br>Barcelona, Spain (Group Show)
         icon:
         url:
-      - content: '<strong>2014</strong><br>The ADC Festival of Art + Craft in Advertising and Design.<br>The New World Center.<br>Miami, FL'
+      - content: >-
+          <strong>2014</strong><br>The ADC Festival of Art + Craft in
+          Advertising and Design.<br>The New World Center.<br>Miami, FL
         icon:
         url:
-      - content: '<strong>2013</strong><br><em>The Wallow Fire</em><br>Monorchid Gallery. Phoenix, AZ (Group Show)<br>The Forty Eighth: Contemporary Photography at Arizona’s Centennial'
+      - content: >-
+          <strong>2013</strong><br><em>The Wallow Fire</em><br>Monorchid
+          Gallery. Phoenix, AZ (Group Show)<br>The Forty Eighth: Contemporary
+          Photography at Arizona’s Centennial
         icon:
         url:
-      - content: '<strong>2013</strong><br>Chaos Theory 13<br><em>A New American Folklore</em><br>Legend City Gallery. Phoenix, AZ (Group Show)'
+      - content: >-
+          <strong>2013</strong><br>Chaos Theory 13<br><em>A New American
+          Folklore</em><br>Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: '<strong>2012</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Love, Anxiety, and Happiness: Critical Mass Top 50 Touring Show<br>Northwest Center For Photography. Seattle, WA<br>Newspace Center For Photography. Portland, OR<br>Raykko Gallery. San Francisco, CA (Group Show)'
+      - content: >-
+          <strong>2012</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>Love, Anxiety, and Happiness: Critical Mass Top 50
+          Touring Show<br>Northwest Center For Photography. Seattle,
+          WA<br>Newspace Center For Photography. Portland, OR<br>Raykko Gallery.
+          San Francisco, CA (Group Show)
         icon:
         url:
-      - content: '<strong>2012</strong><br><em>Class of 99 Turns 30</em><br>La Fototeca Gallery. Guatemala City (Group Show)<br>Guate Photo Festival:'
+      - content: >-
+          <strong>2012</strong><br><em>Class of 99 Turns 30</em><br>La Fototeca
+          Gallery. Guatemala City (Group Show)<br>Guate Photo Festival:
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Newspace Center for Photography.   Portland, OR (Solo Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>Newspace Center for Photography.   Portland, OR (Solo
+          Show)
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>The Saguaro, A Joie de Vivre Boutique Hotel.   Scottsdale, AZ (Solo Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>The Saguaro, A Joie de Vivre Boutique Hotel.  
+          Scottsdale, AZ (Solo Show)
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Art Director’s Club Young Guns 9 Exhibition</em><br>Art Director’s Club Gallery.   New York, NY. (Group Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Art Director’s Club Young Guns 9
+          Exhibition</em><br>Art Director’s Club Gallery.   New York, NY. (Group
+          Show)
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Art of Photography Juried Exhibition  <br>Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los Angeles  <br>Lyceum Theatre Gallery. San Diego, CA (Group Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>Art of Photography Juried Exhibition  <br>Juried by Ann
+          Lyden, Assoc. Curator of J. Paul Getty Museum, Los Angeles  <br>Lyceum
+          Theatre Gallery. San Diego, CA (Group Show)
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Christmas In America: Happy Birthday, Jesus</em><br>Camera Club of New York Gallery   New York, NY (Group Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Christmas In America: Happy Birthday,
+          Jesus</em><br>Camera Club of New York Gallery   New York, NY (Group
+          Show)
         icon:
         url:
-      - content: '<strong>2011</strong><br><em>Starting Over: Will Move for Work</em><br>Filter Photo Festival Juried Exhibition   Black Cloud Gallery. Chicago, IL (Group Show)'
+      - content: >-
+          <strong>2011</strong><br><em>Starting Over: Will Move for
+          Work</em><br>Filter Photo Festival Juried Exhibition   Black Cloud
+          Gallery. Chicago, IL (Group Show)
         icon:
         url:
-      - content: '<strong>2010</strong><br><em>The Class of 99 Turns 30</em><br>Chaos Theory 10<br>Legend City Gallery. Phoenix, AZ (Group Show)'
+      - content: >-
+          <strong>2010</strong><br><em>The Class of 99 Turns 30</em><br>Chaos
+          Theory 10<br>Legend City Gallery. Phoenix, AZ (Group Show)
         icon:
         url:
-      - content: '<strong>2009</strong><br><em>On the Verge of Existence</em><br>Hendershot Gallery.<br>New York, NY (Group Show)'
+      - content: >-
+          <strong>2009</strong><br><em>On the Verge of
+          Existence</em><br>Hendershot Gallery.<br>New York, NY (Group Show)
+        icon:
+        url:
+      - content: >-
+          <p><strong>Test</strong><br /><a
+          href="https://google.com">test</a></p>
         icon:
         url:
   - _bookshop_name: about/modal-list
@@ -217,133 +324,245 @@ about_blocks:
     title_margin_right: '0'
     align_x: start
     modal_block:
-      - content: '<strong>2023</strong><br>AP 39: American Photography Annual<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Beyond The Drought"'
+      - content: >-
+          <strong>2023</strong><br>AP 39: American Photography Annual<br>Best
+          Editorial Series:<br><em>Barron&apos;s</em> "Beyond The Drought"
         icon: ''
         url: ''
-      - content: '<strong>2023</strong><br>Communication Arts Photography Annual Short List<br>Best Editorial Series:<br><em>Amtrak The National</em> "Tucson to El Paso On The Desert Eagle"&nbsp;'
+      - content: >-
+          <strong>2023</strong><br>Communication Arts Photography Annual Short
+          List<br>Best Editorial Series:<br><em>Amtrak The National</em> "Tucson
+          to El Paso On The Desert Eagle"&nbsp;
         icon: ''
         url: ''
-      - content: '<strong>2023</strong><br>Communication Arts Photography Annual Short List<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Tucson to El Paso On The Desert Eagle"&nbsp;'
+      - content: >-
+          <strong>2023</strong><br>Communication Arts Photography Annual Short
+          List<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Tucson to El
+          Paso On The Desert Eagle"&nbsp;
         icon: ''
         url: ''
-      - content: '<strong>2023</strong><br>Spotlight Awards presented by Production Paradise<br>Architectural and Interior Finalist:<br><em>Smithsonian</em> "Kitt Peak National Observatory"<br>Celebrity and Portraiture Finalist:<br><em>People</em>&nbsp;"Remembering Layla"<br>Travel & Documentary Finalist:<br><em>ESPN</em> &nbsp;"A Wild Weekend at the Most Outrageous Hole in Golf"'
+      - content: >-
+          <strong>2023</strong><br>Spotlight Awards presented by Production
+          Paradise<br>Architectural and Interior
+          Finalist:<br><em>Smithsonian</em> "Kitt Peak National
+          Observatory"<br>Celebrity and Portraiture
+          Finalist:<br><em>People</em>&nbsp;"Remembering Layla"<br>Travel &
+          Documentary Finalist:<br><em>ESPN</em> &nbsp;"A Wild Weekend at the
+          Most Outrageous Hole in Golf"
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>Communication Arts Photography Annual<br>Best "For Sale" Series:<br>"Antoine&apos;s Escalaras"'
+      - content: >-
+          <strong>2022</strong><br>Communication Arts Photography Annual<br>Best
+          "For Sale" Series:<br>"Antoine&apos;s Escalaras"
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best Editorial Series:<br><em>Wired</em> “I’m Not a Soldier, but I Have Been Trained to Kill”'
+      - content: >-
+          <strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best
+          Editorial Series:<br><em>Wired</em> “I’m Not a Soldier, but I Have
+          Been Trained to Kill”
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best Editorial Series:<br><em>Popular Mechanics</em> “Can Science Cure Death? It Sure Looks Like It.”'
+      - content: >-
+          <strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best
+          Editorial Series:<br><em>Popular Mechanics</em> “Can Science Cure
+          Death? It Sure Looks Like It.”
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>SPD Merit Winner<br><em>Barron&apos;s</em> "Vegas Presses It&apos;s Luck in the Postpandemic Era Cover Story" for'
+      - content: >-
+          <strong>2022</strong><br>SPD Merit Winner<br><em>Barron&apos;s</em>
+          "Vegas Presses It&apos;s Luck in the Postpandemic Era Cover Story" for
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>The Agents Club Awards<br>Finalist "Poetic Documentary"<br><em>The New York Times</em> "America is Reopening"'
+      - content: >-
+          <strong>2022</strong><br>The Agents Club Awards<br>Finalist "Poetic
+          Documentary"<br><em>The New York Times</em> "America is Reopening"
         icon: ''
         url: ''
-      - content: '<strong>2022</strong><br>Spotlight Awards presented by Production Paradise<br>Architectural and Interior Finalist:<br><em>The New York Times</em> "Auctioning Off a Dead Mall"'
+      - content: >-
+          <strong>2022</strong><br>Spotlight Awards presented by Production
+          Paradise<br>Architectural and Interior Finalist:<br><em>The New York
+          Times</em> "Auctioning Off a Dead Mall"
         icon: ''
         url: ''
-      - content: '<strong>2021</strong><br><em>AP 37: American Photography Annual 37</em><br>Best Editorial Series:<br><em>The New York Times</em> "Auctioning Off a Dead Mall"'
+      - content: >-
+          <strong>2021</strong><br><em>AP 37: American Photography Annual
+          37</em><br>Best Editorial Series:<br><em>The New York Times</em>
+          "Auctioning Off a Dead Mall"
         icon: ''
         url: ''
-      - content: '<strong>2020</strong><br>Klompching Gallery Fresh 2020<br>Winning Exhibitor<br><em>The Changing Landscape of American Retail</em>'
+      - content: >-
+          <strong>2020</strong><br>Klompching Gallery Fresh 2020<br>Winning
+          Exhibitor<br><em>The Changing Landscape of American Retail</em>
         icon: ''
         url: ''
-      - content: '<strong>2020</strong><br><em>AP 36: American Photography Annual 36</em><br>Best Editorial Series:<br><em>Wired</em> "The Internet Giant That Went Too Far"'
+      - content: >-
+          <strong>2020</strong><br><em>AP 36: American Photography Annual
+          36</em><br>Best Editorial Series:<br><em>Wired</em> "The Internet
+          Giant That Went Too Far"
         icon: ''
         url: ''
-      - content: '<strong>2019</strong><br><em>AP 35: American Photography Annual 35</em><br>Best Personal Work Series:<br><em>A Dystopian Legoland That Tastes Like Candy</em>"'
+      - content: >-
+          <strong>2019</strong><br><em>AP 35: American Photography Annual
+          35</em><br>Best Personal Work Series:<br><em>A Dystopian Legoland That
+          Tastes Like Candy</em>"
         url: ''
         icon: ''
-      - content: '<strong>2019</strong><br>Photolucida Critical Mass<br>Finalist: Top 200 International Project<br><em>A Vanishing American Folklore</em>"'
+      - content: >-
+          <strong>2019</strong><br>Photolucida Critical Mass<br>Finalist: Top
+          200 International Project<br><em>A Vanishing American Folklore</em>"
         url: ''
         icon: ''
-      - content: '<strong>2018</strong><br>Photolucida Critical Mass<br>Winner: Top 50 International Project<br><em>The Changing Landscape of American Retail</em>"'
+      - content: >-
+          <strong>2018</strong><br>Photolucida Critical Mass<br>Winner: Top 50
+          International Project<br><em>The Changing Landscape of American
+          Retail</em>"
         url: ''
         icon: ''
-      - content: '<strong>2018</strong><br><em>PDN Photography Annual</em><br>Best Personal Work Series:<br><em>The Changing Landscape Of American Retail</em>'
+      - content: >-
+          <strong>2018</strong><br><em>PDN Photography Annual</em><br>Best
+          Personal Work Series:<br><em>The Changing Landscape Of American
+          Retail</em>
         url: ''
         icon: ''
-      - content: '<strong>2018</strong><br><em>AP 34: American Photography Annual 34</em><br>Best Personal Work Series:<br><em>Autobiography Of A Contact Sport</em>'
+      - content: >-
+          <strong>2018</strong><br><em>AP 34: American Photography Annual
+          34</em><br>Best Personal Work Series:<br><em>Autobiography Of A
+          Contact Sport</em>
         url: ''
         icon: ''
-      - content: '<strong>2018 + 2017</strong><br><em>Luezer&apos;s Archive</em><br>200 Best Best Ad Photographers Worldwide'
+      - content: >-
+          <strong>2018 + 2017</strong><br><em>Luezer&apos;s Archive</em><br>200
+          Best Best Ad Photographers Worldwide
         url: ''
         icon: ''
-      - content: '<strong>2017</strong><br><em>Communication Arts Photography Annual</em><br>Best Unpublished Series:<br><em>Christmas In America: Happy Birthday, Jesus</em>'
+      - content: >-
+          <strong>2017</strong><br><em>Communication Arts Photography
+          Annual</em><br>Best Unpublished Series:<br><em>Christmas In America:
+          Happy Birthday, Jesus</em>
         url: ''
         icon: ''
-      - content: '<strong>2017</strong><br><em>AP 33: American Photography Annual 33</em><br>Best Editorial Series:<br><em>Stalking A Serial Killer</em>"'
+      - content: >-
+          <strong>2017</strong><br><em>AP 33: American Photography Annual
+          33</em><br>Best Editorial Series:<br><em>Stalking A Serial
+          Killer</em>"
         url: ''
         icon: ''
-      - content: '<strong>2017</strong><br><em>AP 33: American Photography Annual 33</em><br>Best Personal Work Series:<br><em>Christmas In America: Happy Birthday, Jesus</em>'
+      - content: >-
+          <strong>2017</strong><br><em>AP 33: American Photography Annual
+          33</em><br>Best Personal Work Series:<br><em>Christmas In America:
+          Happy Birthday, Jesus</em>
         url: ''
         icon: ''
-      - content: '<strong>2016</strong><br><em>PDN Photography Annual</em><br>Best For Sale Photography:<br><em>Sounds of Cement</em>'
+      - content: >-
+          <strong>2016</strong><br><em>PDN Photography Annual</em><br>Best For
+          Sale Photography:<br><em>Sounds of Cement</em>
         url: ''
         icon: ''
-      - content: '<strong>2016</strong><br><em>AP 32: American Photography Annual 32</em><br>Best Editorial Photography:<br><em>Gioia</em> for <em>Hearst Italia</em>'
+      - content: >-
+          <strong>2016</strong><br><em>AP 32: American Photography Annual
+          32</em><br>Best Editorial Photography:<br><em>Gioia</em> for
+          <em>Hearst Italia</em>
         url: ''
         icon: ''
-      - content: '<strong>2016</strong><br><em>AP 32: American Photography Annual 32</em><br>Best Editorial Photography:<br><em>Unbridled Spirit</em> for <em>Phoenix Home & Garden</em>'
+      - content: >-
+          <strong>2016</strong><br><em>AP 32: American Photography Annual
+          32</em><br>Best Editorial Photography:<br><em>Unbridled Spirit</em>
+          for <em>Phoenix Home & Garden</em>
         url: ''
         icon: ''
-      - content: '<strong>2015</strong><br><em>PDN Photography Annual</em><br>Best Editorial Series:<br><em>When Fall Came Early</em> for MSNBC"'
+      - content: >-
+          <strong>2015</strong><br><em>PDN Photography Annual</em><br>Best
+          Editorial Series:<br><em>When Fall Came Early</em> for MSNBC"
         url: ''
         icon: ''
-      - content: '<strong>2015</strong><br>Photolucida Critical Mass<br>Finalist: Top 200 International Project<br><em>When Fall Came Early</em>'
+      - content: >-
+          <strong>2015</strong><br>Photolucida Critical Mass<br>Finalist: Top
+          200 International Project<br><em>When Fall Came Early</em>
         url: ''
         icon: ''
-      - content: '<strong>2014</strong><br><em>AP 30: American Photography Annual 30</em><br>Best Personal Work Series:<br><em>When Fall Came Early</em>'
+      - content: >-
+          <strong>2014</strong><br><em>AP 30: American Photography Annual
+          30</em><br>Best Personal Work Series:<br><em>When Fall Came Early</em>
         icon: ''
         url: ''
-      - content: '<strong>2014 + 2013</strong><br><em>Luezer’s Archive</em><br>200 Best Ad Photographers Worldwide'
+      - content: >-
+          <strong>2014 + 2013</strong><br><em>Luezer’s Archive</em><br>200 Best
+          Ad Photographers Worldwide
         icon: ''
         url: ''
-      - content: '<strong>2013</strong><br>Photolucida Critical Mass Winner<br>Top 50 International Project<br><em>The Wallow Fire</em>'
+      - content: >-
+          <strong>2013</strong><br>Photolucida Critical Mass Winner<br>Top 50
+          International Project<br><em>The Wallow Fire</em>
         icon: ''
         url: ''
-      - content: '<strong>2012</strong><br><em>Communications Arts Photography Annual</em><br>Best Self Promotional Series:<br><em>Christmas In America: Happy Birthday, Jesus</em>'
+      - content: >-
+          <strong>2012</strong><br><em>Communications Arts Photography
+          Annual</em><br>Best Self Promotional Series:<br><em>Christmas In
+          America: Happy Birthday, Jesus</em>
         icon: ''
         url: ''
-      - content: '<strong>2012</strong><br>Magenta Foundation Flash Forward Winner<br>Top Emerging Fine Art Photographer In North America and U.K. Under 34'
+      - content: >-
+          <strong>2012</strong><br>Magenta Foundation Flash Forward
+          Winner<br>Top Emerging Fine Art Photographer In North America and U.K.
+          Under 34
         icon: ''
         url: ''
-      - content: '<strong>2012</strong><br>Photolucida Critical Mass<br>Finalist: Top 200 International Project<br><em>Starting Over: Will Move For Work</em>'
+      - content: >-
+          <strong>2012</strong><br>Photolucida Critical Mass<br>Finalist: Top
+          200 International Project<br><em>Starting Over: Will Move For
+          Work</em>
         icon: ''
         url: ''
-      - content: '<strong>2012</strong><br><em>PDN 30</em><br>Finalist'
+      - content: <strong>2012</strong><br><em>PDN 30</em><br>Finalist
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br><em>Art Director’s Club Young Guns 9</em><br>Top International Creative 30 & Under'
+      - content: >-
+          <strong>2011</strong><br><em>Art Director’s Club Young Guns
+          9</em><br>Top International Creative 30 & Under
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br><em>PDN Photography Annual</em><br>Best Personal Work Series:<br><em>Christmas In America: Happy Birthday, Jesus</em>'
+      - content: >-
+          <strong>2011</strong><br><em>PDN Photography Annual</em><br>Best
+          Personal Work Series:<br><em>Christmas In America: Happy Birthday,
+          Jesus</em>
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br><em>AP 27: American Photography Annual 27</em><br>Best Personal Work Series:<br><em>Christmas In America: Happy Birthday, Jesus</em>'
+      - content: >-
+          <strong>2011</strong><br><em>AP 27: American Photography Annual
+          27</em><br>Best Personal Work Series:<br><em>Christmas In America:
+          Happy Birthday, Jesus</em>
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br><em>AP 27: American Photography Annual 27</em><br>Best Editorial Series:<br><em>Sex Church</em>'
+      - content: >-
+          <strong>2011</strong><br><em>AP 27: American Photography Annual
+          27</em><br>Best Editorial Series:<br><em>Sex Church</em>
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br>Center&apos;s Review Santa Fe 100<br><em>The Class of 99 Turns 30</em>'
+      - content: >-
+          <strong>2011</strong><br>Center&apos;s Review Santa Fe 100<br><em>The
+          Class of 99 Turns 30</em>
         icon: ''
         url: ''
-      - content: '<strong>2011</strong><br><em>The 10 Most Exciting Photographers This Year</em><br>Phoenix Art Museum<br>CCP Curator Rebecca Senf Ph.D. & Mary Virginia Swanson'
+      - content: >-
+          <strong>2011</strong><br><em>The 10 Most Exciting Photographers This
+          Year</em><br>Phoenix Art Museum<br>CCP Curator Rebecca Senf Ph.D. &
+          Mary Virginia Swanson
         icon: ''
         url: ''
-      - content: '<strong>2010</strong><br><em>AP 26: American Photography Annual 26</em><br>Best Personal Work Series:<br><em>The Class of 99 Turns 30</em>'
+      - content: >-
+          <strong>2010</strong><br><em>AP 26: American Photography Annual
+          26</em><br>Best Personal Work Series:<br><em>The Class of 99 Turns
+          30</em>
         icon: ''
         url: ''
-      - content: '<strong>2008</strong><br><em>PDN Photography Annual</em><br>Best Advertising Work:<br>Phoenix Children&apos;s Hospital for Santy'
+      - content: >-
+          <strong>2008</strong><br><em>PDN Photography Annual</em><br>Best
+          Advertising Work:<br>Phoenix Children&apos;s Hospital for Santy
         icon: ''
         url: ''
-      - content: '<strong>2008</strong><br><em>PDN Photography Annual</em><br>Best Personal Work Series:<br><em>Spaceman & Baby</em>'
+      - content: >-
+          <strong>2008</strong><br><em>PDN Photography Annual</em><br>Best
+          Personal Work Series:<br><em>Spaceman & Baby</em>
         icon: ''
         url: ''
   - _bookshop_name: about/media-row
@@ -391,247 +610,428 @@ about_blocks:
     title_margin_right: '0'
     align_x: start
     modal_block:
-      - content: '<a href="https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1"><strong>The New York Times Lens Blog</strong></a>'
+      - content: >-
+          <a
+          href="https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1"><strong>The
+          New York Times Lens Blog</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/"><strong>National Geographic</strong></a>'
+      - content: >-
+          <a
+          href="https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/"><strong>National
+          Geographic</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram"><strong>The Washington Post</strong></a>'
+      - content: >-
+          <a
+          href="https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram"><strong>The
+          Washington Post</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time"><strong>Time Magazine</strong></a>'
+      - content: >-
+          <a
+          href="https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time"><strong>Time
+          Magazine</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb"><strong>Buzzfeed I</strong></a>'
+      - content: >-
+          <a
+          href="https://www.buzzfeed.com/gabrielsanchez/incredible-photo-stories-you-absolutely-cant-miss-mar-3?utm_term=.leYqRXGzBr#.itQ6oNpDeb"><strong>Buzzfeed
+          I</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz"><strong>Buzzfeed II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz"><strong>Buzzfeed
+          II</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.buzzfeednews.com/article/gabrielsanchez/football-highschool-nfl-season-america-sports-players-team"><strong>BuzzFeed III</strong></a>'
+      - content: >-
+          <a
+          href="https://www.buzzfeednews.com/article/gabrielsanchez/football-highschool-nfl-season-america-sports-players-team"><strong>BuzzFeed
+          III</strong></a>
         url:
         icon:
-      - content: '<a href="https://kjzz.org/content/708344/changing-face-retail-through-camera-lens"><strong>NPR Radio Interview I</strong></a>'
+      - content: >-
+          <a
+          href="https://kjzz.org/content/708344/changing-face-retail-through-camera-lens"><strong>NPR
+          Radio Interview I</strong></a>
         url:
         icon:
-      - content: '<a href="https://theshow.kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america"><strong>NPR Radio Interview II</strong></a>'
+      - content: >-
+          <a
+          href="https://theshow.kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america"><strong>NPR
+          Radio Interview II</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america"><strong>NPR Picture Show</strong></a>'
+      - content: >-
+          <a
+          href="http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america"><strong>NPR
+          Picture Show</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse"><strong>Architectural Digest</strong></a>'
+      - content: >-
+          <a
+          href="https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse"><strong>Architectural
+          Digest</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas"><strong>Fast Company Design Co. I</strong></a>'
+      - content: >-
+          <a
+          href="https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas"><strong>Fast
+          Company Design Co. I</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer"><strong>Fast Company Design Co. II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.fastcodesign.com/90128233/chilling-photos-of-a-community-in-the-grips-of-a-serial-killer"><strong>Fast
+          Company Design Co. II</strong></a>
         icon:
         url:
-      - content: '<a href="https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures"><strong>Fast Company Design Co. III</strong></a>'
+      - content: >-
+          <a
+          href="https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures"><strong>Fast
+          Company Design Co. III</strong></a>
         icon:
         url:
-      - content: '<a href="https://www.wired.com/tag/jesse-rieser/"><strong>Wired I</strong></a>'
+      - content: >-
+          <a href="https://www.wired.com/tag/jesse-rieser/"><strong>Wired
+          I</strong></a>
         icon:
         url:
-      - content: '<a href="https://www.wired.com/story/photo-gallery-retail-apocalypse/"><strong>Wired II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.wired.com/story/photo-gallery-retail-apocalypse/"><strong>Wired
+          II</strong></a>
         icon:
         url:
-      - content: '<a href="http://www.msnbc.com/msnbc/when-fall-came-early"><strong>MSNBC</strong></a>'
+      - content: >-
+          <a
+          href="http://www.msnbc.com/msnbc/when-fall-came-early"><strong>MSNBC</strong></a>
         icon:
         url:
-      - content: '<a href="https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space?utm_campaign=later-linkinbio-jesserieser&utm_content=later-2819936&utm_medium=social&utm_source=instagram"><strong>Vice</strong></a>'
+      - content: >-
+          <a
+          href="https://www.vice.com/en_us/article/wjv3m5/50-stellar-photos-of-outer-space?utm_campaign=later-linkinbio-jesserieser&utm_content=later-2819936&utm_medium=social&utm_source=instagram"><strong>Vice</strong></a>
         icon:
         url:
-      - content: '<strong>ESPN Sportscenter</strong>'
+      - content: <strong>ESPN Sportscenter</strong>
         url:
         icon:
-      - content: '<a href="https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html"><strong>Yahoo!</strong></a>'
+      - content: >-
+          <a
+          href="https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html"><strong>Yahoo!</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph"><strong>The Guardian I</strong></a>'
+      - content: >-
+          <a
+          href="https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph"><strong>The
+          Guardian I</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.theguardian.com/artanddesign/2018/sep/19/jesse-rieser-best-photograph-school-football-farewell-phoenix-arizona"><strong>The Guardian II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.theguardian.com/artanddesign/2018/sep/19/jesse-rieser-best-photograph-school-football-farewell-phoenix-arizona"><strong>The
+          Guardian II</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html"><strong>The Daily Mail UK</strong></a>'
+      - content: >-
+          <a
+          href="https://www.dailymail.co.uk/news/article-4391718/Stalking-serial-killer.html"><strong>The
+          Daily Mail UK</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.vulture.com/2008/12/photographer_jesse_rieser.html"><strong>New York Magazine: Vulture</strong></a>'
+      - content: >-
+          <a
+          href="http://www.vulture.com/2008/12/photographer_jesse_rieser.html"><strong>New
+          York Magazine: Vulture</strong></a>
         url:
         icon:
-      - content: '<a href="http://esquire.ru/photo/xmas"><strong>Esquire Russia</strong></a>'
+      - content: >-
+          <a href="http://esquire.ru/photo/xmas"><strong>Esquire
+          Russia</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.refinery29.com/2015/12/100005 photos-suburbia-christmas-decorations#slide"><strong>Refinery29</strong></a>'
+      - content: >-
+          <a href="http://www.refinery29.com/2015/12/100005
+          photos-suburbia-christmas-decorations#slide"><strong>Refinery29</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america"><strong>It''s Nice That</strong></a>'
+      - content: >-
+          <a
+          href="http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america"><strong>It's
+          Nice That</strong></a>
         url:
         icon:
-      - content: '<a href="https://coolhunting.com/culture/photographer-jesse-rieser-christmas/"><strong>Cool Hunting</strong></a>'
+      - content: >-
+          <a
+          href="https://coolhunting.com/culture/photographer-jesse-rieser-christmas/"><strong>Cool
+          Hunting</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12"><strong>Business Insider</strong></a>'
+      - content: >-
+          <a
+          href="https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12"><strong>Business
+          Insider</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor"><strong>Artsy</strong></a>'
+      - content: >-
+          <a
+          href="https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor"><strong>Artsy</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/" target="_blank" rel="noopener"><strong>C 41 Magazine</strong></a>'
+      - content: >-
+          <a
+          href="https://www.c41magazine.com/jesse-rieser-christmas-america-happy-birthday-jesus-c41magazine-photography/"
+          target="_blank" rel="noopener"><strong>C 41 Magazine</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/"><strong>BOOOOOOOM I</strong></a>'
+      - content: >-
+          <a
+          href="https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/"><strong>BOOOOOOOM
+          I</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/"><strong>BOOOOOOOM II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/"><strong>BOOOOOOOM
+          II</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.booooooom.com/2022/06/28/i-am-not-a-soldier-but-i-have-been-trained-to-kill-by-photographer-jesse-rieser/"><strong>BOOOOOOOM III</strong></a>'
+      - content: >-
+          <a
+          href="https://www.booooooom.com/2022/06/28/i-am-not-a-soldier-but-i-have-been-trained-to-kill-by-photographer-jesse-rieser/"><strong>BOOOOOOOM
+          III</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/"><strong>BOOOOOOOM 64 x 64: Best of 2017</strong></a>'
+      - content: >-
+          <a
+          href="https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/"><strong>BOOOOOOOM
+          64 x 64: Best of 2017</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/"><strong>BOOOOOOOM 64 x 64: Best of 2018</strong></a>'
+      - content: >-
+          <a
+          href="https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/"><strong>BOOOOOOOM
+          64 x 64: Best of 2018</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/"><strong>Ignant</strong></a>'
+      - content: >-
+          <a
+          href="https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/"><strong>Ignant</strong></a>
         url:
         icon:
-      - content: '<a href="http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/"><strong>Hyperallergic</strong></a>'
+      - content: >-
+          <a
+          href="http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/"><strong>Hyperallergic</strong></a>
         url:
         icon:
-      - content: '<a href="http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser"><strong>Musee Magazine</strong></a>'
+      - content: >-
+          <a
+          href="http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser"><strong>Musee
+          Magazine</strong></a>
         url:
         icon:
-      - content: '<strong>Society Magazine (France)</strong>'
+      - content: <strong>Society Magazine (France)</strong>
         url:
         icon:
-      - content: '<strong>Wings Magazine (Germany)</strong>'
+      - content: <strong>Wings Magazine (Germany)</strong>
         url:
         icon:
-      - content: '<strong>Geo Magazine (Germany)</strong>'
+      - content: <strong>Geo Magazine (Germany)</strong>
         url:
         icon:
-      - content: '<strong>Chaeg (South Korea)</strong>'
+      - content: <strong>Chaeg (South Korea)</strong>
         url:
         icon:
-      - content: '<strong>Blkswn (Japan)</strong>'
+      - content: <strong>Blkswn (Japan)</strong>
         url:
         icon:
-      - content: '<strong>Amtrak the National</strong>'
+      - content: <strong>Amtrak the National</strong>
         url:
         icon:
-      - content: '<a href="http://edition.pagesuite.com/html5/reader/production/default.aspx?pubname=&edid=9f5ceea1-4a78-4d7d-b232-d84af31e0cc8&pnum=94"><strong>n by Norwegian</strong></a>'
+      - content: >-
+          <a
+          href="http://edition.pagesuite.com/html5/reader/production/default.aspx?pubname=&edid=9f5ceea1-4a78-4d7d-b232-d84af31e0cc8&pnum=94"><strong>n
+          by Norwegian</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.dallasnews.com/arts/visual-arts/2016/12/19/photographer-adds-dallas-weird-wondrous-christmas-america-series"><strong>Dallas Morning News</strong></a>'
+      - content: >-
+          <a
+          href="https://www.dallasnews.com/arts/visual-arts/2016/12/19/photographer-adds-dallas-weird-wondrous-christmas-america-series"><strong>Dallas
+          Morning News</strong></a>
         url:
         icon:
-      - content: '<strong>LA Confidential</strong>'
+      - content: <strong>LA Confidential</strong>
         url:
         icon:
-      - content: '<a href="https://www.faz.net/aktuell/fotografie/dekoration-in-adventszeit-skurrile-weihnachten-in-den-usa-18552263.html" target="_blank" rel="noopener"><strong>Frankfurter Allgemeine Zeitung</strong></a>'
+      - content: >-
+          <a
+          href="https://www.faz.net/aktuell/fotografie/dekoration-in-adventszeit-skurrile-weihnachten-in-den-usa-18552263.html"
+          target="_blank" rel="noopener"><strong>Frankfurter Allgemeine
+          Zeitung</strong></a>
         url:
         icon:
-      - content: '<a href="https://themagsantafe.com/jesse-rieser-portfolio/"><strong>The Magazine Santa Fe</strong></a>'
+      - content: >-
+          <a
+          href="https://themagsantafe.com/jesse-rieser-portfolio/"><strong>The
+          Magazine Santa Fe</strong></a>
         url:
         icon:
-      - content: '<strong>Working Not Working Magazine</strong>'
+      - content: <strong>Working Not Working Magazine</strong>
         url:
         icon:
-      - content: '<a href="https://pdnonline.com/photography-business/photo-clients/advertising/creating-motion-content-short-attention-spans/"><strong>PDN Magazine</strong></a>'
+      - content: >-
+          <a
+          href="https://pdnonline.com/photography-business/photo-clients/advertising/creating-motion-content-short-attention-spans/"><strong>PDN
+          Magazine</strong></a>
         url:
         icon:
-      - content: '<strong>PDN Photo of the Day I</strong>'
+      - content: <strong>PDN Photo of the Day I</strong>
         url:
         icon:
-      - content: '<strong>PDN Photo of the Day II</strong>'
+      - content: <strong>PDN Photo of the Day II</strong>
         url:
         icon:
-      - content: '<strong>PDN Photo of the Day III</strong>'
+      - content: <strong>PDN Photo of the Day III</strong>
         url:
         icon:
-      - content: '<a href="http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/"><strong>Feature Shoot I</strong></a>'
+      - content: >-
+          <a
+          href="http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/"><strong>Feature
+          Shoot I</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/"><strong>Feature Shoot II</strong></a>'
+      - content: >-
+          <a
+          href="http://www.featureshoot.com/2017/03/photographer-stalked-serial-killer/"><strong>Feature
+          Shoot II</strong></a>
         url:
         icon:
-      - content: '<strong>Rangefinder Magazine</strong>'
+      - content: <strong>Rangefinder Magazine</strong>
         url:
         icon:
-      - content: '<strong>Resource Magazine</strong>'
+      - content: <strong>Resource Magazine</strong>
         url:
         icon:
-      - content: '<a href="https://aphotoeditor.com/2019/09/13/the-best-work-i-saw-at-photolucida-part-5/?fbclid=IwAR31utip0SP2c9bmRTVjtasF-qMTtffi_P0Sg1wrYRJRC3aFvuC84PkHy6U&utm_campaign=later-linkinbio-jesserieser&utm_content=later-3853091&utm_medium=social&utm_source=instagram"><strong>A Photo Editor</strong></a>'
+      - content: >-
+          <a
+          href="https://aphotoeditor.com/2019/09/13/the-best-work-i-saw-at-photolucida-part-5/?fbclid=IwAR31utip0SP2c9bmRTVjtasF-qMTtffi_P0Sg1wrYRJRC3aFvuC84PkHy6U&utm_campaign=later-linkinbio-jesserieser&utm_content=later-3853091&utm_medium=social&utm_source=instagram"><strong>A
+          Photo Editor</strong></a>
         url:
         icon:
-      - content: '<a href="http://blog.noplasticsleeves.com/its-spring-time-to-renew-your-portfolio-design/"><strong>No Plastic Sleeves</strong></a>'
+      - content: >-
+          <a
+          href="http://blog.noplasticsleeves.com/its-spring-time-to-renew-your-portfolio-design/"><strong>No
+          Plastic Sleeves</strong></a>
         url:
         icon:
-      - content: '<a href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee"><strong>Duncan Miller Gallery I</strong></a>'
+      - content: >-
+          <a
+          href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=8b4ec157ee"><strong>Duncan
+          Miller Gallery I</strong></a>
         url:
         icon:
-      - content: '<a href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de"><strong>Duncan Miller Gallery II</strong></a>'
+      - content: >-
+          <a
+          href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de"><strong>Duncan
+          Miller Gallery II</strong></a>
         url:
         icon:
-      - content: '<a href="http://lenscratch.com/2011/12/jesse-rieser-3/"><strong>Lenscratch I</strong></a>'
+      - content: >-
+          <a
+          href="http://lenscratch.com/2011/12/jesse-rieser-3/"><strong>Lenscratch
+          I</strong></a>
         url:
         icon:
-      - content: '<a href="http://lenscratch.com/2011/06/jesse-rieser-2/"><strong>Lenscratch II</strong></a>'
+      - content: >-
+          <a
+          href="http://lenscratch.com/2011/06/jesse-rieser-2/"><strong>Lenscratch
+          II</strong></a>
         url:
         icon:
-      - content: '<a href="http://lenscratch.com/2012/08/jesse-rieser/"><strong>Lenscratch III</strong></a>'
+      - content: >-
+          <a
+          href="http://lenscratch.com/2012/08/jesse-rieser/"><strong>Lenscratch
+          III</strong></a>
         url:
         icon:
-      - content: '<a href="http://lenscratch.com/2018/06/jesse-reiser/"><strong>Lenscratch IV</strong></a>'
+      - content: >-
+          <a
+          href="http://lenscratch.com/2018/06/jesse-reiser/"><strong>Lenscratch
+          IV</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.donttakepictures.com/photo-of-the-day/2018/6/20/jesse-rieser"><strong>Don''t Take Pictures I</strong></a>'
+      - content: >-
+          <a
+          href="http://www.donttakepictures.com/photo-of-the-day/2018/6/20/jesse-rieser"><strong>Don't
+          Take Pictures I</strong></a>
         url:
         icon:
-      - content: '<a href="http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser"><strong>Don''t Take Pictures II</strong></a>'
+      - content: >-
+          <a
+          href="http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser"><strong>Don't
+          Take Pictures II</strong></a>
         url:
         icon:
-      - content: '<strong>Nacione</strong>'
+      - content: <strong>Nacione</strong>
         url:
         icon:
-      - content: '<a href="https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html"><strong>Muuuz Architecture & Design Magazine</strong></a>'
+      - content: >-
+          <a
+          href="https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html"><strong>Muuuz
+          Architecture & Design Magazine</strong></a>
         url:
         icon:
-      - content: '<a href="https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture"><strong>Archinect</strong></a>'
+      - content: >-
+          <a
+          href="https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture"><strong>Archinect</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.mache.digital/series/2017/12/15/christmas-in-america"><strong>Mache</strong></a>'
+      - content: >-
+          <a
+          href="https://www.mache.digital/series/2017/12/15/christmas-in-america"><strong>Mache</strong></a>
         url:
         icon:
-      - content: '<a href="https://www.mache.digital/features/2017/12/15/jesse-rieser"><strong>Mache II</strong></a>'
+      - content: >-
+          <a
+          href="https://www.mache.digital/features/2017/12/15/jesse-rieser"><strong>Mache
+          II</strong></a>
         url:
         icon:
-      - content: '<a href="https://plainmagazine.com/jesse-rieser-changing-american-retail/"><strong>Plain Magazine</strong></a>'
+      - content: >-
+          <a
+          href="https://plainmagazine.com/jesse-rieser-changing-american-retail/"><strong>Plain
+          Magazine</strong></a>
         url:
         icon:
-      - content: '<strong>Finite Photo</strong>'
+      - content: <strong>Finite Photo</strong>
         url:
         icon:
-      - content: '<a href="http://www.oregonlive.com/art/index.ssf/2011/12/review_christmas_in_america_by.html"><strong>The Oregonian</strong></a>'
+      - content: >-
+          <a
+          href="http://www.oregonlive.com/art/index.ssf/2011/12/review_christmas_in_america_by.html"><strong>The
+          Oregonian</strong></a>
         url:
         icon:
-      - content: '<strong>University North Carolina at Charlotte Photography Journal</strong>'
+      - content: >-
+          <strong>University North Carolina at Charlotte Photography
+          Journal</strong>
         url:
         icon:
-      - content: '<strong>JAVA Magazine</strong>'
+      - content: <strong>JAVA Magazine</strong>
         url:
         icon:
-      - content: '<a href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/" target="_blank" rel="noopener"><strong>Fisheye I</strong></a>'
+      - content: >-
+          <a
+          href="https://fisheyemagazine.fr/article/le-pere-noel-est-americain/"
+          target="_blank" rel="noopener"><strong>Fisheye I</strong></a>
         url:
         icon:
-      - content: '<a href="https://fisheyemagazine.fr/article/the-star-geezers-a-la-belle-etoile/" target="_blank" rel="noopener"><strong>Fisheye II</strong></a>'
+      - content: >-
+          <a
+          href="https://fisheyemagazine.fr/article/the-star-geezers-a-la-belle-etoile/"
+          target="_blank" rel="noopener"><strong>Fisheye II</strong></a>
         url:
         icon:
   - _bookshop_name: about/modal-list
@@ -656,166 +1056,173 @@ about_blocks:
     title_margin_left: '5'
     title_margin_right: '0'
     modal_block:
-      - content: '<strong>AARP</strong>'
+      - content: <strong>AARP</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__aarp.png
         url:
-      - content: '<strong>Adidas</strong>'
+      - content: <strong>Adidas</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__adidas.png
         url:
-      - content: '<strong>Adobe</strong>'
+      - content: <strong>Adobe</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V6__Adobe.png
         url:
-      - content: '<strong>Amtrak</strong>'
+      - content: <strong>Amtrak</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__amtrak.png
         url:
-      - content: '<strong>Anomaly</strong>'
+      - content: <strong>Anomaly</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__anomoly.png
         url:
-      - content: '<strong>Apple&nbsp;</strong>'
+      - content: <strong>Apple&nbsp;</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__apple.png
         url:
-      - content: '<strong>Atlantic</strong>'
+      - content: <strong>Atlantic</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Atlantic.png
         url:
-      - content: '<strong>ATT</strong>'
+      - content: <strong>ATT</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__at-t.png
         url:
-      - content: '<strong>AZ Lottery</strong>'
+      - content: <strong>AZ Lottery</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__az-lottery.png
         url:
-      - content: '<strong>Banner Health</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__banner-health.png
+      - content: <strong>Banner Health</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__banner-health.png
         url:
-      - content: '<strong>BBDO</strong>'
+      - content: <strong>BBDO</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__bbdo.png
         url:
-      - content: '<strong>Best Buy</strong>'
+      - content: <strong>Best Buy</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__bestbuy.png
         url:
-      - content: '<strong>Bloomberg</strong>'
+      - content: <strong>Bloomberg</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__bloomberg.png
         url:
-      - content: '<strong>Coca Cola</strong>'
+      - content: <strong>Coca Cola</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__cococola.png
         url:
-      - content: '<strong>Conde naste</strong>'
+      - content: <strong>Conde naste</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__condenast.png
         url:
-      - content: '<strong>Disney</strong>'
+      - content: <strong>Disney</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__disney.png
         url:
-      - content: '<strong>Emporio Armani</strong>'
+      - content: <strong>Emporio Armani</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Emporio.png
         url:
-      - content: '<strong>ESPN</strong>'
+      - content: <strong>ESPN</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__espn.png
         url:
-      - content: '<strong>Esquire</strong>'
+      - content: <strong>Esquire</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__esquire.png
         url:
-      - content: '<strong>E Trade</strong>'
+      - content: <strong>E Trade</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__etrade.png
         url:
-      - content: '<strong>Fast Co</strong>'
+      - content: <strong>Fast Co</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__fastcompany.png
         url:
-      - content: '<strong>Fisher Price</strong>'
+      - content: <strong>Fisher Price</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__fisherprice.png
         url:
-      - content: '<strong>Ford</strong>'
+      - content: <strong>Ford</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__ford.png
         url:
-      - content: '<strong>Getty Museum</strong>'
+      - content: <strong>Getty Museum</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__getty.png
         url:
-      - content: '<strong>Golf Digest</strong>'
+      - content: <strong>Golf Digest</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__GolfDigest.png
         url:
-      - content: '<strong>Harpers</strong>'
+      - content: <strong>Harpers</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Harpers.png
         url:
-      - content: '<strong>Hearst</strong>'
+      - content: <strong>Hearst</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Hearst.png
         url:
-      - content: '<strong>Inc Mag</strong>'
+      - content: <strong>Inc Mag</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__inc.png
         url:
-      - content: '<strong>Elli Lilly</strong>'
+      - content: <strong>Elli Lilly</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__lilly.png
         url:
-      - content: '<strong>MC Saatchi</strong>'
+      - content: <strong>MC Saatchi</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__m-saatchi.png
         url:
-      - content: '<strong>McCann</strong>'
+      - content: <strong>McCann</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__mccann.png
         url:
-      - content: '<strong>MGM</strong>'
+      - content: <strong>MGM</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__mgm.png
         url:
-      - content: '<strong>Mullen Lowe</strong>'
+      - content: <strong>Mullen Lowe</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__mullenlowe.png
         url:
-      - content: '<strong>NatGeo</strong>'
+      - content: <strong>NatGeo</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__NatGeo.png
         url:
-      - content: '<strong>The New York Times</strong>'
+      - content: <strong>The New York Times</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__NYTimes.png
         url:
-      - content: '<strong>NBA</strong>'
+      - content: <strong>NBA</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__nba.png
         url:
-      - content: '<strong>NFL</strong>'
+      - content: <strong>NFL</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__nfl.png
         url:
-      - content: '<strong>Outside</strong>'
+      - content: <strong>Outside</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__outside.png
         url:
-      - content: '<strong>Popular Mechanics</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__PopularMechanics.png
+      - content: <strong>Popular Mechanics</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__PopularMechanics.png
         url:
-      - content: '<strong>P&G</strong>'
+      - content: <strong>P&G</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__p-g.png
         url:
-      - content: '<strong>Publicis</strong>'
+      - content: <strong>Publicis</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__publicis.png
         url:
-      - content: '<strong>Runners World</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__RunnersWorld.png
+      - content: <strong>Runners World</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__RunnersWorld.png
         url:
-      - content: '<strong>Smart Water</strong>'
+      - content: <strong>Smart Water</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__smartwater.png
         url:
-      - content: '<strong>Smithsonian</strong>'
+      - content: <strong>Smithsonian</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__smithsonian.png
         url:
-      - content: '<strong>This American Life</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__thisamerican.png
+      - content: <strong>This American Life</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__thisamerican.png
         url:
-      - content: '<strong>Time</strong>'
+      - content: <strong>Time</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__time.png
         url:
-      - content: '<strong>United Airlines</strong>'
+      - content: <strong>United Airlines</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__united.png
         url:
-      - content: '<strong>V Magazine</strong>'
+      - content: <strong>V Magazine</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__VMagazine.png
         url:
-      - content: '<strong>Visa</strong>'
+      - content: <strong>Visa</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__visa.png
         url:
-      - content: '<strong>WSJ</strong>'
+      - content: <strong>WSJ</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wallstreet.png
         url:
-      - content: '<strong>Warner Bros</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__warnerbrothers.png
+      - content: <strong>Warner Bros</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__warnerbrothers.png
         url:
-      - content: '<strong>WaPo</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__washingtonpost.png
+      - content: <strong>WaPo</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__washingtonpost.png
         url:
-      - content: '<strong>WK</strong>'
-        icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wiedenkennedy.png
+      - content: <strong>WK</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wiedenkennedy.png
         url:
-      - content: '<strong>Wired</strong>'
+      - content: <strong>Wired</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wired.png
         url:
   - _bookshop_name: about/media-row-end
