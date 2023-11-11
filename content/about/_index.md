@@ -296,11 +296,6 @@ about_blocks:
           Existence</em><br>Hendershot Gallery.<br>New York, NY (Group Show)
         icon:
         url:
-      - content: >-
-          <p><strong>Test</strong><br /><a
-          href="https://google.com">test</a></p>
-        icon:
-        url:
   - _bookshop_name: about/modal-list
     title: Awards
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
