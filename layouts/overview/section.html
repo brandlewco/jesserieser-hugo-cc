@@ -6,8 +6,8 @@
                     <use xlink:href="#spinner"></use>
                 </svg>
             </div>
-            {{ range .Params.overview_collection}}
-            {{ with $.Site.GetPage . }}
+            {{ range where $.Site.RegularPages "Section" "collections" }}
+            {{ if and (eq .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
             <figure class="filter-item h-auto py-4 pr-4 sm:pr-0 pl-4 lg:w-grid-three sm:w-grid-three w-full overflow-hidden all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}">
                 <a href="{{substr .Permalink 0 -1}}">
                     {{if .Params.collection_preview }}

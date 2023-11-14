@@ -253,8 +253,12 @@ a.pswp__share--download:hover {
    */
 .pswp__counter {
   position: absolute;
-  left: 0;
+  right: 0;
   bottom: 0;
+}
+
+body.archive .pswp__counter {
+  filter: invert(1);
 }
 
 /*
@@ -287,6 +291,10 @@ a.pswp__share--download:hover {
 
 .pswp__caption:hover .caption {
   opacity: 1 !important;
+}
+
+body.archive .pswp__caption {
+  filter: invert(1);
 }
 
 /* .pswp__caption small {

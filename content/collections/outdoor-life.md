@@ -224,6 +224,7 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
