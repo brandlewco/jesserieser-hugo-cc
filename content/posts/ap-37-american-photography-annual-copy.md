@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Spotlight Awards 2022 Edition
 post_blocks:
   - _bookshop_name: posts/media-row-start

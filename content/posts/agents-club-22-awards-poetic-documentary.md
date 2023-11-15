@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Agents Club 22 Awards “Poetic Documentary”
 post_blocks:
   - _bookshop_name: posts/media-row-start

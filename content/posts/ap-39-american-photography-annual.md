@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: "AP 39: American Photography Annual"
 post_blocks:
   - _bookshop_name: posts/media-row-start

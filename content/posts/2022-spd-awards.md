@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: 2022 SPD Awards
 post_blocks:
   - _bookshop_name: posts/media-row-start

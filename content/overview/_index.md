@@ -4,7 +4,7 @@ seo:
   meta_description: >-
     Awards, Exhibitions, and Biography of West Coast Photographic Artist Jesse
     Rieser
-title: Say Hello
+title: Overview
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-7.jpg

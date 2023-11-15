@@ -15,3 +15,10 @@ replacements = "local/component-library -> ../component-library"
 
 [build]
   writeStats = true
+
+[outputFormats.ContentOnly]
+  name = "ContentOnly"
+  mediaType = "text/html"
+  isPlainText = true
+  baseName = "content"
+  noUgly = true
