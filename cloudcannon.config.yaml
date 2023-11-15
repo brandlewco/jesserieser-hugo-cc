@@ -102,6 +102,14 @@ _inputs:
     comment: show "View Full Project" link
   blog_block_cover:
     type: image
+  news_category:
+    type: select
+    options:
+      values:
+        - News
+        - Press
+        - Awards
+        - Exhibitions
   isActive:
     type: switch
   social[*].icon:
