@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: "AP 38: American Photography Annual Chosen"
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -43,7 +44,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
 blog_header:
 caption: "Popular Mechanics: Can Science Cure Death? It Sure Looks Like It."
-content: >-
+blog_content: >-
   [***Can Science Cure Death? It Sure Looks Like
   It***](https://jesserieser.com/collections/popular-mechanics-longevity) for
   *Popular Mechanics* has been “chosen” by the [**American Photography 38 Photo

@@ -78,7 +78,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
 blog_header:
 caption: "The New York Times: Auctioning Off a Dead Mall"
-content: >-
+blog_content: >-
   I am excited please to learn that [*Auctioning Off A Dead
   Mall*](https://jesserieser.com/collections/nytimes-metrocenter) for *The New
   York Times* was shortlisted as a finalist for architectural and interior

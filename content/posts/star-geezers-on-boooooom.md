@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: The Star Geezers
 seo:
   meta_description: This is a story about “Sky Village,” an astronomy centric retirement community and their founders, the self appointed “Star Geezers,” Jack and Alice Newton.
@@ -79,7 +80,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
 caption: Fisheye Photo Review 2021.22
-content: >-
+blog_content: >-
   [***The Star Geezers***](https://jesserieser.com/collections/star-geezers) is
   featured in Fisheye’s Photo Review for 2021 and 2022. This French biennial
   review of contemporary photography stands at 564 pages and can be purchased

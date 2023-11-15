@@ -50,6 +50,8 @@ collections_config:
 _inputs:
   content:
     type: html
+  blog_content:
+    type: markdown
   title: 
     type: text
   text:

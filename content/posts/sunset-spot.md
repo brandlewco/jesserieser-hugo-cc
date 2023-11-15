@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: The Sunset Spot at Red Modern
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -92,7 +93,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
 blog_header:
 caption: A Visual Conversation with Matt Magee & Jesse Rieser
-content: >-
+blog_content: >-
   In collaboration with Red Modern, The Sunset Spot is a new exhibition program
   curated by artist, Jesse Willenbring, inside Jonathan Wayne’s eponymous store.
   Each exhibition is a pairing of artworks by two artists displayed alongside

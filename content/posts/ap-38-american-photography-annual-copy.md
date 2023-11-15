@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: BOOOOOOOM Feature
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -63,7 +64,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
 blog_header:
 caption: I Am Not a Soldier, but I Have Been Trained to Kill
-content: >-
+blog_content: >-
   [***I Am Not a Soldier, but I Have Been Trained to
   Kill***](https://jesserieser.com/collections/gunsite) has been selected as an
   editor's pick on

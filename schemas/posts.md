@@ -1,5 +1,6 @@
 ---
 title: New Blog
+outputs: ["HTML", "ContentOnly"]
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -33,7 +34,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
 blog_header: 
 caption: New Blog Caption
-content:
+blog_content:
 date: 
 news_category:
 theme_color: 

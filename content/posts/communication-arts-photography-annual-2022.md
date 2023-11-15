@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Communication Arts Photography Annual
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -86,7 +87,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
 blog_header:
 caption: Antoine’s Escalaras
-content: >-
+blog_content: >-
   Beyond thrilled to share that [**Antoine’s
   Escalaras**](https://jesserieser.com/collections/escalaras) has been
   recognized in the&nbsp;[***Communication Arts Photo

@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: "Phoenix: A Dystopian Legoland That Tastes Like Candy"
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -74,7 +75,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_phoenixap-3b-cover.jpg
 blog_header:
 caption: "AP 35: American Photography Annual Winner"
-content: >-
+blog_content: >-
   Honored to have two images from [***Phoenix: A Dystopian Lego Land That Tastes
   Like Candy***](https://jesserieser.com/projects/phoenix/) selected as one of
   the year’s best in the [***American Photography AP 35

@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Christmas In America
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -63,7 +64,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
 blog_header:
 caption: Holiday Season Feature and Interview Roundup
-content: >-
+blog_content: >-
   Last week I started to see Christmas lights find their way back on to
   residential homes as a sign of cheer and hope amid the pandemic. I liked the
   idea of "Merry quarantine." [***Christmas In America: Happy Birthday,

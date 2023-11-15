@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Apple Work Title
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -14,7 +15,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/213588.jpg
 blog_header:
 caption: Apple Work Caption
-content: |-
+blog_content: |-
   Info About Requesting Apple Gallery.
 
   [Request Gallery](mailto:jesse@jesserieser.com?subject=test)

@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: Young Guns 19
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -8,28 +9,28 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_Y.jpg
     title: blog title
     caption:
-    width: '25'
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_G.jpg
     title: blog title
     caption:
-    width: '25'
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_1.jpg
     title: blog title
     caption:
-    width: '25'
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_9.jpg
     title: blog title
     caption:
-    width: '25'
+    width: "25"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/jury2.jpg
     title: blog title
     caption:
-    width: '100'
+    width: "100"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-motion-id
@@ -44,7 +45,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
 blog_header:
 caption: Judge and The New Procrastinator's Guide
-content: >-
+blog_content: >-
   Being asked to be a part of the Young Guns jury is both humbling and
   inspiring. As a past winner and 3-time judge, I am always blown away by the
   level of work being produced by the next generation. In it’s 19th year, the
@@ -98,5 +99,5 @@ content: >-
 date:
 news_category:
   - press
-theme_color: '#b9f1a8'
+theme_color: "#b9f1a8"
 ---

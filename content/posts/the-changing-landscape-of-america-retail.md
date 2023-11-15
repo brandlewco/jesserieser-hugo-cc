@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: The Changing Landscape of America Retail
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -75,7 +76,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
 blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
 caption: Featured on Washington Post and Business Insider
-content: >-
+blog_content: >-
   For the kickoff of the holiday spending season, I talk [***The Changing
   Landscape of American
   Retail***](https://jesserieser.com/projects/changing-landscape-american-retail)

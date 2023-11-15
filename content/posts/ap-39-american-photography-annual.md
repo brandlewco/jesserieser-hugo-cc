@@ -110,7 +110,7 @@ block_aspect_ratio: 3x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header: AP 39
 caption: "Barron's Cover Story: Beyond the Drought"
-content: >-
+blog_content: >-
   [Beyond The Drought commissioned by
   Barron's](https://jesserieser.com/collections/mead-barrons)&nbsp;has been
   named one of the year’s best in the upcoming [***American Photography 39 Photo

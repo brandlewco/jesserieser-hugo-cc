@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: The Changing Landscape of American Retail
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -52,7 +53,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
 blog_header:
 caption: The Fence at The Griffin Museum of Photography
-content: >-
+blog_content: >-
   [***The Changing Landscape of American
   Retail***](https://jesserieser.com/projects/changing-landscape-american-retail/)
   is currently on exhibit as part of the traveling exhibition [The Fence by

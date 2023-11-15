@@ -66,7 +66,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
 blog_header:
 caption: "Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era"
-content: >-
+blog_content: >-
   Excited to learn that my
   [***Barron’s***](https://jesserieser.com/collections/barrons-lasvegas) cover
   story *Fortunes Rise Anew in the City of Second Chances* was selected as a

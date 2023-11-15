@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: "AP 37: American Photography Annual"
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -87,7 +88,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
 blog_header:
 caption: "The New York Times: Auctioning Off a Dead Mall"
-content: >-
+blog_content: >-
   I am honored to share that [***Auctioning Off a Dead
   Mall***](https://jesserieser.com/collections/nytimes-metrocenter) for *The New
   York Times* has been named one of the year’s best by the [***American

@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: The Photo Banter
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -15,7 +16,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
 blog_header:
 caption: Interview
-content: >-
+blog_content: >-
   I recently had the pleasure of sitting down with Alex Gagne for *The Photo
   Banter*. We cover a range of topics from my past to current works, my
   photographic philosophies, and navigating both the art and the commissioned

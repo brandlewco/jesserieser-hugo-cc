@@ -69,7 +69,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
 blog_header:
 caption: "New York Times: America Is Reopening"
-content: >-
+blog_content: >-
   [***America Is Reopening. Here is What it Looks
   Like***](https://jesserieser.com/collections/nytimes-reopen) for **The New
   York Times** was selected as one of the five finalists for The Agents Club ’22

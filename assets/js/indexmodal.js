@@ -3,17 +3,17 @@ import SwupScrollPlugin from "@swup/scroll-plugin";
 import SwupGtmPlugin from "@swup/gtm-plugin";
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
 import SwupScriptsPlugin from "@swup/scripts-plugin";
-import "lazysizes";
+import 'lazysizes';
 import "lazysizes/plugins/parent-fit/ls.parent-fit";
 import "lazysizes/plugins/respimg/ls.respimg";
 import sal from "sal.js";
 import Rellax from "rellax";
 import Flickity from "flickity";
 import Midday from "midday.js";
-import PhotoSwipe from "photoswipe";
-import PhotoSwipeUI_Default from "photoswipe/dist/photoswipe-ui-default";
+import PhotoSwipe from 'photoswipe';
+import PhotoSwipeUI_Default from 'photoswipe/dist/photoswipe-ui-default'
 import smoothscroll from "smoothscroll-polyfill";
-import { disablePageScroll, enablePageScroll } from "scroll-lock";
+import {disablePageScroll, enablePageScroll} from "scroll-lock";
 
 // Page Loader (SWUP)
 const options = {
@@ -23,38 +23,37 @@ const options = {
       animateScroll: false,
       scrollFriction: 0.4,
       scrollAcceleration: 0.04,
-      doScrollingRightAway: false,
+      doScrollingRightAway: false
     }),
     new SwupGtmPlugin(),
     // new SwupPreloadPlugin(),
     new SwupBodyClassPlugin(),
     new SwupScriptsPlugin({
       head: false,
-      body: false,
-    }),
+      body: false
+    })
   ],
   animateHistoryBrowsing: true,
   preload: true,
   cache: true,
-  linkSelector:
-    'a[href^="' +
-    window.location.origin +
-    '"]:not([data-no-swup]), a[href^="/"]:not([data-no-swup]), a[href^="#"]:not([data-no-swup])',
-  skipPopStateHandling: function (event) {
+  linkSelector: 'a[href^="' + window.location.origin + '"]:not([data-no-swup]), a[href^="/"]:not([data-no-swup]), a[href^="#"]:not([data-no-swup])',
+  skipPopStateHandling: function(event) {
     if (event.state && event.state.source === "swup") {
       return false;
     }
     return true;
-  },
+  }
 };
 const swup = new Swup(options);
 
 swup.on("contentReplaced", init);
 
 function init() {
+
   const body = document.body;
   const navigation = document.getElementById("navigation");
   const navigationHeight = navigation.clientHeight;
+
 
   // First we get the viewport height and we multiple it by 1% to get a value for a vh unit
   const vh = window.innerHeight * 0.01;
@@ -63,10 +62,9 @@ function init() {
 
   function debounce(func, wait, immediate) {
     var timeout;
-    return function () {
-      var context = this,
-        args = arguments;
-      var later = function () {
+    return function() {
+      var context = this, args = arguments;
+      var later = function() {
         timeout = null;
         if (!immediate) func.apply(context, args);
       };
@@ -76,10 +74,9 @@ function init() {
       if (callNow) func.apply(context, args);
     };
   }
-  var windowResize = debounce(function () {
+  var windowResize = debounce(function() {
     const vh = window.innerHeight * 0.01;
-    document.documentElement.style.setProperty("--vh", `${vh}px`);
-  }, 250);
+    document.documentElement.style.setProperty("--vh", `${vh}px`);  }, 250);
 
   window.addEventListener("resize", windowResize);
 
@@ -93,7 +90,7 @@ function init() {
   const middayNav = new Midday(document.getElementById("navigation"), {
     headerClass: "hue-header",
     innerClass: "hue-header-inner",
-    sectionSelector: "hue",
+    sectionSelector: "hue"
   });
 
   // Sal Animations
@@ -112,10 +109,9 @@ function init() {
       round: true,
       vertical: true,
       horizontal: false,
-      breakpoints: [1200, 1600, 2000],
+      breakpoints: [1200, 1600, 2000]
     });
-    window.addEventListener("scroll", () => {
-      // fix to init
+    window.addEventListener("scroll", () => { // fix to init
       rellax.refresh();
     });
   });
@@ -123,13 +119,11 @@ function init() {
   // PhotoSwipe
   if (document.querySelector("#gallery")) {
     // const figureIMG = document.querySelectorAll(".figure img");
-    var initPhotoSwipeFromDOM = function (gallerySelector) {
+    var initPhotoSwipeFromDOM = function(gallerySelector) {
       // parse slide data (url, title, size ...) from DOM elements
       // (children of gallerySelector)
-      var parseThumbnailElements = function (el) {
-        var thumbElements = Array.prototype.slice.call(
-            document.querySelectorAll(".figure")
-          ),
+      var parseThumbnailElements = function(el) {
+        var thumbElements = Array.prototype.slice.call(document.querySelectorAll(".figure")),
           numNodes = thumbElements.length,
           items = [],
           figureEl,
@@ -139,6 +133,7 @@ function init() {
           item;
 
         for (var i = 0; i < numNodes; i++) {
+
           figureEl = thumbElements[i]; // <figure> element
 
           // include only element nodes
@@ -154,10 +149,7 @@ function init() {
             var videoID = linkEl.getAttribute("pid");
             var videoBg = linkEl.getAttribute("background");
             item = {
-              html:
-                "<div class='relative w-full h-full'><iframe src='https://player.vimeo.com/video/" +
-                videoID +
-                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=1&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:0;width:100%;height:90%;z-index:2;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
+              html: "<div class='relative w-full h-full'><iframe src='https://player.vimeo.com/video/" + videoID + "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=1&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:0;width:100%;height:90%;z-index:2;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
               pid: linkEl.getAttribute("pid"),
             };
           } else {
@@ -165,7 +157,7 @@ function init() {
               src: linkEl.getAttribute("href"),
               w: imgEl.naturalWidth * 2,
               h: imgEl.naturalHeight * 2,
-              pid: linkEl.getAttribute("pid"),
+              pid: linkEl.getAttribute("pid")
             };
           }
 
@@ -191,30 +183,31 @@ function init() {
         return el && (fn(el) ? el : closest(el.parentNode, fn));
       };
 
+
       function galleryUiLaunch() {
         navigation.style.zIndex = 0;
         navigation.style.opacity = 0;
         navigation.style.display = "hidden";
         const figureIMG = document.querySelectorAll(".figure img");
-        figureIMG.forEach(function (element) {
+        figureIMG.forEach(function(element) {
           // console.log(element);
           element.style.opacity = 0;
         });
       }
 
       // triggers when user clicks on thumbnail
-      var onThumbnailsClick = function (e) {
+      var onThumbnailsClick = function(e) {
         // UI pre-gallery launch
 
         // launch gallery
         e = e || window.event;
-        e.preventDefault ? e.preventDefault() : (e.returnValue = false);
+        e.preventDefault ? e.preventDefault() : e.returnValue = false;
 
         var eTarget = e.target || e.srcElement;
 
         // find root element of slide
-        var clickedListItem = closest(eTarget, function (el) {
-          return el.tagName && el.tagName.toUpperCase() === "FIGURE";
+        var clickedListItem = closest(eTarget, function(el) {
+          return (el.tagName && el.tagName.toUpperCase() === "FIGURE");
         });
 
         if (!clickedListItem) {
@@ -223,10 +216,7 @@ function init() {
 
         // find index of clicked item by looping through all child nodes
         // alternatively, you may define index via data- attribute
-        var clickedGallery = document.querySelectorAll(".my-gallery")[0],
-          childNodes = Array.prototype.slice.call(
-            document.querySelectorAll(".figure")
-          ),
+        var clickedGallery = document.querySelectorAll(".my-gallery")[0], childNodes = Array.prototype.slice.call(document.querySelectorAll(".figure")),
           numChildNodes = childNodes.length,
           nodeIndex = 0,
           index;
@@ -243,6 +233,7 @@ function init() {
           nodeIndex++;
         }
 
+
         if (index >= 0) {
           // open PhotoSwipe if valid index found
           openPhotoSwipe(index, clickedGallery);
@@ -251,7 +242,7 @@ function init() {
       };
 
       // parse picture index and gallery index from URL (#&pid=1&gid=2)
-      var photoswipeParseHash = function () {
+      var photoswipeParseHash = function() {
         var hash = window.location.hash.substring(1),
           params = {};
 
@@ -278,12 +269,7 @@ function init() {
         return params;
       };
 
-      var openPhotoSwipe = function (
-        index,
-        galleryElement,
-        disableAnimation,
-        fromURL
-      ) {
+      var openPhotoSwipe = function(index, galleryElement, disableAnimation, fromURL) {
         var pswpElement = document.querySelectorAll(".pswp")[0],
           gallery,
           options,
@@ -301,14 +287,13 @@ function init() {
           closeOnVerticalDrag: true,
           preload: [2, 3],
           loadingIndicatorDelay: 0,
-          getThumbBoundsFn: function (index) {
+          getThumbBoundsFn: function(index) {
             // See Options -> getThumbBoundsFn section of documentation for more info
             var thumbnail = items[index].el.getElementsByTagName("a")[0], // find thumbnail
-              pageYScroll =
-                window.pageYOffset || document.documentElement.scrollTop,
+              pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
               rect = thumbnail.getBoundingClientRect();
 
-            return { x: rect.left, y: rect.top + pageYScroll, w: rect.width };
+            return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
           },
           fullscreenEl: false,
           zoomEl: false,
@@ -351,13 +336,8 @@ function init() {
         });
 
         // Pass data to PhotoSwipe and initialize it
-        gallery = new PhotoSwipe(
-          pswpElement,
-          PhotoSwipeUI_Default,
-          items,
-          options
-        );
-        gallery.listen("beforeChange", function () {
+        gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+        gallery.listen("beforeChange", function() {
           var activeSlide = document.getElementsByClassName("active-slide");
           var activeWrapper = document.getElementsByClassName("active-wrapper");
           var activeBefore = document.getElementsByClassName("active-before");
@@ -382,7 +362,7 @@ function init() {
           }
           removeActiveSlide();
         });
-        gallery.listen("afterChange", function () {
+        gallery.listen("afterChange", function() {
           console.log("h", gallery.currItem);
           // console.log("h", gallery.currItem.h, "w", gallery.currItem.w);
           var currentItem = gallery.currItem.container;
@@ -390,26 +370,16 @@ function init() {
           currentItem.classList.add("active-slide");
           currentItemParent.classList.add("active-wrapper");
           if (currentItemParent.previousElementSibling) {
-            currentItemParent.previousElementSibling.classList.add(
-              "active-before"
-            );
+            currentItemParent.previousElementSibling.classList.add("active-before");
           }
           if (currentItemParent.nextElementSibling) {
             currentItemParent.nextElementSibling.classList.add("active-after");
           }
-          if (currentItemParent.nextElementSibling) {
-          }
-          Element.prototype.documentOffsetTop = function () {
-            return (
-              this.offsetTop +
-              (this.offsetParent ? this.offsetParent.documentOffsetTop() : 0)
-            );
+          if (currentItemParent.nextElementSibling) {}
+          Element.prototype.documentOffsetTop = function() {
+            return this.offsetTop + (this.offsetParent ? this.offsetParent.documentOffsetTop() : 0);
           };
-          var topPos =
-            document
-              .getElementById(gallery.currItem.el.id)
-              .documentOffsetTop() -
-            window.innerHeight / 2;
+          var topPos = document.getElementById(gallery.currItem.el.id).documentOffsetTop() - (window.innerHeight / 2);
           window.scrollTo({
             top: topPos,
             left: 0,
@@ -417,24 +387,20 @@ function init() {
           });
           // document.getElementById(gallery.currItem.el.id).scrollIntoView({behavior: "smooth", block: "nearest", inline: "start"});
         });
-        gallery.listen("close", function () {
+        gallery.listen("close", function() {
           console.log("close", gallery.currItem.el.id);
-          var topPos =
-            document
-              .getElementById(gallery.currItem.el.id)
-              .documentOffsetTop() -
-            window.innerHeight / 2;
+          var topPos = document.getElementById(gallery.currItem.el.id).documentOffsetTop() - (window.innerHeight / 2);
           window.scrollTo({
             top: topPos,
             left: 0,
-            behavior: "smooth",
+            behavior: "smooth"
           });
           navigation.style.zIndex = 110;
           navigation.style.transform = "translate3d(0, 0px, 0)";
           navigation.style.opacity = 1;
           navigation.style.display = "block";
           const figureIMG = document.querySelectorAll(".figure img");
-          figureIMG.forEach(function (element) {
+          figureIMG.forEach(function(element) {
             element.style.opacity = 1;
           });
         });
@@ -452,7 +418,7 @@ function init() {
       var figureClick = document.querySelectorAll(".figure a");
       figureClick.forEach((trigger) => {
         trigger.addEventListener("mouseenter", () => {
-          setTimeout(function () {
+          setTimeout(function() {
             var preloadURL = trigger.getAttribute("href");
             var preloadIMG = new Image();
             preloadIMG.src = preloadURL;
@@ -466,12 +432,7 @@ function init() {
       // Parse URL and open gallery if it contains #&pid=3&gid=1
       var hashData = photoswipeParseHash();
       if (hashData.pid && hashData.gid) {
-        openPhotoSwipe(
-          hashData.pid,
-          galleryElements[hashData.gid - 1],
-          true,
-          true
-        );
+        openPhotoSwipe(hashData.pid,  galleryElements[ hashData.gid - 1 ], true, true);
       }
     };
     // execute above function
@@ -487,10 +448,10 @@ function init() {
 
   // smooth scroll anchor links
   document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
-    anchor.addEventListener("click", function (e) {
+    anchor.addEventListener("click", function(e) {
       e.preventDefault();
       document.querySelector(this.getAttribute("href")).scrollIntoView({
-        behavior: "smooth",
+        behavior: "smooth"
       });
     });
   });
@@ -498,8 +459,8 @@ function init() {
   // Navigation Toggle
   function navigationToggle() {
     var navToggle = document.getElementsByClassName("navToggle");
-    Array.prototype.forEach.call(navToggle, function (nav) {
-      nav.addEventListener("click", function (event) {
+    Array.prototype.forEach.call(navToggle, function(nav) {
+      nav.addEventListener("click", function(event) {
         nav.classList.toggle("toggle-active");
         navigation.classList.toggle("active");
       });
@@ -511,51 +472,25 @@ function init() {
     navigation.classList.remove("active");
   }
   removeActive();
-
-  // Function to fetch content
-  async function fetchContent(url) {
-    try {
-      const response = await fetch(url);
-      if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
-      }
-      return await response.text();
-    } catch (error) {
-      console.error("Fetching content failed:", error);
-      return null;
-    }
-  }
-
-  // Modal
+  
+  // Modal v1
   const modalTriggers = document.querySelectorAll(".popup-trigger");
   modalTriggers.forEach((trigger) => {
-    const { popupTrigger, contentUrl } = trigger.dataset;
-    const popupModal = document.querySelector(
-      `[data-popup-modal="${popupTrigger}"]`
-    );
-    const contentContainer = popupModal.querySelector(".modal-content");
+    const {popupTrigger} = trigger.dataset;
+    const popupModal = document.querySelector(`[data-popup-modal="${popupTrigger}"]`);
     const popupGalleryInit = popupModal.querySelector(".gallery_scroller");
     const popupList = popupModal.querySelector(".scrollbar");
-    const navigation = document.querySelector(".navigation"); // Assuming you have a 'navigation' element
 
     // launch modal function
-    async function launchModal() {
-      const content = await fetchContent(contentUrl);
-      if (content) {
-        contentContainer.innerHTML = content;
-      }
-
-      history.pushState(
-        "",
-        document.title,
-        window.location.pathname + "#" + popupTrigger
-      );
+    function launchModal() {
+      history.pushState("", document.title, window.location.pathname + "#" + popupTrigger);
+      // window.location.hash = popupTrigger;
       disablePageScroll(popupModal);
       if (popupList) {
         disablePageScroll(popupList);
       }
       lazyloadToggle(popupModal);
-      console.log(lazyloadToggle, popupModal);
+      console.log(lazyloadToggle, popupModal)
       if (popupGalleryInit) {
         var flkty = new Flickity(popupGalleryInit, {
           wrapAround: true,
@@ -563,8 +498,7 @@ function init() {
           percentPosition: false,
           draggable: ">1",
           accessibility: false,
-          arrowShape:
-            "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
+          arrowShape: "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z"
         });
       }
       navigation.classList.remove("active");
@@ -575,18 +509,15 @@ function init() {
       popupModal.classList.add("is--visible");
 
       var navToggle = document.getElementsByClassName("navToggle");
-      Array.prototype.forEach.call(navToggle, function (nav) {
+      Array.prototype.forEach.call(navToggle, function(nav) {
         nav.classList.remove("toggle-active");
       });
     }
 
     // close modal function
     function closeModal() {
-      history.pushState(
-        "",
-        document.title,
-        window.location.pathname + window.location.search
-      );
+      // console.log(event);
+      history.pushState("", document.title, window.location.pathname + window.location.search);
       enablePageScroll(popupModal);
       if (popupList) {
         enablePageScroll(popupList);
@@ -596,7 +527,7 @@ function init() {
       popupModal.style.opacity = 0;
       popupModal.style.visibility = "hidden";
       popupModal.classList.remove("is--visible");
-
+      
       // search for all video and pause
       document.querySelectorAll(".modal-video").forEach((iframe) => {
         var player = new Vimeo.Player(iframe);
@@ -610,20 +541,19 @@ function init() {
     });
 
     // modal close methods
-    popupModal
-      .querySelector(".popup-modal__close")
-      .addEventListener("click", () => {
-        closeModal();
-      });
-
+    // close on close click
+    popupModal.querySelector(".popup-modal__close").addEventListener("click", () => {
+      closeModal();
+    });
+    // close on collection click-through
     if (popupModal.querySelector(".exit-modal")) {
       popupModal.querySelector(".exit-modal").addEventListener("click", () => {
         closeModal();
         swup.scrollTo(document.body, 0);
       });
     }
-
-    document.addEventListener("keyup", function (event) {
+    // close on esc key click
+    document.addEventListener("keyup", function(event) {
       if (event.defaultPrevented) {
         return;
       }
@@ -637,38 +567,91 @@ function init() {
   if (window.location.hash) {
     var locHash = window.location.hash;
     var locPop = locHash.substring(1);
+    // var locSlide = locPop.slice(5);
     var locButton = document.getElementById(locPop);
+    // var topButton = document.getElementById(locPop).documentOffsetTop() - (window.innerHeight / 2);
     if (locButton) {
       locButton.scrollIntoView();
       locButton.click();
     }
   }
 
+
+  // Function to fetch content and insert it into the modal
+  async function fetchAndShowModalContent(url, modalElement) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const content = await response.text();
+        modalElement.innerHTML = content;
+    } catch (error) {
+        console.error('Error fetching modal content:', error);
+        modalElement.innerHTML = '<p>Error loading content.</p>';
+    }
+}
+
+// Function to open a modal
+function openModal(modalElement) {
+    modalElement.style.display = 'block';
+    var lazydelay = document.getElementsByClassName("lazyload-delay");
+    for (var i = 0; i < lazydelay.length; i++) {
+      lazydelay[i].classList.add("lazyload");
+    }
+    // Additional code to handle modal display, animations, etc.
+}
+
+// Function to close a modal
+function closeModal(modalElement) {
+    modalElement.style.display = 'none';
+    // Additional code to handle modal hiding, animations, etc.
+}
+
+// Handle click event on modal triggers
+const modalTriggersNew = document.querySelectorAll('.modal-trigger');
+modalTriggersNew.forEach(trigger => {
+    trigger.addEventListener('click', async function () {
+        const url = this.getAttribute('data-modal-trigger-url');
+        const modalElement = document.getElementById('modalload'); // Replace with your modal element's ID
+        await fetchAndShowModalContent(url, modalElement);
+        openModal(modalElement);
+    });
+});
+
+// Assuming you have a way to close the modal, e.g., a close button inside the modal
+const closeModalButton = document.getElementById('modalload'); // Replace with your close button's ID
+closeModalButton.addEventListener('click', function () {
+    const modalElement = document.getElementById('yourModalElementId'); // Replace with your modal element's ID
+    closeModal(modalElement);
+});
+
   // Generic Button Toggle
   var buttons = document.getElementsByClassName("toggle");
-  Array.prototype.forEach.call(buttons, function (button) {
-    button.addEventListener("click", function (event) {
+  Array.prototype.forEach.call(buttons, function(button) {
+    button.addEventListener("click", function(event) {
       button.classList.toggle("active");
     });
   });
+
 
   // Block Hover Dimming
   const figureAll = document.querySelectorAll(".figure");
   figureAll.forEach((figureHovered) => {
     figureHovered.addEventListener("mouseenter", () => {
-      figureAll.forEach(function (element) {
+      figureAll.forEach(function(element) {
         element.classList.add("dimmed");
       });
     });
     figureHovered.addEventListener("mouseleave", () => {
-      figureAll.forEach(function (element) {
+      figureAll.forEach(function(element) {
         element.classList.remove("dimmed");
       });
     });
   });
 
   function value_limit(val, min, max) {
-    return val < min ? min : val > max ? max : val;
+    return val < min ? min : (val > max ? max : val);
   }
 
   const projectHeader = document.getElementById("project-header");
@@ -683,44 +666,28 @@ function init() {
 
   // Scroll Animations
   let scrollPos = 0;
-  window.onscroll = function () {
-    var scrollTop =
-      window.pageYOffset !== undefined
-        ? window.pageYOffset
-        : (
-            document.documentElement ||
-            document.body.parentNode ||
-            document.body
-          ).scrollTop;
+  window.onscroll = function() {
+    var scrollTop = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
     const windowY = window.scrollY;
     if (headerImage) {
-      headerImage.style.opacity = value_limit(
-        1 - scrollTop / (height * 0.4),
-        0,
-        1
-      ).toFixed(2);
+      headerImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.4)), 0, 1).toFixed(2);
     }
     if (featureImage) {
-      featureImage.style.opacity = value_limit(
-        1 - scrollTop / (height * 0.9),
-        0,
-        1
-      ).toFixed(2);
+      featureImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.9)), 0, 1).toFixed(2);
     }
     if (projectHeader) {
-      if (windowY > window.innerHeight * 0.75) {
+      if (windowY > (window.innerHeight * 0.75)) {
         if (windowY < scrollPos) {
           navigation.style.transform = "translate3d(0, 0, 0)";
         } else {
-          navigation.style.transform =
-            "translate3d(0, -" + navigationHeight + "px, 0)";
+          navigation.style.transform = "translate3d(0, -" + navigationHeight + "px, 0)";
         }
       }
     }
     if (pageTitle) {
       const pageTitleHeight = pageTitle.offsetHeight;
       const pageTitleBottom = (height - pageTitleHeight) / 2;
-      if (windowY > pageTitleBottom - 150) {
+      if (windowY > (pageTitleBottom - 150)) {
         headerPointer.style.opacity = 0;
       } else {
         headerPointer.style.opacity = 1;
@@ -749,23 +716,15 @@ function init() {
   if (document.querySelector("#current")) {
     var currentPage = document.getElementById("current");
 
-    if (currentPage.previousElementSibling) {
-      currentPage.previousElementSibling.classList.remove("hidden");
-      currentPage.previousElementSibling.classList.add(
-        "visible",
-        "collection-prev"
-      );
-      currentPage.previousElementSibling.querySelector(".mobile").innerHTML =
-        "Prev";
+    if  (currentPage.previousElementSibling) {
+    currentPage.previousElementSibling.classList.remove("hidden");
+    currentPage.previousElementSibling.classList.add("visible", "collection-prev");
+    currentPage.previousElementSibling.querySelector(".mobile").innerHTML = "Prev";
     }
-    if (currentPage.nextElementSibling) {
-      currentPage.nextElementSibling.classList.remove("hidden");
-      currentPage.nextElementSibling.classList.add(
-        "visible",
-        "collection-next"
-      );
-      currentPage.nextElementSibling.querySelector(".mobile").innerHTML =
-        "Next";
+    if (currentPage.nextElementSibling){
+    currentPage.nextElementSibling.classList.remove("hidden");
+    currentPage.nextElementSibling.classList.add("visible", "collection-next");
+    currentPage.nextElementSibling.querySelector(".mobile").innerHTML = "Next";
     }
   }
 
@@ -773,7 +732,7 @@ function init() {
   navigation.style.opacity = "1";
 
   // Open External Links In New Window
-  (function () {
+  (function() {
     var links = document.getElementsByTagName("a");
     for (var i = 0; i < links.length; i++) {
       if (/^(https?:)?\/\//.test(links[i].getAttribute("href"))) {
@@ -783,23 +742,22 @@ function init() {
   })();
 
   // accesibility highlighter
-  (function (document, window) {
-    var styleText =
-      "::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;";
+  (function(document, window) {
+    var styleText = "::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;";
     var unfocus_style = document.createElement("STYLE");
 
-    window.unfocus = function () {
+    window.unfocus = function() {
       document.getElementsByTagName("HEAD")[0].appendChild(unfocus_style);
 
-      document.addEventListener("mousedown", function () {
+      document.addEventListener("mousedown", function() {
         unfocus_style.innerHTML = styleText + "}";
       });
-      document.addEventListener("keydown", function () {
+      document.addEventListener("keydown", function() {
         unfocus_style.innerHTML = "";
       });
     };
 
-    unfocus.style = function (style) {
+    unfocus.style = function(style) {
       styleText += style;
     };
 
@@ -810,7 +768,7 @@ function init() {
 // intit code on each page load
 init();
 
-document.addEventListener("visibilitychange", function () {
+document.addEventListener("visibilitychange", function() {
   if (document.visibilityState === "visible") {
     console.time("visible");
   }

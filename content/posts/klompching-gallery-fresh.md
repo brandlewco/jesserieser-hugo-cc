@@ -1,5 +1,6 @@
 ---
 _schema: default
+outputs: ["HTML", "ContentOnly"]
 title: "Klompching Gallery: Fresh"
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -43,7 +44,7 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
 blog_header:
 caption: The Changing Landscape of American Retail September 9 - October 10
-content: >-
+blog_content: >-
   [*The* *Changing* *Landscape* *of American
   Retail*](https://jesserieser.com/projects/changing-landscape-american-retail/)
   is on display through October 10th in the annual Fresh exhibition at
