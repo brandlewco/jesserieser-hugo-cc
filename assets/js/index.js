@@ -662,15 +662,6 @@ function init() {
         }
     });
 
-    if (popupModal.querySelector(".exit-modal")) {
-      popupModal.querySelector(".exit-modal").addEventListener("click", () => {
-        closeModal();
-        swup.scrollTo(document.body, 0);
-    });
-    }
-
-    
-
     // Handle dynamic modal close on ESC key
     document.addEventListener('keyup', function (event) {
         if (event.key === "Escape" || event.key === "Esc" || event.keyCode === 27) {
