@@ -10,12 +10,12 @@
 </section>
 {{ partial "feature_footer" .}}
 
+<article id="popup-modal-url" class="popup-modal block fixed z-100 text-black bg-white inset-0 editor-hidden overflow-y-scroll h-full w-full flex flex-col justify-start" style="visibility: hidden; opacity: 0;" role="dialog" aria-modal="true">
+
+</article>
+
 {{- end -}}
 {{- define "attached" -}}
-
-<div id="modalload" class="h-full w-full absolute top-0 left-0 m-8">
-
-</div>
 
 <script>
   (function(){

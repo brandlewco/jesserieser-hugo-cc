@@ -473,7 +473,7 @@ function init() {
   }
   removeActive();
   
-  // Modal
+  // Modal v1
   const modalTriggers = document.querySelectorAll(".popup-trigger");
   modalTriggers.forEach((trigger) => {
     const {popupTrigger} = trigger.dataset;
@@ -550,7 +550,7 @@ function init() {
       popupModal.querySelector(".exit-modal").addEventListener("click", () => {
         closeModal();
         swup.scrollTo(document.body, 0);
-      });
+    });
     }
     // close on esc key click
     document.addEventListener("keyup", function(event) {
@@ -564,17 +564,123 @@ function init() {
     });
   });
 
-  if (window.location.hash) {
-    var locHash = window.location.hash;
-    var locPop = locHash.substring(1);
-    // var locSlide = locPop.slice(5);
-    var locButton = document.getElementById(locPop);
-    // var topButton = document.getElementById(locPop).documentOffsetTop() - (window.innerHeight / 2);
-    if (locButton) {
-      locButton.scrollIntoView();
-      locButton.click();
+
+
+  // MODAL URL V2
+  const dynamicModal = document.getElementById('popup-modal-url'); // Single modal element for dynamic content
+  // Function to fetch and display content in the dynamic modal
+  if (dynamicModal) {
+    async function fetchAndDisplayContent(url) {
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            const content = await response.text();
+            dynamicModal.innerHTML = content;
+        } catch (error) {
+            console.error('Error fetching content:', error);
+            dynamicModal.innerHTML = '<p>Error loading content.</p>';
+        }
     }
+
+    // open based on url
+    if (window.location.hash) {
+      var locHash = window.location.hash.substring(1); // Get the hash without the '#' character
+      var locButton = document.querySelector(`.modal-trigger[data-popup-trigger="${locHash}"]`);
+  
+      if (locButton) {
+          const url = locButton.getAttribute('data-modal-trigger-url');
+          fetchAndDisplayContent(url).then(() => {
+              openDynamicModal(locHash); // Open the modal directly
+          });
+      }
+    }
+
+    // Function to open the dynamic modal
+    function openDynamicModal() {
+        dynamicModal.classList.add('show');
+        dynamicModal.style.opacity = 1;
+        dynamicModal.style.visibility = 'visible';
+        navigation.classList.remove("active");
+        navigation.style.opacity = 0;
+        navigation.style.display = "none";
+        disablePageScroll(dynamicModal);
+        const popupGalleryInit = dynamicModal.querySelector(".gallery_scroller");
+        var flkty = new Flickity(popupGalleryInit, {
+          wrapAround: true,
+          adaptiveHeight: true,
+          percentPosition: false,
+          draggable: ">1",
+          accessibility: false,
+          arrowShape: "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z"
+        });
+    }
+
+    // Function to close the dynamic modal
+    function closeDynamicModal() {
+        dynamicModal.classList.remove('show');
+        dynamicModal.style.opacity = 0;
+        dynamicModal.style.visibility = 'hidden';
+        navigation.style.opacity = 1;
+        navigation.style.display = "block";
+        enablePageScroll(dynamicModal);
+        history.pushState("", document.title, window.location.pathname );
+        // search for all video and pause
+        document.querySelectorAll(".modal-video").forEach((iframe) => {
+          var player = new Vimeo.Player(iframe);
+          player.pause();
+        });
+    }
+
+    // Handle open dynamic modal triggers
+    const dynamicModalTriggers = document.querySelectorAll('.modal-trigger');
+    dynamicModalTriggers.forEach(trigger => {
+        trigger.addEventListener('click', async () => {
+            const url = trigger.getAttribute('data-modal-trigger-url');
+            const modalTriggerId = trigger.getAttribute('data-popup-trigger'); // Get the modal trigger ID
+            history.pushState("", document.title, window.location.pathname + "#" + modalTriggerId);
+            await fetchAndDisplayContent(url);
+            openDynamicModal();
+        });
+    });
+
+    // Handle close dynamic modal actions
+    const dynamicCloseButton = dynamicModal.querySelector('.dynamic-modal-close');
+    if (dynamicCloseButton) {
+        dynamicCloseButton.addEventListener('click', () => {
+            closeDynamicModal();
+            console.log('close');
+        });
+    }
+
+        // Event delegation for handling the close button
+    dynamicModal.addEventListener('click', function(event) {
+        if (event.target.matches('.dynamic-modal-close')) {
+            closeDynamicModal();
+            console.log('close modal');
+        }
+    });
+
+    if (popupModal.querySelector(".exit-modal")) {
+      popupModal.querySelector(".exit-modal").addEventListener("click", () => {
+        closeModal();
+        swup.scrollTo(document.body, 0);
+    });
+    }
+
+    
+
+    // Handle dynamic modal close on ESC key
+    document.addEventListener('keyup', function (event) {
+        if (event.key === "Escape" || event.key === "Esc" || event.keyCode === 27) {
+            if (dynamicModal.classList.contains('show')) {
+                closeDynamicModal();
+            }
+        }
+    });
   }
+  // end modals
 
   // Generic Button Toggle
   var buttons = document.getElementsByClassName("toggle");

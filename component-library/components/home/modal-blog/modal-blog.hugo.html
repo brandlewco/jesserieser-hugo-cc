@@ -2,7 +2,7 @@
 
 <section class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <div class="rellax"  data-rellax-speed="2" data-rellax-xs-speed="0" >
-  <button type="button" id="blog-{{.title | lower | urlize}}" class="popup-trigger modal-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}aspect-{{.}}{{else}}sm:aspect-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: {{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" data-modal-trigger-url="/{{.attached_blog | replaceRE "(.md)" ""}}/content.html" name="View Blog - {{.title}} - Jesse Rieser">
+  <button type="button" id="blog-{{.title | lower | urlize}}" class="modal-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}aspect-{{.}}{{else}}sm:aspect-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: {{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" data-modal-trigger-url="/{{.attached_blog | replaceRE "(.md)" ""}}/content.html" name="View Blog - {{.title}} - Jesse Rieser" data-no-swup>
     {{ if .vimeo_block_cover }}
     <iframe data-src="https://player.vimeo.com/video/{{.vimeo_block_cover}}?background=1" class="lazyload object-cover absolute p-4 inset-0 z-0 h-full w-full" frameborder="0" allow="autoplay"></iframe>
     {{else if .blog_block_cover}}
@@ -28,62 +28,3 @@
   {{end}}
   </div>
 </section>
-<!-- insert post modal -->
-{{ if site.Params.env_bookshop_live }}
-  
-{{ else }}
-<article id="popup-{{.title | lower | urlize}}" class="popup-modal scrollbar block fixed z-999 text-black bg-white overflow-y-scroll overflow-x-hidden h-full w-full inset-0 editor-hidden" data-popup-modal="blog-{{.title | lower | urlize}}" style="visibility: hidden; opacity: 0; overflow-y: scroll;" role="dialog" aria-modal="true">
-  <div class="flex flex-col w-full px-4 sm:px-40">
-    <header class="fixed top-0 left-0 w-full px-4 sm:px-20 flex flex-row justify-between py-6 z-100 bg-white items-baseline">
-      <div class="text-lg sm:text-2xl uppercase font-medium text-center text-black">JESSE RIESER</div>
-        <div class="text-xs sm:text-xl pr-12 sm:pr-0 uppercase font-medium text-center text-black">NEWS: <span class="italic font-light">{{range $key.Params.news_category}}{{.}}{{end}}</span></div>
-          <svg width="35" height="35" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" class="hover icon pointer h-6 w-6 mr-2 sm:mr-6 absolute top-0 right-0 text-white popup-modal__close z-999" style="margin-top:1.6rem;"><g fill="none" stroke="#000"  stroke-miterlimit="10" stroke-width="10"><path d="m4.7 4.7 246.6 246.6"/><path d="m250.85 4.7-246.6 246.6"/></g></svg>
-    </header>
-    <div class="w-full lazy-gallery relative mt-20">
-      <div class="paginated_gallery gallery">
-        <div class="gallery_scroller flex flex-row justify-start items-center carousel" style="transform: translate3d(0,0,0);">
-            {{ partial "bookshop_bindings" `$key.Params.blog_slider` }}
-            {{ partial "bookshop_partial" (slice "page" $key.Params.blog_slider) }}
-          </div>
-      </div>
-    </div>
-    <section class="py-6 w-full mx-auto">
-      <header class="flex flex-col items-start mb-8 leading-none px-1 sm:px-2">
-        <div class="text-xl sm:text-5xl font-medium text-black pb-4">{{$key.Params.title}}</div>
-        <div class="text-base sm:text-2xl font-medium italic text-black">{{$key.Params.caption}}</div>
-      </header>
-      <div class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8 px-1 sm:px-2">
-        {{ $key.Params.blog_content | markdownify }}
-      </div>
-      <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-        {{ partial "bookshop_bindings" `$key.Params.post_blocks` }} 
-        {{ partial "bookshop_partial" (slice "page" $key.Params.post_blocks) }}
-      </div>
-    </section>
-  </div>
-  {{ if $key.Params.attached }}
-  {{ if $key.Params.attached_collection }}
-    {{ $attached := $key.Params.attached_collection }}
-    {{ $attached := string $attached}}
-  {{ with site.GetPage $attached }}
-  <section class="mt-4 sm:mt-16 text-black">
-    <a href="/collections/{{.Params.slug}}/" alt="view collection" class="exit-modal">
-        <div class="mx-auto w-full mb-8 text-center font-light"  data-sal="slide-down" data-sal-delay="300">
-            <p class="text-md sm:text-xl font-light">View Full Project</p>
-        </div>
-    </a>
-  </section>
-  {{ end }}
-  {{ else if  $key.Params.attached_link }}
-  <section class="mt-4 sm:mt-16 text-black">
-    <a href="{{$key.Params.attached_link}}" alt="view collection" class="exit-modal">
-        <div class="mx-auto w-full mb-8 text-center font-light"  data-sal="slide-down" data-sal-delay="300">
-            <p class="text-md sm:text-xl font-light">View Full Project</p>
-        </div>
-    </a>
-  </section>
-  {{end}}
-  {{end}}
-</article>
-{{ end }}
-<!-- end post modal -->

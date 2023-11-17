@@ -1,58 +1,72 @@
-<section
-  data-hue="page"
-  class="mx-auto bg-white relative z-100 overflow-y-hidden"
-  style="backface-visibility: hidden"
->
-  <section
-    class="block-media group-hover flex flex-wrap mx-auto h-auto  px-4 sm:px-40 {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}"
-  >
-    <div class="flex flex-col w-full px-4 sm:px-40">
-      <div class="w-full lazy-gallery lazyload relative mt-20">
-        <div class="paginated_gallery gallery">
-          <div
-            class="gallery_scroller flex flex-row justify-start items-center carousel"
-            style="transform: translate3d(0, 0, 0)"
-          >
-            {{ partial "bookshop_bindings" `.Params.blog_slider` }}
-            {{ partial "bookshop_partial" (slice "page" .Params.blog_slider) }}
-          </div>
+
+
+  <header class="absolute top-0 left-0 w-full px-4 sm:px-20 flex flex-row justify-between py-6 z-999 bg-white items-baseline">
+    <div class="text-lg sm:text-2xl uppercase font-medium text-center text-black">JESSE RIESER</div>
+      <div class="text-xs sm:text-xl pr-12 sm:pr-0 uppercase font-medium text-center text-black">NEWS: <span class="italic font-light">{{range .Params.news_category}}{{.}}{{end}}</span></div>
+      <svg width="35" height="35" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" class="hover icon pointer  border-white border-6 border-solid h-6 w-6 m-2 sm:m-6 absolute top-0 right-0 text-white dynamic-modal-close z-999" style="margin-top:1.6rem;"><g fill="none" stroke="#000"  stroke-miterlimit="10" stroke-width="10"><path d="m4.7 4.7 246.6 246.6"/><path d="m250.85 4.7-246.6 246.6"/></g></svg>
+  </header>
+  <section class="flex flex-col w-100 overflow-y-scroll scrollbar px-2 sm:px-40 mb-12 mt-20 z-50">
+    <div class="w-full lazy-gallery lazyload relative">
+      <div class="paginated_gallery gallery">
+        <div
+          class="gallery_scroller flex flex-row justify-start items-center carousel"
+          style="transform: translate3d(0, 0, 0)"
+        >
+          {{ partial "bookshop_bindings" `.Params.blog_slider` }}
+          {{ partial "bookshop_partial" (slice "page" .Params.blog_slider) }}
         </div>
       </div>
-      <section class="py-6 mx-auto">
-        <header class="flex flex-col items-start mb-8 leading-none">
-          <h1 class="text-xl sm:text-5xl font-medium text-black pb-4">
-            {{.Params.title}}
-          </h1>
-          <div class="text-base sm:text-2xl font-medium italic text-black">
-            {{.Params.caption}}
-          </div>
-        </header>
-        <div
-          class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8"
-        >
-          {{ .Params.content | markdownify }}
-        </div>
-        <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
-          {{ partial "bookshop_bindings" `.Params.post_blocks` }}
-          {{ partial "bookshop_partial" (slice "page" .Params.post_blocks) (dict "color"
-          .Params.theme_color "delay" "lazyload")}}
-        </div>
-      </section>
     </div>
-  </section>
-</section>
+      <header class="flex flex-col items-start mb-8 leading-none">
+        <h1 class="text-xl sm:text-5xl font-medium text-black pb-4 pt-4">
+          {{.Params.title}}
+        </h1>
+        <div class="text-base sm:text-2xl font-medium italic text-black">
+          {{.Params.caption}}
+        </div>
+      </header>
+      <div
+        class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8"
+      >
+        {{ .Params.blog_content | markdownify }}
+      </div>
+      <div class="my-gallery " itemscope itemtype="http://schema.org/ImageGallery">
+        {{ partial "bookshop_bindings" `.Params.post_blocks` }}
+        {{ partial "bookshop_partial" (slice "page" .Params.post_blocks) (dict "color"
+        .Params.theme_color "delay" "lazyload")}}
+      </div>
+      {{ if .Params.attached }}
+      {{ if .Params.attached_collection }}
+        {{ $attached := .Params.attached_collection }}
+        {{ $attached := string $attached}}
+      {{ with site.GetPage $attached }}
+      <section class="mt-4 sm:mt-16 text-black">
+        <a href="/collections/{{.Params.slug}}/" alt="view collection" class="exit-modal" data-no-swup>
+            <div class="mx-auto w-full mb-8 text-center font-light" >
+                <p class="text-md sm:text-xl font-light">View Full Project</p>
+            </div>
+        </a>
+      </section>
+      {{ end }}
+      {{ else if  .Params.attached_link }}
+      <section class="mt-4 sm:mt-16 text-black">
+        <a href="{{.Params.attached_link}}" alt="view collection" class="exit-modal" data-no-swup>
+            <div class="mx-auto w-full mb-8 text-center font-light" >
+                <p class="text-md sm:text-xl font-light">View Full Project</p>
+            </div>
+        </a>
+      </section>
+      {{end}}
+      {{end}}
 
-    {{- $options := dict "targetPath" "js/bundleetc.js" -}}
-    <!-- {{- $jsBundle := resources.Get "js/index.js" | js.Build $options | resources.Minify | fingerprint -}} -->
+{{ $styles := resources.Get "/css/style.css"  }}
 
-    {{- $jsBundle := resources.Get "js/contentonly.js" | js.Build $options | fingerprint -}}
-		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
-<script>
-    function init() {
-      var lazydelay = document.getElementsByClassName("lazyload-delay");
-      for (var i = 0; i < lazydelay.length; i++) {
-        lazydelay[i].classList.add("lazyload");
-      }
-    }
-  document.addEventListener('DOMContentLoaded', init); // Ensures the script runs after the DOM is loaded
-</script>
+{{ if .Site.IsServer }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
+{{ else }}
+  {{ $styles := $styles | minify   }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
+{{ end }}
+{{- $options := dict "targetPath" "js/bundleContentOnly.js" -}}
+{{- $jsBundle := resources.Get "js/contentonly.js" | js.Build $options | fingerprint -}}
+<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>

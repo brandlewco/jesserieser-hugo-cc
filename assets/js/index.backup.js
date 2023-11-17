@@ -473,7 +473,7 @@ function init() {
   }
   removeActive();
   
-  // Modal v1
+  // Modal
   const modalTriggers = document.querySelectorAll(".popup-trigger");
   modalTriggers.forEach((trigger) => {
     const {popupTrigger} = trigger.dataset;
@@ -575,56 +575,6 @@ function init() {
       locButton.click();
     }
   }
-
-
-  // Function to fetch content and insert it into the modal
-  async function fetchAndShowModalContent(url, modalElement) {
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-        }
-        const content = await response.text();
-        modalElement.innerHTML = content;
-    } catch (error) {
-        console.error('Error fetching modal content:', error);
-        modalElement.innerHTML = '<p>Error loading content.</p>';
-    }
-}
-
-// Function to open a modal
-function openModal(modalElement) {
-    modalElement.style.display = 'block';
-    var lazydelay = document.getElementsByClassName("lazyload-delay");
-    for (var i = 0; i < lazydelay.length; i++) {
-      lazydelay[i].classList.add("lazyload");
-    }
-    // Additional code to handle modal display, animations, etc.
-}
-
-// Function to close a modal
-function closeModal(modalElement) {
-    modalElement.style.display = 'none';
-    // Additional code to handle modal hiding, animations, etc.
-}
-
-// Handle click event on modal triggers
-const modalTriggersNew = document.querySelectorAll('.modal-trigger');
-modalTriggersNew.forEach(trigger => {
-    trigger.addEventListener('click', async function () {
-        const url = this.getAttribute('data-modal-trigger-url');
-        const modalElement = document.getElementById('modalload'); // Replace with your modal element's ID
-        await fetchAndShowModalContent(url, modalElement);
-        openModal(modalElement);
-    });
-});
-
-// Assuming you have a way to close the modal, e.g., a close button inside the modal
-const closeModalButton = document.getElementById('modalload'); // Replace with your close button's ID
-closeModalButton.addEventListener('click', function () {
-    const modalElement = document.getElementById('yourModalElementId'); // Replace with your modal element's ID
-    closeModal(modalElement);
-});
 
   // Generic Button Toggle
   var buttons = document.getElementsByClassName("toggle");

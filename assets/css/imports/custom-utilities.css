@@ -665,6 +665,7 @@ footer a {
 }
 
 /* Modal Popup */
+
 .body-popup {
   z-index: 1010;
   display: none;
@@ -691,16 +692,17 @@ footer a {
 .popup-modal {
   will-change: opacity;
   opacity: 0;
-  pointer-events: none;
   transition: 0.4s all cubic-bezier(0.550, 0.055, 0.675, 0.190);
-  backface-visibility: hidden;
 }
 
-.popup-modal.is--visible {
+.popup-modal.is--visible, .popup-modal .show {
   opacity: 1;
   pointer-events: auto;
 }
 
+#popup-modal-url {
+  z-index: 9999;
+}
 
 
 @media (min-width: 768px) {
