@@ -25,6 +25,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    
     {{ partial "head_custom.html" . }}
     {{ $styles := resources.Get "/css/style.css"  }}
 
@@ -39,6 +40,7 @@
 
     {{- $jsBundle := resources.Get "js/index.js" | js.Build $options | fingerprint -}}
 		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
+    <link rel="stylesheet" href="https://use.typekit.net/khw0qei.css">
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -67,7 +69,5 @@
     <style type="text/css">
     {{ partial "style_themer.html" . | safeCSS }}
     </style>
-        <link rel="stylesheet" href="https://use.typekit.net/khw0qei.css">
-        <script src="https://kit.fontawesome.com/a1dff7fdae.js" crossorigin="anonymous"></script>
   </body>
 </html>

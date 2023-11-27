@@ -154,11 +154,10 @@ function init() {
             };
           } else {
             item = {
-              src: linkEl.getAttribute("href"),
+              src: imgEl.getAttribute("data-src"), // Use data-src for full-size image
               w: imgEl.naturalWidth * 2,
               h: imgEl.naturalHeight * 2,
-              pid: linkEl.getAttribute("pid")
-            };
+              pid: linkEl.getAttribute("pid")            };
           }
 
           if (figureEl.children.length > 1) {

@@ -26,7 +26,7 @@
             </div>
             {{ range .Params.collection_sorter}}
             {{ with $.Site.GetPage . }}
-            {{ if and (eq .Params.collection_archive false) (ne .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
+            {{ if and (eq .Params.collection_archive true) (ne .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
             {{ partial "collection_sorter_item" . }}
                 {{ end }}
             {{ end }}
