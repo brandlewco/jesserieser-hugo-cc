@@ -15,6 +15,7 @@ import PhotoSwipeUI_Default from 'photoswipe/dist/photoswipe-ui-default'
 import smoothscroll from "smoothscroll-polyfill";
 import {disablePageScroll, enablePageScroll} from "scroll-lock";
 
+
 // Page Loader (SWUP)
 const options = {
   containers: ["#navigation", "#content"],
@@ -400,7 +401,8 @@ function init() {
           navigation.style.display = "block";
           const figureIMG = document.querySelectorAll(".figure img");
           figureIMG.forEach(function(element) {
-            element.style.opacity = 1;
+            // element.style.opacity = 1;
+            element.style.removeProperty('opacity');
           });
         });
         gallery.init();
