@@ -189,7 +189,12 @@ function init() {
         navigation.style.opacity = 0;
         navigation.style.display = "hidden";
         const figureIMG = document.querySelectorAll(".figure img");
+        const figureVID = document.querySelectorAll(".figure a.video");
         figureIMG.forEach(function(element) {
+          // console.log(element);
+          element.style.opacity = 0;
+        });
+        figureVID.forEach(function(element) {
           // console.log(element);
           element.style.opacity = 0;
         });
@@ -402,6 +407,10 @@ function init() {
           const figureIMG = document.querySelectorAll(".figure img");
           figureIMG.forEach(function(element) {
             // element.style.opacity = 1;
+            element.style.removeProperty('opacity');
+          });
+          const figureVID = document.querySelectorAll(".figure a.video");
+          figureVID.forEach(function(element) {
             element.style.removeProperty('opacity');
           });
         });
