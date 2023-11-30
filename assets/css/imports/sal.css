@@ -351,6 +351,7 @@ body.sal-disabled [data-sal|="flip"] {
   transform: none;
 }
 /* custom */
+/* november 2023 replace */ 
 
 figure[data-sal] a {
   overflow: hidden;
@@ -359,9 +360,10 @@ figure[data-sal] a {
  
  [data-sal|="image"] img {
    opacity: 0;
-   transform: scale(1.1);
-   transition: all 0.4s ease-out;
-   transition-delay: 0.2s;
+   transition-property: opacity, transform;
+   transition-duration: 0.4s;
+   /* transform: scale(1.1); */
+   /* transition-delay: 0.2s; */
  }
  
  [data-sal|="image"] figcaption {
@@ -376,7 +378,7 @@ figure[data-sal] a {
  
  [data-sal|="image"].sal-animate img {
    opacity: 1;
-   transform: scale(1);
+   /* transform: scale(1); */
  }
  
  [data-sal|="image"].sal-animate figcaption,

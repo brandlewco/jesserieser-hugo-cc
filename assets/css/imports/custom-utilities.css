@@ -345,8 +345,14 @@ figure.lit img {
   opacity: 0;
 }
 
+figure img {
+  transition: 0.4s all ease-out;
+  transform: scale(1);
+}
+
 figure:hover img {
   opacity: 1;
+  transform: scale(1.1)
 }
 
 #page-title {
