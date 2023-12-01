@@ -156,9 +156,9 @@ function init() {
           } else {
             item = {
               src: imgEl.getAttribute("data-src"), // Use data-src for full-size image
-              w: imgEl.naturalWidth * 2,
-              h: imgEl.naturalHeight * 2,
-              pid: linkEl.getAttribute("pid")            };
+              w: imgEl.naturalWidth,
+              h: imgEl.naturalHeight,
+              pid: linkEl.getAttribute("pid")};
           }
 
           if (figureEl.children.length > 1) {
@@ -825,8 +825,8 @@ function init() {
 // intit code on each page load
 init();
 
-document.addEventListener("visibilitychange", function() {
-  if (document.visibilityState === "visible") {
-    console.time("visible");
-  }
-});
+// document.addEventListener("visibilitychange", function() {
+//   if (document.visibilityState === "visible") {
+//     console.time("visible");
+//   }
+// });
