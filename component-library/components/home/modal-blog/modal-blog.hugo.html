@@ -1,6 +1,6 @@
 {{ $key := site.GetPage .attached_blog }}
 
-<section class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
+<figure class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <div class="rellax"  data-rellax-speed="2" data-rellax-xs-speed="0" >
   <button type="button" id="blog-{{.title | lower | urlize}}" class="modal-trigger relative w-full flex flex-col h-auto sm:h-0 justify-between items-start items-center overflow-hidden {{with .block_aspect_ratio }}aspect-{{.}}{{else}}sm:aspect-4/3{{end}}" data-blog-id="{{.id}}" style="background-color: {{.theme_color}}" data-popup-trigger="blog-{{.title | lower | urlize}}" data-modal-trigger-url="/{{.attached_blog | replaceRE "(.md)" ""}}/content.html" name="View Blog - {{.title}} - Jesse Rieser" data-no-swup>
     {{ if .vimeo_block_cover }}
@@ -27,4 +27,4 @@
   <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">{{range $key.Params.news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
   {{end}}
   </div>
-</section>
+</figure>
