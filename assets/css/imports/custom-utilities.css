@@ -352,8 +352,27 @@ figure img {
 
 figure:hover img {
   opacity: 1;
+}
+
+figure.block-hover:hover img {
+  opacity: 1;
   transform: scale(1.1)
 }
+
+.iframe-frame {
+  overflow: hidden;
+}
+
+figure.block-hover iframe{
+  transition: 0.4s all ease-out;
+  transform: scale(1);
+}
+
+figure.block-hover:hover iframe{
+  transform: scale(1.1);
+}
+
+
 
 #page-title {
   transition: 0.33s opacity cubic-bezier(0.55, 0.055, 0.675, 0.19) 2s;
@@ -456,20 +475,6 @@ body.archive  .magnify img:hover, body.archive  .magnify .video:hover {
   opacity: 1;
 }
 
-.figure iframe {
-  will-change: opacity;
-  transition: opacity 0.4s cubic-bezier(0.550, 0.055, 0.675, 0.190);
-}
-
-/* .figure img {
-  will-change: transform;
-  transition: transform 0.4s cubic-bezier(0.550, 0.055, 0.675, 0.190);
-  transform: scale(1.1);
-}
-
-.figure img.lazyloaded {
-  transform: scale(1);
-} */
 
 figcaption p {
   @apply mb-4;
