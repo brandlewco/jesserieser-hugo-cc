@@ -32,7 +32,8 @@
                     </div>
                     
                     <figcaption class="text-black text-base">
-                    <span class="font-medium italic block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
+                        <span class="font-medium italic block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
+                        <span class="font-normal block text-xs pt-1 tracking-widest leading-tight no-underline">{{.Params.collection_meta}} {{with .Params.collection_meta_2}}{{.}}{{end}}</span>
                     </figcaption>
                 </a>
             </figure>     
