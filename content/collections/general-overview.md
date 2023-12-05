@@ -985,64 +985,64 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-95.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#ffe29b'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-96.jpg
-    width: '50'
+    width: '33'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e5d4cb'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-97.jpg
-    width: '30'
-    margin_y: '600'
+    width: '50'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '5'
     align_y:
     color: '#e0c6ca'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-98.jpg
-    width: '40'
+    width: '60'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#afb1b7'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-99.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#d8c9d8'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-100.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '5'
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
     color: '#eff5f6'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -1058,179 +1058,107 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-102.jpg
-    width: '45'
+    width: '33'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#d9e5de'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-103.jpg
-    width: '25'
-    margin_y: '600'
+    width: '35'
+    margin_y: '650'
     margin_left: '0'
     margin_right: '5'
     align_y:
     color: '#e4ebed'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-104.jpg
-    width: '45'
+    width: '55'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-105.jpg
     width: '25'
-    margin_y: '100'
-    margin_left: '20'
+    margin_y: '250'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#ddefec'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-106.jpg
-    width: '45'
-    margin_y: '300'
+    width: '25'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     align_y:
     color: '#f1efed'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-107.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y:
-    color: '#eb2f36'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-108.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#f4f4eb'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-109.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '20'
-    align_y:
-    color: '#d9dee1'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-110.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#cfe0db'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-111.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y:
-    color: '#f2ece9'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-113.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#f8eee5'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-114.jpg
-    width: '25'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#1c1914'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-115.jpg
-    width: '45'
+    width: '35'
     margin_y: '100'
     margin_left: '40'
     margin_right: '0'
     align_y:
-    color: '#ddd9dd'
-    caption:
+    color: '#eb2f36'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-116.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#edf1e9'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-117.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#e6eeec'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-118.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#c22b2c'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-119.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-108.jpg
     width: '50'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
-    color: '#f4e8dd'
-    caption:
+    color: '#f4f4eb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-109.jpg
+    width: '33'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#d9dee1'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-110.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#cfe0db'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -1495,7 +1423,7 @@ collection_exhibition:
       <strong>2011</strong><br>   Art of Photography Juried Exhibition<br>  
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
-collection_overview: true
+collection_overview: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
