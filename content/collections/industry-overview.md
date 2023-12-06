@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description:
   meta_title: Industry, Tech, & Science Overview
-title: Industry Tech Science
+title: Industry, Tech & Science
 collection_meta: Overview
 collection_meta_2:
 collection_description: ''
@@ -712,8 +712,8 @@ collection_blocks:
     color: '#5f5547'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-3.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-7.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-6.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-6.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
@@ -731,10 +731,10 @@ theme_color_all_works: '#a7e05c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-23.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-24.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-13.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-14.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/auto-cover-4.jpg
 collection_content: >-
   0: The number of times I regret playing high school football.
 
