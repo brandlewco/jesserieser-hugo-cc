@@ -1183,10 +1183,10 @@ theme_color_all_works: '#69e5ce'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-2.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-27.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-28.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-29.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-30.jpg
 collection_content: >-
   Beyond the glowing green and red lights, past the shimmering silvery tinsel,
   around the fragrant pine boughs, another Christmas lingers, a Christmas of
