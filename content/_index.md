@@ -341,7 +341,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: A Vanishing Folklore
+    title: Souvenirs From Paradise
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
@@ -351,7 +351,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
-    caption:
+    caption: ''
     title_margin_y: '40'
     title_margin_left: '20'
     title_margin_right: '0'
