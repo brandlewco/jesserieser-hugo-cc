@@ -766,6 +766,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-19.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-20.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-21.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-36.jpg
 collection_content: >-
   Beyond the glowing green and red lights, past the shimmering silvery tinsel,
   around the fragrant pine boughs, another Christmas lingers, a Christmas of
