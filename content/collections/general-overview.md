@@ -1164,8 +1164,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-34.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-27.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-2.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
