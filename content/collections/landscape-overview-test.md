@@ -268,10 +268,10 @@ theme_color_all_works: '#ff8f47'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-10.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/RIESER_landscape-test-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/RIESER_landscape-test-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/RIESER_landscape-test-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/RIESER_landscape-test-24.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
