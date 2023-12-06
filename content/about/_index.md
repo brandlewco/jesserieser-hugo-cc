@@ -595,6 +595,10 @@ about_blocks:
       /&nbsp;Outdoor Life /&nbsp;Popular Science*
 
 
+      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
+      Producer RPA Los Angeles*
+
+
       “Jesse has defined his own style in a way that sets him apart. His candy
       colors are delectable, his eye for composition so precise and the way he
       marries the perfect light to each situation is nothing short of masterful.
@@ -602,10 +606,6 @@ about_blocks:
       surpass the expectations of the assignment and encourage people to pause
       and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein* *** *** *Director
       of Photography \| Barron's & Penta*
-
-
-      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
-      Producer RPA Los Angeles*
     background_color: '#ff6a5a'
     background_image_toggle: false
     image:
