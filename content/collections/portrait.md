@@ -457,10 +457,10 @@ theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-9.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-23.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-8.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
