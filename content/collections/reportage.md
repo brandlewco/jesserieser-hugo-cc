@@ -897,15 +897,6 @@ collection_blocks:
     align_y:
     color: '#fbfbf9'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-69.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    align_y:
-    color: '#f5e7ce'
-    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-1.jpg
