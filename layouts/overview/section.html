@@ -6,38 +6,40 @@
                     <use xlink:href="#spinner"></use>
                 </svg>
             </div>
-            {{ range where $.Site.RegularPages "Section" "collections" }}
-            {{ if and (eq .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
-            <figure class="filter-item h-auto py-4 pr-4 sm:pr-0 pl-4 lg:w-grid-three sm:w-grid-three w-full overflow-hidden all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}">
-                <a href="{{substr .Permalink 0 -1}}">
-                    {{if .Params.collection_preview }}
-                    <div class="collection-preview relative lazyload" style="padding-top:75%; background-color:{{.Params.theme_color}};">
-                    {{else}}
-                    <div class="relative" style="padding-top:75%; background-color:{{.Params.theme_color}};">
-                    {{end}}
-                    <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
-                        <use xlink:href="#spinner"></use>
-                    </svg>
-                        {{with .Params.collection_preview}}
-                        {{ range first 1 . }}
-                        <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-                        {{end}}
-                        {{ range first 3 (after 1 . )}}
-                        <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-                        {{end}}
+            {{ range .Params.overview_collection }}
+            {{ with $.Site.GetPage . }}
+                {{ if and (eq .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
+                <figure class="filter-item h-auto py-4 pr-4 sm:pr-0 pl-4 lg:w-grid-three sm:w-grid-three w-full overflow-hidden all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}">
+                    <a href="{{substr .Permalink 0 -1}}">
+                        {{if .Params.collection_preview }}
+                        <div class="collection-preview relative lazyload" style="padding-top:75%; background-color:{{.Params.theme_color}};">
                         {{else}}
-                        <img data-sizes="auto" data-parent-fit="cover" data-srcset="{{.Params.collection_cover}}?width=400&h=300 400w, {{.Params.collection_cover}}?width=600&h=450 600w, {{.Params.collection_cover}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" alt="{{.Title}}"/>
+                        <div class="relative" style="padding-top:75%; background-color:{{.Params.theme_color}};">
                         {{end}}
-
-                    </div>
-                    
-                    <figcaption class="text-black text-base">
-                        <span class="font-normal block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
-                    </figcaption>
-                </a>
-            </figure>     
-            {{end}}
-            {{end}}       
+                        <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
+                            <use xlink:href="#spinner"></use>
+                        </svg>
+                            {{with .Params.collection_preview}}
+                            {{ range first 1 . }}
+                            <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
+                            {{end}}
+                            {{ range first 3 (after 1 . )}}
+                            <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
+                            {{end}}
+                            {{else}}
+                            <img data-sizes="auto" data-parent-fit="cover" data-srcset="{{.Params.collection_cover}}?width=400&h=300 400w, {{.Params.collection_cover}}?width=600&h=450 600w, {{.Params.collection_cover}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" alt="{{.Title}}"/>
+                            {{end}}
+    
+                        </div>
+                        
+                        <figcaption class="text-black text-base">
+                            <span class="font-normal block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
+                        </figcaption>
+                    </a>
+                </figure> 
+                {{ end }}
+            {{ end }}
+            {{ end }}     
         </section>
 </section>
 {{- end -}}
