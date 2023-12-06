@@ -563,7 +563,49 @@ about_blocks:
   - _bookshop_name: about/media-row
     row_alignment: center
   - _bookshop_name: about/media-text
-    text: "“I’ve worked with tons of photographers that can’t make something great out of nothing. You made gold from a blank canvas. Thank you.” -\__Devin Gillespie Creative Director, Wieden+Kennedy Portland_\n\n\n\n\n\"It’s no easy task to enter the world of contemporary art color photography, but you have successfully done so with your own unique voice.” _\\- Rob Schaefer Senior Acquisitions Editor, Princeton Architectural Press_\n\n\n\n\n“This shoot would not have been such a success without your attention to detail, hands-on approach, and upfront leg work. Thank you!”- _Kate Moore Senior Art Producer, Anomaly New York_\n\n\n\n\n“You are incapable of taking a normal picture.” - _Jen Lamping Lead Print Producer RPA Los Angeles_"
+    text: >-
+      “I’ve worked with tons of photographers that can’t make something great
+      out of nothing. You made gold from a blank canvas. Thank you.”
+      -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
+
+
+      "It’s no easy task to enter the world of contemporary art color
+      photography, but you have successfully done so with your own unique
+      voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
+      Architectural Press*
+
+
+      “This shoot would not have been such a success without your attention to
+      detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
+      Senior Art Producer, Anomaly New York*
+
+
+      "When you hire a photographer, you're not just paying for the final
+      product images; you're buying the experience of working with that person.
+      You're hiring a temporary teammate who's going to help you solve problems
+      and deal with logistical challenges, and hopefully do it in a manner that
+      makes the experience easier and hopefully, fun. As a one-man photo
+      department, I need photographers who will take the reigns of the
+      production and don't need much hand-holding. Jesse covers all those bases
+      and more. Working with him is a pleasure. He just gets it, especially when
+      it comes to editorial. Most of all, he rolls with the punches, adjusts on
+      the fly, and never stops being a good collaborator. On top of that, you
+      wind up having some fun chats in the process. I look forward to working
+      with Jesse again soon." - *John Toolan Photography Director Field & Stream
+      /&nbsp;Outdoor Life /&nbsp;Popular Science*
+
+
+      “Jesse has defined his own style in a way that sets him apart. His candy
+      colors are delectable, his eye for composition so precise and the way he
+      marries the perfect light to each situation is nothing short of masterful.
+      I know whenever we work together, he will return with engaging images that
+      surpass the expectations of the assignment and encourage people to pause
+      and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein* *** *** *Director
+      of Photography \| Barron's & Penta*
+
+
+      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
+      Producer RPA Los Angeles*
     background_color: '#ff6a5a'
     background_image_toggle: false
     image:
