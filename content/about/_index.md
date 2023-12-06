@@ -604,8 +604,9 @@ about_blocks:
       marries the perfect light to each situation is nothing short of masterful.
       I know whenever we work together, he will return with engaging images that
       surpass the expectations of the assignment and encourage people to pause
-      and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein* *** *** *Director
-      of Photography \| Barron's & Penta*
+      and&nbsp;*see*&nbsp;differently." - *Sarina
+      Finkelstein&nbsp;**&nbsp;***&nbsp;*Director of Photography \| Barron's &
+      Penta*
     background_color: '#ff6a5a'
     background_image_toggle: false
     image:
