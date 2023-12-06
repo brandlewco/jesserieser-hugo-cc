@@ -167,7 +167,7 @@ collection_blocks:
     margin_left: '50'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#b0d5ef'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -178,7 +178,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#ff0000'
+    color: '#f5baba'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-17.jpg
@@ -187,7 +187,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
     align_y: start
-    color: '#ff0000'
+    color: '#f1efab'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-18.jpg
@@ -196,7 +196,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#bdf9c4'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-19.jpg
@@ -205,7 +205,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '10'
     align_y: center
-    color: '#ff0000'
+    color: '#cafbf4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -220,7 +220,7 @@ collection_blocks:
     margin_left: '35'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#ebc6ef'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -231,7 +231,7 @@ collection_blocks:
     margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#ff0000'
+    color: '#ffcb7e'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-22.jpg
@@ -240,7 +240,7 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#ff0000'
+    color: '#efb4ed'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
