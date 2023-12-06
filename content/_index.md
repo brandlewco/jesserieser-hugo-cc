@@ -380,11 +380,11 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: xmas
+    title: Christmas In America
     meta: meta
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
     text_size: 2xl
-    color: '#FF4B4B'
+    color: '#ff4b4b'
     width: '25'
     align_y: start
     margin_y: '100'
@@ -393,7 +393,7 @@ content_blocks:
     block_aspect_ratio: 2x3
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
     caption: Washington Post Cover Feature + Interview
-    theme_color: '#FF5252'
+    theme_color: '#ff5252'
   - _bookshop_name: home/media-feature
     title: Christmas in America
     meta: 2010 - 2022
