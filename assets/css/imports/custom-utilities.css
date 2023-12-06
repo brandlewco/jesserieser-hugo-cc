@@ -356,7 +356,7 @@ figure:hover img {
 
 figure.block-hover:hover img {
   opacity: 1;
-  transform: scale(1.05)
+  transform: scale(1.07)
 }
 
 .iframe-frame {
@@ -369,7 +369,7 @@ figure.block-hover iframe{
 }
 
 figure.block-hover:hover iframe{
-  transform: scale(1.1);
+  transform: scale(1.07);
 }
 
 
