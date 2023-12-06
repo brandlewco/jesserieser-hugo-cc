@@ -17,7 +17,6 @@ theme_color: '#bde6c5'
 navigation_theme: white
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 overview_collection:
-  - content/collections/landscape-overview-test.md
   -
 date: 2017-11-02T23:00:00Z
 ---

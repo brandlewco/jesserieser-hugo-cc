@@ -1423,7 +1423,7 @@ collection_exhibition:
       <strong>2011</strong><br>   Art of Photography Juried Exhibition<br>  
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
-collection_overview: false
+collection_overview: true
 collection_archive: false
 collection_hidden: false
 hide_footer: true
