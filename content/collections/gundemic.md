@@ -202,18 +202,18 @@ collection_blocks:
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    align_y:
+    align_y: start
     color: '#f9dece'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-19.jpg
     width: '20'
-    margin_y: '800'
+    margin_y: '1000'
     margin_left: '0'
     margin_right: '5'
-    align_y:
+    align_y: start
     color: '#d5d9f0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -311,13 +311,13 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-30.jpg
-    width: '40'
+    width: '35'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
-    color: '#ECDDFF'
-    caption:
+    color: '#ecddff'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -394,14 +394,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-38.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-3.jpg
+    width: '40'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '50'
     margin_right: '0'
     align_y:
     color: '#d8d7e3'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -471,6 +471,7 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

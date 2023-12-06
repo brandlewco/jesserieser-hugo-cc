@@ -117,6 +117,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-16.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#ffdfc9'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_portrait-overview-11.jpg
     width: '33'
     margin_y: '100'
@@ -176,8 +187,6 @@ collection_blocks:
     align_y: center
     color: '#fbe6df'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

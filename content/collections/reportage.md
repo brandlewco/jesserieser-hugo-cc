@@ -710,7 +710,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-68.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '650'
     margin_left: '0'
     margin_right: '25'
     align_y: start
@@ -755,9 +755,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-73.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#edeff2'
@@ -765,7 +765,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-74.jpg
     width: '20'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '30'
     align_y: start
@@ -838,7 +838,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-81.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '650'
     margin_left: '0'
     margin_right: '25'
     align_y: start
