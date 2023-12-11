@@ -47,6 +47,8 @@ collection_pager:
   - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
+overview_pager:
+  - collections/general-overview.md
 seo:
   meta_description: >-
     Award winning Los Angeles and Phoenix Commercial, Sport, & Editorial

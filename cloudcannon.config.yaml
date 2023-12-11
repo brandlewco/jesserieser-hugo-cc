@@ -547,6 +547,14 @@ _inputs:
       preview:
         text:
           - key: slug
+  overview_pager:
+    type: multiselect
+    options:
+      values: collections.collections
+      value_key: content_path
+      preview:
+        text:
+          - key: slug
   collection_sorter:
     type: multiselect
     options:
