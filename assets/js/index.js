@@ -788,15 +788,15 @@ function init() {
   // Animate Navigaiton on Load
   navigation.style.opacity = "1";
 
-  // Open External Links In New Window
-  (function() {
-    var links = document.getElementsByTagName("a");
-    for (var i = 0; i < links.length; i++) {
-      if (/^(https?:)?\/\//.test(links[i].getAttribute("href"))) {
-        links[i].target = "_blank";
-      }
-    }
-  })();
+  // // Open External Links In New Window
+  // (function() {
+  //   var links = document.getElementsByTagName("a");
+  //   for (var i = 0; i < links.length; i++) {
+  //     if (/^(https?:)?\/\//.test(links[i].getAttribute("href"))) {
+  //       links[i].target = "_blank";
+  //     }
+  //   }
+  // })();
 
   // accesibility highlighter
   (function(document, window) {
