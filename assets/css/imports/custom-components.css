@@ -108,8 +108,12 @@ a.shift:hover {
   display: none;
   left: 0;
   top: 100%; /* Position it right below the overview link */
-  min-width: 160px;
+  min-width: 200px;
   z-index: 1;
+}
+
+.dropdown-content a:hover {
+  @apply font-bold
 }
 
 
