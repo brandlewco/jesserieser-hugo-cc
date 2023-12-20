@@ -117,8 +117,8 @@ collection_blocks:
     color: '#f3e1d4'
     caption: >-
       Hyperlink test
-      ***[one](https://jesserieser.com/collections/outdoor-solo)*** and
-      [two](https://jesserieser.com/collections/escalaras/)
+      ***[one](/collections/outdoor-solo)*** and
+      [two](/collections/escalaras/)
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-10.jpg
     width: '33'

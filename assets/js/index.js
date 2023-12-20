@@ -390,7 +390,8 @@ function init() {
             left: 0,
             behavior: "smooth",
           });
-          // document.getElementById(gallery.currItem.el.id).scrollIntoView({behavior: "smooth", block: "nearest", inline: "start"});
+          modifyLinksForCaptionsInPhotoSwipe();
+
         });
         gallery.listen("close", function() {
           console.log("close", gallery.currItem.el.id);
@@ -448,6 +449,18 @@ function init() {
     // execute above function
     initPhotoSwipeFromDOM(".my-gallery");
   }
+
+  function modifyLinksForCaptionsInPhotoSwipe() {
+    // Select all links within the caption of the current PhotoSwipe slide
+    var captionLinks = document.querySelectorAll('.pswp__caption .caption a');
+
+    captionLinks.forEach(function(link) {
+        // Apply data-no-swup attribute to the link
+        link.setAttribute('data-no-swup', '');
+        // Remove target="_blank" if it's already set
+        link.removeAttribute('target');
+    });
+}
 
   function lazyloadToggle(e) {
     var lazydelay = e.getElementsByClassName("lazyload-delay");
@@ -712,11 +725,8 @@ function init() {
   }
 
   const projectHeader = document.getElementById("project-header");
-  // const filterContainer = document.getElementById("filters");
   const headerPointer = document.getElementById("header-pointer");
   const pageTitle = document.getElementById("page-title");
-  // const headerOverlay = document.getElementById("header-overlay");
-  // const featureOverlay = document.getElementById("feature-overlay");
   const headerImage = document.getElementById("header-image");
   const featureImage = document.getElementById("feature-image");
   const height = window.innerHeight;
@@ -724,48 +734,48 @@ function init() {
   // Scroll Animations
   let scrollPos = 0;
   window.onscroll = function() {
-    var scrollTop = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
-    const windowY = window.scrollY;
+    var scrollTop = window.pageYOffset;
+    const windowY = scrollTop; // window.scrollY can be used here as well
+
     if (headerImage) {
-      headerImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.4)), 0, 1).toFixed(2);
+        headerImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.4)), 0, 1).toFixed(2);
     }
     if (featureImage) {
-      featureImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.9)), 0, 1).toFixed(2);
+        featureImage.style.opacity = value_limit(1 - (scrollTop / (height * 0.9)), 0, 1).toFixed(2);
     }
     if (projectHeader) {
-      if (windowY > (window.innerHeight * 0.75)) {
-        if (windowY < scrollPos) {
-          navigation.style.transform = "translate3d(0, 0, 0)";
-        } else {
-          navigation.style.transform = "translate3d(0, -" + navigationHeight + "px, 0)";
+        if (windowY > (window.innerHeight * 0.75)) {
+            if (windowY < scrollPos) {
+                navigation.style.transform = "translate3d(0, 0, 0)";
+            } else {
+                navigation.style.transform = "translate3d(0, -" + navigationHeight + "px, 0)";
+            }
         }
-      }
     }
     if (pageTitle) {
-      const pageTitleHeight = pageTitle.offsetHeight;
-      const pageTitleBottom = (height - pageTitleHeight) / 2;
-      if (windowY > (pageTitleBottom - 150)) {
-        headerPointer.style.opacity = 0;
-      } else {
-        headerPointer.style.opacity = 1;
-      }
-      if (windowY > pageTitleBottom) {
-        pageTitle.classList.add("absolute");
-        pageTitle.classList.remove("fixed");
-        pageTitle.style.top = "auto";
-        pageTitle.style.bottom = "0";
-        pageTitle.style.transform = "translate3d(0, 0vh, 0)";
-      } else {
-        pageTitle.classList.add("fixed");
-        pageTitle.classList.remove("absolute");
-        pageTitle.style.top = "50%";
-        pageTitle.style.bottom = "auto";
-        pageTitle.style.transform = "translate3d(0, -50%, 0)";
-      }
+        const pageTitleHeight = pageTitle.offsetHeight;
+        const pageTitleBottom = (height - pageTitleHeight) / 2;
+        if (windowY > (pageTitleBottom - 150)) {
+            headerPointer.style.opacity = 0;
+        } else {
+            headerPointer.style.opacity = 1;
+        }
+        if (windowY > pageTitleBottom) {
+            pageTitle.classList.add("absolute");
+            pageTitle.classList.remove("fixed");
+            pageTitle.style.top = "auto";
+            pageTitle.style.bottom = "0";
+            pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+        } else {
+            pageTitle.classList.add("fixed");
+            pageTitle.classList.remove("absolute");
+            pageTitle.style.top = "50%";
+            pageTitle.style.bottom = "auto";
+            pageTitle.style.transform = "translate3d(0, -50%, 0)";
+        }
     }
     scrollPos = windowY;
   };
-
   window.__forceSmoothScrollPolyfill__ = true;
   window.smoothscroll = true;
   smoothscroll.polyfill();
@@ -788,15 +798,29 @@ function init() {
   // Animate Navigaiton on Load
   navigation.style.opacity = "1";
 
-  // // Open External Links In New Window
-  // (function() {
-  //   var links = document.getElementsByTagName("a");
-  //   for (var i = 0; i < links.length; i++) {
-  //     if (/^(https?:)?\/\//.test(links[i].getAttribute("href"))) {
-  //       links[i].target = "_blank";
-  //     }
-  //   }
-  // })();
+  // Open External Links In New Window, with special handling for links inside 'caption' divs
+  (function() {
+    // Select all links
+    var links = document.getElementsByTagName("a");
+
+    for (var i = 0; i < links.length; i++) {
+        var link = links[i];
+        var href = link.getAttribute("href");
+
+        // Check if the link is inside a div with the class 'caption'
+        if (link.closest('.caption')) {
+            // Apply data-no-swup attribute to the link
+            link.setAttribute('data-no-swup', '');
+            // Remove target="_blank" if it's already set
+            link.removeAttribute('target');
+        } else if (/^(https?:)?\/\//.test(href)) {
+            // Set target to _blank for other external links
+            link.target = "_blank";
+        }
+    }
+  })();
+
+
 
   // accesibility highlighter
   (function(document, window) {
@@ -825,8 +849,4 @@ function init() {
 // intit code on each page load
 init();
 
-// document.addEventListener("visibilitychange", function() {
-//   if (document.visibilityState === "visible") {
-//     console.time("visible");
-//   }
-// });
+
