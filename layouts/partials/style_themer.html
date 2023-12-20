@@ -1,20 +1,20 @@
 {{ with .Site.Home }}
-        body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig{
-            fill: {{.Params.feature_color}} !important;
+        body.page-{{lower .Title | urlize}} .shift.nav-ig{
+            fill: {{.Params.feature_color}};
         };
 {{end}}
 /* about */
 {{ with .Site.GetPage "about" }}
-body.page-{{lower .Title | urlize}} .hue-header.page .bun {
-        background-color: {{.Params.theme_color}} !important;
+body.page-{{lower .Title | urlize}}  .bun {
+        background-color: {{.Params.theme_color}};
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift{
-        color: {{.Params.theme_color}} !important;
+    body.page-{{lower .Title | urlize}} .shift{
+        color: {{.Params.theme_color}};
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig {
-        fill: {{.Params.theme_color}} !important;
+    body.page-{{lower .Title | urlize}} .shift.nav-ig {
+        fill: {{.Params.theme_color}};
     }
     html.to-about body {
         background-color: {{.Params.theme_color}};
@@ -23,16 +23,16 @@ body.page-{{lower .Title | urlize}} .hue-header.page .bun {
 
 /* collection style preloaders */
 {{ range (where .Site.RegularPages "Section" "collections") }}
-    body.page-{{lower .Title | urlize}} .hue-header.page .bun {
-        background-color: {{.Params.theme_color}} !important;
+    body.page-{{lower .Title | urlize}} .bun {
+        background-color: {{.Params.theme_color}};
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift{
-        color: {{.Params.theme_color}} !important;
+    body.page-{{lower .Title | urlize}} .shift{
+        color: {{.Params.theme_color}};
     }
 
-    body.page-{{lower .Title | urlize}} .hue-header.page .shift.nav-ig {
-        fill: {{.Params.theme_color}} !important;
+    body.page-{{lower .Title | urlize}}  .shift.nav-ig {
+        fill: {{.Params.theme_color}};
     }
     
     {{$URL := .RelPermalink | safeCSS | replaceRE "/" "-"}}
