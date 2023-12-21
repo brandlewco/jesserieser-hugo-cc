@@ -3,10 +3,6 @@ title: Jesse Rieser
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
-
-
-  For additional projects and archive head over to [all
-  works.](https://jesserieser.com/collections/)
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -111,7 +107,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left   
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -135,7 +131,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right 
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -164,7 +160,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: 'Starting Over: Will Move For Work'
-    meta: "2009 - 2010"
+    meta: 2009 - 2010
     attached_collection: collections/starting-over.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
     width: '45'
@@ -187,7 +183,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'The Class of Turns 30'
+    title: The Class of Turns 30
     meta: Meta
     attached_collection: collections/the-class-of-99-turns-30.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/co99-1.jpg
