@@ -4,8 +4,10 @@
 
     <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-start text-2xl sm:text-28 font-medium tracking-widest shift" style="text-decoration: none !important;">
       <span class="whitespace-no-wrap">
-        JESSE RIESER 
+        JESSE RIESER
       </span>
+      <div class="flex flex-row justify-between text-xs sm:text-sm font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">projects
+      </div>
       {{if (eq .Params.collection_archive true) }} 
       <div class="flex flex-row justify-between text-xs sm:text-sm font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
       </div>
@@ -27,25 +29,8 @@
     <!-- navigation -->
     <section role="menu" class="menu translate-neg sm:translate-0 menu w-full sm:w-1/2 sm:flex flex-col sm:flex-row items-center sm:justify-end z-0 hidden mt-3 sm:mt-0">
         <a href="/" class="nav-selected mt-3 sm:mt-0 sm:mr-4 text-base font-normal sm:font-light no-underline sm:pr-4  btn-underline shift">
-          selected works
+          works
         </a>
-        <a href="/collections/" class="nav-collections mt-3 sm:mt-0 sm:mr-4 text-base sm:font-light no-underline sm:pr-4  btn-underline shift" data-swup-preload>
-          all works
-        </a>
-        <div class="nav-overview-container relative mt-3 sm:mt-0 sm:mr-4 text-center sm:text-left">
-          <a href="/overview/" class="nav-overview text-base sm:font-light no-underline sm:pr-4 btn-underline shift" data-swup-preload="" style="">
-            overviews
-          </a>
-          <div class="dropdown-content hidden sm:absolute">
-            <a href="/collections/general-overview/" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">General</a>
-            <a href="/collections/travel-tourism-overview/" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Travel & Tourism</a>
-            <a href="/collections/portrait-overview" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Portraits</a>
-            <a href="/collections/sport-athletes-overview/" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Sports & Athletes</a>
-            <a href="/collections/reportage-overview" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Reportage</a>
-            <a href="/collections/industry-tech-science-overview" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Industry, Tech & Science</a>
-            <a href="/collections/landscapes" class="block text-sm sm:font-light hover:font-semibold no-underline btn-underline shift">Landscapes</a>
-          </div>
-        </div>
         <a href="/about/" class="nav-about mt-3 sm:mt-0 text-base sm:font-light no-underline sm:pr-6 btn-underline shift" data-swup-preload>
           about
         </a>
