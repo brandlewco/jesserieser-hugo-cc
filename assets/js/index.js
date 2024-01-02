@@ -11,7 +11,7 @@ import Rellax from "rellax";
 import Flickity from "flickity";
 import PhotoSwipe from "photoswipe";
 import PhotoSwipeUI_Default from "photoswipe/dist/photoswipe-ui-default";
-import smoothscroll from "smoothscroll-polyfill";
+// import smoothscroll from "smoothscroll-polyfill";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
 
 // Page Loader (SWUP)
@@ -898,9 +898,9 @@ function init() {
     }
     scrollPos = windowY;
   };
-  window.__forceSmoothScrollPolyfill__ = true;
-  window.smoothscroll = true;
-  smoothscroll.polyfill();
+  // window.__forceSmoothScrollPolyfill__ = true;
+  // window.smoothscroll = true;
+  // smoothscroll.polyfill();
 
   if (document.querySelector("#current")) {
     var currentPage = document.getElementById("current");

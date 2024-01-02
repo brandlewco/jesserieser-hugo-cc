@@ -6,7 +6,6 @@
     {{ range .Site.Data.config }}
     {{ range last 1 .overview_pager}}
     {{ with $.Site.GetPage . }} 
-    {{ if eq .Params.collection_archive true }}
     <li class="hidden first">
     <a href="{{ .RelPermalink }}" alt="{{ .Title }}" style="max-width: 45vw;">
         <div class="block sm:hidden font-semibold mobile"></div>
@@ -30,14 +29,12 @@
     {{ end }}
     {{ end }}
     {{ end }}
-    {{ end }}
 
     <!-- RUN RANGE OF EVERY COLLECTION - NO ARCHIVES -->
     {{ $currentPage := .Permalink }}
     {{ range .Site.Data.config }}
     {{ range .overview_pager}}
     {{ with $.Site.GetPage . }} 
-    {{ if eq .Params.collection_archive false }}
     {{ if eq $currentPage .Permalink }}
     <li class="sm:hidden" id="current">
         <a href="{{ .RelPermalink }}" alt="{{ .Title }}" class="hidden">{{ .Title }}</a>
@@ -77,13 +74,11 @@
     {{ end }}
     {{ end }}
     {{ end }}
-    {{ end }}
 
     <!-- RUN RANGE OF ARCHIVE -->
     {{ range .Site.Data.config }}
     {{ range .overview_pager}}
     {{ with $.Site.GetPage . }} 
-    {{ if eq .Params.collection_archive true}}
     {{ if eq $currentPage .Permalink }}
     <li class="sm:hidden" id="current">
     <a href="{{ .RelPermalink }}" alt="{{ .Title }}" class="hidden">{{ .Title }}</a>
@@ -123,14 +118,12 @@
     {{ end }}
     {{ end }}
     {{ end }}
-    {{ end }}
 
     <!-- RUN RANGE JUST FOR FIRST ITEM IN COLLECTION TO COMPLETE PAGER LOOP -->
     {{ $currentPage := .Permalink }}
     {{ range .Site.Data.config }}
     {{ range first 1 .overview_pager}}
     {{ with $.Site.GetPage . }} 
-    {{ if eq .Params.collection_archive false }}
     <li class="hidden">
     <a href="{{ .RelPermalink }}" alt="{{ .Title }}" style="max-width: 45vw;">
         <div class="block sm:hidden font-semibold mobile"></div>
@@ -151,7 +144,6 @@
         </div>
     </a>
     </li>
-    {{ end }}
     {{ end }}
     {{ end }}
     {{ end }}
