@@ -522,9 +522,46 @@ figcaption p {
   } */
 }
 
+.overview-gallery  {
+  @apply px-16;
+}
+
 .overview-gallery .group-hover .figure.block-hover {
   align-self: center !important;
 }
+
+.overview-gallery .group-hover .figure {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: transparent !important;
+}
+
+.overview-gallery .group-hover .figure img {
+    height: 180px; /* Example height, adjust as needed */
+    width: auto;
+    object-fit: contain; /* This ensures the image covers the area without stretching */
+}
+
+@media only screen and (max-width: 1300px) {
+  .overview-gallery .group-hover .figure img {
+    height: 120px; /* Example height, adjust as needed */
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .overview-gallery .group-hover .figure img {
+    height: 100px; /* Example height, adjust as needed */
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .overview-gallery .group-hover .figure img {
+    height: 100px; /* Example height, adjust as needed */
+  }
+}
+
+
 
 
 li.collection-next div {

@@ -66,8 +66,7 @@ collection_blocks:
     align_y:
     color: '#f8e8dc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-7.jpg
     width: '15'
@@ -123,8 +122,7 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-13.jpg
     width: '15'
@@ -180,8 +178,7 @@ collection_blocks:
     align_y:
     color: '#280503'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-19.jpg
     width: '15'
@@ -236,8 +233,7 @@ collection_blocks:
     align_y:
     color: '#e5d4cb'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-25.jpg
     width: '15'
@@ -292,8 +288,7 @@ collection_blocks:
     align_y:
     color: '#d9e5de'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-31.jpg
     width: '15'
@@ -349,8 +344,7 @@ collection_blocks:
     align_y:
     color: '#f4f4eb'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-37.jpg
     width: '15'
@@ -406,8 +400,7 @@ collection_blocks:
     align_y:
     color: '#1c1914'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-43.jpg
     width: '15'
@@ -462,8 +455,7 @@ collection_blocks:
     align_y:
     color: '#a4bcca'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-49.jpg
     width: '15'
@@ -518,8 +510,7 @@ collection_blocks:
     align_y:
     color: '#261819'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-55.jpg
     width: '15'
@@ -575,8 +566,7 @@ collection_blocks:
     align_y: start
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-63.jpg
     width: '15'
@@ -632,8 +622,7 @@ collection_blocks:
     align_y:
     color: '#dbdfdc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-69.jpg
     width: '15'
@@ -688,8 +677,7 @@ collection_blocks:
     align_y:
     color: '#f8f3f3'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-75.jpg
     width: '15'
@@ -744,8 +732,7 @@ collection_blocks:
     align_y:
     color: '#eefbe7'
     caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-81.jpg
     width: '15'
@@ -801,8 +788,7 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-86.jpg
     width: '15'
@@ -858,8 +844,7 @@ collection_blocks:
     align_y:
     color: '#280503'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-92.jpg
     width: '15'
@@ -914,8 +899,7 @@ collection_blocks:
     align_y:
     color: '#e0c6ca'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-98.jpg
     width: '15'
@@ -970,8 +954,7 @@ collection_blocks:
     align_y:
     color: '#e4ebed'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-104.jpg
     width: '15'
@@ -1027,8 +1010,7 @@ collection_blocks:
     align_y:
     color: '#d9dee1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_general-overview-110.jpg
     width: '15'
