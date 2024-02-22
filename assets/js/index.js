@@ -216,8 +216,8 @@ function init() {
           } else {
             item = {
               src: imgEl.getAttribute("data-src"), // Use data-src for full-size image
-              w: imgEl.naturalWidth,
-              h: imgEl.naturalHeight,
+              w: imgEl.naturalWidth * 2,
+              h: imgEl.naturalHeight * 2,
               pid: linkEl.getAttribute("pid"),
             };
           }
