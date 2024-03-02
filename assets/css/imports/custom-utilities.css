@@ -538,14 +538,19 @@ figcaption p {
 }
 
 .overview-gallery .group-hover .figure img {
-    height: 180px; /* Example height, adjust as needed */
+    height: 300px; /* Example height, adjust as needed */
     width: auto;
     object-fit: contain; /* This ensures the image covers the area without stretching */
 }
-
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 2500px) {
   .overview-gallery .group-hover .figure img {
-    height: 120px; /* Example height, adjust as needed */
+    height: 260px; /* Example height, adjust as needed */
+  }
+}
+
+@media only screen and (max-width: 2000px) {
+  .overview-gallery .group-hover .figure img {
+    height: 180px; /* Example height, adjust as needed */
   }
 }
 
@@ -557,7 +562,7 @@ figcaption p {
 
 @media only screen and (max-width: 767px) {
   .overview-gallery .group-hover .figure img {
-    height: 100px; /* Example height, adjust as needed */
+    height: 300px; /* Example height, adjust as needed */
   }
 }
 
