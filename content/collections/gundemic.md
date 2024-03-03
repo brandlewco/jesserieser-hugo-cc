@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Gunsmoke, Mythology, and the American Gundemic
 title: Gunsmoke, Mythology, and the American Gundemic
-collection_meta: 2021 - 2022
+collection_meta: 2021 - 2023
 collection_meta_2: ''
 collection_description: >-
   Firearms are deeply ingrained with what it means to be American and our
