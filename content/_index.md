@@ -1077,13 +1077,13 @@ content_blocks:
     block_aspect_ratio: 9x16
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '33'
     align_y: center
     margin_y: '0'
     margin_left: '0'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#fab4b4'
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
