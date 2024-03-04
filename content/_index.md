@@ -1066,6 +1066,8 @@ content_blocks:
     theme_color: '#E5E5EF'
     meta: meta
     blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
