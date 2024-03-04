@@ -39,7 +39,7 @@ block_aspect_ratio: 9x16
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
 blog_header:
 caption: TMC
-blog_content: ''
+blog_content: Playlist
 date:
 news_category:
 theme_color:
