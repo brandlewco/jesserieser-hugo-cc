@@ -41,6 +41,11 @@ blog_content: >-
   the influence of music in his work.”⁠
 
 
+  Head <a target="_blank" rel="noopener"
+  href="https://open.spotify.com/playlist/22wzGhQGM31ntsX8XkIOOU?si=6603f4f35d654d8f">here</a>
+  for a link to the playlist.&nbsp;
+
+
   ⁠⁠Thursday, January 25⁠<br>6:00 pm⁠<br>The McKinley Club⁠<br>734 W. Polk
   Street, Phoenix, AZ 85003
 date:
