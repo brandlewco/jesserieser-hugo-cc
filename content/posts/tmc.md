@@ -18,16 +18,6 @@ post_blocks:
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-5.jpg
-    title: blog title
-    caption:
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-6.jpg
-    title: blog title
-    caption:
-    width: '50'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -37,7 +27,7 @@ attached_collection: collections/vanishing-folklore.md
 attached_link:
 block_aspect_ratio: 9x16
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
-blog_header:
+blog_header: 'Not sure '
 caption: TMC
 blog_content: Playlist
 date:
