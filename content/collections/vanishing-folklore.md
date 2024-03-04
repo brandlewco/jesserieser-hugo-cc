@@ -105,8 +105,6 @@ collection_blocks:
     align_y:
     color: '#dcedf8'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-9.jpg
     width: '50'
@@ -118,6 +116,8 @@ collection_blocks:
     caption: >-
       Hyperlink test ***[one](/collections/outdoor-solo)*** and
       [two](/collections/escalaras/)
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-10.jpg
     width: '33'
