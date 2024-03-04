@@ -1069,6 +1069,22 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/modal-blog
+    title: Collection Title
+    caption: Caption
+    attached_blog: posts/tmc.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 9x16
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: center
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
 collection_description: A student of subtleties.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
