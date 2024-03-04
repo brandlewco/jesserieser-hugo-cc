@@ -1078,8 +1078,8 @@ content_blocks:
     text_size: base
     color: '#ffffff'
     width: '33'
-    align_y: center
-    margin_y: '0'
+    align_y: start
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     meta_align: left
