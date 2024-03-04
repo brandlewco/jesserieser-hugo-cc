@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: New Blog
+title: 'Elle '
 outputs:
   - HTML
   - ContentOnly
