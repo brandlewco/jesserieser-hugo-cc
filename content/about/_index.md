@@ -66,7 +66,7 @@ about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-3.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
-    - _bookshop_name: about/modal-list
+  - _bookshop_name: about/modal-list
     title: Exhibitions
     image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
     meta: My dad & I, © Rob Rieser
