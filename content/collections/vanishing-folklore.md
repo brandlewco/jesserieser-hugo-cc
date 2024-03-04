@@ -25,9 +25,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-1.jpg
-    width: '45'
+    width: '55'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#dce3f3'
@@ -46,7 +46,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-3.jpg
     width: '33'
-    margin_y: '500'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '10'
     align_y:
@@ -56,9 +56,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-4.jpg
-    width: '60'
+    width: '40'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#d8d7e3'
@@ -77,7 +77,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-6.jpg
     width: '35'
-    margin_y: '800'
+    margin_y: '950'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -162,10 +162,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-14.jpg
-    width: '30'
-    margin_y: '800'
+    width: '25'
+    margin_y: '900'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y:
     color: '#cce3fa'
     caption: ''
@@ -173,9 +173,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-15.jpg
-    width: '40'
+    width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '45'
     margin_right: '0'
     align_y:
     color: '#eadef4'
@@ -184,9 +184,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-16.jpg
-    width: '55'
+    width: '45'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#d0f1f0'
@@ -400,9 +400,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-36.jpg
-    width: '25'
+    width: '30'
     margin_y: '900'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f8ffbc'
@@ -424,7 +424,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-38.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#bafff5'
@@ -433,20 +433,20 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-39.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
+    width: '33'
+    margin_y: '800'
+    margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#f4f5a6'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-40.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#deb8f5'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -455,9 +455,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-41.jpg
-    width: '40'
+    width: '60'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#befdc3'
