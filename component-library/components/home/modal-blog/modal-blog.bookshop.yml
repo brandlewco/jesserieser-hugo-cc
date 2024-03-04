@@ -9,7 +9,7 @@ spec:
       - key: blog_block_cover
     text:
       - key: title
-      - Blog
+      - Post
     subtext:
       - key: width
   tags: ["blog"]
