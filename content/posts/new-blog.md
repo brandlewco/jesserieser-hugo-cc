@@ -36,7 +36,7 @@ attached: true
 attached_collection: collections/xmas-in-america.md
 attached_link:
 block_aspect_ratio: 9x16
-blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
 blog_header: 'Christmas In America: Happy Birthday, Jesus'
 caption: New Blog Caption
 blog_content: >-
