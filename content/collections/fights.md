@@ -3,12 +3,10 @@ _schema: default
 seo:
   meta_description:
   meta_title: A Son's First Hunt for Outdoor Life
-title: Fights
-collection_meta: 'A Son''s First Solo Hunt, '
-collection_meta_2: and a Father's Lesson in Letting Him Go
-collection_description: >-
-  A young hunter sets out to track big mule deer through the desert, leaving his
-  usual hunting buddy behind
+title: 'Golf Digest '
+collection_meta: All  The Rage
+collection_meta_2:
+collection_description: Inside the embarrassing—and irresistible—world of viral golf fights.&nbsp;
 collection_description_alignment: center
 slug: golfdigest-fights
 collection_blocks:
