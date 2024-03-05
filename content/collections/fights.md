@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: A Son's First Hunt for Outdoor Life
+  meta_title: Inside the embarrassing—and irresistible—world of viral golf fights
 title: 'Golf Digest '
 collection_meta: All  The Rage
 collection_meta_2:
