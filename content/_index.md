@@ -1086,7 +1086,6 @@ content_blocks:
     theme_color: '#fab4b4'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Caption
@@ -1103,6 +1102,7 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
+  - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
