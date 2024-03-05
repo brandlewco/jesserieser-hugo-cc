@@ -42,8 +42,8 @@ caption: '*Joy to the World*'
 blog_content: >-
   <a target="_blank" rel="noopener"
   href="https://jesserieser.com/collections/christmas-in-america/"><em>Christmas
-  In America</em></a> is featured Elle Korea's showcase of Christmas seen in
-  contemporary photography.
+  In America</em></a> is featured Elle Korea's showcase of Christmas themed
+  works seen in contemporary photography.
 
 
   Magazine spreads bellow.
