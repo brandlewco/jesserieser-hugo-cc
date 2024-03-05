@@ -27,11 +27,11 @@ attached_collection: collections/vanishing-folklore.md
 attached_link:
 block_aspect_ratio: 9x16
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
-blog_header: 'Not sure '
-caption: TMC
+blog_header: 'TMC Playlist '
+caption: Launch Party and Artist Talk
 blog_content: >-
-  Come hang this Thursday at the new(ish) studio. I'll be curating playlists for
-  The Mckinley Club and discussing the influence of music in my work.⁠
+  Come hang this Thursday at our new studio. I'll be curating playlists for The
+  Mckinley Club and discussing the influence of music in my work.⁠
 
 
   ⁠“Our playlists help motivate, inspire, unwind, and uplift our members. We
