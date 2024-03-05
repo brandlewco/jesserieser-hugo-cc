@@ -1088,7 +1088,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
-    title: Collection Title
+    title: 'Elle Korea '
     caption: Caption
     attached_blog: posts/new-blog.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
