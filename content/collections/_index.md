@@ -12,6 +12,7 @@ collection_sorter:
   - collections/time-magazine-clone-test.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
+  - collections/fights.md
   - collections/golfdigest-nicklaus.md
   - collections/xmas-in-america.md
   - collections/vanishing-folklore.md
