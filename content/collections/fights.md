@@ -5,8 +5,12 @@ seo:
   meta_title: Inside the embarrassing—and irresistible—world of viral golf fights
 title: 'Golf Digest '
 collection_meta: All  The Rage
-collection_meta_2:
-collection_description: Inside the embarrassing—and irresistible—world of viral golf fights.&nbsp;
+collection_meta_2: "Inside the embarrassing—and irresistible—world of viral golf fights.\_"
+collection_description: >-
+  Have you ever seen regular people fight? Not trained boxers, actors or their
+  stunt doubles but regular people. They look ridiculous. Dress them in pastels,
+  golf shoes, loud belts, and put them on a golf course, and they look even
+  sillier.
 collection_description_alignment: center
 slug: golfdigest-fights
 collection_blocks:
@@ -225,7 +229,7 @@ collection_exhibition: []
 collection_overview: false
 collection_archive: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
