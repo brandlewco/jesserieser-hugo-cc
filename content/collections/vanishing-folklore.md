@@ -86,6 +86,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: /images/hero/hero-image-2.png
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#fec6c6'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-7.jpg
     width: '55'
     margin_y: '100'
@@ -200,8 +211,6 @@ collection_blocks:
     align_y:
     color: '#f1e3cf'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -461,6 +470,42 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#befdc3'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: /images/hero/hero-image-2.png
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#c4ffeb'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: /images/hero/hero-image-2.png
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#eed4ff'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: /images/hero/hero-image-2.png
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#ffe8ab'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: /images/hero/hero-image-2.png
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#c4d8fa'
     caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
