@@ -200,27 +200,26 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt_header-16.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-3-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_banners-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_banners-2.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Lifestyle
   - Portraits
   - Color
-  - Gun Culture
   - Sports + Athletes
-  - Travel
+  - Humor
 date: 2019-05-01T07:00:00Z
 theme_color: '#eac5bf'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-10.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-12.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-6.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
   usual hunting buddy behind. ⁠
