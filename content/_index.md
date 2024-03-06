@@ -165,22 +165,22 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Wired '
-    meta: 'A Wrinkle In Time '
-    attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    title: Golf Digest
+    meta: All The Rage
+    attached_collection: collections/fights.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#cd98d4'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#91dacd'
+    text_color: '#afd0f5'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -299,6 +299,28 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Wired '
+    meta: 'A Wrinkle In Time '
+    attached_collection: collections/time-magazine-clone-test.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    width: '33'
+    margin_y: '300'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#cd98d4'
+    caption:
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#91dacd'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
