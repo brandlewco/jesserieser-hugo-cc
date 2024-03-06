@@ -348,9 +348,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-32.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
@@ -368,10 +368,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-34.jpg
-    width: '30'
+    width: '45'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '5'
     align_y:
     color: '#f1efed'
     caption: ''
@@ -390,7 +390,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-36.jpg
-    width: '35'
+    width: '30'
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
@@ -399,7 +399,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-37.jpg
-    width: '35'
+    width: '40'
     margin_y: '400'
     margin_left: '0'
     margin_right: '10'
@@ -410,8 +410,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-38.jpg
-    width: '35'
-    margin_y: '800'
+    width: '40'
+    margin_y: '600'
     margin_left: '30'
     margin_right: '0'
     align_y:
@@ -419,7 +419,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-39.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
@@ -432,17 +432,17 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-40.jpg
-    width: '45'
+    width: '35'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-41.jpg
-    width: '40'
-    margin_y: '600'
+    width: '45'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -452,9 +452,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-42.jpg
-    width: '50'
+    width: '40'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#ddd9dd'
@@ -472,10 +472,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-44.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y:
     color: '#e6eeec'
     caption: ''
@@ -596,6 +596,8 @@ collection_blocks:
     align_y:
     color: '#040305'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-56.jpg
     width: '40'
@@ -616,8 +618,6 @@ collection_blocks:
     align_y:
     color: '#dbdfdc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-58.jpg
     width: '40'
