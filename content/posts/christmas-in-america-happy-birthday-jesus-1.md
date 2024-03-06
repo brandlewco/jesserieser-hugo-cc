@@ -11,7 +11,7 @@ blog_header:
 caption: Washington Post Cover Feature + Interview
 blog_content: >-
   Honored to be interviewed and have [**_Christmas In America: Happy Birthday,
-  Jesus_**](https://jesserieser.com/projects/christmas-in-america) featured on
+  Jesus_**](https://jesserieserprojects.com/collections/christmas-in-america) featured on
   the cover of The Washington Post. Head
   [**_here_**](https://www.washingtonpost.com/photography/2021/12/20/jesse-rieser-christmas-photos/)
   to read the feature in full.
