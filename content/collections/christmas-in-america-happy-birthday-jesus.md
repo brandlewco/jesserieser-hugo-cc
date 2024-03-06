@@ -32,6 +32,8 @@ collection_blocks:
     align_y:
     color: '#edeff2'
     caption: '**Deflation.** *Tempe, AZ. 2016 Residence*'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-2.jpg
     width: '33'
@@ -52,6 +54,8 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-4.jpg
     width: '30'
@@ -61,10 +65,6 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-5.jpg
     width: '33'
@@ -74,6 +74,8 @@ collection_blocks:
     align_y:
     color: '#9d0310'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-6.jpg
     width: '45'
