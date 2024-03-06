@@ -3,8 +3,8 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
-title: 'Christmas In America: Happy Birthday, Jesus'
-collection_meta: "2010 - \_2022"
+title: Guns & Pizza
+collection_meta: 2021 - 2023
 collection_meta_2: ''
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
