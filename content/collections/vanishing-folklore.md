@@ -441,7 +441,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-40.jpg
     width: '35'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '25'
     align_y: start
