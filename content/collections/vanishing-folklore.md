@@ -540,7 +540,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-49.jpg
     width: '40'
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -621,7 +621,7 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-68.jpg
-    width: '25'
+    width: '30'
     margin_y: '800'
     margin_left: '0'
     margin_right: '15'
