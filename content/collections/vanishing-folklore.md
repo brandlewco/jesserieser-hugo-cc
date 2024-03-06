@@ -314,8 +314,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-22.jpg
-    width: '33'
-    margin_y: '300'
+    width: '35'
+    margin_y: '400'
     margin_left: '30'
     margin_right: '0'
     align_y:
@@ -334,7 +334,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-30.jpg
-    width: '50'
+    width: '25'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
@@ -347,7 +347,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-31.jpg
     width: '40'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#eddaf0'
@@ -376,9 +376,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-34.jpg
-    width: '25'
+    width: '20'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '60'
     margin_right: '0'
     align_y: start
     color: '#eed4ff'
@@ -410,7 +410,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-26.jpg
     width: '25'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '25'
     margin_right: '0'
     align_y:
@@ -486,19 +486,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-28.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#ddffe6'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-29.jpg
-    width: '40'
-    margin_y: '600'
+    width: '35'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y:
     color: '#ecddff'
     caption: ''
@@ -540,9 +540,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-49.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '10'
     align_y: start
     color: '#ffe8ab'
     caption: test caption
@@ -552,10 +552,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-50.jpg
-    width: '40'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '15'
+    width: '35'
+    margin_y: '900'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
     color: '#c6e6fd'
     caption: test caption
@@ -563,7 +563,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-51.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ffebda'
@@ -573,29 +573,20 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-31.jpg
     width: '40'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '15'
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
     align_y:
     color: '#ddffe6'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-32.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#ffe8db'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-35.jpg
     width: '40'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '15'
+    margin_y: '300'
+    margin_left: '25'
+    margin_right: '0'
     align_y: start
     color: '#c6e6fd'
     caption: test caption
