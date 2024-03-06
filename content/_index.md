@@ -304,13 +304,13 @@ content_blocks:
     meta: 'A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '5'
+    width: '45'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#cd98d4'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
