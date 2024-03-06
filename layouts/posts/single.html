@@ -19,13 +19,13 @@
           </div>
         </div>
       </div>
-      <section class="py-6 mx-auto">
+      <section class="py-6 mx-auto w-full">
         <header class="flex flex-col items-start mb-8 leading-none">
           <h1 class="text-xl sm:text-5xl font-medium text-black pb-4">
             {{.Params.title}}
           </h1>
           <div class="text-base sm:text-2xl font-medium italic text-black">
-            {{.Params.caption}}
+            {{.Params.caption | markdownify}}
           </div>
         </header>
         <div
