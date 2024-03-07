@@ -611,7 +611,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-57.jpg
-    width: '55'
+    width: '50'
     margin_y: '400'
     margin_left: '5'
     margin_right: '0'
@@ -620,7 +620,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-58.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
