@@ -537,7 +537,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-50.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '20'
     align_y:
