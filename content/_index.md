@@ -277,8 +277,8 @@ content_blocks:
     theme_color: '#000000'
   - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
-    title: Collection Title
-    caption: Caption
+    title: The Sunset Spot at Red Modern
+    caption: A Visual Conversation with Matt Magee and Jesse Rieser
     attached_blog: posts/sunset-spot.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
     vimeo_block_cover:
