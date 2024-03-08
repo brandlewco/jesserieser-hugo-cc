@@ -196,7 +196,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Xmas Roundup
+    title: Chaeg 52
     caption: Holiday Season Feature and Interview Roundup
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
@@ -206,11 +206,11 @@ content_blocks:
     color: '#ffffff'
     width: '30'
     align_y: center
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '50'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#ff1b1b'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-text
@@ -225,8 +225,8 @@ content_blocks:
     font_weight: bold
     width: '50'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '300'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css:
@@ -240,7 +240,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '55'
     margin_y: '0'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '5'
     align_y: start
     color: '#fdd3d3'
