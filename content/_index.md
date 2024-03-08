@@ -52,7 +52,7 @@ content_blocks:
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     text_color: '#000000'
     line_height: tight
     text_alignment: center
@@ -125,9 +125,9 @@ content_blocks:
     color: '#f4c8c8'
     caption: ''
     title_margin_y: '5'
-    title_margin_left: '45'
+    title_margin_left: '35'
     title_margin_right:
-    text_size: 6xl
+    text_size: 7xl
     text_color: '#050505'
     line_height: none
     text_alignment: left
@@ -186,7 +186,7 @@ content_blocks:
     title_margin_y: '20'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 6xl
+    text_size: 7xl
     text_color: '#ffffff'
     line_height: normal
     text_alignment: left
@@ -245,16 +245,16 @@ content_blocks:
     align_y: start
     color: '#fdd3d3'
     caption: ''
-    title_margin_y: '60'
-    title_margin_left: '-55'
+    title_margin_y: '5'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_size: 7xl
-    text_color: '#74d29e'
+    text_color: '#ffffff'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
-    meta_align: right
+    font_weight: normal
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -266,10 +266,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '35'
     align_y: center
     margin_y: '0'
-    margin_left: '0'
+    margin_left: '55'
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
@@ -277,49 +277,49 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: The Wallow Fire
-    meta: Meta Description
+    meta: '2011'
     attached_collection: collections/wallow-fire
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
-    width: '60'
+    width: '40'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '45'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
-    caption:
-    title_margin_y: '50'
-    title_margin_left: '-25'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-60'
     title_margin_right: '0'
     text_size: 7xl
-    text_color: '#b4f0f7'
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
-    meta_align: left
+    font_weight: normal
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: 'Starting Over: Will Move For Work'
     meta: 2009 - 2010
     attached_collection: collections/starting-over.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#ffe087'
-    caption:
-    title_margin_y: '15'
-    title_margin_left: '5'
+    caption: ''
+    title_margin_y: '85'
+    title_margin_left: '-40'
     title_margin_right: '0'
     text_size: 7xl
-    text_color: '#f8f1bc'
+    text_color: '#000000'
     line_height: none
-    text_alignment: left
+    text_alignment: right
     text_tracking: normal
-    font_weight: semibold
+    font_weight: normal
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -327,23 +327,23 @@ content_blocks:
     title: The Class of Turns 30
     meta: Meta
     attached_collection: collections/the-class-of-99-turns-30.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/co99-1.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/co99-20.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '45'
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
-    caption:
-    title_margin_y: '10'
-    title_margin_left: '-15'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#b2c995'
+    text_size: 7xl
+    text_color: '#ffffff'
     line_height: normal
     text_alignment: center
     text_tracking: normal
-    font_weight: bold
+    font_weight: normal
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
