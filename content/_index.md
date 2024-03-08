@@ -358,25 +358,29 @@ navigation_theme: black
 row_alignment: between
 selected_works_theme:
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-1.jpg
     theme_color: '#f3c5c5'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-1.jpg
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-1.jpg
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-2.jpg
-    theme_color: '#b1adf1'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-2.jpg
+    theme_color: '#f1e1ad'
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-2.jpg
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-3.jpg
-    theme_color: '#a9f7c8'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-3.jpg
+    theme_color: '#c9f7a9'
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-3.jpg
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
-    theme_color: '#a0c6ff'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-4.jpg
+    theme_color: '#a0ebff'
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-4.jpg
   - template: ''
-    image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-5.jpg
-    theme_color: '#f9d7ac'
-    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-vert-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-5.jpg
+    theme_color: '#d3c9fe'
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-5.jpg
+  - template: ''
+    image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-6.jpg
+    theme_color: '#c0caf2'
+    image_mobile: https://d1sf55qlb7p6hz.cloudfront.net/personal_vertical-6.jpg
 px_extra: true
 date: 2017-11-01T23:00:00Z
 ---
