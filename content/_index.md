@@ -268,10 +268,10 @@ content_blocks:
     vimeo_block_cover:
     block_aspect_ratio: 1x1
     text_size: base
-    color: '#ffd0d0'
+    color: '#d9fdb1'
     width: '30'
     align_y: center
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     meta_align: left
