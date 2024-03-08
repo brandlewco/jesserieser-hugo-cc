@@ -292,12 +292,12 @@ content_blocks:
     meta_align: left
     theme_color: '#000000'
   - _bookshop_name: home/modal-blog
-    title: Collection Title
-    caption: Caption
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg
+    title: The Gaurdian + Buzzfeed News
+    caption: Autobiography of a Contact Sport Features
+    attached_blog: posts/autobiography-of-a-contact-sport.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-31.jpg
     vimeo_block_cover:
-    block_aspect_ratio: 9x16
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
     width: '30'
@@ -309,12 +309,12 @@ content_blocks:
     theme_color: '#000000'
   - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
-    title: The Gaurdian + Buzzfeed News
-    caption: Autobiography of a Contact Sport Features
-    attached_blog: posts/autobiography-of-a-contact-sport.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-31.jpg
+    title: The Fence
+    caption: The Fence at The Griffin Museum of Photography
+    attached_blog: posts/the-changing-landscape-of-america-retail.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence-1.jpg
     vimeo_block_cover:
-    block_aspect_ratio: 4x3
+    block_aspect_ratio: 11x8-5
     text_size: base
     color: '#ffffff'
     width: '30'
