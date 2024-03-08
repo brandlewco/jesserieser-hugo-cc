@@ -87,8 +87,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Gunsmoke, Mythology, and the American Gundemic
-    meta: 2021 + 2022
+    title: Guns & Pizza
+    meta: 2021 - 2023
     attached_collection: collections/gundemic.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
     width: '50'
@@ -307,7 +307,6 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
-  - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
     title: The Fence
     caption: The Fence at The Griffin Museum of Photography
@@ -324,6 +323,23 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
+  - _bookshop_name: home/modal-blog
+    title: Xmas Roundup
+    caption: Holiday Season Feature and Interview Roundup
+    attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: center
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
+  - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
