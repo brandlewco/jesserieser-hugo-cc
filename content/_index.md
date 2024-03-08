@@ -259,7 +259,6 @@ content_blocks:
     meta_align: left
     theme_color: '#ff5252'
     meta: meta
-  - _bookshop_name: home/media-row-end
   - _bookshop_name: home/modal-blog
     title: Fresh
     caption: The Changing Landscape of American Retail
@@ -272,6 +271,23 @@ content_blocks:
     width: '30'
     align_y: center
     margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
+  - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/modal-blog
+    title: Collection Title
+    caption: Caption
+    attached_blog: posts/sunset-spot.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: center
+    margin_y: '0'
     margin_left: '0'
     margin_right: '0'
     meta_align: left
