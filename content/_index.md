@@ -14,6 +14,30 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: Souvenirs From Paradise
+    meta: 2012 - 2022
+    attached_collection: collections/vanishing-folklore.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    width: '45'
+    margin_y: '300'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '40'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#ff3939'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     title: The Changing Landscape of American Retail
     meta: 2015 - 2022
     attached_collection: collections/retail.md
@@ -63,65 +87,59 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Souvenirs From Paradise
-    meta: 2012 - 2022
-    attached_collection: collections/vanishing-folklore.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '40'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#ff3939'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
     title: Gunsmoke, Mythology, and the American Gundemic
     meta: 2021 + 2022
     attached_collection: collections/gundemic.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
     width: '50'
     margin_y: '300'
     margin_left: '10'
     margin_right: '0'
     align_y: start
-    color: '#FAF2EA'
-    caption:
+    color: '#faf2ea'
+    caption: ''
     title_margin_y: '60'
     title_margin_left: '-20'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#7B9DF6'
+    text_color: '#7b9df6'
     line_height: normal
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
     meta_align: left
+  - _bookshop_name: home/media-text
+    text: 'Early Works:'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: 8xl
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: Autobiography of a Contact Sport
     meta: '2016'
     attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '55'
     margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
     color: '#fdd3d3'
-    caption:
+    caption: ''
     title_margin_y: '60'
     title_margin_left: '-55'
     title_margin_right: '0'
