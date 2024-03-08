@@ -15,16 +15,16 @@ collection_description: >-
   fringilla vitae interdum vel, euismod vitae quam.
 theme_color: '#bde6c5'
 navigation_theme: white
-header_col_1_title: Advertising & Editorial Commissions
+header_col_1_title: Commissions
 header_col_1: "<p><a target=\"_blank\" href=\"https://www.andersonhopkins.com/\">Anderson Hopkins</a></p><p>SJ Ashby<br /><a href=\"mailto:sj@andersonhopkins.com\">sj@andersonhopkins.com</a></p><p>Echo Hopkins<br /><a href=\"mailto:echo@andersonhopkins.com\">echo@andersonhopkins.com</a></p><p>Hannah Marchetto<br /><a href=\"mailto:hannah@andersonhopkins.com\">hannah@andersonhopkins.com</a></p><p>70 Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431 5117</p><p>\_</p>"
-header_col_2_title: Exhibition, Syndication, & Press Inquiries
+header_col_2_title: Exhibition, Print Sales & Press Inquiries
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram&nbsp;<a target="_blank"
   href="https://www.instagram.com/jesserieser/">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
   Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
-header_col_3_title: Stock Licensing
+header_col_3_title: Licensing
 header_col_3: >-
   <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
   Stock</a><br />190 Bowery<br />New York, NY 10012<br /><a
@@ -68,9 +68,9 @@ about_blocks:
     row_alignment: between
   - _bookshop_name: about/modal-list
     title: Exhibitions
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
-    meta: My dad & I, © Rob Rieser
-    width: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-3-7.jpg
+    meta: Gallery at Mountain Shadows
+    width: '35'
     color: '#77ddd4'
     modal_color: '#77ddd4'
     text_color: '#ffe42d'
@@ -81,8 +81,8 @@ about_blocks:
     font_weight:
     meta_align: left
     align_y: start
-    margin_y: '800'
-    margin_left: '15'
+    margin_y: '950'
+    margin_left: '10'
     margin_right: '0'
     title_margin_y: '15'
     title_margin_left: '-30'
