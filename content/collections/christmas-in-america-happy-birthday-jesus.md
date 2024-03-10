@@ -679,20 +679,20 @@ collection_content: >-
   based on our freedom and that of the conquering settler and oppressor.
 
 
-  &nbsp;In these early stages of a work-in-progress, I delve into gun culture
-  not as an exclusive domain of the enthusiast, but as a facet synonymous with
-  American identity. Today, we coexist with more firearms than fellow citizens.
+  In these early stages of a work-in-progress, I delve into gun culture not as
+  an exclusive domain of the enthusiast, but as a facet synonymous with American
+  identity. Today, we coexist with more firearms than fellow citizens.
 
 
-  &nbsp;While numerous narratives exist on guns, few examine their role in
-  shaping the mythology of the American West. Our pop culture exports—from film,
-  music, and literature—glorify rugged, gun-wielding archetypes embodied by
-  cowboys, pioneers, soldiers, mobsters, and gangsters. What was once a uniquely
-  American export has now become a uniquely American health crisis. Here you'll
-  encounter scenes from civilian tactical training facilities, communities
-  afflicted by gun violence, grieving parents of victims of classroom massacres,
-  activists, hunters, politicians, artifacts, family heirlooms, gun safety
-  demonstrations and Wild West shootouts.
+  While numerous narratives exist on guns, few examine their role in shaping the
+  mythology of the American West. Our pop culture exports—from film, music, and
+  literature—glorify rugged, gun-wielding archetypes embodied by cowboys,
+  pioneers, soldiers, mobsters, and gangsters. What was once a uniquely American
+  export has now become a uniquely American health crisis. Here you'll encounter
+  scenes from civilian tactical training facilities, communities afflicted by
+  gun violence, grieving parents of victims of classroom massacres, activists,
+  hunters, politicians, artifacts, family heirlooms, gun safety demonstrations
+  and Wild West shootouts.
 
 
   I have a personal history with firearms. Raised in the Ozarks, hunting was a
@@ -702,7 +702,7 @@ collection_content: >-
   22 months.
 
 
-  &nbsp;Articulating a collective sense of helplessness is challenging, but
+  Articulating a collective sense of helplessness is challenging, but
   understanding it is presumably easy as we witness what appears to be a
   solvable problem escalating into frequent and repetitive disasters with little
   to no action, yielding a numbness fostered by complacency and grotesque
