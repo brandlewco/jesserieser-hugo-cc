@@ -7,17 +7,9 @@ title: Guns & Pizza
 collection_meta: 2021 - 2023
 collection_meta_2: ''
 collection_description: >-
-  A decade in the making, *Christmas In America* is an unvarnished examination
-  of the ways people mark the holiday’s meaning. This Christmas is complex and
-  at times, uncomfortable. It’s awkward and sometimes bleak. But it is also
-  sincere and celebratory, colorful and creative.
-
-
-  Internationally exhibited, *Christmas In America* has been celebrated by the
-  *Communication Arts Photo Annual (2x)*, *American Photography Annual (2x)*,
-  and *PDN Photo Annual* as one the year’s best. Featured by the *New York
-  Times, Time Magazine, Wired, NPR, Buzzfeed, Fast Company, Esquire, The
-  Guardian, Artsy,* and *Refinery 29.*
+  Firearms are deeply ingrained in what it means to be American and our history
+  of the American West— a history of celebrated individualism paradoxically
+  based on our freedom and that of the conquering settler and oppressor.
 collection_description_alignment: center
 slug: GUNS_pizza
 collection_blocks:
@@ -659,8 +651,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-11.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
@@ -670,7 +662,6 @@ collection_category:
   - Portraits
   - Conceptual
   - Reportage
-  - Travel
   - Humor
 date: 2019-05-01T07:00:00Z
 theme_color: '#b1d9d2'
@@ -683,246 +674,47 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/xmas_4x3-4.jpg
 collection_content: >-
-  Beyond the glowing green and red lights, past the shimmering silvery tinsel,
-  around the fragrant pine boughs, another Christmas lingers, a Christmas of
-  contradictions.
+  Firearms are deeply ingrained in what it means to be American and our history
+  of the American West— a history of celebrated individualism paradoxically
+  based on our freedom and that of the conquering settler and oppressor.
 
 
-  This is a Christmas where carved foam soldiers guard Santa in the parking lot
-  of a church just before a holiday parade. This is a Christmas where thousands
-  of Santas run in an annual fundraising race, a sea of red hats and performance
-  apparel. This is a Christmas where garages and homes are transformed into
-  elaborate, festive wonderlands. This is a Christmas where Christian families
-  reenact the birth of Christ, where Santa plays pool in a bar and where more is
-  more is more.
+  &nbsp;In these early stages of a work-in-progress, I delve into gun culture
+  not as an exclusive domain of the enthusiast, but as a facet synonymous with
+  American identity. Today, we coexist with more firearms than fellow citizens.
 
 
-  This Christmas is complex and at times, uncomfortable. It’s awkward and
-  sometimes bleak. But it is also sincere and celebratory, colorful and
-  creative.
+  &nbsp;While numerous narratives exist on guns, few examine their role in
+  shaping the mythology of the American West. Our pop culture exports—from film,
+  music, and literature—glorify rugged, gun-wielding archetypes embodied by
+  cowboys, pioneers, soldiers, mobsters, and gangsters. What was once a uniquely
+  American export has now become a uniquely American health crisis. Here you'll
+  encounter scenes from civilian tactical training facilities, communities
+  afflicted by gun violence, grieving parents of victims of classroom massacres,
+  activists, hunters, politicians, artifacts, family heirlooms, gun safety
+  demonstrations and Wild West shootouts.
 
 
-  This is the Christmas I have grown to love during my 7 year photographic
-  exploration of the biggest event on the American calendar. I grew up in a
-  secular home and at times felt like a Christmas outsider, never connected to
-  the holiday’s religious importance, or its more extreme cultural trappings.
-  But in these photos, I become a Christmas insider, working to discover and
-  reveal what holiday magic, or mania, compels so many to devote thousands of
-  hours to hanging lights, to carving and painting figurines, to building
-  miniature villages, to converting their homes, yards, garages and cars into
-  monuments to merriness.
+  I have a personal history with firearms. Raised in the Ozarks, hunting was a
+  way of life, yet toy guns were forbidden in my household. In high school,
+  shortly after Columbine, I found myself on a mass shooting kill list. In 2012,
+  my cousin tragically took her and her young children's lives, aged 11, 10, and
+  22 months.
 
 
-  Initially inspired by the absurdity of a four story inflatable Santa who
-  appeared to be guarding a tree lot, I have launched this survey of uniquely
-  American Christmas traditions. “Christmas in America” is an unvarnished
-  examination of the ways people mark the holiday’s meaning.
-collection_awards:
-  - content: >-
-      <strong>2017</strong><br>  <em>Communication Arts Photography
-      Annual</em><br>  Winner: Best Unpublished Series_
-  - content: >-
-      <strong>2017</strong><br>   <em>AP 33 American Photography Annual
-      33</em><br> Winner: Best Personal Work Series
-  - content: >-
-      <strong>2012</strong><br>   <em>Communication Arts Photography
-      Annual</em><br>    Winner: Best Self-Promotion Campaign
-  - content: >-
-      <strong>2012</strong><br>   <em>Magenta Foundation Flash Forward
-      Winner</em><br>   Top Emerging Fine Art Photographer in North America and
-      U.K.
-  - content: >-
-      <strong>2011</strong><br>   <em>Art Director's Club Young Guns
-      9</em><br>   Top International Emerging Creative 30 and Under
-  - content: >-
-      <strong>2011</strong><br>   <em>PDN Photo Annual</em><br>  Winner: Best
-      Personal Work Series
-  - content: >-
-      <strong>2011</strong><br>   <em>AP 27: American Photography Annual
-      27</em><br> Winner: Best Personal Work Series
-  - content: >-
-      <strong>2011</strong><br>  <em>Photolucida Critical Mass</em><br>  
-      Winner: Top 50 International Projects
-  - content: >-
-      <strong>2011</strong><br>   <em>The 10 Most Exciting Photographers This
-      Year</em><br>  Phoenix Art Museum<br> ICP Curator Rebecca Senf Ph.D. &
-      Mary Virginia Swanson
-collection_press:
-  - content: >-
-      <a
-      href="https://lens.blogs.nytimes.com/2015/12/24/christmas-in-america-over-the-top-close-to-the-heart/?_r=1"><em>New
-      York Times Lens Blog</em></a>
-  - content: >-
-      <a
-      href="https://www.nationalgeographic.com/culture/2018/12/christmas-holidays-decorations-photos/"><em>National
-      Geographic</em></a>
-  - content: >-
-      <a href="https://www.instagram.com/p/BdJnG0phEYV/?taken-by=time"><em>Time
-      Magazine</em></a>
-  - content: >-
-      <a
-      href="http://www.npr.org/blogs/pictureshow/2011/12/23/144069529/magic-or-mania-christmas-in-america"><em>NPR
-      Picture Show</em></a>
-  - content: >-
-      <a
-      href="https://kjzz.org/content/740710/photographer-jesse-rieser-documenting-christmas-america"><em>NPR
-      Radio Interview</em></a>
-  - content: >-
-      <a
-      href="https://www.buzzfeed.com/gabrielsanchez/this-is-how-americans-celebrate-christmas?utm_term=.yrA6rOyYD#.gjMJvBdkz"><em>Buzzfeed</em></a>
-  - content: >-
-      <a
-      href="https://www.wired.com/2012/12/jesse-rieser-xmas/"><em>Wired</em></a>
-  - content: >-
-      <a
-      href="https://www.fastcodesign.com/3054874/exposure/a-heartwarming-look-at-how-americans-celebrate-christmas"><em>Fast
-      Company</em></a>
-  - content: <a href="http://esquire.ru/photo/xmas"><em>Esquire Russia</em></a>
-  - content: >-
-      <a
-      href="https://www.theguardian.com/artanddesign/2017/dec/26/my-best-winter-photograph"><em>The
-      Guardian</em></a>
-  - content: >-
-      <a
-      href="http://www.refinery29.com/2015/12/100005/photos-suburbia-christmas-decorations#slide"><em>Refinery29</em></a>
-  - content: >-
-      <a
-      href="https://www.artsy.net/article/artsy-editorial-photographer-jesse-rieser-captures-american-christmas-kitschy-splendor"><em>Artsy</em></a>
-  - content: >-
-      <a
-      href="http://www.itsnicethat.com/articles/jesse-rieser-christmas-in-america"><em>It's
-      Nice That</em></a>
-  - content: >-
-      <a href="https://jesserieser.com/projects/christmas-in-america/"><em>Cool
-      Hunting</em></a>
-  - content: >-
-      <a
-      href="http://museemagazine.com/features/2017/12/15/christmas-in-america-happy-birthday-jesus-by-jesse-rieser"><em>Musee
-      Magazine</em></a>
-  - content: >-
-      <a
-      href="https://www.booooooom.com/2017/12/19/christmas-in-america-by-photographer-jesse-rieser/"><strong><em>BOOOOOOOM</em></strong></a>
-  - content: >-
-      <a
-      href="https://www.booooooom.com/2017/12/28/a-selection-of-my-favourite-images-found-in-2017-64-photos-by-64-photographers/"><em>BOOOOOOOM
-      64 x 64: Best of 2017</em></a>
-  - content: >-
-      <a
-      href="http://hyperallergic.com/263876/merry-kitschmas-a-photographer-documents-christmas-in-suburban-america/"><em>Hyperallergic</em></a>
-  - content: >-
-      <a
-      href="https://homes.yahoo.com/news/photog-turns-holiday-decor-glut-thing-beauty-211500813.html"><em>Yahoo!</em></a>
-  - content: <em>Society Magazine (France)</em>
-  - content: <em>Wings Magazine (Germany)</em>
-  - content: <em>n by Norwegian</em>
-  - content: <em>Geo Magazine (Germany)</em>
-  - content: <em>Chaeg (South Korea)</em>
-  - content: <em>Amtrak the National</em>
-  - content: <em>Dallas Morning News</em>
-  - content: >-
-      <a
-      href="http://la-confidential-magazine.com/the-latest/pursuits/postings/la-photographer-jesse-rieser-christmas-in-america-happy-birthday-jesus"><em>Los
-      Angeles Confidential</em></a>
-  - content: >-
-      <a href="https://themagsantafe.com/jesse-rieser-portfolio/"><em>The
-      Magazine Santa Fe</em></a>
-  - content: >-
-      <a
-      href="http://www.featureshoot.com/2015/12/happy-birthday-jesus-bittersweet-photos-take-a-raw-honest-look-at-christmastime/"><em>Feature
-      Shoot</em></a>
-  - content: <em>PDN Photo of the Day</em>
-  - content: <em>Working Not Working Magazine</em>
-  - content: >-
-      <a
-      href="https://www.mache.digital/series/2017/12/15/christmas-in-america"><em>Mache</em></a>
-  - content: >-
-      <a
-      href="http://www.donttakepictures.com/photo-of-the-day/2018/12/25/jesse-rieser"><em>Don't
-      Take Pictures</em></a>
-  - content: >-
-      <a
-      href="http://www.konbini.com/fr/inspiration-2/en-images-les-bizarreries-de-noel-au-coeur-de-lamerique/"><em>Konbini</em></a>
-  - content: >-
-      <a
-      href="http://us5.campaign-archive2.com/?u=5a6e385eed959142044dc8096&id=d5d52114de"><em>Duncan
-      Miller Gallery "Your Daily Photograph"</em></a>
-  - content: <a href="http://curbed.com/tags/jesse-rieser"><em>Curbed</em></a>
-  - content: >-
-      <a
-      href="http://blog.iso50.com/33088/christmas-in-america-by-jesse-rieser/"><strong><em>Tycho's
-      ISO 50</em></strong></a>
-  - content: <em>Resource Magazine</em>
-  - content: >-
-      <a
-      href="http://lenscratch.com/2011/12/jesse-rieser-3/"><em>Lenscratch</em></a>
-  - content: <em>Finite Foto</em>
-  - content: >-
-      <a
-      href="https://inspirationlab.wordpress.com/2012/10/18/jesse-rieser/"><em>Inspiration
-      Lab</em></a>
-  - content: <em>The Oregonian (Exhibition Review)</em>
-collection_exhibition:
-  - content: >-
-      <p><strong>2022</strong><br /><em>Souvenirs From Paradise. </em>Mountain
-      Shadows Gallery<br />Paradise Valley, AZ. (Solo Show)</p>
-  - content: >-
-      <p><strong>2021</strong><br /><em>Phest Photo Festival &amp; National
-      Geographic: See Beyond the Sea</em><br />Monopoli, Italy (Solo Show)</p>
-  - content: >-
-      <p><strong>2019</strong><br /><em>Mabee-Gerrer Museum of Art</em><br
-      />Shawnee, OK (Solo Show)</p>
-  - content: >-
-      <strong>2018</strong><br>   <em>Industry City</em><br>  Brooklyn, NY (Solo
-      Show)
-  - content: >-
-      <strong>2017 - 2018</strong><br>  </em>Irving Arts Center a Smithsonian
-      Affiliate</em><br> Irving, TX (Solo Show)
-  - content: >-
-      <strong>2017 - 2018</strong><br>   <em>The Fence</em><br> Brooklyn Bridge
-      Park<br>   Brooklyn, NY<br>  
-        <br>
-      Santa Fe Re Railyard Park<br>   Santa Fe, NM<br>  
-        <br>
-      LoDo District<br>   Denver, CO<br>  
-        <br>
-      Atlanta Beltline<br>   Atlanta, GA<br>  
-        <br>
-      Durham City Hall Plaza<br>   Durham, NC<br>  
-        <br>
-      SoWa Southie Plaza<br>   Boston, MA<br>  
-        <br>
-      Fourth Ward<br>  Houston, TX (Group Show)
-  - content: >-
-      <strong>2017</strong><br>   <em>Standard Vision L.A. Live</em><br> Los
-      Angeles, CA (Solo Show)
-  - content: >-
-      <strong>2012</strong><br>   Critical Mass: Love, Anxiety, and
-      Happiness<br>   Northwest Center For Photography.<br>   Seattle, WA<br>
-      <br> Newspace Center For Photography.<br>   Portland, OR<br>
-
-      Raykko Gallery.<br>   San Franciso, CA (Group Show)
-  - content: >-
-      <strong>2011</strong><br>   <em>Newspace Center For Photography</em><br>  
-      Portland, OR. (Solo Show)
-  - content: >-
-      <strong>2011</strong><br>   <em>Camera Club of New York Gallery</em><br>
-      New York, NY (Group Show)
-  - content: >-
-      <strong>2011</strong><br>   <em>Saguaro Hotel Gallery</em><br>  
-      Scottsdale, AZ. (Solo Show)
-  - content: >-
-      <strong>2011</strong><br>   Art Director’s Club Young Guns 9
-      Exhibition<br>   Art Director’s Club Gallery<br>   New York, NY. (Group
-      Show)
-  - content: >-
-      <strong>2011</strong><br>   Art of Photography Juried Exhibition<br>  
-      Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
-      Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
+  &nbsp;Articulating a collective sense of helplessness is challenging, but
+  understanding it is presumably easy as we witness what appears to be a
+  solvable problem escalating into frequent and repetitive disasters with little
+  to no action, yielding a numbness fostered by complacency and grotesque
+  apathy.
+collection_awards: []
+collection_press: []
+collection_exhibition: []
 collection_overview: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
-navigation_theme: white
+navigation_theme: black
 px_extra: true
 row_alignment:
 ---
