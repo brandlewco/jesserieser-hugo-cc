@@ -847,7 +847,9 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition:
-  - content: "<p><strong>2022</strong><br />The Gallery at Mountain Shadows<br />Paradise Valley, AZ (Solo Show)</p><p>\_</p>"
+  - content: >-
+      <p><strong>2022 &amp; 2023</strong><br />The Gallery at Mountain
+      Shadows<br />Paradise Valley, AZ (Solo Show)</p><p>&nbsp;</p>
 collection_overview: false
 collection_archive: false
 collection_hidden: false
