@@ -835,15 +835,32 @@ collection_content: >-
   life—and the fear that it, too, is fleeting. It’s as if the concept of America
   is unsharable. Here, you will find surreal postcards from a fever dream—a
   feeling of familiar uneasiness, as if something is missing or has been plucked
-  out of the frame. Erased.<br><br>As this project nears completion, I have
-  realized these works are less of a social commentary on those navigating their
-  fears and ultimately a projection of my own.<br>Fear of aging and the chapter
-  of my youth fully closed as the passage of time accelerates.<br><br>Fear of
-  new technology and my own obsolescence.<br><br>Fear of our distressed natural
-  world.<br><br>Fear of continual instability, both financially and
-  politically.<br><br>Fear of losing the life I have built, constantly
-  recalculating expectations and promises.<br><br>Maybe it is my America
-  Folklore that is vanishing.
+  out of the frame. Erased.<br><br>
+
+
+  As this project nears completion, I have realized these works are less of a
+  social commentary on those navigating their fears and ultimately a projection
+  of my own.<br>
+
+
+  Fear of aging and the chapter of my youth fully closed as the passage of time
+  accelerates.<br><br>
+
+
+  Fear of new technology and my own obsolescence.<br><br>
+
+
+  Fear of our distressed natural world.<br><br>
+
+
+  Fear of continual instability, both financially and politically.<br><br>
+
+
+  Fear of losing the life I have built, constantly recalculating expectations
+  and promises.<br><br>
+
+
+  Maybe it is my America Folklore that is vanishing.
 collection_awards: []
 collection_press: []
 collection_exhibition:
