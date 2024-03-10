@@ -1,11 +1,6 @@
 ---
 title: Jesse Rieser
-feature_description: >-
-  Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal
-  photographic art works. If you are looking for the full site featuring
-  commissioned projects head over to&nbsp;<a href="https://jesserieser.com/"
-  target="_blank"
-  rel="noopener"><em><strong><u>jesserieser.com</u></strong></em></a>
+feature_description: "Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal photographic art works. If you are looking for the full site featuring commissioned projects head over to\_<a href=\"https://jesserieser.com/\" target=\"_blank\" rel=\"noopener\"><em><strong><u>jesserieser.com</u></strong></em></a>"
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
@@ -22,7 +17,7 @@ content_blocks:
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '40'
     margin_right: '0'
     align_y: start
