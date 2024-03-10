@@ -819,28 +819,31 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-1.jpg
 collection_content: >-
-  This long-term works in progress are the transmissions of a citizen who seems
-  comfortable sitting with the knowledge that he is as excited by his home as he
-  is alarmed by it. The photographs are as much about the American roadside as
-  they are the infinitely flat and delusional digital landscape, a place where
-  reverence is arbitrarily distributed between the meaningful and meaningless
-  components of our world, both existing and extinct.
+  This is the transmission of a citizen who seems comfortable sitting with the
+  knowledge that he is as intrigued by his home as he is alarmed by it. These
+  photographs are as much about the American roadside as they are about the
+  infinitely flat and delusional digital landscape, a place where reverence is
+  arbitrarily distributed between the meaningful and meaningless components of
+  our world, both existing and extinct.
 
 
-  If [***Christmas in
-  America***](https://jesserieser.com/projects/christmas-in-america) is a
-  thematic and a visual exercise in American Maximalism, these images are
-  deceptively nuanced photographs of—and for—an America that has done everything
-  it can to abolish nuance, creating bleached-out stand-ins for the place
-  itself. Here I am using light as a tool and metaphor for the brazenness of
-  current American politics— the lies have gotten bigger, more accepted, and
-  seemingly without consequence. Illuminated for all to see.
-
-
-  It’s hard to ignore the current collective fear of losing one’s version of
-  America—their way of life, the fear that it too is fleeting. It’s as if their
-  concept of America is un-shareable. You will find images of implied loss, or
-  as if something is missing or been plucked out of the frame. Erased.
+  If *Christmas in America* is a thematic and visual exercise in American
+  Maximalism, these images are deceptively nuanced photographs of—and for—an
+  America that has done everything it can to abolish nuance, creating
+  bleached-out stand-ins for the place itself.<br><br>It’s hard to ignore the
+  current collective fear of losing one’s version of America—one's way of
+  life—and the fear that it, too, is fleeting. It’s as if the concept of America
+  is unsharable. Here, you will find surreal postcards from a fever dream—a
+  feeling of familiar uneasiness, as if something is missing or has been plucked
+  out of the frame. Erased.<br><br>As this project nears completion, I have
+  realized these works are less of a social commentary on those navigating their
+  fears and ultimately a projection of my own.<br>Fear of aging and the chapter
+  of my youth fully closed as the passage of time accelerates.<br>Fear of new
+  technology and my own obsolescence.<br>Fear of our distressed natural
+  world.<br>Fear of continual instability, both financially and
+  politically.<br>Fear of losing the life I have built, constantly recalculating
+  expectations and promises.<br>Maybe it is my America Folklore that is
+  vanishing.
 collection_awards: []
 collection_press: []
 collection_exhibition:
