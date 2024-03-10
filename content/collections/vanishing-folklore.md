@@ -830,12 +830,14 @@ collection_content: >-
   If *Christmas in America* is a thematic and visual exercise in American
   Maximalism, these images are deceptively nuanced photographs of—and for—an
   America that has done everything it can to abolish nuance, creating
-  bleached-out stand-ins for the place itself.<br><br>It’s hard to ignore the
-  current collective fear of losing one’s version of America—one's way of
-  life—and the fear that it, too, is fleeting. It’s as if the concept of America
-  is unsharable. Here, you will find surreal postcards from a fever dream—a
-  feeling of familiar uneasiness, as if something is missing or has been plucked
-  out of the frame. Erased.<br><br>
+  bleached-out stand-ins for the place itself.<br><br>
+
+
+  It’s hard to ignore the current collective fear of losing one’s version of
+  America—one's way of life—and the fear that it, too, is fleeting. It’s as if
+  the concept of America is unsharable. Here, you will find surreal postcards
+  from a fever dream—a feeling of familiar uneasiness, as if something is
+  missing or has been plucked out of the frame. Erased.<br><br>
 
 
   As this project nears completion, I have realized these works are less of a
