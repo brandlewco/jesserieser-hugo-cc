@@ -1,17 +1,18 @@
 collection_pager:
+  - collections/vanishing-folklore.md
+  - collections/retail.md
+  - collections/xmas-in-america.md
+  - collections/christmas-in-america-happy-birthday-jesus.md
+  - collections/autobiography.md
   - collections/outdoor-life.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
-  - collections/retail.md
   - collections/time-magazine-clone-test.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
   - collections/golfdigest-nicklaus.md
-  - collections/xmas-in-america.md
-  - collections/vanishing-folklore.md
   - collections/amtrak-southwest-chief.md
   - collections/wired-bitmain.md
-  - collections/gundemic.md
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
@@ -25,7 +26,6 @@ collection_pager:
   - collections/phoenix.md
   - collections/smartwater.md
   - collections/adidas-golf.md
-  - collections/autobiography.md
   - collections/armani-anniversary.md
   - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-2.md
@@ -41,10 +41,8 @@ collection_pager:
   - collections/sounds-of-cement.md
   - collections/collections-ice-t.md
   - collections/popular-mechanics.md
-  - collections/collections-wall-street-journal-robot.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
-  - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 overview_pager:
