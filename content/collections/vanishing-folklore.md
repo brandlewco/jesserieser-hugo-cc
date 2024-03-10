@@ -794,8 +794,8 @@ collection_blocks:
     color: '#c7ebff'
     caption: test caption
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-5.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sfp-15.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sfp-16.jpg
 collection_filter: Personal
 collection_category:
   - Exhibited Works
@@ -852,7 +852,7 @@ collection_overview: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
-navigation_theme: white
+navigation_theme: black
 px_extra: true
 row_alignment: between
 ---
