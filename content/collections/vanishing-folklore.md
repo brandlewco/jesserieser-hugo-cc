@@ -795,7 +795,7 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sfp-15.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sfp-16.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
 collection_filter: Personal
 collection_category:
   - Exhibited Works
