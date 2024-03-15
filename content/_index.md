@@ -1,6 +1,8 @@
 ---
 title: Jesse Rieser
-feature_description: "Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal photographic art works. If you are looking for the full site featuring commissioned projects head over to\_<a href=\"https://jesserieser.com/\" target=\"_blank\" rel=\"noopener\"><em><strong><u>jesserieser.com</u></strong></em></a>"
+feature_description: >-
+  Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal
+  photographic art works.
 text_alignment: center
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
