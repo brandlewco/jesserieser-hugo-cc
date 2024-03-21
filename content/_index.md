@@ -216,7 +216,7 @@ content_blocks:
   - _bookshop_name: home/media-text
     text: '**Early Works:**'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: 8xl
