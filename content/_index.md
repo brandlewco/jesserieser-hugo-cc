@@ -174,7 +174,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title: Guns & Pizza
     meta: 2021 - 2023
-    attached_collection: collections/gundemic.md
+    attached_collection: collections/christmas-in-america-happy-birthday-jesus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
     width: '55'
     margin_y: '100'
