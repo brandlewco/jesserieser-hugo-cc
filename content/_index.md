@@ -14,8 +14,8 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Souvenirs From Paradise
-    meta: 2012 - 2022
+    title: 'American Hypnosis: A Vanishing Folklore'
+    meta: 2012 - 2023
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
