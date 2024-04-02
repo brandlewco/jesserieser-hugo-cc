@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
 title: Guns & Pizza
-collection_meta: 2021 - 2023
-collection_meta_2: ''
+collection_meta: 'The Haunting Specter of Gun Ownership in America '
+collection_meta_2: 2021 - 2023
 collection_description: >-
   Firearms are deeply ingrained in what it means to be American and our history
   of the American West— a history of celebrated individualism paradoxically
