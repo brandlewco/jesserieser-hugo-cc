@@ -990,10 +990,10 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size:
     color: '#c5c458'
-    width: '33'
+    width: '30'
     align_y: start
-    margin_y: '100'
-    margin_left: '20'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff0000'
@@ -1009,7 +1009,7 @@ content_blocks:
     color: '#eed2d2'
     width: '20'
     align_y: start
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '20'
     meta_align: left
@@ -1025,7 +1025,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
     width: '40'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#fdddad'
@@ -1049,7 +1049,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
     width: '33'
     margin_y: '350'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -1072,7 +1072,7 @@ content_blocks:
     width: '20'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: start
     color: '#2d1360'
     caption: ''
