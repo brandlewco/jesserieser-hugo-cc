@@ -1061,14 +1061,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
     block_aspect_ratio: 8-5x11
     text_size:
-    color: '#C5C458'
+    color: '#c5c458'
     width: '33'
     align_y: start
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
-    theme_color: '#FF0000'
+    theme_color: '#ff0000'
     meta: meta
     blog_header:
   - _bookshop_name: home/modal-blog
@@ -1078,14 +1078,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
     block_aspect_ratio: 11x8-5
     text_size:
-    color: '#EED2D2'
+    color: '#eed2d2'
     width: '20'
     align_y: start
     margin_y: '400'
     margin_left: '0'
     margin_right: '20'
     meta_align: left
-    theme_color: '#E5E5EF'
+    theme_color: '#e5e5ef'
     meta: meta
     blog_header:
   - _bookshop_name: home/media-row
@@ -1110,17 +1110,17 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
-    caption: Caption
+    caption: Christmas In America Feature
     attached_blog: posts/new-blog.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
     vimeo_block_cover:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '40'
     align_y: center
     margin_y: '0'
-    margin_left: '0'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
