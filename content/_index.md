@@ -331,7 +331,7 @@ content_blocks:
     vimeo_block_cover:
     block_aspect_ratio: 8-5x11
     text_size: base
-    color: '#ffffff'
+    color: '#c22b30'
     width: '25'
     align_y: center
     margin_y: '0'
