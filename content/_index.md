@@ -849,7 +849,7 @@ content_blocks:
     color: '#fdd3d3'
     caption: ''
     title_margin_y: '60'
-    title_margin_left: '-55'
+    title_margin_left: '-45'
     title_margin_right: '0'
     text_size: 7xl
     text_color: '#74d29e'
@@ -941,10 +941,10 @@ content_blocks:
     meta: 'Visit A New State of Mind '
     attached_collection: collections/arizona-office-of-tourism.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: '55'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#a8f1e1'
     caption: ''
