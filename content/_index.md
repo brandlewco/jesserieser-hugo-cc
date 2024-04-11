@@ -338,7 +338,7 @@ content_blocks:
     margin_left: '30'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
