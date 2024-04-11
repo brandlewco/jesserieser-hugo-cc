@@ -19,7 +19,7 @@ collection_description: >-
   arbitrarily distributed between the meaningful and meaningless components of
   our world, both existing and extinct.
 collection_description_alignment: center
-slug: folklore
+slug: hypnosis
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
