@@ -807,14 +807,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
     block_aspect_ratio: 8-5x11
     text_size: 2xl
-    color: '#DACEEA'
-    width: '20'
+    color: '#daceea'
+    width: '25'
     align_y: start
-    margin_y: '700'
-    margin_left: '5'
+    margin_y: '800'
+    margin_left: '0'
     margin_right: '0'
     meta_align: left
-    theme_color: '#C8B3EB'
+    theme_color: '#c8b3eb'
     meta: meta
   - _bookshop_name: home/media-feature
     title: adidas Golf
@@ -863,9 +863,9 @@ content_blocks:
     meta: '2016'
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
-    width: '45'
+    width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '5'
     align_y: start
     color: '#fdd3d3'
@@ -890,7 +890,7 @@ content_blocks:
     color: '#d8ebee'
     width: '15'
     align_y: start
-    margin_y: '700'
+    margin_y: '1000'
     margin_left: '0'
     margin_right: '15'
     meta_align: left
