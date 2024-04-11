@@ -469,15 +469,15 @@ content_blocks:
     title: Guns & Pizza
     meta: 2021 + 2022
     attached_collection: collections/gundemic.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
-    width: '50'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '35'
     margin_y: '300'
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#faf2ea'
     caption: ''
-    title_margin_y: '60'
+    title_margin_y: '5'
     title_margin_left: '-20'
     title_margin_right: '0'
     text_size: 6xl
