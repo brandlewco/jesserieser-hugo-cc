@@ -837,27 +837,27 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Arizona Tourism
-    meta: 'Visit A New State of Mind '
-    attached_collection: collections/arizona-office-of-tourism.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
+    title: Autobiography of a Contact Sport
+    meta: '2016'
+    attached_collection: collections/autobiography.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
     width: '45'
     margin_y: '100'
     margin_left: '20'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
-    color: '#a8f1e1'
-    caption:
+    color: '#fdd3d3'
+    caption: ''
     title_margin_y: '60'
-    title_margin_left: '-20'
+    title_margin_left: '-55'
     title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#b5fb9f'
-    line_height: none
-    text_alignment:
+    text_size: 7xl
+    text_color: '#74d29e'
+    line_height: normal
+    text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/modal-blog
     title: AP 36
     caption: 'Wired: The Internet Giant That Went Too Far'
@@ -937,27 +937,27 @@ content_blocks:
     theme_color: '#BEE8F6'
     meta: meta
   - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
-    attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
-    width: '55'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
+    title: Arizona Tourism
+    meta: 'Visit A New State of Mind '
+    attached_collection: collections/arizona-office-of-tourism.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: start
-    color: '#fdd3d3'
-    caption:
+    color: '#a8f1e1'
+    caption: ''
     title_margin_y: '60'
-    title_margin_left: '-55'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#74d29e'
-    line_height: normal
-    text_alignment: left
+    text_size: 6xl
+    text_color: '#b5fb9f'
+    line_height: none
+    text_alignment:
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -1000,14 +1000,14 @@ content_blocks:
     title: ESPN
     meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
     width: '40'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#fdddad'
-    caption:
+    caption: ''
     title_margin_y: '20'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -1022,7 +1022,7 @@ content_blocks:
     title: 'Smithsonian '
     meta: 'Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
     width: '45'
     margin_y: '400'
     margin_left: '0'
