@@ -323,6 +323,22 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: center
+    margin_y: '0'
+    margin_left: '30'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -447,54 +463,10 @@ content_blocks:
     align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
-    attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#fdddad'
-    caption:
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f39696'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a1c7f7'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b1d7f7'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Gunsmoke, Mythology, and the American Gundemic
+    title: Guns & Pizza
     meta: 2021 + 2022
     attached_collection: collections/gundemic.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
@@ -503,13 +475,13 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     align_y: start
-    color: '#FAF2EA'
-    caption:
+    color: '#faf2ea'
+    caption: ''
     title_margin_y: '60'
     title_margin_left: '-20'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#7B9DF6'
+    text_color: '#7b9df6'
     line_height: normal
     text_alignment: left
     text_tracking: normal
@@ -781,39 +753,17 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Smart Water
-    meta: Ben Simmons for Anomaly
-    attached_collection: collections/smartwater.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#DDE2F1'
-    caption:
-    title_margin_y: '20'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#FB504B'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
     title: V
     meta: Armani 50th Anniversary Featuring Deandre Hopkins
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
     color: '#c1eee7'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '10'
     title_margin_right: '0'
@@ -882,50 +832,6 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: 'Cameron Young Cover Story '
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#c5f6fb'
-    caption:
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f7b983'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
-    attached_collection: collections/espn-cowboy-cerronne.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '20'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#2d1360'
-    caption:
-    title_margin_y: '-10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#faabab'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -1090,6 +996,98 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
+    attached_collection: collections/phoenix-open-espn.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#fdddad'
+    caption:
+    title_margin_y: '20'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f39696'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title: 'Smithsonian '
+    meta: 'Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#a1c7f7'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#b1d7f7'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: Golf Digest
+    meta: 'Cameron Young Cover Story '
+    attached_collection: collections/golf-digest-cam-young.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
+    width: '33'
+    margin_y: '350'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#c5f6fb'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f7b983'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
+    attached_collection: collections/espn-cowboy-cerronne.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#2d1360'
+    caption: ''
+    title_margin_y: '-10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#faabab'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Collection Title
     caption: Caption
@@ -1108,22 +1106,6 @@ content_blocks:
     theme_color: '#fab4b4'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '40'
-    align_y: center
-    margin_y: '0'
-    margin_left: '35'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#000000'
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''
