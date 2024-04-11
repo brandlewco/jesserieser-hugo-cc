@@ -581,13 +581,13 @@ content_blocks:
     meta: 'On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    width: '60'
+    width: '55'
     margin_y: '300'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d8c0ed'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -616,6 +616,28 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Smithsonian '
+    meta: 'Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '5'
+    align_y: start
+    color: '#a1c7f7'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#b1d7f7'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -714,6 +736,8 @@ content_blocks:
     meta_align: left
     theme_color: '#CCAAF8'
     meta: meta
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -830,8 +854,6 @@ content_blocks:
     meta_align: left
     theme_color: '#ffdaa3'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -1018,28 +1040,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a1c7f7'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b1d7f7'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
