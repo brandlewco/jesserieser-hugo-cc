@@ -48,6 +48,7 @@ blog_content: >-
 
   Magazine spreads bellow.
 date:
-news_category: Press
+news_category:
+  - Press
 theme_color: '#c02a2f'
 ---
