@@ -38,6 +38,5 @@ blog_content:
 date: 
 news_category:
   - Press
-  - Exhibitions
 theme_color: 
 ---

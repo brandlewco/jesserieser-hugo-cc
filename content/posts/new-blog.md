@@ -38,7 +38,7 @@ attached_link:
 block_aspect_ratio: 9x16
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
 blog_header: 'Christmas In America: Happy Birthday, Jesus'
-caption: '*Joy to the World*'
+caption: 'Joy to the World'
 blog_content: >-
   <a target="_blank" rel="noopener"
   href="https://jesserieser.com/collections/christmas-in-america/"><em>Christmas
