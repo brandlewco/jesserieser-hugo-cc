@@ -870,11 +870,11 @@ content_blocks:
     align_y: start
     color: '#fdd3d3'
     caption: ''
-    title_margin_y: '60'
-    title_margin_left: '-45'
+    title_margin_y: '10'
+    title_margin_left: '-15'
     title_margin_right: '0'
     text_size: 7xl
-    text_color: '#74d29e'
+    text_color: '#d27474'
     line_height: normal
     text_alignment: left
     text_tracking: normal
