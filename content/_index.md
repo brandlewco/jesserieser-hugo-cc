@@ -140,6 +140,24 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Collection Title
+    caption: Caption
+    attached_blog: posts/tmc.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 9x16
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#efeae0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title: The Changing Landscape of American Retail
     meta: 2015 - 2022
@@ -461,8 +479,6 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     align_x: start
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -1088,22 +1104,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Collection Title
-    caption: Caption
-    attached_blog: posts/tmc.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 9x16
-    text_size: base
-    color: '#ffffff'
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#fab4b4'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
