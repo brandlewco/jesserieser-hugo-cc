@@ -18,7 +18,7 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Outdoor Life '
+    title:
     meta: A Son's First Solo Hunt
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
@@ -28,7 +28,7 @@ content_blocks:
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '-15'
     title_margin_right: '0'
@@ -76,7 +76,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Antoine's Escalaras
+    title:
     meta: Communications Arts Photo Annual
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
@@ -86,7 +86,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
-    caption:
+    caption: ''
     title_margin_y: '50'
     title_margin_left: '-25'
     title_margin_right: '0'
@@ -117,8 +117,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'Devin Booker: Becoming Legendary Cover Story'
+    title:
+    meta: 'ESPN: Devin Booker: Becoming Legendary Cover Story'
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '50'
@@ -127,7 +127,7 @@ content_blocks:
     margin_right: '5'
     align_y: start
     color: '#d4dee6'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -141,8 +141,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Collection Title
-    caption: Caption
+    title: Play List Launch
+    caption: Curated music for TMC
     attached_blog: posts/tmc.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
     vimeo_block_cover:
@@ -159,7 +159,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Changing Landscape of American Retail
+    title:
     meta: 2015 - 2022
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
@@ -169,7 +169,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -183,8 +183,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: All The Rage
+    title:
+    meta: Golf Digest All The Rage
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
@@ -248,8 +248,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Barron's
-    meta: Beyond the Drought Cover Story
+    title:
+    meta: Barron's Beyond the Drought Cover Story
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
     width: '60'
@@ -258,7 +258,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '10'
     title_margin_right: '0'
@@ -272,8 +272,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Bloomberg
-    meta: America's New Climate Nomads Embrace Van Life to Save Energy
+    title:
+    meta: Bloomberg America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
     width: '45'
@@ -282,7 +282,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#d6bfe9'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -294,8 +294,8 @@ content_blocks:
     font_weight: semibold
     meta_align: left
   - _bookshop_name: home/media-feature
-    title: 'Time '
-    meta: 'Kari Lake: Face of the New Maga Right'
+    title:
+    meta: 'Time: Kari Lake: Face of the New Maga Right'
     attached_collection: collections/time-kari-lake.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     width: '33'
@@ -304,7 +304,7 @@ content_blocks:
     margin_right: '5'
     align_y: start
     color: '#cdf0d6'
-    caption:
+    caption: ''
     title_margin_y: '25'
     title_margin_left: '65'
     title_margin_right: '0'
@@ -318,8 +318,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Wired '
-    meta: 'A Wrinkle In Time '
+    title:
+    meta: 'Wired :A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
     width: '45'
@@ -377,8 +377,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: Adobe
-    meta: Torpedo London
+    title:
+    meta: 'Adobe: Torpedo London'
     attached_collection: collections/phoenix.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
     width: '40'
@@ -387,7 +387,7 @@ content_blocks:
     margin_right: '15'
     align_y: start
     color: '#d0f4f2'
-    caption:
+    caption: ''
     title_margin_y: '30'
     title_margin_left: '60'
     title_margin_right: '0'
@@ -401,7 +401,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Souvenirs From Paradise
+    title:
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
@@ -496,12 +496,12 @@ content_blocks:
     title_margin_y: '5'
     title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#7b9df6'
+    text_size: 4xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
+    font_weight: hairline
     meta_align: left
   - _bookshop_name: home/media-feature
     title: Wired
