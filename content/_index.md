@@ -141,8 +141,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Play List Launch
-    caption: Curated music for TMC
+    title: Play List Launch Event
+    caption: Curated Music for The McKinley Club
     attached_blog: posts/tmc.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
     vimeo_block_cover:
