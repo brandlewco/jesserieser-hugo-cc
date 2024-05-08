@@ -141,8 +141,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'ESPN: Devin Booker: Becoming Legendary Cover Story'
+    title: ESPN
+    meta: 'Devin Booker: Becoming Legendary Cover Story'
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
@@ -189,7 +189,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
+    title: The Changing Landscape of American Retail
     meta: 2015 - 2022
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
