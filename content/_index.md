@@ -423,7 +423,7 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: 'Adobe: '
+    title: Adobe
     meta: Torpedo London
     attached_collection: collections/phoenix.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
