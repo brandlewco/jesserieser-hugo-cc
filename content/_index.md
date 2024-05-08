@@ -214,7 +214,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: Golf Digest
-    meta: Golf Digest All The Rage
+    meta: All The Rage
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
@@ -340,8 +340,8 @@ content_blocks:
     font_weight: semibold
     meta_align: left
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Time: Kari Lake: Face of the New Maga Right'
+    title: Time
+    meta: 'Kari Lake: Face of the New Maga Right'
     attached_collection: collections/time-kari-lake.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
     width: '25'
