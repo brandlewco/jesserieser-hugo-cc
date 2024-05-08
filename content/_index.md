@@ -364,8 +364,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Wired :A Wrinkle In Time '
+    title: 'Wired '
+    meta: 'A Wrinkle In Time '
     attached_collection: collections/time-magazine-clone-test.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
     width: '45'
@@ -423,8 +423,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Adobe: Torpedo London'
+    title: 'Adobe: '
+    meta: Torpedo London
     attached_collection: collections/phoenix.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
     width: '33'
