@@ -494,61 +494,17 @@ content_blocks:
     color: '#faf2ea'
     caption: ''
     title_margin_y: '5'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: Wired
-    meta: I Am Not a Soldier but I Have Been Trained to Kill
-    attached_collection: collections/wired-gunsite.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#d9f4c3'
-    caption:
-    title_margin_y: '25'
-    title_margin_left: '5'
+    title_margin_left: '-30'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#ffb8fe'
+    text_color: '#9edfbc'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
-    meta_align: right
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'People '
-    meta: 'Uvalde Mass Shooting: One Year Later'
-    attached_collection: collections/people.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: center
-    color: '#c3d6eb'
-    caption:
-    title_margin_y: '10'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#fbb46a'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
