@@ -318,8 +318,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: Bloomberg America's New Climate Nomads Embrace Van Life to Save Energy
+    title: Bloomberg
+    meta: America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
     width: '40'
