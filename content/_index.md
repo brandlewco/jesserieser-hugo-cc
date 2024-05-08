@@ -42,7 +42,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: American Hynosis
+    title: American Hypnosis
     meta: 2012 - 2022
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
