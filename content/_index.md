@@ -484,7 +484,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title: Guns & Pizza
     meta: 2021 + 2022
-    attached_collection: collections/gundemic.md
+    attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '35'
     margin_y: '300'
