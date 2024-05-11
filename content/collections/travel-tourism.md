@@ -21,8 +21,8 @@ collection_blocks:
     align_y:
     color: '#edeff2'
     caption: >-
-      [**Deflation.**](https://jesserieser.com/collections/aot/) *Tempe, AZ.
-      2016 Residence*
+      <a href="https://jesserieser.com/collections/aot/" target="_blank"
+      rel="noopener"><strong>Deflation.</strong></a> *Tempe, AZ. 2016 Residence*
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
