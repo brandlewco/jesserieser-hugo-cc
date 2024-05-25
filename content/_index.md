@@ -18,17 +18,17 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Outdoor Life '
+    title: Outdoor Life
     meta: A Son's First Solo Hunt
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
-    width: '40'
+    width: '35'
     margin_y: '0'
-    margin_left: '35'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '-15'
     title_margin_right: '0'
@@ -38,6 +38,30 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: bold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: American Hypnosis
+    meta: 2012 - 2022
+    attached_collection: collections/vanishing-folklore-2.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '40'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#ff3939'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -48,7 +72,7 @@ content_blocks:
     align_y: start
     width: '33'
     margin_y: '200'
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -68,7 +92,7 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '30'
     meta_align: left
     theme_color: '#ffd2d2'
     meta: Awards
@@ -76,17 +100,17 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Antoine's Escalaras
+    title: 'Antoine''s Escalaras '
     meta: Communications Arts Photo Annual
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '60'
+    width: '50'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
-    caption:
+    caption: ''
     title_margin_y: '50'
     title_margin_left: '-25'
     title_margin_right: '0'
@@ -110,7 +134,7 @@ content_blocks:
     width: '25'
     align_y: start
     margin_y: '50'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#fabdc2'
@@ -121,13 +145,13 @@ content_blocks:
     meta: 'Devin Booker: Becoming Legendary Cover Story'
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    width: '50'
-    margin_y: '300'
+    width: '45'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: start
     color: '#d4dee6'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -141,17 +165,41 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
+    title: Guns & Pizza
+    meta: 2021 + 2022
+    attached_collection: collections/guns-pizza.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
     title: The Changing Landscape of American Retail
     meta: 2015 - 2022
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
-    width: '60'
+    width: '55'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -165,22 +213,22 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Wired '
-    meta: 'A Wrinkle In Time '
-    attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    title: Golf Digest
+    meta: All The Rage
+    attached_collection: collections/fights.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#cd98d4'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: 6xl
-    text_color: '#91dacd'
+    text_color: '#afd0f5'
     line_height: normal
     text_alignment: center
     text_tracking: normal
@@ -210,13 +258,13 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-2.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#c1e6ac'
-    caption:
+    caption: ''
     title_margin_y: '0'
     title_margin_left: '0'
     title_margin_right: '0'
@@ -227,6 +275,22 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: Play List Launch Event
+    caption: Curated Music for The McKinley Club
+    attached_blog: posts/tmc.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 9x16
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '10'
+    meta_align: left
+    theme_color: '#efeae0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -234,13 +298,13 @@ content_blocks:
     meta: Beyond the Drought Cover Story
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
-    width: '60'
+    width: '50'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '10'
     title_margin_right: '0'
@@ -258,13 +322,13 @@ content_blocks:
     meta: America's New Climate Nomads Embrace Van Life to Save Energy
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d6bfe9'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -276,17 +340,17 @@ content_blocks:
     font_weight: semibold
     meta_align: left
   - _bookshop_name: home/media-feature
-    title: 'Time '
+    title: Time
     meta: 'Kari Lake: Face of the New Maga Right'
     attached_collection: collections/time-kari-lake.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
-    width: '33'
-    margin_y: '300'
+    width: '25'
+    margin_y: '450'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: start
     color: '#cdf0d6'
-    caption:
+    caption: ''
     title_margin_y: '25'
     title_margin_left: '65'
     title_margin_right: '0'
@@ -299,8 +363,46 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Wired '
+    meta: 'A Wrinkle In Time '
+    attached_collection: collections/time-magazine-clone-test.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: center
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#91dacd'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '25'
+    align_y: center
+    margin_y: '0'
+    margin_left: '25'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -314,7 +416,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '300'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#f8d9d9'
@@ -325,13 +427,13 @@ content_blocks:
     meta: Torpedo London
     attached_collection: collections/phoenix.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '40'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '25'
     align_y: start
     color: '#d0f4f2'
-    caption:
+    caption: ''
     title_margin_y: '30'
     title_margin_left: '60'
     title_margin_right: '0'
@@ -344,44 +446,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Souvenirs From Paradise
-    meta: 2012 - 2022
-    attached_collection: collections/vanishing-folklore.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '40'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#ff3939'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: Fresh
-    caption: The Changing Landscape of American Retail September 9 - October 10
-    attached_blog: posts/klompching-gallery-fresh.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-    block_aspect_ratio: 1x1
-    text_size: base
-    color: '#DFEFC2'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#D8F1AE'
-    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -394,24 +458,40 @@ content_blocks:
     color: '#ff4b4b'
     width: '25'
     align_y: start
-    margin_y: '100'
-    margin_left: '5'
+    margin_y: '300'
+    margin_left: '30'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
+    meta: meta
+  - _bookshop_name: home/modal-blog
+    title: Fresh
+    caption: The Changing Landscape of American Retail September 9 - October 10
+    attached_blog: posts/klompching-gallery-fresh.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+    block_aspect_ratio: 1x1
+    text_size: base
+    color: '#dfefc2'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#d8f1ae'
     meta: meta
   - _bookshop_name: home/media-feature
     title: Christmas in America
     meta: 2010 - 2022
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '55'
-    margin_y: '400'
-    margin_left: '0'
+    width: '50'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '10'
     align_y:
     color: '#f4c8c8'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right:
@@ -421,124 +501,12 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
     align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
-    attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#fdddad'
-    caption:
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f39696'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a1c7f7'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b1d7f7'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Gunsmoke, Mythology, and the American Gundemic
-    meta: 2021 + 2022
-    attached_collection: collections/gundemic.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
-    width: '50'
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#FAF2EA'
-    caption:
-    title_margin_y: '60'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#7B9DF6'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: Wired
-    meta: I Am Not a Soldier but I Have Been Trained to Kill
-    attached_collection: collections/wired-gunsite.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-gunsite-23.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#d9f4c3'
-    caption:
-    title_margin_y: '25'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#ffb8fe'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'People '
-    meta: 'Uvalde Mass Shooting: One Year Later'
-    attached_collection: collections/people.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: center
-    color: '#c3d6eb'
-    caption:
-    title_margin_y: '10'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#fbb46a'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -549,10 +517,10 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size:
     color: '#ffe7c3'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '50'
-    margin_left: '0'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#d9f8f4'
@@ -563,13 +531,13 @@ content_blocks:
     meta: Summoning the Ghost Town
     attached_collection: collections/vox-100-battles-ghost-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
-    width: '50'
+    width: '45'
     margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y: start
     color: '#f8e4d0'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -587,13 +555,13 @@ content_blocks:
     meta: 'On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    width: '60'
+    width: '55'
     margin_y: '300'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d8c0ed'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -622,6 +590,28 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: 'Smithsonian '
+    meta: 'Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '5'
+    align_y: start
+    color: '#a1c7f7'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#b1d7f7'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -722,6 +712,8 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: AP 37
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -759,39 +751,17 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Smart Water
-    meta: Ben Simmons for Anomaly
-    attached_collection: collections/smartwater.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#DDE2F1'
-    caption:
-    title_margin_y: '20'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#FB504B'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
     title: V
     meta: Armani 50th Anniversary Featuring Deandre Hopkins
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
     color: '#c1eee7'
-    caption:
+    caption: ''
     title_margin_y: '10'
     title_margin_left: '10'
     title_margin_right: '0'
@@ -811,14 +781,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
     block_aspect_ratio: 8-5x11
     text_size: 2xl
-    color: '#DACEEA'
-    width: '20'
+    color: '#daceea'
+    width: '25'
     align_y: start
-    margin_y: '700'
-    margin_left: '5'
+    margin_y: '800'
+    margin_left: '0'
     margin_right: '0'
     meta_align: left
-    theme_color: '#C8B3EB'
+    theme_color: '#c8b3eb'
     meta: meta
   - _bookshop_name: home/media-feature
     title: adidas Golf
@@ -860,76 +830,30 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: 'Cameron Young Cover Story '
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
-    width: '33'
+    title: Autobiography of a Contact Sport
+    meta: '2016'
+    attached_collection: collections/autobiography.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '10'
+    margin_right: '5'
     align_y: start
-    color: '#c5f6fb'
-    caption:
+    color: '#fdd3d3'
+    caption: ''
     title_margin_y: '10'
-    title_margin_left: '5'
+    title_margin_left: '-15'
     title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f7b983'
+    text_size: 7xl
+    text_color: '#d27474'
     line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
-    attached_collection: collections/espn-cowboy-cerronne.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '20'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#2d1360'
-    caption:
-    title_margin_y: '-10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#faabab'
-    line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Arizona Tourism
-    meta: 'Visit A New State of Mind '
-    attached_collection: collections/arizona-office-of-tourism.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#a8f1e1'
-    caption:
-    title_margin_y: '60'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#b5fb9f'
-    line_height: none
-    text_alignment:
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: AP 36
     caption: 'Wired: The Internet Giant That Went Too Far'
@@ -940,7 +864,7 @@ content_blocks:
     color: '#d8ebee'
     width: '15'
     align_y: start
-    margin_y: '700'
+    margin_y: '1000'
     margin_left: '0'
     margin_right: '15'
     meta_align: left
@@ -1009,27 +933,27 @@ content_blocks:
     theme_color: '#BEE8F6'
     meta: meta
   - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
-    attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+    title: Arizona Tourism
+    meta: 'Visit A New State of Mind '
+    attached_collection: collections/arizona-office-of-tourism.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     width: '55'
     margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
-    color: '#fdd3d3'
-    caption:
+    color: '#a8f1e1'
+    caption: ''
     title_margin_y: '60'
-    title_margin_left: '-55'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#74d29e'
-    line_height: normal
-    text_alignment: left
+    text_size: 6xl
+    text_color: '#b5fb9f'
+    line_height: none
+    text_alignment:
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -1039,14 +963,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
     block_aspect_ratio: 8-5x11
     text_size:
-    color: '#C5C458'
-    width: '33'
+    color: '#c5c458'
+    width: '30'
     align_y: start
-    margin_y: '100'
-    margin_left: '20'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
-    theme_color: '#FF0000'
+    theme_color: '#ff0000'
     meta: meta
     blog_header:
   - _bookshop_name: home/modal-blog
@@ -1056,16 +980,88 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
     block_aspect_ratio: 11x8-5
     text_size:
-    color: '#EED2D2'
+    color: '#eed2d2'
     width: '20'
     align_y: start
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '20'
     meta_align: left
-    theme_color: '#E5E5EF'
+    theme_color: '#e5e5ef'
     meta: meta
     blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
+    attached_collection: collections/phoenix-open-espn.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#fdddad'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f39696'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title: Golf Digest
+    meta: 'Cameron Young Cover Story '
+    attached_collection: collections/golf-digest-cam-young.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
+    width: '33'
+    margin_y: '350'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#c5f6fb'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f7b983'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title: ESPN
+    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
+    attached_collection: collections/espn-cowboy-cerronne.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#2d1360'
+    caption: ''
+    title_margin_y: '-10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#faabab'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row-end
 collection_description: A student of subtleties.
 collection_content: ''

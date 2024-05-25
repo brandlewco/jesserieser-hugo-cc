@@ -9,9 +9,9 @@ collection_sorter:
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
-  - collections/time-magazine-clone-test.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
+  - collections/fights.md
   - collections/golfdigest-nicklaus.md
   - collections/xmas-in-america.md
   - collections/vanishing-folklore.md
@@ -21,6 +21,7 @@ collection_sorter:
   - collections/wired-gunsite.md
   - collections/people.md
   - collections/time-kari-lake.md
+  - collections/time-magazine-clone-test.md
   - collections/smithsonian.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/arizona-office-of-tourism.md

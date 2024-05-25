@@ -37,5 +37,6 @@ caption: New Blog Caption
 blog_content:
 date: 
 news_category:
+  - Press
 theme_color: 
 ---

@@ -95,7 +95,7 @@ collection_blocks:
     margin_y: '900'
     margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#f6e6dd'
     caption: test caption
   - _bookshop_name: collections/media-element
@@ -104,7 +104,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#f5f1ee'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -132,10 +132,10 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-12.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '700'
     margin_left: '25'
     margin_right:
-    align_y: center
+    align_y: start
     color: '#cf7861'
     caption: test caption
   - _bookshop_name: collections/media-element
@@ -144,7 +144,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right:
-    align_y: center
+    align_y: start
     color: '#caaead'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -206,7 +206,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '15'
-    align_y: center
+    align_y: start
     color: '#e0eae9'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -253,15 +253,6 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-24.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right:
-    align_y: center
-    color: '#d5b1a6'
-    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -279,11 +270,11 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
-    width: '33'
+    width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#faf4ea'
     caption: test caption
   - _bookshop_name: collections/media-element
@@ -291,7 +282,7 @@ collection_blocks:
     width: '33'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: center
     color: '#ebe3eb'
     caption: test caption
