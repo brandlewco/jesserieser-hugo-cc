@@ -692,7 +692,7 @@ footer a {
   min-height: 400px;
 }
 
-#filter-archive::after {
+/* #filter-archive::after {
   position: absolute;
   background: #000;
   content: "";
@@ -704,7 +704,7 @@ footer a {
   right:0;
   overflow: visible;
   z-index: -1;
-}
+} */
 
 
 .spin {

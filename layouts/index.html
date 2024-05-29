@@ -1,20 +1,25 @@
 {{- define "main" -}}
-<section data-hue="{{with .Params.navigation_theme}}{{.}}{{else}}white{{end}}" class="relative z-0">
-  {{ partial "feature_header" . }}
-</section>
-<section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-hidden"style="backface-visibility: hidden;">
-    <div class="px-4 xl:px-16">
-      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
-      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
-    </div>
-</section>
-{{ partial "feature_footer" .}}
-
-<article id="popup-modal-url" class="popup-modal block fixed z-100 text-black bg-white inset-0 editor-hidden overflow-y-scroll h-full w-full flex flex-col justify-start" style="visibility: hidden; opacity: 0;" role="dialog" aria-modal="true">
-
-</article>
-
+    <section data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}" class="relative z-0">
+        {{ partial "collection_header" .}}
+    </section>
+    <section data-hue="page" class="mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
+        <div class="my-gallery {{ if .Params.collection_overview }}overview-gallery{{end}} px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
+                {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+                {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+        </div>
+        <!-- Conditional Partial Based on .Params.collection_overview -->
+        {{ if .Params.collection_overview }}
+            {{ partial "overview_pager" .}}
+        {{ else }}
+            {{ partial "collection_pager" .}}
+        {{ end }}
+    </section>
+    <section class="mx-auto relative z-100 overflow-y-hidden" data-hue="white">
+        {{ partial "collection_footer" .}}
+    </section>
+    {{ partial "gallery" . }}
 {{- end -}}
+
 {{- define "attached" -}}
 
 <script>
@@ -66,4 +71,5 @@
     featureFooter.style.backgroundColor = imgURL[1];
   }());
 </script>
+
 {{- end -}}
