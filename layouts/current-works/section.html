@@ -40,28 +40,28 @@
 
     var color = imgURL[1]; // This is the theme color from your array
 
-    projectHeader.style.backgroundColor = imgURL[1];
-    projectDescription.style.backgroundColor = imgURL[1];
+    // projectHeader.style.backgroundColor = imgURL[1];
+    // projectDescription.style.backgroundColor = imgURL[1];
   // Create a <style> element
     var style = document.createElement('style');
   style.type = 'text/css';
 
   // Add CSS rule for .bun
-  if (color) {
-    style.innerHTML = `.bun { background-color: ${color}; }`;
-  } else {
-    style.innerHTML = `.bun { background-color: initial; }`;
-  }
+  // if (color) {
+  //   style.innerHTML = `.bun { background-color: ${color}; }`;
+  // } else {
+  //   style.innerHTML = `.bun { background-color: initial; }`;
+  // }
 
   // Append the style element to the head of the document
   document.head.appendChild(style);
     
-    if (navigationContainer) {
-      // Set the color for text and the fill for SVG elements
-      navigationContainer.style.color = color;
-      navigationContainer.style.fill = color;
+    // if (navigationContainer) {
+    //   // Set the color for text and the fill for SVG elements
+    //   navigationContainer.style.color = color;
+    //   navigationContainer.style.fill = color;
       
-    }
+    // }
     featurePicture.innerHTML = imgURL[0] + featurePicture.innerHTML;
     featureFooter.style.backgroundColor = imgURL[1];
   }());
