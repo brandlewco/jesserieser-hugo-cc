@@ -1,5 +1,5 @@
 ---
-title: Jesse Rieser
+title: Jesse Rieser Current Works
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
@@ -8,6 +8,7 @@ feature_description: >-
   For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
 text_alignment: center
+slug: current-works
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
   meta_description: >-
