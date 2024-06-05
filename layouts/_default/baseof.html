@@ -40,7 +40,7 @@
 
     {{- $jsBundle := resources.Get "js/index.js" | js.Build $options | fingerprint -}}
 		<script src="{{ $jsBundle.RelPermalink }}" integrity="{{ $jsBundle.Data.Integrity }}" defer></script>
-    <link rel="stylesheet" href="https://use.typekit.net/khw0qei.css">
+    <!-- <link rel="stylesheet" href="https://use.typekit.net/khw0qei.css"> -->
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
