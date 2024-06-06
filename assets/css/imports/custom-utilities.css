@@ -212,7 +212,7 @@ svg.hover:hover path {
 }
 
 #project-header #header-image {
-  transition: opacity 0.33s ease-in-out 4s;
+  transition: opacity 0.33s ease-in-out;
 }
 
 #header-pointer {

@@ -6,38 +6,25 @@
             <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
                 <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(max-width: 2560px)" />
             <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
-                <div id="header-loading" class="text-center font-semibold absolute inset-x-0 bottom-0 z-50 text-4xl">
-                    <i class="far fa-spinner-third fa-spin text-{{.Params.navigation_theme}}"></i>
-                </div>
                 <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10 opacity-0">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="50" height="50" viewbox="0 0 256 150">
                     <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill:{{.Params.navigation_theme}} ;" class="arrow-down" />
                     </svg>
                 </div>
         </picture>
-    <div id="page-title" class="fixed z-50 max-w-5xl margin-0 left-0 right-0 px-4 lg:px-64 font-light text-left lazyload" style="top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
-        <h1 data-cms-bind="#title" class="text-xl tracking-widest leading-tight uppercase" data-sal="slide-down" data-sal-delay="1000">
+    <div id="page-title" class="fixed z-50 max-w-6xl margin-0 left-0 right-0 px-4 lg:px-64 font-light text-left lazyload" style="top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
+        <h1 data-cms-bind="#title" class="text-xl tracking-widest leading-tight uppercase" data-sal="slide-down" data-sal-delay="1200">
           {{.Title}}
         </h1>
-        <div class="flex flex-wrap justify-start align-middle items-center mt-4 pt-2 border-solid border-white border-t-2" style="width: fit-content;">        
-            <h2 data-cms-bind="#collection_meta" class="text-xl font-medium tracking-widest uppercase w-1/3" data-sal="slide-down" data-sal-delay="1500">{{.Params.collection_meta}}</h2>
-            {{with .Params.collection_meta_2}}
-                <h3 data-cms-bind="#collection_meta_2" class="text-base font-medium italic tracking-widest leading-tight text-right w-2/3" data-sal="slide-down" data-sal-delay="1500">{{.}}
-                </h3>
-            {{end}}
-            <div class="w-1/3"></div>
-            <p class="w-2/3 self-end text-right mt-4" data-sal="slide-down" data-sal-delay="2000">{{ .Params.collection_description | markdownify }}</p>
+        <div class="w-ful bg-black my-4" data-sal="loading" style="height: 1px; animation-duration: 2s; transition-duration: 2s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
+        <div class="flex flex-wrap justify-start align-middle items-center pt-2" style="width: fit-content;">        
+            <h2 data-cms-bind="#collection_meta" class="text-xl font-medium tracking-widest uppercase {{if .Params.collection_meta_2}}w-1/3{{else}}w-full{{end}}" data-sal="slide-down" data-sal-delay="1500">{{ .Params.collection_meta }}</h2>
+            {{ with .Params.collection_meta_2 }}
+                <h3 data-cms-bind="#collection_meta_2" class="text-base font-medium italic tracking-widest leading-tight text-right w-2/3" data-sal="slide-down" data-sal-delay="1700">{{ . }}</h3>
+            {{ end }}
+            <!-- <div class="w-1/3"></div>
+            <div id="page-description" class="w-2/3 self-end text-left mt-4 transition-opacity duration-300 opacity-0">{{ .Params.collection_description | markdownify }}</div> -->
         </div>
     </div>
 </header>
-<article id="project-description" class="w-full py-8 px-4 sm:px-32 lg:px-64 text-sm sm:text-lg text-black items-center leading-tight relative z-100" style="backface-visibility: hidden; {{with .Params.collection_description}}{{else}}display: none;{{end}}">
-    <div class="flex flex-col justify-center mx-auto {{if (eq .Params.px_extra true) }}xl:px-40{{else}}{{end}} text-left {{with .Params.collection_description_alignment}}md:text-{{.}}{{end}}" data-sal="slide-up" data-sal-delay="100">
-    <p>
-        {{ .Params.collection_description | markdownify }}
-    </p>
-    {{if (eq .Params.hide_footer true) }}
-    {{else}}
-    <div><a href="#project-brief" class="block text-left {{with .Params.collection_description_alignment}}md:text-{{.}}{{end}} text-{{.Params.navigation_theme}} font-bold" data-no-swup>Read more.</a></div>
-    {{end}}
-    </div>
-</article>
+
