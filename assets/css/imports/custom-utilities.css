@@ -157,11 +157,32 @@ html.is-animating .transition-nav {
     color: #000 !important;
   }
 
+  #navigation a {
+  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out,
+  }
+
   .hue-header.white .shift.nav-ig {
     fill: #fff;
   }
 
+.initial-black {
+  color: #000000 !important;
+  fill: #000000 !important;
+  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out;
+}
 
+.initial-black-bg {
+  background-color: #000000 !important;
+  transition: background-color 0.33s ease-in-out;
+}
+
+  /* #navigation  a {
+    transition: 0.33s all ease-in-out 3s;
+  }
+
+  #navigation  a.lazyload {
+    color: #000 !important;
+  } */
 
 svg.hover:hover path {
   stroke-width: 15;
@@ -212,7 +233,7 @@ svg.hover:hover path {
 }
 
 #project-header #header-image {
-  transition: opacity 0.33s ease-in-out;
+  transition: opacity 0.33s ease-in-out 2s;
 }
 
 #header-pointer {

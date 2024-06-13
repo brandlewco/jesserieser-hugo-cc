@@ -93,6 +93,25 @@ function init() {
   };
   setUp();
 
+  setTimeout(function() {
+    document.querySelectorAll('.initial-black').forEach(function (element) {
+      element.classList.remove('initial-black');
+    });
+  }, 3000);
+
+  setTimeout(function() {
+    document.querySelectorAll('.initial-black-bg').forEach(function (element) {
+      element.classList.remove('initial-black-bg');
+    });
+  }, 3000);
+// JavaScript
+setTimeout(function() {
+  document.querySelectorAll('#page-title h1, #page-title h2, #page-title  h3, #page-title .loading, #project-header #header-image').forEach(function (element) {
+    element.style.transitionDelay = '0s';
+    element.style.transitionDuration = '0.33s';
+  });
+}, 2000);
+
   // Navigation color update function
   function updateNavigationColor() {
     var navigation = document.getElementById('navigation');
@@ -757,7 +776,28 @@ function init() {
       }
       featureImage.style.opacity = value_limit(opacity, 0, 1).toFixed(2);
     }
-  
+    // Calculate 20% of the viewport height
+    let twentyPercentHeight = window.innerHeight * 0.2;
+
+      // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
+      if (scrollTop >= twentyPercentHeight) {
+        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, .shift').forEach(function (element) {
+          element.style.color = '#000000';
+          element.style.fill = '#000000';
+        });    
+        document.querySelectorAll('#page-title .loading').forEach(function (element) {
+          element.style.backgroundColor = '#000000';
+        });
+      } else {
+        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3').forEach(function (element) {
+          element.style.color = ''; // Change this to the original color if needed
+          element.style.fill = ''; // Change this to the original color if needed
+        });
+        document.querySelectorAll('#page-title .loading').forEach(function (element) {
+          element.style.backgroundColor = ''; // Change this to the original color if needed
+        });
+      }
+    
     if (pageDescription) {
       if (scrollTop >= startFade) {
         pageDescription.classList.add("opacity-100");

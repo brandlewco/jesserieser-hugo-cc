@@ -12,11 +12,11 @@
                     </svg>
                 </div>
         </picture>
-    <div id="page-title" class="fixed z-50 max-w-6xl margin-0 left-0 right-0 px-4 lg:px-64 font-light text-left lazyload" style="top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
+    <div id="page-title" class="fixed z-50 max-w-6xl margin-0 left-0 right-0 px-4 lg:px-64 font-light text-left text-{{.Params.navigation_theme}} initial-black lazyload" style="top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
         <h1 data-cms-bind="#title" class="text-xl tracking-widest leading-tight uppercase" data-sal="slide-down" data-sal-delay="1200">
           {{.Title}}
         </h1>
-        <div class="w-ful bg-black my-4" data-sal="loading" style="height: 1px; animation-duration: 2s; transition-duration: 2s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
+        <div class="loading w-ful bg-{{.Params.navigation_theme}} my-4 initial-black-bg" data-sal="loading" style="height: 1px; animation-duration: 2s; transition-duration: 2s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
         <div class="flex flex-wrap justify-start align-middle items-center pt-2" style="width: fit-content;">        
             <h2 data-cms-bind="#collection_meta" class="text-xl font-medium tracking-widest uppercase {{if .Params.collection_meta_2}}w-1/3{{else}}w-full{{end}}" data-sal="slide-down" data-sal-delay="1500">{{ .Params.collection_meta }}</h2>
             {{ with .Params.collection_meta_2 }}
