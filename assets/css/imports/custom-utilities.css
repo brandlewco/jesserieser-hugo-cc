@@ -72,8 +72,12 @@ h3 p {
   @apply mb-0 !important;
 }
 
-body.page-jesse-rieser-current-works .menu .nav-current, body.page-collections .menu .nav-collections, body.page-say-hello .menu .nav-about, body.page-shop .menu .nav-shop, body.page-jesse-rieser-all-work-portfolio .menu .nav-collections,  body.page-overview .menu .nav-overview {
+/* body.page-jesse-rieser-current-works .menu .nav-current, body.page-collections .menu .nav-collections, body.page-say-hello .menu .nav-about, body.page-shop .menu .nav-shop, body.page-jesse-rieser-all-work-portfolio .menu .nav-collections,  body.page-overview .menu .nav-overview {
   @apply font-medium tracking-widest;
+} */
+
+body.slug-current-works .nav-current, body.slug-collections .nav-past, body.overview .nav-overview, body.slug-about .nav-information {
+  @apply font-bold;
 }
 
 a[href^="mailto:"], a[href^="tel:"] {
@@ -236,10 +240,10 @@ svg.hover:hover path {
   transition: opacity 0.33s ease-in-out 2s;
 }
 
-#header-pointer {
+/* #header-pointer {
   transition: opacity 0.33s ease-in-out 0.66s;
   opacity: 0;
-}
+} */
 
 #header-loading {
   transition: opacity 0.33s ease-in-out 0.33s;
@@ -257,8 +261,8 @@ svg.hover:hover path {
 }
 
 .loading {
-  height: 2px;
-  max-height: 2px;
+  /* height: 1px;
+  max-height: 1px; */
 }
 
 .lazy-gallery.lazyloaded .icon{

@@ -2,20 +2,20 @@
   <!-- logo -->
   <div class="navigation-container flex flex-wrap items-center justify-between py-4 px-4 sm:px-8 border-box">
 
-    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-start text-2xl sm:text-28 font-medium tracking-widest shift initial-black" style="text-decoration: none !important;">
-      <span class="whitespace-no-wrap">
+    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-start shift initial-black" style="text-decoration: none !important;">
+      <span class="whitespace-no-wrap text-sm tracking-loosest font-normal">
         JESSE RIESER 
       </span>
       {{if (eq .Params.collection_archive true) }} 
-      <div class="flex flex-row justify-between text-xs sm:text-sm font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
+      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
       </div>
       {{end}}
       {{if eq .Section "shop" }} 
-      <div class="flex flex-row justify-between text-xs sm:text-sm font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
+      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
       </div>
       {{end}}
       {{ if .IsHome }}
-      <div class="flex flex-row justify-between text-xs sm:text-sm font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">overview
+      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">overview
       </div>
       {{end}}
     </a>
@@ -30,27 +30,27 @@
     </div>
     <!-- navigation -->
     <section role="menu" class="menu translate-neg sm:translate-0 menu w-full sm:w-1/2 sm:flex flex-col sm:flex-row items-center sm:justify-end z-0 hidden mt-3 sm:mt-0">
-        <a href="/current-works" class="nav-current mt-3 sm:mt-0 sm:mr-4 text-base font-normal sm:font-light no-underline sm:pr-4  btn-underline shift initial-black">
+        <a href="/current-works" class="nav-current mt-3 sm:mt-0 sm:mr-4 text-sm font-normal tracking-looser no-underline sm:pr-4  btn-underline shift initial-black">
           CURRENT WORKS
         </a>
-        <a href="/collections/" class="nav-collections mt-3 sm:mt-0 sm:mr-4 text-base sm:font-light no-underline sm:pr-4  btn-underline shift initial-black" data-swup-preload>
+        <a href="/collections/" class="nav-past mt-3 sm:mt-0 sm:mr-4 text-sm font-normal tracking-looser no-underline sm:pr-4  btn-underline shift initial-black" data-swup-preload>
          PAST WORKS
         </a>
         <div class="nav-overview-container relative mt-3 sm:mt-0 sm:mr-4 text-center sm:text-left">
-          <a href="#" class="nav-overview text-base sm:font-light no-underline sm:pr-4 btn-underline shift initial-black" data-swup-preload="">
+          <a href="#" class="nav-overview text-sm no-underline sm:pr-4 btn-underline font-normal tracking-looser shift initial-black" data-swup-preload="">
             OVERVIEWS
           </a>
           <div class="dropdown-content hidden sm:absolute">
             {{ range .Site.Data.config.config.overview_pager }}
             {{ with $.Site.GetPage . }}
           
-            <a href="/collections/{{ lower .Params.slug }}/" class="block text-sm uppercase sm:font-light hover:font-semibold no-underline btn-underline shift initial-black">{{ lower .Params.title }}</a>
+            <a href="/collections/{{ lower .Params.slug }}/" class="block text-sm uppercase sm:font-light hover:font-semibold no-underline btn-underline tracking-looser shift initial-black">{{ lower .Params.title }}</a>
             {{end}}
           {{ end }}
           
           </div>
         </div>
-        <a href="/about/" class="nav-about mt-3 sm:mt-0 text-base sm:font-light no-underline sm:pr-6 btn-underline shift initial-black" data-swup-preload>
+        <a href="/about/" class="nav-information mt-3 sm:mt-0 text-sm  no-underline sm:pr-6 btn-underline font-normal tracking-looser shift initial-black" data-swup-preload>
           INFORMATION
         </a>
         <a href="https://instagram.com/jesserieser" target="_blank" class="nav-ig mt-3 sm:mt-0 text-base sm:font-light no-underline btn-underline shift h-4 w-4 ">

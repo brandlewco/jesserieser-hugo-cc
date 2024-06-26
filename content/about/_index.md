@@ -8,6 +8,7 @@ title: Say Hello
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-7.jpg
+slug: about
 collection_description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit quam
   dapibus sem porttitor convallis. Integer convallis arcu non lectus facilisis

@@ -97,13 +97,13 @@ function init() {
     document.querySelectorAll('.initial-black').forEach(function (element) {
       element.classList.remove('initial-black');
     });
-  }, 2000);
+  }, 2200);
 
   setTimeout(function() {
     document.querySelectorAll('.initial-black-bg').forEach(function (element) {
       element.classList.remove('initial-black-bg');
     });
-  }, 2000);
+  }, 2200);
 
   // Remove Sal animation delays that interfer with scroll animations
   setTimeout(function() {
@@ -111,7 +111,7 @@ function init() {
       element.style.transitionDelay = '0s';
       element.style.transitionDuration = '0.33s';
     });
-  }, 2000);
+  }, 2200);
 
   // Navigation color update function
   function updateNavigationColor() {
@@ -742,6 +742,7 @@ function init() {
   const headerImage = document.getElementById("header-image");
   const featureImage = document.getElementById("feature-image");
   const pageDescription = document.getElementById("page-description");
+  var metaContainer = document.getElementById("meta-container");
   const height = window.innerHeight;
   
   const startFade = height * 0.25; // 25% of viewport height
@@ -751,6 +752,15 @@ function init() {
   function value_limit(value, min, max) {
     return Math.min(Math.max(value, min), max);
   }
+
+        
+  if (pageDescription && metaContainer) {
+    // Get the width of the meta-container
+    var containerWidth = metaContainer.offsetWidth;
+
+    // Set the width of the description to be the same as the meta-container
+    pageDescription.style.maxWidth = containerWidth + "px";
+}
   
   // Scroll Animations
   let scrollPos = 0;
@@ -782,7 +792,7 @@ function init() {
 
       // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
       if (scrollTop >= twentyPercentHeight) {
-        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift').forEach(function (element) {
+        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
           element.style.color = '#000000';
           element.style.fill = '#000000';
         });    
@@ -790,7 +800,7 @@ function init() {
           element.style.backgroundColor = '#000000';
         });
       } else {
-        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3').forEach(function (element) {
+        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #page-description').forEach(function (element) {
           element.style.color = ''; // Change this to the original color if needed
           element.style.fill = ''; // Change this to the original color if needed
         });
@@ -822,24 +832,42 @@ function init() {
   
     if (pageTitle) {
       const pageTitleHeight = pageTitle.offsetHeight;
-      const pageTitleBottom = (height - pageTitleHeight) / 2;
-      if (windowY > pageTitleBottom - 150) {
-        headerPointer.style.opacity = 0;
-      } else {
-        headerPointer.style.opacity = 1;
+      let additionalHeight = 0;
+  
+      if (pageDescription) {
+        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 16; // 1rem in pixels (16px)
+        additionalHeight = pageDescriptionHeight;
       }
-      if (windowY > pageTitleBottom) {
+  
+      const totalHeight = pageTitleHeight + additionalHeight;
+      const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
+  
+      // if (window.scrollY > pageTitleBottom - 150) {
+      //   headerPointer.style.opacity = 0;
+      // } else {
+      //   headerPointer.style.opacity = 1;
+      // }
+  
+      if (window.scrollY > pageTitleBottom) {
         pageTitle.classList.add("absolute");
         pageTitle.classList.remove("fixed");
         pageTitle.style.top = "auto";
         pageTitle.style.bottom = "0";
         pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+        if (pageDescription) {
+          pageDescription.classList.remove("absolute", "mt-4");
+          pageDescription.classList.add("relative");
+        }
       } else {
         pageTitle.classList.add("fixed");
         pageTitle.classList.remove("absolute");
         pageTitle.style.top = "50%";
         pageTitle.style.bottom = "auto";
         pageTitle.style.transform = "translate3d(0, -50%, 0)";
+        if (pageDescription) {
+          pageDescription.classList.remove("relative");
+          pageDescription.classList.add("absolute", "mt-4");
+        }
       }
     }
     scrollPos = windowY;

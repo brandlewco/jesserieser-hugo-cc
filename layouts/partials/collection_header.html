@@ -6,23 +6,36 @@
             <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
                 <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(max-width: 2560px)" />
             <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
-                <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10 opacity-0">
+                <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="50" height="50" viewbox="0 0 256 150">
                     <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill:{{.Params.navigation_theme}} ;" class="arrow-down" />
                     </svg>
                 </div>
         </picture>
-    <div id="page-title" class="fixed z-50 flex flex-wrap justify-between items-center gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:px-64 font-light text-left text-{{.Params.navigation_theme}} initial-black" style="top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}} width: fit-content;">
-        <h1 data-cms-bind="#title" class="text-xl tracking-widest leading-tight uppercase w-full" data-sal="slide-up" data-sal-delay="1200">
-          {{.Title}}
+    {{ if not .IsHome }}
+    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-48 font-light text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
+        <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full" data-sal="slide-up" data-sal-delay="1000">
+            {{.Title}}
         </h1>
-        <div class="loading w-full bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0" data-sal="loading" style="animation-duration: 2s; transition-duration: 2s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>      
-        <h2 data-cms-bind="#collection_meta" class="text-xl font-medium tracking-widest uppercase mr-8" data-sal="slide-down" data-sal-delay="1500">{{ .Params.collection_meta }}</h2>
-        {{ with .Params.collection_meta_2 }}
-            <h3 data-cms-bind="#collection_meta_2" class="text-base font-medium italic tracking-widest leading-tight text-right" data-sal="slide-down" data-sal-delay="1700">{{ . }}</h3>
-        {{ end }}
-            <!-- <div class="w-1/3"></div>
-            <div id="page-description" class="w-2/3 self-end text-left mt-4 transition-opacity duration-300 opacity-0">{{ .Params.collection_description | markdownify }}</div> -->
+        <div class="loading-container w-full">
+            <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px" data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
+        </div>
+        <div id="meta-container" class="flex flex-wrap w-full items-center">
+            <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow" data-sal="slide-down" data-sal-delay="1200">
+                {{ .Params.collection_meta }}
+            </h2>
+            {{ with .Params.collection_meta_2 }}
+                <h3 data-cms-bind="#collection_meta_2" class="text-xs font-medium italic tracking-widest leading-tight text-right flex-grow pl-16" data-sal="slide-down" data-sal-delay="1400">
+                    {{ . }}
+                </h3>
+            {{ end }}
+        </div>
+        {{ with .Params.collection_description }}
+            <div id="page-description" class="absolute text-left mt-4 transition-opacity duration-500 opacity-0" style="width: 100%; top: 100%;">
+                <span>{{ . | markdownify }}</span>
+            </div>
+        {{end}}
     </div>
+    {{end}}
 </header>
 

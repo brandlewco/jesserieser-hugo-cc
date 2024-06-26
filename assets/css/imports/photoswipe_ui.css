@@ -97,7 +97,7 @@ body.archive .pswp__button--arrow--left:hover {
 }
 
 .pswp__button--arrow--left:hover {
-  cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M213.2 13.5L200 0.2 72.3 127.8 200 255.5 213.2 242.2 98.9 127.8z'/%3E %3C/svg%3E"), pointer;
+  cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 320 512' style='enable-background:new 0 0 320 512;' xml:space='preserve'%3E %3Cpath d='M18.3 250.3c-3.1 3.1-3.1 8.2 0 11.3l216 216c3.1 3.1 8.2 3.1 11.3 0s3.1-8.2 0-11.3L35.3 256 245.7 45.7c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0l-216 216z'/%3E %3C/svg%3E"), pointer;
 }
 
 .pswp__button--arrow--right {
@@ -114,7 +114,7 @@ body.archive .pswp__button--arrow--right:hover {
 }
 
 .pswp__button--arrow--right:hover {
-  cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_2' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 256 256' style='enable-background:new 0 0 256 256;' xml:space='preserve'%3E %3Cpath d='M72.3 13.5L85.5 0.2 213.2 127.8 85.5 255.5 72.3 242.2 186.7 127.8z'/%3E %3C/svg%3E"), pointer;
+  cursor: url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='50px' height='50px' viewBox='0 0 320 512' style='enable-background:new 0 0 320 512;' xml:space='preserve'%3E %3Cpath d='M301.7 250.3c3.1 3.1 3.1 8.2 0 11.3l-216 216c-3.1 3.1-8.2 3.1-11.3 0s-3.1-8.2 0-11.3L284.7 256 74.3 45.7c-3.1-3.1 3.1-8.2 0-11.3s8.2-3.1 11.3 0l216 216z'/%3E %3C/svg%3E"), pointer;
 }
 
 /*

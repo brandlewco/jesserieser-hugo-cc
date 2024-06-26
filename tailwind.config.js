@@ -401,6 +401,8 @@ module.exports = {
     require('@tailwindcss/typography'),
   ],
   safelist: [
+        "bg-black",
+        "bg-white",
         "h-32",
         "w-10/100",
         "w-15/100",

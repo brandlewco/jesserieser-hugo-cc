@@ -188,8 +188,14 @@
 [data-sal][data-sal-delay="1500"] {
   transition-delay: 1.5s;
 }
-[data-sal][data-sal-delay="1700"] {
-  transition-delay: 1.7s;
+[data-sal][data-sal-delay="1600"] {
+  transition-delay: 1.6s;
+}
+[data-sal][data-sal-delay="2000"] {
+  transition-delay: 2s;
+}
+[data-sal][data-sal-delay="2500"] {
+  transition-delay: 2.5s;
 }
 [data-sal][data-sal-easing="linear"] {
   transition-timing-function: linear;
@@ -289,7 +295,7 @@
 }
 
 [data-sal="loading"] {
-  animation: loadingAnimation 1s forwards;
+  animation: loadingAnimation 2.2s forwards;
 }
 [data-sal|="fade"] {
   opacity: 0;
