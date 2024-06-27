@@ -4,11 +4,11 @@
             <source data-srcset="{{.Params.collection_cover_mobile }}?width=1040" media="(orientation: portrait) and (max-width: 1024px)" />
             <source data-srcset="{{.Params.collection_cover }}?width=1040" media="(max-width: 1024px)" />
             <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
-                <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(max-width: 2560px)" />
+            <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(min-width: 1441px)" />
             <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
                 <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveaspectratio="xMidYMid" width="50" height="50" viewbox="0 0 256 150">
-                    <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill:{{.Params.navigation_theme}} ;" class="arrow-down" />
+                    <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill:{{.Params.navigation_theme}};" class="arrow-down" />
                     </svg>
                 </div>
         </picture>
@@ -29,14 +29,14 @@
                 </h3>
             {{ end }}
         </div>
-        <div id="page-description" data-cms-bind="#collection_description" class="flex flex-col w-full absolute text-left mt-4 duration-500 opacity-0" style="height: auto;">
+        <div id="page-description" data-cms-bind="#collection_description" class="flex flex-col w-full absolute text-xs font-thin text-left mt-4 duration-500 opacity-0" style="height: auto; top: 100%;">
             {{ if .Params.collection_description }}
             <span>{{ .Params.collection_description | markdownify }}</span>
             {{else}}
             {{end}}
             {{if (eq .Params.hide_footer true) }}
             {{else}}
-            <span><a href="#project-brief" class="inline-block text-left text-black font-bold" data-no-swup>Read more.</a></span>
+            <span><a href="#project-brief" class="inline-block text-left text-black font-bold underline" data-no-swup>Read more.</a></span>
             {{end}}
         </div>
 

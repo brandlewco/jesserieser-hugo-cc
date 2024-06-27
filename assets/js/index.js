@@ -260,12 +260,12 @@ function init() {
         navigation.style.display = 'hidden';
         const figureIMG = document.querySelectorAll('.figure img');
         const figureVID = document.querySelectorAll('.figure a.video');
-        figureIMG.forEach(function (element) {
-          element.style.opacity = 0;
-        });
-        figureVID.forEach(function (element) {
-          element.style.opacity = 0;
-        });
+        // figureIMG.forEach(function (element) {
+        //   element.style.opacity = 0;
+        // });
+        // figureVID.forEach(function (element) {
+        //   element.style.opacity = 0;
+        // });
       }
 
       var onThumbnailsClick = function (e) {
@@ -344,7 +344,7 @@ function init() {
         options = {
           galleryUID: galleryElement.getAttribute('data-pswp-uid'),
           history: false,
-          bgOpacity: 0.15,
+          bgOpacity: 0.25,
           closeOnScroll: false,
           closeOnVerticalDrag: true,
           preload: [2, 3],
@@ -770,7 +770,7 @@ function init() {
   
     if (headerImage) {
       headerImage.style.opacity = value_limit(
-        1 - scrollTop / (height * 0.4),
+        1 - scrollTop / (height * 0.5),
         0,
         1
       ).toFixed(2);
@@ -791,7 +791,7 @@ function init() {
     let twentyPercentHeight = window.innerHeight * 0.2;
 
       // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
-      if (scrollTop >= twentyPercentHeight) {
+      if (scrollTop >= startFade) {
         document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
           element.style.color = '#000000';
           element.style.fill = '#000000';
@@ -799,6 +799,8 @@ function init() {
         document.querySelectorAll('#page-title .loading').forEach(function (element) {
           element.style.backgroundColor = '#000000';
         });
+        pageDescription.classList.add("opacity-100");
+        pageDescription.classList.remove("opacity-0");
       } else {
         document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #page-description').forEach(function (element) {
           element.style.color = ''; // Change this to the original color if needed
@@ -807,17 +809,9 @@ function init() {
         document.querySelectorAll('#page-title .loading').forEach(function (element) {
           element.style.backgroundColor = ''; // Change this to the original color if needed
         });
-      }
-    
-    if (pageDescription) {
-      if (scrollTop >= startFade) {
-        pageDescription.classList.add("opacity-100");
-        pageDescription.classList.remove("opacity-0");
-      } else {
         pageDescription.classList.add("opacity-0");
         pageDescription.classList.remove("opacity-100");
       }
-    }
   
     if (projectHeader) {
       if (windowY > window.innerHeight * 0.75) {
@@ -843,9 +837,9 @@ function init() {
       const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
   
       // if (window.scrollY > pageTitleBottom - 150) {
-      //   headerPointer.style.opacity = 0;
-      // } else {
       //   headerPointer.style.opacity = 1;
+      // } else {
+      //   headerPointer.style.opacity = 0;
       // }
   
       if (window.scrollY > pageTitleBottom) {
@@ -854,6 +848,7 @@ function init() {
         pageTitle.style.top = "auto";
         pageTitle.style.bottom = "0";
         pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+        headerPointer.style.opacity = 0;
         if (pageDescription) {
           pageDescription.classList.remove("absolute", "mt-4");
           pageDescription.classList.add("relative");
@@ -864,6 +859,7 @@ function init() {
         pageTitle.style.top = "50%";
         pageTitle.style.bottom = "auto";
         pageTitle.style.transform = "translate3d(0, -50%, 0)";
+        headerPointer.style.opacity = 1;
         if (pageDescription) {
           pageDescription.classList.remove("relative");
           pageDescription.classList.add("absolute", "mt-4");
