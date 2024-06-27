@@ -2,20 +2,20 @@
   <!-- logo -->
   <div class="navigation-container flex flex-wrap items-center justify-between py-4 px-4 sm:px-8 border-box">
 
-    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-start shift initial-black" style="text-decoration: none !important;">
-      <span class="whitespace-no-wrap text-sm tracking-loosest font-normal">
+    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-center shift initial-black" style="text-decoration: none !important;">
+      <span class="whitespace-no-wrap text-base tracking-loosest font-normal">
         JESSE RIESER 
       </span>
       {{if (eq .Params.collection_archive true) }} 
-      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
+      <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
       </div>
       {{end}}
       {{if eq .Section "shop" }} 
-      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
+      <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
       </div>
       {{end}}
       {{ if .IsHome }}
-      <div class="flex flex-row justify-between text-xs font-normal pl-2 pb-1 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">overview
+      <div class="flex flex-row items-center text-xs font-normal pl-2  tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">overview
       </div>
       {{end}}
     </a>

@@ -12,8 +12,7 @@
                     </svg>
                 </div>
         </picture>
-    {{ if not .IsHome }}
-    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-48 font-light text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0); {{if .Params.collection_description}}{{else}}padding-bottom: 100px{{end}}">
+    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-48 font-light text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
         <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full" data-sal="slide-up" data-sal-delay="1000">
             {{.Title}}
         </h1>
@@ -30,12 +29,17 @@
                 </h3>
             {{ end }}
         </div>
-        {{ with .Params.collection_description }}
-            <div id="page-description" class="absolute text-left mt-4 transition-opacity duration-500 opacity-0" style="width: 100%; top: 100%;">
-                <span>{{ . | markdownify }}</span>
-            </div>
-        {{end}}
+        <div id="page-description" data-cms-bind="#collection_description" class="flex flex-col w-full absolute text-left mt-4 duration-500 opacity-0" style="height: auto;">
+            {{ if .Params.collection_description }}
+            <span>{{ .Params.collection_description | markdownify }}</span>
+            {{else}}
+            {{end}}
+            {{if (eq .Params.hide_footer true) }}
+            {{else}}
+            <span><a href="#project-brief" class="inline-block text-left text-black font-bold" data-no-swup>Read more.</a></span>
+            {{end}}
+        </div>
+
     </div>
-    {{end}}
 </header>
 
