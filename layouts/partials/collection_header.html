@@ -12,7 +12,7 @@
                     </svg>
                 </div>
         </picture>
-    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-48 font-light text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
+    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-56 font-medium text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
         <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full" data-sal="slide-up" data-sal-delay="1000">
             {{.Title}}
         </h1>
@@ -24,12 +24,12 @@
                 {{ .Params.collection_meta }}
             </h2>
             {{ with .Params.collection_meta_2 }}
-                <h3 data-cms-bind="#collection_meta_2" class="text-xs font-medium italic tracking-widest leading-tight text-right flex-grow pl-16" data-sal="slide-down" data-sal-delay="1400">
+                <h3 data-cms-bind="#collection_meta_2" class="text-sm font-medium italic tracking-widest leading-tight text-right flex-grow pl-32" data-sal="slide-down" data-sal-delay="1400">
                     {{ . }}
                 </h3>
             {{ end }}
         </div>
-        <div id="page-description" data-cms-bind="#collection_description" class="flex flex-col w-full absolute text-xs font-thin text-left mt-4 duration-500 opacity-0" style="height: auto; top: 100%;">
+        <div id="page-description" data-cms-bind="#collection_description" class="flex flex-col w-full absolute text-xs font-thin text-left mt-10 duration-500 opacity-0" style="height: auto; top: 100%;">
             {{ if .Params.collection_description }}
             <span>{{ .Params.collection_description | markdownify }}</span>
             {{else}}

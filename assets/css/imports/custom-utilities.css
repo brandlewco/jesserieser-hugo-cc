@@ -150,6 +150,10 @@ html.is-animating .transition-nav {
   transform: translate3d(0px, 0px, 0px) !important;
 }
 
+/* #navigation .menu a:hover {
+  @apply font-bold;
+} */
+
 #navigation.active .menu {
     transform: translateY(0%);
     display: flex !important;

@@ -837,7 +837,7 @@ collection_content: >-
 collection_awards:
   - content: >-
       <strong>2017</strong><br>  <em>Communication Arts Photography
-      Annual</em><br>  Winner: Best Unpublished Series_
+      Annual</em><br>  Winner: Best Unpublished Series
   - content: >-
       <strong>2017</strong><br>   <em>AP 33 American Photography Annual
       33</em><br> Winner: Best Personal Work Series

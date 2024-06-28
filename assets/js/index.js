@@ -787,8 +787,6 @@ function init() {
       }
       featureImage.style.opacity = value_limit(opacity, 0, 1).toFixed(2);
     }
-    // Calculate 20% of the viewport height
-    let twentyPercentHeight = window.innerHeight * 0.2;
 
       // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
       if (scrollTop >= startFade) {
