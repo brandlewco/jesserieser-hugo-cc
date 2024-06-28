@@ -260,12 +260,14 @@ function init() {
         navigation.style.display = 'hidden';
         const figureIMG = document.querySelectorAll('.figure img');
         const figureVID = document.querySelectorAll('.figure a.video');
-        // figureIMG.forEach(function (element) {
-        //   element.style.opacity = 0;
-        // });
-        // figureVID.forEach(function (element) {
-        //   element.style.opacity = 0;
-        // });
+        body.classList.add('gallery-open');
+        body.classList.remove('gallery-closed');
+        figureIMG.forEach(function (element) {
+          element.style.opacity = 0;
+        });
+        figureVID.forEach(function (element) {
+          element.style.opacity = 0;
+        });
       }
 
       var onThumbnailsClick = function (e) {
@@ -453,6 +455,8 @@ function init() {
           navigation.style.transform = 'translate3d(0, 0px, 0)';
           navigation.style.opacity = 1;
           navigation.style.display = 'block';
+          body.classList.remove('gallery-open');
+          body.classList.add('gallery-closed');
           const figureIMG = document.querySelectorAll('.figure img');
           figureIMG.forEach(function (element) {
             element.style.removeProperty('opacity');
@@ -827,7 +831,7 @@ function init() {
       let additionalHeight = 0;
   
       if (pageDescription) {
-        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 16; // 1rem in pixels (16px)
+        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 40; // 1rem in pixels (16px)
         additionalHeight = pageDescriptionHeight;
       }
   
@@ -848,7 +852,7 @@ function init() {
         pageTitle.style.transform = "translate3d(0, 0vh, 0)";
         headerPointer.style.opacity = 0;
         if (pageDescription) {
-          pageDescription.classList.remove("absolute", "mt-4");
+          pageDescription.classList.remove("absolute");
           pageDescription.classList.add("relative");
         }
       } else {
@@ -860,7 +864,7 @@ function init() {
         headerPointer.style.opacity = 1;
         if (pageDescription) {
           pageDescription.classList.remove("relative");
-          pageDescription.classList.add("absolute", "mt-4");
+          pageDescription.classList.add("absolute");
         }
       }
     }

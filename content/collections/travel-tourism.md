@@ -14,511 +14,442 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#edeff2'
     caption: >-
       <a href="https://jesserieser.com/collections/aot/" target="_blank"
-      rel="noopener"><strong>Deflation.</strong></a> *Tempe, AZ. 2016 Residence*
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
+      rel="noopener"><strong>Deflation.</strong></a> *Tempe, AZ. 2016 Residence*  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-2.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-3.jpg
-    width: '33'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-4.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-4.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '15'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#9d0310'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-6.jpg
-    width: '45'
-    margin_y: '400'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y:
     color: '#f8e8dc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-7.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '55'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#d5d3c6'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-8.jpg
-    width: '55'
-    margin_y: '250'
-    margin_left: '15'
-    margin_right: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
     color: '#eefbe7'
     caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-9.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e5ecf5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-10.jpg
-    width: '20'
-    margin_y: '600'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '0'
     align_y: start
     color: '#ece9e2'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-11.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '20'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#203d49'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-12.jpg
-    width: '30'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-13.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-14.jpg
-    width: '50'
-    margin_y: '350'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#fbfbf9'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-15.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e0f9ef'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-16.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
     color: '#fcebeb'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-17.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '35'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e7edf4'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-18.jpg
-    width: '33'
-    margin_y: '350'
-    margin_left: '25'
-    margin_right: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
     color: '#280503'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-19.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '0'
     align_y:
     color: '#faede1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-20.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '35'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e8ccb4'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-21.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#eae2cc'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-22.jpg
-    width: '45'
-    margin_y: '400'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#bb0412'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-23.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ffe29b'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-24.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e5d4cb'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-25.jpg
-    width: '30'
-    margin_y: '600'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '0'
     align_y:
     color: '#e0c6ca'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-26.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '35'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#afb1b7'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-27.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '20'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#d8c9d8'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-28.jpg
-    width: '35'
-    margin_y: '300'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '0'
     align_y:
     color: '#eff5f6'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-29.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '30'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f1ebe6'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-30.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-31.jpg
-    width: '30'
-    margin_y: '650'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#e4ebed'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-32.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-33.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '15'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ddefec'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-4_overview.jpg
-    width: '45'
-    margin_y: '300'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#f1efed'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-35.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#eb2f36'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-36.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f4f4eb'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-37.jpg
-    width: '30'
-    margin_y: '550'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '0'
     align_y:
     color: '#d9dee1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-38.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#cfe0db'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-39.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '50'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f2ece9'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-40.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '20'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-41.jpg
-    width: '20'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#1c1914'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-42.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ddd9dd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-43.jpg
-    width: '45'
-    margin_y: '300'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '0'
     align_y:
     color: '#edf1e9'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-44.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '50'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e6eeec'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-45.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '15'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#c22b2c'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-46.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f4e8dd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-47.jpg
-    width: '25'
-    margin_y: '550'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '45'
+    margin_right: '0'
     align_y:
     color: '#120c05'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-48.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '40'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#a4bcca'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-49.jpg
-    width: '45'
-    margin_y: '350'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ebe6dc'
@@ -526,226 +457,192 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-50.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#eedee1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-51.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '40'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-54.jpg
-    width: '50'
-    margin_y: '950'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#261819'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-52.jpg
-    width: '40'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#885872'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-55.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-56.jpg
-    width: '30'
-    margin_y: '800'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '0'
     align_y:
     color: '#574139'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-57.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '20'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#dbdfdc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-59.jpg
-    width: '40'
-    margin_y: '400'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#5f5547'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-58.jpg
-    width: '20'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '0'
     align_y:
     color: '#f5e7ce'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-60.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '35'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#14212f'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-61.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '45'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#eedee1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-62.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '25'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-63.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#b3bda5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-64.jpg
-    width: '45'
-    margin_y: '400'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#885872'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-65.jpg
-    width: '33'
-    margin_y: '450'
-    margin_left: '30'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#261819'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-66.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '10'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#040305'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-67.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '15'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#574139'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-68.jpg
-    width: '45'
-    margin_y: '300'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y:
     color: '#dbdfdc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-69.jpg
-    width: '40'
-    margin_y: '350'
-    margin_left: '30'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f5e7ce'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-70.jpg
-    width: '25'
-    margin_y: '100'
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#5f5547'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_travel-overview-71.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '5'
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
     color: '#ebe6dc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-11.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-11.jpg
@@ -774,8 +671,6 @@ collection_content: >-
   Beyond the glowing green and red lights, past the shimmering silvery tinsel,
   around the fragrant pine boughs, another Christmas lingers, a Christmas of
   contradictions.
-
-
   This is a Christmas where carved foam soldiers guard Santa in the parking lot
   of a church just before a holiday parade. This is a Christmas where thousands
   of Santas run in an annual fundraising race, a sea of red hats and performance
@@ -783,13 +678,9 @@ collection_content: >-
   elaborate, festive wonderlands. This is a Christmas where Christian families
   reenact the birth of Christ, where Santa plays pool in a bar and where more is
   more is more.
-
-
   This Christmas is complex and at times, uncomfortable. It’s awkward and
   sometimes bleak. But it is also sincere and celebratory, colorful and
   creative.
-
-
   This is the Christmas I have grown to love during my 7 year photographic
   exploration of the biggest event on the American calendar. I grew up in a
   secular home and at times felt like a Christmas outsider, never connected to
@@ -799,8 +690,6 @@ collection_content: >-
   hours to hanging lights, to carving and painting figurines, to building
   miniature villages, to converting their homes, yards, garages and cars into
   monuments to merriness.
-
-
   Initially inspired by the absurdity of a four story inflatable Santa who
   appeared to be guarding a tree lot, I have launched this survey of uniquely
   American Christmas traditions. “Christmas in America” is an unvarnished
@@ -986,9 +875,7 @@ collection_exhibition:
   - content: >-
       <strong>2012</strong><br>   Critical Mass: Love, Anxiety, and
       Happiness<br>   Northwest Center For Photography.<br>   Seattle, WA<br>
-      <br> Newspace Center For Photography.<br>   Portland, OR<br>
-
-      Raykko Gallery.<br>   San Franciso, CA (Group Show)
+      <br> Newspace Center For Photography.<br>   Portland, OR<br>      Raykko Gallery.<br>   San Franciso, CA (Group Show)
   - content: >-
       <strong>2011</strong><br>   <em>Newspace Center For Photography</em><br>  
       Portland, OR. (Solo Show)

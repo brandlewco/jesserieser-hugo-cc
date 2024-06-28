@@ -17,8 +17,8 @@
       </div>
       <section class="py-6 w-full mx-auto px-4 sm:px-40">
         <header class="flex flex-col items-start mb-8 leading-none">
-          <div class="text-xl sm:text-5xl font-medium text-black pb-4">{{$key.Params.title}}</div>
-          <div class="text-base sm:text-2xl font-medium italic text-black">{{$key.Params.caption}}</div>
+          <div class="text-sm font-medium text-black pb-4">{{$key.Params.title}}</div>
+          <div class="text-xs font-medium italic text-black">{{$key.Params.caption}}</div>
         </header>
         <div class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8">
           {{ $key.Params.content | markdownify }}

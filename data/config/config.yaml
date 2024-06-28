@@ -49,6 +49,7 @@ collection_pager:
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 overview_pager:
+  - _index.md
   - collections/general-overview.md
   - collections/travel-tourism.md
   - collections/portrait.md

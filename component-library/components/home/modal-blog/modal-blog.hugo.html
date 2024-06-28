@@ -22,9 +22,9 @@
     </div>
   </button>
   {{ if site.Params.env_bookshop_live }}
-  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0" data-sal="slide-down" data-sal-delay="600">Editor Placeholder</h6>
+  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3" data-sal="slide-down" data-sal-delay="600">Editor Placeholder</h6>
   {{ else }}
-  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-0 {{with .meta_align}}sm:text-{{.}}{{end}} text-left" data-sal="slide-down" data-sal-delay="600">{{range $key.Params.news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
+  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 {{with .meta_align}}sm:text-{{.}}{{end}} text-left" data-sal="slide-down" data-sal-delay="600">{{range $key.Params.news_category}}{{. | replaceRE "[\\W]" ""}} {{end}}</h6>
   {{end}}
   </div>
 </figure>

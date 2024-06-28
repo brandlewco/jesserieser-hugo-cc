@@ -12,12 +12,12 @@
                     </svg>
                 </div>
         </picture>
-    <div id="page-title" class="fixed z-50 flex flex-col gap-y-4 gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-56 font-medium text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
-        <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full" data-sal="slide-up" data-sal-delay="1000">
+    <div id="page-title" class="fixed z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-56 font-medium text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
+        <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4" data-sal="slide-up" data-sal-delay="1000">
             {{.Title}}
         </h1>
-        <div class="loading-container w-full">
-            <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px" data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
+        <div class="loading-container w-full pb-4">
+            <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
         </div>
         <div id="meta-container" class="flex flex-wrap w-full items-center">
             <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow" data-sal="slide-down" data-sal-delay="1200">

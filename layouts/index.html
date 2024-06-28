@@ -8,11 +8,7 @@
                 {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
         </div>
         <!-- Conditional Partial Based on .Params.collection_overview -->
-        {{ if .Params.collection_overview }}
-            {{ partial "overview_pager" .}}
-        {{ else }}
-            {{ partial "collection_pager" .}}
-        {{ end }}
+        {{ partial "overview_pager" .}}
     </section>
     <section class="mx-auto relative z-100 overflow-y-hidden" data-hue="white">
         {{ partial "collection_footer" .}}

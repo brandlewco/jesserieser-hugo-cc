@@ -566,12 +566,16 @@ figcaption p {
   align-self: center !important;
 }
 
-.overview-gallery .group-hover .figure {
+body .overview-gallery .group-hover .figure {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background: transparent !important;
 }
+
+body.gallery-closed .overview-gallery .group-hover .figure {
+ background: transparent !important;
+}
+
 
 .overview-gallery .group-hover .figure img {
     height: 300px; /* Example height, adjust as needed */
