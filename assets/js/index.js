@@ -831,7 +831,7 @@ function init() {
       let additionalHeight = 0;
   
       if (pageDescription) {
-        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 40; // 1rem in pixels (16px)
+        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
         additionalHeight = pageDescriptionHeight;
       }
   

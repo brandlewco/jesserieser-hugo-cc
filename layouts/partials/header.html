@@ -6,10 +6,13 @@
       <span class="whitespace-no-wrap text-base tracking-loosest font-normal">
         JESSE RIESER 
       </span>
-      {{if (eq .Params.collection_archive true) }} 
+      {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
+      {{ $currentPage := . }}
+      {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
+      {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}
       <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
       </div>
-      {{end}}
+      {{ end }}
       {{if eq .Section "shop" }} 
         <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
         </div>

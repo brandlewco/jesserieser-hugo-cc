@@ -543,6 +543,7 @@ collection_exhibition:
       <strong>2019</strong><br>   <em>Camera Work Gallery</em><br>   Portland,
       OR (Solo Show)<br>
 collection_overview: true
+collection_grid: true
 collection_archive: false
 collection_hidden: false
 hide_footer: true

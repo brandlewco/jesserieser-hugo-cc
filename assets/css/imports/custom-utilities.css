@@ -240,7 +240,7 @@ svg.hover:hover path {
   opacity: 1;
 }
 
-#project-header #header-image {
+#project-header #header-image, #project-header #feature-picture {
   transition: opacity 0.33s ease-in-out 2s;
 }
 
@@ -558,15 +558,15 @@ figcaption p {
   } */
 }
 
-.overview-gallery  {
+.overview-grid  {
   @apply px-16;
 }
 
-.overview-gallery .group-hover .figure.block-hover {
+.overview-grid .group-hover .figure.block-hover {
   align-self: center !important;
 }
 
-body .overview-gallery .group-hover .figure {
+body .overview-grid .group-hover .figure {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -577,37 +577,37 @@ body.gallery-closed .overview-gallery .group-hover .figure {
 }
 
 
-.overview-gallery .group-hover .figure img {
+.overview-grid .group-hover .figure img {
     height: 300px; /* Example height, adjust as needed */
     width: auto;
     object-fit: contain; /* This ensures the image covers the area without stretching */
 }
 @media only screen and (max-width: 3000px) {
-  .overview-gallery .group-hover .figure img {
+  .overview-grid .group-hover .figure img {
     height: 300px; /* Example height, adjust as needed */
   }
 }
 
 @media only screen and (max-width: 2500px) {
-  .overview-gallery .group-hover .figure img {
+  .overview-grid .group-hover .figure img {
     height: 260px; /* Example height, adjust as needed */
   }
 }
 
 @media only screen and (max-width: 2000px) {
-  .overview-gallery .group-hover .figure img {
+  .overview-grid .group-hover .figure img {
     height: 180px; /* Example height, adjust as needed */
   }
 }
 
 @media only screen and (max-width: 1000px) {
-  .overview-gallery .group-hover .figure img {
+  .overview-grid .group-hover .figure img {
     height: 100px; /* Example height, adjust as needed */
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .overview-gallery .group-hover .figure img {
+  .overview-grid .group-hover .figure img {
     height: 300px; /* Example height, adjust as needed */
   }
 }

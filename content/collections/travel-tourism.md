@@ -894,6 +894,7 @@ collection_exhibition:
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
 collection_overview: true
+collection_grid: true
 collection_archive: false
 collection_hidden: false
 hide_footer: true

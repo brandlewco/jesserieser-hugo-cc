@@ -718,6 +718,7 @@ collection_press:
   - content: <em>Nacione</em>
 collection_exhibition:
 collection_overview: true
+collection_grid: true
 collection_archive: false
 collection_hidden: false
 hide_footer: true
