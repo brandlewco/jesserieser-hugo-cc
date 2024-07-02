@@ -22,10 +22,10 @@ content_blocks:
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
-    width: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
+    width: '40'
     margin_y: '0'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
@@ -167,30 +167,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Guns & Pizza
-    attached_collection: collections/guns-pizza.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
     meta: The Changing Landscape of American Retail
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
@@ -215,11 +191,35 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
+    meta: Guns & Pizza
+    attached_collection: collections/guns-pizza.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '5'
     margin_right: '0'
     align_y: center
