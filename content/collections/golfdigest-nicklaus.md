@@ -7,7 +7,7 @@ seo:
   meta_title: Golf Digest Jack Vs. Nicklaus
 title: Golf Digest
 collection_meta: Jack Vs. Nicklaus
-collection_meta_2: Jack Nicklaus’ Legal Battle Against His Own Company
+collection_meta_2: The Legal Battle Against His Own Company
 collection_description: >-
   How did the game's greatest champion become embroiled in a lawsuit against the
   company he founded?
@@ -111,6 +111,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
