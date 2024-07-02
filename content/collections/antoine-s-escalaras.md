@@ -5,9 +5,9 @@ seo:
     A film and photographic project combining architectural, portraiture and
     sport
   meta_title: Antoines Escalaras selected by Communication Arts
-title: Antoine's Escalaras
-collection_meta: Communication Arts
-collection_meta_2: Photo Annual
+title: Antoine's
+collection_meta: Escalaras
+collection_meta_2: Communication Arts Photo Annual
 collection_description: >-
   A photo and film project combining my environmental architectural
   sensibilities with my sport photographic works.
