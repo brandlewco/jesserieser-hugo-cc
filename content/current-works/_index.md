@@ -43,8 +43,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: American Hypnosis
-    meta: 2012 - 2022
+    title:
+    meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
     width: '50'
@@ -101,8 +101,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Antoine''s Escalaras '
-    meta: Communications Arts Photo Annual
+    title:
+    meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '50'
@@ -121,7 +121,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -142,8 +142,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'Devin Booker: Becoming Legendary Cover Story'
+    title:
+    meta: 'ESPN: Devin Booker Becoming Legendary '
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
@@ -166,8 +166,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Guns & Pizza
-    meta: 2021 + 2022
+    title:
+    meta: Guns & Pizza
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '35'
@@ -190,8 +190,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Changing Landscape of American Retail
-    meta: 2015 - 2022
+    title:
+    meta: The Changing Landscape of American Retail
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
@@ -214,8 +214,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: All The Rage
+    title:
+    meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
@@ -295,8 +295,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Barron's
-    meta: Beyond the Drought Cover Story
+    title:
+    meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
     width: '50'
@@ -319,8 +319,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Bloomberg
-    meta: America's New Climate Nomads Embrace Van Life to Save Energy
+    title:
+    meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
     width: '40'
@@ -416,8 +416,8 @@ content_blocks:
     theme_color: '#d8f1ae'
     meta: meta
   - _bookshop_name: home/media-feature
-    title: Christmas in America
-    meta: 2010 - 2022
+    title:
+    meta: Christmas in America
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
@@ -436,7 +436,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
     align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -462,8 +462,8 @@ content_blocks:
     meta: meta
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
   - _bookshop_name: home/media-feature
-    title: Vox's 100 Battles
-    meta: Summoning the Ghost Town
+    title:
+    meta: '100 Battles: Summoning the Ghost Town'
     attached_collection: collections/vox-100-battles-ghost-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
     width: '45'
@@ -486,8 +486,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Amtrak '
-    meta: 'On the Southwest Chief '
+    title:
+    meta: 'Amtrak : On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
     width: '55'
@@ -526,8 +526,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
+    title:
+    meta: 'Smithsonian: Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
     width: '45'
@@ -546,7 +546,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -641,8 +641,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: V
-    meta: Armani 50th Anniversary Featuring Deandre Hopkins
+    title:
+    meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '33'
@@ -701,8 +701,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
+    title:
+    meta: Autobiography of a Contact Sport
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
     width: '55'
@@ -721,7 +721,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: AP 36
     caption: 'Wired: The Internet Giant That Went Too Far'
@@ -742,8 +742,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Wired
-    meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
+    title:
+    meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
     attached_collection: collections/wired-bitmain.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
     width: '45'
@@ -752,7 +752,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#ffe087'
-    caption:
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
@@ -762,7 +762,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/modal-blog
     title: WaPo
     caption: Featured on Washington Post and Business Insider
@@ -839,8 +839,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
+    title:
+    meta: 'ESPN: The Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
     width: '40'
@@ -863,8 +863,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: 'Cameron Young Cover Story '
+    title:
+    meta: 'Golf Digest: Cameron Young'
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
     width: '33'
