@@ -30,7 +30,7 @@ content_blocks:
     align_y: center
     color: '#c9fce6'
     caption: ''
-    title_margin_y: '0'
+    title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
     text_size: lg
