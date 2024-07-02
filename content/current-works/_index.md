@@ -372,13 +372,36 @@ content_blocks:
     color: '#ffaaaa'
     width: '20'
     align_y: start
-    margin_y: '300'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#f8d9d9'
     meta: meta
     blog_header:
+  - _bookshop_name: home/media-feature
+    title:
+    meta: Christmas in America
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#f4c8c8'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right:
+    text_size: 7xl
+    text_color: '#f7ee81'
+    line_height: none
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -415,29 +438,6 @@ content_blocks:
     meta_align: left
     theme_color: '#d8f1ae'
     meta: meta
-  - _bookshop_name: home/media-feature
-    title:
-    meta: Christmas in America
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '10'
-    align_y:
-    color: '#f4c8c8'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right:
-    text_size: 7xl
-    text_color: '#f7ee81'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
