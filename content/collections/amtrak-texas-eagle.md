@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description: ''
   meta_title: 'Amtrak The National: Tucson to El Paso On the Texas Eagle'
-title: 'Amtrak the National '
-collection_meta: Tucson to El Paso On the Texas Eagle
-collection_meta_2: ''
+title: 'Amtrak '
+collection_meta: 'The National '
+collection_meta_2: Tucson to El Paso On the Texas Eagle
 collection_description: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
@@ -299,6 +299,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
