@@ -12,12 +12,6 @@ collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
   is alarmed by it.
-
-
-  The photographs are as much about the American roadside as they are the
-  infinitely flat and delusional digital landscape, a place where reverence is
-  arbitrarily distributed between the meaningful and meaningless components of
-  our world, both existing and extinct.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:
@@ -815,50 +809,27 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/sop_4x3-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-america-1.jpg
 collection_content: >-
-  This is the transmission of a citizen who seems comfortable sitting with the
-  knowledge that he is as intrigued by his home as he is alarmed by it. These
-  photographs are as much about the American roadside as they are about the
-  infinitely flat and delusional digital landscape, a place where reverence is
-  arbitrarily distributed between the meaningful and meaningless components of
-  our world, both existing and extinct.
+  By definition, hypnosis is the induction of a state of consciousness in which
+  a person loses the power of voluntary action and is highly responsive to
+  suggestion or direction.
 
 
-  If *Christmas in America* is a thematic and visual exercise in American
-  Maximalism, these images are deceptively nuanced photographs of—and for—an
+  Having spent my formative years in the American “heartland,” I considered
+  myself a patriot, and like many, I had a deep sense of pride for my country.
+  But today, being an American feels similar to an animal pacing within the
+  confines of a zoo. If provided the illusion of just enough freedom you can
+  mask the reality of one’s own captivity. The result leaves me with a sense of
+  waning dignity. We are collectively on display to intrigue, terrify, and
+  satisfy the world's voyeuristic curiosity.
+
+
+  Here, you will find surreal postcards from this fever dream—a feeling of
+  familiar uneasiness transmitted from a citizen who is equally intrigued by his
+  home as he is alarmed. They are deceptively nuanced photographs of—and for—an
   America that has done everything it can to abolish nuance, creating
-  bleached-out stand-ins for the place itself.<br><br>
-
-
-  It’s hard to ignore the current collective fear of losing one’s version of
-  America—one's way of life—and the fear that it, too, is fleeting. It’s as if
-  the concept of America is unsharable. Here, you will find surreal postcards
-  from a fever dream—a feeling of familiar uneasiness, as if something is
-  missing or has been plucked out of the frame. Erased.<br><br>
-
-
-  As this project nears completion, I have realized these works are less of a
-  social commentary on those navigating their fears and ultimately a projection
-  of my own.<br>
-
-
-  Fear of aging and the chapter of my youth fully closed as the passage of time
-  accelerates.<br><br>
-
-
-  Fear of new technology and my own obsolescence.<br><br>
-
-
-  Fear of our distressed natural world.<br><br>
-
-
-  Fear of continual instability, both financially and politically.<br><br>
-
-
-  Fear of losing the life I have built, constantly recalculating expectations
-  and promises.<br><br>
-
-
-  Maybe it is my America Folklore that is vanishing.
+  bleached-out stand-ins for the place itself. In a time in which the truth is
+  constantly under attack, American Hypnosis proves these same truths can be
+  stranger than fiction.
 collection_awards: []
 collection_press: []
 collection_exhibition:
