@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Amtrak The National: Ted Turner Is On A Mission To Save Everything'
-title: Amtrak The National
-collection_meta: Ted Turner Is On A Mission To Save Everything
-collection_meta_2:
+title: 'Amtrak '
+collection_meta: 'The National '
+collection_meta_2: Ted Turner Is On A Mission To Save Everything
 collection_description: >-
   Ted Turner has put his fortune and land to good use in his efforts to save
   numerous species from extinction. He recently launched "Ted Turner
