@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: The New York Times. A Minor Leaguer's Hard Road to the Bigs
 title: The New York Times
-collection_meta: '"You Have to Be Delusional"'
+collection_meta: You Have to Be Delusional
 collection_meta_2: A Minor Leaguer's Hard Road to the Bigs
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
