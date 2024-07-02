@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: The Class of 99 Turns 30
-title: The Class of 99 Turns 30
-collection_meta: 2009 - 2010
-collection_meta_2:
+title: The Class of 99
+collection_meta: Turns 30
+collection_meta_2: ' 2009 - 2010'
 collection_description: >-
   Captured while visiting my hometown for my 10-year high school reunion, this
   personal work investigates what has been gained or lost while entering
