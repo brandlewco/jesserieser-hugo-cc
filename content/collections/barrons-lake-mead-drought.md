@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: 'Barron’s: Beyond the Drought'
 title: Barron's
-collection_meta: 'Beyond the Drought '
-collection_meta_2: Lake Mead
+collection_meta: Lake Mead
+collection_meta_2: 'Beyond the Drought '
 collection_description: >-
   The scarcity of fresh water is rapidly emerging as a global economic threat
   that could disrupt businesses, crimp profits, and jeopardize growth.
