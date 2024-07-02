@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Starting Over: Will Move For Work 2009 - 2010'
-title: 'Starting Over: Will Move For Work'
-collection_meta: 2009 - 2010
-collection_meta_2:
+title: Starting Over
+collection_meta: 'Will Move For Work '
+collection_meta_2: 2009 - 2010
 collection_description: >-
   This is a story about transition. About the things we lose, and the memories
   we keep. In 2009, my parents Rob and Stephanie Rieser left Springfield,
