@@ -834,6 +834,9 @@ collection_awards: []
 collection_press: []
 collection_exhibition:
   - content: >-
+      <p><strong>2024</strong><br />Unbound 13 <br />Richmond, VA (Group
+      Show)</p>
+  - content: >-
       <p><strong>2022 &amp; 2023</strong><br />The Gallery at Mountain
       Shadows<br />Paradise Valley, AZ (Solo Show)</p><p>&nbsp;</p>
 collection_overview: false
