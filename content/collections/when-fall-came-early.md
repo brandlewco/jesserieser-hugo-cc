@@ -5,9 +5,9 @@ seo:
     This is a study of how climate change is altering the landscape and the
     backdrop to my childhood, my beloved Ozark Mountains.
   meta_title: 'When Fall Came Early: Drought Along the Arkansas River Basin'
-title: 'When Fall Came Early:'
-collection_meta: The Drought Along the Arkansas River Basin
-collection_meta_2: '2014'
+title: When Fall Came Early
+collection_meta: 'The Drought Along '
+collection_meta_2: The Arkansas River Basin
 collection_description: >-
   This is a study of how climate change is altering the landscape and the
   backdrop to my childhood, my beloved Ozark Mountains. The most severe drought
