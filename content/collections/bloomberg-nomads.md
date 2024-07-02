@@ -4,7 +4,7 @@ seo:
   meta_description: 'West Coast Photographer Jesse Rieser photographs Nomads '
   meta_title: Photographer Jesse Rieser photographs Nomads
 title: Bloomberg Green
-collection_meta: 'Home Sweet Home:'
+collection_meta: Home Sweet Home
 collection_meta_2: America's New Climate Nomads Embrace Van Life to Save Energy
 collection_description: >-
   Meet the Americans who live in their vans, buses and cars in pursuit of a
@@ -386,6 +386,8 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
