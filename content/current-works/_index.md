@@ -30,11 +30,11 @@ content_blocks:
     align_y: center
     color: '#c9fce6'
     caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-40'
+    title_margin_y: '0'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 2xl
-    text_color: '#000000'
+    text_size: lg
+    text_color: '#ffffff'
     line_height: normal
     text_alignment: center
     text_tracking: wide
