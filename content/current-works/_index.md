@@ -298,10 +298,10 @@ content_blocks:
     title:
     meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
+    width: '25'
+    margin_y: '450'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
@@ -316,17 +316,15 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#d6bfe9'
     caption: ''
@@ -344,6 +342,8 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Christmas In America Feature
@@ -355,7 +355,7 @@ content_blocks:
     color: '#c22b30'
     width: '25'
     align_y: center
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     meta_align: left
