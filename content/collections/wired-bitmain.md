@@ -1,11 +1,11 @@
 ---
 _schema: default
 seo:
-  meta_description: 
+  meta_description:
   meta_title: The Hard-Luck Texas Town That Bet on Bitcoin and Lost for Wired
 title: Wired Magazine
-collection_meta: The Hard-Luck Texas Town That Bet on Bitcoin and Lost
-collection_meta_2:
+collection_meta: 'The Hard-Luck Texas Town '
+collection_meta_2: That Bet on Bitcoin and Lost
 collection_description: >-
   These works are a portrait of Rockdale, Texas a community on life support, the
   closed Alcoa plant (their one-time financial lifeline), and the players
@@ -20,217 +20,274 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#a3c8ad'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
+    align_y: center
+    color: '#a3c8ad'
+    caption: test caption
     test_field: >-
       </div></label><img role="presentation"
       src="https://d1sf55qlb7p6hz.cloudfront.net/bitmain-1.jpg"><div><label>
-    width: '55'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#e7a973'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
-    margin_left: '10'
-    margin_y: '100'
     width: '45'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: center
+    color: '#e7a973'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#ffd467'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-3.jpg
+    width: '33'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '500'
-    width: '33'
+    align_y: center
+    color: '#ffd467'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#7ddbc0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-4.jpg
+    width: '33'
+    margin_y: '200'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '200'
-    width: '33'
+    align_y: center
+    color: '#7ddbc0'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#fd9496'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-5.jpg
+    width: '33'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '200'
-    width: '33'
+    align_y: center
+    color: '#fd9496'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#efd6b4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-6.jpg
-    margin_left: '5'
-    margin_y: '200'
     width: '30'
+    margin_y: '200'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#efd6b4'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#e1ea6d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-7.jpg
+    width: '33'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '30'
-    margin_y: '400'
-    width: '33'
+    align_y: center
+    color: '#e1ea6d'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#cedcdd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
-    margin_left: '20'
-    margin_y: '100'
     width: '30'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: center
+    color: '#cedcdd'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#e7bfaa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-9.jpg
+    width: '40'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '500'
-    width: '40'
+    align_y: center
+    color: '#e7bfaa'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#a4d38e'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
-    margin_left: '35'
-    margin_y: '100'
     width: '40'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: center
+    color: '#a4d38e'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f5614b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-11.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '55'
     margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    align_y: center
+    color: '#f5614b'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ffc9b6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-12.jpg
+    width: '25'
+    margin_y: '100'
     margin_left: '45'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    align_y: center
+    color: '#ffc9b6'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f8d9b6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-13.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#f8d9b6'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ffc9b6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-14.jpg
+    width: '40'
+    margin_y: '300'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '300'
-    width: '40'
+    align_y: center
+    color: '#ffc9b6'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#dcedf6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-15.jpg
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '30'
-    margin_y: '100'
-    width: '20'
+    align_y: center
+    color: '#dcedf6'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#eefae4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-16.jpg
+    width: '20'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '20'
+    align_y: center
+    color: '#eefae4'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#ffe9b4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-17.jpg
+    width: '50'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '300'
-    width: '50'
+    align_y: center
+    color: '#ffe9b4'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#dad4de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-18.jpg
+    width: '40'
+    margin_y: '300'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '300'
-    width: '40'
+    align_y: center
+    color: '#dad4de'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#ffc690'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '100'
-    width: '30'
+    align_y: center
+    color: '#ffc690'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ffda9c'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
-    margin_left: '35'
-    margin_y: '100'
     width: '50'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: center
+    color: '#ffda9c'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#d4d29a'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-21.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    align_y: center
+    color: '#d4d29a'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#f0f9fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
+    width: '20'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '20'
-    margin_y: '600'
-    width: '20'
+    align_y: center
+    color: '#f0f9fa'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#ff9167'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-23.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#ff9167'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#d8e59d'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
+    width: '33'
+    margin_y: '600'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '600'
-    width: '33'
+    align_y: center
+    color: '#d8e59d'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#ffdcb6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '100'
-    width: '45'
+    align_y: center
+    color: '#ffdcb6'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#e1eef5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
+    width: '60'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    align_y: center
+    color: '#e1eef5'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -306,6 +363,8 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
