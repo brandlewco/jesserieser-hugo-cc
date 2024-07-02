@@ -1,5 +1,5 @@
 ---
-title: Jesse Rieser Current Works
+title: Current Works & Recent News
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
@@ -887,7 +887,9 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description: A student of subtleties.
+collection_description: >-
+  Here you will find handpicked photographic art works, client commissions, and
+  recent news.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: white
