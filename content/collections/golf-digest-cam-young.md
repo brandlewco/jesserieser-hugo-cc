@@ -1,10 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: 
+  meta_description:
   meta_title: Cam Young for Golf Digest
 title: Golf Digest
-collection_meta: 'Cameron Young Cover Story '
+collection_meta: 'Cameron Young '
 collection_meta_2: 'Your Longest Year Ever '
 collection_description: >-
   PGA Tour Rookie of the Year Cam Young shares his prime moves to help you
@@ -15,76 +15,76 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#e1f3dd'
     image: /uploads/cam-young-1.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_y: 0
+    align_y: center
+    color: '#e1f3dd'
     caption:
-    color: '#e1f9fb'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-2.jpg
+    width: '20'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '800'
-    width: '20'
+    align_y: center
+    color: '#e1f9fb'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#fbebd6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-3.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    align_y: center
+    color: '#fbebd6'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-4.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: start
+    color: '#e4f6fe'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-5.jpg
+    width: '25'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
-    align_y: 0
+    align_y: center
+    color: '#ffd9cf'
     caption:
-    color: '#ddf5da'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
+    width: '30'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '30'
-    margin_y: '300'
-    width: '30'
+    align_y: center
+    color: '#ddf5da'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: 0
-    caption:
-    color: '#f7f7d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#f7f7d0'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -116,6 +116,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true

@@ -5,7 +5,7 @@ seo:
   meta_title: Inside the embarrassing—and irresistible—world of viral golf fights
 title: 'Golf Digest '
 collection_meta: All  The Rage
-collection_meta_2: "Inside the embarrassing—and irresistible—world of viral golf fights.\_"
+collection_meta_2: Inside the embarrassing—and irresistible—world of viral golf fights
 collection_description: >-
   Have you ever seen regular people fight? Not trained boxers, actors or their
   stunt doubles but regular people. They look ridiculous. Dress them in pastels,
@@ -16,22 +16,13 @@ slug: golfdigest-fights
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#edd7b2'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-2.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e2cfef'
@@ -197,6 +188,15 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-1.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#edd7b2'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
@@ -244,6 +244,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true

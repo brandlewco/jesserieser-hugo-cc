@@ -1,5 +1,5 @@
 ---
-title: Jesse Rieser Current Works
+title: Current Works & Recent News
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
@@ -19,34 +19,34 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Outdoor Life
-    meta: A Son's First Solo Hunt
+    title:
+    meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
-    width: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
+    width: '40'
     margin_y: '0'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#c9fce6'
     caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-15'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#b2c995'
+    text_size: lg
+    text_color: '#ffffff'
     line_height: normal
     text_alignment: center
-    text_tracking: normal
-    font_weight: bold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: American Hypnosis
-    meta: 2012 - 2022
+    title:
+    meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-62.jpg
     width: '50'
     margin_y: '100'
     margin_left: '35'
@@ -54,15 +54,15 @@ content_blocks:
     align_y: start
     color: '#d0e5ef'
     caption: ''
-    title_margin_y: '40'
-    title_margin_left: '20'
+    title_margin_y: '10'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#ff3939'
+    text_size: 2xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -101,8 +101,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Antoine''s Escalaras '
-    meta: Communications Arts Photo Annual
+    title:
+    meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '50'
@@ -112,16 +112,16 @@ content_blocks:
     align_y: start
     color: '#e5f5b5'
     caption: ''
-    title_margin_y: '50'
-    title_margin_left: '-25'
+    title_margin_y: '10'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b4f0f7'
+    text_size: 2xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -142,8 +142,8 @@ content_blocks:
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'Devin Booker: Becoming Legendary Cover Story'
+    title:
+    meta: 'ESPN: Devin Booker Becoming Legendary '
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
@@ -166,32 +166,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Guns & Pizza
-    meta: 2021 + 2022
-    attached_collection: collections/guns-pizza.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: The Changing Landscape of American Retail
-    meta: 2015 - 2022
+    title:
+    meta: The Changing Landscape of American Retail
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
@@ -214,12 +190,36 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: All The Rage
+    title:
+    meta: Guns & Pizza
+    attached_collection: collections/guns-pizza.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '5'
     margin_right: '0'
     align_y: center
@@ -295,13 +295,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Barron's
-    meta: Beyond the Drought Cover Story
+    title:
+    meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-15.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
+    width: '25'
+    margin_y: '450'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
@@ -316,17 +316,15 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Bloomberg
-    meta: America's New Climate Nomads Embrace Van Life to Save Energy
+    title:
+    meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#d6bfe9'
     caption: ''
@@ -340,52 +338,10 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title: Time
-    meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: collections/time-kari-lake.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
-    width: '25'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: start
-    color: '#cdf0d6'
-    caption: ''
-    title_margin_y: '25'
-    title_margin_left: '65'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#a6cdec'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'Wired '
-    meta: 'A Wrinkle In Time '
-    attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: center
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#91dacd'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -399,7 +355,7 @@ content_blocks:
     color: '#c22b30'
     width: '25'
     align_y: center
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     meta_align: left
@@ -416,35 +372,36 @@ content_blocks:
     color: '#ffaaaa'
     width: '20'
     align_y: start
-    margin_y: '300'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#f8d9d9'
     meta: meta
     blog_header:
   - _bookshop_name: home/media-feature
-    title: Adobe
-    meta: Torpedo London
-    attached_collection: collections/phoenix.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '33'
-    margin_y: '100'
+    title:
+    meta: Christmas in America
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    width: '50'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#d0f4f2'
+    margin_right: '10'
+    align_y:
+    color: '#f4c8c8'
     caption: ''
-    title_margin_y: '30'
-    title_margin_left: '60'
-    title_margin_right: '0'
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right:
     text_size: 7xl
-    text_color: '#fffa8a'
-    line_height: normal
+    text_color: '#f7ee81'
+    line_height: none
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
     meta_align: right
+    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -459,7 +416,7 @@ content_blocks:
     color: '#ff4b4b'
     width: '25'
     align_y: start
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '30'
     margin_right: '0'
     meta_align: left
@@ -481,31 +438,30 @@ content_blocks:
     meta_align: left
     theme_color: '#d8f1ae'
     meta: meta
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Christmas in America
-    meta: 2010 - 2022
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
+    title:
+    meta: 'ESPN: The Most Outrageous Hole in Golf'
+    attached_collection: collections/phoenix-open-espn.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-33.jpg
+    width: '40'
     margin_y: '100'
     margin_left: '20'
-    margin_right: '10'
-    align_y:
-    color: '#f4c8c8'
+    margin_right: '0'
+    align_y: start
+    color: '#fdddad'
     caption: ''
-    title_margin_y: '15'
+    title_margin_y: '20'
     title_margin_left: '5'
-    title_margin_right:
-    text_size: 7xl
-    text_color: '#f7ee81'
-    line_height: none
-    text_alignment: left
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f39696'
+    line_height: normal
+    text_alignment: center
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-    align_x: start
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -528,8 +484,8 @@ content_blocks:
     meta: meta
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
   - _bookshop_name: home/media-feature
-    title: Vox's 100 Battles
-    meta: Summoning the Ghost Town
+    title:
+    meta: '100 Battles: Summoning the Ghost Town'
     attached_collection: collections/vox-100-battles-ghost-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
     width: '45'
@@ -552,11 +508,11 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Amtrak '
-    meta: 'On the Southwest Chief '
+    title:
+    meta: 'Amtrak : On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    width: '55'
+    width: '60'
     margin_y: '300'
     margin_left: '15'
     margin_right: '0'
@@ -591,15 +547,32 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: AP 38 Chosen Popular Mechanic
+    caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
+    attached_blog: posts/ap-38-american-photography-annual-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
+    block_aspect_ratio: 3x2
+    text_size: 2xl
+    color:
+    width: '25'
+    align_y: start
+    margin_y: '50'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ff052b'
+    meta: meta
+    blog_header:
   - _bookshop_name: home/media-feature
-    title: 'Smithsonian '
-    meta: 'Kitt Peak National Obserbatory '
+    title:
+    meta: 'Smithsonian: Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
     width: '45'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '5'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#a1c7f7'
     caption: smithsonian
@@ -612,48 +585,31 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: AP 38 Chosen Popular Mechanic
-    caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
-    attached_blog: posts/ap-38-american-photography-annual-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
-    block_aspect_ratio: 3x2
-    text_size: 2xl
-    color:
-    width: '20'
-    align_y: start
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#FF052B'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/media-feature
-    title: The New York Times
-    meta: A Minor Leaguer’s Hard Road to the Bigs
-    attached_collection: collections/the-new-york-times-3.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '5'
+    title:
+    meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
+    attached_collection: collections/wired-bitmain.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
+    width: '55'
+    margin_y: '400'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
-    color: '#E4ECF7'
-    caption:
+    color: '#ffe087'
+    caption: ''
     title_margin_y: '15'
     title_margin_left: '5'
-    title_margin_right:
-    text_size: 6xl
-    text_color: '#FF6065'
-    line_height: normal
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#f8f1bc'
+    line_height: none
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/modal-blog
     title: BOOOOOOOM Feature
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -661,55 +617,14 @@ content_blocks:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
     block_aspect_ratio: 4x5
     text_size: 2xl
-    color: '#FFCFCF'
-    width: '15'
+    color: '#ffcfcf'
+    width: '20'
     align_y: start
-    margin_y: '700'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '5'
     meta_align: left
-    theme_color: '#BEE8F6'
-    meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: The Star Geezers
-    meta: "Condor\_Airlines (Germany)"
-    attached_collection: collections/star-geezers.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-10.jpg
-    width: '55'
-    margin_y: '200'
-    margin_left: '15'
-    margin_right: '0'
-    align_y:
-    color: '#9bbad5'
-    caption:
-    title_margin_y: '15'
-    title_margin_left: '70'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f38eff'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-    align_x: end
-  - _bookshop_name: home/modal-blog
-    title: Agents Club 22 Awards
-    caption: 'New York Times: America Is Reopening'
-    attached_blog: posts/agents-club-22-awards-poetic-documentary.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#F9B0B0'
-    width: '10'
-    align_y: start
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '15'
-    meta_align: left
-    theme_color: '#CCAAF8'
+    theme_color: '#bee8f6'
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -725,7 +640,7 @@ content_blocks:
     color: '#f6f9ad'
     width: '33'
     align_y: start
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -743,7 +658,7 @@ content_blocks:
     color: '#ffe6e6'
     width: '25'
     align_y: start
-    margin_y: '100'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '20'
     meta_align: right
@@ -752,14 +667,126 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: V
-    meta: Armani 50th Anniversary Featuring Deandre Hopkins
+    title:
+    meta: Autobiography of a Contact Sport
+    attached_collection: collections/autobiography.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+    width: '50'
+    margin_y: '250'
+    margin_left: '15'
+    margin_right: '5'
+    align_y: start
+    color: '#fdd3d3'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '-15'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#d27474'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: Agents Club 22 Awards
+    caption: 'New York Times: America Is Reopening'
+    attached_blog: posts/agents-club-22-awards-poetic-documentary.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#f9b0b0'
+    width: '10'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#ccaaf8'
+    meta: meta
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 2022 SPD Awards
+    caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
+    attached_blog: posts/2022-spd-awards.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#d2b9ed'
+    width: '10'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ffdaa3'
+    meta: meta
+  - _bookshop_name: home/modal-blog
+    title: AP 36
+    caption: 'Wired: The Internet Giant That Went Too Far'
+    attached_blog: posts/ap-36-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 4xl
+    color: '#d8ebee'
+    width: '20'
+    align_y: start
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#fdf9b0'
+    meta: meta
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
+  - _bookshop_name: home/modal-blog
+    title: WaPo
+    caption: Featured on Washington Post and Business Insider
+    attached_blog: posts/the-changing-landscape-of-america-retail.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
+    block_aspect_ratio: 2x3
+    text_size:
+    color: '#fde25e'
+    width: '25'
+    align_y: '0'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#e8dcee'
+    meta: meta
+    align_x: start
+    image:
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: The Sunset Spot at Red Modern
+    caption: A Visual Conversation with Matt Magee & Jesse Rieser
+    attached_blog: posts/sunset-spot.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
+    block_aspect_ratio: 4x3
+    text_size: 2xl
+    color: '#daceea'
+    width: '20'
+    align_y: start
+    margin_y: '1000'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#c8b3eb'
+    meta: meta
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '25'
     align_y: start
     color: '#c1eee7'
     caption: ''
@@ -775,256 +802,14 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: The Sunset Spot at Red Modern
-    caption: A Visual Conversation with Matt Magee & Jesse Rieser
-    attached_blog: posts/sunset-spot.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
-    block_aspect_ratio: 8-5x11
-    text_size: 2xl
-    color: '#daceea'
-    width: '25'
-    align_y: start
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#c8b3eb'
-    meta: meta
   - _bookshop_name: home/media-feature
-    title: adidas Golf
-    meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-    attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-6.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#d0f6cb'
-    caption:
-    title_margin_y: '80'
-    title_margin_left: '50'
-    title_margin_right:
-    text_size: 6xl
-    text_color: '#fdabab'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: 2022 SPD Awards
-    caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
-    attached_blog: posts/2022-spd-awards.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#d2b9ed'
-    width: '10'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    meta_align: left
-    theme_color: '#ffdaa3'
-    meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
-    attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '5'
-    align_y: start
-    color: '#fdd3d3'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#d27474'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-  - _bookshop_name: home/modal-blog
-    title: AP 36
-    caption: 'Wired: The Internet Giant That Went Too Far'
-    attached_blog: posts/ap-36-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 4xl
-    color: '#d8ebee'
-    width: '15'
-    align_y: start
-    margin_y: '1000'
-    margin_left: '0'
-    margin_right: '15'
-    meta_align: left
-    theme_color: '#fdf9b0'
-    meta: meta
-    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Wired
-    meta: The Hard Luck Texas Town That Bet on Bitcoin and Lost
-    attached_collection: collections/wired-bitmain.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: start
-    color: '#ffe087'
-    caption:
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#f8f1bc'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: WaPo
-    caption: Featured on Washington Post and Business Insider
-    attached_blog: posts/the-changing-landscape-of-america-retail.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
-    block_aspect_ratio: 2x3
-    text_size:
-    color: '#fde25e'
-    width: '25'
-    align_y: '0'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#E8DCEE'
-    meta: meta
-    align_x: start
-    image:
-    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Spotlight Awards
-    caption: 'The New York Times: Auctioning Off a Dead Mall'
-    attached_blog: posts/ap-37-american-photography-annual-copy.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spotlight.jpg
-    block_aspect_ratio: 1x1
-    text_size: 2xl
-    color: '#AAFEBF'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#BEE8F6'
-    meta: meta
-  - _bookshop_name: home/media-feature
-    title: Arizona Tourism
-    meta: 'Visit A New State of Mind '
-    attached_collection: collections/arizona-office-of-tourism.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
-    width: '55'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a8f1e1'
-    caption: ''
-    title_margin_y: '60'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#b5fb9f'
-    line_height: none
-    text_alignment:
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Xmas Roundup
-    caption: Holiday Season Feature and Interview Roundup
-    attached_blog: posts/christmas-in-america-happy-birthday-jesus.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
-    block_aspect_ratio: 8-5x11
-    text_size:
-    color: '#c5c458'
-    width: '30'
-    align_y: start
-    margin_y: '300'
-    margin_left: '25'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ff0000'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/modal-blog
-    title: The Fence
-    caption: The Fence at The Griffin Museum of Photography
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
-    block_aspect_ratio: 11x8-5
-    text_size:
-    color: '#eed2d2'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
-    meta_align: left
-    theme_color: '#e5e5ef'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: 'The WM Phoenix Open: At the Most Outrageous Hole in Golf'
-    attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-2.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#fdddad'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f39696'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: Golf Digest
-    meta: 'Cameron Young Cover Story '
+    title:
+    meta: 'Golf Digest: Cameron Young'
     attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-7.jpg
-    width: '33'
-    margin_y: '350'
-    margin_left: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -1039,35 +824,59 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
-    attached_collection: collections/espn-cowboy-cerronne.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
+  - _bookshop_name: home/modal-blog
+    title: The Fence
+    caption: The Fence at The Griffin Museum of Photography
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
+    block_aspect_ratio: 11x8-5
+    text_size:
+    color: '#eed2d2'
+    width: '25'
     align_y: start
-    color: '#2d1360'
-    caption: ''
-    title_margin_y: '-10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#faabab'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#e5e5ef'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Xmas Roundup
+    caption: Holiday Season Feature and Interview Roundup
+    attached_blog: posts/christmas-in-america-happy-birthday-jesus.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
+    block_aspect_ratio: 8-5x11
+    text_size:
+    color: '#c5c458'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ff0000'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description: A student of subtleties.
+collection_description: >-
+  Here you will find handpicked photographic art works, client commissions, and
+  recent news.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
-navigation_theme: white
+navigation_theme: black
 row_alignment: between
 selected_works_theme:
   - template: ''

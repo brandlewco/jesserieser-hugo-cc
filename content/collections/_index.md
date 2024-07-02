@@ -6,50 +6,22 @@ collection_description: >-
 title: Jesse Rieser - Archive
 slug: collections
 collection_sorter:
-  - collections/outdoor-life.md
-  - collections/antoine-s-escalaras.md
-  - collections/espn-devin-booker-cover-story.md
-  - collections/retail.md
-  - collections/barrons-lake-mead-drought.md
-  - collections/bloomberg-nomads.md
-  - collections/fights.md
-  - collections/golfdigest-nicklaus.md
-  - collections/xmas-in-america.md
-  - collections/vanishing-folklore.md
-  - collections/amtrak-southwest-chief.md
-  - collections/wired-bitmain.md
-  - collections/gundemic.md
-  - collections/wired-gunsite.md
-  - collections/people.md
+  - collections/star-geezers.md
+  - collections/stalking-a-serial-killer.md
   - collections/time-kari-lake.md
-  - collections/time-magazine-clone-test.md
-  - collections/smithsonian.md
-  - collections/vox-100-battles-ghost-towns.md
-  - collections/arizona-office-of-tourism.md
-  - collections/phoenix-open-espn.md
+  - collections/time.md
+  - collections/amtrak-texas-eagle.md
+  - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-3.md
-  - collections/golf-digest-cam-young.md
+  - collections/outside-magazine-rob-krar.md
+  - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/phoenix.md
   - collections/smartwater.md
-  - collections/adidas-golf.md
-  - collections/autobiography.md
-  - collections/armani-anniversary.md
-  - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-2.md
-  - collections/amtrak-texas-eagle.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/etrade.md
-  - collections/star-geezers.md
-  - collections/time.md
-  - collections/stalking-a-serial-killer.md
   - collections/wired.md
-  - collections/outside-magazine-rob-krar.md
-  - collections/sounds-of-cement.md
-  - collections/collections-ice-t.md
-  - collections/popular-mechanics.md
-  - collections/collections-wall-street-journal-robot.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/when-fall-came-early.md

@@ -7,7 +7,7 @@ seo:
   meta_title: Golf Digest Jack Vs. Nicklaus
 title: Golf Digest
 collection_meta: Jack Vs. Nicklaus
-collection_meta_2: Jack Nicklaus’ Legal Battle Against His Own Company
+collection_meta_2: The Legal Battle Against His Own Company
 collection_description: >-
   How did the game's greatest champion become embroiled in a lawsuit against the
   company he founded?
@@ -67,26 +67,17 @@ collection_blocks:
     align_y: center
     color: '#ffd9cf'
     caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-7.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
-    align_y: center
-    color: '#ddf5da'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-5.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '50'
     margin_right: '0'
     align_y: center
     color: '#f7f7d0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-cover-vert-1.jpg
@@ -111,6 +102,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true

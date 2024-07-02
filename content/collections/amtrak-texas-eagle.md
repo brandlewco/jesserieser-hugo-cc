@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description: ''
   meta_title: 'Amtrak The National: Tucson to El Paso On the Texas Eagle'
-title: 'Amtrak the National '
-collection_meta: Tucson to El Paso On the Texas Eagle
-collection_meta_2: ''
+title: 'Amtrak '
+collection_meta: 'The National '
+collection_meta_2: Tucson to El Paso On the Texas Eagle
 collection_description: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
@@ -82,15 +82,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-7.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: ''
-    color: '#efcab3'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-8.jpg
     width: '33'
@@ -277,11 +268,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-2.jpg
 collection_content: >-
@@ -299,6 +289,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

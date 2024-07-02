@@ -100,23 +100,13 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-8.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    align_y: ''
-    color: '#D5F4F6'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-9.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: ''
     align_y: ''
     color: '#f9d1bc'
@@ -124,16 +114,6 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-10.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: ''
-    color: '#cce3fa'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -478,6 +458,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
