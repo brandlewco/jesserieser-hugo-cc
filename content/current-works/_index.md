@@ -46,7 +46,7 @@ content_blocks:
     title:
     meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-62.jpg
     width: '50'
     margin_y: '100'
     margin_left: '35'
