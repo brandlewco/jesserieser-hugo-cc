@@ -9,15 +9,15 @@ collection_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md
   - collections/time-kari-lake.md
-  - collections/the-new-york-times-2.md
   - collections/time.md
+  - collections/amtrak-texas-eagle.md
   - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-3.md
   - collections/adidas-golf.md
   - collections/golf-digest-1.md
   - collections/phoenix.md
   - collections/smartwater.md
-  - collections/amtrak-texas-eagle.md
+  - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/wired.md
