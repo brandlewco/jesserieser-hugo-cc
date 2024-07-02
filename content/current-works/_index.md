@@ -19,8 +19,8 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Outdoor Life
-    meta: A Son's First Solo Hunt
+    title: A Son's First Solo Hunt
+    meta: Outdoor Life
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
     width: '35'
@@ -31,14 +31,14 @@ content_blocks:
     color: '#c9fce6'
     caption: ''
     title_margin_y: '10'
-    title_margin_left: '-15'
+    title_margin_left: '-40'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#b2c995'
+    text_size: 2xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: center
-    text_tracking: normal
-    font_weight: bold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -54,15 +54,15 @@ content_blocks:
     align_y: start
     color: '#d0e5ef'
     caption: ''
-    title_margin_y: '40'
-    title_margin_left: '20'
+    title_margin_y: '10'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#ff3939'
+    text_size: 2xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -112,15 +112,15 @@ content_blocks:
     align_y: start
     color: '#e5f5b5'
     caption: ''
-    title_margin_y: '50'
-    title_margin_left: '-25'
+    title_margin_y: '10'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b4f0f7'
+    text_size: 2xl
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -340,52 +340,8 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title: Time
-    meta: 'Kari Lake: Face of the New Maga Right'
-    attached_collection: collections/time-kari-lake.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
-    width: '25'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: start
-    color: '#cdf0d6'
-    caption: ''
-    title_margin_y: '25'
-    title_margin_left: '65'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#a6cdec'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: 'Wired '
-    meta: 'A Wrinkle In Time '
-    attached_collection: collections/time-magazine-clone-test.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wired-pattie-1.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: center
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#91dacd'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -423,28 +379,6 @@ content_blocks:
     theme_color: '#f8d9d9'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-feature
-    title: Adobe
-    meta: Torpedo London
-    attached_collection: collections/phoenix.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#d0f4f2'
-    caption: ''
-    title_margin_y: '30'
-    title_margin_left: '60'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#fffa8a'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -632,28 +566,6 @@ content_blocks:
     theme_color: '#FF052B'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-feature
-    title: The New York Times
-    meta: A Minor Leaguer’s Hard Road to the Bigs
-    attached_collection: collections/the-new-york-times-3.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '5'
-    align_y: start
-    color: '#E4ECF7'
-    caption:
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right:
-    text_size: 6xl
-    text_color: '#FF6065'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: BOOOOOOOM Feature
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -672,29 +584,6 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title: The Star Geezers
-    meta: "Condor\_Airlines (Germany)"
-    attached_collection: collections/star-geezers.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-10.jpg
-    width: '55'
-    margin_y: '200'
-    margin_left: '15'
-    margin_right: '0'
-    align_y:
-    color: '#9bbad5'
-    caption:
-    title_margin_y: '15'
-    title_margin_left: '70'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f38eff'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-    align_x: end
   - _bookshop_name: home/modal-blog
     title: Agents Club 22 Awards
     caption: 'New York Times: America Is Reopening'
@@ -791,28 +680,6 @@ content_blocks:
     meta_align: left
     theme_color: '#c8b3eb'
     meta: meta
-  - _bookshop_name: home/media-feature
-    title: adidas Golf
-    meta: Dustin Johnson, Xander Schaufelle, & Sergio Garcia
-    attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-6.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#d0f6cb'
-    caption:
-    title_margin_y: '80'
-    title_margin_left: '50'
-    title_margin_right:
-    text_size: 6xl
-    text_color: '#fdabab'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: 2022 SPD Awards
     caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
@@ -933,28 +800,6 @@ content_blocks:
     meta_align: left
     theme_color: '#BEE8F6'
     meta: meta
-  - _bookshop_name: home/media-feature
-    title: Arizona Tourism
-    meta: 'Visit A New State of Mind '
-    attached_collection: collections/arizona-office-of-tourism.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
-    width: '55'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a8f1e1'
-    caption: ''
-    title_margin_y: '60'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#b5fb9f'
-    line_height: none
-    text_alignment:
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -1039,28 +884,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title: ESPN
-    meta: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries
-    attached_collection: collections/espn-cowboy-cerronne.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#2d1360'
-    caption: ''
-    title_margin_y: '-10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#faabab'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
