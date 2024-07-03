@@ -173,6 +173,17 @@ html.is-animating .transition-nav {
     fill: #fff;
   }
 
+body.archive .initial-black {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out;
+}
+
+body.archive  .initial-black-bg {
+  background-color: #ffffff !important;
+  transition: background-color 0.33s ease-in-out;
+}  
+
 .initial-black {
   color: #000000 !important;
   fill: #000000 !important;

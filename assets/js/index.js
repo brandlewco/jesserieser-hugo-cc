@@ -119,29 +119,32 @@ function init() {
     var sections = document.querySelectorAll('section[data-hue]');
     var navigationRect = navigation.getBoundingClientRect();
     var navigationMidpoint = navigationRect.top + navigationRect.height / 2;
-
+  
+    var defaultColor = ''; // Define your default color if any
+    var defaultBackgroundColor = ''; // Define your default background color if any
+  
     for (var section of sections) {
       var sectionRect = section.getBoundingClientRect();
-
+  
       if (
         navigationMidpoint >= sectionRect.top &&
         navigationMidpoint <= sectionRect.bottom
       ) {
         var hue = section.getAttribute('data-hue');
         let color = '';
-
+  
         if (hue === 'black') {
           color = '#000000';
         } else if (hue === 'white') {
           color = '#FFFFFF';
         }
-
+  
         navigation.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
           if (element.classList.contains('bun')) {
             if (color) {
               element.style.backgroundColor = color;
             } else {
-              element.style.removeProperty('background-color');
+              element.style.backgroundColor = defaultBackgroundColor;
             }
           } else if (element.classList.contains('shift')) {
             if (color) {
@@ -150,18 +153,20 @@ function init() {
                 element.style.fill = color;
               }
             } else {
-              element.style.removeProperty('color');
+              element.style.color = defaultColor;
               if (element.classList.contains('nav-ig')) {
-                element.style.removeProperty('fill');
+                element.style.fill = defaultColor;
               }
             }
           }
         });
-
+  
         break;
       }
     }
   }
+  
+  
 
   // Event listeners for scroll and resize
   window.addEventListener('scroll', updateNavigationColor);
@@ -773,11 +778,15 @@ function init() {
     const windowY = scrollTop; // window.scrollY can be used here as well
   
     if (headerImage) {
-      headerImage.style.opacity = value_limit(
-        1 - scrollTop / (height * 0.5),
-        0,
-        1
-      ).toFixed(2);
+      let opacity;
+      if (scrollTop < startFade) {
+        opacity = 1;
+      } else if (scrollTop > endFade) {
+        opacity = 0;
+      } else {
+        opacity = 1 - (scrollTop - startFade) / (endFade - startFade);
+      }
+      headerImage.style.opacity = value_limit(opacity, 0, 1).toFixed(2);
     }
   
     if (featureImage) {
@@ -794,26 +803,50 @@ function init() {
 
       // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
       if (scrollTop >= startFade) {
-        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
-          element.style.color = '#000000';
-          element.style.fill = '#000000';
-        });    
-        document.querySelectorAll('#page-title .loading').forEach(function (element) {
-          element.style.backgroundColor = '#000000';
-        });
+        if (document.body.classList.contains('archive')) {
+          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
+            element.style.color = '#FFFFFF';
+            element.style.fill = '#FFFFFF';
+          });
+          document.querySelectorAll('#page-title .loading').forEach(function (element) {
+            element.style.backgroundColor = '#FFFFFF';
+          });
+        } else {
+          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
+            element.style.color = '#000000';
+            element.style.fill = '#000000';
+          });
+          document.querySelectorAll('#page-title .loading').forEach(function (element) {
+            element.style.backgroundColor = '#000000';
+          });
+        }
         pageDescription.classList.add("opacity-100");
         pageDescription.classList.remove("opacity-0");
       } else {
-        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #page-description').forEach(function (element) {
-          element.style.color = ''; // Change this to the original color if needed
-          element.style.fill = ''; // Change this to the original color if needed
+        // Reset the colors and styles when scrolling back above the threshold
+        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
+          element.style.color = ''; // Reset to original color
+          element.style.fill = ''; // Reset to original color
         });
         document.querySelectorAll('#page-title .loading').forEach(function (element) {
-          element.style.backgroundColor = ''; // Change this to the original color if needed
+          element.style.backgroundColor = ''; // Reset to original background color
         });
         pageDescription.classList.add("opacity-0");
         pageDescription.classList.remove("opacity-100");
+      
+        // Check if the body has the 'archive' class and set colors to white if true
+        if (document.body.classList.contains('archive')) {
+          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
+            element.style.color = '#FFFFFF';
+            element.style.fill = '#FFFFFF';
+          });
+          document.querySelectorAll('#page-title .loading').forEach(function (element) {
+            element.style.backgroundColor = '#FFFFFF';
+          });
+        }
       }
+      
+      
   
     if (projectHeader) {
       if (windowY > window.innerHeight * 0.75) {
@@ -850,7 +883,9 @@ function init() {
         pageTitle.style.top = "auto";
         pageTitle.style.bottom = "0";
         pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+        if (headerPointer) {
         headerPointer.style.opacity = 0;
+        }
         if (pageDescription) {
           pageDescription.classList.remove("absolute");
           pageDescription.classList.add("relative");
@@ -861,7 +896,9 @@ function init() {
         pageTitle.style.top = "50%";
         pageTitle.style.bottom = "auto";
         pageTitle.style.transform = "translate3d(0, -50%, 0)";
+        if (headerPointer){
         headerPointer.style.opacity = 1;
+        }
         if (pageDescription) {
           pageDescription.classList.remove("relative");
           pageDescription.classList.add("absolute");

@@ -18,25 +18,20 @@
 
 {{- define "attached" -}}
 
+Copy code
 <script>
   (function(){
     var images = [
       {{- range .Params.selected_works_theme -}}
       ["<source data-srcset='{{ .image_mobile }}?width=720' media='(orientation: portrait) and (max-width: 688px)' /><source data-srcset='{{ .image_mobile }}?width=1040' media='(orientation: portrait) and (max-width: 1024px)' /><source data-srcset='{{ .image }}?width=1040' media='(max-width: 1024px)' /><source data-srcset='{{ .image }}?width=1500' media='(max-width: 1440px)'  /><source data-srcset='{{ .image }}?width=2560' media='(max-width: 2560px)'  /><img id='header-image' data-src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' class='featured bg-center lazyload h-full object-cover absolute inset-0 z-0' data-sizes='auto' alt='Jesse Rieser Featured Collection Image'/>","{{.theme_color}}"],
       {{- end -}}
-      ]
+    ];
+
     var imgCount = images.length;
-  
     var randNumber = Math.floor((Math.random() * imgCount) + 1);
     var imgURL = images[randNumber-1];
 
-    const content = document.getElementById("content");
     const featurePicture = document.getElementById("feature-picture");
-    const hueHeaderShift = document.querySelectorAll(".shift");
-    const hueHeaderBun = document.querySelectorAll(".bun");
-    const projectHeader = document.getElementById("project-header");
-    const projectDescription = document.getElementById("project-description");
-    const featureFooter = document.getElementById("feature-footer");
     const navigationContainer = document.querySelector('.navigation-container');
 
     var color = imgURL[1]; // This is the theme color from your array
@@ -44,13 +39,6 @@
     // Create a <style> element
     var style = document.createElement('style');
     style.type = 'text/css';
-
-    // Add CSS rule for .bun
-    if (color) {
-      style.innerHTML = `.bun { background-color: ${color}; }`;
-    } else {
-      style.innerHTML = `.bun { background-color: initial; }`;
-    }
 
     // Append the style element to the head of the document
     document.head.appendChild(style);
@@ -63,12 +51,11 @@
 
     // Ensure featurePicture exists before modifying it
     if (featurePicture) {
-      featurePicture.innerHTML = imgURL[0] + featurePicture.innerHTML;
+      featurePicture.innerHTML = imgURL[0];
     } else {
       console.error('Element with id "feature-picture" not found');
     }
   }());
 </script>
-
 {{- end -}}
 

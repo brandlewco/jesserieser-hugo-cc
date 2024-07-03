@@ -6,7 +6,7 @@
         {{ $path = .Path }}
     {{ end }}
 
-    {{ if or (eq $path "content/_index.md") (eq $path "content/collection/_index.md") }}
+    {{ if or (eq $path "content/_index.md") (eq $path "content/collection/_index.md") (eq $path "content/current-works/_index.md")}}
     <picture class="flex justify-center" id="feature-picture">
         <div id="header-loading" class="text-center font-semibold absolute inset-x-0 bottom-0 z-50 text-4xl">
             <i class="far fa-spinner-third fa-spin text-{{.Params.navigation_theme}}"></i>
@@ -38,12 +38,12 @@
         <div class="loading-container w-full pb-4">
             <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
         </div>
-        <div id="meta-container" class="flex flex-wrap w-full items-center">
+        <div id="meta-container" class="flex flex-wrap w-full items-center" {{ if .Params.collection_description }}style="min-width: 300px;"{{end}}>
             <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow" data-sal="slide-down" data-sal-delay="1200">
                 {{ .Params.collection_meta }}
             </h2>
             {{ with .Params.collection_meta_2 }}
-                <h3 data-cms-bind="#collection_meta_2" class="text-sm font-medium italic tracking-widest leading-tight text-right flex-grow pl-32" data-sal="slide-down" data-sal-delay="1400">
+                <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-sm font-medium italic tracking-widest leading-tight text-right flex-grow pl-0 sm:pl-32 pt-4 sm:pt-0" data-sal="slide-down" data-sal-delay="1400">
                     {{ . }}
                 </h3>
             {{ end }}
@@ -52,10 +52,6 @@
             {{ if .Params.collection_description }}
             <span>{{ .Params.collection_description | markdownify }}</span>
             {{else}}
-            {{end}}
-            {{if (eq .Params.hide_footer true) }}
-            {{else}}
-            <span><a href="#project-brief" class="inline-block text-left text-black font-bold underline" data-no-swup>Read more.</a></span>
             {{end}}
         </div>
     </div>

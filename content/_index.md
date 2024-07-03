@@ -1158,6 +1158,7 @@ collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: white
 row_alignment: between
+hide_footer: true
 selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg

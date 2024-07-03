@@ -5,6 +5,7 @@ collection_description: >-
   photographer. A student of subtleties.
 title: Jesse Rieser - Archive
 slug: collections
+navigation_theme: black
 collection_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md

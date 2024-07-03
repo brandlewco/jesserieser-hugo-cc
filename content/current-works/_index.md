@@ -876,7 +876,7 @@ collection_description: >-
   recent news.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
-navigation_theme: black
+navigation_theme: white
 row_alignment: between
 selected_works_theme:
   - template: ''

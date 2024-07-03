@@ -26,8 +26,8 @@
     <div class="navToggle sm:hidden w-1/6 sm:w-1/4 flex justify-end">
       <button class="text-black target-burger" name="Mobile Site Navigation">
         <ul class="buns">
-          <li class="shift bun"></li>
-          <li class="shift bun"></li>
+          <li class="shift initial-black-bg bun"></li>
+          <li class="shift initial-black-bg bun"></li>
         </ul>
       </button>
     </div>
@@ -36,15 +36,15 @@
         <a href="/current-works" class="nav-current mt-3 sm:mt-0 sm:mr-4 text-xs font-normal tracking-looser no-underline sm:pr-4  btn-underline shift initial-black">
           CURRENT WORKS
         </a>
-        <div class="nav-overview-container relative flex flex-col items-center" style="height: 18px">
-          <a href="#" class="nav-overview text-xs no-underline mt-3 sm:mt-0 sm:mr-4 text-center sm:text-left sm:pr-4 btn-underline font-normal tracking-looser shift initial-black" data-swup-preload="">
+        <div class="nav-overview-container mt-3 sm:mt-0 relative flex flex-col items-center">
+          <a href="#" class="nav-overview text-xs no-underline sm:mr-4 text-center sm:text-left sm:pr-4 btn-underline font-normal tracking-looser shift initial-black" data-swup-preload="">
             PORTFOLIOS
           </a>
-          <div class="dropdown-content hidden sm:absolute">
+          <div class="dropdown-content hidden relative sm:absolute text-center sm:text-left">
             {{ range .Site.Data.config.config.overview_pager }}
             {{ with $.Site.GetPage . }}
                 {{ if ne .File.LogicalName "_index.md" }}
-                    <a href="/collections/{{ lower .Params.slug }}/" class="block text-xs font-normal hover:font-semibold shift initial-black">{{ lower .Params.title }}</a>
+                    <a href="/collections/{{ lower .Params.slug }}/" class="block text-xs font-normal pt-1 sm:pb-0 hover:font-semibold shift initial-black">{{ lower .Params.title }}</a>
                 {{ end }}
             {{ end }}
         {{ end }}
