@@ -304,7 +304,7 @@ about_blocks:
     width: '20'
     color: '#000000'
     modal_color: '#fad267'
-    text_color: '#fcfcfc'
+    text_color: '#020202'
     text_size: lg
     line_height: normal
     text_alignment: center
