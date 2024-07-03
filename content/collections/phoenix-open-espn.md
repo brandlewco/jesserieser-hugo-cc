@@ -4,7 +4,7 @@ seo:
   meta_description: Meta Description
   meta_title: The WM Phoenix Open for ESPN
 title: ESPN
-collection_meta: The WM Phoenix Open
+collection_meta: The Phoenix Open
 collection_meta_2: A Wild Weekend At the Most Outrageous Hole in Golf
 collection_description: >-
   Photographed at the WM Phoenix Open's infamous 16th hole, these works are a
