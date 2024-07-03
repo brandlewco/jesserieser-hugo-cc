@@ -1250,14 +1250,14 @@ about_blocks:
     background_image_toggle: false
     image:
     text_color: '#000000'
-    text_size: lg
+    text_size: base
     text_alignment: left
-    text_tracking: widest
-    font_weight: light
+    text_tracking: wide
+    font_weight: hairline
     width: '80'
     align_y: start
-    margin_y: '200'
-    margin_left: '10'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '0'
     parallax: true
     image_css:
