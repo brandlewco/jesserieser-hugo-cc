@@ -1,11 +1,11 @@
 ---
 _schema: default
 seo:
-  meta_description: 
+  meta_description:
   meta_title: Kitt Peak National Observatory for Smithsonian Magazine
 title: Smithsonian Magazine
-collection_meta: Kitt Peak National Observatory
-collection_meta_2:
+collection_meta: Dr. Stéphanie Juneau
+collection_meta_2: Kitt Peak National Observatory
 collection_description: >-
   Astronomer and Data Scientist Dr. Stéphanie Juneau at Kitt Peak National
   Observatory.
@@ -19,251 +19,251 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#dce3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-1.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '35'
     margin_right: ''
-    margin_y: '100'
-    width: '50'
+    align_y: ''
+    color: '#dce3f3'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#f0f3d4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-2.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    align_y: ''
+    color: '#f0f3d4'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#efcab3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-3.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#efcab3'
     caption: ''
-    color: '#f8ebcc'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-4.jpg
+    width: '25'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '25'
-    margin_y: '200'
-    width: '25'
+    align_y: ''
+    color: '#f8ebcc'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#dcedf8'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-5.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    align_y: ''
+    color: '#dcedf8'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#f4dfe7'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo_dyptech-1.jpg
+    width: '90'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '90'
+    align_y: ''
+    color: '#f4dfe7'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d5f4f6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-8.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '50'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#d5f4f6'
     caption: ''
-    color: '#f9d1bc'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-9.jpg
+    width: '30'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '700'
-    width: '30'
+    align_y: ''
+    color: '#f9d1bc'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#cce3fa'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-10.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '45'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: ''
+    color: '#cce3fa'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#edf1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-11.jpg
+    width: '25'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#edf1d0'
     caption: ''
-    color: '#f1e3cf'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-12.jpg
+    width: '33'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '400'
-    width: '33'
+    align_y: ''
+    color: '#f1e3cf'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#eadef4'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-13.jpg
+    width: '60'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    align_y: ''
+    color: '#eadef4'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#efe5dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-14.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '25'
     margin_right: ''
-    margin_y: '100'
-    width: '33'
+    align_y: ''
+    color: '#efe5dd'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d8d7e3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-15.jpg
+    width: '30'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '600'
-    width: '30'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#d8d7e3'
     caption: ''
-    color: '#c6e2d4'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-16.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '100'
-    width: '45'
+    align_y: ''
+    color: '#c6e2d4'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d8e9ba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-17.jpg
+    width: '66'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    align_y: ''
+    color: '#d8e9ba'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#ede5de'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-18.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#ede5de'
     caption: ''
-    color: '#daf0d5'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-19.jpg
+    width: '33'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '600'
-    width: '33'
+    align_y: ''
+    color: '#daf0d5'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#d8f3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-20.jpg
+    width: '33'
+    margin_y: '500'
     margin_left: '5'
     margin_right: ''
-    margin_y: '500'
-    width: '33'
-  - _bookshop_name: collections/media-element
-    align_x: start
     align_y: ''
+    color: '#d8f3f3'
     caption: ''
-    color: '#fbc1a2'
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-21.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '10'
-    margin_y: '100'
-    width: '45'
+    align_y: ''
+    color: '#fbc1a2'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_x: start
-    align_y: ''
-    caption: ''
-    color: '#f6f1d0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
+    width: '66'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '66'
+    align_y: ''
+    color: '#f6f1d0'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -301,6 +301,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
