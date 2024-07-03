@@ -63,7 +63,7 @@ about_bio: >-
   with his technical expertise but also in the ideation phase. He feels his
   greatest currency is how he communicates and sees the world. Some call it
   empathy. Some call it charm. His mom just says he’s a nice young man.
-about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-3.jpg
+about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
@@ -1244,17 +1244,17 @@ about_blocks:
       I know whenever we work together, he will return with engaging images that
       surpass the expectations of the assignment and encourage people to pause
       and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;**&nbsp;***&nbsp;*Director of Photography \| Barron's &
-      Penta*
-    background_color: '#ff6a5a'
+      Finkelstein&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;*Director of Photography \|
+      Barron's & Penta*
+    background_color: '#ffffff'
     background_image_toggle: false
     image:
-    text_color: '#ffffff'
+    text_color: '#000000'
     text_size: lg
     text_alignment: left
     text_tracking: widest
     font_weight: light
-    width: '40'
+    width: '80'
     align_y: start
     margin_y: '200'
     margin_left: '10'
