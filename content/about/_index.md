@@ -35,7 +35,7 @@ header_col_3: >-
   href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a><br /><a
   href="mailto:HELLO@SNAPPERIMAGES.COM">Sydney</a></p>
 row_alignment: between
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/info_vert-1.jpg
 about_bio: >-
   **Bio**
 
