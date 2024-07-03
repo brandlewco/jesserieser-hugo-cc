@@ -316,7 +316,7 @@ about_blocks:
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '50'
-    title_margin_left: '30'
+    title_margin_left: '35'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -580,7 +580,7 @@ about_blocks:
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '50'
-    title_margin_left: '30'
+    title_margin_left: '25'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -1027,7 +1027,7 @@ about_blocks:
     margin_left: '0'
     margin_right: '5'
     title_margin_y: '50'
-    title_margin_left: '30'
+    title_margin_left: '35'
     title_margin_right: '0'
     modal_block:
       - content: <strong>AARP</strong>
