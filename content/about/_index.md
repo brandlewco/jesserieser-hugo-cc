@@ -1298,7 +1298,7 @@ footer_links:
     link_url: https://www.artphotoindex.com/api/photographer/Jesse-Rieser/15804
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
-about_bio_image_credit: © Brad Reed. Header © Mike Lundgren
+about_bio_image_credit: © Mike Lundgren
 cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
