@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: "Grand Canyon 100th Anniversary\_ for Time Magazine"
 title: Time Magazine
-collection_meta: "Grand Canyon 100th Anniversary\_"
-collection_meta_2:
+collection_meta: Grand Canyon
+collection_meta_2: " 100th Anniversary\_"
 collection_description: >-
   *“As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
   Next Century.”* A nod to Teddy Roosevelt’s legacy of conservation, these works
@@ -22,104 +22,129 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#c2a282"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-1b.jpg
-    margin_left: "20"
-    margin_right: "0"
-    margin_y: "100"
-    width: "60"
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: center
+    color: '#c2a282'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#dfebef"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-2.jpg
-    margin_left: "5"
-    margin_y: "100"
-    width: "40"
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#dfebef'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    align_y: start
-    color: "#cdb882"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-3.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "600"
-    width: "45"
+    width: '45'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#cdb882'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#d8a6c7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-4.jpg
-    margin_left: "35"
-    margin_right: "0"
-    margin_y: "100"
-    width: "33"
+    width: '33'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: center
+    color: '#d8a6c7'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#eedddd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
-    margin_left: "15"
-    margin_y: "100"
-    width: "70"
+    width: '70'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: center
+    color: '#eedddd'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#f1b88c"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-6.jpg
-    margin_left: "5"
-    margin_y: "100"
-    width: "30"
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#f1b88c'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: "#cfc78c"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-7.jpg
-    margin_right: "5"
-    margin_y: "400"
-    width: "50"
+    width: '50'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: center
+    color: '#cfc78c'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    color: "#e8f3f3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13b-single.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "25"
-  - _bookshop_name: collections/media-element
+    width: '25'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: start
-    color: "#f9eae0"
+    color: '#e8f3f3'
+    caption: test caption
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13c-single.jpg
-    margin_left: "0"
-    margin_right: "20"
-    margin_y: "100"
-    width: "25"
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#f9eae0'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#c6a5c1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-8.jpg
-    margin_left: "5"
-    margin_right: "0"
-    margin_y: "100"
-    width: "55"
+    width: '55'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#c6a5c1'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: "#fae386"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "800"
-    width: "25"
+    width: '25'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: center
+    color: '#fae386'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#eed8ca"
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-11.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "55"
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: center
+    color: '#eed8ca'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -144,8 +169,8 @@ collection_category:
   - Reportage
   - Editorial
 date: 2019-05-01T07:00:00Z
-theme_color: "#eedddd"
-theme_color_all_works: "#ffbaba"
+theme_color: '#eedddd'
+theme_color_all_works: '#ffbaba'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-12.jpg
 collection_preview:
@@ -171,10 +196,10 @@ collection_awards: []
 collection_press: []
 collection_exhibition:
   - content: >-
-      <strong>2019</strong><br>  
-      <em>Grand Canyon National Park 100</em><br>  
-      Etherton Gallery<br> 
-      Tucson, AZ (Group Show)
+      <strong>2019</strong><br>   <em>Grand Canyon National Park 100</em><br>  
+      Etherton Gallery<br>  Tucson, AZ (Group Show)
+collection_overview: false
+collection_grid: false
 collection_archive: true
 collection_hidden: false
 hide_footer: false
