@@ -4,8 +4,8 @@ seo:
   meta_description: Portraits of Arizona Governor Candidate Kari Lake
   meta_title: Kari Lake for Time Magazine
 title: Time Magazine
-collection_meta: How Kari Lake Went From Local Anchor
-collection_meta_2: to New Face of the Maga Right
+collection_meta: 'Kari Lake '
+collection_meta_2: Went From Local Anchor to New Face of the Maga Right
 collection_description: >-
   Lake has parlayed what may matter most in today’s Republican Party—the ability
   to captivate an audience—into a startling political ascent.
@@ -19,127 +19,127 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e1f3dd'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-1.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    align_y:
+    color: '#e1f3dd'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e1f9fb'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-2.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#e1f9fb'
     caption:
-    color: '#fbebd6'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-3.jpg
+    width: '33'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '300'
-    width: '33'
+    align_y:
+    color: '#fbebd6'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#e4f6fe'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-4.jpg
+    width: '15'
+    margin_y: '100'
     margin_left: '45'
     margin_right: '25'
-    margin_y: '100'
-    width: '15'
+    align_y: start
+    color: '#e4f6fe'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ffd9cf'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-5.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    align_y:
+    color: '#ffd9cf'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ddf5da'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-6.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#ddf5da'
     caption:
-    color: '#f7f7d0'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-7.jpg
+    width: '20'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '25'
-    margin_y: '300'
-    width: '20'
+    align_y:
+    color: '#f7f7d0'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e0efff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-8.jpg
+    width: '15'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '15'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#e0efff'
     caption:
-    color: '#f0e7ff'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-9.jpg
+    width: '30'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '30'
-    margin_y: '300'
-    width: '30'
+    align_y:
+    color: '#f0e7ff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e6ffea'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-11.jpg
+    width: '25'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#e6ffea'
     caption:
-    color: '#d8f9fd'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-10.jpg
+    width: '20'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '25'
-    margin_y: '500'
-    width: '20'
+    align_y:
+    color: '#d8f9fd'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#e6fbd0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-time-lake-12.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y:
+    color: '#e6fbd0'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -168,6 +168,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
