@@ -5,7 +5,7 @@ seo:
   meta_title: Stalking A Serial Killer for Society Magazine
 title: Society Magazine
 collection_meta: Stalking A Serial Killer
-collection_meta_2: 'Revisiting the Tracks of the Serial Street Shooter '
+collection_meta_2: 'Tracing the Path of the Serial Street Shooter '
 collection_description: >-
   Published during the 2016 election for French magazine *Society’s* “America”
   issue. The photo essay depicts the Latino neighborhood plagued by “The Serial
@@ -470,7 +470,7 @@ collection_exhibition:
       York, NY (Group Show)
 collection_overview: false
 collection_grid: false
-collection_archive: true
+collection_archive: false
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
