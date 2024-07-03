@@ -1013,21 +1013,21 @@ about_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
     width: '20'
-    color: '#d5e3f6'
+    color: '#000000'
     modal_color: '#d5e3f6'
-    text_color: '#fab7ed'
-    text_size: 7xl
-    line_height:
-    text_alignment: right
-    text_tracking:
-    font_weight:
+    text_color: '#080708'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    title_margin_y: '10'
-    title_margin_left: '5'
+    title_margin_y: '50'
+    title_margin_left: '30'
     title_margin_right: '0'
     modal_block:
       - content: <strong>AARP</strong>
