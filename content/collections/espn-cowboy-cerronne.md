@@ -1,11 +1,11 @@
 ---
 _schema: default
 seo:
-  meta_description: "UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries"
+  meta_description: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
   meta_title: Donald “Cowboy” Cerrone for ESPN
 title: ESPN
-collection_meta: 'UFC 246: The Painful Stories Behind Donald “Cowboy” Cerrone’s Injuries'
-collection_meta_2:
+collection_meta: UFC 246
+collection_meta_2: The Painful Stories Behind “Cowboy” Cerrone’s Injuries
 collection_description: >-
   “Disemboweled by an ATV, head butted by a horse: The painful stories behind
   Donald Cerrone’s injuries."
@@ -22,118 +22,152 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f1b784'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-1.jpg
+    width: '60'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    align_y: center
+    color: '#f1b784'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#fcddba'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-2.jpg
-    margin_left: '15'
-    margin_y: '100'
     width: '33'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: center
+    color: '#fcddba'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#DEB08E'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-5.jpg
+    width: '25'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '20'
-    margin_y: '500'
-    width: '25'
+    align_y: center
+    color: '#DEB08E'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#b69565'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-4.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    align_y: center
+    color: '#b69565'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#b47d64'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-3.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '45'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#b47d64'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#9f7769'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#9f7769'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#663c2b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-7.jpg
+    width: '30'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '10'
-    margin_y: '300'
-    width: '30'
+    align_y: center
+    color: '#663c2b'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#e98a74'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-8.jpg
+    width: '25'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    align_y: center
+    color: '#e98a74'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#ecbe9c'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-9.jpg
-    margin_left: '0'
-    margin_y: '100'
     width: '25'
-  - _bookshop_name: collections/media-element
-    color: '#866254'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    margin_y: '100'
+    align_y: center
+    color: '#ecbe9c'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-10.jpg
     width: '25'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: '#42312d'
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
-    margin_left: '25'
     margin_y: '100'
-    width: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#866254'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f1d0b6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-11.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: center
+    color: '#42312d'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-12.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    align_y: center
+    color: '#f1d0b6'
+    caption: test caption
   - _bookshop_name: collections/media-element
-    color: '#d1513a'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-13.jpg
-    margin_right: '15'
-    margin_y: '300'
     width: '20'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: center
+    color: '#d1513a'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#f4dfcc'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-14.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    align_y: center
+    color: '#f4dfcc'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#b2805b'
     image: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-15.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    align_y: center
+    color: '#b2805b'
+    caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/cowboy-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-12.jpg
@@ -183,6 +217,8 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
