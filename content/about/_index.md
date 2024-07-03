@@ -72,20 +72,20 @@ about_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
     width: '20'
-    color: '#77ddd4'
+    color: '#010101'
     modal_color: '#77ddd4'
     text_color: '#000000'
-    text_size: 7xl
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight:
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
     align_y: start
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    title_margin_y: '15'
+    title_margin_y: '50'
     title_margin_left: '50'
     title_margin_right: '0'
     align_x: start
