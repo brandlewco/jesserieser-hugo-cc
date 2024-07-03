@@ -13,8 +13,7 @@ collection_description: >-
   sensibilities with my sport photographic works.
 
 
-  Celebrated in the 2022 Communication Arts Photo Annual as one of the year’s
-  best.
+  Celebrated in the Communication Arts Photo Annual as one of the year’s best.
 collection_description_alignment: center
 slug: escalaras
 collection_blocks:
