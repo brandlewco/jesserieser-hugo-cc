@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: The Wallow Fire
 title: The Wallow Fire
-collection_meta: '2012'
-collection_meta_2:
+collection_meta:
+collection_meta_2: '2012'
 collection_description: >-
   A personal project based on Arizona’s largest wildfire in history. This body
   of work explores the paradox of otherworldly beauty caused by a destructive
