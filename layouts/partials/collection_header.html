@@ -1,36 +1,35 @@
-    <header id="project-header" class="w-full h-full lazyload flex flex-col items-center overflow-hidden relative z-0">
-        {{ $path := "" }}
-        {{ with .File }}
-            {{ $path = .Path }}
-        {{ else }}
-            {{ $path = .Path }}
-        {{ end }}
+<header id="project-header" class="w-full h-full lazyload flex flex-col items-center overflow-hidden relative z-0">
+    {{ $path := "" }}
+    {{ with .File }}
+        {{ $path = .Path }}
+    {{ else }}
+        {{ $path = .Path }}
+    {{ end }}
 
-        {{ if or (eq $path "/_index.md") (eq $path "current-works/_index.md") }}
-        <picture class="flex justify-center" id="feature-picture">
-            <div id="header-loading" class="text-center font-semibold absolute inset-x-0 bottom-0 z-50 text-4xl">
-                <i class="far fa-spinner-third fa-spin text-{{.Params.navigation_theme}}"></i>
-            </div>
-            <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10 opacity-0">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="50" height="50" viewBox="0 0 256 150">
-                <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill: {{.Params.navigation_theme}};" class="arrow-down"/>
-                </svg>
-            </div>
-        </picture>
-        {{ else }}
-        <picture class="flex justify-center">
-            <source data-srcset="{{.Params.collection_cover_mobile }}?width=720" media="(orientation: portrait) and (max-width: 688px)" />
-            <source data-srcset="{{.Params.collection_cover_mobile }}?width=1040" media="(orientation: portrait) and (max-width: 1024px)" />
-            <source data-srcset="{{.Params.collection_cover }}?width=1040" media="(max-width: 1024px)" />
-            <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
-            <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(min-width: 1441px)" />
-            <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
-            <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50" height="50"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M250.3 397.7c3.1 3.1 8.2 3.1 11.3 0l216-216c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L256 380.7 45.7 170.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3l216 216z" style="fill:{{.Params.navigation_theme}};" class="arrow-down"/></svg>
-            </div>
-        </picture>
-        {{ end }}
-
+    {{ if or (eq $path "content/_index.md") (eq $path "content/collection/_index.md") }}
+    <picture class="flex justify-center" id="feature-picture">
+        <div id="header-loading" class="text-center font-semibold absolute inset-x-0 bottom-0 z-50 text-4xl">
+            <i class="far fa-spinner-third fa-spin text-{{.Params.navigation_theme}}"></i>
+        </div>
+        <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10 opacity-0">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="50" height="50" viewBox="0 0 256 150">
+            <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill: {{.Params.navigation_theme}};" class="arrow-down"/>
+            </svg>
+        </div>
+    </picture>
+    {{ else }}
+    <picture class="flex justify-center" id="feature-picture">
+        <source data-srcset="{{.Params.collection_cover_mobile }}?width=720" media="(orientation: portrait) and (max-width: 688px)" />
+        <source data-srcset="{{.Params.collection_cover_mobile }}?width=1040" media="(orientation: portrait) and (max-width: 1024px)" />
+        <source data-srcset="{{.Params.collection_cover }}?width=1040" media="(max-width: 1024px)" />
+        <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
+        <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(min-width: 1441px)" />
+        <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
+        <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50" height="50"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M250.3 397.7c3.1 3.1 8.2 3.1 11.3 0l216-216c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L256 380.7 45.7 170.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3l216 216z" style="fill:{{.Params.navigation_theme}};" class="arrow-down"/></svg>
+        </div>
+    </picture>
+    {{ end }}
 
     <div id="page-title" class="fixed z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-56 font-medium text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
         <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4" data-sal="slide-up" data-sal-delay="1000">
@@ -59,7 +58,5 @@
             <span><a href="#project-brief" class="inline-block text-left text-black font-bold underline" data-no-swup>Read more.</a></span>
             {{end}}
         </div>
-
     </div>
 </header>
-
