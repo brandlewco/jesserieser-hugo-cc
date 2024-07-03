@@ -203,7 +203,7 @@ collection_grid: false
 collection_archive: true
 collection_hidden: false
 hide_footer: false
-navigation_theme: white
+navigation_theme: black
 px_extra: true
 row_alignment:
 ---
