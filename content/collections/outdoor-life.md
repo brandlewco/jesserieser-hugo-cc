@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: A Son's First Hunt for Outdoor Life
 title: Outdoor Life
-collection_meta: 'A Son''s First Solo Hunt, '
+collection_meta: A Son's First Solo Hunt
 collection_meta_2: and a Father's Lesson in Letting Him Go
 collection_description: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
@@ -225,6 +225,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
