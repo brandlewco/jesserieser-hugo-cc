@@ -82,7 +82,7 @@ about_blocks:
     font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '400'
+    margin_y: '750'
     margin_left: '5'
     margin_right: '0'
     title_margin_y: '50'
@@ -312,7 +312,7 @@ about_blocks:
     font_weight: hairline
     meta_align: right
     align_y: start
-    margin_y: '300'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '50'
@@ -576,7 +576,7 @@ about_blocks:
     font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '200'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '0'
     title_margin_y: '50'
