@@ -302,21 +302,21 @@ about_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
     width: '20'
-    color: '#ffda8a'
+    color: '#000000'
     modal_color: '#fad267'
-    text_color: '#79b3ff'
-    text_size: base
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight:
+    text_color: '#fcfcfc'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '35'
-    title_margin_left: '-25'
+    title_margin_y: '50'
+    title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -564,23 +564,23 @@ about_blocks:
   - _bookshop_name: about/modal-list
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
-    meta: © Nicky Hedyatzadeh
+    meta:
     width: '20'
-    color: '#ddc4e7'
+    color: '#000000'
     modal_color: '#ddc4e7'
-    text_color: '#9dfd7c'
-    text_size:
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight: normal
+    text_color: '#000000'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '30'
-    title_margin_left: '-35'
+    title_margin_y: '50'
+    title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
     modal_block:
