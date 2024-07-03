@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: "Backpage.com\_for Wired"
 title: Wired Magazine
-collection_meta: "Backpage.com\_Trial"
-collection_meta_2: Michael Lacey and Jim Larkin
+collection_meta: "Backpage.com\_"
+collection_meta_2: Michael Lacey and Jim Larkin on Trial
 collection_description: >-
   I photographed Michael Lacey and Jim Larkin as they await trial for owning and
   operating the online classified giant [Backpage.com](http://Backpage.com).
