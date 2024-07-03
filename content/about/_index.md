@@ -70,11 +70,11 @@ about_blocks:
   - _bookshop_name: about/modal-list
     title: Exhibitions
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
-    meta: My dad & I, © Rob Rieser
+    meta:
     width: '20'
     color: '#77ddd4'
     modal_color: '#77ddd4'
-    text_color: '#ffe42d'
+    text_color: '#000000'
     text_size: 7xl
     line_height:
     text_alignment:
