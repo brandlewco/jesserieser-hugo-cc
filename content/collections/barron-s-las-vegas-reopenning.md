@@ -4,8 +4,8 @@ seo:
   meta_description: Exploring the business of reopening Las Vegas
   meta_title: Las Vegas Reopens Post Covid for Barron's
 title: Barron's
-collection_meta: Las Vegas Presses Its Luck in the
-collection_meta_2: Postpandemic Era Cover Story
+collection_meta: 'Las Vegas '
+collection_meta_2: Presses Its Luck in the Postpandemic Era Cover Story
 collection_description: >-
   Las Vegas is coming back to life.⁠⁠
 
@@ -23,186 +23,186 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ddf3f3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-1.jpg
+    width: '60'
+    margin_y: '100'
     margin_left: '10'
     margin_right:
-    margin_y: '100'
-    width: '60'
+    align_y:
+    color: '#ddf3f3'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#eafdf1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-2.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '35'
     margin_right:
-    margin_y: '100'
-    width: '50'
+    align_y:
+    color: '#eafdf1'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#fbe3e5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-3.jpg
+    width: '30'
+    margin_y: '600'
     margin_left: '20'
     margin_right: '0'
-    margin_y: '600'
-    width: '30'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#fbe3e5'
     caption:
-    color: '#eadaf8'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-4.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    margin_y: '100'
-    width: '40'
+    align_y:
+    color: '#eadaf8'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#fdf6d3'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-5.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '5'
     margin_right:
-    margin_y: '100'
-    width: '30'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#fdf6d3'
     caption:
-    color: '#e3eff4'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-6.jpg
+    width: '45'
+    margin_y: '300'
     margin_left:
     margin_right: '15'
-    margin_y: '300'
-    width: '45'
+    align_y:
+    color: '#e3eff4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f7e8db'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-7.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '15'
     margin_right:
-    margin_y: '100'
-    width: '55'
+    align_y:
+    color: '#f7e8db'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f7e0ff'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-8.jpg
+    width: '33'
+    margin_y: '200'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '200'
-    width: '33'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#f7e0ff'
     caption:
-    color: '#e7eeff'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-9.jpg
+    width: '33'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '20'
-    margin_y: '500'
-    width: '33'
+    align_y:
+    color: '#e7eeff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#d8fdf1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-10.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    margin_y: '100'
-    width: '55'
+    align_y:
+    color: '#d8fdf1'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: '#ffe0e1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-11.jpg
+    width: '40'
+    margin_y: '200'
     margin_left: '5'
     margin_right: '0'
-    margin_y: '200'
-    width: '40'
-  - _bookshop_name: collections/media-element
     align_y: start
+    color: '#ffe0e1'
     caption:
-    color: '#f4e2fc'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-12.jpg
+    width: '40'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '10'
-    margin_y: '200'
-    width: '40'
+    align_y: start
+    color: '#f4e2fc'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#ffeeda'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-13.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '55'
     margin_right:
-    margin_y: '100'
-    width: '30'
+    align_y:
+    color: '#ffeeda'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#eafdf1'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-15.jpg
+    width: '50'
+    margin_y: '100'
     margin_left: '25'
     margin_right:
-    margin_y: '100'
-    width: '50'
+    align_y:
+    color: '#eafdf1'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#eaeef6'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-14.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '15'
     margin_right:
-    margin_y: '100'
-    width: '33'
-  - _bookshop_name: collections/media-element
     align_y:
+    color: '#eaeef6'
     caption:
-    color: '#eef9c7'
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-16.jpg
+    width: '30'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '15'
-    margin_y: '500'
-    width: '30'
+    align_y:
+    color: '#eef9c7'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: '#f9edd5'
     image: https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen-17.jpg
+    width: '55'
+    margin_y: '100'
     margin_left: '20'
     margin_right:
-    margin_y: '100'
-    width: '55'
+    align_y:
+    color: '#f9edd5'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -248,6 +248,8 @@ collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
