@@ -5,9 +5,9 @@ seo:
     West Coast photographer Jesse Rieser's long term and surreal photographic
     project on America
   meta_title: 'A Vanishing Folklore '
-title: 'American Hypnosis: A Vanishing Folklore'
-collection_meta: 2012 - 2023
-collection_meta_2:
+title: 'American '
+collection_meta: Hypnosis
+collection_meta_2: 2012 - 2024
 collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
@@ -866,6 +866,7 @@ collection_exhibition:
       <p><strong>2022 &amp; 2023</strong><br />The Gallery at Mountain
       Shadows<br />Paradise Valley, AZ (Solo Show)</p><p>&nbsp;</p>
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

@@ -7,7 +7,7 @@ seo:
 title: Say Hello
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-7.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/info-2.jpg
 slug: about
 collection_description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit quam
@@ -35,7 +35,7 @@ header_col_3: >-
   href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a><br /><a
   href="mailto:HELLO@SNAPPERIMAGES.COM">Sydney</a></p>
 row_alignment: between
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/info_vert-1.jpg
 about_bio: >-
   **Bio**
 
@@ -63,30 +63,30 @@ about_bio: >-
   with his technical expertise but also in the ideation phase. He feels his
   greatest currency is how he communicates and sees the world. Some call it
   empathy. Some call it charm. His mom just says he’s a nice young man.
-about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-3.jpg
+about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
     row_alignment: between
   - _bookshop_name: about/modal-list
     title: Exhibitions
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-11.jpg
-    meta: My dad & I, © Rob Rieser
-    width: '30'
-    color: '#77ddd4'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
+    meta:
+    width: '20'
+    color: '#010101'
     modal_color: '#77ddd4'
-    text_color: '#ffe42d'
-    text_size: 7xl
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight:
+    text_color: '#000000'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '800'
-    margin_left: '15'
+    margin_y: '750'
+    margin_left: '5'
     margin_right: '0'
-    title_margin_y: '15'
-    title_margin_left: '-30'
+    title_margin_y: '50'
+    title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -299,24 +299,24 @@ about_blocks:
         url:
   - _bookshop_name: about/modal-list
     title: Awards
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-9.jpg
-    meta: 1984. © Rob Rieser
-    width: '40'
-    color: '#ffda8a'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
+    meta:
+    width: '20'
+    color: '#000000'
     modal_color: '#fad267'
-    text_color: '#79b3ff'
-    text_size: 8xl
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight:
+    text_color: '#020202'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
     align_y: start
-    margin_y: '200'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '35'
-    title_margin_left: '-25'
+    title_margin_y: '50'
+    title_margin_left: '35'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -561,91 +561,26 @@ about_blocks:
           Personal Work Series:<br><em>Spaceman & Baby</em>
         icon: ''
         url: ''
-  - _bookshop_name: about/media-row
-    row_alignment: center
-  - _bookshop_name: about/media-text
-    text: >-
-      “I’ve worked with tons of photographers that can’t make something great
-      out of nothing. You made gold from a blank canvas. Thank you.”
-      -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
-
-
-      "It’s no easy task to enter the world of contemporary art color
-      photography, but you have successfully done so with your own unique
-      voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
-      Architectural Press*
-
-
-      “This shoot would not have been such a success without your attention to
-      detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
-      Senior Art Producer, Anomaly New York*
-
-
-      "When you hire a photographer, you're not just paying for the final
-      product images; you're buying the experience of working with that person.
-      You're hiring a temporary teammate who's going to help you solve problems
-      and deal with logistical challenges, and hopefully do it in a manner that
-      makes the experience easier and hopefully, fun. As a one-man photo
-      department, I need photographers who will take the reigns of the
-      production and don't need much hand-holding. Jesse covers all those bases
-      and more. Working with him is a pleasure. He just gets it, especially when
-      it comes to editorial. Most of all, he rolls with the punches, adjusts on
-      the fly, and never stops being a good collaborator. On top of that, you
-      wind up having some fun chats in the process. I look forward to working
-      with Jesse again soon." - *John Toolan Photography Director Field & Stream
-      /&nbsp;Outdoor Life /&nbsp;Popular Science*
-
-
-      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
-      Producer RPA Los Angeles*
-
-
-      “Jesse has defined his own style in a way that sets him apart. His candy
-      colors are delectable, his eye for composition so precise and the way he
-      marries the perfect light to each situation is nothing short of masterful.
-      I know whenever we work together, he will return with engaging images that
-      surpass the expectations of the assignment and encourage people to pause
-      and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;**&nbsp;***&nbsp;*Director of Photography \| Barron's &
-      Penta*
-    background_color: '#ff6a5a'
-    background_image_toggle: false
-    image:
-    text_color: '#ffffff'
-    text_size: lg
-    text_alignment: left
-    text_tracking: widest
-    font_weight: light
-    width: '40'
-    align_y: start
-    margin_y: '200'
-    margin_left: '10'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
-  - _bookshop_name: about/media-row
-    row_alignment: between
   - _bookshop_name: about/modal-list
     title: Press & Interviews
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-10.jpg
-    meta: © Nicky Hedyatzadeh
-    width: '25'
-    color: '#ddc4e7'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
+    meta:
+    width: '20'
+    color: '#000000'
     modal_color: '#ddc4e7'
-    text_color: '#9dfd7c'
-    text_size:
-    line_height:
-    text_alignment:
-    text_tracking:
-    font_weight: normal
+    text_color: '#000000'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '50'
-    margin_left: '20'
+    margin_y: '350'
+    margin_left: '0'
     margin_right: '0'
-    title_margin_y: '30'
-    title_margin_left: '-35'
+    title_margin_y: '50'
+    title_margin_left: '25'
     title_margin_right: '0'
     align_x: start
     modal_block:
@@ -1075,24 +1010,24 @@ about_blocks:
         icon:
   - _bookshop_name: about/modal-list
     title: Clients
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-13.jpg
-    meta: Ben Simmons for Smart Water & Anomaly NY. © Dayvid Lemmon
-    width: '45'
-    color: '#d5e3f6'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
+    meta:
+    width: '20'
+    color: '#000000'
     modal_color: '#d5e3f6'
-    text_color: '#fab7ed'
-    text_size: 7xl
-    line_height:
-    text_alignment: right
-    text_tracking:
-    font_weight:
+    text_color: '#080708'
+    text_size: lg
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
     align_y: start
-    margin_y: '600'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
-    title_margin_y: '10'
-    title_margin_left: '5'
+    margin_right: '5'
+    title_margin_y: '50'
+    title_margin_left: '35'
     title_margin_right: '0'
     modal_block:
       - content: <strong>AARP</strong>
@@ -1264,6 +1199,71 @@ about_blocks:
       - content: <strong>Wired</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__wired.png
         url:
+  - _bookshop_name: about/media-row
+    row_alignment: center
+  - _bookshop_name: about/media-text
+    text: >-
+      “I’ve worked with tons of photographers that can’t make something great
+      out of nothing. You made gold from a blank canvas. Thank you.”
+      -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
+
+
+      "It’s no easy task to enter the world of contemporary art color
+      photography, but you have successfully done so with your own unique
+      voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
+      Architectural Press*
+
+
+      “This shoot would not have been such a success without your attention to
+      detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
+      Senior Art Producer, Anomaly New York*
+
+
+      "When you hire a photographer, you're not just paying for the final
+      product images; you're buying the experience of working with that person.
+      You're hiring a temporary teammate who's going to help you solve problems
+      and deal with logistical challenges, and hopefully do it in a manner that
+      makes the experience easier and hopefully, fun. As a one-man photo
+      department, I need photographers who will take the reigns of the
+      production and don't need much hand-holding. Jesse covers all those bases
+      and more. Working with him is a pleasure. He just gets it, especially when
+      it comes to editorial. Most of all, he rolls with the punches, adjusts on
+      the fly, and never stops being a good collaborator. On top of that, you
+      wind up having some fun chats in the process. I look forward to working
+      with Jesse again soon." - *John Toolan Photography Director Field & Stream
+      /&nbsp;Outdoor Life /&nbsp;Popular Science*
+
+
+      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
+      Producer RPA Los Angeles*
+
+
+      “Jesse has defined his own style in a way that sets him apart. His candy
+      colors are delectable, his eye for composition so precise and the way he
+      marries the perfect light to each situation is nothing short of masterful.
+      I know whenever we work together, he will return with engaging images that
+      surpass the expectations of the assignment and encourage people to pause
+      and&nbsp;*see*&nbsp;differently." - *Sarina
+      Finkelstein&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;*Director of
+      Photography \| Barron's & Penta*
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    width: '80'
+    align_y: start
+    margin_y: '0'
+    margin_left: '5'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: about/media-row
+    row_alignment: between
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram
@@ -1298,7 +1298,7 @@ footer_links:
     link_url: https://www.artphotoindex.com/api/photographer/Jesse-Rieser/15804
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
-about_bio_image_credit: © Brad Reed. Header © Mike Lundgren
+about_bio_image_credit: © Mike Lundgren
 cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
