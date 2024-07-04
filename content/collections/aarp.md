@@ -30,7 +30,7 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '75'
+    width: '80'
     align_y: start
     margin_y: '50'
     margin_left: '10'
@@ -223,6 +223,19 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 960736834
+    text: caption
+    color: '#ff0000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '80'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-19.jpg
     width: '25'
@@ -393,8 +406,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-35.jpg
     width: '33'
@@ -459,29 +470,18 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 960736834
-    text: caption
-    color: '#ff0000'
-    show_controls: true
-    block_aspect_ratio: 16x9
-    width: '50'
-    align_y: start
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736400
     text: caption
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '80'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
