@@ -503,8 +503,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail-2.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-2.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
