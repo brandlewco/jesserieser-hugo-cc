@@ -17,8 +17,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-1.jpg
     width: '55'
-    margin_y: '100'
-    margin_left: '10'
+    margin_y: '50'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#ddf3f3'
@@ -29,44 +29,44 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-2.jpg
-    width: '45'
-    margin_y: '300'
+    width: '40'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#fbe3e5'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-3.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#eaeef6'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-3.jpg
+    width: '30'
+    margin_y: '250'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#eaeef6'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-4.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '45'
+    margin_left: '0'
     margin_right: '0'
-    align_y:
+    align_y: start
     color: '#eadaf8'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-5.jpg
+    width: '30'
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#e3eff4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-5.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '15'
-    align_y:
-    color: '#e3eff4'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
