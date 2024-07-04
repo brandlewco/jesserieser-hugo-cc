@@ -503,6 +503,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 960736431
+    text: caption
+    color: '#ff0000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '5'
+    margin_right: '0'
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
 collection_filter: Personal
