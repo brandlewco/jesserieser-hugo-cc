@@ -128,6 +128,44 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-12.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-13.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-15.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -152,30 +190,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row-end
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#ff0000'
-    caption: test caption
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion_covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Sports + Athletes
-  - Award Winning
-  - Stock
-  - Motion
-  - Color
-  - Lifestyle
-  - Environments
   - Portraits
+  - Reportage
+  - Kids
 date: 2022-05-02T20:40:12Z
 theme_color: '#ffecaa'
 theme_color_all_works: '#ffe05a'
