@@ -4,8 +4,8 @@ seo:
   meta_description:
   meta_title: The New York Times. A Minor Leaguer's Hard Road to the Bigs
 title: The New York Times
-collection_meta: '"You Have to Be Delusional" A Minor Leaguer''s Hard Road to the Bigs'
-collection_meta_2: ""
+collection_meta: You Have to Be Delusional
+collection_meta_2: A Minor Leaguer's Hard Road to the Bigs
 collection_description: >-
   As big leaguers fight with owners about labor issues, minor leaguers like Jack
   Kruger are getting ready for another season of long bus rides and longer odds.
@@ -15,116 +15,116 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#e1f3dd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-1.jpg
-    margin_left: "20"
-    margin_right: "0"
-    margin_y: "100"
-    width: "40"
-  - _bookshop_name: collections/media-element
+    width: '40'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
+    color: '#e1f3dd'
     caption:
-    color: "#e1f9fb"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-2.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "900"
-    width: "25"
+    width: '25'
+    margin_y: '900'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#e1f9fb'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#fbebd6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-3.jpg
-    margin_left: "50"
-    margin_right: "0"
-    margin_y: "100"
-    width: "30"
+    width: '30'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y:
+    color: '#fbebd6'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y: start
-    caption:
-    color: "#e4f6fe"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-4.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "33"
+    width: '33'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: start
+    color: '#e4f6fe'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#FFD9CF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-5.jpg
-    margin_left: "5"
-    margin_right: "0"
-    margin_y: "100"
-    width: "30"
-  - _bookshop_name: collections/media-element
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y:
+    color: '#FFD9CF'
     caption:
-    color: "#DDF5DA"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-6.jpg
-    margin_left: "0"
-    margin_right: "10"
-    margin_y: "300"
-    width: "50"
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#DDF5DA'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f7f7d0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-7.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "30"
-  - _bookshop_name: collections/media-element
+    width: '30'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
+    color: '#f7f7d0'
     caption:
-    color: "#e0efff"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-8.jpg
-    margin_left: "0"
-    margin_right: "20"
-    margin_y: "400"
-    width: "20"
+    width: '20'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '20'
+    align_y:
+    color: '#e0efff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f0e7ff"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-9.jpg
-    margin_left: "35"
-    margin_right: "0"
-    margin_y: "500"
-    width: "30"
-  - _bookshop_name: collections/media-element
+    width: '30'
+    margin_y: '500'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
+    color: '#f0e7ff'
     caption:
-    color: "#d8f9fd"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-10.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "100"
-    width: "25"
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#d8f9fd'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#e6ffea"
     image: https://d1sf55qlb7p6hz.cloudfront.net/minors-11.jpg
-    margin_left: "50"
-    margin_right: "0"
-    margin_y: "100"
-    width: "33"
+    width: '33'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y:
+    color: '#e6ffea'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -144,8 +144,8 @@ collection_category:
   - Color
   - Sports + Athletes
 date: 2022-03-07T21:51:48Z
-theme_color: "#ffbdd6"
-theme_color_all_works: "#ffe05a"
+theme_color: '#ffbdd6'
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
@@ -218,6 +218,8 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

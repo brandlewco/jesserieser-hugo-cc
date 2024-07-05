@@ -5,251 +5,199 @@ seo:
     A film and photographic project combining architectural, portraiture and
     sport
   meta_title: Antoines Escalaras selected by Communication Arts
-title: Antoine's
-collection_meta: Escalaras
-collection_meta_2: Communication Arts Photo Annual
-collection_description: >-
-  A photo and film project combining my environmental architectural
-  sensibilities with my sport photographic works.
-
-
-  Celebrated in the Communication Arts Photo Annual as one of the year’s best.
+title: 'The New York Times '
+collection_meta: 'Maga is Demoting '
+collection_meta_2: The Anti-Abortion Forces It Once Coddled
+collection_description: The Abortion Debate as Seen in Arizona
 collection_description_alignment: center
-slug: escalaras
+slug: nyt-abortion
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-1.jpg
     width: '55'
-    margin_y: '100'
-    margin_left: '10'
+    margin_y: '50'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#ddf3f3'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737204973
-    text: caption
-    color:
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    caption:
-    image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-2.jpg
-    width: '45'
-    margin_y: '300'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-2.jpg
+    width: '40'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#fbe3e5'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-3.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#eaeef6'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-3.jpg
+    width: '30'
+    margin_y: '250'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#eaeef6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-4.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    align_y:
-    color: '#eadaf8'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737205489
-    text: caption
-    color:
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    caption:
-    image:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-5.jpg
-    width: '25'
-    margin_y: '500'
     margin_left: '0'
-    margin_right: '15'
-    align_y:
+    margin_right: '0'
+    align_y: start
+    color: '#eadaf8'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-5.jpg
+    width: '30'
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
     color: '#e3eff4'
-    caption:
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-6.jpg
     width: '45'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f7e8db'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737205681
-    text: caption
-    color:
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    caption:
-    image:
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737206761
-    text: caption
-    color: ''
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '40'
-    align_y: start
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '15'
-    caption:
-    image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-7.jpg
     width: '45'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f7e0ff'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-8.jpg
     width: '33'
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e7eeff'
-    caption:
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737206960
-    text: caption
-    color:
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '25'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '30'
-    caption:
-    image:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-9.jpg
     width: '40'
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#ffebe6'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-10.jpg
     width: '30'
     margin_y: '600'
     margin_left: '0'
     margin_right: '10'
     align_y:
     color: '#d8fdf1'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 737207172
-    text: caption
-    color:
-    show_controls: false
-    block_aspect_ratio: 4x3
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    caption:
-    image:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-12.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-13.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-15.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-16.jpg
     width: '25'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#ffeeda'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-17.jpg
     width: '40'
     margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y:
     color: '#eafdf1'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-14.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-23.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion_covers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion_covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Sports + Athletes
-  - Award Winning
-  - Stock
-  - Motion
-  - Color
-  - Lifestyle
-  - Environments
   - Portraits
+  - Reportage
+  - Kids
 date: 2022-05-02T20:40:12Z
 theme_color: '#ffecaa'
 theme_color_all_works: '#ffe05a'
@@ -279,7 +227,7 @@ collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true
-navigation_theme: black
+navigation_theme: white
 px_extra: true
 row_alignment: between
 ---

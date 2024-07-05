@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
-title: 'Christmas In America: Happy Birthday, Jesus'
-collection_meta: "2010 - \_2022"
-collection_meta_2: ''
+title: Christmas In America
+collection_meta: ' Happy Birthday, Jesus'
+collection_meta_2: "2010 - \_2022"
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
   of the ways people mark the holiday’s meaning. This Christmas is complex and
@@ -1036,6 +1036,7 @@ collection_exhibition:
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

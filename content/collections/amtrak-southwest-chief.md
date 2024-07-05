@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Amtrak The National: On The Southwest Chief'
-title: Amtrak The National
-collection_meta: On The Southwest Chief
-collection_meta_2:
+title: Amtrak
+collection_meta: The National
+collection_meta_2: On The Southwest Chief
 collection_description: >-
   A project celebrating the romanticism of train travel and the light of the
   Southwest as a unifying ingredient—taking you from inside the train, out the
@@ -313,6 +313,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: true

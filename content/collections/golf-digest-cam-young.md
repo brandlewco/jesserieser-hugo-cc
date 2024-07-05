@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Cam Young for Golf Digest
 title: Golf Digest
-collection_meta: 'Cameron Young '
+collection_meta: 'Cam Young '
 collection_meta_2: 'Your Longest Year Ever '
 collection_description: >-
   PGA Tour Rookie of the Year Cam Young shares his prime moves to help you

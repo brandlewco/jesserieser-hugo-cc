@@ -4,7 +4,7 @@ seo:
   meta_description: Meta Description
   meta_title: The WM Phoenix Open for ESPN
 title: ESPN
-collection_meta: The WM Phoenix Open
+collection_meta: The Phoenix Open
 collection_meta_2: A Wild Weekend At the Most Outrageous Hole in Golf
 collection_description: >-
   Photographed at the WM Phoenix Open's infamous 16th hole, these works are a
@@ -54,21 +54,11 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-4.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: ''
-    color: '#f8ebcc'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-5.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
     margin_left: '40'
     margin_right: '0'
@@ -106,7 +96,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-9.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: ''
     align_y: ''
     color: '#f9d1bc'
@@ -114,16 +104,14 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-11.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-4.jpg
+    width: '60'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
-    color: '#d0f1f0'
+    color: '#f8ebcc'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
@@ -131,11 +119,23 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-12.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '30'
+    margin_y: '100'
+    margin_left: '50'
     margin_right: ''
     align_y: ''
     color: '#f1e3cf'
+    caption: ''
+    align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-11.jpg
+    width: '45'
+    margin_y: '300'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: ''
+    color: '#d0f1f0'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
@@ -164,9 +164,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-15.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: ''
     align_y: ''
     color: '#efe5dd'
@@ -199,21 +199,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-18.jpg
     width: '40'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#ede5de'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-19.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: ''
-    color: '#daf0d5'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
@@ -360,17 +350,19 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-32.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '40'
     margin_right: '0'
     align_y: ''
     color: '#fbc1a2'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-34.jpg
-    width: '55'
-    margin_y: '400'
-    margin_left: '0'
+    width: '66'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '5'
     align_y: ''
     color: '#f6f1d0'
@@ -378,18 +370,6 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: ''
-    color: '#eddaf0'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row

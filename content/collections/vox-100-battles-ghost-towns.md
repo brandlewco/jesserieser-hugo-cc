@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: Summoning the Ghost Town for Vox 100 Battles
-title: "Vox: 100 Battles"
-collection_meta: Summoning the Ghost Town
-collection_meta_2: ""
+title: Vox
+collection_meta: 100 Battles
+collection_meta_2: Summoning the Ghost Town
 collection_description: >-
   Across the West, entrepreneurs are buying up abandoned outposts and
   transforming them into resorts and tourist photo ops. But how do you rebuild
@@ -16,264 +16,264 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#dce3f3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-1.jpg
-    margin_left: "20"
-    margin_right: "0"
-    margin_y: "100"
-    width: "60"
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#dce3f3'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#efe5dd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-2.jpg
-    margin_left: "10"
-    margin_right: "0"
-    margin_y: "100"
-    width: "45"
-  - _bookshop_name: collections/media-element
+    width: '45'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
+    color: '#efe5dd'
     caption:
-    color: "#c6e2d4"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-4.jpg
-    margin_left: "0"
-    margin_right: "10"
-    margin_y: "500"
-    width: "30"
+    width: '30'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#c6e2d4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f8ebcc"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-7.jpg
-    margin_left: "20"
-    margin_right: "0"
-    margin_y: "100"
-    width: "55"
+    width: '55'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#f8ebcc'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#ede5de"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-5.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "300"
-    width: "33"
-  - _bookshop_name: collections/media-element
+    width: '33'
+    margin_y: '300'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
+    color: '#ede5de'
     caption:
-    color: "#efcab3"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-6.jpg
-    margin_left: "0"
-    margin_right: "15"
-    margin_y: "100"
-    width: "20"
+    width: '20'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    align_y:
+    color: '#efcab3'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#dcedf8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-8.jpg
-    margin_left: "35"
-    margin_right: "0"
-    margin_y: "100"
-    width: "40"
+    width: '40'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y:
+    color: '#dcedf8'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f4dfe7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-10.jpg
-    margin_left: "15"
-    margin_right: "0"
-    margin_y: "100"
-    width: "30"
+    width: '30'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#f4dfe7'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f3e1d4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-9.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "60"
+    width: '60'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y:
+    color: '#f3e1d4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#d5f4f6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-11.jpg
-    margin_left: "15"
-    margin_right: "0"
-    margin_y: "100"
-    width: "15"
-  - _bookshop_name: collections/media-element
+    width: '15'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y:
+    color: '#d5f4f6'
     caption:
-    color: "#f9d1bc"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-12.jpg
-    margin_left: "0"
-    margin_right: "25"
-    margin_y: "200"
-    width: "40"
+    width: '40'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '25'
+    align_y:
+    color: '#f9d1bc'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#cce3fa"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-13.jpg
-    margin_left: "40"
-    margin_right: "0"
-    margin_y: "500"
-    width: "15"
-  - _bookshop_name: collections/media-element
+    width: '15'
+    margin_y: '500'
+    margin_left: '40'
+    margin_right: '0'
     align_y:
+    color: '#cce3fa'
     caption:
-    color: "#f0f3d4"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-14.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "100"
-    width: "33"
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#f0f3d4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#eadef4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-15.jpg
-    margin_left: "30"
-    margin_right: "0"
-    margin_y: "100"
-    width: "40"
+    width: '40'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#eadef4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#d0f1f0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-16.jpg
-    margin_left: "55"
-    margin_right: "5"
-    margin_y: "100"
-    width: "33"
+    width: '33'
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '5'
+    align_y:
+    color: '#d0f1f0'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#f1e3cf"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-19.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "300"
-    width: "40"
-  - _bookshop_name: collections/media-element
+    width: '40'
+    margin_y: '300'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
+    color: '#f1e3cf'
     caption:
-    color: "#f9dece"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-18.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "100"
-    width: "25"
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#f9dece'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#cce1f3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-20.jpg
-    margin_left: "40"
-    margin_right: "0"
-    margin_y: "100"
-    width: "45"
+    width: '45'
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
+    align_y:
+    color: '#cce1f3'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#d8f3d8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-21.jpg
-    margin_left: "10"
-    margin_right: "0"
-    margin_y: "300"
-    width: "50"
-  - _bookshop_name: collections/media-element
+    width: '50'
+    margin_y: '300'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
+    color: '#d8f3d8'
     caption:
-    color: "#fbc1a2"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-22.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "100"
-    width: "30"
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#fbc1a2'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#eddaf0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-23.jpg
-    margin_left: "15"
-    margin_right: "0"
-    margin_y: "100"
-    width: "30"
-  - _bookshop_name: collections/media-element
+    width: '30'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y:
+    color: '#eddaf0'
     caption:
-    color: "#f6f1d0"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-24.jpg
-    margin_left: "0"
-    margin_right: "10"
-    margin_y: "300"
-    width: "40"
-  - _bookshop_name: collections/media-element
+    width: '40'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
+    color: '#f6f1d0'
     caption:
-    color: "#d8e9ba"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-25.jpg
-    margin_left: "30"
-    margin_right: "0"
-    margin_y: "100"
-    width: "45"
+    width: '45'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#d8e9ba'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#ddedf6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-26.jpg
-    margin_left: "10"
-    margin_right: "0"
-    margin_y: "100"
-    width: "50"
-  - _bookshop_name: collections/media-element
+    width: '50'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
+    color: '#ddedf6'
     caption:
-    color: "#ffebda"
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-27.jpg
-    margin_left: "0"
-    margin_right: "5"
-    margin_y: "600"
-    width: "30"
+    width: '30'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#ffebda'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -285,25 +285,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#ddf1ff"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
-    margin_left: "25"
-    margin_right: "0"
-    margin_y: "100"
-    width: "55"
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y:
+    color: '#ddf1ff'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    align_y:
-    caption:
-    color: "#d8f3d8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_ghostown-spread.jpg
-    margin_left: "15"
-    margin_right: "0"
-    margin_y: "100"
-    width: "70"
+    width: '70'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#d8f3d8'
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_ghostown-cover-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-1.jpg
@@ -317,8 +317,8 @@ collection_category:
   - Portraits
   - Reportage
 date: 2022-07-21T01:30:55Z
-theme_color: "#ffd0d0"
-theme_color_all_works: "#ffe05a"
+theme_color: '#ffd0d0'
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
@@ -360,6 +360,8 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
+collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false

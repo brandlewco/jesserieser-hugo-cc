@@ -2,9 +2,9 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: 'Guns & Pizza'
+  meta_title: Guns & Pizza
 title: Guns & Pizza
-collection_meta: 'The Haunting Specter of Gun Ownership in America '
+collection_meta: The Haunting Specter of Gun Ownership
 collection_meta_2: 2021 - 2023
 collection_description: >-
   Firearms are deeply ingrained in what it means to be American and our history
@@ -711,6 +711,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
