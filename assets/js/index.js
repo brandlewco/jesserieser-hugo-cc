@@ -93,87 +93,25 @@ function init() {
   };
   setUp();
 
-  setTimeout(function() {
+  setTimeout(function () {
     document.querySelectorAll('.initial-black').forEach(function (element) {
       element.classList.remove('initial-black');
     });
   }, 2200);
 
-  setTimeout(function() {
+  setTimeout(function () {
     document.querySelectorAll('.initial-black-bg').forEach(function (element) {
       element.classList.remove('initial-black-bg');
     });
   }, 2200);
 
-  // Remove Sal animation delays that interfer with scroll animations
-  setTimeout(function() {
-    document.querySelectorAll('#page-title h1, #page-title h2, #page-title  h3, #page-title .loading, #project-header #header-image').forEach(function (element) {
+  // Remove Sal animation delays that interfere with scroll animations
+  setTimeout(function () {
+    document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #page-title .loading, #project-header #header-image').forEach(function (element) {
       element.style.transitionDelay = '0s';
       element.style.transitionDuration = '0.33s';
     });
   }, 2200);
-
-  // Navigation color update function
-  function updateNavigationColor() {
-    var navigation = document.getElementById('navigation');
-    var sections = document.querySelectorAll('section[data-hue]');
-    var navigationRect = navigation.getBoundingClientRect();
-    var navigationMidpoint = navigationRect.top + navigationRect.height / 2;
-  
-    var defaultColor = ''; // Define your default color if any
-    var defaultBackgroundColor = ''; // Define your default background color if any
-  
-    for (var section of sections) {
-      var sectionRect = section.getBoundingClientRect();
-  
-      if (
-        navigationMidpoint >= sectionRect.top &&
-        navigationMidpoint <= sectionRect.bottom
-      ) {
-        var hue = section.getAttribute('data-hue');
-        let color = '';
-  
-        if (hue === 'black') {
-          color = '#000000';
-        } else if (hue === 'white') {
-          color = '#FFFFFF';
-        }
-  
-        navigation.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
-          if (element.classList.contains('bun')) {
-            if (color) {
-              element.style.backgroundColor = color;
-            } else {
-              element.style.backgroundColor = defaultBackgroundColor;
-            }
-          } else if (element.classList.contains('shift')) {
-            if (color) {
-              element.style.color = color;
-              if (element.classList.contains('nav-ig')) {
-                element.style.fill = color;
-              }
-            } else {
-              element.style.color = defaultColor;
-              if (element.classList.contains('nav-ig')) {
-                element.style.fill = defaultColor;
-              }
-            }
-          }
-        });
-  
-        break;
-      }
-    }
-  }
-  
-  
-
-  // Event listeners for scroll and resize
-  window.addEventListener('scroll', updateNavigationColor);
-  window.addEventListener('resize', updateNavigationColor);
-
-  // Initial navigation color update
-  updateNavigationColor();
 
   // Sal Animations
   sal({
@@ -762,21 +700,109 @@ function init() {
     return Math.min(Math.max(value, min), max);
   }
 
-        
+  // Set initial colors based on data-hue
+  function setInitialColors() {
+    const hue = navigation.getAttribute('data-hue');
+    const defaultColor = hue === 'black' ? '#000000' : (hue === 'white' ? '#FFFFFF' : '');
+    const defaultBackgroundColor = ''; // Define your default background color if any
+
+    document.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
+      if (element.classList.contains('bun')) {
+        element.style.backgroundColor = defaultBackgroundColor;
+      } else if (element.classList.contains('shift')) {
+        element.style.color = defaultColor;
+        if (element.classList.contains('nav-ig')) {
+          element.style.fill = defaultColor;
+        }
+      }
+    });
+
+    document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, .shift, #page-description').forEach(function (element) {
+      element.style.color = defaultColor;
+      element.style.fill = defaultColor;
+    });
+
+    document.querySelectorAll('#page-title .loading').forEach(function (element) {
+      element.style.backgroundColor = defaultBackgroundColor;
+    });
+  }
+
+  // Call setInitialColors on page load
+  setInitialColors();
+
+  // Scroll and color update function
+  function updateColors() {
+    const scrollTop = window.scrollY; // Current scroll position
+
+    // Get the initial color from the navigation element's data-hue attribute
+    const hue = navigation.getAttribute('data-hue');
+    const defaultColor = hue === 'black' ? '#000000' : (hue === 'white' ? '#FFFFFF' : '');
+    const defaultBackgroundColor = ''; // Define your default background color if any
+
+    function setColor(color) {
+      document.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
+        if (element.classList.contains('bun')) {
+          element.style.backgroundColor = color || defaultBackgroundColor;
+        } else if (element.classList.contains('shift')) {
+          element.style.color = color || defaultColor;
+          if (element.classList.contains('nav-ig')) {
+            element.style.fill = color || defaultColor;
+          }
+        }
+      });
+
+      document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, .shift, #page-description').forEach(function (element) {
+        element.style.color = color || defaultColor;
+        element.style.fill = color || defaultColor;
+      });
+
+      document.querySelectorAll('#page-title .loading').forEach(function (element) {
+        element.style.backgroundColor = color || defaultBackgroundColor;
+      });
+    }
+
+    // Update colors based on scroll position and archive class
+    if (scrollTop >= startFade) {
+      if (document.body.classList.contains('archive')) {
+        setColor('#FFFFFF');
+      } else {
+        setColor('#000000');
+      }
+      if (pageDescription) {
+        pageDescription.classList.add("opacity-100");
+        pageDescription.classList.remove("opacity-0");
+      }
+    } else {
+      // Reset to default colors based on data-hue
+      setColor(defaultColor);
+      if (pageDescription) {
+        pageDescription.classList.add("opacity-0");
+        pageDescription.classList.remove("opacity-100");
+      }
+    }
+  }
+
+  // Event listeners for scroll and load
+  window.addEventListener('scroll', updateColors);
+  window.addEventListener('load', updateColors);
+
+  // Initial call to set colors correctly on page load
+  updateColors();
+
   if (pageDescription && metaContainer) {
     // Get the width of the meta-container
     var containerWidth = metaContainer.offsetWidth;
 
     // Set the width of the description to be the same as the meta-container
     pageDescription.style.maxWidth = containerWidth + "px";
-}
-  
+  }
+
   // Scroll Animations
   let scrollPos = 0;
   window.onscroll = function () {
     const scrollTop = window.pageYOffset;
     const windowY = scrollTop; // window.scrollY can be used here as well
-  
+
     if (headerImage) {
       let opacity;
       if (scrollTop < startFade) {
@@ -788,7 +814,7 @@ function init() {
       }
       headerImage.style.opacity = value_limit(opacity, 0, 1).toFixed(2);
     }
-  
+
     if (featureImage) {
       let opacity;
       if (scrollTop < startFade) {
@@ -801,53 +827,7 @@ function init() {
       featureImage.style.opacity = value_limit(opacity, 0, 1).toFixed(2);
     }
 
-      // Change color of #page-title h1, h2, h3 to black after scrolling 20% of the viewport height
-      if (scrollTop >= startFade) {
-        if (document.body.classList.contains('archive')) {
-          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
-            element.style.color = '#FFFFFF';
-            element.style.fill = '#FFFFFF';
-          });
-          document.querySelectorAll('#page-title .loading').forEach(function (element) {
-            element.style.backgroundColor = '#FFFFFF';
-          });
-        } else {
-          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
-            element.style.color = '#000000';
-            element.style.fill = '#000000';
-          });
-          document.querySelectorAll('#page-title .loading').forEach(function (element) {
-            element.style.backgroundColor = '#000000';
-          });
-        }
-        pageDescription.classList.add("opacity-100");
-        pageDescription.classList.remove("opacity-0");
-      } else {
-        // Reset the colors and styles when scrolling back above the threshold
-        document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
-          element.style.color = ''; // Reset to original color
-          element.style.fill = ''; // Reset to original color
-        });
-        document.querySelectorAll('#page-title .loading').forEach(function (element) {
-          element.style.backgroundColor = ''; // Reset to original background color
-        });
-        pageDescription.classList.add("opacity-0");
-        pageDescription.classList.remove("opacity-100");
-      
-        // Check if the body has the 'archive' class and set colors to white if true
-        if (document.body.classList.contains('archive')) {
-          document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #navigation .shift, #page-description').forEach(function (element) {
-            element.style.color = '#FFFFFF';
-            element.style.fill = '#FFFFFF';
-          });
-          document.querySelectorAll('#page-title .loading').forEach(function (element) {
-            element.style.backgroundColor = '#FFFFFF';
-          });
-        }
-      }
-      
-      
-  
+    // Handle navigation and page title behaviors
     if (projectHeader) {
       if (windowY > window.innerHeight * 0.75) {
         if (windowY < scrollPos) {
@@ -858,25 +838,19 @@ function init() {
         }
       }
     }
-  
+
     if (pageTitle) {
       const pageTitleHeight = pageTitle.offsetHeight;
       let additionalHeight = 0;
-  
+
       if (pageDescription) {
         const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
         additionalHeight = pageDescriptionHeight;
       }
-  
+
       const totalHeight = pageTitleHeight + additionalHeight;
       const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
-  
-      // if (window.scrollY > pageTitleBottom - 150) {
-      //   headerPointer.style.opacity = 1;
-      // } else {
-      //   headerPointer.style.opacity = 0;
-      // }
-  
+
       if (window.scrollY > pageTitleBottom) {
         pageTitle.classList.add("absolute");
         pageTitle.classList.remove("fixed");
@@ -884,7 +858,7 @@ function init() {
         pageTitle.style.bottom = "0";
         pageTitle.style.transform = "translate3d(0, 0vh, 0)";
         if (headerPointer) {
-        headerPointer.style.opacity = 0;
+          headerPointer.style.opacity = 0;
         }
         if (pageDescription) {
           pageDescription.classList.remove("absolute");
@@ -896,8 +870,8 @@ function init() {
         pageTitle.style.top = "50%";
         pageTitle.style.bottom = "auto";
         pageTitle.style.transform = "translate3d(0, -50%, 0)";
-        if (headerPointer){
-        headerPointer.style.opacity = 1;
+        if (headerPointer) {
+          headerPointer.style.opacity = 1;
         }
         if (pageDescription) {
           pageDescription.classList.remove("relative");
@@ -907,7 +881,6 @@ function init() {
     }
     scrollPos = windowY;
   };
-  
 
   if (document.querySelector('#current')) {
     var currentPage = document.getElementById('current');
@@ -944,7 +917,7 @@ function init() {
     document.querySelectorAll('.dropdown-content').forEach(function (dropdown) {
       dropdown.classList.add('hidden');
     });
-
+    
     if (isHidden) {
       dropdown.classList.remove('hidden');
     } else {

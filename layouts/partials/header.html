@@ -1,24 +1,24 @@
-<nav id="navigation" class="fixed top-0 inset-x-0 transition-nav mx-auto" style="z-index: 110; transform: translate3d(0px, 0px, 0px); opacity: 0;">
+<nav id="navigation" class="fixed top-0 inset-x-0 transition-nav mx-auto" style="z-index: 110; transform: translate3d(0px, 0px, 0px); opacity: 0;" data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}">
   <!-- logo -->
   <div class="navigation-container flex flex-wrap items-center justify-between py-4 px-4 sm:px-8 border-box">
 
-    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-center shift initial-black" style="text-decoration: none !important;">
-      <span class="whitespace-no-wrap text-base tracking-loosest font-normal">
+    <a href="{{.Site.BaseURL}}" class="w-5/6 sm:w-1/2 text-left flex sm:flex-row items-center" style="text-decoration: none !important;">
+      <span class="whitespace-no-wrap text-base tracking-loosest font-normal shift initial-black">
         JESSE RIESER 
       </span>
       {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
       {{ $currentPage := . }}
       {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
       {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}
-      <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">archive
+      <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black " style="margin-bottom: 2px;">archive
       </div>
       {{ end }}
       {{if eq .Section "shop" }} 
-        <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 2px;">shop
+        <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black" style="margin-bottom: 2px;">shop
         </div>
       {{end}}
       {{ if .IsHome }}
-      <div class="flex flex-row items-center text-xs font-normal pl-2  tracking-looser self-end italic whitespace-no-wrap" style="margin-bottom: 3px;">overview
+      <div class="flex flex-row items-center text-xs font-normal pl-2  tracking-looser self-end italic whitespace-no-wrap shift initial-black" style="margin-bottom: 3px;">overview
       </div>
       {{end}}
     </a>

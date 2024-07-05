@@ -158,16 +158,20 @@ html.is-animating .transition-nav {
     transform: translateY(0%);
     display: flex !important;
   }
-  #navigation.active  .navigation-container {
-    background-color: rgba(255, 255, 255, 0.90);
-  }
-  #navigation.active .shift {
-    color: #000 !important;
-  }
 
-  #navigation a {
-  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out,
-  }
+#navigation.active  .navigation-container {
+  background-color: rgba(255, 255, 255, 0.90);
+}
+
+#navigation.active .shift {
+  color: #000 !important;
+}
+
+#navigation a, #navigation a span, #navigation a div {
+transition: color 0.33s ease-in-out, fill 0.33s ease-in-out,
+}
+
+  
 
   .hue-header.white .shift.nav-ig {
     fill: #fff;

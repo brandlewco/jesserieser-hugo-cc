@@ -25,25 +25,25 @@
         <source data-srcset="{{.Params.collection_cover }}?width=1500" media="(max-width: 1440px)" />
         <source data-srcset="{{.Params.collection_cover }}?width=2560" media="(min-width: 1441px)" />
         <img id="header-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="featured lazyload bg-center h-full object-cover absolute inset-0 z-0" alt="{{.Title}} Cover Image" data-sizes="auto" />
-        <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50" height="50"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M250.3 397.7c3.1 3.1 8.2 3.1 11.3 0l216-216c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L256 380.7 45.7 170.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3l216 216z" style="fill:{{.Params.navigation_theme}};" class="arrow-down"/></svg>
-        </div>
     </picture>
+    <div id="header-pointer" class="absolute bottom-0 mx-0 text-6xl font-light shift text-{{.Params.navigation_theme}} z-10" data-sal="slide-down" data-sal-delay="2500">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50" height="50"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M250.3 397.7c3.1 3.1 8.2 3.1 11.3 0l216-216c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L256 380.7 45.7 170.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3l216 216z" style="fill:{{.Params.navigation_theme}};" class="arrow-down"/></svg>
+    </div>
     {{ end }}
 
     <div id="page-title" class="fixed z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-56 font-medium text-left text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
-        <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4" data-sal="slide-up" data-sal-delay="1000">
+        <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
             {{.Title}}
         </h1>
         <div class="loading-container w-full pb-4">
             <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
         </div>
-        <div id="meta-container" class="flex flex-wrap w-full items-center" {{ if .Params.collection_description }}style="min-width: 300px;"{{end}}>
-            <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow" data-sal="slide-down" data-sal-delay="1200">
+        <div id="meta-container" class="flex flex-col sm:flex-row w-full items-center justify-between {{ if .Params.collection_description }}sm:min-w-2xl{{end}}">
+            <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow initial-black" data-sal="slide-down" data-sal-delay="1200">
                 {{ .Params.collection_meta }}
             </h2>
             {{ with .Params.collection_meta_2 }}
-                <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-sm font-medium italic tracking-widest leading-tight text-right flex-grow pl-0 sm:pl-32 pt-4 sm:pt-0" data-sal="slide-down" data-sal-delay="1400">
+                <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-sm font-medium italic tracking-widest leading-tight text-right flex-grow pl-0 sm:pl-32 pt-4 sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                     {{ . }}
                 </h3>
             {{ end }}
@@ -52,6 +52,10 @@
             {{ if .Params.collection_description }}
             <span>{{ .Params.collection_description | markdownify }}</span>
             {{else}}
+            {{end}}
+            {{if (eq .Params.hide_footer true) }}
+            {{else}}
+            <span><a href="#project-brief" class="inline-block text-left font-bold underline" data-no-swup>Read more.</a></span>
             {{end}}
         </div>
     </div>
