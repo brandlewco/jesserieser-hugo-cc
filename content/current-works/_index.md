@@ -1,5 +1,8 @@
 ---
+_schema: default
 title: Current Works & Recent News
+collection_meta: 
+collection_meta_2: 
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.

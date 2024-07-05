@@ -693,7 +693,7 @@ function init() {
   const height = window.innerHeight;
   
   const startFade = height * 0.25; // 25% of viewport height
-  const endFade = height * 0.75; // 75% of viewport height
+  const endFade = height * 0.65; // 75% of viewport height
   
   // Helper function to clamp values within a range
   function value_limit(value, min, max) {

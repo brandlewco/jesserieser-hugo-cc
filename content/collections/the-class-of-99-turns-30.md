@@ -380,7 +380,8 @@ collection_awards:
       <strong>2010</strong><br> <em>AP 26: American Photography Annual
       26</em><br> Best Personal Work Series
 collection_press:
-  - content: '**_LENSCRATCH_**](http://lenscratch.com/2011/06/jesse-rieser-2/)'
+  - content: >-
+      <a href="http://lenscratch.com/2011/06/jesse-rieser-2/"><strong><em>LENSCRATCH</em></strong></a>
 collection_exhibition:
   - content: >-
       <strong>2011</strong><br>   <em>Art Director's Club Young Guns 9

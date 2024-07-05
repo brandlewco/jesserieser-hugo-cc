@@ -8,6 +8,8 @@ feature_description: >-
   For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
 text_alignment: center
+collection_meta: 
+collection_meta_2: 
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
   meta_description: >-
