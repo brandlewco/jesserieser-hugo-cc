@@ -119,7 +119,7 @@ collection_blocks:
     color: '#fcefe6'
     caption: test caption
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
     width: '40'
     margin_y: '300'
     margin_left: '0'
@@ -150,7 +150,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-2.jpg
     width: '55'
     margin_y: '100'
     margin_left: '35'
