@@ -152,15 +152,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-14.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y:
-    color: '#fbfbf9'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
