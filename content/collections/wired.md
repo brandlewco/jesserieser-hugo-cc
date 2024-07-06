@@ -29,7 +29,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage_redo-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage_redo-10.jpg
     width: '33'
     margin_y: '100'
     margin_left: '10'
@@ -114,24 +114,15 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/backpage_redo-9.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    align_y: center
-    color: '#f9f8f6'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/backpage_redo-10.jpg
-    width: '40'
+    width: '60'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: center
-    color: '#4d4d4d'
-    caption:
+    color: '#f9f8f6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-13.jpg
