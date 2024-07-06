@@ -21,7 +21,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-1.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
@@ -33,29 +33,20 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-11.jpg
-    width: '33'
+    width: '40'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '50'
     margin_right: '0'
     align_y: center
     color: '#fef4ea'
-    caption: test caption
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-12.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: center
-    color: '#ffe7d8'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-13.jpg
-    width: '40'
+    width: '33'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#eff4f8'
@@ -72,8 +63,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-14.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-5.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: center
+    color: '#fadfcd'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-5.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
@@ -248,8 +248,8 @@ collection_blocks:
     color: '#e0c8ce'
     caption: test caption
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-6.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-4.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-13.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-5.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Conceptual
