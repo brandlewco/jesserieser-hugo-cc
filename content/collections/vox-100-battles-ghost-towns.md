@@ -58,14 +58,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-5.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/vox_recolor-07-4.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#ede5de'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -92,55 +92,28 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-9.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f3e1d4'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-11.jpg
-    width: '15'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-12.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '30'
     margin_right: '0'
     align_y:
-    color: '#d5f4f6'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-12.jpg
-    width: '40'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '25'
-    align_y:
     color: '#f9d1bc'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-13.jpg
-    width: '15'
-    margin_y: '500'
-    margin_left: '40'
+    width: '20'
+    margin_y: '100'
+    margin_left: '55'
     margin_right: '0'
     align_y:
     color: '#cce3fa'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-14.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#f0f3d4'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -155,25 +128,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/vox_recolor-07-1.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '50'
     margin_right: '5'
     align_y:
     color: '#d0f1f0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/vox_recolor-07-2.jpg
     width: '40'
     margin_y: '300'
     margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#f1e3cf'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-18.jpg
     width: '25'
@@ -236,24 +209,24 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-25.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#d8e9ba'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-6.jpg
-    width: '20'
+    width: '30'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
     color: '#efcab3'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
