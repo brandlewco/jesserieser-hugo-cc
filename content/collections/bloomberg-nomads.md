@@ -32,7 +32,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-20.jpg
     width: '50'
     margin_y: '100'
     margin_left: '10'
@@ -68,7 +68,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads_recolor-07-5.jpg
     width: '60'
     margin_y: '200'
     margin_left: '20'
@@ -126,21 +126,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-10.jpg
     width: '45'
-    margin_y: '400'
-    margin_left: '5'
+    margin_y: '100'
+    margin_left: '35'
     margin_right: '0'
     align_y: ''
     color: '#cce3fa'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-11.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: ''
-    color: '#edf1d0'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
@@ -158,7 +148,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads_recolor-07-6.jpg
     width: '50'
     margin_y: '100'
     margin_left: '5'
@@ -242,23 +232,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomads_recolor-07-7.jpg
     width: '30'
-    margin_y: '400'
-    margin_left: '10'
+    margin_y: '100'
+    margin_left: '55'
     margin_right: '0'
     align_y: ''
     color: '#f6f1d0'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-20.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: ''
-    color: '#eddaf0'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
@@ -267,7 +247,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-22.jpg
-    width: '50'
+    width: '55'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
