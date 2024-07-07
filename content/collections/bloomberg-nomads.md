@@ -309,7 +309,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-27.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#eddaf0'
