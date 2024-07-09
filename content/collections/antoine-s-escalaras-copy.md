@@ -8,7 +8,7 @@ seo:
 title: 'The New York Times '
 collection_meta: 'Maga is Demoting '
 collection_meta_2: The Anti-Abortion Forces It Once Coddled
-collection_description: The Abortion Debate as Seen in Arizona
+collection_description: The abortion debate in Arizona.
 collection_description_alignment: center
 slug: nyt-abortion
 collection_blocks:
