@@ -85,11 +85,11 @@ content_blocks:
     color: '#000000'
     text_color: '#ffffff'
   - _bookshop_name: home/modal-blog
-    title: 'AP 39: American Photography Annual '
-    caption: 'Barron''s: Beyond The Drought'
-    attached_blog: posts/ap-39-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
-    block_aspect_ratio: 4x5
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
     width: '15'
@@ -98,9 +98,11 @@ content_blocks:
     margin_left: '0'
     margin_right: '30'
     meta_align: left
-    theme_color: '#ffd2d2'
+    theme_color: '#d2fdff'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -128,29 +130,29 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'Communication Arts Photography Annual '
-    caption: Antoine’s Escalaras
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    title: 'AP 39: American Photography Annual '
+    caption: 'Barron''s: Beyond The Drought'
+    attached_blog: posts/ap-39-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
     block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#fcc8cc'
-    width: '25'
+    text_size: base
+    color: '#ffffff'
+    width: '20'
     align_y: start
     margin_y: '50'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
-    theme_color: '#fabdc2'
-    meta: meta
-    blog_header:
+    theme_color: '#ffd2d2'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'ESPN: Devin Booker Becoming Legendary '
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -198,8 +200,8 @@ content_blocks:
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#faf2ea'
@@ -214,6 +216,69 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: 'Communication Arts Photography Annual '
+    caption: Antoine’s Escalaras
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#fcc8cc'
+    width: '20'
+    align_y: start
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#fabdc2'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'AARP: Washed Away'
+    attached_collection: collections/aarp.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'NYT: '
+    attached_collection: collections/national-geographic.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
+    width: '33'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -341,10 +406,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
