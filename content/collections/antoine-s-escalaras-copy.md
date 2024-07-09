@@ -10,7 +10,7 @@ collection_meta: 'Maga is Demoting '
 collection_meta_2: The Anti-Abortion Forces It Once Coddled
 collection_description: The abortion debate in Arizona.
 collection_description_alignment: center
-slug: nyt-abortion
+slug: abortion-nyt
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
