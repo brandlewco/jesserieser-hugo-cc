@@ -8,8 +8,13 @@ seo:
 title: 'The New York Times '
 collection_meta: 'Maga is Demoting '
 collection_meta_2: The Anti-Abortion Forces It Once Coddled
-collection_description: |-
-  Images  of the Arizona State capital during the 1864 abortion ban.
+collection_description: >-
+  “There’s so much on the line this election,” she said. “We’re either going to
+  save our country, or the Democrats — I call them Communists — are going to
+  drive us right to the ground.” Given the existential stakes, Lake insisted,
+  Republicans can’t let themselves get “caught up” with wedge issues like this
+  one." - Kari Lake
+
 
   &nbsp;
 collection_description_alignment: center
