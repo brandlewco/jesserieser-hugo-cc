@@ -260,7 +260,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: 'NYT: '
-    attached_collection: collections/national-geographic.md
+    attached_collection: collections/antoine-s-escalaras-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
     width: '33'
     margin_y: '500'
