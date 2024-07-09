@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Current Works & Recent News
-collection_meta: 
-collection_meta_2: 
+collection_meta:
+collection_meta_2:
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
@@ -88,8 +88,8 @@ content_blocks:
     title: 'AP 39: American Photography Annual '
     caption: 'Barron''s: Beyond The Drought'
     attached_blog: posts/ap-39-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39_01.jpg
-    block_aspect_ratio: 4x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
+    block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
     width: '15'
