@@ -41,7 +41,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-3.jpg
     width: '30'
-    margin_y: '250'
+    margin_y: '400'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -50,7 +50,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-4.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -59,7 +59,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-5.jpg
     width: '30'
-    margin_y: '250'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -73,9 +73,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-6.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '30'
+    width: '60'
+    margin_y: '200'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#f7e8db'
@@ -86,7 +86,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-7.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
@@ -97,31 +97,31 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-8.jpg
-    width: '33'
-    margin_y: '300'
+    width: '50'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e7eeff'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-9.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: '33'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
     color: '#ffebe6'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-10.jpg
-    width: '30'
-    margin_y: '600'
-    margin_left: '0'
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '10'
     align_y:
     color: '#d8fdf1'
@@ -130,19 +130,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#ff0000'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: '35'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#ff0000'
     caption: test caption
@@ -152,18 +152,9 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-13.jpg
     width: '40'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
-    color: '#ff0000'
-    caption: test caption
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-15.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: center
     color: '#ff0000'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -180,7 +171,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-17.jpg
     width: '40'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     align_y:
