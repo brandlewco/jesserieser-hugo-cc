@@ -8,7 +8,10 @@ seo:
 title: 'The New York Times '
 collection_meta: 'Maga is Demoting '
 collection_meta_2: The Anti-Abortion Forces It Once Coddled
-collection_description: The abortion debate in Arizona.
+collection_description: |-
+  Images  of the Arizona State capital during the 1864 abortion ban.
+
+  &nbsp;
 collection_description_alignment: center
 slug: abortion-nyt
 collection_blocks:
