@@ -19,40 +19,14 @@ seo:
     Director specializing in portraiture, reportage, sport and conceptual
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
-  - _bookshop_name: home/media-row-start
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: center
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-62.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    width: '55'
+    margin_y: '50'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -67,40 +41,30 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row
+  - _bookshop_name: home/media-row-start
     row_alignment: between
-  - _bookshop_name: home/media-link
-    title: 'Request a Pdf '
-    meta: 'Silver Sneakers & Apple Fitness + '
-    text_size: 2xl
-    align_y: start
-    width: '33'
-    margin_y: '200'
-    margin_left: '15'
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_collection: collections/outdoor-life.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
+    width: '40'
+    margin_y: '0'
+    margin_left: '5'
     margin_right: '0'
-    block_aspect_ratio: 3x2
-    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
-    link: >-
-      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
-    color: '#000000'
+    align_y: center
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: lg
     text_color: '#ffffff'
-  - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '30'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -130,20 +94,20 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'AP 39: American Photography Annual '
-    caption: 'Barron''s: Beyond The Drought'
-    attached_blog: posts/ap-39-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
-    block_aspect_ratio: 4x5
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '50'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
-    theme_color: '#ffd2d2'
+    theme_color: '#d2fdff'
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
@@ -152,7 +116,7 @@ content_blocks:
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '250'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -170,6 +134,23 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-link
+    title: 'Request a Pdf '
+    meta: 'Silver Sneakers & Apple Fitness + '
+    text_size: 2xl
+    align_y: start
+    width: '30'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    block_aspect_ratio: 3x2
+    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
+    link: >-
+      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
+    color: '#000000'
+    text_color: '#ffffff'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: The Changing Landscape of American Retail
@@ -177,7 +158,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
@@ -200,8 +181,8 @@ content_blocks:
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '33'
-    margin_y: '300'
-    margin_left: '25'
+    margin_y: '350'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#faf2ea'
@@ -217,22 +198,22 @@ content_blocks:
     font_weight: bold
     meta_align: right
   - _bookshop_name: home/modal-blog
-    title: 'Communication Arts Photography Annual '
-    caption: Antoine’s Escalaras
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    title: 'AP 39: American Photography Annual '
+    caption: 'Barron''s: Beyond The Drought'
+    attached_blog: posts/ap-39-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
     block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#fcc8cc'
-    width: '20'
+    text_size: base
+    color: '#ffffff'
+    width: '15'
     align_y: start
     margin_y: '50'
     margin_left: '0'
     margin_right: '15'
     meta_align: left
-    theme_color: '#fabdc2'
-    meta: meta
-    blog_header:
+    theme_color: '#ffd2d2'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -259,11 +240,11 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'NYT: '
+    meta: 'NYT: Maga is Demoting the Anti-Abortion Forces It Once Coddled'
     attached_collection: collections/antoine-s-escalaras-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
     width: '33'
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -322,6 +303,25 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Communication Arts Photography Annual '
+    caption: Antoine’s Escalaras
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#fcc8cc'
+    width: '20'
+    align_y: start
+    margin_y: '50'
+    margin_left: '25'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#fabdc2'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: Golf Digest
@@ -366,10 +366,10 @@ content_blocks:
     title:
     meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-4.jpg
+    width: '40'
     margin_y: '450'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
@@ -389,10 +389,10 @@ content_blocks:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
-    width: '35'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: start
     color: '#d6bfe9'
     caption: ''
@@ -409,6 +409,25 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
+    title: 'AP 38: American Photography Annual'
+    caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
+    attached_blog: posts/ap-38-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/Rieser_ap38-1_vertical.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#ffaaaa'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f8d9d9'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Christmas In America Feature
     attached_blog: posts/new-blog.md
@@ -417,39 +436,20 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#c22b30'
-    width: '25'
-    align_y: center
+    width: '15'
+    align_y: start
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'AP 38: American Photography Annual'
-    caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
-    attached_blog: posts/ap-38-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/Rieser_ap38-1_vertical.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#ffaaaa'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f8d9d9'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/media-feature
     title:
     meta: Christmas in America
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y:
@@ -837,7 +837,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '1000'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#c8b3eb'
@@ -847,7 +847,7 @@ content_blocks:
     meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
     margin_left: '0'
     margin_right: '25'
@@ -871,9 +871,9 @@ content_blocks:
     meta: 'Golf Digest: Cameron Young'
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
-    width: '25'
+    width: '20'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -896,11 +896,11 @@ content_blocks:
     block_aspect_ratio: 11x8-5
     text_size:
     color: '#eed2d2'
-    width: '25'
+    width: '20'
     align_y: start
-    margin_y: '800'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '25'
     meta_align: left
     theme_color: '#e5e5ef'
     meta: meta
@@ -918,7 +918,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff0000'
