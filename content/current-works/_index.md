@@ -327,7 +327,7 @@ content_blocks:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-2.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
@@ -353,11 +353,11 @@ content_blocks:
     block_aspect_ratio: 9x16
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '450'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     meta_align: left
     theme_color: '#efeae0'
   - _bookshop_name: home/media-row
@@ -367,9 +367,9 @@ content_blocks:
     meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-4.jpg
-    width: '40'
-    margin_y: '450'
-    margin_left: '5'
+    width: '50'
+    margin_y: '700'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
@@ -388,11 +388,11 @@ content_blocks:
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-18.jpg
+    width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '5'
     align_y: start
     color: '#d6bfe9'
     caption: ''
