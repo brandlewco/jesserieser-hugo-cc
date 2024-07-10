@@ -270,7 +270,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-covers-1.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-4.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-7.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
