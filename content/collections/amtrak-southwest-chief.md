@@ -288,7 +288,7 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-13.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
