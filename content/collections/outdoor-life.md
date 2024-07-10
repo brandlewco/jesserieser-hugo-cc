@@ -180,7 +180,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt_header-16.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-3-3.jpg
 collection_filter: Commissioned + Stock
 collection_category:
