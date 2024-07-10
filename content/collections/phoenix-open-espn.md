@@ -384,7 +384,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/phx_open-headers-7.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/wm_vertical-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-19.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
