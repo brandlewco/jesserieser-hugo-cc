@@ -642,8 +642,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-11.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-8.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-5.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
