@@ -19,7 +19,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-1.jpg
     width: '50'
     margin_y: '100'
     margin_left: '35'
@@ -31,7 +31,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-2.jpg
     width: '55'
     margin_y: '100'
     margin_left: '5'
@@ -43,7 +43,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-3.jpg
     width: '33'
     margin_y: '100'
     margin_left: '10'
@@ -53,7 +53,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-4.jpg
     width: '25'
     margin_y: '200'
     margin_left: '0'
@@ -65,7 +65,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-5.jpg
     width: '30'
     margin_y: '100'
     margin_left: '30'
@@ -77,7 +77,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo_dyptech-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-6.jpg
     width: '90'
     margin_y: '100'
     margin_left: '5'
@@ -89,7 +89,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-7.jpg
     width: '50'
     margin_y: '100'
     margin_left: '10'
@@ -99,7 +99,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-8.jpg
     width: '30'
     margin_y: '700'
     margin_left: '0'
@@ -111,7 +111,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-9.jpg
     width: '33'
     margin_y: '100'
     margin_left: '45'
@@ -123,7 +123,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-10.jpg
     width: '25'
     margin_y: '100'
     margin_left: '30'
@@ -133,7 +133,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-11.jpg
     width: '33'
     margin_y: '400'
     margin_left: '0'
@@ -147,7 +147,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-12.jpg
     width: '60'
     margin_y: '100'
     margin_left: '15'
@@ -159,7 +159,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-13.jpg
     width: '33'
     margin_y: '100'
     margin_left: '25'
@@ -171,7 +171,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-14.jpg
     width: '30'
     margin_y: '600'
     margin_left: '5'
@@ -181,7 +181,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-15.jpg
     width: '45'
     margin_y: '100'
     margin_left: '0'
@@ -195,7 +195,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-16.jpg
     width: '66'
     margin_y: '100'
     margin_left: '15'
@@ -207,7 +207,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-17.jpg
     width: '30'
     margin_y: '100'
     margin_left: '25'
@@ -217,7 +217,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-18.jpg
     width: '33'
     margin_y: '600'
     margin_left: '0'
@@ -231,7 +231,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-19.jpg
     width: '33'
     margin_y: '500'
     margin_left: '5'
@@ -241,7 +241,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-20.jpg
     width: '45'
     margin_y: '100'
     margin_left: '0'
@@ -255,7 +255,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smith-kitt-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-21.jpg
     width: '66'
     margin_y: '100'
     margin_left: '15'
