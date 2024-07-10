@@ -389,7 +389,7 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/serial-6.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-6.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-18.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Award Winning
