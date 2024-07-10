@@ -54,14 +54,14 @@ collection_blocks:
     caption:
     image:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/dhop-07-1.jpg
     width: '30'
     margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y:
-    color: '#F2E1E1'
-    caption:
+    color: '#f2e1e1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -102,27 +102,18 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267612
     text: caption
-    color: ''
+    color:
     show_controls: false
     block_aspect_ratio:
-    width: '30'
+    width: '50'
     align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    caption:
-    image:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-5.jpg
-    width: '33'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    align_y:
-    color: '#F2BAB6'
-    caption:
+    caption: ''
+    image:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
