@@ -318,7 +318,7 @@ collection_blocks:
     color: '#E1E1D2'
     caption:
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/co99-6.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-9.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-33.jpg
 collection_filter: Personal
 collection_category:
@@ -381,7 +381,8 @@ collection_awards:
       26</em><br> Best Personal Work Series
 collection_press:
   - content: >-
-      <a href="http://lenscratch.com/2011/06/jesse-rieser-2/"><strong><em>LENSCRATCH</em></strong></a>
+      <a
+      href="http://lenscratch.com/2011/06/jesse-rieser-2/"><strong><em>LENSCRATCH</em></strong></a>
 collection_exhibition:
   - content: >-
       <strong>2011</strong><br>   <em>Art Director's Club Young Guns 9
