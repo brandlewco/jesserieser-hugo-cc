@@ -776,8 +776,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-22.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers07-4.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
