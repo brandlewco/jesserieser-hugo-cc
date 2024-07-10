@@ -1,6 +1,6 @@
 collection_pager:
-  - collections/outdoor-life.md
   - collections/vanishing-folklore-2.md
+  - collections/outdoor-life.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
@@ -38,7 +38,6 @@ collection_pager:
   - collections/wired.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
-  - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 overview_pager:
