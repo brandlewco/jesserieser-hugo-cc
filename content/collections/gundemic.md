@@ -420,8 +420,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-vox-guns-16.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-18.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-8.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-5.jpg
 collection_filter: Personal
 collection_category:
   - Kids
@@ -472,6 +472,7 @@ collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
