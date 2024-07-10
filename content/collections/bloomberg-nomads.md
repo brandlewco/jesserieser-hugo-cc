@@ -317,7 +317,7 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcover-60.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-8.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
