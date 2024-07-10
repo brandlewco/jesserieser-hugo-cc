@@ -25,7 +25,6 @@ collection_sorter:
   - collections/wired.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
-  - collections/when-fall-came-early.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
 ---
