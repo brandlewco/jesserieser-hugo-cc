@@ -130,44 +130,53 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-11.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#f5ecba'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-12.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#f3e7dd'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
+    width: '55'
+    margin_y: '400'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: center
+    color: '#ff0000'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-13.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
-    align_y: center
-    color: '#f3e7dd'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-13.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f0cdc4'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-14.jpg
     width: '40'
-    margin_y: '400'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '40'
     margin_right: '15'
     align_y: center
     color: '#a9cffd'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -283,15 +292,6 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-26.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    align_y: center
-    color: '#f8f2f7'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -504,7 +504,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers07-3.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
