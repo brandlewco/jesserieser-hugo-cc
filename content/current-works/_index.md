@@ -45,7 +45,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title: A Son's First Solo Hunt
-    meta: 'Outdoor Life: A Son''s First Solo Hunt'
+    meta: Outdoor Life
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
     width: '40'
