@@ -16,22 +16,16 @@ collection_description: >-
   fringilla vitae interdum vel, euismod vitae quam.
 theme_color: '#bde6c5'
 navigation_theme: white
-header_col_1_title: Advertising & Editorial Commissions
+header_col_1_title: Exhibition, Syndication, Press Inquiries & Commissions
 header_col_1: >-
-  <p><a href="https://www.andersonhopkins.com/" target="_blank"
-  rel="noopener">Anderson Hopkins</a></p><p>SJ Ashby<br /><a
-  href="mailto:sj@andersonhopkins.com">sj@andersonhopkins.com</a></p><p>Echo
-  Hopkins<br /><a
-  href="mailto:echo@andersonhopkins.com">echo@andersonhopkins.com</a></p><p>70
-  Lafayette Street, 7th Floor<br />New York, NY 10013<br />212 431
-  5117</p><p>&nbsp;</p>
-header_col_2_title: Exhibition, Syndication, & Press Inquiries
-header_col_2: >-
-  <p>Jesse Rieser<br />Instagram&nbsp;<a target="_blank"
-  href="https://www.instagram.com/jesserieser/">@jesserieser.com</a><br /><a
+  <p>Jesse Rieser<br />Instagram <a
+  href="https://www.instagram.com/jesserieser/" target="_blank"
+  rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
   Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
+header_col_2_title:
+header_col_2:
 header_col_3_title: Stock Licensing
 header_col_3: >-
   <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
