@@ -16,16 +16,22 @@ collection_description: >-
   fringilla vitae interdum vel, euismod vitae quam.
 theme_color: '#bde6c5'
 navigation_theme: white
-header_col_1_title: Exhibition, Syndication, Press Inquiries & Commissions
+header_col_1_title: Advertising & Editorial Commissions
 header_col_1: >-
-  <p>Jesse Rieser<br /><br />Instagram <a
+  <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
   Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
-header_col_2_title:
-header_col_2:
+header_col_2_title: 'Exhibition, Syndication, & Press '
+header_col_2: >-
+  <p>Jesse Rieser<br />Instagram <a
+  href="https://www.instagram.com/jesserieser/" target="_blank"
+  rel="noopener">@jesserieser.com</a><br /><a
+  href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
+  href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
+  Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
 header_col_3_title: Stock Licensing
 header_col_3: >-
   <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
