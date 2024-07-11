@@ -18,7 +18,7 @@ theme_color: '#bde6c5'
 navigation_theme: white
 header_col_1_title: Exhibition, Syndication, Press Inquiries & Commissions
 header_col_1: >-
-  <p>Jesse Rieser<br />Instagram <a
+  <p>Jesse Rieser<br /><br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
