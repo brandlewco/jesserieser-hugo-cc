@@ -152,7 +152,7 @@ button.target-burger ul.buns {
 }
 button.target-burger ul.buns li.bun {
   width: 100%;
-  height: 2px;
+  height: 1px;
   position: absolute;
   top: 50%;
   margin-top: -0.75px;

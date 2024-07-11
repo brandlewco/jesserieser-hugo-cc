@@ -1,12 +1,6 @@
 ---
 title: General
-feature_description: >-
-  Here you will find handpicked photographic art works, client commissions, and
-  recent news.
-
-
-  For additional projects and archive head over to [all
-  works.](https://jesserieser.com/collections/)
+collection_description: A student of subtleties.
 text_alignment: center
 collection_meta: Overview
 collection_meta_2:
@@ -1155,7 +1149,6 @@ content_blocks:
     color: '#cfe0db'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_description: A student of subtleties.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: white

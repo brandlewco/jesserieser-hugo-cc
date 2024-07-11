@@ -165,6 +165,7 @@ html.is-animating .transition-nav {
 
 #navigation.active .shift {
   color: #000 !important;
+  fill: #000 !important;
 }
 
 #navigation a, #navigation a span, #navigation a div {

@@ -1,4 +1,4 @@
-<section id="project-next" class="mt-12 mb-4 px-10 lg:px-16 xl:px-32">
+<section id="project-next" class="mt-12 mb-4 px-4 sm:px-10 lg:px-16 xl:px-32">
     <nav>
     <ul class="mx-auto flex flex-row justify-between items-end sm:items-stretch">
     <!-- RUN RANGE JUST FOR LAST ITEM IN COLLECTION TO COMPLETE PAGER LOOP -->
@@ -17,7 +17,10 @@
             </div>
             <div class="pager-title">
                 <div class="text-sm block uppercase tracking-looser">
-                    {{ .Title }}
+                    {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
+                    {{ $currentPage := . }}
+                    {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
+                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs block font-normal font-base leading-relaxed text-left ">
                     {{.Params.collection_meta | truncate 45 }}
@@ -51,7 +54,10 @@
             </div>
             <div class="pager-title">
                 <div class="text-sm block uppercase tracking-looser">
-                    {{ .Title }}
+                                        {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
+                    {{ $currentPage := . }}
+                    {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
+                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs block font-normal font-base leading-relaxed text-left ">
                     {{.Params.collection_meta | truncate 45 }}
@@ -81,7 +87,10 @@
             </div>
             <div class="pager-title">
                 <div class="text-sm block tracking-looser">
-                    {{ .Title }}
+                    {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
+                    {{ $currentPage := . }}
+                    {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
+                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs  block font-normal font-base leading-relaxed text-left" style="max-width: 50vw;">
                     {{.Params.collection_meta | truncate 45 }}
