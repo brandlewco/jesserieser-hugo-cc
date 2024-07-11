@@ -26,7 +26,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '55'
     margin_y: '50'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
