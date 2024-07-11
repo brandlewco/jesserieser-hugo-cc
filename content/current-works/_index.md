@@ -20,7 +20,7 @@ seo:
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
   - _bookshop_name: home/media-feature
-    title:
+    title: American Hypnosis
     meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
@@ -44,7 +44,7 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
+    title: A Son's First Solo Hunt
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
@@ -56,7 +56,7 @@ content_blocks:
     color: '#c9fce6'
     caption: ''
     title_margin_y: '15'
-    title_margin_left: '5'
+    title_margin_left: '40'
     title_margin_right: '0'
     text_size: lg
     text_color: '#ffffff'
@@ -70,7 +70,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
+    title: 'Antoine''s Escalaras '
     meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
@@ -81,11 +81,11 @@ content_blocks:
     align_y: start
     color: '#e5f5b5'
     caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-20'
+    title_margin_y: '20'
+    title_margin_left: '5'
     title_margin_right: '0'
     text_size: 2xl
-    text_color: '#000000'
+    text_color: '#ffffff'
     line_height: normal
     text_alignment: left
     text_tracking: wide
