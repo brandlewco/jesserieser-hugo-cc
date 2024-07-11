@@ -336,10 +336,10 @@ theme_color_all_works: '#bc75ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-6.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/classof99-cover-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-covers-07-11.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-covers-07-10.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-covers-07-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-covers-07-12.jpg
 collection_content: >-
   In 2010, my high school classmates and I turned 30. As we entered adulthood we
   had reason to be optimistic and confident. Our formative years were cocooned
