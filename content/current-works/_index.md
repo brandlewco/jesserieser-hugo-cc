@@ -34,7 +34,7 @@ content_blocks:
     title_margin_y: '10'
     title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 2xl
+    text_size: lg
     text_color: '#000000'
     line_height: normal
     text_alignment: left
