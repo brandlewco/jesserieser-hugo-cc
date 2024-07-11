@@ -16,7 +16,7 @@ collection_description: >-
   fringilla vitae interdum vel, euismod vitae quam.
 theme_color: '#bde6c5'
 navigation_theme: white
-header_col_1_title: Advertising & Editorial Commissions
+header_col_1_title: 'Advertising & Editorial '
 header_col_1: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
