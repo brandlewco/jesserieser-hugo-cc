@@ -85,7 +85,7 @@ about_blocks:
     margin_y: '650'
     margin_left: '5'
     margin_right: '0'
-    title_margin_y: '50'
+    title_margin_y: '20'
     title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
@@ -315,7 +315,7 @@ about_blocks:
     margin_y: '450'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '50'
+    title_margin_y: '40'
     title_margin_left: '35'
     title_margin_right: '0'
     align_x: start
@@ -579,7 +579,7 @@ about_blocks:
     margin_y: '250'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '50'
+    title_margin_y: '60'
     title_margin_left: '25'
     title_margin_right: '0'
     align_x: start
@@ -1026,7 +1026,7 @@ about_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    title_margin_y: '50'
+    title_margin_y: '70'
     title_margin_left: '35'
     title_margin_right: '0'
     modal_block:
