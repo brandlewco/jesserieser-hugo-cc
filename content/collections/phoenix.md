@@ -20,20 +20,20 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-1.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#ffd9b0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '40'
-    margin_y: '500'
+    width: '35'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '10'
-    align_y: center
-    color: '#9FE1DD'
-    caption:
+    align_y: start
+    color: '#9fe1dd'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
@@ -44,7 +44,7 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#d4e6f6'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
@@ -64,9 +64,9 @@ collection_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    align_y: center
-    color: '#EBE5DB'
-    caption:
+    align_y: start
+    color: '#ebe5db'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-6.jpg
     width: '40'
@@ -84,9 +84,9 @@ collection_blocks:
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#002774'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-8.jpg
     width: '30'
@@ -106,18 +106,18 @@ collection_blocks:
     margin_y: '600'
     margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#fff8d0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-9.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    align_y: center
+    align_y: start
     color: '#b0daf2'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -139,18 +139,18 @@ collection_blocks:
     margin_y: '500'
     margin_left: '5'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#fde3d3'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-13.jpg
     width: '30'
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    align_y: center
+    align_y: start
     color: '#ba94dc'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
