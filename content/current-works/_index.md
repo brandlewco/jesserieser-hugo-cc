@@ -31,7 +31,7 @@ content_blocks:
     align_y: start
     color: '#d0e5ef'
     caption: ''
-    title_margin_y: '10'
+    title_margin_y: '20'
     title_margin_left: '-20'
     title_margin_right: '0'
     text_size: lg
