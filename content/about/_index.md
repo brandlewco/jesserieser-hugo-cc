@@ -92,7 +92,7 @@ about_blocks:
     margin_y: '650'
     margin_left: '5'
     margin_right: '0'
-    title_margin_y: '20'
+    title_margin_y: '30'
     title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
