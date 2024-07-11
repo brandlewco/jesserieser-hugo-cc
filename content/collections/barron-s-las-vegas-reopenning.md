@@ -216,7 +216,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/barrons-lv-reopen_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-covers-07-8.jpg
 collection_content: ''
 collection_awards: []
 collection_press: []
