@@ -113,10 +113,10 @@ collection_blocks:
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-11.jpg
-    width: '15'
+    width: '20'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#b89990'
     caption: test caption
