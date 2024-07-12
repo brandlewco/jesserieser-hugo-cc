@@ -50,7 +50,7 @@ collection_blocks:
     margin_y: '700'
     margin_left: '0'
     margin_right: '5'
-    align_y: center
+    align_y: start
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-row
