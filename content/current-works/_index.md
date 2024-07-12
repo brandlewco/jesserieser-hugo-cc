@@ -20,7 +20,7 @@ seo:
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
   - _bookshop_name: home/media-feature
-    title: American Hypnosis
+    title:
     meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
