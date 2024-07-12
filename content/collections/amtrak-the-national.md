@@ -25,7 +25,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#f2d7a2'
     caption: test caption
   - _bookshop_name: collections/media-element
@@ -107,7 +107,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '10'
-    align_y: center
+    align_y: start
     color: '#ee2a2a'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -118,7 +118,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: ''
-    align_y: center
+    align_y: start
     color: '#c3ddee'
     caption: test caption
   - _bookshop_name: collections/media-element
@@ -127,7 +127,7 @@ collection_blocks:
     margin_y: '300'
     margin_left: '0'
     margin_right: '30'
-    align_y: center
+    align_y: start
     color: '#f2e2cd'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -158,7 +158,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    align_y: center
+    align_y: start
     color: '#c9e7f8'
     caption: test caption
   - _bookshop_name: collections/media-row
@@ -169,8 +169,8 @@ collection_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: ''
-    align_y: center
-    color: '#6B5A68'
+    align_y: start
+    color: '#6b5a68'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-15.jpg
@@ -200,7 +200,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#cc8571'
     caption: test caption
   - _bookshop_name: collections/media-element
