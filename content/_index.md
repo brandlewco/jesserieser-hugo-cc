@@ -15,7 +15,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
-    width: '35'
+    width: '33'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
