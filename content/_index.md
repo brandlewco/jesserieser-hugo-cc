@@ -17,7 +17,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#edeff2'
