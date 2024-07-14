@@ -38,7 +38,7 @@ content_blocks:
     width: '45'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y:
     color: '#000000'
     caption: ''
@@ -493,7 +493,7 @@ content_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-47.jpg
-    width: '20'
+    width: '15'
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
@@ -594,7 +594,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '35'
     margin_right: '5'
     align_y:
     color: '#5f5547'
