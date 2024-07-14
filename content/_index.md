@@ -602,7 +602,7 @@ content_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '5'
     align_y:
