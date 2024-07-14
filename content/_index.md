@@ -555,15 +555,6 @@ content_blocks:
     align_y:
     color: '#885872'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-53.jpg
-    width: '50'
-    margin_y: '350'
-    margin_left: '0'
-    margin_right: '10'
-    align_y:
-    color: '#b3bda5'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
