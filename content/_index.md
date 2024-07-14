@@ -592,7 +592,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
     margin_left: '35'
     margin_right: '5'
