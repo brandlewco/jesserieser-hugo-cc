@@ -17,7 +17,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#edeff2'
@@ -26,7 +26,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-2.jpg
-    width: '20'
+    width: '25'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
@@ -57,9 +57,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-5.jpg
-    width: '20'
+    width: '25'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#9d0310'
@@ -77,7 +77,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-7.jpg
-    width: '33'
+    width: '35'
     margin_y: '200'
     margin_left: '15'
     margin_right: '0'
