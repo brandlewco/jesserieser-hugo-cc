@@ -156,7 +156,7 @@ content_blocks:
     color: '#fbfbf9'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-4.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
