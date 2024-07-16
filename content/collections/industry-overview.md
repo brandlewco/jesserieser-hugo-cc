@@ -355,24 +355,6 @@ collection_blocks:
     color: '#feecb4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-40.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#fcfbf9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-42.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#0a0a0a'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-39.jpg
     width: '15'
     margin_y: '50'
@@ -443,42 +425,6 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#eedee1'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-51.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-52.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#885872'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-54.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#261819'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-53.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#b3bda5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-47.jpg
