@@ -20,8 +20,8 @@ overview_collection:
   - content/collections/general-overview.md
   - content/collections/portrait.md
   - content/collections/sport-athletes.md
-  - content/collections/reportage.md
   - content/collections/travel-tourism.md
+  - content/collections/reportage.md
   - content/collections/industry-overview.md
   - content/collections/landscape-overview.md
 date: 2017-11-02T23:00:00Z
