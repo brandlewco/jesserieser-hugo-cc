@@ -5,7 +5,7 @@ text_alignment: center
 collection_meta:
 collection_meta_2:
 seo:
-  meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
+  meta_title: Selected Works of Los Angeles + Phoenix Photographer Jesse Rieser
   meta_description: >-
     Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
     Director specializing in portraiture, reportage, sport and conceptual
