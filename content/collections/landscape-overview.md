@@ -4,7 +4,7 @@ seo:
   meta_description: Selection of Landscapes
   meta_title: 'Landscape Overview '
 title: 'Landscapes '
-collection_meta: 'Overview '
+collection_meta:
 collection_meta_2: ''
 collection_description: ''
 collection_description_alignment: center
@@ -130,7 +130,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-23.jpg
     width: '45'
     margin_y: '400'
     margin_left: '5'
