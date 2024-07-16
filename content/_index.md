@@ -1,8 +1,8 @@
 ---
-title: General
-collection_description: A student of subtleties.
+title: Welcome
+collection_description: Test
 text_alignment: center
-collection_meta: Overview
+collection_meta:
 collection_meta_2:
 seo:
   meta_title: Selected Works of Los Angeles Photographer Jesse Rieser
