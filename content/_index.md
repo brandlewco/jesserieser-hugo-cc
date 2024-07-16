@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Overview
 collection_description: test
 text_alignment: center
 collection_meta:
