@@ -1,6 +1,6 @@
 ---
 title: Welcome
-collection_description: Test
+collection_description: A student of subtleties.
 text_alignment: center
 collection_meta:
 collection_meta_2:
@@ -16,7 +16,7 @@ content_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '35'
     margin_right: '0'
     align_y:
