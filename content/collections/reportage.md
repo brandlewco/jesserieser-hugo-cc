@@ -85,7 +85,7 @@ collection_blocks:
     color: '#eefbe7'
     caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-9.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -94,7 +94,7 @@ collection_blocks:
     color: '#e5ecf5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-10.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -103,7 +103,7 @@ collection_blocks:
     color: '#ece9e2'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-11.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -112,7 +112,7 @@ collection_blocks:
     color: '#203d49'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-12.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -121,7 +121,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-13.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -130,7 +130,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-14.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -139,7 +139,7 @@ collection_blocks:
     color: '#fbfbf9'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-15.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -148,7 +148,7 @@ collection_blocks:
     color: '#e0f9ef'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-16.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -157,7 +157,7 @@ collection_blocks:
     color: '#fcebeb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-17.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -166,7 +166,7 @@ collection_blocks:
     color: '#e7edf4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-18.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -175,7 +175,7 @@ collection_blocks:
     color: '#faede1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-19.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -184,7 +184,7 @@ collection_blocks:
     color: '#280503'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-20.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -193,7 +193,7 @@ collection_blocks:
     color: '#e8ccb4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-21.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -202,7 +202,7 @@ collection_blocks:
     color: '#eae2cc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-22.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -211,7 +211,7 @@ collection_blocks:
     color: '#bb0412'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-23.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -220,7 +220,7 @@ collection_blocks:
     color: '#ffe29b'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-24.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -229,7 +229,7 @@ collection_blocks:
     color: '#e5d4cb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-25.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -238,7 +238,7 @@ collection_blocks:
     color: '#e0c6ca'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-26.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -247,7 +247,7 @@ collection_blocks:
     color: '#afb1b7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-27.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-27.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -256,7 +256,7 @@ collection_blocks:
     color: '#d8c9d8'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-28.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-28.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -265,7 +265,7 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-29.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-29.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -274,7 +274,7 @@ collection_blocks:
     color: '#f1ebe6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-30.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-30.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -283,7 +283,7 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-31.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-31.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -292,7 +292,7 @@ collection_blocks:
     color: '#e4ebed'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-32.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-32.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -301,7 +301,7 @@ collection_blocks:
     color: '#eee6dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-33.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -310,7 +310,7 @@ collection_blocks:
     color: '#ddefec'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-34.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-34.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -319,7 +319,7 @@ collection_blocks:
     color: '#f1efed'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-35.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-35.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -328,7 +328,7 @@ collection_blocks:
     color: '#eb2f36'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-36.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-36.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -337,7 +337,7 @@ collection_blocks:
     color: '#f4f4eb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-37.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-37.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -346,7 +346,7 @@ collection_blocks:
     color: '#d9dee1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-38.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-38.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -355,7 +355,7 @@ collection_blocks:
     color: '#cfe0db'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-39.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-39.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -364,7 +364,7 @@ collection_blocks:
     color: '#f2ece9'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-40.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-40.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -373,7 +373,7 @@ collection_blocks:
     color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-41.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-41.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -382,7 +382,7 @@ collection_blocks:
     color: '#1c1914'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-42.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-42.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -409,7 +409,7 @@ collection_blocks:
     color: '#e6eeec'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-45.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-43.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -418,7 +418,7 @@ collection_blocks:
     color: '#c22b2c'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-46.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-44.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -427,7 +427,7 @@ collection_blocks:
     color: '#f4e8dd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-48.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-45.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -436,7 +436,7 @@ collection_blocks:
     color: '#a4bcca'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-47.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-46.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -445,7 +445,7 @@ collection_blocks:
     color: '#120c05'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-50.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-47.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -454,7 +454,7 @@ collection_blocks:
     color: '#eedee1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-49.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-48.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -463,7 +463,7 @@ collection_blocks:
     color: '#ebe6dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-51.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-49.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -472,7 +472,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-52.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-50.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -481,7 +481,7 @@ collection_blocks:
     color: '#885872'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-53.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-51.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -490,16 +490,16 @@ collection_blocks:
     color: '#b3bda5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-54.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-52.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#261819'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-55.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-53.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -508,7 +508,7 @@ collection_blocks:
     color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-56.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-54.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -517,7 +517,7 @@ collection_blocks:
     color: '#574139'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-57.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-55.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -526,7 +526,7 @@ collection_blocks:
     color: '#dbdfdc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-58.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-56.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -535,7 +535,7 @@ collection_blocks:
     color: '#f5e7ce'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-59.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-57.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -544,7 +544,7 @@ collection_blocks:
     color: '#5f5547'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-60.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-58.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -553,7 +553,7 @@ collection_blocks:
     color: '#14212f'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-61.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-59.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -562,7 +562,7 @@ collection_blocks:
     color: '#eedee1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-62.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-60.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -571,7 +571,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-63.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-61.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -580,7 +580,7 @@ collection_blocks:
     color: '#b3bda5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-64.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-62.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -589,7 +589,7 @@ collection_blocks:
     color: '#885872'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-65.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-63.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -598,7 +598,7 @@ collection_blocks:
     color: '#261819'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-66.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-64.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -607,7 +607,7 @@ collection_blocks:
     color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-67.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-65.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -616,7 +616,7 @@ collection_blocks:
     color: '#574139'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-68.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-66.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -625,7 +625,7 @@ collection_blocks:
     color: '#dbdfdc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-70.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-67.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -634,7 +634,7 @@ collection_blocks:
     color: '#5f5547'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-71.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-68.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -643,16 +643,16 @@ collection_blocks:
     color: '#ebe6dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-72.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-69.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#14212f'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-73.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-70.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -661,7 +661,7 @@ collection_blocks:
     color: '#edeff2'
     caption: '**Deflation.** *Tempe, AZ. 2016 Residence*'
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-74.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-71.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -670,7 +670,7 @@ collection_blocks:
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-75.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-72.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -679,103 +679,13 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-76.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-73.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-77.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#9d0310'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-78.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f8e8dc'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-79.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#d5d3c6'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-80.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#eefbe7'
-    caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-81.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#e5ecf5'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-82.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#ece9e2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-83.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#203d49'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-84.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-85.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_reportage-overview-86.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#fbfbf9'
     caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-2.jpg
