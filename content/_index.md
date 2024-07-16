@@ -1,6 +1,6 @@
 ---
 title: Overview
-collection_description: test
+collection_description: A student of subtleties.
 text_alignment: center
 collection_meta:
 collection_meta_2:
