@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Portrait Overview
 title: Portrait
-collection_meta: 'Overview '
+collection_meta:
 collection_meta_2:
 collection_description: ''
 collection_description_alignment: center
