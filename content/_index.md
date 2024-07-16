@@ -1,6 +1,6 @@
 ---
 title: Welcome
-collection_description: A student of subtleties.
+collection_description: test
 text_alignment: center
 collection_meta:
 collection_meta_2:
