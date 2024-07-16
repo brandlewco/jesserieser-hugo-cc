@@ -19,8 +19,8 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 overview_collection:
   - content/collections/general-overview.md
   - content/collections/portrait.md
-  - content/collections/landscape-overview.md
   - content/collections/reportage.md
+  - content/collections/landscape-overview.md
   - content/collections/sport-athletes.md
   - content/collections/travel-tourism.md
   - content/collections/industry-overview.md
