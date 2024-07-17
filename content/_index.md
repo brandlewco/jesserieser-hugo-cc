@@ -343,15 +343,6 @@ content_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-33.jpg
-    width: '80'
-    margin_y: '200'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#ddefec'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -449,22 +440,13 @@ content_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-43.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#edf1e9'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-44.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '5'
     margin_right: '5'
     align_y:
     color: '#e6eeec'
@@ -473,8 +455,8 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-45.jpg
-    width: '20'
-    margin_y: '400'
+    width: '25'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y:
@@ -483,9 +465,9 @@ content_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-46.jpg
     width: '35'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y:
     color: '#f4e8dd'
     caption: ''
@@ -581,7 +563,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-56.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
@@ -589,16 +571,25 @@ content_blocks:
     color: '#f5e7ce'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-43.jpg
     width: '35'
     margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y:
-    color: '#5f5547'
+    color: '#edf1e9'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y:
+    color: '#5f5547'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
