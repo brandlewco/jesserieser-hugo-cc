@@ -60,17 +60,17 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-5.jpg
     width: '20'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#ebe5db'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-6.jpg
-    width: '45'
-    margin_y: '100'
+    width: '40'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '10'
     align_y: start
     color: '#ffe19e'
     caption: ''
