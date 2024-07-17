@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description: Selection of Landscapes
   meta_title: 'Landscape Overview '
-title: 'Landscapes '
+title: 'Additional Landscapes '
 collection_meta:
 collection_meta_2: ''
 collection_description: ''
