@@ -18,7 +18,7 @@ collection_description_alignment: center
 slug: barrons-cover
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: "#a994ab"
     image: https://d1sf55qlb7p6hz.cloudfront.net/barron-1.jpg
