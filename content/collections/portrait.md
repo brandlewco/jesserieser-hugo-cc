@@ -457,7 +457,7 @@ collection_grid: true
 collection_archive: false
 collection_hidden: false
 hide_footer: true
-navigation_theme: white
+navigation_theme: black
 px_extra: true
 row_alignment:
 ---
