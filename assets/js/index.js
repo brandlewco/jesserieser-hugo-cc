@@ -58,6 +58,9 @@ function init() {
   const navigation = document.getElementById('navigation');
   const navigationHeight = navigation.clientHeight;
 
+  window.lazySizesConfig = window.lazySizesConfig || {};
+  lazySizesConfig.expand = 1000;
+
   // Update viewport height unit
   const vh = window.innerHeight * 0.01;
   document.documentElement.style.setProperty('--vh', `${vh}px`);
@@ -689,7 +692,7 @@ function init() {
   const headerImage = document.getElementById("header-image");
   const featureImage = document.getElementById("feature-image");
   const pageDescription = document.getElementById("page-description");
-  var metaContainer = document.getElementById("meta-container");
+  const metaContainer = document.getElementById("meta-container");
   const height = window.innerHeight;
   
   const startFade = height * 0.25; // 25% of viewport height
@@ -698,6 +701,20 @@ function init() {
   // Helper function to clamp values within a range
   function value_limit(value, min, max) {
     return Math.min(Math.max(value, min), max);
+  }
+
+  // Function to check if the body does not have specific classes
+  function isNotSpecialPage() {
+    return !document.body.classList.contains('page-overview') &&
+           !document.body.classList.contains('page-current-works') &&
+           !document.body.classList.contains('page-say-hello');
+  }
+
+  // Function to check if the body has specific classes (for special pages)
+  function isSpecialPage() {
+    return document.body.classList.contains('page-overview') ||
+          document.body.classList.contains('page-current-works') ||
+          document.body.classList.contains('page-say-hello');
   }
 
   // Set initial colors based on data-hue
@@ -761,6 +778,14 @@ function init() {
       });
     }
 
+    if (isSpecialPage()) {
+      if (pageDescription) {
+        pageDescription.classList.remove("opacity-0");
+        pageDescription.classList.add("opacity-100");
+        pageDescription.classList.remove("absolute");
+      }
+    } 
+
     // Update colors based on scroll position and archive class
     if (scrollTop >= startFade) {
       if (document.body.classList.contains('archive')) {
@@ -768,19 +793,25 @@ function init() {
       } else {
         setColor('#000000');
       }
-      if (pageDescription) {
-        pageDescription.classList.add("opacity-100");
-        pageDescription.classList.remove("opacity-0");
-      }
+      if (isNotSpecialPage()) {
+        if (pageDescription) {
+          pageDescription.classList.add("opacity-100");
+          pageDescription.classList.remove("opacity-0");
+        }
+      } 
     } else {
       // Reset to default colors based on data-hue
       setColor(defaultColor);
-      if (pageDescription) {
-        pageDescription.classList.add("opacity-0");
-        pageDescription.classList.remove("opacity-100");
-      }
+      if (isNotSpecialPage()) {
+        if (pageDescription) {
+          pageDescription.classList.add("opacity-0");
+          pageDescription.classList.remove("opacity-100");
+        }
+      } 
     }
+
   }
+
 
   // Event listeners for scroll and load
   window.addEventListener('scroll', updateColors);
@@ -788,13 +819,14 @@ function init() {
 
   // Initial call to set colors correctly on page load
   updateColors();
+  if (isNotSpecialPage()) {
+    if (pageDescription && metaContainer) {
+      // Get the width of the meta-container
+      var containerWidth = metaContainer.offsetWidth;
 
-  if (pageDescription && metaContainer) {
-    // Get the width of the meta-container
-    var containerWidth = metaContainer.offsetWidth;
-
-    // Set the width of the description to be the same as the meta-container
-    pageDescription.style.maxWidth = containerWidth + "px";
+      // Set the width of the description to be the same as the meta-container
+      pageDescription.style.maxWidth = containerWidth + "px";
+    }
   }
 
   // Scroll Animations
@@ -828,57 +860,60 @@ function init() {
     }
 
     // Handle navigation and page title behaviors
-    if (projectHeader) {
-      if (windowY > window.innerHeight * 0.75) {
-        if (windowY < scrollPos) {
-          navigation.style.transform = "translate3d(0, 0, 0)";
+    if (isNotSpecialPage()) {
+      if (projectHeader) {
+        if (windowY > window.innerHeight * 0.75) {
+          if (windowY < scrollPos) {
+            navigation.style.transform = "translate3d(0, 0, 0)";
+          } else {
+            navigation.style.transform =
+              "translate3d(0, -" + navigationHeight + "px, 0)";
+          }
+        }
+      }
+
+      if (pageTitle) {
+        const pageTitleHeight = pageTitle.offsetHeight;
+        let additionalHeight = 0;
+
+        if (pageDescription) {
+          const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
+          additionalHeight = pageDescriptionHeight;
+        }
+
+        const totalHeight = pageTitleHeight + additionalHeight;
+        const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
+
+        if (window.scrollY > pageTitleBottom) {
+          pageTitle.classList.add("absolute");
+          pageTitle.classList.remove("fixed");
+          pageTitle.style.top = "auto";
+          pageTitle.style.bottom = "0";
+          pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+          if (headerPointer) {
+            headerPointer.style.opacity = 0;
+          }
+          if (pageDescription) {
+            pageDescription.classList.remove("absolute");
+            pageDescription.classList.add("relative");
+          }
         } else {
-          navigation.style.transform =
-            "translate3d(0, -" + navigationHeight + "px, 0)";
+          pageTitle.classList.add("fixed");
+          pageTitle.classList.remove("absolute");
+          pageTitle.style.top = "50%";
+          pageTitle.style.bottom = "auto";
+          pageTitle.style.transform = "translate3d(0, -50%, 0)";
+          if (headerPointer) {
+            headerPointer.style.opacity = 1;
+          }
+          if (pageDescription) {
+            pageDescription.classList.remove("relative");
+            pageDescription.classList.add("absolute");
+          }
         }
       }
     }
 
-    if (pageTitle) {
-      const pageTitleHeight = pageTitle.offsetHeight;
-      let additionalHeight = 0;
-
-      if (pageDescription) {
-        const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
-        additionalHeight = pageDescriptionHeight;
-      }
-
-      const totalHeight = pageTitleHeight + additionalHeight;
-      const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
-
-      if (window.scrollY > pageTitleBottom) {
-        pageTitle.classList.add("absolute");
-        pageTitle.classList.remove("fixed");
-        pageTitle.style.top = "auto";
-        pageTitle.style.bottom = "0";
-        pageTitle.style.transform = "translate3d(0, 0vh, 0)";
-        if (headerPointer) {
-          headerPointer.style.opacity = 0;
-        }
-        if (pageDescription) {
-          pageDescription.classList.remove("absolute");
-          pageDescription.classList.add("relative");
-        }
-      } else {
-        pageTitle.classList.add("fixed");
-        pageTitle.classList.remove("absolute");
-        pageTitle.style.top = "50%";
-        pageTitle.style.bottom = "auto";
-        pageTitle.style.transform = "translate3d(0, -50%, 0)";
-        if (headerPointer) {
-          headerPointer.style.opacity = 1;
-        }
-        if (pageDescription) {
-          pageDescription.classList.remove("relative");
-          pageDescription.classList.add("absolute");
-        }
-      }
-    }
     scrollPos = windowY;
   };
 

@@ -1,9 +1,9 @@
 ---
 _schema: default
 seo:
-  meta_description: 
-  meta_title: 'Arizona Lottery: Welcome Back Willie'
-title: 'Arizona Lottery: Welcome Back Willie'
+  meta_description:
+  meta_title: "Arizona Lottery: Welcome Back Willie"
+title: "Arizona Lottery: Welcome Back Willie"
 collection_meta: OH Partners
 collection_meta_2:
 collection_description: >-
@@ -20,28 +20,28 @@ collection_description_alignment: left
 slug: arizona-lottery
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
-    color: '#babecd'
+    color: "#babecd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-1.jpg
-    margin_left: '10'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "10"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#EED8C5'
+    color: "#EED8C5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-2.jpg
-    margin_left: '55'
-    margin_y: '100'
-    width: '40'
+    margin_left: "55"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: center
   - _bookshop_name: collections/media-motion
     align_y: center
     caption: Lottery Promo
-    color: '#CFE7DF'
+    color: "#CFE7DF"
     margin_y: 100
     show_controls: false
     vimeo_id: 216270338
@@ -50,59 +50,59 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-3.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-motion
     align_y: 0
-    color: '#CFE7DF'
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '500'
+    color: "#CFE7DF"
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "500"
     vimeo_id: 216269536
-    width: '40'
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-4.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F1E2E0'
+    color: "#F1E2E0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-5.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C6DBEB'
+    color: "#C6DBEB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-6.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '300'
-    width: '30'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "300"
+    width: "30"
   - _bookshop_name: collections/media-element
-    color: '#F3D3A7'
+    color: "#F3D3A7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-7.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '40'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#DFDFDF'
+    color: "#DFDFDF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-8.jpg
-    margin_left: '25'
-    margin_y: '100'
-    width: '60'
+    margin_left: "25"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-28.jpg
@@ -119,8 +119,8 @@ collection_category:
   - Portraits
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#cfe7df'
-theme_color_all_works: '#000000'
+theme_color: "#cfe7df"
+theme_color_all_works: "#000000"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-33.jpg
 collection_preview:

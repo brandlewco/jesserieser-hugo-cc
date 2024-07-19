@@ -14,130 +14,130 @@ collection_description_alignment: center
 slug: people-uvalde
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#dce3f3'
+    color: "#dce3f3"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-2.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: center
-    color: '#f0f3d4'
+    color: "#f0f3d4"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-3.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '15'
+    width: "40"
+    margin_y: "300"
+    margin_left: "0"
+    margin_right: "15"
     align_y: center
-    color: '#efcab3'
+    color: "#efcab3"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-4.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#f8ebcc'
+    color: "#f8ebcc"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-5.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: center
-    color: '#dcedf8'
+    color: "#dcedf8"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-6.jpg
-    width: '20'
-    margin_y: '600'
-    margin_left: '25'
-    margin_right: '0'
+    width: "20"
+    margin_y: "600"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#f3e1d4'
+    color: "#f3e1d4"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-7.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: "45"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
     align_y: center
-    color: '#f4dfe7'
+    color: "#f4dfe7"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-8.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: center
-    color: '#d5f4f6'
+    color: "#d5f4f6"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-9.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '15'
+    width: "45"
+    margin_y: "300"
+    margin_left: "0"
+    margin_right: "15"
     align_y: center
-    color: '#f9d1bc'
+    color: "#f9d1bc"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 833488651
     text: caption
-    color: '#ff0000'
+    color: "#ff0000"
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '80'
+    width: "80"
     align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-11.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '25'
-    margin_right: '0'
+    width: "30"
+    margin_y: "300"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#d0f1f0'
+    color: "#d0f1f0"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-12.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: "33"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
     align_y: center
-    color: '#f1e3cf'
+    color: "#f1e3cf"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -145,23 +145,23 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-13.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "35"
+    margin_right: "0"
     align_y: center
-    color: '#f9dece'
+    color: "#f9dece"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/people-uvalde-17.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#d8d7e3'
+    color: "#d8d7e3"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -194,8 +194,8 @@ collection_category:
   - Gun Culture
   - Award Winning
 date: 2019-05-01T07:00:00Z
-theme_color: '#aae9c0'
-theme_color_all_works: '#ffe05a'
+theme_color: "#aae9c0"
+theme_color_all_works: "#ffe05a"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:

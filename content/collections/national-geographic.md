@@ -1,11 +1,11 @@
 ---
 _schema: default
 seo:
-  meta_description: 
-  meta_title: 'National Geographic: “50 Grades of Shade”'
+  meta_description:
+  meta_title: "National Geographic: “50 Grades of Shade”"
 title: National Geographic
 collection_meta: 50 Grades of Shade
-collection_meta_2: ''
+collection_meta_2: ""
 collection_description: >-
   Dr. Ariane Middel and MaRTy (median radiant temperature robot)
 
@@ -20,87 +20,87 @@ collection_description_alignment: center
 slug: natgeo-marty
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#e1f3dd'
+    color: "#e1f3dd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-1.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '50'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#e1f9fb'
+    color: "#e1f9fb"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-2.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '600'
-    width: '30'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "600"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FBEBD6'
+    color: "#FBEBD6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-3.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#FFD9CF'
+    color: "#FFD9CF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-5.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "25"
   - _bookshop_name: collections/media-element
     align_y: start
     caption:
-    color: '#E4F6FE'
+    color: "#E4F6FE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-4.jpg
-    margin_left: '0'
-    margin_right: '20'
-    margin_y: '300'
-    width: '30'
+    margin_left: "0"
+    margin_right: "20"
+    margin_y: "300"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#DDF5DA'
+    color: "#DDF5DA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-6.jpg
-    margin_left: '35'
-    margin_right: '0'
-    margin_y: '100'
-    width: '30'
+    margin_left: "35"
+    margin_right: "0"
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#F7F7D0'
+    color: "#F7F7D0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-7.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-element
     align_y:
     caption:
-    color: '#E0EFFF'
+    color: "#E0EFFF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_natgeo-marty-8.jpg
-    margin_left: '0'
-    margin_right: '15'
-    margin_y: '600'
-    width: '30'
+    margin_left: "0"
+    margin_right: "15"
+    margin_y: "600"
+    width: "30"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_horizontal-covers-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-22.jpg
@@ -114,8 +114,8 @@ collection_category:
   - Environments
   - Portraits
 date: 2022-07-26T00:28:16Z
-theme_color: '#dcb4ff'
-theme_color_all_works: '#ffe05a'
+theme_color: "#dcb4ff"
+theme_color_all_works: "#ffe05a"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/2022-08_vertical-covers-22.jpg
 collection_preview:
@@ -123,7 +123,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-10.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-11.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-natgeo-8.jpg
-collection_content: ''
+collection_content: ""
 collection_awards: []
 collection_press: []
 collection_exhibition: []

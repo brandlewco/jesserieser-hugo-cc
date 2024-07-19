@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description: >-
     West Coast Commercial Photographer Jesse Rieser photographs David Quammen
-    for Outside Magazine while playing a round of golf. 
+    for Outside Magazine while playing a round of golf.
   meta_title: David Quammen for "Outside"by Photographer Jesse Rieser
 title: Outside Magazine
 collection_meta: Golf At Last An Apologia by David Quammen
@@ -47,79 +47,79 @@ collection_description_alignment: center
 slug: outside-magazine-dq
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#F6F4EB'
+    color: "#F6F4EB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-1.jpg
-    margin_left: '10'
+    margin_left: "10"
     margin_right:
-    margin_y: '100'
-    width: '66'
+    margin_y: "100"
+    width: "66"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#FDE1DA'
+    color: "#FDE1DA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
-    margin_left: '10'
+    margin_left: "10"
     margin_right:
-    margin_y: '600'
-    width: '33'
+    margin_y: "600"
+    width: "33"
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#E2ECD5'
+    color: "#E2ECD5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-2.jpg
     margin_left:
-    margin_right: '5'
-    margin_y: '100'
-    width: '40'
+    margin_right: "5"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#FFE5D1'
+    color: "#FFE5D1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-4.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '50'
+    margin_left: "20"
+    margin_y: "100"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#E7EBC7'
+    color: "#E7EBC7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-5.jpg
-    margin_left: '10'
+    margin_left: "10"
     margin_right:
-    margin_y: '100'
-    width: '30'
+    margin_y: "100"
+    width: "30"
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#E0EAEF'
+    color: "#E0EAEF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-6.jpg
-    margin_right: '20'
-    margin_y: '300'
-    width: '33'
+    margin_right: "20"
+    margin_y: "300"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#F1E3E4'
+    color: "#F1E3E4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-7.jpg
-    margin_left: '20'
+    margin_left: "20"
     margin_right:
-    margin_y: '100'
-    width: '40'
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
-    color: '#EAE2D6'
+    color: "#EAE2D6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-8.jpg
-    margin_left: '30'
+    margin_left: "30"
     margin_right:
-    margin_y: '100'
-    width: '60'
+    margin_y: "100"
+    width: "60"
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/dq-outside-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-30.jpg
 collection_filter: Commissioned + Stock
@@ -133,8 +133,8 @@ collection_category:
   - Color
   - Uniquely American
 date: 2019-08-01T07:00:00Z
-theme_color: '#cfdde5'
-theme_color_all_works: '#9bffa2'
+theme_color: "#cfdde5"
+theme_color_all_works: "#9bffa2"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-39.jpg
 collection_preview:

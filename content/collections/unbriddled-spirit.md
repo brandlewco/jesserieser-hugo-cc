@@ -14,7 +14,7 @@ collection_description_alignment: center
 slug: cowboy-curt/
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: '#E0D2E0'
     image: https://d1sf55qlb7p6hz.cloudfront.net/spirit-1.jpg

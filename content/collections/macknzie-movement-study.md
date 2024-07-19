@@ -11,7 +11,7 @@ collection_description_alignment: center
 slug: Mackenzie-Gossage
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: "#F8E0CE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/mackenzie-1.jpg

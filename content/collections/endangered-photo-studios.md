@@ -14,7 +14,7 @@ collection_description_alignment: center
 slug: Photo-Studios-Extinction
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: "#B4FFAB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/studios-1.jpg

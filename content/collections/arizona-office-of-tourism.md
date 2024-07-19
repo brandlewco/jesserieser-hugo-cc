@@ -11,7 +11,7 @@ collection_description_alignment: center
 slug: aot
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-aot-1.jpg
     width: "60"

@@ -16,7 +16,7 @@ collection_description_alignment: center
 slug: paris
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: "#FDE3BB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/hearst-1.jpg

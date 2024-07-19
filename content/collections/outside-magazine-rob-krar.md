@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Rob Krar Running In The Dark for Outside Magazine
 title: Outside Magazine
-collection_meta: 'Rob Krar '
+collection_meta: "Rob Krar "
 collection_meta_2: Running In The Dark
 collection_description: >-
   Rob Krar had to embrace incredible physical pain to win iconic ultramarathons
@@ -17,141 +17,141 @@ collection_description_alignment: center
 slug: rob-krar-outside-magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-1.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "35"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#cddcec'
+    color: "#cddcec"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-2.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "40"
+    margin_right: "0"
     align_y: center
-    color: '#ebf3f1'
+    color: "#ebf3f1"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-3.jpg
-    width: '20'
-    margin_y: '300'
-    margin_left: '25'
-    margin_right: '0'
+    width: "20"
+    margin_y: "300"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#eedbbb'
+    color: "#eedbbb"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-4.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "33"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: center
-    color: '#eed8c9'
+    color: "#eed8c9"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-5.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#cae8ee'
+    color: "#cae8ee"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-6.jpg
-    width: '33'
-    margin_y: '900'
-    margin_left: '25'
-    margin_right: '0'
+    width: "33"
+    margin_y: "900"
+    margin_left: "25"
+    margin_right: "0"
     align_y: start
-    color: '#f8dfc3'
+    color: "#f8dfc3"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-13.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "30"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: start
-    color: '#e4af97'
+    color: "#e4af97"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-9.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "45"
+    margin_right: "0"
     align_y: center
-    color: '#cae8ee'
+    color: "#cae8ee"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-10.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '30'
-    margin_right: '0'
+    width: "30"
+    margin_y: "400"
+    margin_left: "30"
+    margin_right: "0"
     align_y: start
-    color: '#c4d4e2'
+    color: "#c4d4e2"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-11.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "20"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: start
-    color: '#b89990'
+    color: "#b89990"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-12.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
+    width: "35"
+    margin_y: "100"
+    margin_left: "45"
+    margin_right: "0"
     align_y: center
-    color: '#eed8c9'
+    color: "#eed8c9"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-8.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#f8967d'
+    color: "#f8967d"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-15.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: center
-    color: '#ebf3f1'
+    color: "#ebf3f1"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -170,8 +170,8 @@ collection_category:
   - Portraits
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#f1d7d5'
-theme_color_all_works: '#b1eebb'
+theme_color: "#f1d7d5"
+theme_color_all_works: "#b1eebb"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-37.jpg
 collection_preview:

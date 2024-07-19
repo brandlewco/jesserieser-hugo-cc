@@ -1,15 +1,15 @@
 ---
 _schema: default
 title: Current Works
-collection_meta: Recent News
+collection_meta:  Recent News
 collection_meta_2:
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
   recent news.
 
-
   For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
+collection_description: >-
 text_alignment: center
 slug: current-works
 seo:
@@ -924,25 +924,13 @@ content_blocks:
     theme_color: '#ff0000'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description: >-
-  Here you will find handpicked photographic art works, client commissions, and
-  recent news.
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
-navigation_theme: white
+navigation_theme: black
 row_alignment: between
 hide_footer: true
+hide_header: true
 selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg

@@ -1,10 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: ''
-  meta_title: 'Amtrak The National: Tucson to El Paso On the Texas Eagle'
-title: 'Amtrak '
-collection_meta: 'The National '
+  meta_description: ""
+  meta_title: "Amtrak The National: Tucson to El Paso On the Texas Eagle"
+title: "Amtrak "
+collection_meta: "The National "
 collection_meta_2: Tucson to El Paso On the Texas Eagle
 collection_description: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
@@ -19,244 +19,244 @@ collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: ''
-    align_y: ''
-    color: '#dce3f3'
-    caption: ''
+    width: "55"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: ""
+    align_y: ""
+    color: "#dce3f3"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-2.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: ''
-    color: '#efe5dd'
-    caption: ''
+    width: "30"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
+    align_y: ""
+    color: "#efe5dd"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-5.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
+    width: "40"
+    margin_y: "300"
+    margin_left: "10"
+    margin_right: "0"
     align_y: start
-    color: '#fbbbbb'
-    caption: ''
+    color: "#fbbbbb"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-6.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '5'
-    align_y: ''
-    color: '#c6e2d4'
-    caption: ''
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "5"
+    align_y: ""
+    color: "#c6e2d4"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-5.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: ''
-    align_y: ''
-    color: '#d8d7e3'
-    caption: ''
+    width: "45"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: ""
+    align_y: ""
+    color: "#d8d7e3"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-6.jpg
-    width: '25'
-    margin_y: '700'
-    margin_left: ''
-    margin_right: '25'
-    align_y: ''
-    color: '#ede5de'
-    caption: ''
+    width: "25"
+    margin_y: "700"
+    margin_left: ""
+    margin_right: "25"
+    align_y: ""
+    color: "#ede5de"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texeagle_recolor-07-1.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: ''
-    color: '#ddffe6'
-    caption: ''
+    width: "60"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
+    align_y: ""
+    color: "#ddffe6"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-8.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: ''
-    color: '#f8ebcc'
-    caption: ''
+    width: "40"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
+    align_y: ""
+    color: "#f8ebcc"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-9.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '10'
-    margin_right: ''
-    align_y: ''
-    color: '#f3e1d4'
-    caption: ''
+    width: "30"
+    margin_y: "400"
+    margin_left: "10"
+    margin_right: ""
+    align_y: ""
+    color: "#f3e1d4"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-10.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: ''
-    color: '#dcedf8'
-    caption: ''
+    width: "40"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "15"
+    align_y: ""
+    color: "#dcedf8"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: ''
-    color: '#f4dfe7'
-    caption: ''
+    width: "55"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
+    align_y: ""
+    color: "#f4dfe7"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-12.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: ''
-    align_y: ''
-    color: '#d5f4f6'
-    caption: ''
+    width: "30"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: ""
+    align_y: ""
+    color: "#d5f4f6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-13.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: ''
-    color: '#f9d1bc'
-    caption: ''
+    width: "50"
+    margin_y: "400"
+    margin_left: "0"
+    margin_right: "10"
+    align_y: ""
+    color: "#f9d1bc"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: ''
-    color: '#cce3fa'
-    caption: ''
+    width: "55"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
+    align_y: ""
+    color: "#cce3fa"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-17.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: ''
-    align_y: ''
-    color: '#f1e3cf'
-    caption: ''
+    width: "45"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: ""
+    align_y: ""
+    color: "#f1e3cf"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-18.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: ''
-    margin_right: '0'
-    align_y: ''
-    color: '#f9dece'
-    caption: ''
+    width: "45"
+    margin_y: "100"
+    margin_left: ""
+    margin_right: "0"
+    align_y: ""
+    color: "#f9dece"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-18.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: ''
-    align_y: ''
-    color: '#cce1f3'
-    caption: ''
+    width: "33"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: ""
+    align_y: ""
+    color: "#cce1f3"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texeagle_recolor-07-5.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: ''
-    align_y: ''
-    color: '#d8f3d8'
-    caption: ''
+    width: "50"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: ""
+    align_y: ""
+    color: "#d8f3d8"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-20.jpg
-    width: '35'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: ''
-    color: '#fbc1a2'
-    caption: ''
+    width: "35"
+    margin_y: "500"
+    margin_left: "0"
+    margin_right: "5"
+    align_y: ""
+    color: "#fbc1a2"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texeagle_recolor-07-3.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: ''
-    align_y: ''
-    color: '#d5d9f0'
-    caption: ''
+    width: "55"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: ""
+    align_y: ""
+    color: "#d5d9f0"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-22.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '5'
-    margin_right: ''
-    align_y: ''
-    color: '#ddedf6'
-    caption: ''
+    width: "45"
+    margin_y: "400"
+    margin_left: "5"
+    margin_right: ""
+    align_y: ""
+    color: "#ddedf6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-24.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: ''
-    color: '#F6F1D0'
-    caption: ''
+    width: "33"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
+    align_y: ""
+    color: "#F6F1D0"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-23.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: ''
-    color: '#ddffe6'
-    caption: ''
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
+    align_y: ""
+    color: "#ddffe6"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
@@ -272,10 +272,10 @@ collection_category:
   - Portraits
   - Award Winning
 date: 2022-07-21T01:29:36Z
-theme_color: '#c7d6ef'
-theme_color_all_works: '#ffe05a'
+theme_color: "#c7d6ef"
+theme_color_all_works: "#ffe05a"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: ''
+cover_image: ""
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg

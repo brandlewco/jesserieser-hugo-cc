@@ -293,6 +293,10 @@ svg.hover:hover path {
   text-decoration: underline;
 }
 
+#page-description p {
+  margin-bottom: 0px !important;
+}
+
 @keyframes r-drop {
   0% {
     mask-position: center 40%;

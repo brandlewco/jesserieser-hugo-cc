@@ -1,7 +1,7 @@
 ---
 _schema: default
 seo:
-  meta_description: 
+  meta_description:
   meta_title: The Vaccine Battlegrounds for Time Magazine
 title: Time Magazine
 collection_meta: The Vaccine Battlegrounds
@@ -31,111 +31,111 @@ collection_description_alignment: center
 slug: time-magazine-ii
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
-    color: '#F9DDB8'
+    color: "#F9DDB8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-2.jpg
-    margin_left: '20'
-    margin_y: '100'
-    width: '60'
+    margin_left: "20"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C6D7E9'
+    color: "#C6D7E9"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-3.jpg
-    margin_left: '20'
-    margin_right: '0'
-    margin_y: '500'
-    width: '25'
+    margin_left: "20"
+    margin_right: "0"
+    margin_y: "500"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#EE8585'
+    color: "#EE8585"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-4.jpg
-    margin_left: '0'
-    margin_right: '5'
-    margin_y: '100'
-    width: '33'
+    margin_left: "0"
+    margin_right: "5"
+    margin_y: "100"
+    width: "33"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#5CC5CF'
+    color: "#5CC5CF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-5.jpg
-    margin_left: '30'
-    margin_right: '0'
-    margin_y: '100'
-    width: '60'
+    margin_left: "30"
+    margin_right: "0"
+    margin_y: "100"
+    width: "60"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FEDFCD'
+    color: "#FEDFCD"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-7.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '600'
-    width: '20'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "600"
+    width: "20"
   - _bookshop_name: collections/media-element
-    color: '#FCE692'
+    color: "#FCE692"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-6.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '100'
-    width: '45'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "100"
+    width: "45"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#AEC7DE'
+    color: "#AEC7DE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-8.jpg
-    margin_left: '5'
-    margin_right: '0'
-    margin_y: '200'
-    width: '50'
+    margin_left: "5"
+    margin_right: "0"
+    margin_y: "200"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#FCC9C1'
+    color: "#FCC9C1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-9.jpg
-    margin_left: '10'
-    margin_y: '200'
-    width: '33'
+    margin_left: "10"
+    margin_y: "200"
+    width: "33"
   - _bookshop_name: collections/media-element
-    color: '#E9CEBF'
+    color: "#E9CEBF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-10.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '400'
-    width: '50'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "400"
+    width: "50"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F1F3CF'
+    color: "#F1F3CF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-12.jpg
-    margin_left: '25'
-    margin_right: '0'
-    margin_y: '100'
-    width: '40'
+    margin_left: "25"
+    margin_right: "0"
+    margin_y: "100"
+    width: "40"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#C2CFDF'
+    color: "#C2CFDF"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-14.jpg
-    margin_left: '15'
-    margin_right: '0'
-    margin_y: '100'
-    width: '25'
+    margin_left: "15"
+    margin_right: "0"
+    margin_y: "100"
+    width: "25"
   - _bookshop_name: collections/media-element
-    color: '#CFE3B4'
+    color: "#CFE3B4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-1.jpg
-    margin_left: '0'
-    margin_right: '0'
-    margin_y: '300'
-    width: '55'
+    margin_left: "0"
+    margin_right: "0"
+    margin_y: "300"
+    width: "55"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: '#F8E4B1'
+    color: "#F8E4B1"
     image: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-16.jpg
-    margin_left: '15'
-    margin_y: '100'
-    width: '75'
+    margin_left: "15"
+    margin_y: "100"
+    width: "75"
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/antivaxx-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-23.jpg
@@ -147,8 +147,8 @@ collection_category:
   - Reportage
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#4dc4d1'
-theme_color_all_works: '#25cbdd'
+theme_color: "#4dc4d1"
+theme_color_all_works: "#25cbdd"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-34.jpg
 collection_preview:

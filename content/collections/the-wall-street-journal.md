@@ -16,7 +16,7 @@ collection_description_alignment: center
 slug: wsj-4seasons
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     align_y: 0
     caption:

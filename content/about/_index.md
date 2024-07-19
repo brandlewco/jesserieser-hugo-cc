@@ -10,12 +10,8 @@ collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/info-2.jpg
 slug: about
 collection_description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit quam
-  dapibus sem porttitor convallis. Integer convallis arcu non lectus facilisis
-  dapibus. Aenean commodo magna at laoreet tempor. Phasellus lorem lorem,
-  fringilla vitae interdum vel, euismod vitae quam.
 theme_color: '#bde6c5'
-navigation_theme: white
+navigation_theme: black
 header_col_1_title: 'Advertising & Editorial '
 header_col_1: >-
   <p>Jesse Rieser<br />Instagram <a
@@ -1311,4 +1307,5 @@ cv: >-
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
+hide_footer: true
 ---

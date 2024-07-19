@@ -55,7 +55,7 @@ collection_description_alignment: center
 slug: wall-street-journal-2
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     color: "#FFF0AE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/ieg-1.jpg

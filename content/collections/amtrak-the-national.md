@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: 'Amtrak The National: Ted Turner Is On A Mission To Save Everything'
+  meta_title: "Amtrak The National: Ted Turner Is On A Mission To Save Everything"
 title: Amtrak
 collection_meta: The National
 collection_meta_2: Ted Turner Is On A Mission To Save Everything
@@ -16,241 +16,241 @@ collection_description_alignment: center
 slug: amtrak-the-national
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-2.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#f2d7a2'
+    color: "#f2d7a2"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-19.jpg
-    width: '33'
-    margin_y: '600'
-    margin_left: ''
-    margin_right: '5'
+    width: "33"
+    margin_y: "600"
+    margin_left: ""
+    margin_right: "5"
     align_y: center
-    color: '#e1572a'
+    color: "#e1572a"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-3.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '10'
+    width: "60"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "10"
     align_y: center
-    color: '#e1572a'
+    color: "#e1572a"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-4.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: ''
+    width: "30"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: ""
     align_y: center
-    color: '#e0c5b7'
+    color: "#e0c5b7"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-6b-single.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: start
-    color: '#ebe3db'
+    color: "#ebe3db"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-6c-single.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "30"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: start
-    color: '#e7bfa8'
+    color: "#e7bfa8"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-6.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "55"
+    margin_right: "0"
     align_y: center
-    color: '#f2d7a2'
+    color: "#f2d7a2"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-7.jpg
-    width: '30'
-    margin_y: '600'
-    margin_left: '10'
-    margin_right: ''
+    width: "30"
+    margin_y: "600"
+    margin_left: "10"
+    margin_right: ""
     align_y: center
-    color: '#f2ebd5'
+    color: "#f2ebd5"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-8.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "45"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: start
-    color: '#ee2a2a'
+    color: "#ee2a2a"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-9.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: ''
+    width: "25"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: ""
     align_y: start
-    color: '#c3ddee'
+    color: "#c3ddee"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-10.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '30'
+    width: "40"
+    margin_y: "300"
+    margin_left: "0"
+    margin_right: "30"
     align_y: start
-    color: '#f2e2cd'
+    color: "#f2e2cd"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-11.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '10'
+    width: "33"
+    margin_y: "100"
+    margin_left: "50"
+    margin_right: "10"
     align_y: center
-    color: '#0089bc'
+    color: "#0089bc"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-12.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
+    width: "40"
+    margin_y: "300"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#c9d378'
+    color: "#c9d378"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-13.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: "25"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
     align_y: start
-    color: '#c9e7f8'
+    color: "#c9e7f8"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-14.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: ''
+    width: "33"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: ""
     align_y: start
-    color: '#6b5a68'
+    color: "#6b5a68"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-15.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: ''
-    margin_right: '10'
+    width: "45"
+    margin_y: "300"
+    margin_left: ""
+    margin_right: "10"
     align_y: center
-    color: '#ddb187'
+    color: "#ddb187"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-16.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: ''
+    width: "33"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: ""
     align_y: center
-    color: '#80b6c4'
+    color: "#80b6c4"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-17.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: start
-    color: '#cc8571'
+    color: "#cc8571"
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-18.jpg
-    width: '50'
-    margin_y: '300'
-    margin_left: ''
-    margin_right: '5'
+    width: "50"
+    margin_y: "300"
+    margin_left: ""
+    margin_right: "5"
     align_y: center
-    color: '#6a3e4b'
+    color: "#6a3e4b"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-20.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: ''
+    width: "50"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: ""
     align_y: center
-    color: '#b2b6a7'
+    color: "#b2b6a7"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-21.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "50"
+    margin_right: "0"
     align_y: center
-    color: '#f2d7a2'
+    color: "#f2d7a2"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ttx-22.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#F8E8D8'
+    color: "#F8E8D8"
     caption: test caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/ttx-18.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-17.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - 'Exhibited Works '
+  - "Exhibited Works "
   - Editorial
   - Portraits
   - Environments
@@ -259,16 +259,16 @@ collection_category:
   - Color
   - Uniquely American
 date: 2019-08-01T07:00:00Z
-theme_color: '#e0c5b7'
-theme_color_all_works: '#c883ff'
-logo: ''
+theme_color: "#e0c5b7"
+theme_color_all_works: "#c883ff"
+logo: ""
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-16.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/ttx_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/ttx_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/ttx_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/ttx_4x3-4.jpg
-collection_content: ''
+collection_content: ""
 collection_awards: []
 collection_press: []
 collection_exhibition: []

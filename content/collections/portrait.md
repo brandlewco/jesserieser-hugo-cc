@@ -6,291 +6,291 @@ seo:
 title: Portrait
 collection_meta:
 collection_meta_2:
-collection_description: ''
+collection_description: ""
 collection_description_alignment: center
 slug: portrait-overview
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-1.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#d5e6f1'
-    caption: ''
+    color: "#d5e6f1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-2.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f2ded6'
-    caption: ''
+    color: "#f2ded6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-3.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fcceb1'
-    caption: ''
+    color: "#fcceb1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-4.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#daf0e7'
-    caption: ''
+    color: "#daf0e7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-5.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#f8f2f7'
-    caption: ''
+    color: "#f8f2f7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-6.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fbe5d2'
-    caption: ''
+    color: "#fbe5d2"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-7.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ff8e7d'
-    caption: ''
+    color: "#ff8e7d"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-8.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#dcdee5'
-    caption: ''
+    color: "#dcdee5"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-9.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffdfc9'
-    caption: ''
+    color: "#ffdfc9"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-10.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#e0f3eb'
-    caption: ''
+    color: "#e0f3eb"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-11.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffdfc9'
-    caption: ''
+    color: "#ffdfc9"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-12.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#f5ecba'
-    caption: ''
+    color: "#f5ecba"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-13.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#f3e7dd'
-    caption: ''
+    color: "#f3e7dd"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-14.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f0cdc4'
-    caption: ''
+    color: "#f0cdc4"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-15.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#a9cffd'
-    caption: ''
+    color: "#a9cffd"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-16.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#edd5be'
-    caption: ''
+    color: "#edd5be"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-17.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#fbe6df'
-    caption: ''
+    color: "#fbe6df"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-18.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#fce6c8'
-    caption: ''
+    color: "#fce6c8"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-19.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fbf9e1'
-    caption: ''
+    color: "#fbf9e1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-20.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#d9d1ce'
-    caption: ''
+    color: "#d9d1ce"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-21.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#e0eae7'
-    caption: ''
+    color: "#e0eae7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-22.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#d5e6f1'
-    caption: ''
+    color: "#d5e6f1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-23.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fcceb1'
-    caption: ''
+    color: "#fcceb1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-24.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f2ded6'
-    caption: ''
+    color: "#f2ded6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-25.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#daf0e7'
-    caption: ''
+    color: "#daf0e7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-26.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f8f2f7'
-    caption: ''
+    color: "#f8f2f7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-27.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#fbe5d2'
-    caption: ''
+    color: "#fbe5d2"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-28.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ff8e7d'
-    caption: ''
+    color: "#ff8e7d"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-29.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#dcdee5'
-    caption: ''
+    color: "#dcdee5"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-30.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#e0f3eb'
-    caption: ''
+    color: "#e0f3eb"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-31.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffdfc9'
-    caption: ''
+    color: "#ffdfc9"
+    caption: ""
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-10.jpg
@@ -306,8 +306,8 @@ collection_category:
   - Environments
   - Reportage
 date: 2019-05-01T07:00:00Z
-theme_color: '#e9dcd0'
-theme_color_all_works: '#f1a4ff'
+theme_color: "#e9dcd0"
+theme_color_all_works: "#f1a4ff"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
 collection_preview:

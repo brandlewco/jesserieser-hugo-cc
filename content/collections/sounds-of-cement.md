@@ -17,7 +17,7 @@ collection_description_alignment: center
 slug: sounds-of-cement
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
+    row_alignment: start
   - _bookshop_name: collections/media-motion
     vimeo_id: 155619696
     text: caption
