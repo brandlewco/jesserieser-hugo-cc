@@ -13,7 +13,7 @@ collection_description_alignment: center
 slug: golf-digest-scottie
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-1.jpg
     width: "40"

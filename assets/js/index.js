@@ -707,14 +707,16 @@ function init() {
   function isNotSpecialPage() {
     return !document.body.classList.contains('page-overview') &&
            !document.body.classList.contains('page-current-works') &&
-           !document.body.classList.contains('page-say-hello');
+           !document.body.classList.contains('page-say-hello') &&
+           !document.body.classList.contains('overview');
   }
 
   // Function to check if the body has specific classes (for special pages)
   function isSpecialPage() {
     return document.body.classList.contains('page-overview') ||
           document.body.classList.contains('page-current-works') ||
-          document.body.classList.contains('page-say-hello');
+          document.body.classList.contains('page-say-hello') ||
+          document.body.classList.contains('overview');
   }
 
   // Set initial colors based on data-hue

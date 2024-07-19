@@ -15,7 +15,7 @@ collection_description_alignment: center
 slug: fred-kerley
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#A0ECEC"
     image: https://d1sf55qlb7p6hz.cloudfront.net/fred-1.jpg

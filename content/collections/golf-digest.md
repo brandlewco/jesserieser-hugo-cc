@@ -16,7 +16,7 @@ collection_description_alignment: center
 slug: golf-digest-bubba
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_y:
     caption:

@@ -15,7 +15,7 @@ collection_description_alignment: center
 slug: golfdigest-fights
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

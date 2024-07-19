@@ -40,7 +40,7 @@ theme_color_all_works: "#D587FF"
 title: ESPN The Magazine
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#FBF2E9"
     image: https://d1sf55qlb7p6hz.cloudfront.net/puig-1.jpg

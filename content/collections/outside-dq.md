@@ -47,7 +47,7 @@ collection_description_alignment: center
 slug: outside-magazine-dq
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     align_x: start
     color: "#F6F4EB"

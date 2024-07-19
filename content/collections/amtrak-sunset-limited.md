@@ -14,7 +14,7 @@ collection_description_alignment: center
 slug: sunsetlimited
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#F2F1DB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/sunset-limited-1.jpg

@@ -20,7 +20,7 @@ collection_description_alignment: left
 slug: arizona-lottery
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#babecd"
     image: https://d1sf55qlb7p6hz.cloudfront.net/azlottery-1.jpg

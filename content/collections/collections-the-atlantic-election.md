@@ -4,7 +4,7 @@ title: The Atlantic
 slug: the-atlantic-election
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#FFF0AE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-23.jpg
