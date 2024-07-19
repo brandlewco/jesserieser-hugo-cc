@@ -34,7 +34,7 @@ theme_color_all_works: "#FFBF6A"
 title: Jerry Hall's Sad Instagram
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#F3E3E3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/jerry-1.jpg

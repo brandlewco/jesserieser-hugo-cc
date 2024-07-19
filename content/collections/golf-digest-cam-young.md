@@ -13,7 +13,7 @@ collection_description_alignment: center
 slug: golfdigest-camyoung
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     width: "33"

@@ -33,7 +33,7 @@ theme_color_all_works: "#B3EFCB"
 title: Fast Company
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#F6ECE3"
     image: https://d1sf55qlb7p6hz.cloudfront.net/waymo-1.jpg

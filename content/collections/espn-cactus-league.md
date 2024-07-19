@@ -18,7 +18,7 @@ collection_description_alignment: left
 slug: cactus-league
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     color: "#B1CD6B"
     image: https://d1sf55qlb7p6hz.cloudfront.net/cactus-1.jpg
