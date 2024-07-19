@@ -40,7 +40,7 @@ header_col_3: >-
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/info_vert-1.jpg
 about_bio: >-
-  **Bio**
+  BIO
 
 
   Jesse was born in the Ozarks — an 80s kid with a Midwestern upbringing in
