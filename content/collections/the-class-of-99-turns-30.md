@@ -35,7 +35,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/co99-2.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#eeebe6'
