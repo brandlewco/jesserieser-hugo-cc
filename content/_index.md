@@ -1,6 +1,6 @@
 ---
 title: Overview
-collection_description: >-
+collection_description: ''
 text_alignment: center
 collection_meta:
 collection_meta_2:
