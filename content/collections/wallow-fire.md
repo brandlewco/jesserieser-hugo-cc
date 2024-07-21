@@ -83,8 +83,8 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    align_y: center
-    color: '#E0E9E5'
+    align_y: start
+    color: '#e0e9e5'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-7.jpg
@@ -112,10 +112,10 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-9.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
-    align_y: center
-    color: '#E5EEEC'
+    align_y: start
+    color: '#e5eeec'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-10.jpg
@@ -145,8 +145,8 @@ collection_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    align_y: center
-    color: '#D0C797'
+    align_y: start
+    color: '#d0c797'
     caption: test caption
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-12.jpg
@@ -161,43 +161,43 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-14.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '45'
     margin_right: '0'
     align_y: center
-    color: '#F9DCBC'
+    color: '#f9dcbc'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-15.jpg
-    width: '60'
+    width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '5'
     margin_right: '0'
     align_y: center
-    color: '#FBEECD'
+    color: '#fbeecd'
+    caption: test caption
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-16.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: center
+    color: '#e7eeef'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-17.jpg
-    width: '33'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: center
-    color: '#D4CEC3'
-    caption: test caption
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-16.jpg
-    width: '50'
+    width: '30'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
-    color: '#E7EEEF'
+    color: '#d4cec3'
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -227,7 +227,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-20.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#222842'
