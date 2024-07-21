@@ -19,74 +19,74 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-1.jpg
-    width: "60"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '60'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#e8ddf3"
+    color: '#e8ddf3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-2.jpg
-    width: "45"
-    margin_y: "300"
-    margin_left: "10"
-    margin_right: "0"
+    width: '45'
+    margin_y: '400'
+    margin_left: '10'
+    margin_right: '0'
     align_y: center
-    color: "#f0e1fb"
-    caption:
+    color: '#f0e1fb'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-3.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "5"
+    width: '35'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#e3f5fb"
-    caption:
+    color: '#e3f5fb'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-5.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "60"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '45'
+    margin_right: '0'
     align_y:
-    color: "#fdf6d3"
-    caption:
+    color: '#fdf6d3'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-6.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#f7dfdf"
+    color: '#f7dfdf'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-7.jpg
-    width: "30"
-    margin_y: "600"
-    margin_left: "20"
-    margin_right: "0"
+    width: '30'
+    margin_y: '600'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
-    color: "#f1f7db"
+    color: '#f1f7db'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-8.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "5"
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#e0eeff"
+    color: '#e0eeff'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -94,34 +94,34 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-10.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '40'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#e1fdd8"
-    caption: ""
+    color: '#e1fdd8'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-12.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '25'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#fbd0d4"
+    color: '#fbd0d4'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-13.jpg
-    width: "45"
-    margin_y: "300"
-    margin_left: "0"
-    margin_right: "0"
+    width: '45'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
-    color: "#e6f3fe"
+    color: '#e6f3fe'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -129,12 +129,12 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_reopen-14.jpg
-    width: "66"
-    margin_y: "100"
-    margin_left: "15"
-    margin_right: "0"
+    width: '66'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y:
-    color: "#eaeef6"
+    color: '#eaeef6'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -161,8 +161,8 @@ collection_category:
   - Reportage
   - Award Winning
 date: 2021-06-26T06:00:05Z
-theme_color: "#85e1b5"
-theme_color_all_works: "#ffe05a"
+theme_color: '#85e1b5'
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
