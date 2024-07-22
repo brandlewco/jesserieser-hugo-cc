@@ -83,7 +83,10 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#eefbe7'
-    caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
+    caption: |-
+      &nbsp;
+
+      &nbsp;
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-9.jpg
     width: '15'

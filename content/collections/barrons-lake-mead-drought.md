@@ -153,7 +153,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-13.jpg
     width: '33'
     margin_y: '400'
-    margin_left: '35'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
     color: '#cce3fa'
@@ -163,7 +163,7 @@ collection_blocks:
     width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '25'
     align_y: start
     color: '#cce3fa'
     caption: ''

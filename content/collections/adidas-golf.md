@@ -163,7 +163,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#818181'
     caption: ''
   - _bookshop_name: collections/media-element
@@ -172,7 +172,7 @@ collection_blocks:
     margin_y: '300'
     margin_left: '0'
     margin_right: '20'
-    align_y: center
+    align_y: start
     color: '#a8a8a8'
     caption: ''
   - _bookshop_name: collections/media-row
