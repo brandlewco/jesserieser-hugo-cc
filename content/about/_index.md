@@ -89,7 +89,7 @@ about_blocks:
     margin_left: '5'
     margin_right: '0'
     title_margin_y: '20'
-    title_margin_left: '30'
+    title_margin_left: '35'
     title_margin_right: '0'
     modal_block:
       - content: <strong>AARP</strong>
