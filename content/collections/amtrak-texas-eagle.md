@@ -13,8 +13,7 @@ collection_description: >-
   Ruidoso, and Carlsbad Caverns.
 
 
-  Named a finalist for the 2023 Communication Arts Photography Annual as one of
-  the year’s best in editorial photography.
+  &nbsp;
 collection_description_alignment: center
 slug: amtrak-texas-eagle
 collection_blocks:
@@ -294,7 +293,10 @@ collection_content: >-
   National was a casualty of Covid and permanently closed their doors April,
   2020 and the images never made it into print. I hope this serves a fitting and
   surreal farewell to one of my favorite clients.
-collection_awards: []
+collection_awards:
+  - content: >-
+      <p><strong>2023</strong> <br /><em>Communication Arts Photography
+      Annual</em> Shortlist</p>
 collection_press: []
 collection_exhibition: []
 collection_overview: false
