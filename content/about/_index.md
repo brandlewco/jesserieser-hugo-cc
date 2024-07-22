@@ -1317,4 +1317,5 @@ about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
 hide_footer: true
+hide_header: true
 ---

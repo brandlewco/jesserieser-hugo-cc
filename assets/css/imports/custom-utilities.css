@@ -294,7 +294,7 @@ svg.hover:hover path {
 }
 
 #page-description p {
-  margin-bottom: 0px !important;
+  margin-bottom: 0.5rem !important;
 }
 
 @keyframes r-drop {

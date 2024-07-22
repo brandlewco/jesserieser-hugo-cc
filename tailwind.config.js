@@ -34,6 +34,7 @@ module.exports = {
       16: "4rem",
       20: "5rem",
       24: "6rem",
+      30: "6.5rem",
       32: "8rem",
       40: "10rem",
       48: "12rem",
@@ -41,6 +42,7 @@ module.exports = {
       60: "15rem",
       64: "16rem",
       72: "18rem",
+
     },
     backgroundColor: (theme) => theme("colors"),
     backgroundPosition: {

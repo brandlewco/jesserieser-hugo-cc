@@ -677,6 +677,7 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
 row_alignment: between
 hide_footer: true
+hide_header: true
 selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg

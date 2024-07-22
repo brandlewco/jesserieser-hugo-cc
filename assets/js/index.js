@@ -292,7 +292,7 @@ function init() {
         options = {
           galleryUID: galleryElement.getAttribute('data-pswp-uid'),
           history: false,
-          bgOpacity: 0.25,
+          bgOpacity: 0.50,
           closeOnScroll: false,
           closeOnVerticalDrag: true,
           preload: [2, 3],
