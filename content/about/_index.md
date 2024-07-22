@@ -997,7 +997,7 @@ about_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    title_margin_y: '75'
+    title_margin_y: '65'
     title_margin_left: '30'
     title_margin_right: '0'
     align_x: start
