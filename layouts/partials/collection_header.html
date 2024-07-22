@@ -9,7 +9,7 @@
 
     {{ if or (.Params.hide_header) (.Params.collection_overview) }}
     <section class="w-full flex flex-row justify-center mb-0 pb-0">    
-         <div id="page-title" class="mt-32 sm:mt-40 z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 font-medium text-center text-{{.Params.navigation_theme}} initial-black" style="width: fit-content; top: 50%; transform: translate3d(0, -50%, 0);">
+         <div id="page-title" class="mt-32 sm:mt-40 z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 font-medium text-center text-{{.Params.navigation_theme}} initial-black" style="width: fit-content">
             <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
                 {{.Title}}
             </h1>

@@ -821,15 +821,28 @@ function init() {
 
   // Initial call to set colors correctly on page load
   updateColors();
-  if (isNotSpecialPage()) {
-    if (pageDescription && metaContainer) {
-      // Get the width of the meta-container
-      var containerWidth = metaContainer.offsetWidth;
-
-      // Set the width of the description to be the same as the meta-container
-      pageDescription.style.maxWidth = containerWidth + "px";
+  function applyResponsiveWidth() {
+    if (window.innerWidth >= 768) {
+      if (isNotSpecialPage()) {
+        if (pageDescription && metaContainer) {
+          // Get the width of the meta-container
+          var containerWidth = metaContainer.offsetWidth;
+  
+          // Set the width of the description to be the same as the meta-container
+          pageDescription.style.maxWidth = containerWidth + "px";
+        }
+      }
+    } else {
+      // Reset maxWidth if viewport width is below 768px
+      if (pageDescription) {
+        pageDescription.style.maxWidth = "100%";
+      }
     }
   }
+  
+  // Call the function initially and also on window resize
+  applyResponsiveWidth();
+  window.addEventListener('resize', applyResponsiveWidth);
 
   // Scroll Animations
   let scrollPos = 0;

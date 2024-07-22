@@ -851,6 +851,10 @@ footer a {
   }
 }
 
+.about-bio a {
+  text-decoration: underline;
+}
+
 /* Modal Popup */
 
 .body-popup {

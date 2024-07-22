@@ -66,6 +66,9 @@ about_bio: >-
   with his technical expertise but also in the ideation phase. He feels his
   greatest currency is how he communicates and sees the world. Some call it
   empathy. Some call it charm. His mom just says he’s a nice young man.
+
+
+  [Download CV](https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start

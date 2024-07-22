@@ -26,8 +26,8 @@
     </section>
     <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
         <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-            <div class="px-4 xl:px-16">
                 {{ partial "about_bio" .}}
+            <div class="px-4 lg:px-32">
                 {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
                 {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
             </div>
@@ -43,9 +43,9 @@
                 </figure>
             </div>
         </section>
-        <footer class="px-4 xl:px-16 py-10 flex flex-wrap bg-white bt-px border-solid border-black">
+        <footer class="px-4 lg:px-24 py-10 flex flex-wrap bg-white  border-top-px border-solid border-black">
             {{ range .Params.footer_links }}
-                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-black text-base md:text-lg" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
+                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-black text-xs tracking-loose" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
             {{ end }}
         </footer>
 </section>
