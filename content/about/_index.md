@@ -329,8 +329,15 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
-          <strong>2023</strong><br>AP 39: American Photography Annual<br>Best
-          Editorial Series:<br><em>Barron&apos;s</em> "Beyond The Drought"
+          <p><strong>2024</strong><br />AP 40: American Photography Annual<br
+          />Best Editorial Series:<br /><em>Outdoor Life</em> "A Son's First
+          Solo Hunt"</p>
+        icon: ''
+        url: ''
+      - content: >-
+          <strong>2023</strong><br />AP 39: American Photography Annual<br
+          />Best Editorial Series:<br /><em>Barron&apos;s</em> "Beyond The
+          Drought"
         icon: ''
         url: ''
       - content: >-
@@ -1300,8 +1307,6 @@ footer_links:
     link_url: https://www.facebook.com/jesse.rieser
   - link_title: Working NotWorking
     link_url: https://workingnotworking.com/6282-jesse
-  - link_title: Photo Politic
-    link_url: https://photopolitic.com/member/jessie-rieser/
   - link_title: Art Photo Index
     link_url: https://www.artphotoindex.com/api/photographer/Jesse-Rieser/15804
   - link_title: The One Club Young Guns
