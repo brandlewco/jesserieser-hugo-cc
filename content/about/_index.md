@@ -726,8 +726,8 @@ about_blocks:
     margin_y: '250'
     margin_left: '0'
     margin_right: '0'
-    title_margin_y: '60'
-    title_margin_left: '25'
+    title_margin_y: '50'
+    title_margin_left: '35'
     title_margin_right: '0'
     align_x: start
     modal_block:
