@@ -1,4 +1,3 @@
-// Ensure to import Swup at the top of the file
 import Swup from 'swup';
 import SwupScrollPlugin from '@swup/scroll-plugin';
 import SwupGtmPlugin from '@swup/gtm-plugin';
@@ -839,11 +838,9 @@ function init() {
       }
     }
   }
-  
-  // Call the function initially and also on window resize
+
   applyResponsiveWidth();
   window.addEventListener('resize', applyResponsiveWidth);
-
   // Scroll Animations
   let scrollPos = 0;
   window.onscroll = function () {
