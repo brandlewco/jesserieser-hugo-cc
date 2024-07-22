@@ -8,11 +8,14 @@
       </span>
       {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
       {{ $currentPage := . }}
-      {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
-      {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}
-      <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black " style="margin-bottom: 2px;">archive
-      </div>
+      {{ with $currentPage.File }}
+        {{ $currentPagePath := printf "collections/%s.md" .BaseFileName }}
+        {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}
+          <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black" style="margin-bottom: 2px;">archive
+          </div>
+        {{ end }}
       {{ end }}
+      
       {{if eq .Section "shop" }} 
         <div class="flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black" style="margin-bottom: 2px;">shop
         </div>
