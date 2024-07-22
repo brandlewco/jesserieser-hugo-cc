@@ -11,6 +11,9 @@ collection_description: >-
   usual hunting buddy behind.
 
 
+  &nbsp;
+
+
   Celebrated in the upcoming AP 40 American Photography annual as one of the
   year's best in editorial photography.
 collection_description_alignment: center
