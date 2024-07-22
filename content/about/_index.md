@@ -86,7 +86,7 @@ about_blocks:
     meta_align: right
     align_y: start
     margin_y: '650'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     title_margin_y: '20'
     title_margin_left: '30'
