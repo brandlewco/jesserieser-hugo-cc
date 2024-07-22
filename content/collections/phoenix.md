@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: 'Adobe: Turn Up the Vibrancy. Make it pop. Make it louder'
+  meta_title: "Adobe: Turn Up the Vibrancy. Make it pop. Make it louder"
 title: Adobe
 collection_meta: Turn Up the Vibrancy
 collection_meta_2: Make it pop. Make it louder. Amplify the mood.
@@ -18,83 +18,83 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-1.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "25"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: start
-    color: '#ffd9b0'
-    caption: ''
+    color: "#ffd9b0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '15'
+    width: "35"
+    margin_y: "400"
+    margin_left: "0"
+    margin_right: "15"
     align_y: start
-    color: '#9fe1dd'
-    caption: ''
+    color: "#9fe1dd"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-3.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#d4e6f6'
-    caption: ''
+    color: "#d4e6f6"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-4.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#fea470'
+    color: "#fea470"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#ebe5db'
-    caption: ''
+    color: "#ebe5db"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-6.jpg
-    width: '40'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
+    width: "40"
+    margin_y: "400"
+    margin_left: "0"
+    margin_right: "20"
     align_y: center
-    color: '#ffe19e'
+    color: "#ffe19e"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-7.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: start
-    color: '#002774'
-    caption: ''
+    color: "#002774"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-8.jpg
-    width: '30'
-    margin_y: '700'
-    margin_left: '5'
-    margin_right: '5'
+    width: "30"
+    margin_y: "700"
+    margin_left: "5"
+    margin_right: "5"
     align_y: center
-    color: '#ff904d'
+    color: "#ff904d"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -102,32 +102,32 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-10.jpg
-    width: '25'
-    margin_y: '600'
-    margin_left: '15'
-    margin_right: '0'
+    width: "25"
+    margin_y: "600"
+    margin_left: "15"
+    margin_right: "0"
     align_y: start
-    color: '#fff8d0'
-    caption: ''
+    color: "#fff8d0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-9.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
+    width: "33"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "20"
     align_y: start
-    color: '#b0daf2'
-    caption: ''
+    color: "#b0daf2"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-11.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#ebd995'
+    color: "#ebd995"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -135,33 +135,33 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-12.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
+    width: "40"
+    margin_y: "500"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#fde3d3'
-    caption: ''
+    color: "#fde3d3"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-13.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
+    width: "30"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "20"
     align_y: start
-    color: '#ba94dc'
-    caption: ''
+    color: "#ba94dc"
+    caption: ""
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-14.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#fcbe8e'
-    caption: test caption
+    color: "#fcbe8e"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -187,8 +187,8 @@ collection_category:
   - Conceptual
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#cef7c5'
-theme_color_all_works: '#ff8f47'
+theme_color: "#cef7c5"
+theme_color_all_works: "#ff8f47"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-10.jpg
 collection_preview:
@@ -199,7 +199,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
-collection_content: ''
+collection_content: ""
 collection_awards:
   - content: >-
       <strong>2019</strong><br>   <em>AP 35: American Photography Annual

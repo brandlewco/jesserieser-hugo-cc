@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: 'Starting Over: Will Move For Work 2009 - 2010'
+  meta_title: "Starting Over: Will Move For Work 2009 - 2010"
 title: Starting Over
 collection_meta: Will Move For Work
 collection_meta_2: 2009 - 2010
@@ -18,210 +18,210 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "55"
+    margin_right: "0"
     align_y: center
-    color: '#D0E5CB'
-    caption: test caption
+    color: "#D0E5CB"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-3.jpg
-    width: '33'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '0'
+    width: "33"
+    margin_y: "700"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#C19E88'
-    caption: test caption
+    color: "#C19E88"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fba093'
-    caption: test caption
+    color: "#fba093"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-4.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#ECD1BA'
-    caption: test caption
+    color: "#ECD1BA"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
-    width: '70'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "70"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#B7DCB6'
-    caption: test caption
+    color: "#B7DCB6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-6.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#f0f0c8'
-    caption: test caption
+    color: "#f0f0c8"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-7.jpg
-    width: '40'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '15'
+    width: "40"
+    margin_y: "700"
+    margin_left: "0"
+    margin_right: "15"
     align_y: center
-    color: '#889C81'
-    caption: test caption
+    color: "#889C81"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-8.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
+    width: "40"
+    margin_y: "500"
+    margin_left: "25"
+    margin_right: "0"
     align_y: start
-    color: '#edcba7'
-    caption: test caption
+    color: "#edcba7"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-9.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: "20"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
     align_y: start
-    color: '#e5cdbe'
-    caption: test caption
+    color: "#e5cdbe"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-10.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: center
-    color: '#BDD493'
-    caption: test caption
+    color: "#BDD493"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "66"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: center
-    color: '#E2F0EC'
-    caption: test caption
+    color: "#E2F0EC"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-12.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
+    width: "33"
+    margin_y: "300"
+    margin_left: "20"
+    margin_right: "0"
     align_y: start
-    color: '#cdd2eb'
-    caption: test caption
+    color: "#cdd2eb"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-13.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    width: "25"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
     align_y: start
-    color: '#c3dee5'
-    caption: test caption
+    color: "#c3dee5"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-14.jpg
-    width: '20'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
+    width: "20"
+    margin_y: "300"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#dbd8d8'
-    caption: test caption
+    color: "#dbd8d8"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-15.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '35'
+    width: "33"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "35"
     align_y: start
-    color: '#e3e3d9'
-    caption: test caption
+    color: "#e3e3d9"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-16.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "66"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#E4ECEB'
-    caption: test caption
+    color: "#E4ECEB"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-17.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#E8E1D4'
-    caption: test caption
+    color: "#E8E1D4"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-18.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#daedfd'
-    caption: test caption
+    color: "#daedfd"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-19.jpg
-    width: '40'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '0'
+    width: "40"
+    margin_y: "700"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#dce4e8'
-    caption: test caption
+    color: "#dce4e8"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-20.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#F0EEE2'
-    caption: test caption
+    color: "#F0EEE2"
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-32.jpg
@@ -233,8 +233,8 @@ collection_category:
   - Reportage
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#e0cbc6'
-theme_color_all_works: '#000000'
+theme_color: "#e0cbc6"
+theme_color_all_works: "#000000"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-7.jpg
 collection_preview:

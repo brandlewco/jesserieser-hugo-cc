@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: The Hard-Luck Texas Town That Bet on Bitcoin and Lost for Wired
 title: Wired Magazine
-collection_meta: 'The Hard-Luck Texas Town '
+collection_meta: "The Hard-Luck Texas Town "
 collection_meta_2: That Bet on Bitcoin and Lost
 collection_description: >-
   These works are a portrait of Rockdale, Texas a community on life support, the
@@ -21,263 +21,263 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "55"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#e7a973'
-    caption: test caption
+    color: "#e7a973"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-3.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "55"
+    margin_right: "0"
     align_y: center
-    color: '#ffd467'
-    caption: test caption
+    color: "#ffd467"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain_recolor-07-1.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: center
-    color: '#e7a973'
-    caption: test caption
+    color: "#e7a973"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-4.jpg
-    width: '33'
-    margin_y: '200'
-    margin_left: '15'
-    margin_right: '0'
+    width: "33"
+    margin_y: "200"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#7ddbc0'
-    caption: test caption
+    color: "#7ddbc0"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-5.jpg
-    width: '33'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '15'
+    width: "33"
+    margin_y: "200"
+    margin_left: "0"
+    margin_right: "15"
     align_y: center
-    color: '#fd9496'
-    caption: test caption
+    color: "#fd9496"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-6.jpg
-    width: '30'
-    margin_y: '200'
-    margin_left: '5'
-    margin_right: '0'
+    width: "30"
+    margin_y: "200"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#efd6b4'
-    caption: test caption
+    color: "#efd6b4"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-7.jpg
-    width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '25'
+    width: "33"
+    margin_y: "400"
+    margin_left: "0"
+    margin_right: "25"
     align_y: center
-    color: '#e1ea6d'
-    caption: test caption
+    color: "#e1ea6d"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-8.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: start
-    color: '#cedcdd'
-    caption: test caption
+    color: "#cedcdd"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain_recolor-07-5.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
+    width: "40"
+    margin_y: "500"
+    margin_left: "0"
+    margin_right: "5"
     align_y: center
-    color: '#e7bfaa'
-    caption: test caption
+    color: "#e7bfaa"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-10.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "35"
+    margin_right: "0"
     align_y: center
-    color: '#a4d38e'
-    caption: test caption
+    color: "#a4d38e"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-11.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "55"
+    margin_right: "0"
     align_y: center
-    color: '#f5614b'
-    caption: test caption
+    color: "#f5614b"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-12.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
+    width: "25"
+    margin_y: "100"
+    margin_left: "45"
+    margin_right: "0"
     align_y: center
-    color: '#ffc9b6'
-    caption: test caption
+    color: "#ffc9b6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-13.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#f8d9b6'
-    caption: test caption
+    color: "#f8d9b6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-14.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
+    width: "40"
+    margin_y: "300"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#ffc9b6'
-    caption: test caption
+    color: "#ffc9b6"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-15.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '30'
+    width: "20"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "30"
     align_y: start
-    color: '#dcedf6'
-    caption: test caption
+    color: "#dcedf6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-16.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#eefae4'
-    caption: test caption
+    color: "#eefae4"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain_recolor-07-3.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: start
-    color: '#ffe9b4'
-    caption: test caption
+    color: "#ffe9b4"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
-    width: '20'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
+    width: "20"
+    margin_y: "500"
+    margin_left: "0"
+    margin_right: "5"
     align_y: start
-    color: '#ffc690'
-    caption: test caption
+    color: "#ffc690"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "35"
+    margin_right: "0"
     align_y: center
-    color: '#ffda9c'
-    caption: test caption
+    color: "#ffda9c"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-21.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "45"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: center
-    color: '#d4d29a'
-    caption: test caption
+    color: "#d4d29a"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
-    width: '20'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '20'
+    width: "20"
+    margin_y: "600"
+    margin_left: "0"
+    margin_right: "20"
     align_y: center
-    color: '#f0f9fa'
-    caption: test caption
+    color: "#f0f9fa"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-23.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "35"
+    margin_right: "0"
     align_y: center
-    color: '#ff9167'
-    caption: test caption
+    color: "#ff9167"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
-    width: '33'
-    margin_y: '600'
-    margin_left: '10'
-    margin_right: '0'
+    width: "33"
+    margin_y: "600"
+    margin_left: "10"
+    margin_right: "0"
     align_y: center
-    color: '#d8e59d'
-    caption: test caption
+    color: "#d8e59d"
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: "45"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
     align_y: start
-    color: '#ffdcb6'
-    caption: test caption
+    color: "#ffdcb6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#e1eef5'
-    caption: test caption
+    color: "#e1eef5"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -296,8 +296,8 @@ collection_category:
   - Reportage
   - Color
 date: 2019-06-18T07:00:00Z
-theme_color: '#d2dee7'
-theme_color_all_works: '#8fd2f9'
+theme_color: "#d2dee7"
+theme_color_all_works: "#8fd2f9"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-32.jpg
 collection_preview:

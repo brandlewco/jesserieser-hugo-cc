@@ -26,7 +26,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#cddcec"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -37,7 +37,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#ebf3f1"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -48,7 +48,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#eedbbb"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-4.jpg
     width: "33"
@@ -57,7 +57,7 @@ collection_blocks:
     margin_right: "10"
     align_y: center
     color: "#eed8c9"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -68,7 +68,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#cae8ee"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -79,7 +79,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#f8dfc3"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-13.jpg
     width: "30"
@@ -88,7 +88,7 @@ collection_blocks:
     margin_right: "10"
     align_y: start
     color: "#e4af97"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -99,7 +99,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#cae8ee"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -110,7 +110,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#c4d4e2"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/robkrar-07_recolor-11.jpg
     width: "20"
@@ -119,7 +119,7 @@ collection_blocks:
     margin_right: "10"
     align_y: start
     color: "#b89990"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -130,7 +130,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#eed8c9"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -141,7 +141,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#f8967d"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -152,7 +152,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#ebf3f1"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row

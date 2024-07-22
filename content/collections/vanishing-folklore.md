@@ -371,7 +371,7 @@ collection_blocks:
     margin_right: "5"
     align_y: start
     color: "#d8f7a6"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -384,7 +384,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#fdadad"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-35.jpg
     width: "40"
@@ -393,7 +393,7 @@ collection_blocks:
     margin_right: "15"
     align_y: start
     color: "#c6e6fd"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -406,7 +406,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#f8ffbc"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-37.jpg
     width: "40"
@@ -415,7 +415,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#b8d3fb"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -428,7 +428,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#bafff5"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -439,7 +439,7 @@ collection_blocks:
     margin_right: "0"
     align_y: start
     color: "#f4f5a6"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-40.jpg
     width: "40"
@@ -448,7 +448,7 @@ collection_blocks:
     margin_right: "5"
     align_y: start
     color: "#deb8f5"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -461,7 +461,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     color: "#befdc3"
-    caption: test caption
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_folklore-4.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-5.jpg
