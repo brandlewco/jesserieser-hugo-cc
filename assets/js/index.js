@@ -1,3 +1,4 @@
+// Ensure to import Swup at the top of the file
 import Swup from 'swup';
 import SwupScrollPlugin from '@swup/scroll-plugin';
 import SwupGtmPlugin from '@swup/gtm-plugin';
@@ -820,27 +821,16 @@ function init() {
 
   // Initial call to set colors correctly on page load
   updateColors();
-  function applyResponsiveWidth() {
-    if (window.innerWidth >= 768) {
-      if (isNotSpecialPage()) {
-        if (pageDescription && metaContainer) {
-          // Get the width of the meta-container
-          var containerWidth = metaContainer.offsetWidth;
-  
-          // Set the width of the description to be the same as the meta-container
-          pageDescription.style.maxWidth = containerWidth + "px";
-        }
-      }
-    } else {
-      // Reset maxWidth if viewport width is below 768px
-      if (pageDescription) {
-        pageDescription.style.maxWidth = "100%";
-      }
+  if (isNotSpecialPage()) {
+    if (pageDescription && metaContainer) {
+      // Get the width of the meta-container
+      var containerWidth = metaContainer.offsetWidth;
+
+      // Set the width of the description to be the same as the meta-container
+      pageDescription.style.maxWidth = containerWidth + "px";
     }
   }
 
-  applyResponsiveWidth();
-  window.addEventListener('resize', applyResponsiveWidth);
   // Scroll Animations
   let scrollPos = 0;
   window.onscroll = function () {
