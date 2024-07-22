@@ -1258,7 +1258,7 @@ about_blocks:
       I know whenever we work together, he will return with engaging images that
       surpass the expectations of the assignment and encourage people to pause
       and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;*Director
+      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
       of Photography \| Barron's & Penta*
     background_color: '#ffffff'
     background_image_toggle: false
@@ -1268,10 +1268,10 @@ about_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    width: '80'
+    width: '40'
     align_y: start
     margin_y: '-100'
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     parallax: true
     image_css:
