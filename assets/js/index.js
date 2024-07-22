@@ -1,4 +1,3 @@
-// Ensure to import Swup at the top of the file
 import Swup from 'swup';
 import SwupScrollPlugin from '@swup/scroll-plugin';
 import SwupGtmPlugin from '@swup/gtm-plugin';

@@ -1279,6 +1279,8 @@ about_blocks:
     parallax: true
     image_css:
     caption_css:
+  - _bookshop_name: about/media-row
+    row_alignment: start
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram
