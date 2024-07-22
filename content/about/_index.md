@@ -1268,7 +1268,7 @@ about_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    width: '40'
+    width: '50'
     align_y: start
     margin_y: '-100'
     margin_left: '0'
