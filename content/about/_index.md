@@ -1214,7 +1214,7 @@ about_blocks:
         icon:
         url:
   - _bookshop_name: about/media-row
-    row_alignment: center
+    row_alignment: start
   - _bookshop_name: about/media-text
     text: >-
       “I’ve worked with tons of photographers that can’t make something great
@@ -1276,8 +1276,6 @@ about_blocks:
     parallax: true
     image_css:
     caption_css:
-  - _bookshop_name: about/media-row
-    row_alignment: between
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram
