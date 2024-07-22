@@ -9,7 +9,7 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/info-2.jpg
 slug: about
-collection_description: >-
+collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: 'Advertising & Editorial '
@@ -94,11 +94,16 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
-          <p><strong>2022</strong> Souvenirs From Paradise The Gallery at
-          Mountain Shadows. Paradise Valley, AZ (Solo Show) <em>A Vanishing
-          Folklore</em> 2012 - 2022 <em>The Changing Landscape of American
-          Retail 2015 - 2022</em> <em>Christmas In America: Happy Birthday,
-          Jesus</em> 2010 - 2022</p>
+          <p><strong>2024</strong><br />Unbound 13!<br />Candela Gallery<br
+          /><em>American Hypnosis</em><br />Richmond, VA (Group Show)<br /></p>
+        icon:
+        url:
+      - content: >-
+          <p><strong>2022</strong> <strong>- 2023</strong><br />Souvenirs From
+          Paradise The Gallery at Mountain Shadows. Paradise Valley, AZ (Solo
+          Show) <em>A Vanishing Folklore</em> 2012 - 2022 <em>The Changing
+          Landscape of American Retail 2015 - 2022</em> <em>Christmas In
+          America: Happy Birthday, Jesus</em> 2010 - 2022</p>
         icon:
         url:
       - content: >-
