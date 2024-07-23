@@ -15,8 +15,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-1.jpg
     width: '50'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '50'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#ffd9b0'
@@ -27,7 +27,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-2.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#9fe1dd'
@@ -91,7 +91,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-7.jpg
     width: '35'
     margin_y: '200'
-    margin_left: '40'
+    margin_left: '45'
     margin_right: '0'
     align_y: center
     color: '#002774'
@@ -228,11 +228,11 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-20.jpg
     width: '40'
     margin_y: '200'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#ebc6ef'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
