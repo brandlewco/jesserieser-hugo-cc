@@ -19,6 +19,8 @@ seo:
     Director specializing in portraiture, reportage, sport and conceptual
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
+  - _bookshop_name: home/media-row-start
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: American Hypnosis
@@ -41,17 +43,34 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row-start
+  - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! Candela Gallery '
+    caption: American Hypnosis on display at Candela Gallery through August 3.
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: A Son's First Solo Hunt for Outdoor Life
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '60'
-    margin_right: '0'
+    width: '35'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -67,16 +86,14 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
@@ -104,7 +121,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '50'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
