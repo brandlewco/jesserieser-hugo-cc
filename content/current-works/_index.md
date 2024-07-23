@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Current Works
-collection_meta:  Recent News
+collection_meta: Recent News
 collection_meta_2:
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
@@ -9,7 +9,7 @@ feature_description: >-
 
   For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
-collection_description: >-
+collection_description: ''
 text_alignment: center
 slug: current-works
 seo:
@@ -24,8 +24,8 @@ content_blocks:
     meta: American Hypnosis
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
-    width: '55'
-    margin_y: '50'
+    width: '50'
+    margin_y: '0'
     margin_left: '25'
     margin_right: '0'
     align_y: start
@@ -47,12 +47,12 @@ content_blocks:
     title:
     meta: A Son's First Solo Hunt for Outdoor Life
     attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
-    width: '40'
-    margin_y: '0'
-    margin_left: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '60'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#c9fce6'
     caption: ''
     title_margin_y: '15'
@@ -326,10 +326,10 @@ content_blocks:
     title:
     meta: Golf Digest
     attached_collection: collections/golfdigest-nicklaus.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-2.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
+    width: '33'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#c1e6ac'
@@ -355,7 +355,7 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '450'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '20'
     meta_align: left
@@ -656,7 +656,7 @@ content_blocks:
     title:
     meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
     attached_collection: collections/wired-bitmain.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
     width: '55'
     margin_y: '400'
     margin_left: '15'
