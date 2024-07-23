@@ -27,370 +27,370 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736431
     text: Vimeo
-    color: "#ff0000"
-    show_controls: false
+    color: '#ff0000'
+    show_controls: true
     block_aspect_ratio: 16x9
-    width: "80"
+    width: '80'
     align_y: start
-    margin_y: "50"
-    margin_left: "10"
-    margin_right: "0"
+    margin_y: '50'
+    margin_left: '10'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-1.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#d5e6f1"
-    caption: ""
+    color: '#d5e6f1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-2.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "5"
+    width: '30'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '5'
     align_y: start
-    color: "#f2ded6"
-    caption: ""
+    color: '#f2ded6'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-3.jpg
-    width: "55"
-    margin_y: "700"
-    margin_left: "0"
-    margin_right: "0"
+    width: '55'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#fcceb1"
-    caption: ""
+    color: '#fcceb1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-4.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "60"
-    margin_right: "0"
+    width: '25'
+    margin_y: '100'
+    margin_left: '60'
+    margin_right: '0'
     align_y: center
-    color: "#daf0e7"
-    caption: ""
+    color: '#daf0e7'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-5.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: center
-    color: "#f8f2f7"
-    caption: ""
+    color: '#f8f2f7'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-6.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    width: '25'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y: start
-    color: "#fbe5d2"
-    caption: ""
+    color: '#fbe5d2'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-7.jpg
-    width: "45"
-    margin_y: "600"
-    margin_left: "0"
-    margin_right: "15"
+    width: '45'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
-    color: "#ff8e7d"
-    caption: ""
+    color: '#ff8e7d'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#dcdee5"
-    caption: ""
+    color: '#dcdee5'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-9.jpg
-    width: "33"
-    margin_y: "600"
-    margin_left: "5"
-    margin_right: "0"
+    width: '33'
+    margin_y: '600'
+    margin_left: '5'
+    margin_right: '0'
     align_y: center
-    color: "#ffdfc9"
-    caption: ""
+    color: '#ffdfc9'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-10.jpg
-    width: "45"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "10"
+    width: '45'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
-    color: "#e0f3eb"
-    caption: ""
+    color: '#e0f3eb'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-11.jpg
-    width: "35"
-    margin_y: "100"
-    margin_left: "15"
-    margin_right: "0"
+    width: '35'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: center
-    color: "#f5ecba"
-    caption: ""
+    color: '#f5ecba'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-12.jpg
-    width: "30"
-    margin_y: "450"
-    margin_left: "5"
-    margin_right: "0"
+    width: '30'
+    margin_y: '450'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#f3e7dd"
-    caption: ""
+    color: '#f3e7dd'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-13.jpg
-    width: "30"
-    margin_y: "200"
-    margin_left: "0"
-    margin_right: "0"
+    width: '30'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#f0cdc4"
-    caption: ""
+    color: '#f0cdc4'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-14.jpg
-    width: "30"
-    margin_y: "450"
-    margin_left: "0"
-    margin_right: "0"
+    width: '30'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#a9cffd"
-    caption: ""
+    color: '#a9cffd'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-15.jpg
-    width: "60"
-    margin_y: "200"
-    margin_left: "25"
-    margin_right: "0"
+    width: '60'
+    margin_y: '200'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#edd5be"
-    caption: ""
+    color: '#edd5be'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-16.jpg
-    width: "20"
-    margin_y: "950"
-    margin_left: "45"
-    margin_right: "0"
+    width: '20'
+    margin_y: '950'
+    margin_left: '45'
+    margin_right: '0'
     align_y: start
-    color: "#fbe6df"
-    caption: ""
+    color: '#fbe6df'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-17.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#ff0000"
+    color: '#ff0000'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-18.jpg
-    width: "45"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#fce6c8"
-    caption: ""
+    color: '#fce6c8'
+    caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736834
     text: caption
-    color: "#ff0000"
+    color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: "40"
+    width: '40'
     align_y: start
-    margin_y: "600"
-    margin_left: "0"
-    margin_right: "5"
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-19.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "40"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
     align_y: start
-    color: "#d9d1ce"
-    caption: ""
+    color: '#d9d1ce'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-20.jpg
-    width: "35"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '35'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: center
-    color: "#fbf9e1"
-    caption: ""
+    color: '#fbf9e1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-21.jpg
-    width: "35"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '35'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#e0eae7"
-    caption: ""
+    color: '#e0eae7'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-23.jpg
-    width: "50"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "5"
+    width: '50'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
     align_y: center
-    color: "#fcceb1"
-    caption: ""
+    color: '#fcceb1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-24.jpg
-    width: "35"
-    margin_y: "100"
-    margin_left: "55"
-    margin_right: "5"
+    width: '35'
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '5'
     align_y: start
-    color: "#f2ded6"
-    caption: ""
+    color: '#f2ded6'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-25.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: center
-    color: "#daf0e7"
-    caption: ""
+    color: '#daf0e7'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-26.jpg
-    width: "20"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    width: '20'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y: start
-    color: "#f8f2f7"
-    caption: ""
+    color: '#f8f2f7'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-27.jpg
-    width: "50"
-    margin_y: "300"
-    margin_left: "0"
-    margin_right: "15"
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
-    color: "#fbe5d2"
-    caption: ""
+    color: '#fbe5d2'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-28.jpg
-    width: "50"
-    margin_y: "400"
-    margin_left: "15"
-    margin_right: "0"
+    width: '50'
+    margin_y: '400'
+    margin_left: '15'
+    margin_right: '0'
     align_y: center
-    color: "#ff8e7d"
-    caption: ""
+    color: '#ff8e7d'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-29.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#dcdee5"
-    caption: ""
+    color: '#dcdee5'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-30.jpg
-    width: "60"
-    margin_y: "100"
-    margin_left: "30"
-    margin_right: "0"
+    width: '60'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: center
-    color: "#ffdfc9"
-    caption: ""
+    color: '#ffdfc9'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-31.jpg
-    width: "30"
-    margin_y: "800"
-    margin_left: "15"
-    margin_right: "0"
+    width: '30'
+    margin_y: '800'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
-    color: "#e0f3eb"
-    caption: ""
+    color: '#e0f3eb'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-33.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
     align_y: start
-    color: "#edd5be"
-    caption: ""
+    color: '#edd5be'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-34.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "30"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
-    color: "#a9cffd"
-    caption: ""
+    color: '#a9cffd'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-35.jpg
-    width: "30"
-    margin_y: "850"
-    margin_left: "0"
-    margin_right: "0"
+    width: '30'
+    margin_y: '850'
+    margin_left: '0'
+    margin_right: '0'
     align_y: center
-    color: "#d9d1ce"
-    caption: ""
+    color: '#d9d1ce'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -401,55 +401,55 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-36.jpg
-    width: "25"
-    margin_y: "1000"
-    margin_left: "5"
-    margin_right: "0"
+    width: '25'
+    margin_y: '1000'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#e0eae7"
-    caption: ""
+    color: '#e0eae7'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-37.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "10"
+    width: '55'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
-    color: "#fbf9e1"
-    caption: ""
+    color: '#fbf9e1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-38.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "15"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
-    color: "#f0cdc4"
-    caption: ""
+    color: '#f0cdc4'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-39.jpg
-    width: "50"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "0"
+    width: '50'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '0'
     align_y: center
-    color: "#f0cdc4"
-    caption: ""
+    color: '#f0cdc4'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-40.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#a9cffd"
-    caption: ""
+    color: '#a9cffd'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -457,14 +457,14 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736400
     text: caption
-    color: "#ff0000"
+    color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: "80"
+    width: '80'
     align_y: start
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
@@ -478,8 +478,8 @@ collection_category:
   - Color
   - Reportage
 date: 2019-05-01T07:00:00Z
-theme_color: "#e9dcd0"
-theme_color_all_works: "#f1a4ff"
+theme_color: '#e9dcd0'
+theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
 collection_preview:
