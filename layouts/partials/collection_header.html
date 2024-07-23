@@ -62,14 +62,14 @@
             <div class="loading-container w-full pb-4">
                 <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
             </div>
-            <div id="meta-container" class="flex flex-col sm:flex-row w-full items-start sm:items-center justify-between {{ if .Params.collection_description }}sm:min-w-2xl{{end}}">
+            <div id="meta-container" class="flex flex-col sm:flex-row w-full items-start sm:items-center {{ if and .Params.collection_meta .Params.collection_meta_2 }}justify-between{{ else if .Params.collection_meta }}justify-start{{ else if .Params.collection_meta_2 }}justify-end{{ end }} {{ if .Params.collection_description }}sm:min-w-2xl{{end}}">
                 {{ with .Params.collection_meta }}
                     <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow initial-black" data-sal="slide-down" data-sal-delay="1200">
                         {{ . }}
                     </h2>
                 {{ end }}
                 {{ if .Params.collection_meta_2 }}
-                    <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}sm:pl-32 pt-4{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
+                    <h3 data-cms-bind="#collection_meta_2" class="text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}self-start sm:self-end sm:pl-32 pt-4{{else}}self-end{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                         {{ .Params.collection_meta_2 }}
                     </h3>
                 {{ end }}
