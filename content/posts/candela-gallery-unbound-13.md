@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'Candela Gallery: Unbound 13'
+title: 'Candela Gallery: UnBound13!'
 outputs:
   - HTML
   - ContentOnly
@@ -8,40 +8,135 @@ post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '100'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-2.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-3.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-4.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-5.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-6.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-7.jpg
     title: blog title
-    caption:
+    caption: ''
     width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-8.jpg
+    title: blog title
+    caption: ''
+    width: '100'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-9.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-10.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-11.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-12.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-13.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-14.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-15.jpg
+    title: blog title
+    caption: ''
+    width: '100'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-16.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-17.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-18.jpg
+    title: blog title
+    caption: ''
+    width: '25'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-19.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-20.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-21.jpg
+    title: blog title
+    caption: ''
+    width: '100'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-22.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-23.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-24.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-25.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-26.jpg
+    title: blog title
+    caption: ''
+    width: '100'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -57,19 +152,17 @@ blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-6.jpg
 attached: true
-attached_collection: collections/retail.md
+attached_collection: collections/vanishing-folklore-2.md
 attached_link:
-block_aspect_ratio: ratio-16x9
+block_aspect_ratio: 3x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
 blog_header:
 caption: The Changing Landscape of American Retail September 9 - October 10
 blog_content: >-
-  [*The* *Changing* *Landscape* *of American
-  Retail*](https://jesserieser.com/projects/changing-landscape-american-retail/)
-  is on display through October 10th in the annual Fresh exhibition at
-  [Klompching Gallery](https://www.klompching.com/about). The gallery has
-  arranged a zoom panel with owners Debra Klompching and Darren Ching with
-  virtual artist talks with myself and artist [Marcus
+  American Hypnosis is on display through October 10th in the annual Fresh
+  exhibition at [Klompching Gallery](https://www.klompching.com/about). The
+  gallery has arranged a zoom panel with owners Debra Klompching and Darren
+  Ching with virtual artist talks with myself and artist [Marcus
   Desieno](http://www.marcusdesieno.com/recognition-patterns) and you can
   register through eventbrite
   [here](https://www.eventbrite.com/e/fresh-2020-artist-talk-marcus-desieno-and-jesse-rieser-tickets-119802868605).
