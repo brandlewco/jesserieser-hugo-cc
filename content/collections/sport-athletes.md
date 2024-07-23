@@ -15,7 +15,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-1.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -24,7 +24,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-2.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -33,7 +33,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-3.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -42,7 +42,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-4.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -51,7 +51,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-5.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -60,7 +60,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-6.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y:
