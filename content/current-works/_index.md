@@ -64,7 +64,7 @@ content_blocks:
     text_alignment: center
     text_tracking: wide
     font_weight: hairline
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
