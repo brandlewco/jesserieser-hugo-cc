@@ -291,10 +291,10 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-28.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/overview_20407_landscape-1.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#d8c9d8'
@@ -302,7 +302,7 @@ content_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-29.jpg
     width: '25'
-    margin_y: '350'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '30'
     align_y:
