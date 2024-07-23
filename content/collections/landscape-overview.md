@@ -15,7 +15,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-1.jpg
     width: '50'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '30'
     margin_right: '0'
     align_y: center
