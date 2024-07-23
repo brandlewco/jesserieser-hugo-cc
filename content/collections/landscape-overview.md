@@ -228,11 +228,11 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-20.jpg
     width: '40'
     margin_y: '200'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#ebc6ef'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
