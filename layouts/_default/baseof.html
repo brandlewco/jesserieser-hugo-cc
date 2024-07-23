@@ -26,7 +26,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     
-    {{ partial "head_custom.html" . }}
     {{ $styles := resources.Get "/css/style.css"  }}
 
     {{ if .Site.IsServer }}

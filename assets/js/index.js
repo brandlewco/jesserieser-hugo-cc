@@ -695,7 +695,7 @@ function init() {
   const height = window.innerHeight;
   
   const startFade = height * 0.25; // 25% of viewport height
-  const endFade = height * 0.65; // 75% of viewport height
+  const endFade = height * 0.50; // 75% of viewport height
   
   // Helper function to clamp values within a range
   function value_limit(value, min, max) {
@@ -820,15 +820,31 @@ function init() {
 
   // Initial call to set colors correctly on page load
   updateColors();
-  if (isNotSpecialPage()) {
-    if (pageDescription && metaContainer) {
-      // Get the width of the meta-container
-      var containerWidth = metaContainer.offsetWidth;
 
-      // Set the width of the description to be the same as the meta-container
-      pageDescription.style.maxWidth = containerWidth + "px";
+
+
+  function applyResponsiveWidth() {
+    if (window.innerWidth >= 768) {
+      if (isNotSpecialPage()) {
+        if (pageDescription && metaContainer) {
+          // Get the width of the meta-container
+          var containerWidth = metaContainer.offsetWidth;
+
+          // Set the width of the description to be the same as the meta-container
+          pageDescription.style.maxWidth = containerWidth + "px";
+        }
+      }
+    } else {
+      // Reset maxWidth if viewport width is below 768px
+      if (pageDescription) {
+        pageDescription.style.maxWidth = "";
+      }
     }
   }
+
+  // Call the function initially and also on window resize
+  applyResponsiveWidth();
+  window.addEventListener('resize', applyResponsiveWidth);
 
   // Scroll Animations
   let scrollPos = 0;

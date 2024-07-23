@@ -317,6 +317,7 @@ module.exports = {
       "grid-two": "calc(50% - 0.25rem)",
       full: "100%",
       screen: "100vw",
+      "fit": "fit-content"
     }),
     aspectRatio: {
       "4x3": "4 / 3",
