@@ -68,7 +68,8 @@ about_bio: >-
   empathy. Some call it charm. His mom just says he’s a nice young man.
 
 
-  [Download CV](https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf)
+  [Download
+  CV](https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
@@ -1261,7 +1262,7 @@ about_blocks:
       I know whenever we work together, he will return with engaging images that
       surpass the expectations of the assignment and encourage people to pause
       and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
+      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
       of Photography \| Barron's & Penta*
     background_color: '#ffffff'
     background_image_toggle: false
@@ -1271,7 +1272,7 @@ about_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    width: '50'
+    width: '45'
     align_y: start
     margin_y: '-100'
     margin_left: '0'
