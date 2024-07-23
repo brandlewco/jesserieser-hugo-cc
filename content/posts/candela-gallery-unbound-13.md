@@ -156,50 +156,39 @@ attached_collection: collections/vanishing-folklore-2.md
 attached_link:
 block_aspect_ratio: 3x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
-blog_header:
-caption: The Changing Landscape of American Retail September 9 - October 10
+blog_header: UnBound 13! Exhibition
+caption: July 5th - August 3rd
 blog_content: >-
-  American Hypnosis is on display through October 10th in the annual Fresh
-  exhibition at [Klompching Gallery](https://www.klompching.com/about). The
-  gallery has arranged a zoom panel with owners Debra Klompching and Darren
-  Ching with virtual artist talks with myself and artist [Marcus
-  Desieno](http://www.marcusdesieno.com/recognition-patterns) and you can
-  register through eventbrite
-  [here](https://www.eventbrite.com/e/fresh-2020-artist-talk-marcus-desieno-and-jesse-rieser-tickets-119802868605).
+  [*American Hypnosis*](https://jesserieser.com/collections/folklore/) is on
+  display through August 3rd in the annual UnBound exhibition at [Candela
+  Gallery.](https://www.candelagallery.com)
 
 
-  Now in its 9th year, the FRESH Annual Exhibition is presented by the
-  Klompching Gallery in New York. Only 5 photographers are selected for this
-  exemplary exhibition, curated and presented to the highest standards by one of
-  the leading contemporary art galleries, specializing in the exhibition and
-  sale of emerging, mid-career and established artists working in the
-  photographic arts.
+  Now in its 13th year, the UnBound Annual Exhibition is presented by the
+  Candela Gallery and Photography Book publishing in Richmond, VA.
 
 
-  Beginning in 2015, The Changing Landscape of American Retail is an ongoing
-  documentation of the shift from traditional brick-and-mortar locations where
-  we once socialized and interacted with our community to the stark and generic
-  essential for e-commerce. Like memories, familiar retail entities are fading
-  away. Today, they stand as modern-day ruins and architectural artifacts.
+  By definition, hypnosis is the induction of a state of consciousness in which
+  a person loses the power of voluntary action and is highly responsive to
+  suggestion or direction.
 
 
-  These works are an exercise of looking to the past and peering into the
-  future, serving as a metaphor of how technology is accelerating cultural
-  change in the modern world. I know you can’t fight change, but that doesn’t
-  mean you can’t be sentimental.
+  Having spent my formative years in the American “heartland,” I considered
+  myself a patriot, and like many, I had a deep sense of pride for my country.
+  But today, being an American feels similar to an animal pacing within the
+  confines of a zoo. If provided the illusion of just enough freedom you can
+  mask the reality of one’s own captivity. The result leaves me with a sense of
+  waning dignity. We are collectively on display to intrigue, terrify, and
+  satisfy the world's voyeuristic curiosity.
 
 
-  Celebrated in the *PDN Photo Annual* and *Photolucida’s* *Critical Mass*, you
-  can learn more by visiting interviews on [*The Washington
-  Post*](https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/)*,*
-  [*NPR*](https://kjzz.org/content/708344/changing-face-retail-through-camera-lens)*,*
-  [*Architectural
-  Digest*](https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse)*,*
-  [*Wired*](https://www.wired.com/story/photo-gallery-retail-apocalypse/)*,*
-  [*Fast
-  Company*](https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures)*,*
-  and [*Business
-  Insider*](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)*.*
+  Here, you will find surreal postcards from this fever dream—a feeling of
+  familiar uneasiness transmitted from a citizen who is equally intrigued by his
+  home as he is alarmed. They are deceptively nuanced photographs of—and for—an
+  America that has done everything it can to abolish nuance, creating
+  bleached-out stand-ins for the place itself. In a time in which the truth is
+  constantly under attack, American Hypnosis proves these same truths can be
+  stranger than fiction.
 date:
 news_category:
   - exhibition
