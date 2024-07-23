@@ -54,7 +54,7 @@
             </div>
             <div class="pager-title">
                 <div class="text-sm block uppercase tracking-looser">
-                                        {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
+                    {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
                     {{ $currentPage := . }}
                     {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
                     {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}

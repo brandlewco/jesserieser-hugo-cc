@@ -76,7 +76,7 @@
             </div>
             <div id="page-description"  class="flex flex-col w-full absolute text-xs font-thin text-left my-8 duration-500 opacity-0" style="height: auto; top: 100%;" >
                 {{ if .Params.collection_description }}
-                <span data-cms-bind="#collection_description">{{ .Params.collection_description | markdownify }}</span>
+                <div data-cms-bind="#collection_description">{{ .Params.collection_description | markdownify }}</div>
                 {{else}}
                 {{end}}
                 {{if (eq .Params.hide_footer true) }}
