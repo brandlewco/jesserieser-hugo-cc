@@ -91,7 +91,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-7.jpg
     width: '35'
     margin_y: '200'
-    margin_left: '40'
+    margin_left: '45'
     margin_right: '0'
     align_y: center
     color: '#002774'
