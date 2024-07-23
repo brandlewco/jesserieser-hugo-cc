@@ -42,7 +42,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -68,7 +68,7 @@ content_blocks:
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '35'
-    margin_y: '450'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '10'
     align_y: start
