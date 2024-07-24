@@ -292,15 +292,6 @@ collection_blocks:
     color: '#eb2f36'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-30.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#e4ebed'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-31.jpg
     width: '15'
     margin_y: '50'
