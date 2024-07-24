@@ -1280,28 +1280,6 @@ about_blocks:
     parallax: true
     image_css:
     caption_css:
-  - _bookshop_name: about/media-feature
-    title: Collection Title
-    meta: meta
-    attached_collection:
-    image: /images/hero/hero-image-2.png
-    width: '40'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#000000'
-    caption: test caption
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: center
-  - _bookshop_name: about/media-row
-    row_alignment: start
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram

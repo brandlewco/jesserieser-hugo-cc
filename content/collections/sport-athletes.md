@@ -84,9 +84,6 @@ collection_blocks:
     align_y:
     color: '#eefbe7'
     caption: |-
-      &nbsp;
-
-      &nbsp;
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-9.jpg
     width: '15'

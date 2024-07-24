@@ -8,17 +8,39 @@
         <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
             <use xlink:href="#spinner"></use>
         </svg>
-            {{with .Params.collection_preview}}
-            {{ range first 1 . }}
-            <img data-sizes="auto" data-srcset="{{.}}?width=500&height=375 500w, {{.}}?width=600&height=450 600w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-            {{end}}
-            {{ range first 3 (after 1 . )}}
-            <img data-sizes="auto" data-srcset="{{.}}?width=500&height=375 500w, {{.}}?width=600&height=450 600w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-            {{end}}
-            {{else}}
-            <img data-sizes="auto" data-parent-fit="cover" data-srcset="{{.}}?width=500&height=375 500w" class="lazyload absolute top-0 left-0" alt="{{.Title}}"/>
-            {{end}}
-
+        {{ with .Params.collection_preview }}
+        {{ range first 1 . }}
+          <img data-sizes="auto" 
+               data-srcset="{{.}}?width=500&height=375 500w, 
+                            {{.}}?width=600&height=450 600w, 
+                            {{.}}?width=768&height=576 768w, 
+                            {{.}}?width=1024&height=768 1024w, 
+                            {{.}}?width=1280&height=960 1280w" 
+               class="lazyload absolute top-0 left-0" 
+               style="opacity: 0;" />
+        {{ end }}
+        {{ range first 3 (after 1 . ) }}
+          <img data-sizes="auto" 
+               data-srcset="{{.}}?width=500&height=375 500w, 
+                            {{.}}?width=600&height=450 600w, 
+                            {{.}}?width=768&height=576 768w, 
+                            {{.}}?width=1024&height=768 1024w, 
+                            {{.}}?width=1280&height=960 1280w" 
+               class="lazyload absolute top-0 left-0" 
+               style="opacity: 0;" />
+        {{ end }}
+      {{ else }}
+        <img data-sizes="auto" 
+             data-parent-fit="cover" 
+             data-srcset="{{.}}?width=500&height=375 500w, 
+                          {{.}}?width=600&height=450 600w, 
+                          {{.}}?width=768&height=576 768w, 
+                          {{.}}?width=1024&height=768 1024w, 
+                          {{.}}?width=1280&height=960 1280w" 
+             class="lazyload absolute top-0 left-0" 
+             alt="{{.Title}}" />
+      {{ end }}
+      
         </div>
         
 
