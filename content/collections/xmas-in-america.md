@@ -105,9 +105,7 @@ collection_blocks:
     margin_right: '5'
     align_y:
     color: '#eefbe7'
-    caption: >-
-      <p><strong>Mikey.</strong> <em>Windcrest, TX. 2016. Grunwald
-      Residence.</em></p>
+    caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
