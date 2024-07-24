@@ -22,8 +22,8 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: American Hypnosis
+    title: American Hypnosis
+    meta: 2012 - 2024
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
@@ -63,8 +63,8 @@ content_blocks:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
-    title:
-    meta: A Son's First Solo Hunt for Outdoor Life
+    title: A Son's First Solo Hunt
+    meta: Outdoor Life
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '35'
@@ -75,7 +75,7 @@ content_blocks:
     color: '#c9fce6'
     caption: ''
     title_margin_y: '15'
-    title_margin_left: '40'
+    title_margin_left: '55'
     title_margin_right: '0'
     text_size: lg
     text_color: '#ffffff'
@@ -87,8 +87,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'Antoine''s Escalaras '
+    title: 'Antoine''s Escalaras '
+    meta:
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '45'
@@ -98,11 +98,11 @@ content_blocks:
     align_y: start
     color: '#e5f5b5'
     caption: ''
-    title_margin_y: '20'
-    title_margin_left: '5'
+    title_margin_y: '40'
+    title_margin_left: '10'
     title_margin_right: '0'
-    text_size: 2xl
-    text_color: '#ffffff'
+    text_size: lg
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
     text_tracking: wide
@@ -128,8 +128,8 @@ content_blocks:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
-    title:
-    meta: 'ESPN: Devin Booker Becoming Legendary '
+    title: 'Becoming Legendary '
+    meta: 'Devin Booker for ESPN '
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
@@ -139,15 +139,15 @@ content_blocks:
     align_y: start
     color: '#d4dee6'
     caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
+    title_margin_y: '20'
+    title_margin_left: '20'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color:
+    text_size: lg
+    text_color: '#000000'
     line_height: normal
     text_alignment: left
-    text_tracking: normal
-    font_weight: bold
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
