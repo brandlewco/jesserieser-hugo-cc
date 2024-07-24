@@ -1,23 +1,23 @@
-body.cms-editor-active .figure img {
+.cms-editor-active .figure img {
     opacity: 1 !important;
 }
 
-body.cms-editor-active .editor-hidden {
+.cms-editor-active .editor-hidden {
     display: none !important;
     visibility: hidden !important;
     height: 0 !important;
     width: 0px !important;
 }
 
-body.cms-editor-active figcaption {
+.cms-editor-active figcaption {
     opacity: 1 !important;
 }
 
-body.cms-editor-active #page-description {
+.cms-editor-active #page-description {
     opacity: 1 !important;
 }
 
 
-body.cms-editor-active figcaption h2 {
+.cms-editor-active figcaption h2 {
     color: #000 !important
 }
