@@ -12,3 +12,12 @@ body.cms-editor-active .editor-hidden {
 body.cms-editor-active figcaption {
     opacity: 1 !important;
 }
+
+body.cms-editor-active #page-description {
+    opacity: 1 !important;
+}
+
+
+body.cms-editor-active figcaption h2 {
+    color: #000 !important
+}
