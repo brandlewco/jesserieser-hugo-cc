@@ -37,6 +37,24 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery through August 3.
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: The Changing Landscape of American Retail. 2015 - 2023
@@ -114,27 +132,26 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Christmas in America. 2010 - 2023
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
+    meta: Guns & Pizza. 2021 - 2024
+    attached_collection: collections/gundemic.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '40'
     margin_right: '0'
-    align_y:
-    color: '#f4c8c8'
+    align_y: start
+    color: '#faf2ea'
     caption: ''
-    title_margin_y: '5'
-    title_margin_left: '35'
-    title_margin_right:
+    title_margin_y: '20'
+    title_margin_left: '5'
+    title_margin_right: '0'
     text_size: 7xl
-    text_color: '#050505'
-    line_height: none
+    text_color: '#ffffff'
+    line_height: normal
     text_alignment: left
     text_tracking: normal
     font_weight: normal
     meta_align: left
-    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -173,26 +190,27 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Guns & Pizza. 2021 - 2024
-    attached_collection: collections/gundemic.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
-    width: '55'
+    meta: Christmas in America. 2010 - 2023
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
+    align_y:
+    color: '#f4c8c8'
     caption: ''
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
+    title_margin_y: '5'
+    title_margin_left: '35'
+    title_margin_right:
     text_size: 7xl
-    text_color: '#ffffff'
-    line_height: normal
+    text_color: '#050505'
+    line_height: none
     text_alignment: left
     text_tracking: normal
     font_weight: normal
     meta_align: left
+    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
