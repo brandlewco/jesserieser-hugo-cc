@@ -1,0 +1,13 @@
+
+{{ $fileName := path.Base .image | replaceRE "(.doc|.jpeg|.jpg)" ""}}
+<!-- <section class="block-media-1 block-hover flex flex-row {{with .row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}} mx-auto h-auto"> -->
+  <figure class="block-static {{with .width}}w-{{.}}/100{{else}}w-full{{end}} h-auto p-1 sm:p-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" >
+    <div class="h-full w-full" {{with .color}} style="background-color: {{.}}" {{end}}>
+      <img
+      data-sizes="auto"
+      data-srcset="{{.image}}?width=450 450w, {{.image }}?width=780 780w, {{.image }}?width=1440 1440w, {{.image }}?width=1920 1920w, {{.image }}?width=2560 2560w"
+      class="lazyload h-full object-cover z-0"
+      alt="{{ .caption }}"/>
+    </div>
+  </figure>  
+<!-- </section> -->
