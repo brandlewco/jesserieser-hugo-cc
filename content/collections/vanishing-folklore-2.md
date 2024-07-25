@@ -476,7 +476,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-44.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#ddf1ff'
@@ -497,7 +497,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-39.jpg
     width: '20'
-    margin_y: '900'
+    margin_y: '1000'
     margin_left: '0'
     margin_right: '0'
     align_y: start
