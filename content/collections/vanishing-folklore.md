@@ -9,9 +9,9 @@ title: 'American '
 collection_meta: Hypnosis
 collection_meta_2: 2012 - 2024
 collection_description: >-
-  This long-term works in progress are the transmissions of a citizen who seems
-  comfortable sitting with the knowledge that he is as excited by his home as he
-  is alarmed by it.
+  By definition, hypnosis is the induction of a state of consciousness in which
+  a person loses the power of voluntary action and is highly responsive to
+  suggestion or direction.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:
@@ -852,10 +852,10 @@ collection_exhibition:
       <p><strong>2022 &amp; 2023</strong><br />The Gallery at Mountain
       Shadows<br />Paradise Valley, AZ (Solo Show)</p>
 collection_overview: false
-collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
+hide_header: false
 navigation_theme: white
 px_extra: true
 row_alignment: between
