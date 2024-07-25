@@ -19,8 +19,8 @@ content_blocks:
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '50'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
