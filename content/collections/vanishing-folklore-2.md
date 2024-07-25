@@ -665,10 +665,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-61.jpg
-    width: '40'
-    margin_y: '800'
+    width: '35'
+    margin_y: '900'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     align_y: center
     color: '#befdc3'
     caption: ''
@@ -676,16 +676,16 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-62.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '20'
+    width: '30'
+    margin_y: '650'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#e9ffa2'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-63.jpg
-    width: '30'
+    width: '40'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
@@ -698,7 +698,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-64.jpg
-    width: '35'
+    width: '30'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
@@ -708,9 +708,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-65.jpg
     width: '45'
-    margin_y: '800'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
     color: '#d1f3fd'
     caption: ''
@@ -720,7 +720,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-51.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '45'
     margin_right: '0'
     align_y:
     color: '#ffebda'
@@ -739,7 +739,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-68.jpg
     width: '35'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '10'
     align_y: start
