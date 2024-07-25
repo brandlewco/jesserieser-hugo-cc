@@ -1,5 +1,5 @@
 ---
-title: Jesse Rieser
+title: Works + News
 feature_description: >-
   Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal
   photographic art works.
@@ -348,7 +348,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description:
+collection_description: ''
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
