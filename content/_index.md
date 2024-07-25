@@ -195,7 +195,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#f4c8c8'
@@ -222,10 +222,10 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#ffffff'
-    width: '30'
-    align_y: center
+    width: '25'
+    align_y: start
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff1b1b'
@@ -236,9 +236,9 @@ content_blocks:
     meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
-    width: '55'
+    width: '50'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '5'
     align_y: start
     color: '#fdd3d3'
@@ -264,10 +264,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '35'
+    width: '30'
     align_y: center
     margin_y: '0'
-    margin_left: '55'
+    margin_left: '40'
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
