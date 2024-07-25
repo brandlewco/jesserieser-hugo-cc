@@ -1,5 +1,5 @@
 ---
-title: Jesse Rieser
+title: Works + News
 feature_description: >-
   Welcome to Jesse Rieser Projects. Here you will find a showcase of my personal
   photographic art works.
@@ -14,13 +14,13 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'American Hypnosis: A Vanishing Folklore'
-    meta: 2012 - 2023
+    title:
+    meta: American Hypnosis. 2012 - 2024
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
-    margin_y: '100'
-    margin_left: '40'
+    margin_y: '50'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -37,9 +37,27 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery through August 3.
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '33'
+    align_y: start
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Changing Landscape of American Retail
-    meta: 2015 - 2023
+    title:
+    meta: The Changing Landscape of American Retail. 2015 - 2023
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '45'
@@ -98,9 +116,9 @@ content_blocks:
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee and Jesse Rieser
     attached_blog: posts/sunset-spot.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
     vimeo_block_cover:
-    block_aspect_ratio: 4x5
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
     width: '25'
@@ -113,28 +131,27 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Christmas in America
-    meta: 2010 - 2023
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
+    title:
+    meta: Guns & Pizza. 2021 - 2024
+    attached_collection: collections/gundemic.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '40'
     margin_right: '0'
-    align_y:
-    color: '#f4c8c8'
+    align_y: start
+    color: '#faf2ea'
     caption: ''
-    title_margin_y: '5'
-    title_margin_left: '35'
-    title_margin_right:
+    title_margin_y: '20'
+    title_margin_left: '5'
+    title_margin_right: '0'
     text_size: 7xl
-    text_color: '#050505'
-    line_height: none
+    text_color: '#ffffff'
+    line_height: normal
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    meta_align: right
-    align_x: start
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -172,75 +189,56 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Guns & Pizza
-    meta: 2021 - 2023
-    attached_collection: collections/gundemic.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
-    width: '55'
+    title:
+    meta: Christmas in America. 2010 - 2023
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    width: '45'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
+    align_y:
+    color: '#f4c8c8'
     caption: ''
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
+    title_margin_y: '5'
+    title_margin_left: '35'
+    title_margin_right:
     text_size: 7xl
-    text_color: '#ffffff'
-    line_height: normal
+    text_color: '#050505'
+    line_height: none
     text_alignment: left
     text_tracking: normal
     font_weight: normal
     meta_align: left
+    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Chaeg 52
-    caption: Holiday Season Feature and Interview Roundup
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
     vimeo_block_cover:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#ffffff'
-    width: '30'
-    align_y: center
+    width: '25'
+    align_y: start
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff1b1b'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-text
-    text: '**Early Works:**'
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: 8xl
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    width: '50'
-    align_y: start
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
+    title:
+    meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
-    width: '55'
-    margin_y: '0'
-    margin_left: '15'
+    width: '50'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '5'
     align_y: start
     color: '#fdd3d3'
@@ -266,22 +264,44 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '35'
+    width: '30'
     align_y: center
     margin_y: '0'
-    margin_left: '55'
+    margin_left: '40'
     margin_right: '0'
     meta_align: left
     theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-text
+    text: '**Early Works:**'
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: xl
+    text_alignment: left
+    text_tracking: wider
+    font_weight: hairline
+    width: '20'
+    align_y: start
+    margin_y: '200'
+    margin_left: '45'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Wallow Fire
-    meta: '2011'
+    title:
+    meta: The Wallow Fire. 2011
     attached_collection: collections/wallow-fire
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '45'
     margin_right: '0'
     align_y: start
@@ -300,8 +320,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Starting Over: Will Move For Work'
-    meta: 2009 - 2010
+    title:
+    meta: 'Starting Over: Will Move For Work. 2009 - 2010'
     attached_collection: collections/starting-over.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
     width: '50'
@@ -324,8 +344,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Class of Turns 30
-    meta: Meta
+    title:
+    meta: The Class of Turns 30. 2009 - 2010
     attached_collection: collections/the-class-of-99-turns-30.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/co99-20.jpg
     width: '33'
@@ -348,7 +368,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description:
+collection_description: ''
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
