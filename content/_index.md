@@ -14,13 +14,13 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'American Hypnosis: A Vanishing Folklore'
-    meta: 2012 - 2023
+    title:
+    meta: American Hypnosis. 2012 - 2024
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -38,8 +38,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Changing Landscape of American Retail
-    meta: 2015 - 2023
+    title:
+    meta: The Changing Landscape of American Retail. 2015 - 2023
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '45'
@@ -113,8 +113,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Christmas in America
-    meta: 2010 - 2023
+    title:
+    meta: Christmas in America. 2010 - 2023
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
@@ -133,7 +133,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    meta_align: right
+    meta_align: left
     align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -172,8 +172,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Guns & Pizza
-    meta: 2021 - 2023
+    title:
+    meta: Guns & Pizza. 2021 - 2024
     attached_collection: collections/gundemic.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
     width: '55'
@@ -213,29 +213,9 @@ content_blocks:
     theme_color: '#ff1b1b'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-text
-    text: '**Early Works:**'
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: 8xl
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    width: '50'
-    align_y: start
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: Autobiography of a Contact Sport
-    meta: '2016'
+    title:
+    meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '55'
@@ -275,13 +255,35 @@ content_blocks:
     theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-text
+    text: '**Early Works:**'
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: 2xl
+    text_alignment: left
+    text_tracking: normal
+    font_weight: hairline
+    width: '20'
+    align_y: start
+    margin_y: '200'
+    margin_left: '45'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Wallow Fire
-    meta: '2011'
+    title:
+    meta: The Wallow Fire. 2011
     attached_collection: collections/wallow-fire
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '45'
     margin_right: '0'
     align_y: start
@@ -300,8 +302,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Starting Over: Will Move For Work'
-    meta: 2009 - 2010
+    title:
+    meta: 'Starting Over: Will Move For Work. 2009 - 2010'
     attached_collection: collections/starting-over.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
     width: '50'
@@ -324,8 +326,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: The Class of Turns 30
-    meta: Meta
+    title:
+    meta: The Class of Turns 30. 2009 - 2010
     attached_collection: collections/the-class-of-99-turns-30.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/co99-20.jpg
     width: '33'
