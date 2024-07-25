@@ -214,8 +214,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Chaeg 52
-    caption: Holiday Season Feature and Interview Roundup
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
     attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
     vimeo_block_cover:
@@ -237,7 +237,7 @@ content_blocks:
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '55'
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '5'
     align_y: start
