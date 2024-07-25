@@ -98,9 +98,9 @@ content_blocks:
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee and Jesse Rieser
     attached_blog: posts/sunset-spot.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunset_spot_01.jpg
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
     vimeo_block_cover:
-    block_aspect_ratio: 4x5
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
     width: '25'
