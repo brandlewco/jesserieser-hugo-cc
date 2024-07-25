@@ -46,8 +46,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'UnBound13! Candela Gallery '
-    caption: American Hypnosis through August 3.
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery through August 3.
     attached_blog: posts/candela-gallery-unbound-13.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
     block_aspect_ratio: 4x3
