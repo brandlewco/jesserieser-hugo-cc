@@ -279,9 +279,9 @@ content_blocks:
     background_image_toggle: false
     image:
     text_color: '#000000'
-    text_size: 2xl
+    text_size: xl
     text_alignment: left
-    text_tracking: normal
+    text_tracking: wider
     font_weight: hairline
     width: '20'
     align_y: start
