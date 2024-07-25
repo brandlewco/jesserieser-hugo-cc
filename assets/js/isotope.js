@@ -315,16 +315,16 @@ imagesLoaded(grid, function() {
 
 
     const filterError = document.getElementById("filter-error");
-    const filterArchive = document.getElementById("filter-archive");
+    // const filterArchive = document.getElementById("filter-archive");
 
     iso.on("layoutComplete", function(laidOutItems) {
       // console.log(laidOutItems.length);
       if (laidOutItems.length === 1) {
         filterError.classList.add("active");
-        filterArchive.style.opacity = 0;
+        // filterArchive.style.opacity = 0;
       } else {
         filterError.classList.remove("active");
-        filterArchive.style.opacity = 1;
+        // filterArchive.style.opacity = 1;
       }
     });
   }, 500);

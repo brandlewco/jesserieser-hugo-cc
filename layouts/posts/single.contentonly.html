@@ -1,8 +1,8 @@
 
 
   <header class="absolute top-0 left-0 w-full px-4 sm:px-20 flex flex-row justify-between py-6 z-999 bg-white items-baseline">
-    <div class="text-lg sm:text-2xl uppercase font-medium text-center text-black">JESSE RIESER</div>
-      <div class="text-xs sm:text-xl pr-12 sm:pr-0 uppercase font-medium text-center text-black">NEWS: <span class="italic font-light">{{range .Params.news_category}}{{.}}{{end}}</span></div>
+    <div class="whitespace-no-wrap text-base tracking-loosest font-normal">JESSE RIESER</div>
+      <div class="whitespace-no-wrap text-sm tracking-loosest font-normal">NEWS: <span class="italic font-light">{{range .Params.news_category}}{{.}}{{end}}</span></div>
       <svg width="35" height="35" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" class="hover icon pointer  border-white border-6 border-solid h-6 w-6 m-2 sm:m-6 absolute top-0 right-0 text-white dynamic-modal-close z-999" style="margin-top:1.6rem;"><g fill="none" stroke="#000"  stroke-miterlimit="10" stroke-width="10"><path d="m4.7 4.7 246.6 246.6"/><path d="m250.85 4.7-246.6 246.6"/></g></svg>
   </header>
   <section class="flex flex-col w-100 overflow-y-scroll scrollbar px-2 sm:px-40 mb-12 mt-20 z-50">
@@ -18,15 +18,15 @@
       </div>
     </div>
       <header class="flex flex-col items-start mb-8 leading-none">
-        <h1 class="text-xl sm:text-5xl font-medium text-black pb-4 pt-4">
+        <h1 class="text-sm font-medium text-black pb-4 pt-4 uppercase">
           {{.Params.title}}
         </h1>
-        <div class="text-base sm:text-2xl font-medium italic text-black">
-          {{.Params.caption | markdownify}}
+        <div class="text-sm font-medium italic text-black">
+          {{.Params.caption}}
         </div>
       </header>
       <div
-        class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8"
+        class="text-sm w-100 h-100 text-black leading-tight pb-8"
       >
         {{ .Params.blog_content | markdownify }}
       </div>

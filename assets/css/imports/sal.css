@@ -188,6 +188,15 @@
 [data-sal][data-sal-delay="1500"] {
   transition-delay: 1.5s;
 }
+[data-sal][data-sal-delay="1600"] {
+  transition-delay: 1.6s;
+}
+[data-sal][data-sal-delay="2000"] {
+  transition-delay: 2s;
+}
+[data-sal][data-sal-delay="2500"] {
+  transition-delay: 2.5s;
+}
 [data-sal][data-sal-easing="linear"] {
   transition-timing-function: linear;
 }
@@ -275,6 +284,19 @@
 [data-sal][data-sal-easing="ease-in-out-back"] {
   transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+/* Add this CSS to your stylesheet */
+@keyframes loadingAnimation {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+[data-sal="loading"] {
+  animation: loadingAnimation 2.2s forwards;
+}
 [data-sal|="fade"] {
   opacity: 0;
   transition-property: opacity;
@@ -285,7 +307,7 @@ body.sal-disabled [data-sal|="fade"] {
 }
 [data-sal|="slide"] {
   opacity: 0;
-  transition-property: opacity, transform;
+  transition-property: opacity, transform, color;
 }
 
 [data-sal|="meta"] {
@@ -309,6 +331,7 @@ body.sal-disabled [data-sal|="meta"] {
 [data-sal="slide-right"] {
   transform: translateX(-20%);
 }
+
 [data-sal|="slide"].sal-animate,
 body.sal-disabled [data-sal|="slide"] {
   opacity: 1;

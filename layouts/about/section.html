@@ -1,16 +1,36 @@
 {{- define "main" -}}
 <section data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}" class="relative z-0">
-    {{ partial "about_header" .}}
+    {{ partial "collection_header" .}}
+    <section id="project-description" class="about-col pt-20 pb-8 sm:py-20 px-4 sm:px-16 lg:px-72 lg:mx-24 leading-tight  items-center relative z-100 bg-white text-black"  style="backface-visibility: hidden;">
+            <section class="flex flex-col sm:flex-row mx-auto justify-center items-start text-xs">
+                <aside class="w-full sm:w-1/3 ml-0 pb-8 sm:pb-0 flex sm:justify-start" data-sal="slide-up" data-sal-delay="50">
+                    <div>
+                    <h3 class="mb-3 text-sm tracking-loose uppercase" >{{ .Params.header_col_1_title | markdownify }}</h3>
+                    {{ .Params.header_col_1 | safeHTML }}
+                    </div>
+                </aside>
+                <aside class="w-full sm:w-1/3 mx-0lg:mx-8 pb-8 sm:pb-0 flex sm:justify-center" data-sal="slide-up" data-sal-delay="250">
+                    <div>
+                    <h3 class="mb-3 text-sm tracking-loose uppercase">{{ .Params.header_col_2_title | markdownify }}</h3>
+                    {{ .Params.header_col_2 | safeHTML }}
+                    </div>
+                </aside>
+                <aside class="w-full sm:w-1/3 ml-0  pb-4 sm:pb-0 flex sm:justify-end"  data-sal="slide-up" data-sal-delay="500">
+                    <div>
+                    <h3 class="mb-3 text-sm tracking-loose uppercase" >{{ .Params.header_col_3_title | markdownify }}</h3>
+                    {{ .Params.header_col_3 | safeHTML }}
+                    </div>
+                </aside>
+            </section> 
+    </section>
     </section>
     <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
         <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
-            <div class="px-4 xl:px-16">
                 {{ partial "about_bio" .}}
-
+            <div class="px-4 lg:px-32">
                 {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
                 {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
             </div>
-            <div class="h-8 sm:h-24 w-full"></div>
             <div class="flex flex-row justify-center w-full">
                 <figure class="bg-center w-full sm:w-40/100 relative">
                     <img data-src="/bio.jpg?width=1024" data-srcset="/bio.jpg?width=1024 1024w, /bio.jpg?width=1920 1920w, /bio.jpg?width=2560 2560w, /bio.jpg"
@@ -23,9 +43,9 @@
                 </figure>
             </div>
         </section>
-        <footer class="px-4 xl:px-16 py-10 flex flex-wrap" style="background-color: {{.Params.theme_color}};">
+        <footer class="px-4 lg:px-24 py-10 flex flex-wrap bg-white  border-top-px border-solid border-black">
             {{ range .Params.footer_links }}
-                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-white text-base md:text-lg" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
+                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-black text-xs tracking-loose" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
             {{ end }}
         </footer>
 </section>

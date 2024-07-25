@@ -15,33 +15,14 @@
         <section id="filter" class="flex flex-wrap overflow-hidden filter-container z-10 mx-auto relative pl-0 sm:pl-5 md:pl-6" style="opacity: 0;">
             {{ range .Params.collection_sorter }}
             {{ with $.Site.GetPage . }}
-                {{ if and (eq .Params.collection_archive false) (ne .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
+                {{ if and (ne .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
                     {{ partial "collection_sorter_item" . }}
                 {{ end }}
             {{ end }}
             {{ end }}
-            
-            <div id="filter-archive" class="filter-item w-screen filter-archive mt-20 {{range $.Site.Data.categories}}{{. | replaceRE "[\\W]" "" | lower}} {{end}} personal commissionedstock all active"  data-filter="{{range $.Site.Data.categories}}{{. | replaceRE "[\\W]" ""| lower}},{{end}},all,personal,commissionedstock">
-                <h1 class="pl-4 sm:pl-8 pt-14 pb-12 text-lg text-white font-bold">Archive</h1>
-            </div>
-            {{ range .Params.collection_sorter}}
-            {{ with $.Site.GetPage . }}
-            {{ if and (eq .Params.collection_archive true) (ne .Params.collection_overview true) (not (eq .Params.collection_hidden true)) }}
-            {{ partial "collection_sorter_item" . }}
-                {{ end }}
-            {{ end }}
-            {{ end }}
+
         </section>
-        <a href="#filter-container" alt="back to top" class="bg-black" data-no-swup>
-            <div class="mx-auto w-full pt-16 text-center font-light bg-black pb-16 text-white">
-                <div class="text-5xl font-hairline flex flex-row justify-center" style="line-height: 0.4;">
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="50" height="50" viewBox="0 0 256 150" style="transform: rotate(180deg);">
-                        <path d="M242.4 4.5L255.6 17.8 128 145.5 0.4 17.8 13.6 4.5 128 118.9z" style="fill: #fff" class="arrow-down"/>
-                    </svg>
-                </div>
-                <p class="text-md sm:text-xl font-light">Back to Top</p>
-            </div>
-        </a>
+
     </section>
 </article>
 {{- end -}}

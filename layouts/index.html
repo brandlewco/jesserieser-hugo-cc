@@ -1,69 +1,59 @@
 {{- define "main" -}}
-<section data-hue="{{with .Params.navigation_theme}}{{.}}{{else}}white{{end}}" class="relative z-0">
-  {{ partial "feature_header" . }}
-</section>
-<section data-hue="page" class="pt-8 mx-auto bg-white relative z-100 overflow-hidden"style="backface-visibility: hidden;">
-    <div class="px-4 xl:px-16">
-      {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
-      {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
-    </div>
-</section>
-{{ partial "feature_footer" .}}
-
-<article id="popup-modal-url" class="popup-modal block fixed z-100 text-black bg-white inset-0 editor-hidden overflow-y-scroll h-full w-full flex flex-col justify-start" style="visibility: hidden; opacity: 0;" role="dialog" aria-modal="true">
-
-</article>
-
+    <section data-hue="{{with .Params.navigation_theme}}{{.}}{{end}}" class="relative z-0">
+        {{ partial "collection_header" .}}
+    </section>
+    <section data-hue="page" class="mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
+        <div class="my-gallery {{ if .Params.collection_overview }}overview-gallery{{end}} px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
+                {{ partial "bookshop_bindings" `.Params.content_blocks` }} 
+                {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}
+        </div>
+        <!-- Conditional Partial Based on .Params.collection_overview -->
+        {{ partial "overview_pager" .}}
+    </section>
+    <section class="mx-auto relative z-100 overflow-y-hidden" data-hue="white">
+        {{ partial "collection_footer" .}}
+    </section>
+    {{ partial "gallery" . }}
 {{- end -}}
+
 {{- define "attached" -}}
 
 <script>
   (function(){
-    var images = [
-      {{- range .Params.selected_works_theme -}}
-      ["<source data-srcset='{{.image_mobile }}?width=720' media='(orientation: portrait) and (max-width: 688px)' /><source data-srcset='{{.image_mobile }}?width=1040' media='(orientation: portrait) and (max-width: 1024px)' /><source data-srcset='{{.image}}?width=1040' media='(max-width: 1024px)' /><source data-srcset='{{.image}}?width=1500' media='(max-width: 1440px)'  /><source data-srcset='{{.image}}?width=2560' media='(max-width: 2560px)'  /><img id='feature-image' data-src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' class='featured bg-center lazyload h-full object-cover absolute inset-0 z-0' data-sizes='auto' alt='Jesse Rieser Featured Collection Image'/>","{{.theme_color}}"],
-      {{- end -}}
-      ]
-    var imgCount = images.length;
-  
-    var randNumber = Math.floor((Math.random() * imgCount) + 1);
-    imgURL = images[randNumber-1];
+    // var images = [
+    //   {{- range .Params.selected_works_theme -}}
+    //   ["<source data-srcset='{{ .image_mobile }}?width=720' media='(orientation: portrait) and (max-width: 688px)' /><source data-srcset='{{ .image_mobile }}?width=1040' media='(orientation: portrait) and (max-width: 1024px)' /><source data-srcset='{{ .image }}?width=1040' media='(max-width: 1024px)' /><source data-srcset='{{ .image }}?width=1500' media='(max-width: 1440px)'  /><source data-srcset='{{ .image }}?width=2560' media='(max-width: 2560px)'  /><img id='header-image' data-src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' class='featured bg-center lazyload h-full object-cover absolute inset-0 z-0' data-sizes='auto' alt='Jesse Rieser Featured Collection Image'/>","{{.theme_color}}"],
+    //   {{- end -}}
+    // ];
 
-    const content = document.getElementById("content");
-    const featurePicture = document.getElementById("feature-picture");
-    const hueHeaderShift = document.querySelectorAll(".shift");
-    const hueHeaderBun = document.querySelectorAll(".bun");
-    const projectHeader = document.getElementById("project-header");
-    const projectDescription = document.getElementById("project-description");
-    const featureFooter = document.getElementById("feature-footer");
-    const navigationContainer = document.querySelector('.navigation-container');
+    // var imgCount = images.length;
+    // var randNumber = Math.floor((Math.random() * imgCount) + 1);
+    // var imgURL = images[randNumber-1];
 
-    var color = imgURL[1]; // This is the theme color from your array
+    // const featurePicture = document.getElementById("feature-picture");
+    // const navigationContainer = document.querySelector('.navigation-container');
 
-    projectHeader.style.backgroundColor = imgURL[1];
-    projectDescription.style.backgroundColor = imgURL[1];
-  // Create a <style> element
-    var style = document.createElement('style');
-  style.type = 'text/css';
+    // var color = imgURL[1]; // This is the theme color from your array
 
-  // Add CSS rule for .bun
-  if (color) {
-    style.innerHTML = `.bun { background-color: ${color}; }`;
-  } else {
-    style.innerHTML = `.bun { background-color: initial; }`;
-  }
+    // Create a <style> element
+    // var style = document.createElement('style');
+    // style.type = 'text/css';
 
-  // Append the style element to the head of the document
-  document.head.appendChild(style);
+    // Append the style element to the head of the document
+    // document.head.appendChild(style);
     
-    if (navigationContainer) {
-      // Set the color for text and the fill for SVG elements
-      navigationContainer.style.color = color;
-      navigationContainer.style.fill = color;
-      
-    }
-    featurePicture.innerHTML = imgURL[0] + featurePicture.innerHTML;
-    featureFooter.style.backgroundColor = imgURL[1];
+    // if (navigationContainer) {
+    //   // Set the color for text and the fill for SVG elements
+    //   navigationContainer.style.color = color;
+    //   navigationContainer.style.fill = color;
+    // }
+
+    // if (featurePicture) {
+    //   featurePicture.innerHTML = imgURL[0];
+    // } else {
+    //   console.error('Element with id "feature-picture" not found');
+    // }
   }());
 </script>
 {{- end -}}
+

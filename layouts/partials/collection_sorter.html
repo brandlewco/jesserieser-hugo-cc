@@ -1,23 +1,23 @@
 <section id="filters" class="sticky mx-auto px-4 sm:pl-14 sm:pr-10 sm:flex flex-col mb-2 pt-2 z-50 hidden" style="transform:translate3d(0,0,0);">
     <div class="flex flex-col filters z-50">
-      <button id="catToggle" class="toggle text-left tracking-wide font-semibold active self-start">CATEGORIES</button>
-      <div id="categories" class="ui-group collapsible flex flex-wrap opened">
+      <button id="catToggle" class="toggle text-left text-sm tracking-widest font-semibold self-start is-checked">CATEGORIES</button>
+      <div id="categories" class="ui-group collapsible flex flex-wrap">
         <!-- <button id="all" class="ui-check button w-1/6 text-left" alt="clear filters">All</button> -->
-        <div class="ui-group filter-categories pl-4 sm:pr-0 flex flex-wrap">
+        <div class="ui-group filter-categories pl-4 sm:pr-0 flex flex-wrap lg:w-3/5">
        
           {{ range sort $.Site.Data.categories "value" "asc"}}
 
-          <button id="{{. | replaceRE "[\\W]" "" | lower}}" class="bold-hover text-black relative ui-check button text-sm lg:text-base sm:w-1/4 md:w-1/6 lg:w-1/8 italic text-left tracking-wide pl-2" data-filter=".{{. | replaceRE "[\\W]" "" | lower}}">{{.}}</button>
+          <button id="{{. | replaceRE "[\\W]" "" | lower}}" class="bold-hover text-black relative ui-check button text-sm sm:w-1/4 md:w-1/6 lg:w-1/8 italic text-left tracking-wider pl-2" data-filter=".{{. | replaceRE "[\\W]" "" | lower}}">{{.}}</button>
           {{end}}
 
         </div>
       </div>
-      <div class="ui-group pb-2">
-        <button id="personal" class="bold-hover ui-radio button tracking-wide pr-4" data-filter=".personal">PERSONAL</button>
+      <div class="ui-group pb-2  text-sm">
+        <button id="personal" class="bold-hover ui-radio button tracking-widest pr-4" data-filter=".personal">PERSONAL</button>
           <span class="font-hairline">/</span>
-        <button id="commissionedstock" class="bold-hover ui-radio px-4 button tracking-wide" data-filter=".commissionedstock">COMMISSIONED</button>
+        <button id="commissionedstock" class="bold-hover ui-radio px-4 button tracking-widest" data-filter=".commissionedstock">COMMISSIONED</button>
           <span id="all-divide" class="font-hairline">|</span>
-        <button id="all" class="bold-hover ui-radio button tracking-wide pl-4" data-filter=".all">BOTH</button>
+        <button id="all" class="bold-hover ui-radio button tracking-widest pl-4" data-filter=".all">BOTH</button>
       </div>
     </div>
 </section>

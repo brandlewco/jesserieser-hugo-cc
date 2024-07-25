@@ -8,26 +8,45 @@
         <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
             <use xlink:href="#spinner"></use>
         </svg>
-            {{with .Params.collection_preview}}
-            {{ range first 1 . }}
-            <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-            {{end}}
-            {{ range first 3 (after 1 . )}}
-            <img data-sizes="auto" data-srcset="{{.}}?width=400&h=300 400w, {{.}}?width=500&h=375 500w, {{.}}?width=600&h=450 600w, {{.}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" style="opacity: 0;"/>
-            {{end}}
-            {{else}}
-            <img data-sizes="auto" data-parent-fit="cover" data-srcset="{{.Params.collection_cover}}?width=400&h=300 400w, {{.Params.collection_cover}}?width=600&h=450 600w, {{.Params.collection_cover}}?width=800&h=600 800w" class="lazyload absolute top-0 left-0" alt="{{.Title}}"/>
-            {{end}}
-
+        {{ with .Params.collection_preview }}
+        {{ range first 1 . }}
+          <img data-sizes="auto" 
+               data-srcset="{{.}}?width=500&height=375 500w, 
+                            {{.}}?width=600&height=450 600w, 
+                            {{.}}?width=768&height=576 768w, 
+                            {{.}}?width=1024&height=768 1024w, 
+                            {{.}}?width=1280&height=960 1280w" 
+               class="lazyload absolute top-0 left-0" 
+               style="opacity: 0;" />
+        {{ end }}
+        {{ range first 3 (after 1 . ) }}
+          <img data-sizes="auto" 
+               data-srcset="{{.}}?width=500&height=375 500w, 
+                            {{.}}?width=600&height=450 600w, 
+                            {{.}}?width=768&height=576 768w, 
+                            {{.}}?width=1024&height=768 1024w, 
+                            {{.}}?width=1280&height=960 1280w" 
+               class="lazyload absolute top-0 left-0" 
+               style="opacity: 0;" />
+        {{ end }}
+      {{ else }}
+        <img data-sizes="auto" 
+             data-parent-fit="cover" 
+             data-srcset="{{.}}?width=500&height=375 500w, 
+                          {{.}}?width=600&height=450 600w, 
+                          {{.}}?width=768&height=576 768w, 
+                          {{.}}?width=1024&height=768 1024w, 
+                          {{.}}?width=1280&height=960 1280w" 
+             class="lazyload absolute top-0 left-0" 
+             alt="{{.Title}}" />
+      {{ end }}
+      
         </div>
         
-        {{ if eq .Params.collection_archive true }}
-        <figcaption class="text-white bg-black text-base">
-        {{else}}
-        <figcaption class="text-black text-base">
-        {{end}}
-        <span class="font-medium italic block pt-1 tracking-wide leading-tight no-underline">{{.Title}}</span>
-        <span class="font-normal block text-xs pt-1 tracking-widest leading-tight no-underline">{{.Params.collection_meta}} {{with .Params.collection_meta_2}}{{.}}{{end}}</span>
+
+        <figcaption class="text-black pt-2">
+        <span class="font-medium text-sm uppercase block py-1 tracking-widest leading-tight no-underline border-solid border-block mb-1" style="border-bottom-width: 1px;">{{.Title}}</span>
+        <span class="font-normal text-xs block italic pt-1 tracking-widest leading-tight no-underline">{{.Params.collection_meta}} {{with .Params.collection_meta_2}}{{.}}{{end}}</span>
         </figcaption>
     </a>
 </figure>
