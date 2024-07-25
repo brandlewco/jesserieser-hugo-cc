@@ -19,9 +19,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-1.jpg
-    width: '55'
+    width: '66'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#dce3f3'
@@ -32,7 +32,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-2.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f8ebcc'
@@ -41,9 +41,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-3.jpg
-    width: '30'
+    width: '35'
     margin_y: '800'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f0f3d4'
@@ -53,7 +53,7 @@ collection_blocks:
     width: '45'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '5'
     align_y:
     color: '#d8d7e3'
     caption: ''
