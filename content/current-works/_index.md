@@ -22,8 +22,8 @@ content_blocks:
   - _bookshop_name: home/media-row-start
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: American Hypnosis
-    meta: 2012 - 2024
+    title:
+    meta: American Hypnosis 2012 - 2024
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
@@ -42,7 +42,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -63,8 +63,8 @@ content_blocks:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
-    title: A Son's First Solo Hunt
-    meta: Outdoor Life
+    title:
+    meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '35'
@@ -87,8 +87,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
-    title: 'Antoine''s Escalaras '
-    meta:
+    title:
+    meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '45'
@@ -128,8 +128,8 @@ content_blocks:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
-    title: 'Becoming Legendary '
-    meta: 'Devin Booker for ESPN '
+    title:
+    meta: 'ESPN: Devin Booker Becoming Legendary '
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
