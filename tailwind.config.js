@@ -34,11 +34,15 @@ module.exports = {
       16: "4rem",
       20: "5rem",
       24: "6rem",
+      30: "6.5rem",
       32: "8rem",
       40: "10rem",
       48: "12rem",
       56: "14rem",
+      60: "15rem",
       64: "16rem",
+      72: "18rem",
+
     },
     backgroundColor: (theme) => theme("colors"),
     backgroundPosition: {
@@ -89,19 +93,13 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        '"ars-maquette-web"',
+        'Louize',
         "-apple-system",
         "BlinkMacSystemFont",
         '"Segoe UI"',
         "Roboto",
         '"Helvetica Neue"',
-        "Arial",
-        '"Noto Sans"',
-        "sans-serif",
-        '"Apple Color Emoji"',
-        '"Segoe UI Emoji"',
-        '"Segoe UI Symbol"',
-        '"Noto Color Emoji"',
+        "Arial"
       ],
     },
     fontSize: {
@@ -234,6 +232,7 @@ module.exports = {
     minWidth: {
       0: "0",
       full: "100%",
+      "2xl": "42rem",
     },
     objectPosition: {
       bottom: "bottom",
@@ -318,6 +317,7 @@ module.exports = {
       "grid-two": "calc(50% - 0.25rem)",
       full: "100%",
       screen: "100vw",
+      "fit": "fit-content"
     }),
     aspectRatio: {
       "4x3": "4 / 3",
@@ -407,6 +407,8 @@ module.exports = {
     require('@tailwindcss/typography'),
   ],
   safelist: [
+        "bg-black",
+        "bg-white",
         "h-32",
         "w-10/100",
         "w-15/100",
@@ -588,7 +590,6 @@ module.exports = {
         "aspect-2x3",
         "aspect-9x6",
         "aspect-16x9",
-        "aspect-9x16",
         "aspect-4x3",
         "aspect-5x4",
         "aspect-4x5",
@@ -596,10 +597,10 @@ module.exports = {
         "aspect-8-5x11",
         "aspect-11x8-5",
         "aspect-1x1",
+        "aspect-9x16",
         "sm:aspect-2x3",
         "sm:aspect-9x6",
         "sm:aspect-16x9",
-        "sm:aspect-9x16",
         "sm:aspect-4x3",
         "sm:aspect-5x4",
         "sm:aspect-4x5",
@@ -607,6 +608,7 @@ module.exports = {
         "sm:aspect-8-5x11",
         "sm:aspect-11x8-5",
         "sm:aspect-1x1",
+        "sm:aspect-9x16",
         "sm:pr-6",
         "sm:pr-8",
         "object-contain",
