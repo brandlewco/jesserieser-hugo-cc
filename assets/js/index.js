@@ -704,18 +704,13 @@ function init() {
 
   // Function to check if the body does not have specific classes
   function isNotSpecialPage() {
-    return !document.body.classList.contains('page-overview') &&
-           !document.body.classList.contains('page-current-works') &&
-           !document.body.classList.contains('page-say-hello') &&
-           !document.body.classList.contains('overview');
-  }
+    return !document.body.classList.contains('page-jesse-rieser') &&
+           !document.body.classList.contains('page-say-hello');  }
 
   // Function to check if the body has specific classes (for special pages)
   function isSpecialPage() {
-    return document.body.classList.contains('page-overview') ||
-          document.body.classList.contains('page-current-works') ||
-          document.body.classList.contains('page-say-hello') ||
-          document.body.classList.contains('overview');
+    return document.body.classList.contains('page-jesse-rieser') ||
+          document.body.classList.contains('page-say-hello');
   }
 
   // Set initial colors based on data-hue

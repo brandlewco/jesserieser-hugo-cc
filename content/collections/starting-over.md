@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: "Starting Over: Will Move For Work 2009 - 2010"
-title: "Starting Over: Will Move For Work"
-collection_meta: 2009 - 2010
-collection_meta_2:
+title: Starting Over
+collection_meta: Will Move For Work
+collection_meta_2: 2009 - 2010
 collection_description: >-
   This is a story about transition. About the things we lose, and the memories
   we keep. In 2009, my parents Rob and Stephanie Rieser left Springfield,
@@ -17,164 +17,211 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#D0E5CB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-1.jpg
+    width: "40"
+    margin_y: "100"
     margin_left: "55"
     margin_right: "0"
-    margin_y: "100"
-    width: "40"
+    align_y: center
+    color: "#D0E5CB"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#C19E88"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-3.jpg
-    margin_y: "700"
     width: "33"
-  - _bookshop_name: collections/media-element
-    color: "#FBA093"
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg
+    margin_y: "700"
     margin_left: "0"
     margin_right: "0"
-    margin_y: "100"
+    align_y: center
+    color: "#C19E88"
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-2.jpg
     width: "60"
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    color: "#ECD1BA"
-    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-4.jpg
-    margin_left: "15"
     margin_y: "100"
-    width: "40"
+    margin_left: "0"
+    margin_right: "0"
+    align_y: start
+    color: "#fba093"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#B7DCB6"
+    image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-4.jpg
+    width: "40"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
+    align_y: center
+    color: "#ECD1BA"
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
+    width: "70"
+    margin_y: "100"
     margin_left: "25"
     margin_right: "0"
-    margin_y: "100"
-    width: "70"
+    align_y: center
+    color: "#B7DCB6"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#F0F0C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-6.jpg
+    width: "33"
+    margin_y: "100"
     margin_left: "5"
     margin_right: "0"
-    margin_y: "100"
-    width: "33"
+    align_y: start
+    color: "#f0f0c8"
+    caption:
   - _bookshop_name: collections/media-element
-    color: "#889C81"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-7.jpg
+    width: "40"
+    margin_y: "700"
     margin_left: "0"
     margin_right: "15"
-    margin_y: "700"
-    width: "40"
+    align_y: center
+    color: "#889C81"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#EDCBA7"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-8.jpg
+    width: "40"
+    margin_y: "500"
     margin_left: "25"
     margin_right: "0"
-    margin_y: "500"
-    width: "40"
+    align_y: start
+    color: "#edcba7"
+    caption:
   - _bookshop_name: collections/media-element
-    color: "#E5CDBE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-9.jpg
-    margin_right: "5"
-    margin_y: "100"
     width: "20"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
+    align_y: start
+    color: "#e5cdbe"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#BDD493"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-10.jpg
+    width: "40"
+    margin_y: "100"
     margin_left: "5"
     margin_right: "0"
-    margin_y: "100"
-    width: "40"
+    align_y: center
+    color: "#BDD493"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#E2F0EC"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
-    margin_left: "30"
-    margin_y: "100"
     width: "66"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
+    align_y: center
+    color: "#E2F0EC"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#CDD2EB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-12.jpg
+    width: "33"
+    margin_y: "300"
     margin_left: "20"
     margin_right: "0"
-    margin_y: "300"
-    width: "33"
+    align_y: start
+    color: "#cdd2eb"
+    caption:
   - _bookshop_name: collections/media-element
-    color: "#C3DEE5"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-13.jpg
-    margin_right: "10"
-    margin_y: "100"
     width: "25"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "10"
+    align_y: start
+    color: "#c3dee5"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#DBD8D8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-14.jpg
-    margin_left: "5"
-    margin_y: "300"
     width: "20"
+    margin_y: "300"
+    margin_left: "5"
+    margin_right: "0"
+    align_y: start
+    color: "#dbd8d8"
+    caption:
   - _bookshop_name: collections/media-element
-    color: "#E3E3D9"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-15.jpg
+    width: "33"
+    margin_y: "100"
     margin_left: "0"
     margin_right: "35"
-    margin_y: "100"
-    width: "33"
+    align_y: start
+    color: "#e3e3d9"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#E4ECEB"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-16.jpg
+    width: "66"
+    margin_y: "100"
     margin_left: "15"
     margin_right: "0"
-    margin_y: "100"
-    width: "66"
+    align_y: center
+    color: "#E4ECEB"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#E8E1D4"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-17.jpg
+    width: "45"
+    margin_y: "100"
     margin_left: "25"
     margin_right: "0"
-    margin_y: "100"
-    width: "45"
+    align_y: center
+    color: "#E8E1D4"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#DAEDFD"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-18.jpg
+    width: "50"
+    margin_y: "100"
     margin_left: "5"
     margin_right: "0"
-    margin_y: "100"
-    width: "50"
+    align_y: start
+    color: "#daedfd"
+    caption:
   - _bookshop_name: collections/media-element
-    color: "#DCE4E8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-19.jpg
+    width: "40"
+    margin_y: "700"
     margin_left: "0"
     margin_right: "0"
-    margin_y: "700"
-    width: "40"
+    align_y: start
+    color: "#dce4e8"
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    color: "#F0EEE2"
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-20.jpg
+    width: "60"
+    margin_y: "100"
     margin_left: "20"
     margin_right: "0"
-    margin_y: "100"
-    width: "60"
+    align_y: center
+    color: "#F0EEE2"
+    caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/startingover-5.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-32.jpg
@@ -226,36 +273,36 @@ collection_content: >-
   and commitment.
 collection_awards:
   - content: >-
-      <strong>2012</strong><br>
-      <em>Photolucida's Critical Mass</em><br>
+      <strong>2012</strong><br> <em>Photolucida's Critical Mass</em><br>
       Finalist: Top International Project
   - content: >-
-      <strong>2011</strong><br>  
-      <em>Filter Photo Festival Official Selection</em>
+      <strong>2011</strong><br>   <em>Filter Photo Festival Official
+      Selection</em>
 collection_press:
   - content: >-
-      <a href="http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser"><strong>Landscape
+      <a
+      href="http://landscape-stories.tumblr.com/post/112393878318/ls-18-family-submission-jesse-rieser"><strong>Landscape
       Stories</strong></a>
   - content: >-
-      <a href="http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/"><strong>OITZARISME: Romanian Online Magazine on
-      Photography</strong></a>
+      <a
+      href="http://www.oitzarisme.ro/2011/07/04/jesse-rieser-starting-over/"><strong>OITZARISME:
+      Romanian Online Magazine on Photography</strong></a>
   - content: _Nacione_
 collection_exhibition:
   - content: >-
-      <strong>2012</strong><br>  
-      <em>Guate Photo Festival: \[DOT\]COM</em><br>  
-      La Fototeca Gallery. Guatemala City (Group Show)
+      <strong>2012</strong><br>   <em>Guate Photo Festival:
+      \[DOT\]COM</em><br>   La Fototeca Gallery. Guatemala City (Group Show)
   - content: >-
-      <strong>2011</strong><br> 
-      <em>Filter Photo Jurried Exhibition</em><br> 
+      <strong>2011</strong><br>  <em>Filter Photo Jurried Exhibition</em><br> 
       Black Cloud Gallery. Chicago, IL (Group Show)
   - content: >-
-      <strong>2011</strong><br> 
-      <em>Art Director’s Club Young Guns 9 Exhibition</em><br>
+      <strong>2011</strong><br>  <em>Art Director’s Club Young Guns 9
+      Exhibition</em><br>
 
-      Art Director’s Club Gallery.<br>   
-      New York, NY. (Group Show)
-collection_archive: true
+      Art Director’s Club Gallery.<br>    New York, NY. (Group Show)
+collection_overview: false
+collection_grid: false
+collection_archive: false
 collection_hidden: false
 hide_footer: false
 navigation_theme: white

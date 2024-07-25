@@ -348,11 +348,13 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_description: A student of subtleties.
+collection_description:
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
 row_alignment: between
+hide_footer: true
+hide_header: true
 selected_works_theme:
   - template: ''
     image: https://d1sf55qlb7p6hz.cloudfront.net/personal_horizontal-1.jpg

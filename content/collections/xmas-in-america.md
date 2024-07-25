@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
-title: 'Christmas In America: Happy Birthday, Jesus'
-collection_meta: "2010 - \_2022"
-collection_meta_2: ''
+title: Christmas In America
+collection_meta: ' Happy Birthday, Jesus'
+collection_meta_2: "2010 - \_2022"
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
   of the ways people mark the holiday’s meaning. This Christmas is complex and
@@ -30,8 +30,11 @@ collection_blocks:
     margin_left: '15'
     margin_right: '0'
     align_y:
-    color: '#EDEFF2'
-    caption: <strong>Deflation.</strong> <em>Tempe, AZ. 2016 Residence</em></p>
+    color: '#edeff2'
+    caption: |-
+      &nbsp;
+
+      &nbsp;
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -102,9 +105,7 @@ collection_blocks:
     margin_right: '5'
     align_y:
     color: '#eefbe7'
-    caption: >-
-      <p><strong>Mikey.</strong> <em>Windcrest, TX. 2016. Grunwald
-      Residence.</em></p>
+    caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -776,8 +777,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-34.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-22.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers07-4.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
@@ -837,7 +838,7 @@ collection_content: >-
 collection_awards:
   - content: >-
       <strong>2017</strong><br>  <em>Communication Arts Photography
-      Annual</em><br>  Winner: Best Unpublished Series_
+      Annual</em><br>  Winner: Best Unpublished Series
   - content: >-
       <strong>2017</strong><br>   <em>AP 33 American Photography Annual
       33</em><br> Winner: Best Personal Work Series
@@ -1036,6 +1037,7 @@ collection_exhibition:
       Juried by Ann Lyden, Assoc. Curator of J. Paul Getty Museum, Los
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
 collection_overview: false
+collection_grid: false
 collection_archive: false
 collection_hidden: false
 hide_footer: false
