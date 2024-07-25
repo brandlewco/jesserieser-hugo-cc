@@ -52,7 +52,7 @@ content_blocks:
     margin_left: '50'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#ffc0c0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -111,7 +111,7 @@ content_blocks:
     margin_left: '15'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#edfbb8'
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee and Jesse Rieser
@@ -127,7 +127,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '30'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#cbe5ff'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -185,7 +185,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '10'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#fdd5b1'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -270,7 +270,7 @@ content_blocks:
     margin_left: '40'
     margin_right: '0'
     meta_align: left
-    theme_color: '#000000'
+    theme_color: '#dbdbdb'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-text
