@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: The Changing Landscape of American Retail 2015 - 2022
+  meta_title: Rising Seas Are Wiping Out Some Older Americans' Futures
 title: AARP
 collection_meta: Washed Away
 collection_meta_2: Rising Seas Are Wiping Out Some Older Americans' Futures
@@ -28,7 +28,7 @@ collection_blocks:
     vimeo_id: 960736431
     text: Vimeo
     color: '#ff0000'
-    show_controls: false
+    show_controls: true
     block_aspect_ratio: 16x9
     width: '80'
     align_y: start
