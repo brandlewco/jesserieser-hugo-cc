@@ -140,17 +140,15 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+  - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-1.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-2.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-3.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-4.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-5.jpg
-  - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/candella-installs-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-4.jpg
 attached: true
 attached_collection: collections/vanishing-folklore-2.md
 attached_link:
