@@ -14,7 +14,7 @@ theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: 'Advertising, Commercial, & Covers '
 header_col_1: >-
-  <p>Managed by </p><p>Brian Flink<br /><a href="mailto:brian@wschupfer.com"
+  <p>Managed by Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br />646 234 4532
   (direct)</p><p></p>
 header_col_2_title: 'Editorial, Exhibition, Syndication, & Press '
