@@ -25,7 +25,7 @@ header_col_2: >-
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
-header_col_3_title: Stock Licensing
+header_col_3_title: Stock & Licensing
 header_col_3: >-
   <p><a href="https://www.gallerystock.com/" target="_blank"
   rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
