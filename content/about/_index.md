@@ -12,20 +12,26 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: 'Advertising, Commercial, & Covers '
+header_col_1_title: >-
+  'Advertising, Commercial, & Covers '
 header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)<br />New York &amp; Los Angeles</p><p></p>
-header_col_2_title: 'Editorial, Exhibition, Syndication, & Press '
+header_col_2_title: >-
+  Editorial, Exhibition,
+
+
+  Syndication, & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
-header_col_3_title: Stock & Licensing
+header_col_3_title: >-
+  Stock & Licensing
 header_col_3: >-
   <p><a href="https://www.gallerystock.com/" target="_blank"
   rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
