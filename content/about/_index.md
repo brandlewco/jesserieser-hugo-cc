@@ -1279,7 +1279,7 @@ about_blocks:
     caption_css:
   - _bookshop_name: about/media-row-end
   - _bookshop_name: about/media-element-static
-    image: /bio_illustration-1.jpg
+    image: /01_article.jpg
     title:
     caption: test caption
     width: '30'
