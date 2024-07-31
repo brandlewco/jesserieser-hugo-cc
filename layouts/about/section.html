@@ -32,10 +32,21 @@
                 {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
             </div>
         </section>
-        <footer class="px-4 lg:px-24 py-10 flex flex-wrap bg-white  border-top-px border-solid border-black">
-            {{ range .Params.footer_links }}
-                <a href="{{ .link_url }}" class="w-full md:w-1/4 lg:w-1/5 text-black text-xs tracking-loose" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
-            {{ end }}
+        <footer class="w-full flex flex-col-reverse sm:flex-row px-4 lg:px-24 mt-24">
+            <figure class="relative flex flex-row w-full sm:w-1/3 justify-start items-baseline">
+                <figcaption class="text-xs tracking-widest h-auto whitespace-nowrap absolute left-0 bottom-0 z-999" data-sal="slide-down" data-sal-delay="600" style="left:-15px;">{{.Params.about_bio_doodle_credit}}</figcaption>
+                <img class="lazyload opacity-100 sm:opacity-50 " data-src="{{.Params.about_footer_illustration}}" alt="" data-rellax-speed="2" data-rellax-xs-speed="1">
+            </figure>
+            <div class="w-full sm:w-2/3 z-999">
+                <aside class="grid grid-cols-2 gap-y-0 gap-x-4 w-fit">
+                {{ range .Params.footer_links }}
+                    <a href="{{ .link_url }}" class=" text-black text-xs tracking-loose whitespace-nowrap" alt="link to - {{ .link_title }}">{{ .link_title }}</a>               
+                {{ end }}
+                </aside>
+                <div class="sm:pl-40 mt-24 lg:max-w-4xl">
+                    {{.Params.about_footer_quotes | markdownify}}
+                </div>
+            </div>
         </footer>
 </section>
 {{- end -}}

@@ -531,6 +531,12 @@ _inputs:
     type: text
   header_col_3:
     type: html
+  about_footer_image_credit:
+    type: text
+  about_footer_illustration:
+    type: image
+  about_footer_quotes:
+    type: markdown
   attached_collection:
     type: select
     options:

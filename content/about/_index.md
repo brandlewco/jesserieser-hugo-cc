@@ -9,17 +9,19 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/info-2.jpg
 slug: about
-collection_description: ''
-theme_color: '#bde6c5'
+collection_description: ""
+theme_color: "#bde6c5"
 navigation_theme: black
-header_col_1_title: '''Advertising, Commercial, & Covers '''
+header_col_1_title: >-
+  'Advertising, Commercial, & Covers '
 header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)<br />New York &amp; Los Angeles</p><p></p>
-header_col_2_title: |-
+header_col_2_title: >-
   Editorial, Exhibition,
+
 
   Syndication, & Press
 header_col_2: >-
@@ -28,7 +30,8 @@ header_col_2: >-
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
-header_col_3_title: Stock & Licensing
+header_col_3_title: >-
+  Stock & Licensing
 header_col_3: >-
   <p><a href="https://www.gallerystock.com/" target="_blank"
   rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
@@ -78,10 +81,10 @@ about_blocks:
     title: Clients
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
-    width: '20'
-    color: '#000000'
-    modal_color: '#d5e3f6'
-    text_color: '#080708'
+    width: "20"
+    color: "#000000"
+    modal_color: "#d5e3f6"
+    text_color: "#080708"
     text_size: lg
     line_height: normal
     text_alignment: center
@@ -89,12 +92,12 @@ about_blocks:
     font_weight: hairline
     meta_align: right
     align_y: start
-    margin_y: '650'
-    margin_left: '5'
-    margin_right: '0'
-    title_margin_y: '20'
-    title_margin_left: '35'
-    title_margin_right: '0'
+    margin_y: "650"
+    margin_left: "5"
+    margin_right: "0"
+    title_margin_y: "20"
+    title_margin_left: "35"
+    title_margin_right: "0"
     modal_block:
       - content: <strong>AARP</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__aarp.png
@@ -269,10 +272,10 @@ about_blocks:
     title: Press & Interviews
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
-    width: '20'
-    color: '#000000'
-    modal_color: '#ddc4e7'
-    text_color: '#000000'
+    width: "20"
+    color: "#000000"
+    modal_color: "#ddc4e7"
+    text_color: "#000000"
     text_size: lg
     line_height: normal
     text_alignment: center
@@ -280,12 +283,12 @@ about_blocks:
     font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '0'
-    title_margin_y: '40'
-    title_margin_left: '25'
-    title_margin_right: '0'
+    margin_y: "450"
+    margin_left: "0"
+    margin_right: "0"
+    title_margin_y: "40"
+    title_margin_left: "25"
+    title_margin_right: "0"
     align_x: start
     modal_block:
       - content: >-
@@ -716,10 +719,10 @@ about_blocks:
     title: Awards
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
-    width: '20'
-    color: '#000000'
-    modal_color: '#fad267'
-    text_color: '#020202'
+    width: "20"
+    color: "#000000"
+    modal_color: "#fad267"
+    text_color: "#020202"
     text_size: lg
     line_height: normal
     text_alignment: center
@@ -727,38 +730,38 @@ about_blocks:
     font_weight: hairline
     meta_align: right
     align_y: start
-    margin_y: '250'
-    margin_left: '0'
-    margin_right: '0'
-    title_margin_y: '55'
-    title_margin_left: '35'
-    title_margin_right: '0'
+    margin_y: "250"
+    margin_left: "0"
+    margin_right: "0"
+    title_margin_y: "55"
+    title_margin_left: "35"
+    title_margin_right: "0"
     align_x: start
     modal_block:
       - content: >-
           <p><strong>2024</strong><br />AP 40: American Photography Annual<br
           />Best Editorial Series:<br /><em>Outdoor Life</em> "A Son's First
           Solo Hunt"</p>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2023</strong><br />AP 39: American Photography Annual<br
           />Best Editorial Series:<br /><em>Barron&apos;s</em> "Beyond The
           Drought"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2023</strong><br>Communication Arts Photography Annual Short
           List<br>Best Editorial Series:<br><em>Amtrak The National</em> "Tucson
           to El Paso On The Desert Eagle"&nbsp;
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2023</strong><br>Communication Arts Photography Annual Short
           List<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Tucson to El
           Paso On The Desert Eagle"&nbsp;
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2023</strong><br>Spotlight Awards presented by Production
           Paradise<br>Architectural and Interior
@@ -767,230 +770,230 @@ about_blocks:
           Finalist:<br><em>People</em>&nbsp;"Remembering Layla"<br>Travel &
           Documentary Finalist:<br><em>ESPN</em> &nbsp;"A Wild Weekend at the
           Most Outrageous Hole in Golf"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>Communication Arts Photography Annual<br>Best
           "For Sale" Series:<br>"Antoine&apos;s Escalaras"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best
           Editorial Series:<br><em>Wired</em> “I’m Not a Soldier, but I Have
           Been Trained to Kill”
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>AP 38: American Photography Annual 38<br>Best
           Editorial Series:<br><em>Popular Mechanics</em> “Can Science Cure
           Death? It Sure Looks Like It.”
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>SPD Merit Winner<br><em>Barron&apos;s</em>
           "Vegas Presses It&apos;s Luck in the Postpandemic Era Cover Story" for
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>The Agents Club Awards<br>Finalist "Poetic
           Documentary"<br><em>The New York Times</em> "America is Reopening"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2022</strong><br>Spotlight Awards presented by Production
           Paradise<br>Architectural and Interior Finalist:<br><em>The New York
           Times</em> "Auctioning Off a Dead Mall"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2021</strong><br><em>AP 37: American Photography Annual
           37</em><br>Best Editorial Series:<br><em>The New York Times</em>
           "Auctioning Off a Dead Mall"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2020</strong><br>Klompching Gallery Fresh 2020<br>Winning
           Exhibitor<br><em>The Changing Landscape of American Retail</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2020</strong><br><em>AP 36: American Photography Annual
           36</em><br>Best Editorial Series:<br><em>Wired</em> "The Internet
           Giant That Went Too Far"
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2019</strong><br><em>AP 35: American Photography Annual
           35</em><br>Best Personal Work Series:<br><em>A Dystopian Legoland That
           Tastes Like Candy</em>"
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2019</strong><br>Photolucida Critical Mass<br>Finalist: Top
           200 International Project<br><em>A Vanishing American Folklore</em>"
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2018</strong><br>Photolucida Critical Mass<br>Winner: Top 50
           International Project<br><em>The Changing Landscape of American
           Retail</em>"
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2018</strong><br><em>PDN Photography Annual</em><br>Best
           Personal Work Series:<br><em>The Changing Landscape Of American
           Retail</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2018</strong><br><em>AP 34: American Photography Annual
           34</em><br>Best Personal Work Series:<br><em>Autobiography Of A
           Contact Sport</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2018 + 2017</strong><br><em>Luezer&apos;s Archive</em><br>200
           Best Best Ad Photographers Worldwide
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2017</strong><br><em>Communication Arts Photography
           Annual</em><br>Best Unpublished Series:<br><em>Christmas In America:
           Happy Birthday, Jesus</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2017</strong><br><em>AP 33: American Photography Annual
           33</em><br>Best Editorial Series:<br><em>Stalking A Serial
           Killer</em>"
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2017</strong><br><em>AP 33: American Photography Annual
           33</em><br>Best Personal Work Series:<br><em>Christmas In America:
           Happy Birthday, Jesus</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2016</strong><br><em>PDN Photography Annual</em><br>Best For
           Sale Photography:<br><em>Sounds of Cement</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2016</strong><br><em>AP 32: American Photography Annual
           32</em><br>Best Editorial Photography:<br><em>Gioia</em> for
           <em>Hearst Italia</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2016</strong><br><em>AP 32: American Photography Annual
           32</em><br>Best Editorial Photography:<br><em>Unbridled Spirit</em>
           for <em>Phoenix Home & Garden</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2015</strong><br><em>PDN Photography Annual</em><br>Best
           Editorial Series:<br><em>When Fall Came Early</em> for MSNBC"
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2015</strong><br>Photolucida Critical Mass<br>Finalist: Top
           200 International Project<br><em>When Fall Came Early</em>
-        url: ''
-        icon: ''
+        url: ""
+        icon: ""
       - content: >-
           <strong>2014</strong><br><em>AP 30: American Photography Annual
           30</em><br>Best Personal Work Series:<br><em>When Fall Came Early</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2014 + 2013</strong><br><em>Luezer’s Archive</em><br>200 Best
           Ad Photographers Worldwide
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2013</strong><br>Photolucida Critical Mass Winner<br>Top 50
           International Project<br><em>The Wallow Fire</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2012</strong><br><em>Communications Arts Photography
           Annual</em><br>Best Self Promotional Series:<br><em>Christmas In
           America: Happy Birthday, Jesus</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2012</strong><br>Magenta Foundation Flash Forward
           Winner<br>Top Emerging Fine Art Photographer In North America and U.K.
           Under 34
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2012</strong><br>Photolucida Critical Mass<br>Finalist: Top
           200 International Project<br><em>Starting Over: Will Move For
           Work</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: <strong>2012</strong><br><em>PDN 30</em><br>Finalist
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br><em>Art Director’s Club Young Guns
           9</em><br>Top International Creative 30 & Under
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br><em>PDN Photography Annual</em><br>Best
           Personal Work Series:<br><em>Christmas In America: Happy Birthday,
           Jesus</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br><em>AP 27: American Photography Annual
           27</em><br>Best Personal Work Series:<br><em>Christmas In America:
           Happy Birthday, Jesus</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br><em>AP 27: American Photography Annual
           27</em><br>Best Editorial Series:<br><em>Sex Church</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br>Center&apos;s Review Santa Fe 100<br><em>The
           Class of 99 Turns 30</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2011</strong><br><em>The 10 Most Exciting Photographers This
           Year</em><br>Phoenix Art Museum<br>CCP Curator Rebecca Senf Ph.D. &
           Mary Virginia Swanson
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2010</strong><br><em>AP 26: American Photography Annual
           26</em><br>Best Personal Work Series:<br><em>The Class of 99 Turns
           30</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2008</strong><br><em>PDN Photography Annual</em><br>Best
           Advertising Work:<br>Phoenix Children&apos;s Hospital for Santy
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
       - content: >-
           <strong>2008</strong><br><em>PDN Photography Annual</em><br>Best
           Personal Work Series:<br><em>Spaceman & Baby</em>
-        icon: ''
-        url: ''
+        icon: ""
+        url: ""
   - _bookshop_name: about/modal-list
     title: Exhibitions
     image: https://d1sf55qlb7p6hz.cloudfront.net/240_offwhite-1.jpg
     meta:
-    width: '20'
-    color: '#010101'
-    modal_color: '#77ddd4'
-    text_color: '#000000'
+    width: "20"
+    color: "#010101"
+    modal_color: "#77ddd4"
+    text_color: "#000000"
     text_size: lg
     line_height: normal
     text_alignment: center
@@ -998,12 +1001,12 @@ about_blocks:
     font_weight: hairline
     meta_align: left
     align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    title_margin_y: '65'
-    title_margin_left: '30'
-    title_margin_right: '0'
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "5"
+    title_margin_y: "65"
+    title_margin_left: "30"
+    title_margin_right: "0"
     align_x: start
     modal_block:
       - content: >-
@@ -1217,101 +1220,6 @@ about_blocks:
           Existence</em><br>Hendershot Gallery.<br>New York, NY (Group Show)
         icon:
         url:
-  - _bookshop_name: about/media-row
-    row_alignment: between
-  - _bookshop_name: about/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
-    title:
-    caption: test caption
-    width: '30'
-  - _bookshop_name: about/media-text
-    text: >-
-      <a href="https://www.instagram.com/jesserieser/" target="_blank"
-      rel="noopener">Instagram</a><br><br><a
-      href="https://www.linkedin.com/in/jesserieser" target="_blank"
-      rel="noopener">LinkedIn</a><br><br><a href="https://x.com/jesserieser"
-      target="_blank" rel="noopener">Twitter</a><br><br><a
-      href="https://www.threads.net/@jesserieser" target="_blank"
-      rel="noopener">Threads</a><br><br><a
-      href="https://www.behance.net/jesserieser" target="_blank"
-      rel="noopener">Behance</a><br><br>[WNW](https://workingnotworking.com/6282-jesse)
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: base
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    width: '70'
-    align_y: start
-    margin_y: '-100'
-    margin_left: '0'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
-  - _bookshop_name: about/media-text
-    text: >-
-      “I’ve worked with tons of photographers that can’t make something great
-      out of nothing. You made gold from a blank canvas. Thank you.”
-      -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
-
-
-      "It’s no easy task to enter the world of contemporary art color
-      photography, but you have successfully done so with your own unique
-      voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
-      Architectural Press*
-
-
-      “This shoot would not have been such a success without your attention to
-      detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
-      Senior Art Producer, Anomaly New York*
-
-
-      "When you hire a photographer, you're not just paying for the final
-      product images; you're buying the experience of working with that person.
-      You're hiring a temporary teammate who's going to help you solve problems
-      and deal with logistical challenges, and hopefully do it in a manner that
-      makes the experience easier and hopefully, fun. As a one-man photo
-      department, I need photographers who will take the reigns of the
-      production and don't need much hand-holding. Jesse covers all those bases
-      and more. Working with him is a pleasure. He just gets it, especially when
-      it comes to editorial. Most of all, he rolls with the punches, adjusts on
-      the fly, and never stops being a good collaborator. On top of that, you
-      wind up having some fun chats in the process. I look forward to working
-      with Jesse again soon." - *John Toolan Photography Director Field & Stream
-      /&nbsp;Outdoor Life /&nbsp;Popular Science*
-
-
-      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
-      Producer RPA Los Angeles*
-
-
-      “Jesse has defined his own style in a way that sets him apart. His candy
-      colors are delectable, his eye for composition so precise and the way he
-      marries the perfect light to each situation is nothing short of masterful.
-      I know whenever we work together, he will return with engaging images that
-      surpass the expectations of the assignment and encourage people to pause
-      and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
-      of Photography \| Barron's & Penta*
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: base
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    width: '70'
-    align_y: start
-    margin_y: '-100'
-    margin_left: '0'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram
@@ -1337,11 +1245,56 @@ footer_links:
     link_url: https://workingnotworking.com/6282-jesse
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
-about_bio_image_credit: © Mike Lundgren
+about_footer_image_credit: © Mike Lundgren
+about_footer_illustration: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
+about_footer_quotes: >-
+  “I’ve worked with tons of photographers that can’t make something great
+  out of nothing. You made gold from a blank canvas. Thank you.”
+  -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
+
+
+  "It’s no easy task to enter the world of contemporary art color
+  photography, but you have successfully done so with your own unique
+  voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
+  Architectural Press*
+
+
+  “This shoot would not have been such a success without your attention to
+  detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
+  Senior Art Producer, Anomaly New York*
+
+
+  "When you hire a photographer, you're not just paying for the final
+  product images; you're buying the experience of working with that person.
+  You're hiring a temporary teammate who's going to help you solve problems
+  and deal with logistical challenges, and hopefully do it in a manner that
+  makes the experience easier and hopefully, fun. As a one-man photo
+  department, I need photographers who will take the reigns of the
+  production and don't need much hand-holding. Jesse covers all those bases
+  and more. Working with him is a pleasure. He just gets it, especially when
+  it comes to editorial. Most of all, he rolls with the punches, adjusts on
+  the fly, and never stops being a good collaborator. On top of that, you
+  wind up having some fun chats in the process. I look forward to working
+  with Jesse again soon." - *John Toolan Photography Director Field & Stream
+  /&nbsp;Outdoor Life /&nbsp;Popular Science*
+
+
+  “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
+  Producer RPA Los Angeles*
+
+
+  “Jesse has defined his own style in a way that sets him apart. His candy
+  colors are delectable, his eye for composition so precise and the way he
+  marries the perfect light to each situation is nothing short of masterful.
+  I know whenever we work together, he will return with engaging images that
+  surpass the expectations of the assignment and encourage people to pause
+  and&nbsp;*see*&nbsp;differently." - *Sarina
+  Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
+  of Photography \| Barron's & Penta*
 cv: >-
   https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
 about_bio_doodle_credit: Portrait by © Lapo
-cv_color: '#ff5858'
+cv_color: "#ff5858"
 date: 2017-11-02T23:00:00Z
 hide_footer: true
 hide_header: true
