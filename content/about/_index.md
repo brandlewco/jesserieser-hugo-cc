@@ -1285,7 +1285,7 @@ about_blocks:
     caption_css:
   - _bookshop_name: about/media-row-end
   - _bookshop_name: about/media-element-static
-    image: /01_article.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
     title:
     caption: test caption
     width: '30'
