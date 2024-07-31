@@ -380,13 +380,16 @@ figure[data-sal] a {
   overflow: hidden;
   display: block;
  }
+
+ body.gallery-closed .figure.block-hover[data-sal|="image"]{
+  background: #fff !important;
+}
+
  
  [data-sal|="image"] img {
    opacity: 0;
    transition-property: opacity, transform;
    transition-duration: 0.4s;
-   /* transform: scale(1.1); */
-   /* transition-delay: 0.2s; */
  }
  
  [data-sal|="image"] figcaption {

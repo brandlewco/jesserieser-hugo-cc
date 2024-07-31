@@ -17,8 +17,8 @@
       data-parent-fit="cover" alt="{{.title }} - blog post cover image"/>
     {{end}}
     <div class="absolute top-0 left-0 h-full w-full flex flex-col justify-center p-4 sm:p-2">
-        <h1 class="text-lg {{with .text_size}}lg:text-{{.}}{{else}}lg:text-2xl{{end}} opacity-100 lg:opacity-0 text-center tracking-widest">{{.title}}</h1>
-        <h2 class="text-base opacity-100 lg:opacity-0  text-center tracking-widest">{{.caption}}</h2>
+        <h1 class="text-lg {{with .text_size}}lg:text-{{.}}{{else}}lg:text-2xl{{end}} opacity-100 lg:opacity-0 text-center tracking-widest " style="pointer-events: none;">{{.title}}</h1>
+        <h2 class="text-base opacity-100 lg:opacity-0  text-center tracking-widest" style="pointer-events: none;">{{.caption}}</h2>
     </div>
   </button>
   {{ if site.Params.env_bookshop_live }}
