@@ -1,9 +1,9 @@
 # Metadata about this component, to be used in the CMS
 spec:
   structures:
-    - post_blocks
-  label: Media Element
-  description: Image element for collection gallery.
+    - about_blocks
+  label: Image Element
+  description: 
   preview:
     image:
       - key: image
@@ -12,7 +12,7 @@ spec:
       - No Caption
     subtext:
       - key: width
-  tags: ["posts"]
+  tags: ["about"]
 
 # Defines the structure of this component, as well as the default values
 blueprint:
