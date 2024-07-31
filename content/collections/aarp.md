@@ -38,7 +38,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-1.jpg
+    image: /bio_illustration-1+copy.jpeg
     width: '50'
     margin_y: '100'
     margin_left: '25'
