@@ -13,7 +13,7 @@ collection_description: ""
 theme_color: "#bde6c5"
 navigation_theme: black
 header_col_1_title: >-
-  'Advertising, Commercial, & Covers '
+  Advertising, Commercial, & Covers
 header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
@@ -1224,25 +1224,24 @@ about_blocks:
 footer_links:
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
-  - link_title: Twitter
-    link_url: https://twitter.com/jesserieser
-  - link_title: The Agents Club
-    link_url: https://theagents.club/jesse-rieser/
   - link_title: LinkedIn
     link_url: https://www.linkedin.com/in/jesserieser/
+  - link_title: Twitter
+    link_url: https://twitter.com/jesserieser
+  - link_title: Threads
+    link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
+  - link_title: WNM
+    link_url: https://workingnotworking.com/6282-jesse 
   - link_title: Gallery Stock
-    link_url: >-
-      https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
-  - link_title: Production Paradise
-    link_url: https://www.productionparadise.com/member/los_angeles/jesse-rieser.html
+    link_url: https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
   - link_title: LensCulture
     link_url: https://www.lensculture.com/jesse-rieser
-  - link_title: Facebook
-    link_url: https://www.facebook.com/jesse.rieser
-  - link_title: Working NotWorking
-    link_url: https://workingnotworking.com/6282-jesse
+  - link_title: The Agents Club
+    link_url: https://theagents.club/jesse-rieser/
+  - link_title: Production Paradise
+    link_url: https://www.productionparadise.com/member/los_angeles/jesse-rieser.html
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
 about_footer_image_credit: © Mike Lundgren

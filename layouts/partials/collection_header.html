@@ -10,21 +10,21 @@
     {{ if or (.Params.hide_header) (.Params.collection_overview) }}
     <section class="w-full flex flex-row justify-center mb-0 pb-0">    
          <div id="page-title" class="mt-32 sm:mt-40 z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 font-medium text-center text-{{.Params.navigation_theme}} initial-black" style="width: fit-content">
-            <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
+            <h1 data-cms-bind="#title" class="text-xs sm:text-sm tracking-widest leading-tight uppercase w-full pb-2 pb-2 sm:pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
                 {{.Title}}
             </h1>
-            <div class="loading-container w-full {{ if or .Params.collection_meta .Params.collection_meta_2 }}pb-4{{end}}">
+            <div class="loading-container w-full {{ if or .Params.collection_meta .Params.collection_meta_2 }}pb-2 sm:pb-4{{end}}">
                 <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
             </div>
             {{ if or .Params.collection_meta .Params.collection_meta_2 }}
             <div id="meta-container" class="flex flex-col w-full items-center justify-between text-center">
                 {{ with .Params.collection_meta }}
-                    <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow initial-black text-center self-center" data-sal="slide-down" data-sal-delay="1200">
+                    <h2 data-cms-bind="#collection_meta" class="text-xs sm:text-sm font-medium tracking-widest uppercase flex-grow initial-black text-center self-center" data-sal="slide-down" data-sal-delay="1200">
                         {{ . }}
                     </h2>
                 {{ end }}
                 {{ with .Params.collection_meta_2 }}
-                    <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 sm:pl-32 pt-4 sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
+                    <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 sm:pl-32 pt-2 sm:pt-4 sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                         {{ . }}
                     </h3>
                 {{ end }}
@@ -56,20 +56,20 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="35" height="35"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M250.3 397.7c3.1 3.1 8.2 3.1 11.3 0l216-216c3.1-3.1 3.1-8.2 0-11.3s-8.2-3.1-11.3 0L256 380.7 45.7 170.3c-3.1-3.1-8.2-3.1-11.3 0s-3.1 8.2 0 11.3l216 216z" style="fill: {{.Params.navigation_theme}}" class="arrow-down"/></svg>
         </div>
         <div id="page-title" class="fixed z-50 flex flex-col gap-x-2 margin-0 left-0 right-0 px-4 lg:pl-64 font-medium text-left w-full sm:w-fit text-{{.Params.navigation_theme}} initial-black" style="top: 50%; transform: translate3d(0, -50%, 0);">
-            <h1 data-cms-bind="#title" class="text-sm tracking-widest leading-tight uppercase w-full pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
+            <h1 data-cms-bind="#title" class="text-xs sm:text-sm tracking-widest leading-tight uppercase w-full pb-2 sm:pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000">
                 {{.Title}}
             </h1>
-            <div class="loading-container w-full pb-4">
+            <div class="loading-container w-full pb-2 sm:pb-4">
                 <div class="loading bg-{{.Params.navigation_theme}} initial-black-bg p-0 m-0 h-px " data-sal="loading" style="width: 100%; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
             </div>
             <div id="meta-container" class="flex flex-col sm:flex-row w-full items-start sm:items-center {{ if and .Params.collection_meta .Params.collection_meta_2 }}justify-between{{ else if .Params.collection_meta }}justify-start{{ else if .Params.collection_meta_2 }}justify-end{{ end }} {{ if .Params.collection_description }}sm:min-w-2xl{{end}}">
                 {{ with .Params.collection_meta }}
-                    <h2 data-cms-bind="#collection_meta" class="text-sm font-medium tracking-widest uppercase flex-grow initial-black" data-sal="slide-down" data-sal-delay="1200">
+                    <h2 data-cms-bind="#collection_meta" class="text-xs sm:text-sm font-medium tracking-widest uppercase flex-grow initial-black" data-sal="slide-down" data-sal-delay="1200">
                         {{ . }}
                     </h2>
                 {{ end }}
                 {{ if .Params.collection_meta_2 }}
-                    <h3 data-cms-bind="#collection_meta_2" class="text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}self-start sm:self-end sm:pl-32 pt-4{{else}}self-end{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
+                    <h3 data-cms-bind="#collection_meta_2" class="text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}self-start sm:self-end sm:pl-32 pt-2 sm:pt-4{{else}}self-end{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                         {{ .Params.collection_meta_2 }}
                     </h3>
                 {{ end }}
