@@ -12,16 +12,14 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: >-
-  'Advertising, Commercial, & Covers '
+header_col_1_title: '''Advertising, Commercial, & Covers '''
 header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)<br />New York &amp; Los Angeles</p><p></p>
-header_col_2_title: >-
+header_col_2_title: |-
   Editorial, Exhibition,
-
 
   Syndication, & Press
 header_col_2: >-
@@ -30,8 +28,7 @@ header_col_2: >-
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
-header_col_3_title: >-
-  Stock & Licensing
+header_col_3_title: Stock & Licensing
 header_col_3: >-
   <p><a href="https://www.gallerystock.com/" target="_blank"
   rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
@@ -1221,7 +1218,39 @@ about_blocks:
         icon:
         url:
   - _bookshop_name: about/media-row
-    row_alignment: start
+    row_alignment: between
+  - _bookshop_name: about/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
+    title:
+    caption: test caption
+    width: '30'
+  - _bookshop_name: about/media-text
+    text: >-
+      <a href="https://www.instagram.com/jesserieser/" target="_blank"
+      rel="noopener">Instagram</a><br><br><a
+      href="https://www.linkedin.com/in/jesserieser" target="_blank"
+      rel="noopener">LinkedIn</a><br><br><a href="https://x.com/jesserieser"
+      target="_blank" rel="noopener">Twitter</a><br><br><a
+      href="https://www.threads.net/@jesserieser" target="_blank"
+      rel="noopener">Threads</a><br><br><a
+      href="https://www.behance.net/jesserieser" target="_blank"
+      rel="noopener">Behance</a><br><br>[WNW](https://workingnotworking.com/6282-jesse)
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    width: '70'
+    align_y: start
+    margin_y: '-100'
+    margin_left: '0'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: about/media-text
     text: >-
       “I’ve worked with tons of photographers that can’t make something great
@@ -1265,7 +1294,7 @@ about_blocks:
       I know whenever we work together, he will return with engaging images that
       surpass the expectations of the assignment and encourage people to pause
       and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
+      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
       of Photography \| Barron's & Penta*
     background_color: '#ffffff'
     background_image_toggle: false
@@ -1275,7 +1304,7 @@ about_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    width: '45'
+    width: '70'
     align_y: start
     margin_y: '-100'
     margin_left: '0'
@@ -1284,11 +1313,6 @@ about_blocks:
     image_css:
     caption_css:
   - _bookshop_name: about/media-row-end
-  - _bookshop_name: about/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
-    title:
-    caption: test caption
-    width: '30'
 footer_links:
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
