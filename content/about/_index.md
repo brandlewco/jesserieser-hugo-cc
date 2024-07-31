@@ -17,7 +17,7 @@ header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
-  (direct)</p><p></p>
+  (direct)<br />New York &amp; Los Angeles</p><p></p>
 header_col_2_title: 'Editorial, Exhibition, Syndication, & Press '
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
@@ -27,12 +27,12 @@ header_col_2: >-
   href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
 header_col_3_title: Stock Licensing
 header_col_3: >-
-  <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
-  Stock</a><br />190 Bowery<br />New York, NY 10012<br /><a
-  href="tel:+12122197520">212 219 7520</a><br /><a
-  href="mailto:newyork@gallerystock.com">newyork@gallerystock.com</a></p><p><a
-  href="mailto:PARIS@GALLERYSTOCK.COM">Paris</a><br /><a
-  href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a><br /><a
+  <p><a href="https://www.gallerystock.com/" target="_blank"
+  rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
+  /><a href="tel:+12122197520">212 219 7520</a><br /><a
+  href="mailto:newyork@gallerystock.com">newyork@gallerystock.com</a><br /><a
+  href="mailto:PARIS@GALLERYSTOCK.COM">Paris</a> <a
+  href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a> <a
   href="mailto:HELLO@SNAPPERIMAGES.COM">Sydney</a></p>
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/info_vert-1.jpg
