@@ -15,7 +15,8 @@ navigation_theme: black
 header_col_1_title: 'Advertising, Commercial, & Covers '
 header_col_1: >-
   <p>Managed by Brian Flink<br /><a href="mailto:brian@wschupfer.com"
-  target="_blank" rel="noopener">brian@wschupfer.com </a><br />646 234 4532
+  target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
+  href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)</p><p></p>
 header_col_2_title: 'Editorial, Exhibition, Syndication, & Press '
 header_col_2: >-
@@ -23,8 +24,8 @@ header_col_2: >-
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
-  href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
-  Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
+  href="tel:+3109859818">310 985 9818</a></p><p><br />Los Angeles, CA <br
+  />Phoenix, AZ </p>
 header_col_3_title: Stock Licensing
 header_col_3: >-
   <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
