@@ -12,15 +12,14 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: 'Advertising & Editorial '
+header_col_1_title: 'Advertising, Commercial, & Covers '
 header_col_1: >-
-  <p>Jesse Rieser<br />Instagram <a
-  href="https://www.instagram.com/jesserieser/" target="_blank"
-  rel="noopener">@jesserieser.com</a><br /><a
+  <p>Managed by Brian Flink<br /><a href="mailto:brian@wschupfer.com"
+  target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
   href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
   Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
-header_col_2_title: 'Exhibition, Syndication, & Press '
+header_col_2_title: 'Editorial, Exhibition, Syndication, & Press '
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
