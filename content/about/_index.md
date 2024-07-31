@@ -1284,6 +1284,11 @@ about_blocks:
     image_css:
     caption_css:
   - _bookshop_name: about/media-row-end
+  - _bookshop_name: about/media-element-static
+    image: /bio_illustration-1.jpg
+    title:
+    caption: test caption
+    width: '30'
 footer_links:
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
