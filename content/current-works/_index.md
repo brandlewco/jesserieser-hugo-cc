@@ -341,7 +341,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Golf Digest
+    meta: 'Golf Digest: Jack Vs. Nicklaus '
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
     width: '33'
