@@ -3,7 +3,7 @@
         {{ partial "collection_header" .}}
     </section>
     <section data-hue="page" class="mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
-        <div class="my-gallery {{ if .Params.collection_overview }}overview-gallery{{end}} {{ if .Params.collection_grid }}overview-grid{{end}} px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
+        <div class="my-gallery flex flex-wrap sm:flex-row {{ if .Params.collection_overview }}overview-gallery{{end}} {{ if .Params.collection_grid }}overview-grid{{end}} px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
                 {{ partial "bookshop_bindings" `.Params.collection_blocks` }} 
                 {{ partial "bookshop_partial" (slice "page" .Params.collection_blocks) }}
         </div>

@@ -410,6 +410,7 @@ module.exports = {
         "bg-black",
         "bg-white",
         "h-32",
+        "w-1/3",
         "w-10/100",
         "w-15/100",
         "w-20/100",
