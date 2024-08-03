@@ -1229,8 +1229,6 @@ footer_links:
     link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
-  - link_title: WNW
-    link_url: https://workingnotworking.com/6282-jesse
   - link_title: Gallery Stock
     link_url: >-
       https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
@@ -1240,6 +1238,8 @@ footer_links:
     link_url: https://theagents.club/jesse-rieser/
   - link_title: Production Paradise
     link_url: https://www.productionparadise.com/member/los_angeles/jesse-rieser.html
+  - link_title: Working Not Working
+    link_url: https://workingnotworking.com/6282-jesse
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
 about_footer_image_credit: © Mike Lundgren
