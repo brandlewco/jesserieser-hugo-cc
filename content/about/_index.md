@@ -1229,11 +1229,11 @@ footer_links:
     link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
+  - link_title: LensCulture
+    link_url: https://www.lensculture.com/jesse-rieser
   - link_title: Gallery Stock
     link_url: >-
       https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
-  - link_title: LensCulture
-    link_url: https://www.lensculture.com/jesse-rieser
   - link_title: The Agents Club
     link_url: https://theagents.club/jesse-rieser/
   - link_title: Production Paradise
