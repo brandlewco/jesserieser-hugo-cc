@@ -690,7 +690,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: BOOOOOOOM Feature
     caption: 'The New York Times: Auctioning Off a Dead Mall'
