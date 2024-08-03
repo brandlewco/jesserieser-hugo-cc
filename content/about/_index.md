@@ -1229,7 +1229,7 @@ footer_links:
     link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
-  - link_title: WNM
+  - link_title: WNW
     link_url: https://workingnotworking.com/6282-jesse
   - link_title: Gallery Stock
     link_url: >-
