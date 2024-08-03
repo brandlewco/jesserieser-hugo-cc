@@ -170,7 +170,7 @@ collection_blocks:
     color: '#f3e1d1'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-6.jpg
     width: '50'
     margin_y: '300'
     margin_left: '0'
@@ -287,7 +287,7 @@ collection_blocks:
     color: '#ebe3eb'
     caption:
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/swchief-16.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-13.jpg
 collection_filter: Commissioned + Stock
 collection_category:
