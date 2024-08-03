@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: 'AARP Washed Away: Rising Seas Are Wiping Out Some Older Americans'' Futures'
-  meta_title: Rising Seas Are Wiping Out Some Older Americans' Futures
+  meta_description: 'AARP: Washed Away: Rising Seas Are Wiping Out Some Older Americans'' Futures'
+  meta_title: 'AARP: Rising Seas Are Wiping Out Some Older Americans'' Futures'
 title: AARP
 collection_meta: Washed Away
 collection_meta_2: Rising Seas Are Wiping Out Some Older Americans' Futures
