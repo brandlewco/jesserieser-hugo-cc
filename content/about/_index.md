@@ -69,7 +69,7 @@ about_bio: >-
 
 
   [Download
-  CV](https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf)
+  CV](https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
@@ -1285,10 +1285,10 @@ about_footer_quotes: >-
   know whenever we work together, he will return with engaging images that
   surpass the expectations of the assignment and encourage people to pause
   and&nbsp;*see*&nbsp;differently." - *Sarina
-  Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
+  Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
   of Photography \| Barron's & Penta*
 cv: >-
-  https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
+  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
