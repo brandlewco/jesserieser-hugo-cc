@@ -187,7 +187,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: The Changing Landscape of American Retail
+    meta: The Changing Landscape of American Retail 2015 - 2024
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
@@ -211,7 +211,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Guns & Pizza
+    meta: Guns & Pizza 2021 - 2024
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '33'
@@ -230,7 +230,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: bold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: 'AP 39: American Photography Annual '
     caption: 'Barron''s: Beyond The Drought'
@@ -462,7 +462,7 @@ content_blocks:
     theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
-    meta: Christmas in America
+    meta: 'Christmas in America: Happy Birthday, Jesus 2010 - 2022'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
