@@ -1284,9 +1284,8 @@ about_footer_quotes: >-
   marries the perfect light to each situation is nothing short of masterful. I
   know whenever we work together, he will return with engaging images that
   surpass the expectations of the assignment and encourage people to pause
-  and&nbsp;*see*&nbsp;differently." - *Sarina
-  Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
-  of Photography \| Barron's & Penta*
+  and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein&nbsp;&nbsp;Director of
+  Photography \| Barron's & Penta*
 cv: >-
   https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf
 about_bio_doodle_credit: Portrait by © Lapo
