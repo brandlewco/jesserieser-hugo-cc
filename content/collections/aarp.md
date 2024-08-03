@@ -28,7 +28,7 @@ collection_blocks:
     vimeo_id: 960736431
     text: Vimeo
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '80'
     align_y: start
