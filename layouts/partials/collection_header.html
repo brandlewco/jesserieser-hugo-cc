@@ -24,7 +24,7 @@
                     </h2>
                 {{ end }}
                 {{ with .Params.collection_meta_2 }}
-                    <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 sm:pl-32 pt-2 sm:pt-4 sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
+                    <h3 data-cms-bind="#collection_meta_2" class="self-start sm:self-end text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 sm:pl-32 pt-2 sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                         {{ . }}
                     </h3>
                 {{ end }}
@@ -69,7 +69,7 @@
                     </h2>
                 {{ end }}
                 {{ if .Params.collection_meta_2 }}
-                    <h3 data-cms-bind="#collection_meta_2" class="text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}self-start sm:self-end sm:pl-32 pt-2 sm:pt-4{{else}}self-end{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
+                    <h3 data-cms-bind="#collection_meta_2" class="text-xs sm:text-sm font-medium italic tracking-widest leading-tight text-left sm:text-right flex-grow pl-0 {{ with .Params.collection_meta }}self-start sm:self-end sm:pl-32 pt-2 sm:pt-0{{else}}self-end{{end}} sm:pt-0 initial-black" data-sal="slide-down" data-sal-delay="1400">
                         {{ .Params.collection_meta_2 }}
                     </h3>
                 {{ end }}
