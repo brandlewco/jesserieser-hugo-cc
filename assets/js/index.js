@@ -166,9 +166,9 @@ function init() {
             var videoBg = linkEl.getAttribute('background');
             item = {
               html:
-                "<div class='relative w-full h-full'><iframe src='https://player.vimeo.com/video/" +
+                "<div class='relative w-full h-full z-100'><iframe src='https://player.vimeo.com/video/" +
                 videoID +
-                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" + videoBg + "1&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:0;width:100%;height:90%;z-index:2;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
+                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" + videoBg + "1&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
               pid: linkEl.getAttribute('pid'),
             };
           } else {
