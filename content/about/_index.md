@@ -84,7 +84,7 @@ about_blocks:
     text_color: '#080708'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: right
@@ -275,7 +275,7 @@ about_blocks:
     text_color: '#000000'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: left
@@ -722,7 +722,7 @@ about_blocks:
     text_color: '#020202'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: right
@@ -993,7 +993,7 @@ about_blocks:
     text_color: '#000000'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: left
