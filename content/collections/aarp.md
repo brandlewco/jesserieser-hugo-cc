@@ -18,7 +18,7 @@ collection_description: >-
   Fence touring installation, winner in the 2018 *PDN Photo Annual* and a
   *Photolucida* *Critical Mass* top 50 international fine art photographic
   project. Featured on *NPR, The Washington Post, Architectural Digest, Wired,
-  Fast Company,* and *Business Insider. test*
+  Fast Company,* and *Business Insider.*
 collection_description_alignment: center
 slug: aarp-washedaway
 collection_blocks:
