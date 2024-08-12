@@ -26,7 +26,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736431
-    text:
+    text: ''
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
