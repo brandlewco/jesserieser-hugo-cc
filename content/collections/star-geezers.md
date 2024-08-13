@@ -22,116 +22,116 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-1.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#e2eff9'
+    color: "#e2eff9"
     caption: test caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-11.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "50"
+    margin_right: "0"
     align_y: center
-    color: '#fef4ea'
+    color: "#fef4ea"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-13.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: start
-    color: '#eff4f8'
+    color: "#eff4f8"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-15.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '0'
+    width: "30"
+    margin_y: "300"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ae9b9b'
+    color: "#ae9b9b"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-5.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "35"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: center
-    color: '#fadfcd'
+    color: "#fadfcd"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-6.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    width: "35"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "15"
     align_y: center
-    color: '#fadfcd'
+    color: "#fadfcd"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-16.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#211f2d'
+    color: "#211f2d"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-8.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: start
-    color: '#404b51'
+    color: "#404b51"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-9.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '25'
+    width: "30"
+    margin_y: "300"
+    margin_left: "0"
+    margin_right: "25"
     align_y: start
-    color: '#2f292e'
+    color: "#2f292e"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-20.jpg
-    width: '70'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "70"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#010101'
+    color: "#010101"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-11.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "35"
+    margin_right: "0"
     align_y: center
-    color: '#fd1e18'
+    color: "#fd1e18"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -139,67 +139,67 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-14.jpg
-    width: '50'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
+    width: "50"
+    margin_y: "300"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#ffe7ca'
+    color: "#ffe7ca"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-13.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f0f4f7'
+    color: "#f0f4f7"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 414908662
     text: caption
-    color: '#fce4d0'
+    color: "#fce4d0"
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '50'
+    width: "50"
     align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-15.jpg
-    width: '80'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "80"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: center
-    color: '#e4eaed'
+    color: "#e4eaed"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-16.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "40"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: center
-    color: '#e8d2cf'
+    color: "#e8d2cf"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-7.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "60"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#f5e4e4'
+    color: "#f5e4e4"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -207,21 +207,21 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-26.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: "30"
+    margin_y: "100"
+    margin_left: "10"
+    margin_right: "0"
     align_y: start
-    color: '#cedaec'
+    color: "#cedaec"
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-27.jpg
-    width: '50'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
+    width: "50"
+    margin_y: "500"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#000000'
+    color: "#000000"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -229,23 +229,23 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-18.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: "50"
+    margin_y: "100"
+    margin_left: "25"
+    margin_right: "0"
     align_y: center
-    color: '#ffe9d0'
+    color: "#ffe9d0"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-19.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: "66"
+    margin_y: "100"
+    margin_left: "15"
+    margin_right: "0"
     align_y: center
-    color: '#e0c8ce'
+    color: "#e0c8ce"
     caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-13.jpg
@@ -264,8 +264,8 @@ collection_category:
   - Reportage
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#fce4d0'
-theme_color_all_works: '#ff9595'
+theme_color: "#fce4d0"
+theme_color_all_works: "#ff9595"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-11.jpg
 collection_preview:
@@ -304,7 +304,7 @@ collection_press:
 collection_exhibition: []
 collection_overview: false
 collection_grid: false
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: false
 navigation_theme: white

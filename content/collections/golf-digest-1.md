@@ -146,7 +146,7 @@ collection_press: []
 collection_exhibition: []
 collection_overview: false
 collection_grid: false
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: black

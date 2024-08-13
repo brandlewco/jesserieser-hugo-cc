@@ -220,7 +220,7 @@ collection_press:
     icon:
     url:
 collection_exhibition: []
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

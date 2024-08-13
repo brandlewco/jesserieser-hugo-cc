@@ -392,7 +392,7 @@ collection_exhibition:
       AP 35: American Photography Annual 35<br>  
       Best Personal Work Series:<br>  
       "Phoenix: A Dystopian Legoland That Tastes Like Candy"
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

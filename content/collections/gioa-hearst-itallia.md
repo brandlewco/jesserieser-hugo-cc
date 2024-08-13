@@ -146,7 +146,7 @@ collection_awards:
       <strong>2016</strong><br>  
       <em>AP 32: American Photography Annual 32</em>
 collection_press: []
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

@@ -171,7 +171,7 @@ collection_awards: []
 collection_press:
   - content: _PDN Photo of the Day_
   - content: Press List Item
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

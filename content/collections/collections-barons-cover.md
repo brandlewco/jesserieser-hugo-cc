@@ -103,7 +103,7 @@ collection_press:
     icon:
     url:
 collection_exhibition: []
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: black

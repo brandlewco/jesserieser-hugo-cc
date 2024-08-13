@@ -43,7 +43,7 @@ collection_press: []
 collection_exhibition: []
 collection_overview: false
 collection_grid: false
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

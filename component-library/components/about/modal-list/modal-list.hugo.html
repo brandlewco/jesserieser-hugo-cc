@@ -1,4 +1,4 @@
-<article class="sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
+<article class="sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-45/100 {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <button type="button" id="{{.title | lower | urlize}}" class="popup-trigger flex flex-col relative w-full " data-popup-trigger="{{.title | lower}}">
     <figure class="figure block-hover relative w-full" style="background: {{with .color}}{{. | safeHTMLAttr}}{{else}}{{.Page.Params.theme_color}}{{end}};" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" data-sal="image">
         <div class="overflow-hidden">

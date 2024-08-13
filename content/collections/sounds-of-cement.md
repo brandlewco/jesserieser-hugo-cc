@@ -215,7 +215,7 @@ collection_exhibition:
       <strong>2016</strong><br>
       <em>Sunday Afternoon Artist Exhibition</em><br>  
       Inert Gallery. New York, NY (Group Show)
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

@@ -18,66 +18,66 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-2.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: "66"
+    margin_y: "100"
+    margin_left: "20"
+    margin_right: "0"
     align_y: center
-    color: '#e1f3dd'
+    color: "#e1f3dd"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "25"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: start
-    color: '#e1f9fb'
-    caption: ''
+    color: "#e1f9fb"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-3.jpg
-    width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '25'
+    width: "33"
+    margin_y: "400"
+    margin_left: "0"
+    margin_right: "25"
     align_y: center
-    color: '#fbebd6'
+    color: "#fbebd6"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-4.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: "20"
+    margin_y: "100"
+    margin_left: "30"
+    margin_right: "0"
     align_y: start
-    color: '#e4f6fe'
+    color: "#e4f6fe"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-1.jpg
-    width: '90'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: "90"
+    margin_y: "100"
+    margin_left: "5"
+    margin_right: "0"
     align_y: center
-    color: '#ffd9cf'
+    color: "#ffd9cf"
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-5.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    width: "33"
+    margin_y: "100"
+    margin_left: "50"
+    margin_right: "0"
     align_y: center
-    color: '#f7f7d0'
-    caption: ''
+    color: "#f7f7d0"
+    caption: ""
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-6.jpg
@@ -88,8 +88,8 @@ collection_category:
   - Color
   - Portraits
 date: 2019-05-01T07:00:00Z
-theme_color: '#9ec487'
-theme_color_all_works: '#ffe05a'
+theme_color: "#9ec487"
+theme_color_all_works: "#ffe05a"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-24.jpg
 collection_preview:
@@ -98,13 +98,13 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/jack_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nicklaus-2.jpg
-collection_content: ''
+collection_content: ""
 collection_awards: []
 collection_press: []
 collection_exhibition: []
 collection_overview: false
 collection_grid: false
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

@@ -174,7 +174,7 @@ collection_content: >-
 collection_awards: []
 collection_press: []
 collection_exhibition: []
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: false
 navigation_theme: white

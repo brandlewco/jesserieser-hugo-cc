@@ -148,7 +148,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/united_covers-6.jpg
 collection_awards: []
 collection_press: []
-collection_archive: true
+collection_dark: true
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

@@ -1282,7 +1282,7 @@ collection_exhibition:
       Angeles<br>   Lyceum Theatre Gallery<br> San Diego, CA (Group Show)
 collection_overview: true
 collection_grid: true
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

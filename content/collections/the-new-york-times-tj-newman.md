@@ -161,7 +161,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-newman-4.jpg
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: false
 navigation_theme: white

@@ -107,7 +107,7 @@ collection_content: ""
 collection_awards: []
 collection_press: []
 collection_exhibition: []
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

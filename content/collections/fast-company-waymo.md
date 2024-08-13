@@ -1,5 +1,5 @@
 ---
-collection_archive: false
+collection_dark: false
 collection_awards: []
 collection_category:
   - Editorial

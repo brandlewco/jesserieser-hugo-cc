@@ -6,7 +6,7 @@ seo:
 title: Industry, Tech & Science
 collection_meta:
 collection_meta_2:
-collection_description: ''
+collection_description: ""
 collection_description_alignment: center
 slug: Industry-Tech-Science-Overview
 collection_blocks:
@@ -14,463 +14,463 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-1.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#0b0b09'
-    caption: ''
+    color: "#0b0b09"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-2.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-3.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#d1d1d1'
-    caption: ''
+    color: "#d1d1d1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-4.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#747474'
-    caption: ''
+    color: "#747474"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-5.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#e4dedc'
-    caption: ''
+    color: "#e4dedc"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-6.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "100"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#c0c0c0'
-    caption: ''
+    color: "#c0c0c0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-7.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#010101'
-    caption: ''
+    color: "#010101"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-8.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#7f7f7f'
-    caption: ''
+    color: "#7f7f7f"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-9.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-10.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#e9e9e9'
-    caption: ''
+    color: "#e9e9e9"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-11.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#f3f2f0'
-    caption: ''
+    color: "#f3f2f0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-12.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#d0d0d0'
-    caption: ''
+    color: "#d0d0d0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-13.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#d3d3d3'
-    caption: ''
+    color: "#d3d3d3"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-14.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#b1b1b1'
-    caption: ''
+    color: "#b1b1b1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-15.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#c4c4c4'
-    caption: ''
+    color: "#c4c4c4"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-16.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-17.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#a5a5a5'
-    caption: ''
+    color: "#a5a5a5"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-18.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#cccccc'
-    caption: ''
+    color: "#cccccc"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-19.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#fcfafb'
-    caption: ''
+    color: "#fcfafb"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-20.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#e6e6e6'
-    caption: ''
+    color: "#e6e6e6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-21.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#2d2d2d'
-    caption: ''
+    color: "#2d2d2d"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-22.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-23.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#ffe1d7'
-    caption: ''
+    color: "#ffe1d7"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-24.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#d5dae0'
-    caption: ''
+    color: "#d5dae0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-25.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-26.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#d2d2d2'
-    caption: ''
+    color: "#d2d2d2"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-27.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f0ecdd'
-    caption: ''
+    color: "#f0ecdd"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-28.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#c5c5c5'
-    caption: ''
+    color: "#c5c5c5"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-29.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#aaaaaa'
-    caption: ''
+    color: "#aaaaaa"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-30.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#020202'
-    caption: ''
+    color: "#020202"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-31.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-32.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#bfbfbf'
-    caption: ''
+    color: "#bfbfbf"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-33.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#eadfd5'
-    caption: ''
+    color: "#eadfd5"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-34.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#f0f0f0'
-    caption: ''
+    color: "#f0f0f0"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-35.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#edebe9'
-    caption: ''
+    color: "#edebe9"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-36.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ffffff'
-    caption: ''
+    color: "#ffffff"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-37.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#eaf1ca'
-    caption: ''
+    color: "#eaf1ca"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-38.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#feecb4'
-    caption: ''
+    color: "#feecb4"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-39.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ede4e6'
-    caption: ''
+    color: "#ede4e6"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-40.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ababab'
-    caption: ''
+    color: "#ababab"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-41.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#4f4f4f'
-    caption: ''
+    color: "#4f4f4f"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-42.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#0b0b0b'
-    caption: ''
+    color: "#0b0b0b"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-43.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: center
-    color: '#9f9f9f'
-    caption: ''
+    color: "#9f9f9f"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-44.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y:
-    color: '#a4bcca'
-    caption: ''
+    color: "#a4bcca"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-45.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#ebe6dc'
-    caption: ''
+    color: "#ebe6dc"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-46.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#eedee1'
-    caption: ''
+    color: "#eedee1"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-47.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y: start
-    color: '#040305'
-    caption: ''
+    color: "#040305"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-48.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y:
-    color: '#574139'
-    caption: ''
+    color: "#574139"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-49.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y:
-    color: '#dbdfdc'
-    caption: ''
+    color: "#dbdfdc"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-50.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y:
-    color: '#5f5547'
-    caption: ''
+    color: "#5f5547"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-51.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
+    width: "15"
+    margin_y: "50"
+    margin_left: "0"
+    margin_right: "0"
     align_y:
-    color: '#14212f'
-    caption: ''
+    color: "#14212f"
+    caption: ""
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-6.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-6.jpg
@@ -486,8 +486,8 @@ collection_category:
   - Environments
   - Sports + Athletes
 date: 2019-05-01T07:00:00Z
-theme_color: '#cad39c'
-theme_color_all_works: '#a7e05c'
+theme_color: "#cad39c"
+theme_color_all_works: "#a7e05c"
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-1.jpg
 collection_preview:
@@ -575,7 +575,7 @@ collection_press:
 collection_exhibition:
 collection_overview: true
 collection_grid: true
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: black

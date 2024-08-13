@@ -95,6 +95,19 @@ function init() {
   };
   setUp();
 
+  if (document.querySelector('body').classList.contains('dark')) {
+    document.documentElement.classList.add('dark');
+  } else {
+      document.documentElement.classList.remove('dark');
+  }
+
+  // Initial check on page load
+  if (document.querySelector('body').classList.contains('dark')) {
+    document.documentElement.classList.add('dark');
+  } else {
+    document.documentElement.classList.remove('dark');
+  }
+
   setTimeout(function () {
     document.querySelectorAll('.initial-black').forEach(function (element) {
       element.classList.remove('initial-black');
@@ -168,7 +181,7 @@ function init() {
               html:
                 "<div class='relative w-full h-full z-100'><iframe src='https://player.vimeo.com/video/" +
                 videoID +
-                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" + videoBg + "1&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
+                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" + videoBg + "&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
               pid: linkEl.getAttribute('pid'),
             };
           } else {
@@ -789,7 +802,7 @@ function init() {
 
     // Update colors based on scroll position and archive class
     if (scrollTop >= startFade) {
-      if (document.body.classList.contains('archive')) {
+      if (document.body.classList.contains('dark')) {
         setColor('#FFFFFF');
       } else {
         setColor('#000000');

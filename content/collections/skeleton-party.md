@@ -597,7 +597,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/skeleton_covers-4.jpg
 collection_awards: []
 collection_press: []
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: true
 navigation_theme: white

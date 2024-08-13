@@ -1,5 +1,5 @@
 ---
-collection_archive: true
+collection_dark: true
 collection_awards: []
 collection_category:
   - Stock

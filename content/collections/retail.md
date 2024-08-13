@@ -665,7 +665,7 @@ collection_exhibition:
       OR (Solo Show)<br>
 collection_overview: false
 collection_grid: false
-collection_archive: false
+collection_dark: false
 collection_hidden: false
 hide_footer: false
 navigation_theme: white
