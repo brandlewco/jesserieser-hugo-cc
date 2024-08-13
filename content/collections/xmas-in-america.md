@@ -5,7 +5,7 @@ seo:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
 title: Christmas In America
 collection_meta: ' Happy Birthday, Jesus'
-collection_meta_2: "2010 - \_2022"
+collection_meta_2: 2010 - 2022
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
   of the ways people mark the holiday’s meaning. This Christmas is complex and
