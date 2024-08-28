@@ -1,9 +1,6 @@
 ---
 _schema: default
 title: 'TMC '
-outputs:
-  - HTML
-  - ContentOnly
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -49,6 +46,9 @@ blog_content: >-
   ⁠⁠Thursday, January 25⁠<br>6:00 pm⁠<br>The McKinley Club⁠<br>734 W. Polk
   Street, Phoenix, AZ 85003
 date:
-news_category:
+news_category: News
 theme_color:
+outputs:
+  - HTML
+  - ContentOnly
 ---
