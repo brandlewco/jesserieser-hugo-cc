@@ -185,7 +185,8 @@ html.is-animating .transition-nav {
 }
 
 .name .archive, .name .overview {
-  transition: opacity 0.33s ease-in-out, display 0s ease-in-out !important;
+  transition: opacity 0.33s ease-in-out, display 0s ease-in-out, color 0.33s ease-in-out !important;
+  transition-delay: 0s !important;
  }
 
 .name:hover .overview.opacity-0 {
