@@ -89,7 +89,6 @@ blog_content: >-
   and [*Business
   Insider*](https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12)*.*
 date:
-news_category:
-  - exhibition
+news_category: Exhibition
 theme_color: "#d8f1ae"
 ---

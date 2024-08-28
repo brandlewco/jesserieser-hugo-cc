@@ -2,7 +2,7 @@
 
   <header class="absolute top-0 left-0 w-full px-4 sm:px-20 flex flex-row justify-between py-6 z-999 bg-white items-baseline">
     <div class="whitespace-no-wrap text-base tracking-loosest font-normal">JESSE RIESER</div>
-      <div class="whitespace-no-wrap text-sm tracking-loosest font-normal">NEWS: <span class="italic font-light">{{range .Params.news_category}}{{.}}{{end}}</span></div>
+      <div class="whitespace-no-wrap text-sm tracking-loosest font-normal">NEWS: <span class="italic font-light">{{with .Params.news_category}}{{.}}{{end}}</span></div>
       <svg width="35" height="35" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" class="hover icon pointer  border-white border-6 border-solid h-6 w-6 m-2 sm:m-6 absolute top-0 right-0 text-white dynamic-modal-close z-999" style="margin-top:1.6rem;"><g fill="none" stroke="#000"  stroke-miterlimit="10" stroke-width="10"><path d="m4.7 4.7 246.6 246.6"/><path d="m250.85 4.7-246.6 246.6"/></g></svg>
   </header>
   <section class="flex flex-col w-100 overflow-y-scroll scrollbar px-2 sm:px-40 mb-12 mt-20 z-50">

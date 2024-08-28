@@ -89,7 +89,6 @@ blog_content: >-
   Times*<br>Dustin Drankoski, Mashable<br>Lea Golis, Apple<br>Rosey Lakos,
   Godfrey Dadich<br>Eve Lyons, *New York Times*<br>Thea Traff, *Time Magazine*
 date:
-news_category:
-  - Awards
+news_category: Awards
 theme_color: "#b2e9d4"
 ---

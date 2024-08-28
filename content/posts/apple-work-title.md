@@ -20,6 +20,6 @@ blog_content: |-
 
   [Request Gallery](mailto:jesse@jesserieser.com?subject=test)
 date:
-news_category: []
+news_category: 
 theme_color: "#ffffff"
 ---

@@ -112,7 +112,6 @@ blog_content: >-
   Director, Lyft<br>Philip Brian Tabuas, Photo Editor, *Bloomberg News*<br>Ronda
   Thompson, Web Design Consultant, Bed Bath & Beyond
 date:
-news_category:
-  - awards
+news_category: Awards
 theme_color: "#ffcc8e"
 ---

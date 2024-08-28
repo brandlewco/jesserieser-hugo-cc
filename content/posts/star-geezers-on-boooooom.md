@@ -110,7 +110,6 @@ blog_content: >-
   textural, and 3-dimensional. So dark as your eyes adjust, you can see your
   shadow cast by the stars overhead.
 date:
-news_category:
-  - Press
+news_category: Press
 theme_color: "#d9f8f4"
 ---

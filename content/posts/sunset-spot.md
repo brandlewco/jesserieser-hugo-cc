@@ -177,7 +177,6 @@ blog_content: >-
   beautiful as it is fleeting. He and his projects have been featured in the NY
   Times, The Washington Post, National Geographic, and NPR.
 date:
-news_category:
-  - exhibition
+news_category: Exhibition
 theme_color: "#c8b3eb"
 ---

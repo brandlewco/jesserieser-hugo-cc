@@ -113,7 +113,6 @@ blog_content: >-
   their own comfort levels. Some have taken these first steps cautiously. But
   many scenes recall a world untouched by a deadly virus.”
 date:
-news_category:
-  - awards
+news_category: awards
 theme_color: "#ccaaf8"
 ---

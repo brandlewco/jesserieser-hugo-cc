@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'Candela Gallery: UnBound13!'
+title: "Candela Gallery: UnBound13!"
 outputs:
   - HTML
   - ContentOnly
@@ -10,133 +10,133 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-1.jpg
     title: blog title
-    caption: ''
-    width: '100'
+    caption: ""
+    width: "100"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-2.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-3.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-4.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-5.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-6.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-7.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-8.jpg
     title: blog title
-    caption: ''
-    width: '100'
+    caption: ""
+    width: "100"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-9.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-10.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-11.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-12.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-13.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-14.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-15.jpg
     title: blog title
-    caption: ''
-    width: '100'
+    caption: ""
+    width: "100"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-16.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-17.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-18.jpg
     title: blog title
-    caption: ''
-    width: '25'
+    caption: ""
+    width: "25"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-19.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-20.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-21.jpg
     title: blog title
-    caption: ''
-    width: '100'
+    caption: ""
+    width: "100"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-22.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-23.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-24.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-25.jpg
     title: blog title
-    caption: ''
-    width: '50'
+    caption: ""
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/candela_blog-26.jpg
     title: blog title
-    caption: ''
-    width: '100'
+    caption: ""
+    width: "100"
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
@@ -188,7 +188,6 @@ blog_content: >-
   constantly under attack, American Hypnosis proves these same truths can be
   stranger than fiction.
 date:
-news_category:
-  - exhibition
-theme_color: '#d8f1ae'
+news_category: Exhibition
+theme_color: "#d8f1ae"
 ---

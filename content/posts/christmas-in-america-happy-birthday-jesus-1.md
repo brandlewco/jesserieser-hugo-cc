@@ -72,8 +72,7 @@ blog_content: >-
   Quirky decorations, Rieser said, may be a way for those sisters and others to
   find and share joy.
 date: 2021-12-25T07:00:00.000Z
-news_category:
-  - press
+news_category: Press
 theme_color: "#FF5252"
 title: "Christmas In America: Happy Birthday, Jesus"
 seo:

@@ -136,7 +136,6 @@ blog_content: >-
   Steve Wallington, creative director and co-founder, the Photography Movement,
   London, United Kingdom
 date:
-news_category:
-  - awards
+news_category: Awards
 theme_color: "#fabdc2"
 ---

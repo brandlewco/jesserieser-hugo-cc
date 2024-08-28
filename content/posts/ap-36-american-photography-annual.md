@@ -106,7 +106,6 @@ blog_content: >-
   Storyteller and Curator<br>Jolie Ruben, Culture Photo Editor, *The New York
   Times*<br>David Sleight, Design Director, ProPublica
 date:
-news_category:
-  - Awards
+news_category: Awards
 theme_color: "#fdf9b0"
 ---

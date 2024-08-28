@@ -325,7 +325,6 @@ blog_content: >-
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
 date:
-news_category:
-  - exhibition
+news_category: Exhibition
 theme_color: "#f6e7d1"
 ---

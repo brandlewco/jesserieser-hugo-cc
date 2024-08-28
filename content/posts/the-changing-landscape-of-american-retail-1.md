@@ -69,7 +69,6 @@ blog_content: >-
   Seattle, WA.<br>SoWa Southie Plaza. Boston, MA.<br>Fourth Ward. Houston,
   TX.<br>New Orleans, LA.<br>The Metro (North Dakota, South Dakota, Minnesota)
 date:
-news_category:
-  - Exhibition
+news_category: Exhibition
 theme_color: "#e5e5ef"
 ---

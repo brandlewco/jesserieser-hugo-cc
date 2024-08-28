@@ -79,7 +79,6 @@ blog_content: >-
   Korea<br>6-7: *Wings Magazine*. Germany<br>8: *Geo Magazine*. Germany<br>9:
   *Amtrak the National.* USA
 date:
-news_category:
-  - Press
+news_category: Press
 theme_color: "#ff0000"
 ---

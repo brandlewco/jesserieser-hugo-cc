@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'AP 39: American Photography Annual'
+title: "AP 39: American Photography Annual"
 outputs:
   - HTML
   - ContentOnly
@@ -10,41 +10,41 @@ post_blocks:
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
     title: blog title
-    caption: ''
-    width: '40'
+    caption: ""
+    width: "40"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-2.jpg
     title: blog title
-    caption: ''
-    width: '60'
+    caption: ""
+    width: "60"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-1.jpg
     title: blog title
     caption:
-    width: '40'
+    width: "40"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-2.jpg
     title: blog title
     caption:
-    width: '60'
+    width: "60"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-7.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-4.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-11.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
@@ -52,39 +52,39 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-16.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-14.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-17.jpg
     title: blog title
     caption:
-    width: '33'
+    width: "33"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-18.jpg
     title: blog title
     caption:
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-19.jpg
     title: blog title
     caption:
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-20.jpg
     title: blog title
     caption:
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_mead-24.jpg
     title: blog title
     caption:
-    width: '50'
+    width: "50"
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end
 blog_slider:
@@ -102,7 +102,7 @@ attached_link:
 block_aspect_ratio: 3x4
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_2022-1.jpg
 blog_header: AP 39
-caption: 'Barron''s Cover Story: Beyond the Drought'
+caption: "Barron's Cover Story: Beyond the Drought"
 blog_content: >-
   [Beyond The Drought commissioned by
   Barron's](https://jesserieser.com/collections/mead-barrons)&nbsp;has been
@@ -122,7 +122,6 @@ blog_content: >-
   Thank you judges and Sarina Finkelstein for assigning and submitting to this
   year’s annual. ⁠
 date:
-news_category:
-  - awards
-theme_color: '#f8d9d9'
+news_category: Awards
+theme_color: "#f8d9d9"
 ---

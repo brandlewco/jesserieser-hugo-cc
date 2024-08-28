@@ -81,7 +81,6 @@ blog_content: >-
 
   Words by Rachel Monroe.
 date:
-news_category:
-  - press
+news_category: Press
 theme_color: "#f8ddcd"
 ---

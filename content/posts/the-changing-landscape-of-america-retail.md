@@ -88,7 +88,6 @@ blog_content: >-
   The Washington Post feature Edited by Karly Domb Sadof and<br>Business Insider
   feature edited and interview conducted by Katie Canales.
 date: 2020-01-14T07:00:00Z
-news_category:
-  - Press
+news_category: Press
 theme_color: "#e8dcee"
 ---

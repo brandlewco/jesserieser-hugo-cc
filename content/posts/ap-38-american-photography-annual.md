@@ -91,7 +91,6 @@ blog_content: >-
   Editor, The New York Times<br>Amy Wolff, Photo Director, Hearst Enthusiast
   Group<br>Nili Zadok, Executive Producer
 date:
-news_category:
-  - awards
+news_category: Awards
 theme_color: "#f8d9d9"
 ---

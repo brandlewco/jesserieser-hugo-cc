@@ -48,7 +48,6 @@ blog_content: >-
   so I was pumped to get a chance to speak with him about his journey with
   photography so I hope you enjoy and thanks for listening.*
 date:
-news_category:
-  - press
+news_category: Press
 theme_color: "#ffd595"
 ---

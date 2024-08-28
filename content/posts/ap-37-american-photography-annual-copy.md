@@ -97,7 +97,6 @@ blog_content: >-
   Thank you to the 60+ international
   [judges](https://productionparadise.com/spotlight-awards/judges/?smclient=c0422b69-c55f-412c-b558-9fab4a99ab0b&amp;utm_source=salesmanago&amp;utm_medium=email&amp;utm_campaign=default).
 date:
-news_category:
-  - awards
+news_category: Awards
 theme_color: "#bee8f6"
 ---

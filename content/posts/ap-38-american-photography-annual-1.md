@@ -89,7 +89,6 @@ blog_content: >-
 
   Nili Zadok, Executive Producer
 date:
-news_category:
-  - awards
+news_category: Awards
 theme_color: "#ff052b"
 ---
