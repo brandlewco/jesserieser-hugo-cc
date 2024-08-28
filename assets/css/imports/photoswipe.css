@@ -92,6 +92,10 @@ body.dark .pswp--zoom-allowed .pswp__img {
   will-change: opacity;
 }
 
+body.dark .pswp__bg {
+  opacity: 0.2 !important;
+}
+
 .pswp__scroll-wrap {
   position: absolute;
   left: 0;
