@@ -1,6 +1,5 @@
 ---
 title: New Blog
-outputs: ["HTML", "ContentOnly"]
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -37,6 +36,7 @@ caption: New Blog Caption
 blog_content:
 date: 
 news_category:
-  - Press
+  - 'Press'
 theme_color: 
+outputs: ["HTML", "ContentOnly"]
 ---
