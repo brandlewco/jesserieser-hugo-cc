@@ -97,7 +97,6 @@ blog_content: >-
   [J](https://www.instagram.com/jarmus3/) Armus Creative Director of Jarmus
   Design. ⁠
 date:
-news_category:
-  - awards
+news_category: awards
 theme_color: "#ffdaa3"
 ---

@@ -27,7 +27,7 @@
     <section data-hue="page" class="pt-4 mx-auto bg-white relative z-100 overflow-y-hidden" style="backface-visibility: hidden;">
         <section class="block-media group-hover flex flex-wrap mx-auto h-auto {{with .Params.row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}}">
                 {{ partial "about_bio" .}}
-            <div class="px-4 lg:px-32">
+            <div class="pt-6 sm:pt-0 px-4 lg:px-32">
                 {{ partial "bookshop_bindings" `.Params.about_blocks` }} 
                 {{ partial "bookshop_partial" (slice "page" .Params.about_blocks) }}
             </div>
