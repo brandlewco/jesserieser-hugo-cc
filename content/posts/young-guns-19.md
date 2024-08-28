@@ -98,6 +98,6 @@ blog_content: >-
   &gt; *creative currency, the awards and clients will come later. And often.*
 date:
 news_category:
-  - press
+  - Press
 theme_color: "#b9f1a8"
 ---
