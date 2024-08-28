@@ -181,7 +181,19 @@ html.is-animating .transition-nav {
 #navigation a,
 #navigation a span,
 #navigation a div {
-  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out,
+  transition: color 0.33s ease-in-out, fill 0.33s ease-in-out;
+}
+
+.name .archive, .name .overview {
+  transition: opacity 0.33s ease-in-out, display 0s ease-in-out !important;
+ }
+
+.name:hover .overview.opacity-0 {
+  opacity: 1 !important;
+}
+
+.name:hover .archive.opacity-100 {
+  opacity: 0 !important;
 }
 
 
