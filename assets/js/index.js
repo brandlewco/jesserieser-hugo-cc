@@ -34,15 +34,15 @@ const options = {
   preload: true,
   cache: true,
   linkSelector:
-    'a[href^="' +
-    window.location.origin +
-    '"]:not([data-no-swup]), a[href^="/"]:not([data-no-swup]), a[href^="#"]:not([data-no-swup])',
-  skipPopStateHandling: function (event) {
-    if (event.state && event.state.source === 'swup') {
-      return false;
-    }
-    return true;
-  },
+  'a[href^="' +
+  window.location.origin +
+  '"]:not([data-no-swup]):not(.modal-trigger), a[href^="/"]:not([data-no-swup]):not(.modal-trigger), a[href^="#"]:not([data-no-swup]):not(.modal-trigger)',
+skipPopStateHandling: function (event) {
+  if (event.state && event.state.source === 'swup') {
+    return false;
+  }
+  return true;
+},
 };
 
 // Initialize Swup

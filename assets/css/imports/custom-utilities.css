@@ -159,7 +159,7 @@ html.is-animating .transition-nav {
 
 
 #navigation.active {
-  height: 100vh !important;
+  height: auto;
   transform: translate3d(0px, 0px, 0px) !important;
 }
 
