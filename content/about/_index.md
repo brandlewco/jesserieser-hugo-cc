@@ -12,7 +12,7 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: Advertising, Commercial, & Covers
+header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
 header_col_1: >-
   <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
