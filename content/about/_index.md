@@ -18,10 +18,9 @@ header_col_1: >-
   target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)<br />New York, Paris, Milan, London &amp; Los Angeles</p><p></p>
-header_col_2_title: |-
-  Editorial, Exhibition,
-
-  Syndication, & Press
+header_col_2_title: >-
+  Editorial Assignments, Phoenix Advertising, Corporate Commissions,
+  Exhibitions, Syndication, & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
