@@ -46,7 +46,7 @@ blog_content: >-
   ⁠⁠Thursday, January 25⁠<br>6:00 pm⁠<br>The McKinley Club⁠<br>734 W. Polk
   Street, Phoenix, AZ 85003
 date:
-news_category: News
+news_category: Awards
 theme_color:
 outputs:
   - HTML
