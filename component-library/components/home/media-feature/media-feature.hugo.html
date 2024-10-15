@@ -18,7 +18,7 @@
         {{ .image }}?width=600 600w,
         {{ .image }}?width=900 900w,
         {{ .image }}?width=1200 1200w"
-        alt="{{ .caption | htmlUnescape }} - featured collection cover image"/>
+        alt="{{ .alt | htmlUnescape }} - featured collection cover image"/>
     {{with site.GetPage .attached_collection}}
       </a>
     {{end}}

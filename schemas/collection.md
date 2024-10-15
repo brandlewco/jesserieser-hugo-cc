@@ -19,6 +19,7 @@ collection_blocks:
     margin_right: "0"
     align_y: center
     caption:
+    alt: 
     color: #232323
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/primeknit_bw-redo-horizontal-1.jpg

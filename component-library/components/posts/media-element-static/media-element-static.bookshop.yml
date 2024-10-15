@@ -18,7 +18,8 @@ spec:
 blueprint:
   image: /images/hero/hero-image-2.png
   title: blog title
-  caption: test caption
+  caption: 
+  alt:
   width: '40'
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

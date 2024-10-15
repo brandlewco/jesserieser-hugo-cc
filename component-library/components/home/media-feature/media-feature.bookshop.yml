@@ -19,13 +19,14 @@ blueprint:
   meta: "Collection Meta"
   attached_collection: collections/xmas-in-america.md
   image: /images/hero/hero-image-2.png
+  alt:
   width: "40"
   margin_y: "0"
   margin_left: "0"
   margin_right: "0"
   align_y: center
   color: "#000000"
-  caption: "test caption"
+  caption: 
   title_margin_y: "0"
   title_margin_left: "0"
   title_margin_right: "0"
