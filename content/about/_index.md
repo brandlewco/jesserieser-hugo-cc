@@ -12,30 +12,29 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: 'Advertising & Editorial '
+header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
 header_col_1: >-
-  <p>Jesse Rieser<br />Instagram <a
-  href="https://www.instagram.com/jesserieser/" target="_blank"
-  rel="noopener">@jesserieser.com</a><br /><a
-  href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
-  href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
-  Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
-header_col_2_title: 'Exhibition, Syndication, & Press '
+  <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
+  target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
+  href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
+  (direct)<br />New York, Paris, Milan, London &amp; Los Angeles</p><p></p>
+header_col_2_title: >-
+  Editorial Assignments, Phoenix Advertising, Corporate Commissions,
+  Exhibitions, Syndication, & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
-  href="tel:+13109859818">310 985 9818</a></p><p>2424 1/4 Hyperion Ave.<br />Los
-  Angeles, CA 90027</p><p>734 W. Polk St<br />Phoenix, AZ 85007</p>
-header_col_3_title: Stock Licensing
+  href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
+header_col_3_title: Stock & Licensing
 header_col_3: >-
-  <p><a target="_blank" href="https://www.gallerystock.com/">Gallery
-  Stock</a><br />190 Bowery<br />New York, NY 10012<br /><a
-  href="tel:+12122197520">212 219 7520</a><br /><a
-  href="mailto:newyork@gallerystock.com">newyork@gallerystock.com</a></p><p><a
-  href="mailto:PARIS@GALLERYSTOCK.COM">Paris</a><br /><a
-  href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a><br /><a
+  <p><a href="https://www.gallerystock.com/" target="_blank"
+  rel="noopener">Gallery Stock</a><br />190 Bowery<br />New York, NY 10012<br
+  /><a href="tel:+12122197520">212 219 7520</a><br /><a
+  href="mailto:newyork@gallerystock.com">newyork@gallerystock.com</a><br /><a
+  href="mailto:PARIS@GALLERYSTOCK.COM">Paris</a> <a
+  href="mailto:MUNICH@GALLERYSTOCK.COM">Munich</a> <a
   href="mailto:HELLO@SNAPPERIMAGES.COM">Sydney</a></p>
 row_alignment: between
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/info_vert-1.jpg
@@ -69,7 +68,7 @@ about_bio: >-
 
 
   [Download
-  CV](https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf)
+  CV](https://www.dropbox.com/scl/fi/3fzyai41pkef8dx3nnes9/Jesse_Rieser202408_CV.pdf?rlkey=eddfreikxg49cw2mkysqv9lb5&amp;dl=0)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
@@ -84,7 +83,7 @@ about_blocks:
     text_color: '#080708'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: right
@@ -275,7 +274,7 @@ about_blocks:
     text_color: '#000000'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: left
@@ -722,7 +721,7 @@ about_blocks:
     text_color: '#020202'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: right
@@ -993,7 +992,7 @@ about_blocks:
     text_color: '#000000'
     text_size: lg
     line_height: normal
-    text_alignment: center
+    text_alignment: left
     text_tracking: wide
     font_weight: hairline
     meta_align: left
@@ -1217,104 +1216,77 @@ about_blocks:
           Existence</em><br>Hendershot Gallery.<br>New York, NY (Group Show)
         icon:
         url:
-  - _bookshop_name: about/media-row
-    row_alignment: start
-  - _bookshop_name: about/media-text
-    text: >-
-      “I’ve worked with tons of photographers that can’t make something great
-      out of nothing. You made gold from a blank canvas. Thank you.”
-      -&nbsp;*Devin Gillespie Creative Director, Wieden+Kennedy Portland*
-
-
-      "It’s no easy task to enter the world of contemporary art color
-      photography, but you have successfully done so with your own unique
-      voice.” *\- Rob Schaefer Senior Acquisitions Editor, Princeton
-      Architectural Press*
-
-
-      “This shoot would not have been such a success without your attention to
-      detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
-      Senior Art Producer, Anomaly New York*
-
-
-      "When you hire a photographer, you're not just paying for the final
-      product images; you're buying the experience of working with that person.
-      You're hiring a temporary teammate who's going to help you solve problems
-      and deal with logistical challenges, and hopefully do it in a manner that
-      makes the experience easier and hopefully, fun. As a one-man photo
-      department, I need photographers who will take the reigns of the
-      production and don't need much hand-holding. Jesse covers all those bases
-      and more. Working with him is a pleasure. He just gets it, especially when
-      it comes to editorial. Most of all, he rolls with the punches, adjusts on
-      the fly, and never stops being a good collaborator. On top of that, you
-      wind up having some fun chats in the process. I look forward to working
-      with Jesse again soon." - *John Toolan Photography Director Field & Stream
-      /&nbsp;Outdoor Life /&nbsp;Popular Science*
-
-
-      “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
-      Producer RPA Los Angeles*
-
-
-      “Jesse has defined his own style in a way that sets him apart. His candy
-      colors are delectable, his eye for composition so precise and the way he
-      marries the perfect light to each situation is nothing short of masterful.
-      I know whenever we work together, he will return with engaging images that
-      surpass the expectations of the assignment and encourage people to pause
-      and&nbsp;*see*&nbsp;differently." - *Sarina
-      Finkelstein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Director
-      of Photography \| Barron's & Penta*
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: base
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    width: '45'
-    align_y: start
-    margin_y: '-100'
-    margin_left: '0'
-    margin_right: '0'
-    parallax: true
-    image_css:
-    caption_css:
   - _bookshop_name: about/media-row-end
 footer_links:
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
-  - link_title: Twitter
-    link_url: https://twitter.com/jesserieser
-  - link_title: Anderson Hopkins
-    link_url: >-
-      https://www.andersonhopkins.com/artists/118/Jesse-Rieser/images/680/Overview
-  - link_title: Le Book
-    link_url: http://www.lebook.com/search/jesse20rieser20
-  - link_title: The Agents Club
-    link_url: https://theagents.club/jesse-rieser/
   - link_title: LinkedIn
     link_url: https://www.linkedin.com/in/jesserieser/
+  - link_title: Twitter
+    link_url: https://twitter.com/jesserieser
+  - link_title: Threads
+    link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
+  - link_title: LensCulture
+    link_url: https://www.lensculture.com/jesse-rieser
   - link_title: Gallery Stock
     link_url: >-
       https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
+  - link_title: The Agents Club
+    link_url: https://theagents.club/jesse-rieser/
   - link_title: Production Paradise
     link_url: https://www.productionparadise.com/member/los_angeles/jesse-rieser.html
-  - link_title: LensCulture
-    link_url: https://www.lensculture.com/jesse-rieser
-  - link_title: Facebook
-    link_url: https://www.facebook.com/jesse.rieser
-  - link_title: Working NotWorking
+  - link_title: Working Not Working
     link_url: https://workingnotworking.com/6282-jesse
-  - link_title: Art Photo Index
-    link_url: https://www.artphotoindex.com/api/photographer/Jesse-Rieser/15804
   - link_title: The One Club Young Guns
     link_url: https://www.oneclub.org/awards/youngguns/9/-bio/yg9-2545-jesse-rieser
-about_bio_image_credit: © Mike Lundgren
+about_footer_image_credit: © Mike Lundgren
+about_footer_illustration: https://d1sf55qlb7p6hz.cloudfront.net/bio_illustration-1.jpg
+about_footer_quotes: >-
+  “I’ve worked with tons of photographers that can’t make something great out of
+  nothing. You made gold from a blank canvas. Thank you.” -&nbsp;*Devin
+  Gillespie Creative Director, Wieden+Kennedy Portland*
+
+
+  "It’s no easy task to enter the world of contemporary art color photography,
+  but you have successfully done so with your own unique voice.” *\- Rob
+  Schaefer Senior Acquisitions Editor, Princeton Architectural Press*
+
+
+  “This shoot would not have been such a success without your attention to
+  detail, hands-on approach, and upfront leg work. Thank you!”- *Kate Moore
+  Senior Art Producer, Anomaly New York*
+
+
+  "When you hire a photographer, you're not just paying for the final product
+  images; you're buying the experience of working with that person. You're
+  hiring a temporary teammate who's going to help you solve problems and deal
+  with logistical challenges, and hopefully do it in a manner that makes the
+  experience easier and hopefully, fun. As a one-man photo department, I need
+  photographers who will take the reigns of the production and don't need much
+  hand-holding. Jesse covers all those bases and more. Working with him is a
+  pleasure. He just gets it, especially when it comes to editorial. Most of all,
+  he rolls with the punches, adjusts on the fly, and never stops being a good
+  collaborator. On top of that, you wind up having some fun chats in the
+  process. I look forward to working with Jesse again soon." - *John Toolan
+  Photography Director Field & Stream /&nbsp;Outdoor Life /&nbsp;Popular
+  Science*
+
+
+  “You are incapable of taking a normal picture.” - *Jen Lamping Lead Print
+  Producer RPA Los Angeles*
+
+
+  “Jesse has defined his own style in a way that sets him apart. His candy
+  colors are delectable, his eye for composition so precise and the way he
+  marries the perfect light to each situation is nothing short of masterful. I
+  know whenever we work together, he will return with engaging images that
+  surpass the expectations of the assignment and encourage people to pause
+  and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein Director of
+  Photography \| Barron's & Penta*
 cv: >-
-  https://s3.us-east-2.amazonaws.com/jesserieserphoto.brandlew.co/202007_cv-jesserieser-www-2.pdf
+  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
