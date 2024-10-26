@@ -105,7 +105,7 @@ collection_blocks:
     margin_right: '5'
     align_y:
     color: '#eefbe7'
-    caption: '** **'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

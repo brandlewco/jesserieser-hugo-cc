@@ -20,7 +20,7 @@ collection_blocks:
     margin_right: "0"
     align_y:
     color: "#edeff2"
-    caption: "**Deflation.** *Tempe, AZ. 2016 Residence*"
+    caption: ""
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-2.jpg
     width: "15"

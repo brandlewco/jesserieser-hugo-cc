@@ -110,7 +110,7 @@ content_blocks:
     margin_right: '10'
     align_y:
     color: '#eefbe7'
-    caption: '**Mikey.** *Windcrest, TX. 2016. Grunwald Residence.*'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element

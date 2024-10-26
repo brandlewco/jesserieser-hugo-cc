@@ -91,7 +91,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<p><strong>2.</strong> <em>Time: Vaccine Battlegrounds </em></p>"
+    caption: ""
     color: "#FFD0C6"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-9.jpg
     margin_left: "50"
@@ -155,7 +155,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<p><strong>2. </strong><em>Condor Airlines: The Star Geezers</em></p>"
+    caption: ""
     color: "#F6D4C8"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-15.jpg
     margin_left: "5"
@@ -163,7 +163,7 @@ collection_blocks:
     margin_y: "400"
     width: "45"
   - _bookshop_name: collections/media-element
-    caption: "<p><strong>2.</strong> <em>Time: Vaccine Battlegrounds</em></p>"
+    caption: ""
     color: "#FFEC96"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-14.jpg
     margin_left: "0"
@@ -192,7 +192,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<p><strong>5.</strong> <em>Hearst Italia: Gioa</em></p>"
+    caption: ""
     color: "#FFF4D0"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-18.jpg
     margin_left: "45"
@@ -241,7 +241,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<p><strong>5.</strong> <em>Adidas Golf: Dustin Johnson</em></p>"
+    caption: ""
     color: "#CACACA"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-23.jpg
     margin_left: "15"
@@ -414,7 +414,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<strong>2. </strong><em>Outside: Rob Krar Running in the Dark </em></p>"
+    caption: ""
     color: "#FA9176"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-41.jpg
     margin_left: "0"
@@ -422,7 +422,7 @@ collection_blocks:
     margin_y: "100"
     width: "40"
   - _bookshop_name: collections/media-element
-    caption: "<strong>1. </strong><em>Starting Over: Will Move for Work</em></p>"
+    caption: ""
     color: "#CDECEE"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-42.jpg
     margin_left: "0"
@@ -486,7 +486,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    caption: "<strong>2. </strong><em>Time: Grand Canyon 100th Anniversary </em></p>"
+    caption: ""
     color: "#A88568"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-48.jpg
     margin_left: "5"
@@ -543,7 +543,7 @@ collection_blocks:
     margin_y: "100"
     width: "30"
   - _bookshop_name: collections/media-element
-    caption: "<strong>5. </strong><em>Adidas Golf: Xander Schaufelle</em></p>"
+    caption: ""
     color: "#959595"
     image: https://d1sf55qlb7p6hz.cloudfront.net/skeleton-55.jpg
     margin_left: "0"
