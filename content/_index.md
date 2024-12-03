@@ -12,10 +12,10 @@ seo:
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202410_overview-1.jpg
-    width: '50'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-3.jpg
+    width: '60'
     margin_y: '50'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -23,34 +23,25 @@ content_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202410_overview-2.jpg
-    width: '45'
-    margin_y: '500'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-1.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-2.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
     color: '#f8f3f3'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
+    width: '50'
     margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: '#edeff2'
+    color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-row-start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-3.jpg
     width: '35'
@@ -63,16 +54,14 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-2.jpg
+    width: '45'
+    margin_y: '500'
+    margin_left: '5'
     margin_right: '0'
-    align_y:
+    align_y: start
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-5.jpg
     width: '33'
@@ -82,12 +71,34 @@ content_blocks:
     align_y:
     color: '#9d0310'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-2.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-1.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y:
+    color: '#edeff2'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-6.jpg
-    width: '45'
-    margin_y: '900'
-    margin_left: '0'
-    margin_right: '5'
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
     color: '#f8e8dc'
     caption: ''
