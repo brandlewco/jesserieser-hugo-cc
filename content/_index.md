@@ -641,7 +641,7 @@ content_blocks:
     align_y:
     color: '#885872'
     caption: ''
-  - _bookshop_name: collections/media-row-end
+  - _bookshop_name: home/media-row-end
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
