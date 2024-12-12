@@ -22,8 +22,6 @@ content_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row-start
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-1.jpg
     width: '33'
