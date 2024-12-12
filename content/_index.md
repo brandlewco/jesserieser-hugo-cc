@@ -11,6 +11,8 @@ seo:
     Director specializing in portraiture, reportage, sport and conceptual
     photography and video. Located in the West Coast and Southwestern USA.
 content_blocks:
+  - _bookshop_name: home/media-row-start
+    row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-3.jpg
     width: '60'
