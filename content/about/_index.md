@@ -14,10 +14,10 @@ theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
 header_col_1: >-
-  <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
-  target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
+  <p>Managed and Represented by <br />Brian Flink of Flink Artists<br /><a
+  href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
-  (direct)<br />New York, Paris, Milan, London &amp; Los Angeles</p><p></p>
+  (direct)<br />New York, London &amp; Los Angeles</p><p></p>
 header_col_2_title: >-
   Editorial Assignments, Phoenix Advertising, Corporate Commissions,
   Exhibitions, Syndication, & Press
