@@ -14,7 +14,7 @@ theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
 header_col_1: >-
-  <p>Managed and Represented by <br />Brian Flink of Flink Artists<br /><a
+  <p>Managed and Represented by <br />Flink Artists<br />Brian Flink<br /><a
   href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br /><a
   href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
   (direct)<br />New York, London &amp; Los Angeles</p><p></p>
