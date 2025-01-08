@@ -132,8 +132,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-11.jpg
-    width: '50'
-    margin_y: '300'
+    width: '55'
+    margin_y: '400'
     margin_left: '5'
     margin_right: ''
     align_y: ''
@@ -142,7 +142,7 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-12.jpg
-    width: '35'
+    width: '30'
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
@@ -178,9 +178,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-15.jpg
-    width: '30'
+    width: '40'
     margin_y: '200'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: ''
     align_y: ''
     color: '#d8d7e3'
@@ -188,10 +188,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-16.jpg
-    width: '40'
-    margin_y: '450'
+    width: '35'
+    margin_y: '650'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: ''
     color: '#cce1f3'
     caption: ''
@@ -203,7 +203,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-17.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '350'
     margin_left: '30'
     margin_right: '0'
     align_y: ''
@@ -212,10 +212,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-18.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: ''
     color: '#fbc1a2'
     caption: ''
@@ -229,7 +229,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-19.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '800'
     margin_left: '5'
     margin_right: '0'
     align_y: ''
@@ -239,7 +239,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-20.jpg
     width: '30'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '20'
     align_y: ''
