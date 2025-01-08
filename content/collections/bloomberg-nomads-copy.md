@@ -10,6 +10,15 @@ collection_description: >-
   In the painful aftermath of pga tour pro Grayson Murray’s suicide, the people
   who loved him describe a man with immense talent, a kind heart and a burden he
   couldn’t shed.
+
+
+  The bedroom is filled with reminders of who Grayson Murray was and wanted to
+  be. A black case in the corner holds the Sony Open trophy. Self-help books
+  press against his tattered Bible on a nightstand."
+
+
+  This weekend marks the one-year anniversary of Murray's career breakthrough
+  win at the Sony Open in Hawaii. He passed away four months later.
 collection_description_alignment: center
 slug: golfdigest-grayson
 collection_blocks:
