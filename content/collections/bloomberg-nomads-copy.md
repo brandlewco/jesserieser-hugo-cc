@@ -228,9 +228,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-19.jpg
-    width: '30'
+    width: '40'
     margin_y: '100'
-    margin_left: '55'
+    margin_left: '5'
     margin_right: '0'
     align_y: ''
     color: '#f6f1d0'
@@ -238,16 +238,14 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-20.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: '30'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '20'
     align_y: ''
     color: '#ffebda'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -262,6 +260,8 @@ collection_blocks:
     color: '#ede5de'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
