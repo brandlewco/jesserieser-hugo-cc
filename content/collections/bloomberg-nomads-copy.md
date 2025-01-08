@@ -4,11 +4,12 @@ seo:
   meta_description: 'West Coast Photographer Jesse Rieser photographs Nomads '
   meta_title: Photographer Jesse Rieser photographs Nomads
 title: Golf Digest
-collection_meta: 'The Misunderstood Life '
-collection_meta_2: of Grayson Murray
+collection_meta: The Misunderstood
+collection_meta_2: ' Life of Grayson Murray'
 collection_description: >-
-  In the painful aftermath of Grayson Murray’s suicide, the people who loved him
-  describe a man with immense talent, a kind heart and a burden he couldn’t shed
+  In the painful aftermath of pga tour pro Grayson Murray’s suicide, the people
+  who loved him describe a man with immense talent, a kind heart and a burden he
+  couldn’t shed.
 collection_description_alignment: center
 slug: golfdigest-grayson
 collection_blocks:
@@ -322,7 +323,7 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-cover-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-8.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-cover-vert-2.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
