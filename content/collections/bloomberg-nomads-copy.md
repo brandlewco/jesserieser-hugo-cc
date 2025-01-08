@@ -252,8 +252,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-21.jpg
-    width: '25'
-    margin_y: '100'
+    width: '35'
+    margin_y: '200'
     margin_left: '30'
     margin_right: '0'
     align_y: ''
@@ -266,55 +266,55 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-22.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '40'
+    width: '20'
+    margin_y: '1000'
+    margin_left: '30'
     margin_right: ''
     align_y: ''
     color: '#cce1f3'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-23.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: ''
+    width: '30'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '15'
     align_y: ''
     color: '#d8f3d8'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-24.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '5'
+    margin_right: '0'
     align_y: ''
     color: '#fbc1a2'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-25.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    width: '33'
+    margin_y: '350'
+    margin_left: '0'
+    margin_right: '25'
     align_y: ''
     color: '#eddaf0'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-26.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#eddaf0'
