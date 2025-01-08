@@ -14,7 +14,7 @@ collection_description: >-
 
   The bedroom is filled with reminders of who Grayson Murray was and wanted to
   be. A black case in the corner holds the Sony Open trophy. Self-help books
-  press against his tattered Bible on a nightstand."
+  press against his tattered Bible on a nightstand.
 
 
   This weekend marks the one-year anniversary of Murray's career breakthrough
