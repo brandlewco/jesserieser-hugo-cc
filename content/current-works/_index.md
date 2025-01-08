@@ -83,7 +83,7 @@ content_blocks:
     text_alignment: center
     text_tracking: wide
     font_weight: hairline
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
