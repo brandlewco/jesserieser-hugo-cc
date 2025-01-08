@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: 'West Coast Photographer Jesse Rieser photographs Nomads '
-  meta_title: Photographer Jesse Rieser photographs Nomads
+  meta_description: >-
+    West Coast Photographer Jesse Rieser photographs the family and friends of
+    Grayson Murray
+  meta_title: Photographer Jesse Rieser photographs what Grayson Murray left behind
 title: Golf Digest
 collection_meta: The Misunderstood
 collection_meta_2: ' Life of Grayson Murray'
