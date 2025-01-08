@@ -28,7 +28,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
     margin_y: '0'
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -43,8 +43,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
@@ -53,24 +51,48 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '33'
+    width: '25'
     align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
+    attached_collection: collections/bloomberg-nomads-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '35'
-    margin_y: '350'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
     color: '#c9fce6'
     caption: ''
