@@ -21,7 +21,7 @@
             {{ end }}
             {{ end }}
             <div id="archive-title" class="filter-item h-auto w-full overflow-hidden flex flex-row justify-center mt-6 sm:mt-30 mb-4 sm:mb-100 {{ range site.Data.categories }}{{. | replaceRE "[\\W]" "" | lower}} {{ end }}personal commissionedstock all" data-filter="{{ range site.Data.categories }}{{. | replaceRE "[\\W]" "" | lower}},{{ end }}personal,commissionedstock,all">
-                <h2 data-cms-bind="#title" class="text-xs sm:text-sm tracking-widest leading-tight uppercase pb-2 sm:pb-4 initial-black" data-sal="slide-up" data-sal-delay="1000" style="width: fit-content;">
+                <h2 data-cms-bind="#title" class="text-xs sm:text-sm tracking-widest leading-tight uppercase pb-2 sm:pb-4 lg:pr-10 initial-black " data-sal="slide-up" data-sal-delay="1000" style="width: fit-content;">
                     Archive
                     <div class="loading bg-black initial-black-bg p-0 m-0 h-px mt-2 sm:mt-4" data-sal="loading" style="width: fit-content; animation-duration: 1.8s; transition-duration: 1.8s; animation-delay: 0.2s; transition-delay: 0.2s;"></div>
                 </h2>
