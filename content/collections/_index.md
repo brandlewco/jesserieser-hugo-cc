@@ -27,4 +27,8 @@ collection_sorter:
   - collections/wallow-fire.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
+archive_sorter:
+  - collections/star-geezers.md
+  - collections/stalking-a-serial-killer.md
+  - collections/time-kari-lake.md
 ---

@@ -317,6 +317,7 @@ module.exports = {
       "grid-four": "calc(25% - 1rem)",
       "grid-three": "calc(33% - 0.5rem)",
       "grid-two": "calc(50% - 0.25rem)",
+      "grid-full": "100%",
       full: "100%",
       screen: "100vw",
       "fit": "fit-content"
