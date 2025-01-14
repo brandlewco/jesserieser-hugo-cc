@@ -49,6 +49,7 @@ imagesLoaded(grid, function() {
 
     var iso = new Isotope(grid, {
       itemSelector: ".filter-item",
+      stamp: '.stamp',
       // stamp: ".stamp",
       layoutMode: "fitRows",
       fitRows: {
@@ -315,15 +316,18 @@ imagesLoaded(grid, function() {
 
 
     const filterError = document.getElementById("filter-error");
+    const archiveTitle = document.getElementById("archive-title");
     // const filterArchive = document.getElementById("filter-archive");
 
     iso.on("layoutComplete", function(laidOutItems) {
       // console.log(laidOutItems.length);
       if (laidOutItems.length === 1) {
         filterError.classList.add("active");
+        archiveTitle.style.opacity = 0;
         // filterArchive.style.opacity = 0;
       } else {
         filterError.classList.remove("active");
+        archiveTitle.style.opacity = 1;
         // filterArchive.style.opacity = 1;
       }
     });
