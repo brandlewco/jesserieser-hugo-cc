@@ -22,114 +22,114 @@ collection_blocks:
     color:
     show_controls: false
     block_aspect_ratio:
-    width: "80"
+    width: '80'
     align_y: start
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     caption:
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    width: "66"
-    margin_y: "100"
-    margin_left: "30"
-    margin_right: "0"
+    width: '66'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y:
-    color: "#edd7b2"
+    color: '#edd7b2'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y:
-    color: "#e2cfef"
+    color: '#e2cfef'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
-    width: "33"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "15"
+    width: '33'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '15'
     align_y:
-    color: "#cdf3ec"
+    color: '#cdf3ec'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-4.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#f9d5d3"
+    color: '#f9d5d3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-5.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
-    color: "#d9e3f4"
+    color: '#d9e3f4'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-6.jpg
-    width: "45"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "5"
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#e6f3e6"
+    color: '#e6f3e6'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-7.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#cff1f3"
+    color: '#cff1f3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-8.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#ffe5c9"
+    color: '#ffe5c9'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-9.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "45"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '45'
+    margin_right: '0'
     align_y:
-    color: "#ebd1ef"
+    color: '#ebd1ef'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-10.jpg
-    width: "45"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '45'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
-    color: "#cef8e1"
+    color: '#cef8e1'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -139,43 +139,43 @@ collection_blocks:
     color:
     show_controls: false
     block_aspect_ratio:
-    width: "33"
+    width: '33'
     align_y: start
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     caption:
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
-    width: "33"
-    margin_y: "300"
-    margin_left: "0"
-    margin_right: "20"
+    width: '33'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '20'
     align_y:
-    color: "#f9d4c0"
+    color: '#f9d4c0'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '40'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#f4d4d3"
+    color: '#f4d4d3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "50"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
     align_y:
-    color: "#c2f4f4"
+    color: '#c2f4f4'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -191,12 +191,12 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-18.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#f0d0cf"
+    color: '#f0d0cf'
     caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-7.jpg
@@ -210,16 +210,16 @@ collection_category:
   - Sports + Athletes
   - Portraits
 date: 2021-02-10T03:16:07Z
-theme_color: "#eac5bf"
-theme_color_all_works: "#ffe05a"
+theme_color: '#eac5bf'
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
-collection_content: ""
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-28.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-29.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-30.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-31.jpg
+collection_content: ''
 collection_awards:
   - content: >-
       <strong>2019</strong><br>   AP 35: American Photography Annual 35<br>  
