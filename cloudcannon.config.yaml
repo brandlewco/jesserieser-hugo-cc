@@ -569,6 +569,14 @@ _inputs:
       preview:
         text:
           - key: slug
+  archive_sorter:
+    type: multiselect
+    options:
+      values: collections.collections
+      value_key: content_path  
+      preview:
+        text:
+          - key: slug
   shop_sorter:
     type: multiselect
     options:
