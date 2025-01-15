@@ -338,10 +338,7 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-cover-
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Tech
-  - Science
   - Reportage
-  - Climate Change
   - Portraits
   - Environments
 date: 2023-04-12T16:05:37Z
@@ -350,10 +347,11 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-10.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-12.jpg
 collection_content: >-
   Meet the Americans who live in their vans, buses and cars in pursuit of a
   simpler life using less energy. Seen here is Bob Wells (a central figure in
