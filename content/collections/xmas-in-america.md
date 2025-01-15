@@ -798,9 +798,9 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-2.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-67.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-66.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-68.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-70.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-71.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-68.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-69.jpg
 collection_content: >-
   Beyond the glowing green and red lights, past the shimmering silvery tinsel,
