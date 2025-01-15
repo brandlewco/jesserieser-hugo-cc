@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description:
   meta_title: Inside the embarrassing—and irresistible—world of viral golf fights
-title: "Golf Digest "
+title: 'Golf Digest '
 collection_meta: All  The Rage
 collection_meta_2: Inside the embarrassing—and irresistible—world of viral golf fights
 collection_description: >-
@@ -20,183 +20,183 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-2.jpg
-    width: "45"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y:
-    color: "#e2cfef"
-    caption: ""
+    color: '#e2cfef'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-3.jpg
-    width: "35"
-    margin_y: "600"
-    margin_left: "0"
-    margin_right: "5"
+    width: '35'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#cdf3ec"
-    caption: ""
+    color: '#cdf3ec'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-4.jpg
-    width: "20"
-    margin_y: "100"
-    margin_left: "50"
-    margin_right: "0"
+    width: '20'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
     align_y:
-    color: "#f9d5d3"
-    caption: ""
+    color: '#f9d5d3'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-5.jpg
-    width: "35"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '35'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#d9e3f4"
-    caption: ""
+    color: '#d9e3f4'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: "60"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '60'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#e6f3e6"
-    caption: ""
+    color: '#e6f3e6'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-7.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
-    color: "#cff1f3"
-    caption: ""
+    color: '#cff1f3'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-8.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    width: '25'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
-    color: "#ffe5c9"
-    caption: ""
+    color: '#ffe5c9'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-9.jpg
-    width: "50"
-    margin_y: "600"
-    margin_left: "0"
-    margin_right: "10"
+    width: '50'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
-    color: "#ebd1ef"
-    caption: ""
+    color: '#ebd1ef'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-10.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "50"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
     align_y:
-    color: "#cef8e1"
-    caption: ""
+    color: '#cef8e1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-11.jpg
-    width: "35"
-    margin_y: "200"
-    margin_left: "25"
-    margin_right: "0"
+    width: '35'
+    margin_y: '200'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#f9d4c0"
-    caption: ""
+    color: '#f9d4c0'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-12.jpg
-    width: "25"
-    margin_y: "300"
-    margin_left: "0"
-    margin_right: "10"
+    width: '25'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
-    color: "#f4d4d3"
-    caption: ""
+    color: '#f4d4d3'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-13.jpg
-    width: "50"
-    margin_y: "200"
-    margin_left: "35"
-    margin_right: "0"
+    width: '50'
+    margin_y: '200'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#c2f4f4"
-    caption: ""
+    color: '#c2f4f4'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-14.jpg
-    width: "35"
-    margin_y: "900"
-    margin_left: "25"
-    margin_right: "0"
+    width: '35'
+    margin_y: '900'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#f0d0cf"
-    caption: ""
+    color: '#f0d0cf'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-15.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "5"
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#d9e3f4"
-    caption: ""
+    color: '#d9e3f4'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-16.jpg
-    width: "45"
-    margin_y: "100"
-    margin_left: "40"
-    margin_right: "0"
+    width: '45'
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
     align_y:
-    color: "#f0d0cf"
-    caption: ""
+    color: '#f0d0cf'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-17.jpg
-    width: "60"
-    margin_y: "100"
-    margin_left: "15"
-    margin_right: "20"
+    width: '60'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '20'
     align_y:
-    color: "#ebd1ef"
-    caption: ""
+    color: '#ebd1ef'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-1.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "30"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y:
-    color: "#edd7b2"
-    caption: ""
+    color: '#edd7b2'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
@@ -209,9 +209,10 @@ collection_category:
   - Color
   - Sports + Athletes
   - Humor
+  - Conceptual
 date: 2019-05-01T07:00:00Z
-theme_color: "#b7dbf5"
-theme_color_all_works: "#ffe05a"
+theme_color: '#b7dbf5'
+theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:

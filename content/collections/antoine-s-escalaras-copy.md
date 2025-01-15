@@ -198,7 +198,7 @@ collection_filter: Commissioned + Stock
 collection_category:
   - Portraits
   - Reportage
-  - Kids
+  - Color
 date: 2022-05-02T20:40:12Z
 theme_color: '#ffecaa'
 theme_color_all_works: '#ffe05a'
