@@ -1,5 +1,5 @@
 ---
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/booke-thumb-cover-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-1.jpg
 collection_description: >-
   Collections and projects of Jesse Rieser - Los Angeles and Phoenix &nbsp;based
   photographer. A student of subtleties.
