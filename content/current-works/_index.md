@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Current Works
+title: Selected Works
 collection_meta: Recent News
 collection_meta_2:
 feature_description: >-
