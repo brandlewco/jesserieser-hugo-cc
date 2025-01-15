@@ -214,12 +214,12 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#b7dbf5'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-48.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-48.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-49.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-50.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-51.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/GD_fights_4x3-6.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
