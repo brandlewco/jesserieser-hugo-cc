@@ -103,7 +103,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-9.jpg
     width: '20'
-    margin_y: '300'
+    margin_y: '900'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -113,51 +113,53 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-10.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '10'
+    width: '60'
+    margin_y: '300'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-11.jpg
-    width: '30'
-    margin_y: '600'
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
-    align_y: center
+    margin_right: '0'
+    align_y: start
     color: '#f5ecba'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-12.jpg
-    width: '45'
+    width: '30'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#f3e7dd'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-13.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: '50'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#f0cdc4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-14.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '5'
+    width: '25'
+    margin_y: '500'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#a9cffd'
@@ -165,19 +167,19 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-15.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '35'
-    align_y: center
+    margin_right: '15'
+    align_y: start
     color: '#edd5be'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-16.jpg
-    width: '80'
+    width: '60'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#fbe6df'
@@ -186,19 +188,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-17.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '5'
+    width: '33'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-18.jpg
-    width: '40'
-    margin_y: '100'
+    width: '33'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '20'
     align_y: start
     color: '#fce6c8'
     caption: ''
@@ -210,9 +212,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-19.jpg
-    width: '30'
+    width: '45'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d9d1ce'
@@ -223,19 +225,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-20.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '20'
+    width: '45'
+    margin_y: '200'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#e0eae7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-21.jpg
-    width: '30'
-    margin_y: '100'
+    width: '45'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '5'
     align_y: start
     color: '#fcceb1'
     caption: ''
@@ -243,19 +245,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-22.jpg
-    width: '33'
-    margin_y: '600'
-    margin_left: '5'
+    width: '45'
+    margin_y: '400'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-23.jpg
-    width: '55'
-    margin_y: '100'
+    width: '20'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '20'
     align_y: start
     color: '#daf0e7'
     caption: ''
@@ -265,19 +267,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-24.jpg
-    width: '20'
+    width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#f8f2f7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-25.jpg
-    width: '50'
-    margin_y: '350'
+    width: '40'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#fbe5d2'
     caption: ''
@@ -285,9 +287,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-26.jpg
-    width: '55'
+    width: '33'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
     color: '#ff8e7d'
@@ -296,10 +298,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-27.jpg
-    width: '25'
+    width: '50'
     margin_y: '100'
-    margin_left: '55'
-    margin_right: '0'
+    margin_left: '25'
+    margin_right: '5'
     align_y: start
     color: '#dcdee5'
     caption: ''
@@ -307,8 +309,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-28.jpg
-    width: '60'
-    margin_y: '600'
+    width: '30'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: center
@@ -323,34 +325,34 @@ collection_blocks:
     align_y: start
     color: '#e0f3eb'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-30.jpg
-    width: '55'
+    width: '30'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#edd5be'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-31.jpg
-    width: '33'
+    width: '45'
     margin_y: '400'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-32.jpg
-    width: '20'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '5'
     align_y: start
     color: '#d9d1ce'
     caption: ''
@@ -370,7 +372,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
-    width: '33'
+    width: '40'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
@@ -383,9 +385,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-34.jpg
-    width: '55'
+    width: '60'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#ff8e7d'
