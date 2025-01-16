@@ -205,8 +205,8 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-44.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-44.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-45.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-44.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-46.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-47.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-esc-7.jpg
