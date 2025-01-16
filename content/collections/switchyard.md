@@ -401,7 +401,7 @@ collection_blocks:
     margin_right: '0'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-7.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-5.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-8.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Exhibited Works
