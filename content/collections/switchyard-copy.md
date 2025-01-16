@@ -393,27 +393,27 @@ collection_blocks:
     color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-7.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-5.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Tech
   - Environments
-  - Conceptual
   - Color
   - Reportage
   - Climate Change
   - Editorial
+  - Workplace
 date: 2019-05-01T07:00:00Z
 theme_color: '#e9dcd0'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-43.jpg
 collection_content: >-
