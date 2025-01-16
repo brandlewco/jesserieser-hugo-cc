@@ -8,6 +8,7 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
+  - collections/switchyard.md
   - collections/bloomberg-nomads-copy.md
   - collections/outdoor-life.md
   - collections/antoine-s-escalaras.md
