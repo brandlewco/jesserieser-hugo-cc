@@ -400,8 +400,8 @@ collection_blocks:
     margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-1.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/sw-power_cover-3.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Exhibited Works
