@@ -28,7 +28,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -47,9 +47,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: American Hypnosis. 2012 - 2024
+    meta: 'Switchyard. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '50'
     margin_y: '0'
     margin_left: '15'
