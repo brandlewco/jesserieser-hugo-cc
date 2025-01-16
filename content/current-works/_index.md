@@ -26,7 +26,7 @@ content_blocks:
     meta: American Hypnosis. 2012 - 2024
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
-    width: '50'
+    width: '55'
     margin_y: '0'
     margin_left: '25'
     margin_right: '0'
@@ -50,9 +50,9 @@ content_blocks:
     meta: 'Switchyard. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
-    width: '50'
-    margin_y: '0'
-    margin_left: '15'
+    width: '33'
+    margin_y: '300'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -77,7 +77,7 @@ content_blocks:
     color: '#ffffff'
     width: '25'
     align_y: start
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
     meta_align: left
