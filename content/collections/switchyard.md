@@ -253,7 +253,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-23.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -263,9 +263,9 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-24.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: center
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-row
@@ -284,7 +284,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-26.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -292,22 +292,22 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-27.jpg
-    width: '50'
-    margin_y: '400'
+    width: '55'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#ff8e7d'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-28.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '55'
     margin_right: '0'
     align_y: start
     color: '#dcdee5'
@@ -317,28 +317,28 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-29.jpg
     width: '60'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '600'
+    margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#ffdfc9'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-30.jpg
     width: '30'
-    margin_y: '800'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-31.jpg
-    width: '50'
+    width: '55'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#edd5be'
@@ -356,11 +356,11 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-33.jpg
-    width: '30'
-    margin_y: '850'
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
-    align_y: center
+    margin_right: '5'
+    align_y: start
     color: '#d9d1ce'
     caption: ''
   - _bookshop_name: collections/media-row
