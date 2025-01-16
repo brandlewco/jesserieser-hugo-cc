@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description: 'AARP: Washed Away: Rising Seas Are Wiping Out Some Older Americans'' Futures'
-  meta_title: 'AARP: Rising Seas Are Wiping Out Some Older Americans'' Futures'
+  meta_description: >-
+    Switchyard: Power Failure: On Landscape and Abandonment by West Coast
+    Photographer, Jesse Rieser
+  meta_title: 'Switchyard: Power Failure: On Landscape and Abandonment'
 title: 'Switchyard '
 collection_meta: Power Failure
 collection_meta_2: On Landscape and Abandonment
