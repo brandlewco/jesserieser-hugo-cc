@@ -2,9 +2,9 @@
 _schema: default
 seo:
   meta_description: >-
-    Switchyard: Power Failure: On Landscape and Abandonment by West Coast
-    Photographer, Jesse Rieser
-  meta_title: 'Switchyard: Power Failure: On Landscape and Abandonment'
+    The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on Russia
+    by West Coast Photographer, Jesse Rieser
+  meta_title: 'The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on Russia'
 title: 'The New York Times '
 collection_meta: 'U.S. Ramps Up Hunt '
 collection_meta_2: for Uranium to End Reliance on Russia
