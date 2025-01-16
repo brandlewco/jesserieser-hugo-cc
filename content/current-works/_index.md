@@ -43,6 +43,30 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: American Hypnosis. 2012 - 2024
+    attached_collection: collections/vanishing-folklore-2.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    width: '50'
+    margin_y: '0'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
