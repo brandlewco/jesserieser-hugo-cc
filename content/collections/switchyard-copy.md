@@ -31,29 +31,29 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-2.jpg
-    width: '35'
-    margin_y: '200'
-    margin_left: '35'
+    width: '50'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '5'
     align_y: start
     color: '#f2ded6'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-3.jpg
     width: '33'
-    margin_y: '200'
-    margin_left: '10'
-    margin_right: '0'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#fcceb1'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-4.jpg
-    width: '50'
-    margin_y: '900'
-    margin_left: '0'
+    width: '45'
+    margin_y: '100'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
     color: '#daf0e7'
@@ -64,7 +64,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#f8f2f7'
@@ -73,19 +73,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-6.jpg
-    width: '20'
-    margin_y: '300'
-    margin_left: '40'
+    width: '25'
+    margin_y: '500'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#fbe5d2'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-7.jpg
-    width: '30'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     align_y: start
     color: '#ff8e7d'
     caption: ''
@@ -93,16 +93,16 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-8.jpg
-    width: '50'
-    margin_y: '200'
-    margin_left: '0'
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-9.jpg
-    width: '50'
+    width: '20'
     margin_y: '200'
     margin_left: '0'
     margin_right: '0'
