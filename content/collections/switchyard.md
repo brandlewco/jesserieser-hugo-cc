@@ -348,8 +348,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-32.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '400'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#a9cffd'
@@ -359,7 +359,7 @@ collection_blocks:
     width: '20'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '25'
     align_y: start
     color: '#d9d1ce'
     caption: ''
@@ -381,7 +381,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-34.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#a9cffd'
