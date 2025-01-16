@@ -135,7 +135,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-12.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
     align_y: start
     color: '#f3e7dd'
@@ -145,8 +145,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-13.jpg
     width: '60'
-    margin_y: '200'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#f0cdc4'
