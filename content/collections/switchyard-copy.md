@@ -393,7 +393,7 @@ collection_blocks:
     color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-2.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-3.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
