@@ -14,17 +14,6 @@ slug: switchyard-power
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 960736431
-    text: ''
-    color: '#ff0000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
-    margin_y: '50'
-    margin_left: '10'
-    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
