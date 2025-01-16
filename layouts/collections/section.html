@@ -38,6 +38,16 @@
 
     </section>
 </article>
+<a href="#project-header" class="flex hover-circle mt-10" alt="back to top" data-no-swup>
+    <div class="mx-auto w-full font-light text-center {{if eq .Params.collection_dark true}}text-white{{else}}text-black{{end}}"   data-sal="slide-down" data-sal-delay="300">
+        <div class="text-5xl font-hairline flex flex-row justify-center" style="line-height: 0.4;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30" height="30">
+                <path d="M256 105.4l11.3 11.3 192 192L470.6 320 448 342.6l-11.3-11.3L256 150.6 75.3 331.3 64 342.6 41.4 320l11.3-11.3 192-192L256 105.4z" {{ if .Params.collection_dark }} style="fill: #ffffff;" {{ end }}/>
+            </svg>                            
+        </div>
+        <p class="text-sm uppercase tracking-loose">Back to Top</p>
+    </div>
+</a>
 {{- end -}}
 
 {{- define "attached" -}}

@@ -900,45 +900,44 @@ function init() {
               "translate3d(0, -" + navigationHeight + "px, 0)";
           }
         }
-      }
-
-      if (pageTitle) {
-        const pageTitleHeight = pageTitle.offsetHeight;
-        let additionalHeight = 0;
-
-        if (pageDescription) {
-          const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
-          additionalHeight = pageDescriptionHeight;
-        }
-
-        const totalHeight = pageTitleHeight + additionalHeight;
-        const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
-
-        if (window.scrollY > pageTitleBottom) {
-          pageTitle.classList.add("absolute");
-          pageTitle.classList.remove("fixed");
-          pageTitle.style.top = "auto";
-          pageTitle.style.bottom = "0";
-          pageTitle.style.transform = "translate3d(0, 0vh, 0)";
-          if (headerPointer) {
-            headerPointer.style.opacity = 0;
-          }
+        if (pageTitle) {
+          const pageTitleHeight = pageTitle.offsetHeight;
+          let additionalHeight = 0;
+  
           if (pageDescription) {
-            pageDescription.classList.remove("absolute");
-            pageDescription.classList.add("relative");
+            const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
+            additionalHeight = pageDescriptionHeight;
           }
-        } else {
-          pageTitle.classList.add("fixed");
-          pageTitle.classList.remove("absolute");
-          pageTitle.style.top = "50%";
-          pageTitle.style.bottom = "auto";
-          pageTitle.style.transform = "translate3d(0, -50%, 0)";
-          if (headerPointer) {
-            headerPointer.style.opacity = 1;
-          }
-          if (pageDescription) {
-            pageDescription.classList.remove("relative");
-            pageDescription.classList.add("absolute");
+  
+          const totalHeight = pageTitleHeight + additionalHeight;
+          const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
+  
+          if (window.scrollY > pageTitleBottom) {
+            pageTitle.classList.add("absolute");
+            pageTitle.classList.remove("fixed");
+            pageTitle.style.top = "auto";
+            pageTitle.style.bottom = "0";
+            pageTitle.style.transform = "translate3d(0, 0vh, 0)";
+            if (headerPointer) {
+              headerPointer.style.opacity = 0;
+            }
+            if (pageDescription) {
+              pageDescription.classList.remove("absolute");
+              pageDescription.classList.add("relative");
+            }
+          } else {
+            pageTitle.classList.add("fixed");
+            pageTitle.classList.remove("absolute");
+            pageTitle.style.top = "50%";
+            pageTitle.style.bottom = "auto";
+            pageTitle.style.transform = "translate3d(0, -50%, 0)";
+            if (headerPointer) {
+              headerPointer.style.opacity = 1;
+            }
+            if (pageDescription) {
+              pageDescription.classList.remove("relative");
+              pageDescription.classList.add("absolute");
+            }
           }
         }
       }

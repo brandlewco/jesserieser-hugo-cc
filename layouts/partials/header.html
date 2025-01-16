@@ -29,7 +29,7 @@
         {{ $currentPage := . }}
         {{ with $currentPage.File }}
           {{ $currentPagePath := printf "collections/%s.md" .BaseFileName }}
-          {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}
+          {{ if in $collectionSorterPage.Params.archive_sorter $currentPagePath }}
             <div class="archive opacity-100 flex flex-row items-center text-xs font-normal pl-2 tracking-looser self-end italic whitespace-no-wrap shift initial-black absolute leading-none bottom-0" style="margin-bottom: -2px;">archive
             </div>
           {{ end }}
@@ -54,7 +54,7 @@
     <!-- navigation -->
     <section role="menu" class="menu translate-neg sm:translate-0 menu w-full sm:w-1/2 sm:flex flex-col sm:flex-row items-center sm:items-end sm:justify-end z-0 hidden mt-3 sm:mt-0 sm:h-6">
         <a href="/current-works/" class="nav-current mt-3 sm:mt-0 sm:mr-4 text-xs font-normal tracking-looser no-underline sm:pr-4  btn-underline shift initial-black leading-none">
-          SELECTED WORKS
+          SELECTED WORKS + NEWS
         </a>
         <div class="nav-overview-container mt-3 sm:mt-0 relative flex flex-col items-center">
           <a href="#" class="nav-overview text-xs no-underline sm:mr-4 text-center sm:text-left sm:pr-4 btn-underline font-normal tracking-looser shift initial-black leading-none" data-swup-preload="">
