@@ -300,7 +300,7 @@ content_blocks:
     title:
     meta: 'AARP: Washed Away'
     attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_cover-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
     width: '45'
     margin_y: '100'
     margin_left: '5'
@@ -322,7 +322,7 @@ content_blocks:
     title:
     meta: 'NYT: Maga is Demoting the Anti-Abortion Forces It Once Coddled'
     attached_collection: collections/antoine-s-escalaras-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/abortion_cover-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
     width: '33'
     margin_y: '700'
     margin_left: '0'
