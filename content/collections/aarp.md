@@ -460,13 +460,14 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Exhibited Works
   - Tech
   - Environments
-  - Workplace
-  - Conceptual
   - Color
   - Reportage
+  - Portraits
+  - Editorial
+  - Climate Change
+  - Travel
 date: 2019-05-01T07:00:00Z
 theme_color: '#e9dcd0'
 theme_color_all_works: '#f1a4ff'
