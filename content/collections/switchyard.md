@@ -8,9 +8,7 @@ seo:
 title: 'Switchyard '
 collection_meta: Power Failure
 collection_meta_2: On Landscape and Abandonment
-collection_description: >-
-  Higher sea levels aren’t coming: They’re already here. And older people are
-  losing their homes as a result. What will it take to keep people safe?
+collection_description: ''
 collection_description_alignment: center
 slug: switchyard-power
 collection_blocks:
