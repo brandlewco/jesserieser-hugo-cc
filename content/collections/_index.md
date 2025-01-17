@@ -9,8 +9,8 @@ navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
   - collections/switchyard.md
-  - collections/bloomberg-nomads-copy.md
   - collections/switchyard-copy.md
+  - collections/bloomberg-nomads-copy.md
   - collections/outdoor-life.md
   - collections/antoine-s-escalaras.md
   - collections/espn-devin-booker-cover-story.md
