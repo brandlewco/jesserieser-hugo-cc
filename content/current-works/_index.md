@@ -240,7 +240,7 @@ content_blocks:
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '45'
-    margin_y: '250'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -263,7 +263,7 @@ content_blocks:
     meta: 'Silver Sneakers & Apple Fitness + '
     text_size: 2xl
     align_y: start
-    width: '30'
+    width: '25'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
