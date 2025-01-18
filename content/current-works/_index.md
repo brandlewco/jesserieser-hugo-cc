@@ -26,7 +26,7 @@ content_blocks:
     meta: American Hypnosis. 2012 - 2024
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
-    width: '55'
+    width: '50'
     margin_y: '0'
     margin_left: '25'
     margin_right: '0'
@@ -45,15 +45,32 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'Switchyard. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '30'
-    margin_y: '300'
-    margin_left: '35'
-    margin_right: '0'
+    margin_y: '350'
+    margin_left: '0'
+    margin_right: '30'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -66,24 +83,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '25'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -94,10 +94,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '15'
+    width: '10'
     align_y: start
-    margin_y: '50'
-    margin_left: '20'
+    margin_y: '1000'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -112,8 +112,8 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '20'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -134,7 +134,7 @@ content_blocks:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
     attached_collection: collections/bloomberg-nomads-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
@@ -156,8 +156,8 @@ content_blocks:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '35'
-    margin_y: '500'
+    width: '30'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -175,14 +175,33 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Souvenirs From Paradise Exhibition
+    caption: The Gallery at Mountain Shadows
+    attached_blog: posts/souvenirs-from-paradise.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+    vimeo_block_cover: 769252337
+    block_aspect_ratio: 16x9
+    text_size: 2xl
+    color: '#f3d7d7'
+    width: '45'
+    align_y: start
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#f6e7d1'
+    meta: meta
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '45'
+    width: '35'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
@@ -245,8 +264,8 @@ content_blocks:
     text_size: 2xl
     align_y: start
     width: '30'
-    margin_y: '400'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -254,23 +273,6 @@ content_blocks:
       mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
     color: '#000000'
     text_color: '#ffffff'
-  - _bookshop_name: home/modal-blog
-    title: Souvenirs From Paradise Exhibition
-    caption: The Gallery at Mountain Shadows
-    attached_blog: posts/souvenirs-from-paradise.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
-    vimeo_block_cover: 769252337
-    block_aspect_ratio: 16x9
-    text_size: 2xl
-    color: '#f3d7d7'
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: right
-    theme_color: '#f6e7d1'
-    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -280,7 +282,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
@@ -538,8 +540,8 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
-    margin_y: '400'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '40'
     margin_right: '10'
     align_y:
     color: '#f4c8c8'
