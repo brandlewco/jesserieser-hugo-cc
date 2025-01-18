@@ -86,6 +86,23 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '15'
+    align_y: start
+    margin_y: '50'
+    margin_left: '20'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: >-
@@ -183,22 +200,21 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
     text_size: base
-    color: '#ffffff'
+    color: '#c22b30'
     width: '15'
     align_y: start
     margin_y: '50'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
     meta: 'ESPN: Devin Booker Becoming Legendary '
@@ -516,22 +532,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
-    text_size: base
-    color: '#c22b30'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Christmas in America: Happy Birthday, Jesus. 2010 - 2022'
