@@ -418,7 +418,7 @@ content_blocks:
     color: '#fcc8cc'
     width: '15'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
