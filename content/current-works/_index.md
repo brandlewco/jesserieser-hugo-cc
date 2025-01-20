@@ -421,7 +421,7 @@ content_blocks:
     margin_y: '50'
     margin_left: '0'
     margin_right: '5'
-    meta_align: left
+    meta_align: right
     theme_color: '#fabdc2'
     meta: meta
     blog_header:
