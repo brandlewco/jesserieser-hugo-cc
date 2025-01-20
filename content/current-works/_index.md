@@ -694,7 +694,7 @@ content_blocks:
     color: '#daceea'
     width: '25'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '0'
     margin_right: '5'
     meta_align: right
