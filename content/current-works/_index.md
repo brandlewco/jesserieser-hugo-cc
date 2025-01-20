@@ -497,7 +497,7 @@ content_blocks:
     attached_collection: collections/bloomberg-nomads.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-18.jpg
     width: '25'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '5'
     align_y: start
