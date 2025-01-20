@@ -629,10 +629,10 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size:
     color: '#ffe7c3'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '0'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#d9f8f4'
@@ -818,7 +818,7 @@ content_blocks:
     color: '#d2b9ed'
     width: '10'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '10'
     margin_right: '0'
     meta_align: left
