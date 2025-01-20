@@ -666,7 +666,7 @@ content_blocks:
     title:
     meta: 'Smithsonian: Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-1.jpg
     width: '50'
     margin_y: '300'
     margin_left: '15'
