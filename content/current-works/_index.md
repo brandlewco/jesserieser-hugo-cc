@@ -305,7 +305,7 @@ content_blocks:
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '33'
-    margin_y: '350'
+    margin_y: '200'
     margin_left: '30'
     margin_right: '0'
     align_y: start
