@@ -495,7 +495,7 @@ content_blocks:
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-3.jpg
     width: '25'
     margin_y: '50'
     margin_left: '0'
