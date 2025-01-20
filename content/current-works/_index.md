@@ -572,7 +572,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '250'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
@@ -585,11 +585,11 @@ content_blocks:
     block_aspect_ratio: 1x1
     text_size: base
     color: '#dfefc2'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '0'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     meta_align: right
     theme_color: '#d8f1ae'
     meta: meta
@@ -600,9 +600,9 @@ content_blocks:
     meta: 'ESPN: The Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '40'
+    width: '35'
     margin_y: '0'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#fdddad'
@@ -632,7 +632,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#d9f8f4'
@@ -643,7 +643,7 @@ content_blocks:
     meta: '100 Battles: Summoning the Ghost Town'
     attached_collection: collections/vox-100-battles-ghost-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
-    width: '45'
+    width: '50'
     margin_y: '300'
     margin_left: '0'
     margin_right: '20'
