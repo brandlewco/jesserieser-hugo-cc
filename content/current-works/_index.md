@@ -909,7 +909,7 @@ content_blocks:
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     width: '20'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -931,7 +931,7 @@ content_blocks:
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
     width: '55'
-    margin_y: '500'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '15'
     align_y: start
