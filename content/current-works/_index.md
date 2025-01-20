@@ -683,7 +683,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -740,7 +740,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: center
   - _bookshop_name: home/modal-blog
     title: AP 37
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -754,7 +754,7 @@ content_blocks:
     margin_y: '450'
     margin_left: '0'
     margin_right: '25'
-    meta_align: left
+    meta_align: right
     theme_color: '#ffcc8e'
     meta: meta
     blog_header:
@@ -801,7 +801,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '20'
-    meta_align: left
+    meta_align: right
     theme_color: '#ccaaf8'
     meta: meta
   - _bookshop_name: home/media-row
