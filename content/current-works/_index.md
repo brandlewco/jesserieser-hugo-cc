@@ -525,7 +525,7 @@ content_blocks:
     color: '#ffaaaa'
     width: '15'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
