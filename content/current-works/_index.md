@@ -910,7 +910,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     width: '15'
     margin_y: '0'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -930,7 +930,7 @@ content_blocks:
     meta: 'Amtrak : On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    width: '55'
+    width: '50'
     margin_y: '350'
     margin_left: '0'
     margin_right: '15'
@@ -960,7 +960,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '0'
-    margin_left: '40'
+    margin_left: '45'
     margin_right: '0'
     meta_align: right
     theme_color: '#ff0000'
