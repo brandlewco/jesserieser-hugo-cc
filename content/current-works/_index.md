@@ -873,10 +873,10 @@ content_blocks:
     color: '#ffe6e6'
     width: '25'
     align_y: start
-    margin_y: '850'
+    margin_y: '650'
     margin_left: '15'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#b9f1a8'
     meta: meta
   - _bookshop_name: home/media-feature
