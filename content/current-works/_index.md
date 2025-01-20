@@ -200,7 +200,7 @@ content_blocks:
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '35'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '25'
     margin_right: '0'
     align_y: start
@@ -281,7 +281,7 @@ content_blocks:
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
     width: '55'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '20'
     margin_right: '0'
     align_y: start
