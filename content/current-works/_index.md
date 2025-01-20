@@ -367,10 +367,10 @@ content_blocks:
     meta: 'NYT: Maga is Demoting the Anti-Abortion Forces It Once Coddled'
     attached_collection: collections/antoine-s-escalaras-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
-    width: '33'
-    margin_y: '650'
+    width: '30'
+    margin_y: '700'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -416,11 +416,11 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: 2xl
     color: '#fcc8cc'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '50'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     meta_align: right
     theme_color: '#fabdc2'
     meta: meta
@@ -434,9 +434,9 @@ content_blocks:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#c1e6ac'
@@ -460,11 +460,11 @@ content_blocks:
     block_aspect_ratio: 9x16
     text_size: base
     color: '#ffffff'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '800'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     meta_align: right
     theme_color: '#efeae0'
   - _bookshop_name: home/media-row
@@ -523,26 +523,24 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: 2xl
     color: '#ffaaaa'
-    width: '25'
+    width: '15'
     align_y: start
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#f8d9d9'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Christmas in America: Happy Birthday, Jesus. 2010 - 2022'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '10'
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '25'
     align_y:
     color: '#f4c8c8'
     caption: ''
@@ -557,6 +555,8 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     align_x: start
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
