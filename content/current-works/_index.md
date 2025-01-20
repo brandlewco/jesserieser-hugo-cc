@@ -334,7 +334,7 @@ content_blocks:
     margin_y: '50'
     margin_left: '0'
     margin_right: '15'
-    meta_align: left
+    meta_align: right
     theme_color: '#ffd2d2'
     meta: Awards
     attached: true
@@ -465,7 +465,7 @@ content_blocks:
     margin_y: '800'
     margin_left: '0'
     margin_right: '20'
-    meta_align: left
+    meta_align: right
     theme_color: '#efeae0'
   - _bookshop_name: home/media-row
     row_alignment: between
