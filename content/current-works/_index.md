@@ -909,7 +909,7 @@ content_blocks:
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '10'
     margin_right: '0'
     align_y: start
