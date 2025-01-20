@@ -599,7 +599,7 @@ content_blocks:
     title:
     meta: 'ESPN: The Most Outrageous Hole in Golf'
     attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     width: '40'
     margin_y: '0'
     margin_left: '25'
