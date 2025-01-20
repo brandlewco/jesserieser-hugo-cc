@@ -834,7 +834,7 @@ content_blocks:
     color: '#eed2d2'
     width: '25'
     align_y: start
-    margin_y: '300'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     meta_align: left
