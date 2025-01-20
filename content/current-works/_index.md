@@ -712,7 +712,7 @@ content_blocks:
     color:
     width: '15'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
