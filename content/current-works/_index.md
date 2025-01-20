@@ -229,7 +229,7 @@ content_blocks:
     color: '#c22b30'
     width: '15'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
