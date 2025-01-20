@@ -853,7 +853,7 @@ content_blocks:
     align_y: '0'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     meta_align: right
     theme_color: '#e8dcee'
     meta: meta
