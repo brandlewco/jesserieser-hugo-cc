@@ -235,18 +235,18 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    align_y:
+    align_y: start
     color: '#ddedf6'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-27.jpg
     width: '30'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
-    align_y:
+    align_y: start
     color: '#ffebda'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
