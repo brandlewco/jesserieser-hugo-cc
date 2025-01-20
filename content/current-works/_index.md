@@ -264,7 +264,7 @@ content_blocks:
     text_size: 2xl
     align_y: start
     width: '25'
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '30'
     margin_right: '0'
     block_aspect_ratio: 3x2
