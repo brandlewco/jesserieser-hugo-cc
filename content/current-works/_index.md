@@ -569,7 +569,7 @@ content_blocks:
     block_aspect_ratio: 2x3
     text_size: 2xl
     color: '#ff4b4b'
-    width: '25'
+    width: '30'
     align_y: start
     margin_y: '250'
     margin_left: '30'
@@ -646,7 +646,7 @@ content_blocks:
     width: '45'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: start
     color: '#f8e4d0'
     caption: ''
