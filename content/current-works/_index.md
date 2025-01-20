@@ -960,9 +960,9 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
-    meta_align: left
+    meta_align: right
     theme_color: '#ff0000'
     meta: meta
     blog_header:
@@ -970,57 +970,8 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: BOOOOOOOM Feature
-    caption: 'The New York Times: Auctioning Off a Dead Mall'
-    attached_blog: posts/ap-38-american-photography-annual-copy.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-boooooooom-gunsite-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#ffcfcf'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#bee8f6'
-    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: The Photo Banter
-    caption: Interview
-    attached_blog: posts/the-photo-banter.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/photobanter_JR_copy.jpg
-    block_aspect_ratio: 1x1
-    text_size: 4xl
-    color: '#0ca5e5'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#ffd595'
-    meta: meta
-  - _bookshop_name: home/modal-blog
-    title: AP 36
-    caption: 'Wired: The Internet Giant That Went Too Far'
-    attached_blog: posts/ap-36-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2020-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 4xl
-    color: '#d8ebee'
-    width: '20'
-    align_y: start
-    margin_y: '250'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#fdf9b0'
-    meta: meta
-    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/backpage-3.jpg
   - _bookshop_name: home/media-row-end
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
