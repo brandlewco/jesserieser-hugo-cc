@@ -959,7 +959,7 @@ content_blocks:
     color: '#c5c458'
     width: '30'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '40'
     margin_right: '0'
     meta_align: right
