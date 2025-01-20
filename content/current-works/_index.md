@@ -667,9 +667,9 @@ content_blocks:
     meta: 'Smithsonian: Kitt Peak National Obserbatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-7.jpg
-    width: '55'
+    width: '50'
     margin_y: '300'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#a1c7f7'
@@ -692,11 +692,11 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: 2xl
     color: '#daceea'
-    width: '20'
+    width: '25'
     align_y: start
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     meta_align: left
     theme_color: '#c8b3eb'
     meta: meta
@@ -710,7 +710,7 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: 2xl
     color:
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '50'
     margin_left: '5'
@@ -724,10 +724,10 @@ content_blocks:
     meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
     attached_collection: collections/wired-bitmain.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
-    width: '33'
-    margin_y: '250'
+    width: '30'
+    margin_y: '150'
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '0'
     align_y: start
     color: '#ffe087'
     caption: ''
@@ -741,12 +741,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: AP 37
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -755,32 +749,21 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: 2xl
     color: '#f6f9ad'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ffcc8e'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/modal-blog
-    title: YG 19
-    caption: Judge and The New Procrastinator's Guide
-    attached_blog: posts/young-guns-19.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
-    vimeo_block_cover: 618420931
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#ffe6e6'
-    width: '25'
+    width: '15'
     align_y: start
     margin_y: '450'
     margin_left: '0'
     margin_right: '25'
-    meta_align: right
-    theme_color: '#b9f1a8'
+    meta_align: left
+    theme_color: '#ffcc8e'
     meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -870,7 +853,7 @@ content_blocks:
     align_y: '0'
     margin_y: '600'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     meta_align: left
     theme_color: '#e8dcee'
     meta: meta
@@ -879,6 +862,23 @@ content_blocks:
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: YG 19
+    caption: Judge and The New Procrastinator's Guide
+    attached_blog: posts/young-guns-19.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
+    vimeo_block_cover: 618420931
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#ffe6e6'
+    width: '25'
+    align_y: start
+    margin_y: '850'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#b9f1a8'
+    meta: meta
   - _bookshop_name: home/media-feature
     title:
     meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
@@ -910,7 +910,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
     width: '20'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -924,6 +924,28 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Amtrak : On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    width: '55'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#d8c0ed'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 8xl
+    text_color: '#f6f2a3'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -946,28 +968,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Amtrak : On the Southwest Chief '
-    attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
-    width: '60'
-    margin_y: '300'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#d8c0ed'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#f6f2a3'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
