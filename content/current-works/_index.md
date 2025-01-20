@@ -571,7 +571,7 @@ content_blocks:
     color: '#ff4b4b'
     width: '25'
     align_y: start
-    margin_y: '400'
+    margin_y: '250'
     margin_left: '30'
     margin_right: '0'
     meta_align: left
@@ -587,7 +587,7 @@ content_blocks:
     color: '#dfefc2'
     width: '20'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '0'
     margin_right: '15'
     meta_align: left
