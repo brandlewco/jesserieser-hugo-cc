@@ -697,7 +697,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    meta_align: left
+    meta_align: right
     theme_color: '#c8b3eb'
     meta: meta
   - _bookshop_name: home/media-row
