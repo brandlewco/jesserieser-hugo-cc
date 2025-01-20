@@ -601,7 +601,7 @@ content_blocks:
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-33.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '20'
     margin_right: '0'
     align_y: start
