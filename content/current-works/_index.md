@@ -772,7 +772,7 @@ content_blocks:
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
     width: '50'
-    margin_y: '250'
+    margin_y: '150'
     margin_left: '15'
     margin_right: '5'
     align_y: start
