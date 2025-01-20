@@ -849,11 +849,11 @@ content_blocks:
     block_aspect_ratio: 2x3
     text_size:
     color: '#fde25e'
-    width: '25'
+    width: '30'
     align_y: '0'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     meta_align: right
     theme_color: '#e8dcee'
     meta: meta
