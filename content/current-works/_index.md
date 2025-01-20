@@ -631,7 +631,7 @@ content_blocks:
     color: '#ffe7c3'
     width: '20'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '10'
     margin_right: '0'
     meta_align: left
