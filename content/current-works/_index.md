@@ -572,7 +572,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '250'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
@@ -589,7 +589,7 @@ content_blocks:
     align_y: start
     margin_y: '0'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     meta_align: right
     theme_color: '#d8f1ae'
     meta: meta
@@ -601,7 +601,7 @@ content_blocks:
     attached_collection: collections/phoenix-open-espn.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
     width: '30'
-    margin_y: '0'
+    margin_y: '50'
     margin_left: '20'
     margin_right: '0'
     align_y: start
