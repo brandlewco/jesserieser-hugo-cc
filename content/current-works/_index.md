@@ -871,10 +871,10 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: 2xl
     color: '#ffe6e6'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '650'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#b9f1a8'
