@@ -602,7 +602,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-33.jpg
     width: '40'
     margin_y: '0'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#fdddad'
