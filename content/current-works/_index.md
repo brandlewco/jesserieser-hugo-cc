@@ -462,7 +462,7 @@ content_blocks:
     color: '#ffffff'
     width: '15'
     align_y: start
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '25'
     meta_align: right
