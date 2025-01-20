@@ -186,7 +186,7 @@ content_blocks:
     color: '#f3d7d7'
     width: '45'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
