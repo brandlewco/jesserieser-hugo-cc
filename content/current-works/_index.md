@@ -854,7 +854,7 @@ content_blocks:
     margin_y: '600'
     margin_left: '0'
     margin_right: '20'
-    meta_align: left
+    meta_align: right
     theme_color: '#e8dcee'
     meta: meta
     align_x: start
@@ -946,7 +946,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: bold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
