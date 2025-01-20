@@ -798,7 +798,7 @@ content_blocks:
     color: '#f9b0b0'
     width: '10'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '0'
     margin_right: '20'
     meta_align: right
@@ -851,7 +851,7 @@ content_blocks:
     color: '#fde25e'
     width: '25'
     align_y: '0'
-    margin_y: '600'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '20'
     meta_align: right
@@ -885,7 +885,7 @@ content_blocks:
     attached_collection: collections/armani-anniversary.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '25'
     align_y: start
