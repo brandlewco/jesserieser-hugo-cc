@@ -27,7 +27,7 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '90'
     align_y: start
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
   - _bookshop_name: collections/media-element
