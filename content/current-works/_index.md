@@ -196,9 +196,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 0
-    text: caption
+    text: ''
     color: '#000000'
-    show_controls: false
+    show_controls: true
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
