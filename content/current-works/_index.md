@@ -194,6 +194,19 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 0
+    text: caption
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '55'
+    align_y: start
+    margin_y: '0'
+    margin_left: '35'
+    margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Antoine''s Escalaras '
