@@ -552,15 +552,6 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-64.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#040305'
-    caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-1.jpg
