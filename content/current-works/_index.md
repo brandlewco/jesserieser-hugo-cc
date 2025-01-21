@@ -196,18 +196,18 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'ESPN: Devin Booker Becoming Legendary '
-    attached_collection: collections/espn-devin-booker-cover-story.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    width: '50'
+    meta: 'Antoine''s Escalaras '
+    attached_collection: collections/antoine-s-escalaras.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
+    width: '35'
     margin_y: '50'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
-    color: '#d4dee6'
+    color: '#e5f5b5'
     caption: ''
-    title_margin_y: '20'
-    title_margin_left: '20'
+    title_margin_y: '40'
+    title_margin_left: '10'
     title_margin_right: '0'
     text_size: lg
     text_color: '#000000'
@@ -215,7 +215,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -236,6 +236,28 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'ESPN: Devin Booker Becoming Legendary '
+    attached_collection: collections/espn-devin-booker-cover-story.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
+    width: '45'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#d4dee6'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-motion
     vimeo_id: 1048757871
     text: ''
@@ -959,28 +981,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Antoine''s Escalaras '
-    attached_collection: collections/antoine-s-escalaras.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '35'
-    margin_y: '50'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: start
-    color: '#e5f5b5'
-    caption: ''
-    title_margin_y: '40'
-    title_margin_left: '10'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
