@@ -258,17 +258,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1048757871
-    text: ''
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '55'
-    align_y: start
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-link
