@@ -19,6 +19,17 @@ slug: escalaras
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1048757871
+    text: ''
+    color: '#ffb6b6'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '90'
+    align_y: start
+    margin_y: '0'
+    margin_left: '5'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-1.jpg
     width: '55'
