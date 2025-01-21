@@ -200,7 +200,7 @@ content_blocks:
     attached_collection: collections/espn-devin-booker-cover-story.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
     width: '50'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '30'
     margin_right: '0'
     align_y: start
