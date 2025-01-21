@@ -198,7 +198,7 @@ content_blocks:
     vimeo_id: 1048757871
     text: ''
     color: '#000000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
