@@ -19,7 +19,7 @@ blueprint:
   text: caption
   attached_collection: collections/xmas-in-america.md
   color: "#000000"
-  show_controls: true
+  show_controls: false
   block_aspect_ratio: 16x9
   width: "50"
   align_y: start
