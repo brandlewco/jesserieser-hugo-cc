@@ -9,7 +9,7 @@ spec:
       - key: image
     text:
       - key: caption
-      - No Caption
+      - Vimeo
     subtext:
       - key: width
 

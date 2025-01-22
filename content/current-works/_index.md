@@ -218,8 +218,6 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Christmas In America Feature
@@ -429,8 +427,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
@@ -559,10 +555,6 @@ content_blocks:
     align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Christmas In America
     caption: Washington Post Cover Feature + Interview
@@ -619,8 +611,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -762,12 +752,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: Autobiography of a Contact Sport. 2016
@@ -806,8 +790,6 @@ content_blocks:
     meta_align: right
     theme_color: '#ccaaf8'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -968,10 +950,6 @@ content_blocks:
     theme_color: '#ff0000'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end

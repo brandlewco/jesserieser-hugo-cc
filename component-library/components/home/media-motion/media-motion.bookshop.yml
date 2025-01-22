@@ -9,7 +9,7 @@ spec:
       - key: image
     text:
       - key: caption
-      - No Caption
+      - Vimeo
     subtext:
       - key: width
 
@@ -17,6 +17,7 @@ spec:
 blueprint:
   vimeo_id: 999999999
   text: caption
+  attached_collection: collections/xmas-in-america.md
   color: "#000000"
   show_controls: true
   block_aspect_ratio: 16x9

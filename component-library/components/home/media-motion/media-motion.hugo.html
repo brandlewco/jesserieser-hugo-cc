@@ -5,7 +5,7 @@
     <!-- <a href="{{ .image }}" itemprop="contentUrl" pid="{{ $fileName }}" data-no-swup>
       <img class="lazyload" src="{{ .image }}?width=1024" data-src="{{ .image }}" alt="{{ .caption }}"/>
     </a> -->
-    <a href="https://player.vimeo.com/video/{{ math.Round	.vimeo_id}}" class="video relative block" itemprop="contentUrl" pid="{{ $fileName }}" background={{.show_controls}} data-no-swup>
+    <a {{ with site.GetPage .attached_collection }}href="/collections/{{.Params.slug | urlize}}/"{{end}} class="video relative block" itemprop="contentUrl" pid="{{ $fileName }}" background={{.show_controls}} data-no-swup>
       <div class="block">
         <div class="absolute inset-auto w-full h-full z-10 bg-transparent"></div>
           <div class="iframe-frame {{with .block_aspect_ratio }}aspect-{{.}}{{else}}aspect-16x9{{end}}" style="position:relative;">
