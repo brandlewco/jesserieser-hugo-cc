@@ -20,7 +20,7 @@
                     {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
                     {{ $currentPage := . }}
                     {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
-                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
+                    {{ if in $collectionSorterPage.Params.archive_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs block font-normal font-base leading-relaxed text-left ">
                     {{.Params.collection_meta | truncate 45 }}
@@ -57,7 +57,7 @@
                     {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
                     {{ $currentPage := . }}
                     {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
-                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
+                    {{ if in $collectionSorterPage.Params.archive_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs block font-normal font-base leading-relaxed text-left ">
                     {{.Params.collection_meta | truncate 45 }}
@@ -90,7 +90,7 @@
                     {{ $collectionSorterPage := .Site.GetPage "collections/_index.md" }}
                     {{ $currentPage := . }}
                     {{ $currentPagePath := printf "collections/%s.md" $currentPage.File.BaseFileName }}
-                    {{ if in $collectionSorterPage.Params.collection_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
+                    {{ if in $collectionSorterPage.Params.archive_sorter $currentPagePath }}Archive: {{end}}{{ .Title }}
                 </div>
                 <div class="text-xs  block font-normal font-base leading-relaxed text-left" style="max-width: 50vw;">
                     {{.Params.collection_meta | truncate 45 }}
