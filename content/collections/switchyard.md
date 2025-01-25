@@ -34,12 +34,30 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: It had been a brutal harvest for farmers.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '800'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '35'
     margin_y: '200'
-    margin_left: '35'
-    margin_right: '5'
+    margin_left: '0'
+    margin_right: '30'
     align_y: start
     color: '#f2ded6'
     caption: ''
@@ -65,6 +83,31 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      The corn, the soybeans, the wheat fields, all rust-colored, almost
+      Mars-like in hue.
+
+
+      There were no green fields.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '55'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-5.jpg
     width: '55'
@@ -74,6 +117,30 @@ collection_blocks:
     align_y: center
     color: '#f8f2f7'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      A construction boom that in some alternate universe might have gone to
+      building actual sustainable and technologically superior libraries,
+      community spaces, cleaner farms, or even meeting basic human needs in the
+      present: gardens and bike paths and sidewalks, or affordable homes.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '45'
+    align_y: start
+    margin_y: '50'
+    margin_left: '25'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -116,6 +183,36 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Ron Van Winkle worried about the creek on his property and the utility’s
+      plans to “remove trees that presently hold our creek bank intact.” Sarah
+      and Shaun Collignon, who live on five acres, were too far from the lines
+      to receive any compensation, but not far enough that the lines wouldn’t
+      destroy the peaceful sanctuary they’d built for their three young
+      children: the garden at the edge of the property, the chickens roaming
+      freely in the yard, a tree house built by grandpa, the unobstructed view
+      of sky and fields, the garden where the children “gather blackberries in
+      the summer, run with the dog, find interesting insects, play in the
+      leaves.”
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '60'
+    align_y: start
+    margin_y: '50'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-10.jpg
     width: '50'
@@ -134,6 +231,30 @@ collection_blocks:
     align_y: center
     color: '#f5ecba'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Other locals submitted comment letters to the state’s regulatory body
+      charged with approving the lines. They worried about losing their
+      unobstructed views of fields and forests. Some had moved away from cities
+      specifically to escape the snarl of overhead lines.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '50'
+    margin_left: '30'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -158,22 +279,68 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      As the body’s vascular system circulates blood, transmission lines carry
+      power across great distances, most of which is still derived from burned
+      coal, fracked gas, and the potent hydrocarbons of methane.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '50'
+    margin_left: '20'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Data centers, in the plainest terms, are nothing more than
+      buildings—gleaming windowless monstrosities but just buildings.
+
+
+      Many of those data centers service Amazon.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '1000'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-14.jpg
     width: '20'
-    margin_y: '100'
-    margin_left: '5'
+    margin_y: '700'
+    margin_left: '0'
     margin_right: '0'
-    align_y: start
+    align_y: center
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-15.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '35'
-    align_y: center
+    margin_right: '5'
+    align_y: start
     color: '#edd5be'
     caption: ''
   - _bookshop_name: collections/media-row
@@ -187,6 +354,32 @@ collection_blocks:
     align_y: start
     color: '#fbe6df'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      I stood in blinkered awe: the lines really did hum. These two discordant
+      sounds—the crackle and the hum—morphed into something more spectral.
+
+
+      The wind picked up, and for the briefest of moments, my entire body felt
+      electrified, as if some inescapable force had surrounded me.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '50'
+    margin_left: '25'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -209,6 +402,28 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Their massive steel towers, as high as 180-feet, require wide corridors
+      the size of football fields. After the mass clearing of trees and
+      vegetation, vast swaths of rural countryside and farmland are rendered
+      useless for much else.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '35'
+    align_y: start
+    margin_y: '50'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -275,6 +490,26 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      150,000 miles of transmission corridors, enough to circle the equator six
+      times.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '35'
+    align_y: start
+    margin_y: '0'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
