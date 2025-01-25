@@ -502,10 +502,10 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '35'
+    width: '30'
     align_y: start
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     parallax: true
     image_css: ''
