@@ -37,17 +37,17 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: It had been a brutal harvest for farmers.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    width: '20'
+    width: '25'
     align_y: start
     margin_y: '800'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css: ''
@@ -91,17 +91,17 @@ collection_blocks:
 
       There were no green fields.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
-    text_alignment: center
+    text_alignment: left
     text_tracking: normal
     font_weight: normal
     width: '50'
     align_y: start
     margin_y: '0'
-    margin_left: '55'
+    margin_left: '50'
     margin_right: '0'
     parallax: true
     image_css: ''
