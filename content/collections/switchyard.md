@@ -196,7 +196,7 @@ collection_blocks:
       the summer, run with the dog, find interesting insects, play in the
       leaves.”
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -205,7 +205,7 @@ collection_blocks:
     font_weight: normal
     width: '60'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '15'
     margin_right: '0'
     parallax: true
@@ -240,7 +240,7 @@ collection_blocks:
       unobstructed views of fields and forests. Some had moved away from cities
       specifically to escape the snarl of overhead lines.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -249,7 +249,7 @@ collection_blocks:
     font_weight: normal
     width: '50'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '30'
     margin_right: '0'
     parallax: true
@@ -285,7 +285,7 @@ collection_blocks:
       power across great distances, most of which is still derived from burned
       coal, fracked gas, and the potent hydrocarbons of methane.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -294,7 +294,7 @@ collection_blocks:
     font_weight: normal
     width: '50'
     align_y: start
-    margin_y: '50'
+    margin_y: '0'
     margin_left: '20'
     margin_right: '0'
     parallax: true
@@ -310,17 +310,17 @@ collection_blocks:
 
       Many of those data centers service Amazon.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '20'
+    width: '25'
     align_y: start
     margin_y: '1000'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css: ''
@@ -365,17 +365,17 @@ collection_blocks:
       The wind picked up, and for the briefest of moments, my entire body felt
       electrified, as if some inescapable force had surrounded me.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '50'
+    width: '60'
     align_y: start
-    margin_y: '50'
-    margin_left: '25'
+    margin_y: '0'
+    margin_left: '20'
     margin_right: '0'
     parallax: true
     image_css: ''
@@ -409,17 +409,17 @@ collection_blocks:
       vegetation, vast swaths of rural countryside and farmland are rendered
       useless for much else.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '35'
+    width: '40'
     align_y: start
-    margin_y: '50'
-    margin_left: '15'
+    margin_y: '0'
+    margin_left: '5'
     margin_right: '0'
     parallax: true
     image_css: ''
@@ -495,14 +495,14 @@ collection_blocks:
       150,000 miles of transmission corridors, enough to circle the equator six
       times.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '30'
+    width: '35'
     align_y: start
     margin_y: '0'
     margin_left: '5'
@@ -604,7 +604,7 @@ collection_blocks:
       fossil fuels, and it requires astounding amounts of water—a large data
       center can require as much as five million gallons of water a day.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -614,8 +614,8 @@ collection_blocks:
     width: '45'
     align_y: start
     margin_y: '0'
-    margin_left: '10'
-    margin_right: '5'
+    margin_left: '5'
+    margin_right: '0'
     parallax: true
     image_css: ''
     caption_css: ''
@@ -664,13 +664,13 @@ collection_blocks:
     image:
     text_color: '#000000'
     text_size: base
-    text_alignment: center
+    text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '45'
+    width: '40'
     align_y: start
-    margin_y: '0'
-    margin_left: '10'
+    margin_y: '-250'
+    margin_left: '55'
     margin_right: '5'
     parallax: true
     image_css: ''
