@@ -64,7 +64,9 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Switchyard Volume 4. Power Failure: On Landscape and Abandonment'
+    meta: >-
+      University of Tulsa: Switchyard Volume 4. Power Failure: On Landscape and
+      Abandonment
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '30'
