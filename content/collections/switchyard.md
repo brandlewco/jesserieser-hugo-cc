@@ -541,6 +541,30 @@ collection_blocks:
     align_y: center
     color: '#ff8e7d'
     caption: ''
+  - _bookshop_name: collections/media-text
+    text: >-
+      Those giant windowless buildings will come to symbolize the
+      post-agricultural landscape as surely as the worthless artifacts of our
+      post-industrial age: the “ghost boxes” of shuttered Walmart superstores,
+      the deserted shopping malls, the defunct Rust Belt factories.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
+    parallax: true
+    image_css: ''
+    caption_css: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -574,6 +598,29 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Every bit of it demands more and more electricity, amping up demand for
+      fossil fuels, and it requires astounding amounts of water—a large data
+      center can require as much as five million gallons of water a day.
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '45'
+    align_y: start
+    margin_y: '0'
+    margin_left: '10'
+    margin_right: '5'
+    parallax: true
+    image_css: ''
+    caption_css: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-31.jpg
     width: '55'
@@ -605,10 +652,29 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      The shocking $65 million bribery scheme ended in early 2024 with Sam
+      Randazzo, the former chair of Ohio’s public utility commission, which
+      first approved the Amazon rate deals, found hanging from a rope in an
+      empty warehouse, dead from suicide, as he was faced with a long jail
+      sentence.
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    width: '45'
+    align_y: start
+    margin_y: '0'
+    margin_left: '10'
+    margin_right: '5'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
