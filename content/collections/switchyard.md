@@ -548,18 +548,18 @@ collection_blocks:
       post-industrial age: the “ghost boxes” of shuttered Walmart superstores,
       the deserted shopping malls, the defunct Rust Belt factories.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '20'
+    width: '30'
     align_y: start
     margin_y: '200'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     parallax: true
     image_css: ''
     caption_css: ''
