@@ -16,6 +16,9 @@ collection_description: >-
 
 
   The data center has only one possible ending: abandonment.
+
+
+  Words by Author Mya Frazier.
 collection_description_alignment: center
 slug: switchyard-power
 collection_blocks:
