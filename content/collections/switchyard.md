@@ -95,7 +95,7 @@ collection_blocks:
     image:
     text_color: '#000000'
     text_size: base
-    text_alignment: left
+    text_alignment: right
     text_tracking: normal
     font_weight: normal
     width: '50'
