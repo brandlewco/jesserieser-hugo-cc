@@ -694,6 +694,34 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      Like us, data centers can only consume—electricity, water, space. At most,
+      they promise to drive the revolution that makes humanity obsolete.
+
+
+      Instead, we’re doing the most destructive thing imaginable: transforming
+      the landscape irrevocably, adding at an astonishing clip to the estimated
+      11,000 energy-and-water-hungry data centers already in operation globally.
+      With thousands more planned. Whether we fully recognize the consequences
+      or not, we’re giving in to corporate America’s thirst for power and
+      callous indifference to environmental cataclysm.
+    background_color: '#ffffff'
+    background_image_toggle: false
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '55'
+    align_y: start
+    margin_y: '0'
+    margin_left: '20'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
