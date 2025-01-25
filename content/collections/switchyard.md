@@ -8,7 +8,14 @@ seo:
 title: 'Switchyard '
 collection_meta: Power Failure
 collection_meta_2: On Landscape and Abandonment
-collection_description: ''
+collection_description: >-
+  This expansion of the electric grid and demand for power comes at a moment
+  when the consensus among scientists is dire at best. We’re a mere decade from
+  a point of no return if we are to avoid the worst consequences of climate
+  catastrophe.
+
+
+  The data center has only one possible ending: abandonment.
 collection_description_alignment: center
 slug: switchyard-power
 collection_blocks:
