@@ -126,17 +126,17 @@ collection_blocks:
       community spaces, cleaner farms, or even meeting basic human needs in the
       present: gardens and bike paths and sidewalks, or affordable homes.
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '45'
+    width: '50'
     align_y: start
-    margin_y: '50'
-    margin_left: '25'
+    margin_y: '0'
+    margin_left: '20'
     margin_right: '0'
     parallax: true
     image_css: ''
