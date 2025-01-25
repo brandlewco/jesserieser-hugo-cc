@@ -670,11 +670,11 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '40'
+    width: '35'
     align_y: start
-    margin_y: '-250'
-    margin_left: '55'
-    margin_right: '5'
+    margin_y: '0'
+    margin_left: '20'
+    margin_right: '0'
     parallax: true
     image_css: ''
     caption_css: ''
