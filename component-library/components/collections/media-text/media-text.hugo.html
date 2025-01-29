@@ -8,8 +8,8 @@
       </figcaption>
     </figure>
     {{else}}
-    <span class="relative break-words {{with .font_weight }}font-{{.}} {{end}} text-xl {{with .text_size }}md:text-{{.}} {{end}}{{with .text_tracking}}tracking-{{.}} {{end}}{{with .text_alignment }}text-{{.}} {{end}}{{with .parallax}}rellax rellax-off{{end}} {{with .background_color}}p-4 sm:pt-8 sm:pl-8  sm:pr-8 sm:pb-8 {{end}} leading-tight" {{with .parallax}}data-rellax-speed="4" data-rellax-xs-speed="1"{{end}} style="{{with .text_color}}color:{{.}}; {{end}}{{with .background_color}}background-color:{{.}};{{end}} {{with .caption_css | safeCSS}}{{.}}{{end}}">
+    <div class="relative break-words {{with .font_weight }}font-{{.}} {{end}} text-xl {{with .text_size }}md:text-{{.}} {{end}}{{with .text_tracking}}tracking-{{.}} {{end}}{{with .text_alignment }}text-{{.}} {{end}}{{with .parallax}}rellax rellax-off{{end}} {{with .background_color}}p-4 sm:pt-8 sm:pl-8  sm:pr-8 sm:pb-8 {{end}} leading-tight" {{with .parallax}}data-rellax-speed="4" data-rellax-xs-speed="1"{{end}} style="{{with .text_color}}color:{{.}}; {{end}}{{with .background_color}}background-color:{{.}};{{end}} {{with .caption_css | safeCSS}}{{.}}{{end}}">
       {{ .text | markdownify }}
-    </span>
+    </div>
     {{end}}
   </article>
