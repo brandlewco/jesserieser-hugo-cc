@@ -1,5 +1,5 @@
 
-<article class="block-hover lg:meta-hover block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}}">
+<article class="block-hover lg:meta-hover block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{ with .margin_y }}{{ if hasPrefix . "-" }}{{ $absVal := substr . 1 }} sm:-mt-{{ $absVal }} {{ else }} sm:mt-{{ . }} {{ end }}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}}">
   {{if (eq .background_image_toggle true) }}
     <figure class="flex flex-col sm:flex-row md:relative md:flex-none flex-row-reverse">
       <img class="relative sm:absolute z-0 lazyload {{with .parallax}}rellax rellax-off{{end}}" src="{{ .image }}?width=1024" data-src="{{ .image  }}" alt="{{ .caption }}" {{with .parallax}}data-rellax-speed="2" data-rellax-xs-speed="1"{{end}} style="{{with .image_css | safeCSS }}{{.}}{{end}}; top: 15%;"/>
