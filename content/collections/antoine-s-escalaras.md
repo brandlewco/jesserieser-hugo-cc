@@ -20,7 +20,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-motion
-    vimeo_id: 1048757871
+    vimeo_id: 1056241098
     text: ''
     color: '#ffb6b6'
     show_controls: true
