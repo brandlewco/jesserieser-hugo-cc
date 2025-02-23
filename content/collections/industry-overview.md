@@ -40,6 +40,15 @@ collection_blocks:
     color: '#d1d1d1'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_tech-202502-1.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#d1d1d1'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-4.jpg
     width: '15'
     margin_y: '100'
@@ -508,7 +517,7 @@ collection_blocks:
     color: '#a4bcca'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travelb-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_tech-202502-2.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -524,6 +533,15 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#ebe6dc'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travelb-3.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#a4bcca'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-46.jpg
@@ -571,6 +589,15 @@ collection_blocks:
     color: '#dbdfdc'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_tech-202502-3.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#dbdfdc'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-50.jpg
     width: '15'
     margin_y: '50'
@@ -581,6 +608,15 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-industry-11.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#5f5547'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_tech-202502-4.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
