@@ -725,7 +725,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-13.jpg
     width: '30'
     margin_y: '400'
-    margin_left: '0'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#c22b2c'
@@ -735,7 +735,7 @@ content_blocks:
     width: '20'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '45'
+    margin_right: '25'
     align_y:
     color: '#885872'
     caption: ''
