@@ -229,7 +229,7 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_sport-202502-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_sport-202502-3.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
