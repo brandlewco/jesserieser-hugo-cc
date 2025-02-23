@@ -193,6 +193,15 @@ collection_blocks:
     color: '#e0c6ca'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_sport-202502-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e0c6ca'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-21.jpg
     width: '15'
     margin_y: '50'
@@ -212,6 +221,15 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-23.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#eff5f6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_sport-202502-2.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
