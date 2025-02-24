@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description:
-  meta_title: Devin Booker for ESPN
+  meta_description: >-
+    West coast Phoenix + Los Angeles based commercial and fine art photographer
+    makes portraits of artist Danielle Hacche for HERMÈS
+  meta_title: Artist Danielle Hacche for HERMÈS
 title: HERMÈS
 collection_meta: 'Artist '
 collection_meta_2: Danielle Hacche
