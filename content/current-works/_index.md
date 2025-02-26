@@ -138,7 +138,7 @@ content_blocks:
     attached_collection: collections/bloomberg-nomads-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
     width: '40'
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
