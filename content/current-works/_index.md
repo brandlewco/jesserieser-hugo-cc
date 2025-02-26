@@ -56,7 +56,7 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '300'
+    margin_y: '0'
     margin_left: '35'
     margin_right: '0'
     meta_align: left
@@ -71,7 +71,7 @@ content_blocks:
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
