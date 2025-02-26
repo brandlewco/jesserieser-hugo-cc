@@ -56,8 +56,8 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '400'
-    margin_left: '30'
+    margin_y: '300'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
@@ -73,7 +73,7 @@ content_blocks:
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y: start
     color: '#d0e5ef'
     caption: ''
