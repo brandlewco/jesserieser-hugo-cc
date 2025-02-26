@@ -117,7 +117,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Grand Prix Pictet
-    caption: '"The Changing Landscape of American Retail" is an official nominee'
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
     attached_blog: posts/candela-gallery-unbound-13.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
     block_aspect_ratio: 4x3
@@ -128,7 +130,7 @@ content_blocks:
     margin_y: '450'
     margin_left: '5'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
@@ -166,7 +168,7 @@ content_blocks:
     color: '#ffffff'
     width: '25'
     align_y: start
-    margin_y: '100'
+    margin_y: '0'
     margin_left: '15'
     margin_right: '0'
     meta_align: right
@@ -178,10 +180,10 @@ content_blocks:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '30'
+    width: '33'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -208,9 +210,9 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '50'
+    width: '45'
     align_y: start
-    margin_y: '0'
+    margin_y: '200'
     margin_left: '25'
     margin_right: '0'
     meta_align: left
