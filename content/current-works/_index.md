@@ -115,25 +115,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Grand Prix Pictet
-    caption: >-
-      "The Changing Landscape of American Retail" Announced As An Official
-      Nominee
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '45'
-    align_y: start
-    margin_y: '450'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ffe4cc'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
@@ -142,7 +123,7 @@ content_blocks:
     width: '40'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -156,6 +137,25 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '40'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ffe4cc'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
