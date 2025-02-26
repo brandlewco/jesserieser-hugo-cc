@@ -48,7 +48,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: Now Represented by FLINK Artists
     caption: ''
-    attached_blog:
+    attached_blog: posts/agents-club-22-awards-poetic-documentary.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
     vimeo_block_cover: 1060315553
     block_aspect_ratio: 5x4
@@ -61,7 +61,7 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
-    meta: Awards
+    meta: News
     attached: true
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
