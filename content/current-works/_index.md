@@ -96,10 +96,10 @@ content_blocks:
       Russia
     attached_collection: collections/switchyard-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '33'
+    width: '50'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '40'
+    margin_right: '0'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -113,6 +113,8 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Grand Prix Pictet
     caption: '"The Changing Landscape of American Retail" is an official nominee'
@@ -121,17 +123,15 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '45'
+    width: '50'
     align_y: start
     margin_y: '450'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     meta_align: right
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
@@ -139,7 +139,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
     width: '40'
     margin_y: '0'
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#c9fce6'
@@ -154,6 +154,8 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
@@ -162,26 +164,24 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '25'
     align_y: start
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '20'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     meta_align: right
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '30'
-    margin_y: '0'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '25'
     align_y: start
     color: '#c9fce6'
     caption: ''
