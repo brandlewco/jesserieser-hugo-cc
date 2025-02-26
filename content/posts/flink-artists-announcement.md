@@ -8,12 +8,12 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/flink-blog-2.jpg
     title: blog title
     caption: ''
-    width: '50'
+    width: '33'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/flink-blog-3.jpg
     title: blog title
     caption: ''
-    width: '50'
+    width: '66'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end
 blog_slider:
