@@ -46,8 +46,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
+    title: Now Represented by FLINK Artists
+    caption: ''
     attached_blog:
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
     vimeo_block_cover: 1060315553
