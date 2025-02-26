@@ -65,9 +65,8 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-1.jpg
 blog_header: Switzerland's Grand Prix Pictet
 caption: >-
-  [***<u>The Changing Landscape of American Retail</u>*****<u>
-  </u>**](https://jesserieser.com/collections/changing-landscape-american-retail)is
-  an official nominee for Prix Pictet’s first cycle in five years.
+  <u>The Changing Landscape of American Retail </u>is an official nominee for
+  Prix Pictet’s first cycle in five years.
 blog_content: >-
   [**<u>Prix Pictet</u>**](https://prix.pictet.com/) is the premier fine art
   photography award, with a mandate to use the power of photography to
