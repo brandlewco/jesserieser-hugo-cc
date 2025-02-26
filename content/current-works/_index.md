@@ -212,7 +212,7 @@ content_blocks:
     color: '#f3d7d7'
     width: '50'
     align_y: start
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     meta_align: left
