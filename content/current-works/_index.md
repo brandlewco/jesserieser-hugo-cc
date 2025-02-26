@@ -61,8 +61,8 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
-    meta: News
-    attached: true
+    meta: 'News '
+    attached: false
   - _bookshop_name: home/media-feature
     title:
     meta: >-
