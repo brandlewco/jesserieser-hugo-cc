@@ -73,7 +73,7 @@ content_blocks:
     width: '33'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -96,9 +96,9 @@ content_blocks:
       Russia
     attached_collection: collections/switchyard-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '50'
+    width: '55'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
