@@ -181,10 +181,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '10'
+    width: '15'
     align_y: start
     margin_y: '700'
-    margin_left: '15'
+    margin_left: '45'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -196,9 +196,9 @@ content_blocks:
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
     width: '30'
-    margin_y: '600'
+    margin_y: '0'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '5'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -225,10 +225,10 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '45'
+    width: '50'
     align_y: start
     margin_y: '0'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#f6e7d1'
@@ -242,7 +242,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '35'
     margin_y: '50'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
