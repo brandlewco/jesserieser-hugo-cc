@@ -23,7 +23,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: American Hypnosis. 2012 - 2024
+    meta: American Hypnosis. 2012 - 2024. Published by PowerHouse 2026
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
@@ -60,7 +60,7 @@ content_blocks:
     margin_left: '5'
     margin_right: '0'
     meta_align: left
-    theme_color: '#d2fdff'
+    theme_color: '#f0dcec'
     meta: News
     attached: true
   - _bookshop_name: home/modal-blog
