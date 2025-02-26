@@ -26,7 +26,7 @@ content_blocks:
     meta: 'Coming Soon from PowerHouse Books: American Hypnosis. 2012 - 2024. '
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
-    width: '45'
+    width: '50'
     margin_y: '0'
     margin_left: '25'
     margin_right: '0'
@@ -70,10 +70,10 @@ content_blocks:
       Abandonment
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
-    width: '33'
+    width: '35'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     align_y: start
     color: '#d0e5ef'
     caption: ''
