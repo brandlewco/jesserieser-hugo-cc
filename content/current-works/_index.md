@@ -57,47 +57,11 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
     meta: News
-    attached: true
-  - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
     title:
@@ -106,10 +70,10 @@ content_blocks:
       Abandonment
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
-    width: '30'
-    margin_y: '350'
+    width: '33'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '15'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -123,6 +87,42 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: '"The Changing Landscape of American Retail" is an official nominee'
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '45'
+    align_y: start
+    margin_y: '350'
+    margin_left: '20'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#ffe4cc'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -318,7 +318,7 @@ content_blocks:
     title:
     meta: The Changing Landscape of American Retail. 2015 - 2024
     attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
     width: '55'
     margin_y: '50'
     margin_left: '15'
