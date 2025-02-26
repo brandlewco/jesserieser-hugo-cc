@@ -210,12 +210,12 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '50'
+    width: '55'
     align_y: start
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
-    meta_align: left
+    meta_align: center
     theme_color: '#f6e7d1'
     meta: meta
   - _bookshop_name: home/media-row
