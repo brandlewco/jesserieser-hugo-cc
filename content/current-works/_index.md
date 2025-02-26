@@ -173,23 +173,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '15'
-    align_y: start
-    margin_y: '700'
-    margin_left: '45'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
@@ -241,7 +224,7 @@ content_blocks:
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '35'
-    margin_y: '50'
+    margin_y: '200'
     margin_left: '30'
     margin_right: '0'
     align_y: start
@@ -257,6 +240,23 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '10'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
