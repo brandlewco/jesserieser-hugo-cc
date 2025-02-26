@@ -143,7 +143,7 @@ content_blocks:
       "The Changing Landscape of American Retail" Announced As An Official
       Nominee
     attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover2.jpg
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
