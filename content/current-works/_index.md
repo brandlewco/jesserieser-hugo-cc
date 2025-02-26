@@ -125,7 +125,7 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '50'
+    width: '45'
     align_y: start
     margin_y: '450'
     margin_left: '5'
@@ -142,7 +142,7 @@ content_blocks:
     width: '40'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -210,7 +210,7 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '45'
+    width: '50'
     align_y: start
     margin_y: '200'
     margin_left: '25'
