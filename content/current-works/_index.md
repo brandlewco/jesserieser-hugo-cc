@@ -48,7 +48,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: Now Represented by FLINK Artists
     caption: Los Angles, New York & London
-    attached_blog: posts/agents-club-22-awards-poetic-documentary.md
+    attached_blog: posts/flink-artists-announcement.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
     vimeo_block_cover: 1060315553
     block_aspect_ratio: 4x5
