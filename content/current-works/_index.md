@@ -166,10 +166,10 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '30'
     align_y: start
-    margin_y: '-50'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     meta_align: right
     theme_color: '#d2fdff'
