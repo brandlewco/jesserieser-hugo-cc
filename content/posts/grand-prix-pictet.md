@@ -18,17 +18,17 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-3.jpg
     title: blog title
     caption: ''
-    width: '50'
+    width: '33'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-6.jpg
     title: blog title
     caption: ''
-    width: '50'
+    width: '33'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-8.jpg
     title: blog title
     caption: ''
-    width: '50'
+    width: '33'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-5.jpg
     title: blog title
@@ -45,15 +45,15 @@ post_blocks:
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-10.jpg
-    title: blog title
-    caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-11.jpg
     title: blog title
     caption: ''
     width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/prix_retail-blog-10.jpg
+    title: blog title
+    caption: ''
+    width: '100'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
