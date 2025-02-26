@@ -23,9 +23,11 @@ attached: false
 attached_collection: collections/xmas-in-america.md
 attached_link:
 block_aspect_ratio: 9x16
-blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-2.jpg
+blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/flink-blog-1.jpg
 blog_header: Now Managed by Flink Artists
-caption: Now Managed by Flink Artists
+caption: >-
+  Now Managed by <a href="https://flinkartists.com" target="_blank"
+  rel="noopener">Flink Artists</a>
 blog_content: >-
   Excited to announce I have partnered with [**Flink
   Artists**](https://flinkartists.com/) for my commercial and advertising
