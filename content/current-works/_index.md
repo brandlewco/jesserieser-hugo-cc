@@ -23,7 +23,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: American Hypnosis. 2012 - 2024. Published by PowerHouse 2026
+    meta: 'Coming Soon from PowerHouse Books: American Hypnosis. 2012 - 2024. '
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
     width: '50'
