@@ -152,7 +152,7 @@ content_blocks:
     margin_y: '0'
     margin_left: '0'
     margin_right: '0'
-    meta_align: left
+    meta_align: right
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
