@@ -12,6 +12,14 @@ collection_description: >-
   By definition, hypnosis is the induction of a state of consciousness in which
   a person loses the power of voluntary action and is highly responsive to
   suggestion or direction.
+
+
+  This long-term works in progress are the transmissions of a citizen who seems
+  comfortable sitting with the knowledge that he is as excited by his home as he
+  is alarmed by it.
+
+
+  Spring 2026 release with PowerHouse Books.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:
