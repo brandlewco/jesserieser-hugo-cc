@@ -14,11 +14,12 @@ collection_description: >-
   e-commerce.
 
 
-  A winning exhibition for Klompching Gallery 2020 *Fresh*, 2019 - 2020 The
-  Fence touring installation, winner in the 2018 *PDN Photo Annual* and a
-  *Photolucida* *Critical Mass* top 50 international fine art photographic
-  project. Featured on *NPR, The Washington Post, Architectural Digest, Wired,
-  Fast Company,* and *Business Insider.*
+  An official nominee for the 2025 Grand Prix Pictet, a winning exhibition at
+  Klompching Gallery 2020 *Fresh*, 2019 - 2020 The Fence touring installation,
+  winner in the 2018 *PDN Photo Annual* and a *Photolucida* *Critical Mass* top
+  50 international fine art photographic project. Featured on *NPR, The
+  Washington Post, Architectural Digest, Wired, Fast Company,* and *Business
+  Insider.*
 collection_description_alignment: center
 slug: changing-landscape-american-retail
 collection_blocks:
