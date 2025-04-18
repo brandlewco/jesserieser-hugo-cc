@@ -17,9 +17,8 @@ header_col_1: >-
   <p>Managed and Represented by <br /><a
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
   rel="noopener">Flink Artists</a><br /><a
-  href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br /><a
-  href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
-  (direct)<br />New York, London &amp; Los Angeles</p><p></p>
+  href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br />New York,
+  London &amp; Los Angeles</p><p></p>
 header_col_2_title: >-
   Editorial Assignments, Phoenix Advertising, Corporate Commissions,
   Exhibitions, Syndication, & Press
