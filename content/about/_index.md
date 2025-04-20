@@ -12,7 +12,7 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
+header_col_1_title: 'U.S. + International Advertising '
 header_col_1: >-
   <p>Managed and Represented by <br /><a
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
