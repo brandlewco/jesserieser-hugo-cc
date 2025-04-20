@@ -20,9 +20,7 @@ header_col_1: >-
   href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br /><a
   href="mailto:danielle@flinkartists.com">danielle@flinkartists.com</a><br />New
   York, London &amp; Los Angeles</p><p></p>
-header_col_2_title: >-
-  Editorial Assignments, Phoenix Advertising, Corporate Commissions,
-  Exhibitions, Syndication, & Press
+header_col_2_title: Editorial, Phoenix Advertising, Corporate, Exhibitions, Syndication, & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
