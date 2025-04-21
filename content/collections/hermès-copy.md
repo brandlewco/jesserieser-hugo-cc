@@ -5,12 +5,13 @@ seo:
     West coast Phoenix + Los Angeles based commercial and fine art photographer
     makes portraits of artist Danielle Hacche for HERMÈS
   meta_title: Artist Danielle Hacche for HERMÈS
-title: 'The Wall Street Journal '
-collection_meta: 2nd Acts
-collection_meta_2: John Czarnecky always loved cars. Now he gets to pursue his passion full time.
-collection_description: >-
-  **An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car
-  Driver**
+title: The Wall Street
+collection_meta: 'Journal '
+collection_meta_2: 'Second Acts '
+collection_description: |-
+  John Czarnecky always loved cars. Now he gets to pursue his passion full time.
+
+  An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver
 collection_description_alignment: center
 slug: wsj-racecar
 collection_blocks:
