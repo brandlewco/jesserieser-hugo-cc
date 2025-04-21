@@ -9,10 +9,10 @@ seo:
 title: The Wall Street
 collection_meta: 'Journal '
 collection_meta_2: 'Second Acts '
-collection_description: |-
+collection_description: >-
   An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver:
-
   John Czarnecky always loved cars. Now he gets to pursue his passion full time.
+
 
   &nbsp;
 collection_description_alignment: center
