@@ -9,9 +9,11 @@ title: The Wall Street
 collection_meta: 'Journal '
 collection_meta_2: 'Second Acts '
 collection_description: |-
+  An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver:
+
   John Czarnecky always loved cars. Now he gets to pursue his passion full time.
 
-  An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver
+  &nbsp;
 collection_description_alignment: center
 slug: wsj-racecar
 collection_blocks:
@@ -147,25 +149,26 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-covers-2.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-covers-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-covers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Lifestyle
   - Portraits
-  - Advertising
   - Environments
   - Color
+  - Sports + Athletes
+  - Editorial
 date: 2021-02-10T03:16:07Z
 theme_color: '#eac5bf'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-4.jpg
 collection_content: ''
 collection_awards:
   - content: >-
