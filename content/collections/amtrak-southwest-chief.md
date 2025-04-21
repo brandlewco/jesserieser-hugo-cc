@@ -2,15 +2,14 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: 'Amtrak The National: On The Southwest Chief'
+  meta_title: 'Amtrak : Where Amtrak Can Take You'
 title: Amtrak
-collection_meta: The National
-collection_meta_2: On The Southwest Chief
+collection_meta: The Southwest Chief
+collection_meta_2: Where Amtrak Can Take You
 collection_description: >-
   A project celebrating the romanticism of train travel and the light of the
   Southwest as a unifying ingredient—taking you from inside the train, out the
-  window and the places Amtrak’s Southwest Chief can take you. This commission
-  was special as I took my father on what he called “a trip of a lifetime.”
+  window and the places Amtrak’s Southwest Chief can take you.
 collection_description_alignment: left
 slug: southwest-chief
 collection_blocks:
