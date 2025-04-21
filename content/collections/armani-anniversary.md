@@ -3,12 +3,10 @@ _schema: default
 seo:
   meta_description:
   meta_title: Deandre Hopkins for Emporio Armani’s 50th Anniversary
-title: V Magazine
-collection_meta: Emporio Armani’s 50th Anniversary
+title: Emporio Armani
+collection_meta: 50th Anniversary
 collection_meta_2: Featuring Deandre Hopkins
-collection_description: >-
-  Part of a 12 subject calendar produced by V and V Man celebrating 50 years of
-  Emporio Armani.
+collection_description: ''
 collection_description_alignment: center
 slug: deandrehopkins
 collection_blocks:
