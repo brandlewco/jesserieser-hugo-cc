@@ -16,6 +16,7 @@ collection_sorter:
   - collections/espn-devin-booker-cover-story.md
   - collections/retail.md
   - collections/hermès.md
+  - collections/hermès-copy.md
   - collections/guns-pizza.md
   - collections/aarp.md
   - collections/antoine-s-escalaras-copy.md
