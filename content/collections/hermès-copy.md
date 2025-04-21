@@ -104,9 +104,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-9.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '25'
+    width: '33'
+    margin_y: '700'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#ebd1ef'
@@ -126,7 +126,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-11.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#f9d4c0'
