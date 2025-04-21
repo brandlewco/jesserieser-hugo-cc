@@ -3,8 +3,9 @@ _schema: default
 seo:
   meta_description: >-
     West coast Phoenix + Los Angeles based commercial and fine art photographer
-    makes portraits of artist Danielle Hacche for HERMÈS
-  meta_title: Artist Danielle Hacche for HERMÈS
+    makes portraits of recently retired John Czarnecky and his new love for
+    racing cars. 
+  meta_title: John Czarnecky for The Wall Street Journal
 title: The Wall Street
 collection_meta: 'Journal '
 collection_meta_2: 'Second Acts '
