@@ -6,13 +6,11 @@ seo:
     makes portraits of recently retired John Czarnecky and his new love for
     racing cars. 
   meta_title: John Czarnecky for The Wall Street Journal
-title: The Wall Street
-collection_meta: 'Journal '
-collection_meta_2: 'Second Acts '
-collection_description: >-
-  An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver:
+title: 'The Wall Street Journal '
+collection_meta: 'Second Acts '
+collection_meta_2: An Entrepreneur Sells His Businesses, Retires and Becomes a Race-Car Driver
+collection_description: |-
   John Czarnecky always loved cars. Now he gets to pursue his passion full time.
-
 
   &nbsp;
 collection_description_alignment: center
