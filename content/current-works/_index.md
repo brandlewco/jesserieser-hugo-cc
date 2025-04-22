@@ -119,7 +119,7 @@ content_blocks:
     title:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
     attached_collection: collections/bloomberg-nomads-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-2.jpg
     width: '50'
     margin_y: '400'
     margin_left: '5'
