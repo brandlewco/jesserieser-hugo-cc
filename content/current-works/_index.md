@@ -723,7 +723,7 @@ content_blocks:
     title:
     meta: 'Amtrak : On the Southwest Chief '
     attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-13.jpg
     width: '50'
     margin_y: '300'
     margin_left: '0'
@@ -1002,7 +1002,7 @@ content_blocks:
     title:
     meta: '100 Battles: Summoning the Ghost Town'
     attached_collection: collections/vox-100-battles-ghost-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-13.jpg
     width: '50'
     margin_y: '350'
     margin_left: '0'
