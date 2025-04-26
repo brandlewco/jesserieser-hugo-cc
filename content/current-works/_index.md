@@ -678,28 +678,6 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'ESPN: The Most Outrageous Hole in Golf'
-    attached_collection: collections/phoenix-open-espn.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-6.jpg
-    width: '30'
-    margin_y: '50'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#fdddad'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f39696'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -998,30 +976,6 @@ content_blocks:
     text_tracking: normal
     font_weight: semibold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: '100 Battles: Summoning the Ghost Town'
-    attached_collection: collections/vox-100-battles-ghost-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-1.jpg
-    width: '40'
-    margin_y: '350'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#f8e4d0'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#a5f48a'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Xmas Roundup
     caption: Holiday Season Feature and Interview Roundup
@@ -1030,15 +984,17 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size:
     color: '#c5c458'
-    width: '30'
+    width: '33'
     align_y: start
-    margin_y: '0'
-    margin_left: '40'
-    margin_right: '0'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '30'
     meta_align: right
     theme_color: '#ff0000'
     meta: meta
     blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
