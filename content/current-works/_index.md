@@ -802,26 +802,26 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
-    attached_collection: collections/wired-bitmain.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-2b.jpg
+    meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
+    attached_collection: collections/armani-anniversary.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
     width: '30'
     margin_y: '150'
     margin_left: '0'
     margin_right: '0'
     align_y: start
-    color: '#ffe087'
+    color: '#c1eee7'
     caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
+    title_margin_y: '10'
+    title_margin_left: '10'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#f8f1bc'
-    line_height: none
+    text_size: 10xl
+    text_color: '#f270f1'
+    line_height: normal
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: center
+    meta_align: right
   - _bookshop_name: home/modal-blog
     title: AP 37
     caption: 'The New York Times: Auctioning Off a Dead Mall'
@@ -946,7 +946,7 @@ content_blocks:
     color: '#ffe6e6'
     width: '20'
     align_y: start
-    margin_y: '650'
+    margin_y: '450'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
@@ -954,26 +954,26 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-feature
     title:
-    meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
-    attached_collection: collections/armani-anniversary.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
+    meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
+    attached_collection: collections/wired-bitmain.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
     width: '30'
     margin_y: '50'
     margin_left: '0'
     margin_right: '25'
     align_y: start
-    color: '#c1eee7'
+    color: '#ffe087'
     caption: ''
-    title_margin_y: '10'
-    title_margin_left: '10'
+    title_margin_y: '15'
+    title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 10xl
-    text_color: '#f270f1'
-    line_height: normal
+    text_size: 7xl
+    text_color: '#f8f1bc'
+    line_height: none
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: right
+    meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
