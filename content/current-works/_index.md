@@ -171,7 +171,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
@@ -845,7 +845,7 @@ content_blocks:
     title:
     meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '50'
     margin_y: '150'
     margin_left: '15'
@@ -957,10 +957,10 @@ content_blocks:
     meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
     attached_collection: collections/wired-bitmain.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
-    width: '30'
+    width: '45'
     margin_y: '50'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '10'
     align_y: start
     color: '#ffe087'
     caption: ''
@@ -981,9 +981,9 @@ content_blocks:
     meta: 'Golf Digest: Cameron Young'
     attached_collection: collections/golf-digest-cam-young.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
-    width: '15'
+    width: '20'
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#c5f6fb'
@@ -1002,11 +1002,11 @@ content_blocks:
     title:
     meta: '100 Battles: Summoning the Ghost Town'
     attached_collection: collections/vox-100-battles-ghost-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-13.jpg
-    width: '50'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-1.jpg
+    width: '40'
     margin_y: '350'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '25'
     align_y: start
     color: '#f8e4d0'
     caption: ''
@@ -1033,7 +1033,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '0'
-    margin_left: '45'
+    margin_left: '40'
     margin_right: '0'
     meta_align: right
     theme_color: '#ff0000'
