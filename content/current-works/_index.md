@@ -721,25 +721,25 @@ content_blocks:
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
   - _bookshop_name: home/media-feature
     title:
-    meta: '100 Battles: Summoning the Ghost Town'
-    attached_collection: collections/vox-100-battles-ghost-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
+    meta: 'Amtrak : On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
     width: '50'
     margin_y: '300'
     margin_left: '0'
     margin_right: '20'
     align_y: start
-    color: '#f8e4d0'
+    color: '#d8c0ed'
     caption: ''
-    title_margin_y: '15'
+    title_margin_y: '10'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#a5f48a'
+    text_size: 8xl
+    text_color: '#f6f2a3'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: semibold
+    font_weight: bold
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -1000,25 +1000,25 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Amtrak : On the Southwest Chief '
-    attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-1.jpg
+    meta: '100 Battles: Summoning the Ghost Town'
+    attached_collection: collections/vox-100-battles-ghost-towns.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-31.jpg
     width: '50'
     margin_y: '350'
     margin_left: '0'
     margin_right: '15'
     align_y: start
-    color: '#d8c0ed'
+    color: '#f8e4d0'
     caption: ''
-    title_margin_y: '10'
+    title_margin_y: '15'
     title_margin_left: '5'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#f6f2a3'
+    text_size: 7xl
+    text_color: '#a5f48a'
     line_height: normal
     text_alignment: left
     text_tracking: normal
-    font_weight: bold
+    font_weight: semibold
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
