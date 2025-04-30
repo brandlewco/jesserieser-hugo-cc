@@ -35,8 +35,7 @@ blog_header:
 caption: New Blog Caption
 blog_content:
 date: 
-news_category:
-  - 'Press'
+news_category: Press
 theme_color: 
 outputs: ["HTML", "ContentOnly"]
 ---

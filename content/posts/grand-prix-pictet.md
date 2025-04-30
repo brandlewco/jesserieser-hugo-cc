@@ -85,8 +85,7 @@ blog_content: >-
 
   &nbsp;
 date:
-news_category:
-  - Press
+news_category: Press
 theme_color: '#d8f1ae'
 outputs:
   - HTML
