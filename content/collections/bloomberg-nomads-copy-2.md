@@ -323,8 +323,8 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-7.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-8.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-covers-3.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-covers-5.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
