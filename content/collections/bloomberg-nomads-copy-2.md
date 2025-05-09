@@ -243,7 +243,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-covers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-covers-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-covers-5.jpg
 collection_filter: Commissioned + Stock
 collection_category:
@@ -262,10 +262,11 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-62.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-62.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-63.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-64.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-65.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-2.jpg
 collection_content: >-
   Younger would-be chief executives are increasingly seeking profits — and
   freedom from the 9-to-5 — by pivoting from corporate jobs into often
