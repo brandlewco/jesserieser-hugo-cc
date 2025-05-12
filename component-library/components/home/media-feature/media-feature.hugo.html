@@ -59,7 +59,7 @@
     := add (add (len $mediaElement) (len $mediaFeature)) (len $mediaMotion) }}
     {{ if gt $mediaCount 0 }}
     <span
-      class="count mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight absolute top-0 left-0 w-full {{ $metaAlign }}"
+      class="count mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight relative sm:absolute top-0 left-0 w-full {{ $metaAlign }}"
       >[{{ $mediaCount }}]</span
     >
     {{ end }} {{ end }}

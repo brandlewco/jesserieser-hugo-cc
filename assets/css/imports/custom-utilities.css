@@ -947,9 +947,6 @@ footer a {
   }
 }
 
-span.count { 
-  position: relative !important;
-}
 
 .border-box {
   box-sizing: border-box;
