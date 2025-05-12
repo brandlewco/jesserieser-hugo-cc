@@ -33,7 +33,7 @@ blog_content: >-
   Artists**](https://flinkartists.com/) for my commercial and advertising
   commissions.
 date:
-news_category: Press
+news_category: News
 theme_color: '#c02a2f'
 outputs:
   - HTML
