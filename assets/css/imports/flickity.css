@@ -4,6 +4,15 @@
   max-width: 100%;
 }
 
+.carousel {
+  height: 160px;
+}
+
+/* cell inherit height from carousel */
+.carousel-cell {
+  height: 100%;
+}
+
 .gallery_scroller {
   /* snap mandatory on horizontal axis  */
   /* scroll-snap-type: x mandatory; */
@@ -15,7 +24,7 @@
   flex-direction: row;
   align-items: center;
 
-  height: 100%;
+  height: 80%;
   width: 100%;
 
   /* Enable Safari touch scrolling physics which is needed for scroll snap */
