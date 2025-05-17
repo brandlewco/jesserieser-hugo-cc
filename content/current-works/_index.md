@@ -453,7 +453,7 @@ content_blocks:
     title:
     meta: 'AARP: Washed Away'
     attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
@@ -470,7 +470,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
