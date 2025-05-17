@@ -1286,7 +1286,7 @@ about_footer_quotes: >-
   and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein Director of
   Photography \| Barron's & Penta*
 cv: >-
-  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf
+  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202505_CV-Main.pdf
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z
