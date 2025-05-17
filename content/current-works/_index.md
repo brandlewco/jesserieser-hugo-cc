@@ -367,7 +367,7 @@ content_blocks:
     meta: 'Hermès: Artist Danielle Hacche'
     attached_collection: collections/hermès.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-5.jpg
-    width: '35'
+    width: '40'
     margin_y: '100'
     margin_left: '45'
     margin_right: '0'
@@ -391,9 +391,9 @@ content_blocks:
     meta: Guns & Pizza. 2021 - 2024
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
-    width: '33'
+    width: '35'
     margin_y: '200'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#faf2ea'
@@ -420,7 +420,7 @@ content_blocks:
     align_y: start
     margin_y: '0'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     meta_align: right
     theme_color: '#ffd2d2'
     meta: Awards
@@ -429,14 +429,14 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'AARP: Washed Away'
-    attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: '45'
-    margin_y: '100'
+    meta: 'NYT: In Search of Boring Business'
+    attached_collection: collections/bloomberg-nomads-copy-2.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
+    width: '55'
+    margin_y: '300'
     margin_left: '5'
     margin_right: '0'
-    align_y: start
+    align_y: center
     color: '#c1e6ac'
     caption: ''
     title_margin_y: '0'
@@ -451,13 +451,13 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'NYT: In Search of Boring Business'
-    attached_collection: collections/bloomberg-nomads-copy-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
-    width: '30'
-    margin_y: '650'
+    meta: 'AARP: Washed Away'
+    attached_collection: collections/aarp.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-5.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '5'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -470,7 +470,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -478,9 +478,9 @@ content_blocks:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '55'
-    margin_y: '300'
-    margin_left: '15'
+    width: '50'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#cd98d4'
@@ -495,23 +495,6 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: 'Communication Arts Photography Annual '
-    caption: Antoine’s Escalaras
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#fcc8cc'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '10'
-    meta_align: right
-    theme_color: '#fabdc2'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -521,7 +504,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#c1e6ac'
@@ -537,21 +520,22 @@ content_blocks:
     font_weight: normal
     meta_align: left
   - _bookshop_name: home/modal-blog
-    title: Play List Launch Event
-    caption: Curated Music for The McKinley Club
-    attached_blog: posts/tmc.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/tmc-4.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 9x16
-    text_size: base
-    color: '#ffffff'
+    title: 'Communication Arts Photography Annual '
+    caption: Antoine’s Escalaras
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#fcc8cc'
     width: '15'
     align_y: start
     margin_y: '700'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     meta_align: right
-    theme_color: '#efeae0'
+    theme_color: '#fabdc2'
+    meta: meta
+    blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
