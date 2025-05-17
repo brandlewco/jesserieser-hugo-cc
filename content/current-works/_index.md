@@ -451,9 +451,9 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'NYT: Maga is Demoting the Anti-Abortion Forces It Once Coddled'
-    attached_collection: collections/antoine-s-escalaras-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-11.jpg
+    meta: 'NYT: In Search of Boring Business'
+    attached_collection: collections/bloomberg-nomads-copy-2.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
     width: '30'
     margin_y: '650'
     margin_left: '0'
