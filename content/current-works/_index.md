@@ -429,7 +429,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'NYT: In Search of Boring Business'
+    meta: 'The New York Times: In Search of Boring Business'
     attached_collection: collections/bloomberg-nomads-copy-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
     width: '55'
