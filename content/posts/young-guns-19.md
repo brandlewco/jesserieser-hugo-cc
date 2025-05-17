@@ -1,6 +1,5 @@
 ---
 _schema: default
-outputs: ["HTML", "ContentOnly"]
 title: Young Guns 19
 post_blocks:
   - _bookshop_name: posts/media-row-start
@@ -9,28 +8,28 @@ post_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_Y.jpg
     title: blog title
     caption:
-    width: "25"
+    width: '25'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_G.jpg
     title: blog title
     caption:
-    width: "25"
+    width: '25'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_1.jpg
     title: blog title
     caption:
-    width: "25"
+    width: '25'
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/YG19_9.jpg
     title: blog title
     caption:
-    width: "25"
+    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/jury2.jpg
     title: blog title
     caption:
-    width: "100"
+    width: '100'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-motion-id
@@ -65,8 +64,8 @@ blog_content: >-
   in New York City on Wednesday, November 17th.
 
 
-  **The New Procrastinator’s Guide to Entering Young Guns**<br />Jesse Rieser<br
-  />Photographer<br />YG9 Winner<br />YG19 Judge
+  **The New Procrastinator’s Guide to Entering Young Guns**<br>Jesse
+  Rieser<br>Photographer<br>YG9 Winner<br>YG19 Judge
 
 
   &gt; *If you don’t procrastinate, there is a strong chance we can’t be friends
@@ -97,6 +96,9 @@ blog_content: >-
 
   &gt; *creative currency, the awards and clients will come later. And often.*
 date:
-news_category: Press
-theme_color: "#b9f1a8"
+news_category: News
+theme_color: '#b9f1a8'
+outputs:
+  - HTML
+  - ContentOnly
 ---
