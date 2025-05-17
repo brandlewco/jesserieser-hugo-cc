@@ -242,12 +242,36 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
+    meta: 'Personal: The Changing Landscape of American Retail'
+    attached_collection: collections/retail.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ecdf'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f18961'
+    line_height: tight
+    text_alignment: left
+    text_tracking: widest
+    font_weight: bold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
     width: '33'
     margin_y: '200'
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#e5f5b5'
@@ -274,7 +298,7 @@ content_blocks:
     align_y: start
     margin_y: '100'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '35'
     meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
@@ -293,7 +317,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '0'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
@@ -305,7 +329,7 @@ content_blocks:
     width: '45'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '25'
     align_y: start
     color: '#d4dee6'
     caption: ''
@@ -328,7 +352,7 @@ content_blocks:
     align_y: start
     width: '25'
     margin_y: '0'
-    margin_left: '30'
+    margin_left: '15'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -336,41 +360,15 @@ content_blocks:
       mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
     color: '#000000'
     text_color: '#ffffff'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: The Changing Landscape of American Retail'
-    attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
-    width: '55'
-    margin_y: '50'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#f2ecdf'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f18961'
-    line_height: tight
-    text_alignment: left
-    text_tracking: widest
-    font_weight: bold
-    meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Hermès: Artist Danielle Hacche'
     attached_collection: collections/hermès.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-5.jpg
     width: '40'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#faf2ea'
     caption: ''
@@ -386,9 +384,13 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Guns & Pizza. 2021 - 2024
+    meta: 'Personal: Guns & Pizza'
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
     width: '35'
@@ -603,7 +605,7 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Christmas in America: Happy Birthday, Jesus. 2010 - 2022'
+    meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
