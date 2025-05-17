@@ -49,8 +49,8 @@ collection_pager:
 overview_pager:
   - _index.md
   - collections/portrait.md
-  - collections/reportage.md
   - collections/landscape-overview.md
+  - collections/reportage.md
   - collections/sport-athletes.md
   - collections/travel-tourism.md
   - collections/industry-overview.md
