@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description:
   meta_title: Reportage Overview
-title: Additional Reportage
+title: Reportage
 collection_meta:
 collection_meta_2: ''
 collection_description: ''
