@@ -1,76 +1,76 @@
 ---
 _schema: default
-outputs: ["HTML", "ContentOnly"]
-title: 2022 SPD Awards
+title: SPD Awards
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-3.jpg
-    width: "50"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '50'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-4.jpg
-    width: "50"
+    title: blog title
+    caption:
+    width: '50'
+  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-5.jpg
-    width: "50"
-  - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-6.jpg
-    width: "50"
-  - _bookshop_name: posts/media-row-static
+    title: blog title
+    caption: ''
+    width: '33'
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-7.jpg
-    width: "33"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-8.jpg
-    width: "33"
+    width: '33'
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-9.jpg
-    width: "33"
+    title: blog title
+    caption:
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-10.jpg
-    width: "66"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '66'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-11.jpg
-    width: "33"
+    title: blog title
+    caption:
+    width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    caption:
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-12.jpg
-    width: "50"
-  - _bookshop_name: posts/media-element-static
+    title: blog title
     caption:
+    width: '50'
+  - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-13.jpg
-    width: "50"
+    title: blog title
+    caption:
+    width: '50'
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-2.jpg
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
+attached: true
 attached_collection: collections/barron-s-las-vegas-reopenning.md
 attached_link:
-attached: true
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
 blog_header:
-caption: "Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era"
+caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
 blog_content: >-
   Excited to learn that my
   [***Barron’s***](https://jesserieser.com/collections/barrons-lasvegas) cover
   story *Fortunes Rise Anew in the City of Second Chances* was selected as a
-  Merit Winner in the 2022 SPD (Society of Publication Designer) 57 awards.
+  Merit Winner in the SPD (Society of Publication Designer) 57 awards.
 
 
   “Las Vegas is coming back to life.
@@ -98,5 +98,8 @@ blog_content: >-
   Design. ⁠
 date:
 news_category: Awards
-theme_color: "#ffdaa3"
+theme_color: '#ffdaa3'
+outputs:
+  - HTML
+  - ContentOnly
 ---
