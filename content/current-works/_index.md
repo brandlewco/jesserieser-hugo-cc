@@ -805,7 +805,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Autobiography of a Contact Sport. 2016
+    meta: 'Personal: Autobiography of a Contact Sport'
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '50'
