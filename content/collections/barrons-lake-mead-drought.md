@@ -287,11 +287,11 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-56.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-56.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-57.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-58.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-59.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-56.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-60.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-57.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-59.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-61.jpg
 collection_content: ''
 collection_awards: []
