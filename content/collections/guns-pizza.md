@@ -659,12 +659,12 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#b1d9d2'
 theme_color_all_works: '#69e5ce'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-32.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/guns_redo-3x4-1.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-36.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-35.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/guns_redo-3x4-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-33.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-32.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-34.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-37.jpg
 collection_content: >-
