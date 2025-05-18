@@ -90,8 +90,6 @@ collection_blocks:
     align_y:
     color: '#cff1f3'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-8.jpg
     width: '35'
@@ -101,6 +99,8 @@ collection_blocks:
     align_y:
     color: '#ffe5c9'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
