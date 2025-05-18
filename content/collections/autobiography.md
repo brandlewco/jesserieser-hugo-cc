@@ -5,7 +5,7 @@ seo:
   meta_title: Autobiography of a Contact Sport
 title: Autobiography of
 collection_meta: 'a Contact Sport '
-collection_meta_2: '2016'
+collection_meta_2:
 collection_description: >-
   This personal project explores my nostalgia and love for the game that shaped
   me. This work puts you on the sideline, in the helmet, and in the bleachers
@@ -525,11 +525,11 @@ theme_color_all_works: '#a7e05c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-100.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-104.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-102.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-101.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-100.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-103.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-104.jpg
 collection_content: >-
   0: The number of times I regret playing high school football.
 
