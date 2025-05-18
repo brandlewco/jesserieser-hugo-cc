@@ -47,8 +47,8 @@ archive_sorter:
   - collections/phoenix.md
   - collections/golf-digest-1.md
   - collections/smartwater.md
-  - collections/the-new-york-times-2.md
   - collections/golf-digest-cam-young.md
+  - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/wired.md
