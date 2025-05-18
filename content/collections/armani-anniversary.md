@@ -135,7 +135,6 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-105.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-106.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-107.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-108.jpg
 collection_content: ''
 collection_awards: []
 collection_press: []
