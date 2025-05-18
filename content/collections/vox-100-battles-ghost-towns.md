@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Summoning the Ghost Town for Vox 100 Battles
 title: Vox
-collection_meta: 100 Battles
+collection_meta: '100 Battles:'
 collection_meta_2: Summoning the Ghost Town
 collection_description: >-
   Across the West, entrepreneurs are buying up abandoned outposts and
