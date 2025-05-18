@@ -5,8 +5,8 @@ seo:
     Switchyard: Power Failure: On Landscape and Abandonment by West Coast
     Photographer, Jesse Rieser
   meta_title: 'Switchyard: Power Failure: On Landscape and Abandonment'
-title: University of Tulsa
-collection_meta: 'Switchyard Volume 4 '
+title: 'Switchyard '
+collection_meta: 'Volume 4 '
 collection_meta_2: 'Power Failure: On Landscape and Abandonment'
 collection_description: >-
   This expansion of the electric grid and demand for power comes at a moment
@@ -18,7 +18,7 @@ collection_description: >-
   The data center has only one possible ending: abandonment.
 
 
-  Words by Author Mya Frazier.
+  Words by Author Mya Frazier and published by University of Tulsa.
 collection_description_alignment: center
 slug: switchyard-power
 collection_blocks:
