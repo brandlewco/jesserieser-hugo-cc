@@ -149,7 +149,7 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/minor_redo-3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/minor_redo-3x4-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minor_redo-3x4-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minor_redo-3x4-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/minor_redo-3x4-4.jpg
