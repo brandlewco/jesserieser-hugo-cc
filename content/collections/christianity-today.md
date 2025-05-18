@@ -9,8 +9,8 @@ title: Christianity Today
 collection_meta: Reformed Nazi
 collection_meta_2: Now Pastor, Caleb Campbell
 collection_description: >-
-  I was a neo-Nazi skinhead  who hated the church. One couple’s weekly dinner
-  invitations softened my heart to the gospel.
+  "I was a neo-Nazi skinhead  who hated the church. One couple’s weekly dinner
+  invitations softened my heart to the gospel."
 
 
   &nbsp;
