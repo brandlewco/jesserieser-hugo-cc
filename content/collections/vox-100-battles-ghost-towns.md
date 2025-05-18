@@ -295,11 +295,11 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-79.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-26.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-81.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-82.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-83.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-81.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ghosttowns-26.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-78.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-83.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-79.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-80.jpg
 collection_content: >-
