@@ -17,6 +17,7 @@ collection_sorter:
   - collections/retail.md
   - collections/hermès.md
   - collections/hermès-copy.md
+  - collections/christianity-today.md
   - collections/guns-pizza.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
