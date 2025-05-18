@@ -36,9 +36,9 @@ collection_sorter:
 archive_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md
-  - collections/time-kari-lake.md
   - collections/time.md
   - collections/amtrak-texas-eagle.md
+  - collections/time-kari-lake.md
   - collections/espn-cowboy-cerronne.md
   - collections/phoenix-open-espn.md
   - collections/the-new-york-times-3.md
