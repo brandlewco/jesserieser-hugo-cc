@@ -8,32 +8,32 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
+  - collections/outdoor-life.md
+  - collections/amtrak-southwest-chief.md
   - collections/switchyard.md
+  - collections/retail.md
+  - collections/espn-devin-booker-cover-story.md
+  - collections/hermès.md
+  - collections/armani-anniversary.md
+  - collections/christianity-today.md
+  - collections/hermès-copy.md
+  - collections/fights.md
+  - collections/xmas-in-america.md
   - collections/switchyard-copy.md
   - collections/bloomberg-nomads-copy.md
-  - collections/outdoor-life.md
   - collections/antoine-s-escalaras.md
-  - collections/espn-devin-booker-cover-story.md
-  - collections/retail.md
-  - collections/hermès.md
-  - collections/hermès-copy.md
-  - collections/christianity-today.md
   - collections/guns-pizza.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/antoine-s-escalaras-copy.md
-  - collections/fights.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
-  - collections/xmas-in-america.md
   - collections/phoenix-open-espn.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/amtrak-southwest-chief.md
   - collections/smithsonian.md
   - collections/wired-bitmain.md
   - collections/autobiography.md
-  - collections/armani-anniversary.md
   - collections/golf-digest-cam-young.md
 archive_sorter:
   - collections/star-geezers.md
