@@ -9,9 +9,9 @@ title: Golf Digest
 collection_meta: The Misunderstood
 collection_meta_2: ' Life of Grayson Murray'
 collection_description: >-
-  In the painful aftermath of pga tour pro Grayson Murray’s suicide, the people
-  who loved him describe a man with immense talent, a kind heart and a burden he
-  couldn’t shed.
+  In the painful aftermath of pga tour pro Grayson Murray’s 2024 suicide, the
+  people who loved him describe a man with immense talent, a kind heart and a
+  burden he couldn’t shed.
 
 
   The bedroom is filled with reminders of who Grayson Murray was and wanted to
