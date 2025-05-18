@@ -13,11 +13,9 @@ collection_description: >-
   and off the course.
 
 
-  The campaign features the <a target="_blank"
-  href="https://www.instagram.com/explore/tags/1/">#1</a> ranked player in the
-  world Dustin Johnson, rising star Xander Schauffele (he became the first ever
-  rookie to win the tour championship in 2017) and long time tour favorite and
-  2017 Masters Champion, Sergio Garcia.
+  The campaign features Xander Schauffele (2024 PGA and The Open Champion,
+  one-time world \#1 time Dustin Johnson, and past Masters Champion, Sergio
+  Garcia.
 collection_description_alignment: left
 slug: adidas-golf-adicross
 collection_blocks:
