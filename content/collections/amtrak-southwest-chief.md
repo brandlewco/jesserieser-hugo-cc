@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: 'Amtrak : Where Amtrak Can Take You'
 title: Amtrak
-collection_meta: The Southwest Chief
+collection_meta: 'The Southwest Chief:'
 collection_meta_2: Where Amtrak Can Take You
 collection_description: >-
   A project celebrating the romanticism of train travel and the light of the
@@ -23,7 +23,7 @@ collection_blocks:
     margin_right:
     align_y: center
     color: '#e9e4eb'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -125,7 +125,7 @@ collection_blocks:
     margin_right: '10'
     align_y: center
     color: '#ecebe1'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -303,9 +303,11 @@ theme_color_all_works: '#96efd6'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-13.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-87.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-86.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-85.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-87.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-84.jpg
 collection_content: ''
 collection_awards: []
