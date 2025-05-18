@@ -5,9 +5,9 @@ seo:
     Switchyard: Power Failure: On Landscape and Abandonment by West Coast
     Photographer, Jesse Rieser
   meta_title: 'Switchyard: Power Failure: On Landscape and Abandonment'
-title: 'Switchyard '
-collection_meta: 'Volume 4 '
-collection_meta_2: 'Power Failure: On Landscape and Abandonment'
+title: 'Switchyard Volume 4 '
+collection_meta: 'Power Failure: '
+collection_meta_2: On Landscape and Abandonment
 collection_description: >-
   This expansion of the electric grid and demand for power comes at a moment
   when the consensus among scientists is dire at best. We’re a mere decade from
