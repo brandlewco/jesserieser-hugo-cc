@@ -5,7 +5,7 @@ seo:
   meta_title: Guns & Pizza
 title: Guns & Pizza
 collection_meta: The Haunting Specter of Gun Ownership
-collection_meta_2: 2021 - 2023
+collection_meta_2: 2021 - 2025
 collection_description: >-
   Firearms are deeply ingrained in what it means to be American and our history
   of the American West— a history of celebrated individualism paradoxically
