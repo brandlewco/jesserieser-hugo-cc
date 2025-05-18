@@ -21,20 +21,20 @@ collection_sorter:
   - collections/xmas-in-america.md
   - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
+  - collections/smithsonian.md
   - collections/switchyard-copy.md
-  - collections/antoine-s-escalaras.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
-  - collections/antoine-s-escalaras-copy.md
   - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
+  - collections/antoine-s-escalaras-copy.md
   - collections/phoenix-open-espn.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/smithsonian.md
   - collections/wired-bitmain.md
   - collections/autobiography.md
   - collections/golf-digest-cam-young.md
+  - collections/antoine-s-escalaras.md
 archive_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md
