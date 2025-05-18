@@ -745,12 +745,12 @@ theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/sw-power-8.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/sw-power-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/sw-power-17.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sw-power-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sw-power-17.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-3.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
