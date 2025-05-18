@@ -819,10 +819,11 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/sfp-14.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-6.jpg
 collection_content: >-
