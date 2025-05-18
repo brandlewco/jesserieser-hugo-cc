@@ -105,9 +105,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-9.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '40'
     margin_right: '0'
     align_y:
     color: '#ebd1ef'
@@ -139,18 +139,17 @@ collection_category:
   - Portraits
   - Environments
   - Color
-  - Sports + Athletes
   - Editorial
 date: 2021-02-10T03:16:07Z
 theme_color: '#eac5bf'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-5.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-4.jpg
 collection_content: ''
 collection_awards:
   - content: >-
