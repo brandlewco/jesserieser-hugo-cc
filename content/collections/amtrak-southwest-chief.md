@@ -304,9 +304,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-13.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-87.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-86.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-85.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-86.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/swchief-21.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-84.jpg
 collection_content: ''
