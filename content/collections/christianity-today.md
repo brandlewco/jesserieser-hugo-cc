@@ -6,8 +6,8 @@ seo:
     makes portraits of ex Nazi and now Pastor  Caleb Campbell
   meta_title: Pastor Caleb Campbell for Christianity Today
 title: Christianity Today
-collection_meta: Pastor
-collection_meta_2: ' Caleb Campbell'
+collection_meta: Reformed Nazi
+collection_meta_2: Now Pastor, Caleb Campbell
 collection_description: >-
   I was a neo-Nazi skinhead  who hated the church. One couple’s weekly dinner
   invitations softened my heart to the gospel.
