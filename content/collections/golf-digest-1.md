@@ -4,7 +4,7 @@ seo:
   meta_description:
   meta_title: Scottie Scheffler for Golf Digest
 title: Golf Digest
-collection_meta: Scottie Scheffler
+collection_meta: 'Scottie Scheffler:'
 collection_meta_2: Take Your Game to the Next Level Cover Story
 collection_description: >-
   Featuring world’s number 1 and the 2022 Masters Champion Scottie Scheffler for
