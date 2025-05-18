@@ -4,7 +4,7 @@ seo:
   meta_description: 'AARP: Washed Away: Rising Seas Are Wiping Out Some Older Americans'' Futures'
   meta_title: 'AARP: Rising Seas Are Wiping Out Some Older Americans'' Futures'
 title: AARP
-collection_meta: Washed Away
+collection_meta: 'Washed Away:'
 collection_meta_2: Rising Seas Are Wiping Out Some Older Americans' Futures
 collection_description: >-
   Higher sea levels aren’t coming: They’re already here. And older people are
