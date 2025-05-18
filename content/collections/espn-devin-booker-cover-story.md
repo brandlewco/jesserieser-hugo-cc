@@ -57,7 +57,7 @@ collection_blocks:
     margin_right: '15'
     align_y:
     color: '#cdf3ec'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -154,7 +154,7 @@ collection_blocks:
     margin_right: '20'
     align_y:
     color: '#f9d4c0'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -216,9 +216,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-28.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-29.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-30.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-31.jpg
 collection_content: ''
 collection_awards:
   - content: >-
