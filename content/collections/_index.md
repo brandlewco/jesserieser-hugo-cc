@@ -17,6 +17,7 @@ collection_sorter:
   - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
   - collections/hermès-copy.md
+  - collections/golfdigest-nicklaus.md
   - collections/fights.md
   - collections/xmas-in-america.md
   - collections/guns-pizza.md
@@ -25,7 +26,6 @@ collection_sorter:
   - collections/switchyard-copy.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
-  - collections/golfdigest-nicklaus.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
   - collections/antoine-s-escalaras-copy.md
