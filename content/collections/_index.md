@@ -44,11 +44,11 @@ archive_sorter:
   - collections/the-new-york-times-3.md
   - collections/outside-magazine-rob-krar.md
   - collections/antoine-s-escalaras.md
-  - collections/golf-digest-1.md
   - collections/phoenix.md
+  - collections/golf-digest-1.md
   - collections/smartwater.md
-  - collections/golf-digest-cam-young.md
   - collections/the-new-york-times-2.md
+  - collections/golf-digest-cam-young.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/wired.md
