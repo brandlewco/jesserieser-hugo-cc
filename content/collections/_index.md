@@ -47,6 +47,7 @@ archive_sorter:
   - collections/golf-digest-1.md
   - collections/phoenix.md
   - collections/smartwater.md
+  - collections/golf-digest-cam-young.md
   - collections/the-new-york-times-2.md
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
@@ -55,5 +56,4 @@ archive_sorter:
   - collections/wallow-fire.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
-  - collections/golf-digest-cam-young.md
 ---
