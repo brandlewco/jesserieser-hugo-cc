@@ -26,17 +26,16 @@ collection_sorter:
   - collections/switchyard-copy.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
-  - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
+  - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
-  - collections/phoenix-open-espn.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/wired-bitmain.md
   - collections/autobiography.md
-  - collections/golf-digest-cam-young.md
-  - collections/antoine-s-escalaras.md
+  - collections/adidas-golf.md
 archive_sorter:
   - collections/star-geezers.md
+  - collections/phoenix-open-espn.md
   - collections/stalking-a-serial-killer.md
   - collections/time-kari-lake.md
   - collections/time.md
@@ -44,7 +43,7 @@ archive_sorter:
   - collections/espn-cowboy-cerronne.md
   - collections/the-new-york-times-3.md
   - collections/outside-magazine-rob-krar.md
-  - collections/adidas-golf.md
+  - collections/antoine-s-escalaras.md
   - collections/golf-digest-1.md
   - collections/phoenix.md
   - collections/smartwater.md
@@ -56,4 +55,5 @@ archive_sorter:
   - collections/wallow-fire.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
+  - collections/golf-digest-cam-young.md
 ---
