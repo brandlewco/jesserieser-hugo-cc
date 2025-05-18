@@ -12,9 +12,9 @@ collection_sorter:
   - collections/amtrak-southwest-chief.md
   - collections/switchyard.md
   - collections/retail.md
-  - collections/espn-devin-booker-cover-story.md
   - collections/hermès.md
   - collections/armani-anniversary.md
+  - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
   - collections/hermès-copy.md
   - collections/fights.md
