@@ -19,10 +19,10 @@ collection_sorter:
   - collections/hermès-copy.md
   - collections/fights.md
   - collections/xmas-in-america.md
-  - collections/switchyard-copy.md
-  - collections/bloomberg-nomads-copy.md
-  - collections/antoine-s-escalaras.md
   - collections/guns-pizza.md
+  - collections/bloomberg-nomads-copy.md
+  - collections/switchyard-copy.md
+  - collections/antoine-s-escalaras.md
   - collections/aarp.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/antoine-s-escalaras-copy.md
