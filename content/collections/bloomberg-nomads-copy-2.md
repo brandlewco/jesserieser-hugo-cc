@@ -262,10 +262,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-62.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-3x4covers-2.jpg
 collection_content: >-
   Younger would-be chief executives are increasingly seeking profits — and
