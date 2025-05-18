@@ -23,114 +23,114 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-1b.jpg
-    width: "60"
-    margin_y: "100"
-    margin_left: "20"
-    margin_right: "0"
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: center
-    color: "#c2a282"
+    color: '#c2a282'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-2.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#dfebef"
+    color: '#dfebef'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-3.jpg
-    width: "55"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "5"
+    width: '55'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
-    color: "#cdb882"
+    color: '#cdb882'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-4.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#d8a6c7"
+    color: '#d8a6c7'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-5.jpg
-    width: "70"
-    margin_y: "100"
-    margin_left: "15"
-    margin_right: "0"
+    width: '70'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: center
-    color: "#eedddd"
+    color: '#eedddd'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-6.jpg
-    width: "30"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#f1b88c"
+    color: '#f1b88c'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-7.jpg
-    width: "50"
-    margin_y: "400"
-    margin_left: "0"
-    margin_right: "5"
+    width: '50'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
-    color: "#cfc78c"
+    color: '#cfc78c'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13b-single.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '25'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: start
-    color: "#e8f3f3"
+    color: '#e8f3f3'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13c-single.jpg
-    width: "25"
-    margin_y: "100"
-    margin_left: "0"
-    margin_right: "20"
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
     align_y: start
-    color: "#f9eae0"
+    color: '#f9eae0'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-8.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "5"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
-    color: "#c6a5c1"
+    color: '#c6a5c1'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
-    width: "25"
-    margin_y: "800"
-    margin_left: "0"
-    margin_right: "5"
+    width: '25'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '5'
     align_y: center
-    color: "#fae386"
+    color: '#fae386'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -138,12 +138,12 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-11.jpg
-    width: "55"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y: center
-    color: "#eed8ca"
+    color: '#eed8ca'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -169,15 +169,15 @@ collection_category:
   - Reportage
   - Editorial
 date: 2019-05-01T07:00:00Z
-theme_color: "#eedddd"
-theme_color_all_works: "#ffbaba"
+theme_color: '#eedddd'
+theme_color_all_works: '#ffbaba'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-12.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-8.jpg
 collection_content: >-
   “*As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
   Next Century*.” These new works pay homage to American Romanticism and
