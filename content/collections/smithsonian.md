@@ -288,13 +288,13 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-90.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-91.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-93.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-92.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-94.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-93.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-94.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-8.jpg
 collection_content: ''
 collection_awards: []
