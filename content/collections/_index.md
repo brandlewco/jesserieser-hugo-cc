@@ -9,7 +9,6 @@ navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
   - collections/outdoor-life.md
-  - collections/amtrak-southwest-chief.md
   - collections/switchyard.md
   - collections/retail.md
   - collections/hermès.md
@@ -22,6 +21,7 @@ collection_sorter:
   - collections/xmas-in-america.md
   - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
+  - collections/amtrak-southwest-chief.md
   - collections/smithsonian.md
   - collections/switchyard-copy.md
   - collections/aarp.md
