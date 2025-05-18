@@ -411,10 +411,10 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/2025-01_4x3-sw-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-43.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
