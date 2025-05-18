@@ -407,10 +407,10 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-15.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/society_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/society_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/society_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/society_4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/serial-2.jpg
 collection_content: >-
   *Stalking A Serial Killer* is narrated by quotes taken from detectives,
   residents, family members, witnesses, and survivors as a singular voice of a
