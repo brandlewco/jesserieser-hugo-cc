@@ -401,14 +401,14 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-72.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/wm-open_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-26.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-73.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-74.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-76.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-75.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-77.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wm-open_4x3-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/wm-open_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/wm-open_4x3-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/mead-4x3-4.jpg
 collection_content: >-
   Photographed at the WM Phoenix Open's infamous 16th hole, these works are a
