@@ -16,107 +16,107 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-1.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "25"
-    margin_right: "0"
+    width: '40'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
     align_y:
-    color: "#feeece"
+    color: '#feeece'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-2.jpg
-    width: "40"
-    margin_y: "100"
-    margin_left: "45"
-    margin_right: "0"
+    width: '40'
+    margin_y: '100'
+    margin_left: '45'
+    margin_right: '0'
     align_y:
-    color: "#fdc888"
+    color: '#fdc888'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scheffler_GD-5.jpg
-    width: "20"
-    margin_y: "400"
-    margin_left: "35"
-    margin_right: "0"
+    width: '20'
+    margin_y: '400'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#FFA35B"
+    color: '#FFA35B'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-3.jpg
-    width: "33"
-    margin_y: "200"
-    margin_left: "0"
-    margin_right: "5"
+    width: '33'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
-    color: "#d6f0f3"
+    color: '#d6f0f3'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-4.jpg
-    width: "33"
-    margin_y: "200"
-    margin_left: "50"
-    margin_right: "0"
+    width: '33'
+    margin_y: '200'
+    margin_left: '50'
+    margin_right: '0'
     align_y:
-    color: "#e2f9e5"
+    color: '#e2f9e5'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-5.jpg
-    width: "33"
-    margin_y: "200"
-    margin_left: "0"
-    margin_right: "0"
+    width: '33'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '0'
     align_y:
-    color: "#fff1dc"
+    color: '#fff1dc'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-6.jpg
-    width: "33"
-    margin_y: "200"
-    margin_left: "0"
-    margin_right: "30"
+    width: '33'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '30'
     align_y:
-    color: "#d1f8f4"
+    color: '#d1f8f4'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-7.jpg
-    width: "50"
-    margin_y: "100"
-    margin_left: "10"
-    margin_right: "0"
+    width: '50'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
-    color: "#e8dffe"
-    caption:
+    color: '#e8dffe'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-8.jpg
-    width: "70"
-    margin_y: "200"
-    margin_left: "20"
-    margin_right: "0"
+    width: '70'
+    margin_y: '200'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
-    color: "#ffebad"
+    color: '#ffebad'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/scottie-9.jpg
-    width: "33"
-    margin_y: "100"
-    margin_left: "35"
-    margin_right: "0"
+    width: '33'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
-    color: "#d3faff"
+    color: '#d3faff'
     caption:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/scottie_cover-10.jpg
@@ -131,16 +131,16 @@ collection_category:
   - Environments
   - Portraits
 date: 2022-05-02T20:38:11Z
-theme_color: "#c1ffd2"
-theme_color_all_works: "#000000"
+theme_color: '#c1ffd2'
+theme_color_all_works: '#000000'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/scottie_4x3-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/scottie_4x3-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/scottie_4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/scottie_4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/scottie-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/scottie_4x3-4.jpg
-collection_content: ""
+collection_content: ''
 collection_awards: []
 collection_press: []
 collection_exhibition: []
