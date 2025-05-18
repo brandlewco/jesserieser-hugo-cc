@@ -108,7 +108,7 @@ collection_blocks:
     margin_right: '15'
     align_y:
     color: '#e3eff4'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -277,6 +277,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-23.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/esca_gammage-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-24.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-25.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-26.jpg
