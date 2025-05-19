@@ -38,7 +38,6 @@ archive_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md
   - collections/time.md
-  - collections/amtrak-texas-eagle.md
   - collections/time-kari-lake.md
   - collections/espn-cowboy-cerronne.md
   - collections/phoenix-open-espn.md
@@ -53,6 +52,7 @@ archive_sorter:
   - collections/the-new-york-times-1.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/wired.md
+  - collections/amtrak-texas-eagle.md
   - collections/amtrak-the-national.md
   - collections/wallow-fire.md
   - collections/starting-over.md
