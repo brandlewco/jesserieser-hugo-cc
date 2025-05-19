@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description:
-  meta_title: A Son's First Hunt for Outdoor Life
+  meta_description: >-
+    Photographer and director Jesse Rieser's colorful dreamlike game of tag in
+    an other worldly desert. 
+  meta_title: A Ghost In The Graveyard Made of Thorns
 title: 'A Ghost '
 collection_meta: 'In the Graveyard '
 collection_meta_2: Made of Thorns
