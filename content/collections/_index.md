@@ -15,6 +15,7 @@ collection_sorter:
   - collections/armani-anniversary.md
   - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
+  - collections/a-ghost.md
   - collections/hermès-copy.md
   - collections/golfdigest-nicklaus.md
   - collections/fights.md
