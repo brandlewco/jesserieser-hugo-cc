@@ -16,8 +16,8 @@ collection_sorter:
   - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
   - collections/a-ghost.md
-  - collections/hermès-copy.md
   - collections/golfdigest-nicklaus.md
+  - collections/hermès-copy.md
   - collections/fights.md
   - collections/xmas-in-america.md
   - collections/guns-pizza.md
