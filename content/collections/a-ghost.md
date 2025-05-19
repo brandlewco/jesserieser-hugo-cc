@@ -13,162 +13,153 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
+    width: '60'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#edd7b2'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-2.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-2.jpg
+    width: '25'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e2cfef'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-3.jpg
-    width: '25'
-    margin_y: '500'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-3.jpg
+    width: '33'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '30'
     align_y:
     color: '#cdf3ec'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-4.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-4.jpg
+    width: '20'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y:
-    color: '#d9e3f4'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-6.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '20'
-    align_y:
-    color: '#e6f3e6'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
-    width: '66'
-    margin_y: '50'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-8.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-5.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
     align_y:
-    color: '#ffe5c9'
-    caption:
+    color: '#d9e3f4'
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-6.jpg
+    width: '35'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#e6f3e6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-7.jpg
+    width: '25'
+    margin_y: '500'
+    margin_left: '5'
+    margin_right: '0'
+    align_y:
+    color: '#cff1f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-10.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '20'
     align_y:
-    color: '#ebd1ef'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-10.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    align_y:
-    color: '#cef8e1'
-    caption:
+    color: '#ffe5c9'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f9d4c0'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-13.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-11.jpg
+    width: '30'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y:
-    color: '#c2f4f4'
-    caption:
+    color: '#ebd1ef'
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-12.jpg
     width: '30'
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '25'
     align_y:
-    color: '#f0d0cf'
-    caption:
+    color: '#cef8e1'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-13.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#f9d4c0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-14.jpg
+    width: '25'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#f4d4d3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-15.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#c2f4f4'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-16.jpg
     width: '40'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
     align_y:
-    color: '#d9e3f4'
-    caption:
+    color: '#f0d0cf'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -229,7 +220,7 @@ collection_overview: false
 collection_grid: false
 collection_dark: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
