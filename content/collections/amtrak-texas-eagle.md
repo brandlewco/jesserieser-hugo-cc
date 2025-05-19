@@ -276,12 +276,12 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: ''
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-amtrak-elpaso-18.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/texaseagle_redo-15.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3-eagleamtrak-4.jpg
 collection_content: >-
   These works showcase the Amtrak Texas Eagle with stops at The Biosphere 2,
   Saguaro National Park, Titan Missile Silo, San Xavier Mission, The
