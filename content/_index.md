@@ -54,9 +54,9 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '80'
+    width: '100'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row
