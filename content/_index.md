@@ -38,6 +38,10 @@ content_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-1.jpg
     width: '33'
@@ -46,6 +50,15 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
+    width: '50'
+    margin_y: '750'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#000000'
     caption: ''
   - _bookshop_name: home/media-motion
     vimeo_id: 1085934299
@@ -59,17 +72,6 @@ content_blocks:
     margin_y: '50'
     margin_left: '10'
     margin_right: '0'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
-    width: '50'
-    margin_y: '750'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#000000'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
