@@ -58,15 +58,6 @@ collection_blocks:
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-3.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#fcceb1'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-4.jpg
     width: '15'
     margin_y: '100'
@@ -76,22 +67,13 @@ collection_blocks:
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-5.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#f8f2f7'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_portraits-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-16.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#f0cdc4'
+    color: '#f8f2f7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-portraits-2.jpg
@@ -101,6 +83,15 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#f0cdc4'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-4.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portrait_202411-2.jpg
@@ -256,15 +247,6 @@ collection_blocks:
     color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-17.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#fbe6df'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_portraits-8.jpg
     width: '15'
     margin_y: '50'
@@ -272,6 +254,15 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#fce6c8'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-17.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#fbe6df'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-18.jpg
@@ -301,13 +292,22 @@ collection_blocks:
     color: '#d9d1ce'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-6.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#e0eae7'
+    color: '#edd5be'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-3.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portrait_202411-4.jpg
