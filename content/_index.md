@@ -241,18 +241,6 @@ content_blocks:
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1085934237
-    text: caption
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -803,15 +791,18 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-47.jpg
-    width: '40'
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1085934237
+    text: caption
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
-    align_y:
-    color: '#120c05'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-48.jpg
     width: '20'
