@@ -247,15 +247,6 @@ collection_blocks:
     color: '#fcfafb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-20.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#e6e6e6'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-21.jpg
     width: '15'
     margin_y: '50'
@@ -266,15 +257,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-22.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#ffffff'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travelb-1.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
