@@ -57,7 +57,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
@@ -120,7 +120,7 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '800'
+    margin_y: '900'
     margin_left: '0'
     margin_right: '5'
     meta_align: left
@@ -294,10 +294,10 @@ content_blocks:
     meta: A Ghost In the Graveyard Made of Thorns
     attached_collection: collections/a-ghost.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
-    width: '55'
+    width: '50'
     margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
     color: '#d4dee6'
     caption: ''
@@ -335,6 +335,50 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'The Wall Street Journal: A Second Act'
+    attached_collection: collections/hermès-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: All The Rage'
+    attached_collection: collections/fights.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: Souvenirs From Paradise Exhibition
     caption: The Gallery at Mountain Shadows
@@ -352,28 +396,6 @@ content_blocks:
     meta_align: left
     theme_color: '#f6e7d1'
     meta: meta
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'The Wall Street Journal: A Second Act'
-    attached_collection: collections/hermès-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
-    width: '25'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -557,28 +579,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: All The Rage'
-    attached_collection: collections/fights.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: center
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#afd0f5'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
