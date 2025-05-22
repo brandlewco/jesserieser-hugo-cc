@@ -56,7 +56,7 @@ content_blocks:
     color: '#ffffff'
     width: '25'
     align_y: start
-    margin_y: '400'
+    margin_y: '600'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
@@ -87,56 +87,12 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'AP 41: American Photography Annual'
-    caption: 'Golf Digest: All The Rage'
-    attached_blog: posts/ap-40-american-photography-annual-copy.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-1.jpg
-    vimeo_block_cover: 0
-    block_aspect_ratio: 4x5
-    text_size: base
-    color: '#ffffff'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'University of Tulsa: Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: >-
-      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    attached_collection: collections/switchyard-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '55'
+    width: '33'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
@@ -153,6 +109,50 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: 'AP 41: American Photography Annual'
+    caption: 'Golf Digest: All The Rage'
+    attached_blog: posts/ap-40-american-photography-annual-copy.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-1.jpg
+    vimeo_block_cover: 0
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal: The Changing Landscape of American Retail'
+    attached_collection: collections/retail.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ecdf'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f18961'
+    line_height: tight
+    text_alignment: left
+    text_tracking: widest
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -196,6 +196,30 @@ content_blocks:
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: >-
+      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
+    attached_collection: collections/switchyard-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -282,28 +306,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: The Changing Landscape of American Retail'
-    attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#f2ecdf'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f18961'
-    line_height: tight
-    text_alignment: left
-    text_tracking: widest
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
