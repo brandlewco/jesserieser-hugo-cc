@@ -233,52 +233,6 @@ content_blocks:
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
-    attached_collection: collections/bloomberg-nomads-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-2.jpg
-    width: '40'
-    margin_y: '400'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: >-
-      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    attached_collection: collections/switchyard-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -444,6 +398,30 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: >-
+      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
+    attached_collection: collections/switchyard-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -1039,6 +1017,28 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
+    attached_collection: collections/bloomberg-nomads-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-2.jpg
+    width: '40'
+    margin_y: '400'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
