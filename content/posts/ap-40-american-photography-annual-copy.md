@@ -5,64 +5,60 @@ post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-1.jpg
+    title: blog title
+    caption: ''
+    width: '60'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-2.jpg
+    title: blog title
+    caption: ''
+    width: '40'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-4.jpg
+    title: blog title
+    caption: ''
+    width: '40'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-3.jpg
+    title: blog title
+    caption: ''
+    width: '60'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-5.jpg
     title: blog title
     caption: ''
     width: '33'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-6.jpg
     title: blog title
     caption: ''
     width: '33'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-7.jpg
     title: blog title
     caption: ''
     width: '33'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-8.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-9.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap41_fights-10.jpg
     title: blog title
     caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
-    title: blog title
-    caption: ''
-    width: '50'
+    width: '100'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
-    title: blog title
-    caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-12.jpg
-    title: blog title
-    caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
-    title: blog title
-    caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
-    title: blog title
-    caption: ''
-    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
