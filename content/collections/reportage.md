@@ -301,15 +301,6 @@ collection_blocks:
     color: '#c22b2c'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-49.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-44.jpg
     width: '15'
     margin_y: '50'
@@ -353,6 +344,15 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#ebe6dc'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-49.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-51.jpg
