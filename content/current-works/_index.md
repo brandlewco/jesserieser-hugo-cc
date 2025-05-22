@@ -87,6 +87,24 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/ap-40-american-photography-annual-copy.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-1.jpg
+    vimeo_block_cover: 0
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'University of Tulsa: Power Failure: On Landscape and Abandonment'
