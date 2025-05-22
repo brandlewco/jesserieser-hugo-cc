@@ -207,6 +207,20 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086148559
+    text: caption
+    attached_collection: collections/armani-anniversary.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '45'
+    align_y: start
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-link
     title: 'Request a Pdf '
     meta: 'Silver Sneakers & Apple Fitness + '
@@ -222,32 +236,6 @@ content_blocks:
       mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
     color: '#000000'
     text_color: '#ffffff'
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086148559
-    text: caption
-    attached_collection: collections/armani-anniversary.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '45'
-    align_y: start
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '5'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086877168
-    text: caption
-    attached_collection: collections/espn-devin-booker-cover-story.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '40'
-    align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Christmas In America Feature
@@ -264,6 +252,18 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086877168
+    text: caption
+    attached_collection: collections/espn-devin-booker-cover-story.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '40'
+    align_y: start
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
