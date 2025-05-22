@@ -155,18 +155,6 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086858994
-    text: ''
-    attached_collection: collections/hermès.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
-    align_y: start
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
   - _bookshop_name: home/modal-blog
     title: Grand Prix Pictet
     caption: >-
@@ -179,13 +167,25 @@ content_blocks:
     color: '#ffffff'
     width: '33'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '400'
+    margin_left: '10'
+    margin_right: '0'
     meta_align: right
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086858994
+    text: ''
+    attached_collection: collections/hermès.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
