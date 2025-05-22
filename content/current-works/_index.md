@@ -25,7 +25,7 @@ content_blocks:
     title:
     meta: 'American Hypnosis: Coming Soon from PowerHouse Books'
     attached_collection: collections/vanishing-folklore-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-1.jpg
     width: '50'
     margin_y: '0'
     margin_left: '25'
@@ -56,7 +56,7 @@ content_blocks:
     color: '#ffffff'
     width: '25'
     align_y: start
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '15'
     margin_right: '0'
     meta_align: left
