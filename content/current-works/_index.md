@@ -1029,6 +1029,18 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086610994
+    text: caption
+    attached_collection: collections/espn-devin-booker-cover-story.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: home/media-row-end
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
