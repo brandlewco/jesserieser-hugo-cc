@@ -77,7 +77,7 @@ blog_slider:
 attached: false
 attached_collection: collections/fights.md
 attached_link:
-block_aspect_ratio: 3x4
+block_aspect_ratio: 4x5
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
 blog_header: AP 41
 caption: 'Golf Digest: All  The Rage'
