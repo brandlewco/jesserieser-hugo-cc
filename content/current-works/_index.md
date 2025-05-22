@@ -54,9 +54,9 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '20'
     align_y: start
-    margin_y: '600'
+    margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     meta_align: left
@@ -71,7 +71,7 @@ content_blocks:
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -196,17 +196,15 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '40'
+    width: '25'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1086148559
     text: caption
@@ -214,11 +212,13 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '50'
     align_y: start
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-link
@@ -226,9 +226,9 @@ content_blocks:
     meta: 'Silver Sneakers & Apple Fitness + '
     text_size: 2xl
     align_y: start
-    width: '20'
-    margin_y: '0'
-    margin_left: '25'
+    width: '25'
+    margin_y: '500'
+    margin_left: '50'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -236,22 +236,6 @@ content_blocks:
       mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
     color: '#000000'
     text_color: '#ffffff'
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
-    text_size: base
-    color: '#c22b30'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '25'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#c22b30'
   - _bookshop_name: home/media-motion
     vimeo_id: 1086877168
     text: caption
@@ -264,6 +248,22 @@ content_blocks:
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
