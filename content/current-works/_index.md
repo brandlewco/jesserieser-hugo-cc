@@ -65,6 +65,30 @@ content_blocks:
     attached: false
   - _bookshop_name: home/media-feature
     title:
+    meta: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_collection: collections/outdoor-life.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'University of Tulsa: Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
