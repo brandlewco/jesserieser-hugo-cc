@@ -50,14 +50,14 @@ content_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-3.jpg
     width: '30'
-    margin_y: '300'
+    margin_y: '550'
     margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-2.jpg
     width: '50'
     margin_y: '100'
     margin_left: '0'
@@ -783,7 +783,7 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1085934237
+    vimeo_id: 1086610994
     text: caption
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
