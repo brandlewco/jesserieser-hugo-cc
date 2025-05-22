@@ -593,7 +593,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-57.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-2.jpg
     width: '50'
     margin_y: '400'
     margin_left: '5'
