@@ -400,7 +400,7 @@ collection_blocks:
     color: '#bfbfbf'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-7.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
