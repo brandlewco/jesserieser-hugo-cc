@@ -188,6 +188,49 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_collection: collections/outdoor-life.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
+    width: '33'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
@@ -234,49 +277,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -1040,6 +1040,18 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086163237
+    text: ''
+    attached_collection: collections/hermès.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
