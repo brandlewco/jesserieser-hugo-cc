@@ -228,7 +228,7 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1056241098
+    vimeo_id: 1086611030
     text: caption
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
