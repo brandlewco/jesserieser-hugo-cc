@@ -226,9 +226,9 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '40'
+    width: '50'
     align_y: start
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '20'
     margin_right: '0'
   - _bookshop_name: home/media-link
@@ -237,8 +237,8 @@ content_blocks:
     text_size: 2xl
     align_y: start
     width: '25'
-    margin_y: '500'
-    margin_left: '50'
+    margin_y: '100'
+    margin_left: '0'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -249,23 +249,68 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
+    block_aspect_ratio: 4x3
     text_size: base
-    color: '#c22b30'
-    width: '15'
+    color: '#ffffff'
+    width: '10'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '15'
+    margin_right: '0'
     meta_align: left
-    theme_color: '#c22b30'
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: Christianity Today
+    attached_collection: collections/christianity-today.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
+    width: '30'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '35'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: A Ghost In the Graveyard Made of Thorns
+    attached_collection: collections/a-ghost.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#d4dee6'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/modal-blog
     title: Souvenirs From Paradise Exhibition
     caption: The Gallery at Mountain Shadows
@@ -309,6 +354,22 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Antoine''s Escalaras '
@@ -331,47 +392,8 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '10'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '35'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'ESPN: Devin Booker Becoming Legendary '
-    attached_collection: collections/espn-devin-booker-cover-story.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#d4dee6'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
