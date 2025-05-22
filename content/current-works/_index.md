@@ -387,9 +387,9 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
-    margin_y: '250'
+    margin_y: '350'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '0'
     align_y:
     color: '#f4c8c8'
     caption: ''
@@ -412,10 +412,10 @@ content_blocks:
     block_aspect_ratio: 2x3
     text_size: 2xl
     color: '#ff4b4b'
-    width: '30'
+    width: '20'
     align_y: start
-    margin_y: '250'
-    margin_left: '35'
+    margin_y: '100'
+    margin_left: '0'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
