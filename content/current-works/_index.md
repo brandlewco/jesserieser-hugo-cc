@@ -363,7 +363,7 @@ content_blocks:
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -379,6 +379,49 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    width: '50'
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '25'
+    align_y:
+    color: '#f4c8c8'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right:
+    text_size: 7xl
+    text_color: '#f7ee81'
+    line_height: none
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+    align_x: start
+  - _bookshop_name: home/modal-blog
+    title: Christmas In America
+    caption: Washington Post Cover Feature + Interview
+    attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
+    block_aspect_ratio: 2x3
+    text_size: 2xl
+    color: '#ff4b4b'
+    width: '30'
+    align_y: start
+    margin_y: '250'
+    margin_left: '35'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ff5252'
+    meta: meta
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Souvenirs From Paradise Exhibition
     caption: The Gallery at Mountain Shadows
@@ -398,22 +441,6 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
-    text_size: base
-    color: '#c22b30'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Antoine''s Escalaras '
@@ -436,8 +463,22 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
-  - _bookshop_name: home/media-row
-    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -488,8 +529,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -663,47 +702,8 @@ content_blocks:
     theme_color: '#f8d9d9'
     meta: meta
     blog_header:
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
-    margin_y: '250'
-    margin_left: '0'
-    margin_right: '25'
-    align_y:
-    color: '#f4c8c8'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right:
-    text_size: 7xl
-    text_color: '#f7ee81'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Christmas In America
-    caption: Washington Post Cover Feature + Interview
-    attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
-    block_aspect_ratio: 2x3
-    text_size: 2xl
-    color: '#ff4b4b'
-    width: '30'
-    align_y: start
-    margin_y: '250'
-    margin_left: '35'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ff5252'
-    meta: meta
   - _bookshop_name: home/modal-blog
     title: Fresh
     caption: The Changing Landscape of American Retail September 9 - October 10
