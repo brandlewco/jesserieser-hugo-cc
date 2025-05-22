@@ -162,30 +162,11 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '70'
     align_y: start
-    margin_y: '300'
-    margin_left: '5'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
-  - _bookshop_name: home/modal-blog
-    title: Grand Prix Pictet
-    caption: >-
-      "The Changing Landscape of American Retail" Announced As An Official
-      Nominee
-    attached_blog: posts/grand-prix-pictet.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '33'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: right
-    theme_color: '#ffe4cc'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -207,6 +188,27 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
+  - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
+    attached_blog: posts/grand-prix-pictet.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '33'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#ffe4cc'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1086163237
     text: ''
@@ -219,8 +221,6 @@ content_blocks:
     margin_y: '400'
     margin_left: '0'
     margin_right: '5'
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1086610994
     text: caption
