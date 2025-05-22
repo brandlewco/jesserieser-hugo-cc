@@ -54,7 +54,7 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '30'
     align_y: start
     margin_y: '400'
     margin_left: '15'
@@ -71,7 +71,7 @@ content_blocks:
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -88,18 +88,18 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
+    title: 'AP 41: American Photography Annual'
+    caption: 'Golf Digest: All The Rage'
     attached_blog: posts/ap-40-american-photography-annual-copy.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-1.jpg
     vimeo_block_cover: 0
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -113,7 +113,7 @@ content_blocks:
     width: '35'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: start
     color: '#d0e5ef'
     caption: ''
