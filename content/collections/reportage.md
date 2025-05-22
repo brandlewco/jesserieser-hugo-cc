@@ -301,7 +301,7 @@ collection_blocks:
     color: '#c22b2c'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-34.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-1.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
