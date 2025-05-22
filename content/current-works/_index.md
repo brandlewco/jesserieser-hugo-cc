@@ -387,8 +387,8 @@ content_blocks:
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
-    margin_y: '350'
-    margin_left: '0'
+    margin_y: '500'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f4c8c8'
@@ -404,6 +404,30 @@ content_blocks:
     font_weight: semibold
     meta_align: right
     align_x: start
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal: Guns & Pizza'
+    attached_collection: collections/guns-pizza.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-59.jpg
+    width: '30'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Christmas In America
     caption: Washington Post Cover Feature + Interview
@@ -420,6 +444,28 @@ content_blocks:
     meta_align: left
     theme_color: '#ff5252'
     meta: meta
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
+    attached_collection: collections/bloomberg-nomads-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-45.jpg
+    width: '40'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '30'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -433,9 +479,9 @@ content_blocks:
     color: '#f3d7d7'
     width: '45'
     align_y: start
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '25'
     meta_align: left
     theme_color: '#f6e7d1'
     meta: meta
@@ -531,28 +577,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: Guns & Pizza'
-    attached_collection: collections/guns-pizza.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
-    width: '35'
-    margin_y: '200'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: 'AP 39: American Photography Annual '
     caption: 'Barron''s: Beyond The Drought'
@@ -1039,28 +1063,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
-    attached_collection: collections/bloomberg-nomads-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-2.jpg
-    width: '40'
-    margin_y: '400'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
