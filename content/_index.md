@@ -789,17 +789,17 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '55'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-48.jpg
     width: '20'
     margin_y: '550'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y:
     color: '#a4bcca'
     caption: ''
