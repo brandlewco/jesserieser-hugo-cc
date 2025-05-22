@@ -222,7 +222,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086610994
+    vimeo_id: 1086877168
     text: caption
     attached_collection: collections/espn-devin-booker-cover-story.md
     color: '#000000'
