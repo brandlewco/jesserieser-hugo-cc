@@ -164,8 +164,8 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '300'
+    margin_left: '5'
     margin_right: '0'
   - _bookshop_name: home/modal-blog
     title: Grand Prix Pictet
@@ -177,7 +177,7 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '40'
+    width: '33'
     align_y: start
     margin_y: '0'
     margin_left: '0'
