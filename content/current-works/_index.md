@@ -165,10 +165,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '33'
+    width: '40'
     align_y: start
     margin_y: '400'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     meta_align: right
     theme_color: '#ffe4cc'
@@ -212,9 +212,9 @@ content_blocks:
     meta: 'Silver Sneakers & Apple Fitness + '
     text_size: 2xl
     align_y: start
-    width: '25'
+    width: '20'
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
     block_aspect_ratio: 3x2
     media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
@@ -231,9 +231,9 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '45'
     align_y: start
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
