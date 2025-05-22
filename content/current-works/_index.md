@@ -175,7 +175,7 @@ content_blocks:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086858994
+    vimeo_id: 1086874377
     text: ''
     attached_collection: collections/hermès.md
     color: '#000000'
@@ -196,10 +196,10 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '33'
+    width: '40'
     align_y: start
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '30'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -208,7 +208,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086148559
+    vimeo_id: 1086868319
     text: caption
     attached_collection: collections/armani-anniversary.md
     color: '#000000'
