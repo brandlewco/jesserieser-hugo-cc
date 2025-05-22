@@ -199,7 +199,7 @@ content_blocks:
     width: '40'
     align_y: start
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -207,17 +207,32 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-link
+    title: 'Request a Pdf '
+    meta: 'Silver Sneakers & Apple Fitness + '
+    text_size: 2xl
+    align_y: start
+    width: '25'
+    margin_y: '0'
+    margin_left: '15'
+    margin_right: '0'
+    block_aspect_ratio: 3x2
+    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
+    link: >-
+      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
+    color: '#000000'
+    text_color: '#ffffff'
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086868319
+    vimeo_id: 1086148559
     text: caption
     attached_collection: collections/armani-anniversary.md
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '70'
+    width: '45'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '40'
     margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
@@ -228,11 +243,27 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '60'
+    width: '40'
     align_y: start
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
+  - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '15'
+    align_y: start
+    margin_y: '0'
+    margin_left: '25'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -319,22 +350,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
-    text_size: base
-    color: '#c22b30'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
     meta: 'ESPN: Devin Booker Becoming Legendary '
@@ -359,21 +374,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-link
-    title: 'Request a Pdf '
-    meta: 'Silver Sneakers & Apple Fitness + '
-    text_size: 2xl
-    align_y: start
-    width: '25'
-    margin_y: '0'
-    margin_left: '15'
-    margin_right: '0'
-    block_aspect_ratio: 3x2
-    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
-    link: >-
-      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
-    color: '#000000'
-    text_color: '#ffffff'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Hermès: Artist Danielle Hacche'
