@@ -477,11 +477,11 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '45'
+    width: '40'
     align_y: start
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '0'
     meta_align: left
     theme_color: '#f6e7d1'
     meta: meta
