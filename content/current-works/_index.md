@@ -138,7 +138,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
@@ -153,6 +153,39 @@ content_blocks:
     text_tracking: widest
     font_weight: bold
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086148559
+    text: caption
+    attached_collection: collections/armani-anniversary.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+  - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
+    attached_blog: posts/grand-prix-pictet.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '40'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#ffe4cc'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -177,25 +210,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: Grand Prix Pictet
-    caption: >-
-      "The Changing Landscape of American Retail" Announced As An Official
-      Nominee
-    attached_blog: posts/grand-prix-pictet.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '40'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: right
-    theme_color: '#ffe4cc'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: >-
