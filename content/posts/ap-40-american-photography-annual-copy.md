@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'AP 40: American Photography Annual'
+title: 'AP 41: American Photography Annual'
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -71,9 +71,9 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_01.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-2.jpg
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_02.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rage_ap-1.jpg
 attached: false
 attached_collection: content/collections/barrons-lake-mead-drought.md
 attached_link:
