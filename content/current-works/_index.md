@@ -69,7 +69,7 @@ content_blocks:
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -226,7 +226,7 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '55'
     align_y: start
     margin_y: '300'
     margin_left: '20'
@@ -236,7 +236,7 @@ content_blocks:
     meta: 'Silver Sneakers & Apple Fitness + '
     text_size: 2xl
     align_y: start
-    width: '25'
+    width: '20'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
@@ -270,10 +270,10 @@ content_blocks:
     meta: Christianity Today
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
-    width: '30'
+    width: '33'
     margin_y: '200'
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '30'
     align_y: start
     color: '#faf2ea'
     caption: ''
@@ -294,10 +294,10 @@ content_blocks:
     meta: A Ghost In the Graveyard Made of Thorns
     attached_collection: collections/a-ghost.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
-    width: '45'
-    margin_y: '100'
+    width: '55'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '5'
     align_y: start
     color: '#d4dee6'
     caption: ''
@@ -311,6 +311,30 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Jack Vs. Nicklaus '
+    attached_collection: collections/golfdigest-nicklaus.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Souvenirs From Paradise Exhibition
     caption: The Gallery at Mountain Shadows
@@ -350,8 +374,6 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -559,28 +581,6 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: Jack Vs. Nicklaus '
-    attached_collection: collections/golfdigest-nicklaus.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#c1e6ac'
-    caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color:
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: 'Communication Arts Photography Annual '
     caption: Antoine’s Escalaras
