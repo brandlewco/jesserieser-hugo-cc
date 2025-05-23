@@ -498,7 +498,7 @@ content_blocks:
     color: '#f3d7d7'
     width: '35'
     align_y: start
-    margin_y: '900'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -510,7 +510,7 @@ content_blocks:
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
     width: '55'
-    margin_y: '300'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -551,7 +551,7 @@ content_blocks:
       Russia
     attached_collection: collections/switchyard-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '50'
+    width: '60'
     margin_y: '300'
     margin_left: '0'
     margin_right: '5'
@@ -575,32 +575,29 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'AP 39: American Photography Annual '
-    caption: 'Barron''s: Beyond The Drought'
-    attached_blog: posts/ap-39-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
-    block_aspect_ratio: 4x5
+    title: Fresh
+    caption: The Changing Landscape of American Retail September 9 - October 10
+    attached_blog: posts/klompching-gallery-fresh.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+    block_aspect_ratio: 1x1
     text_size: base
-    color: '#ffffff'
+    color: '#dfefc2'
     width: '15'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '10'
+    margin_y: '1000'
+    margin_left: '5'
+    margin_right: '0'
     meta_align: right
-    theme_color: '#ffd2d2'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
+    theme_color: '#d8f1ae'
+    meta: meta
   - _bookshop_name: home/media-feature
     title:
     meta: 'The New York Times: In Search of Boring Business'
     attached_collection: collections/bloomberg-nomads-copy-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
-    width: '55'
-    margin_y: '300'
-    margin_left: '5'
+    width: '60'
+    margin_y: '200'
+    margin_left: '0'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -615,15 +612,34 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: 'AP 39: American Photography Annual '
+    caption: 'Barron''s: Beyond The Drought'
+    attached_blog: posts/ap-39-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '10'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#ffd2d2'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'AARP: Washed Away'
     attached_collection: collections/aarp.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: '33'
+    width: '60'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '10'
+    margin_right: '0'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -637,20 +653,53 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: The Sunset Spot at Red Modern
+    caption: A Visual Conversation with Matt Magee & Jesse Rieser
+    attached_blog: posts/sunset-spot.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
+    block_aspect_ratio: 4x3
+    text_size: 2xl
+    color: '#daceea'
+    width: '25'
+    align_y: start
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#c8b3eb'
+    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: YG 19
+    caption: Judge and The New Procrastinator's Guide
+    attached_blog: posts/young-guns-19.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
+    vimeo_block_cover: 618420931
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#ffe6e6'
+    width: '15'
+    align_y: start
+    margin_y: '450'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#b9f1a8'
+    meta: meta
   - _bookshop_name: home/media-feature
     title:
     meta: 'Barron''s: Beyond the Drought '
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-4.jpg
-    width: '50'
+    width: '45'
     margin_y: '400'
-    margin_left: '15'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#d3e8ef'
@@ -689,41 +738,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'AP 38: American Photography Annual'
-    caption: 'Wired: I Am Not a Soldier, but I Have Been Trained to Kill'
-    attached_blog: posts/ap-38-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/Rieser_ap38-1_vertical.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#ffaaaa'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f8d9d9'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Fresh
-    caption: The Changing Landscape of American Retail September 9 - October 10
-    attached_blog: posts/klompching-gallery-fresh.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-    block_aspect_ratio: 1x1
-    text_size: base
-    color: '#dfefc2'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '15'
-    meta_align: right
-    theme_color: '#d8f1ae'
-    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -769,80 +783,8 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: The Sunset Spot at Red Modern
-    caption: A Visual Conversation with Matt Magee & Jesse Rieser
-    attached_blog: posts/sunset-spot.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sunsetspot-2.jpg
-    block_aspect_ratio: 4x3
-    text_size: 2xl
-    color: '#daceea'
-    width: '25'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: right
-    theme_color: '#c8b3eb'
-    meta: meta
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: AP 38 Chosen Popular Mechanic
-    caption: 'Popular Mechanics: Can Science Cure Death? It Sure Looks Like It.'
-    attached_blog: posts/ap-38-american-photography-annual-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-popmech-ap-2.jpg
-    block_aspect_ratio: 3x2
-    text_size: 2xl
-    color:
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ff052b'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'V: Armani 50th Anniversary Featuring Deandre Hopkins'
-    attached_collection: collections/armani-anniversary.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
-    width: '30'
-    margin_y: '150'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#c1eee7'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '10'
-    title_margin_right: '0'
-    text_size: 10xl
-    text_color: '#f270f1'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
-  - _bookshop_name: home/modal-blog
-    title: AP 37
-    caption: 'The New York Times: Auctioning Off a Dead Mall'
-    attached_blog: posts/ap-37-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ap_book2021-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#f6f9ad'
-    width: '15'
-    align_y: start
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '25'
-    meta_align: right
-    theme_color: '#ffcc8e'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -939,23 +881,6 @@ content_blocks:
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: YG 19
-    caption: Judge and The New Procrastinator's Guide
-    attached_blog: posts/young-guns-19.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/01a.jpg
-    vimeo_block_cover: 618420931
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#ffe6e6'
-    width: '20'
-    align_y: start
-    margin_y: '450'
-    margin_left: '20'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#b9f1a8'
-    meta: meta
   - _bookshop_name: home/media-feature
     title:
     meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
@@ -980,28 +905,6 @@ content_blocks:
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: Cameron Young'
-    attached_collection: collections/golf-digest-cam-young.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/cam-young-6.jpg
-    width: '20'
-    margin_y: '0'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#c5f6fb'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f7b983'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: Xmas Roundup
     caption: Holiday Season Feature and Interview Roundup
