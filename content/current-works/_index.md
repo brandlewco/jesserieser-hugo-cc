@@ -824,9 +824,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Amtrak : On the Southwest Chief '
-    attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-13.jpg
+    meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
+    attached_collection: collections/adidas-golf.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
     width: '50'
     margin_y: '100'
     margin_left: '35'
