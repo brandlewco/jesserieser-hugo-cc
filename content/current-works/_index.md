@@ -386,11 +386,11 @@ content_blocks:
     meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
-    margin_y: '500'
-    margin_left: '10'
+    width: '45'
+    margin_y: '400'
+    margin_left: '15'
     margin_right: '0'
-    align_y:
+    align_y: start
     color: '#f4c8c8'
     caption: ''
     title_margin_y: '15'
@@ -410,7 +410,7 @@ content_blocks:
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-59.jpg
     width: '30'
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -439,7 +439,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
@@ -452,7 +452,7 @@ content_blocks:
     width: '40'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '20'
     align_y: start
     color: '#c9fce6'
     caption: ''
