@@ -527,28 +527,6 @@ content_blocks:
     theme_color: '#c22b30'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Hermès: Artist Danielle Hacche'
-    attached_collection: collections/hermès.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-5.jpg
-    width: '40'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
