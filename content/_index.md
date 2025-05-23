@@ -108,7 +108,7 @@ content_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086858994
+    vimeo_id: 1086874377
     text: caption
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
@@ -783,7 +783,7 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086610994
+    vimeo_id: 1086877168
     text: caption
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
