@@ -636,7 +636,7 @@ content_blocks:
     meta: 'AARP: Washed Away'
     attached_collection: collections/aarp.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: '60'
+    width: '66'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -661,7 +661,7 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: 2xl
     color: '#daceea'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '800'
     margin_left: '0'
@@ -748,7 +748,7 @@ content_blocks:
     color: '#fde25e'
     width: '25'
     align_y: '0'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '10'
     margin_right: '0'
     meta_align: right
