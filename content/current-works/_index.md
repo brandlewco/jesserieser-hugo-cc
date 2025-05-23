@@ -381,6 +381,25 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Communication Arts Photography Annual '
+    caption: Antoine’s Escalaras
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#fcc8cc'
+    width: '20'
+    align_y: start
+    margin_y: '50'
+    margin_left: '55'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#fabdc2'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
@@ -438,8 +457,8 @@ content_blocks:
     color: '#ff4b4b'
     width: '20'
     align_y: start
-    margin_y: '100'
-    margin_left: '15'
+    margin_y: '50'
+    margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
@@ -449,8 +468,8 @@ content_blocks:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
     attached_collection: collections/bloomberg-nomads-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-45.jpg
-    width: '40'
-    margin_y: '400'
+    width: '50'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '20'
     align_y: start
@@ -477,38 +496,38 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: 2xl
     color: '#f3d7d7'
-    width: '50'
+    width: '35'
     align_y: start
-    margin_y: '100'
-    margin_left: '35'
+    margin_y: '900'
+    margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#f6e7d1'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Antoine''s Escalaras '
-    attached_collection: collections/antoine-s-escalaras.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '33'
-    margin_y: '200'
-    margin_left: '15'
+    meta: 'Smithsonian: Kitt Peak National Obserbatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    width: '55'
+    margin_y: '300'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
-    color: '#e5f5b5'
-    caption: ''
-    title_margin_y: '40'
-    title_margin_left: '10'
+    color: '#a1c7f7'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '20'
     title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
+    text_size: 7xl
+    text_color: '#b1d7f7'
     line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
     meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'Elle Korea '
     caption: Christmas In America Feature
@@ -518,17 +537,13 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#c22b30'
-    width: '15'
+    width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '10'
+    margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: >-
@@ -536,10 +551,10 @@ content_blocks:
       Russia
     attached_collection: collections/switchyard-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -553,6 +568,10 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -622,23 +641,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Communication Arts Photography Annual '
-    caption: Antoine’s Escalaras
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#fcc8cc'
-    width: '15'
-    align_y: start
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '20'
-    meta_align: right
-    theme_color: '#fabdc2'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -751,7 +753,7 @@ content_blocks:
     width: '50'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     align_y: start
     color: '#d8c0ed'
     caption: ''
@@ -767,28 +769,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Smithsonian: Kitt Peak National Obserbatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-1.jpg
-    width: '50'
-    margin_y: '300'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#a1c7f7'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b1d7f7'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -1041,6 +1021,28 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Antoine''s Escalaras '
+    attached_collection: collections/antoine-s-escalaras.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
+    width: '33'
+    margin_y: '200'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#e5f5b5'
+    caption: ''
+    title_margin_y: '40'
+    title_margin_left: '10'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
