@@ -256,7 +256,7 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '10'
+    width: '15'
     align_y: start
     margin_y: '100'
     margin_left: '15'
