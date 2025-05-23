@@ -686,7 +686,7 @@ content_blocks:
     color: '#ffe6e6'
     width: '15'
     align_y: start
-    margin_y: '450'
+    margin_y: '800'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -738,128 +738,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Star Geezers on BOOOOOOM!
-    caption: Fisheye Photo Review 2021.22
-    attached_blog: posts/star-geezers-on-boooooom.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
-    block_aspect_ratio: 4x5
-    text_size:
-    color: '#ffe7c3'
-    width: '15'
-    align_y: start
-    margin_y: '0'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d9f8f4'
-    meta: meta
-    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Amtrak : On the Southwest Chief '
-    attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-13.jpg
-    width: '50'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#d8c0ed'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#f6f2a3'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: Autobiography of a Contact Sport'
-    attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
-    width: '50'
-    margin_y: '150'
-    margin_left: '15'
-    margin_right: '5'
-    align_y: start
-    color: '#fdd3d3'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#d27474'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: Agents Club 22 Awards
-    caption: 'New York Times: America Is Reopening'
-    attached_blog: posts/agents-club-22-awards-poetic-documentary.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-agentsclub_reopen-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#f9b0b0'
-    width: '10'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '20'
-    meta_align: right
-    theme_color: '#ccaaf8'
-    meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 2022 SPD Awards
-    caption: 'Barron’s: Las Vegas Presses Its’s Luck in the Postpandemic Era'
-    attached_blog: posts/2022-spd-awards.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-spd_LV-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#d2b9ed'
-    width: '10'
-    align_y: start
-    margin_y: '0'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ffdaa3'
-    meta: meta
-  - _bookshop_name: home/modal-blog
-    title: The Fence
-    caption: The Fence at The Griffin Museum of Photography
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
-    block_aspect_ratio: 11x8-5
-    text_size:
-    color: '#eed2d2'
-    width: '25'
-    align_y: start
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#e5e5ef'
-    meta: meta
-    blog_header:
   - _bookshop_name: home/modal-blog
     title: WaPo
     caption: Featured on Washington Post and Business Insider
@@ -868,28 +746,26 @@ content_blocks:
     block_aspect_ratio: 2x3
     text_size:
     color: '#fde25e'
-    width: '30'
+    width: '25'
     align_y: '0'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     meta_align: right
     theme_color: '#e8dcee'
     meta: meta
     align_x: start
     image:
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Wired: The Hard Luck Texas Town That Bet on Bitcoin and Lost'
     attached_collection: collections/wired-bitmain.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
     width: '45'
-    margin_y: '50'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
     color: '#ffe087'
     caption: ''
@@ -905,23 +781,69 @@ content_blocks:
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Xmas Roundup
-    caption: Holiday Season Feature and Interview Roundup
-    attached_blog: posts/christmas-in-america-happy-birthday-jesus.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_xmaspress-24b.jpg
-    block_aspect_ratio: 8-5x11
-    text_size:
-    color: '#c5c458'
-    width: '33'
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal: Autobiography of a Contact Sport'
+    attached_collection: collections/autobiography.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
+    width: '60'
+    margin_y: '150'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
-    margin_y: '100'
+    color: '#fdd3d3'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '-15'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#d27474'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: Star Geezers on BOOOOOOM!
+    caption: Fisheye Photo Review 2021.22
+    attached_blog: posts/star-geezers-on-boooooom.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sk-fisheye_review-1-2.jpg
+    block_aspect_ratio: 4x5
+    text_size:
+    color: '#ffe7c3'
+    width: '15'
+    align_y: start
+    margin_y: '0'
     margin_left: '0'
-    margin_right: '30'
-    meta_align: right
-    theme_color: '#ff0000'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#d9f8f4'
     meta: meta
-    blog_header:
+    blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Amtrak : On the Southwest Chief '
+    attached_collection: collections/amtrak-southwest-chief.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-13.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d8c0ed'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 8xl
+    text_color: '#f6f2a3'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -929,8 +851,8 @@ content_blocks:
     meta: 'Antoine''s Escalaras '
     attached_collection: collections/antoine-s-escalaras.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '33'
-    margin_y: '200'
+    width: '45'
+    margin_y: '300'
     margin_left: '15'
     margin_right: '0'
     align_y: start
@@ -946,6 +868,35 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: left
+  - _bookshop_name: home/modal-blog
+    title: The Fence
+    caption: The Fence at The Griffin Museum of Photography
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
+    block_aspect_ratio: 11x8-5
+    text_size:
+    color: '#eed2d2'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#e5e5ef'
+    meta: meta
+    blog_header:
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
