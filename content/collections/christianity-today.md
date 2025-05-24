@@ -141,7 +141,7 @@ collection_category:
   - Color
   - Editorial
 date: 2021-02-10T03:16:07Z
-theme_color: '#eac5bf'
+theme_color: '#f9ddc0'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi_3x4-5.jpg
