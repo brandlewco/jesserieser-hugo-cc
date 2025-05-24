@@ -405,7 +405,7 @@ collection_category:
   - Editorial
   - Workplace
 date: 2019-05-01T07:00:00Z
-theme_color: '#e9dcd0'
+theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
