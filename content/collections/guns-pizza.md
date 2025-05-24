@@ -10,6 +10,9 @@ collection_description: >-
   Firearms are deeply ingrained in what it means to be American and our history
   of the American West— a history of celebrated individualism paradoxically
   based on our freedom and that of the conquering settler and oppressor.
+
+
+  Celebrated in  AP 38 American Photography Annual.
 collection_description_alignment: center
 slug: GUNS_pizza
 collection_blocks:
