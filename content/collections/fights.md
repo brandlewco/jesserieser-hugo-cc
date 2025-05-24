@@ -210,6 +210,7 @@ collection_category:
   - Sports + Athletes
   - Humor
   - Conceptual
+  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#b7dbf5'
 theme_color_all_works: '#ffe05a'
