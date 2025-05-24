@@ -196,7 +196,7 @@ collection_category:
   - Sports + Athletes
   - Travel
 date: 2019-05-01T07:00:00Z
-theme_color: '#eac5bf'
+theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
