@@ -257,7 +257,7 @@ collection_category:
   - Workplace
   - Color
 date: 2023-04-12T16:05:37Z
-theme_color: '#f4e399'
+theme_color: '#b4f499'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-62.jpg
