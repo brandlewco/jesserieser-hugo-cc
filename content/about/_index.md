@@ -740,7 +740,7 @@ about_blocks:
     modal_block:
       - content: >-
           <p><strong>2025</strong><br />AP 41: American Photography Annual<br
-          />Best Editorial Series:<br /><em>Golf Digest</em> "All The Rage"</p>
+          />Best Editorial Series:<br /><em>Golf Digest </em> "All The Rage"</p>
         icon: ''
         url: ''
       - content: >-
