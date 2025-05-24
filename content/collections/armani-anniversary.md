@@ -127,7 +127,7 @@ collection_category:
   - Sports + Athletes
   - Portraits
 date: 2022-07-21T01:22:09Z
-theme_color: '#ffd0d0'
+theme_color: '#dcffd0'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
