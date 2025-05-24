@@ -1239,6 +1239,8 @@ about_blocks:
         url:
   - _bookshop_name: about/media-row-end
 footer_links:
+  - link_title: Flink Artists
+    link_url: https://flinkartists.com/artists/jesse-rieser-portfolio
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
   - link_title: LinkedIn
@@ -1249,8 +1251,6 @@ footer_links:
     link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
-  - link_title: Flink Artists
-    link_url: https://flinkartists.com/artists/jesse-rieser-portfolio
   - link_title: Gallery Stock
     link_url: >-
       https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
