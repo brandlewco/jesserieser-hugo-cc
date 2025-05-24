@@ -822,15 +822,32 @@ content_blocks:
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: The Fence
+    caption: The Fence at The Griffin Museum of Photography
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
+    block_aspect_ratio: 11x8-5
+    text_size:
+    color: '#eed2d2'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#e5e5ef'
+    meta: meta
+    blog_header:
   - _bookshop_name: home/media-feature
     title:
     meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
     attached_collection: collections/adidas-golf.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
     width: '50'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#d8c0ed'
     caption: ''
@@ -846,45 +863,18 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Antoine''s Escalaras '
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1086611030
+    text: ''
     attached_collection: collections/antoine-s-escalaras.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras-2.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#e5f5b5'
-    caption: ''
-    title_margin_y: '40'
-    title_margin_left: '10'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/modal-blog
-    title: The Fence
-    caption: The Fence at The Griffin Museum of Photography
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_retailfence_blog-cover-1.jpg
-    block_aspect_ratio: 11x8-5
-    text_size:
-    color: '#eed2d2'
-    width: '25'
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '60'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: left
-    theme_color: '#e5e5ef'
-    meta: meta
-    blog_header:
+    margin_left: '20'
+    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
