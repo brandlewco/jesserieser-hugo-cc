@@ -178,6 +178,9 @@ about_blocks:
       - content: <strong>Hearst</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Hearst.png
         url:
+      - content: <strong>Hermes Paris</strong>
+        icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__hermes.png
+        url:
       - content: <strong>Inc Mag</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__inc.png
         url:
