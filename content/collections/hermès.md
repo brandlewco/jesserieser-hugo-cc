@@ -184,6 +184,7 @@ collection_category:
   - Advertising
   - Environments
   - Color
+  - Motion
 date: 2021-02-10T03:16:07Z
 theme_color: '#eac5bf'
 theme_color_all_works: '#ffe05a'

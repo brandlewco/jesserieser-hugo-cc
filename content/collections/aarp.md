@@ -468,6 +468,7 @@ collection_category:
   - Editorial
   - Climate Change
   - Travel
+  - Motion
 date: 2019-05-01T07:00:00Z
 theme_color: '#d0dce9'
 theme_color_all_works: '#f1a4ff'
