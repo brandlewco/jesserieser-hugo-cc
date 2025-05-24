@@ -283,7 +283,7 @@ collection_category:
   - Environments
   - Color
 date: 2019-05-01T07:00:00Z
-theme_color: '#f4e399'
+theme_color: '#bbf9eb'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
