@@ -656,7 +656,7 @@ collection_category:
   - Gun Culture
   - Kids
 date: 2019-05-01T07:00:00Z
-theme_color: '#b1d9d2'
+theme_color: '#fddcd7'
 theme_color_all_works: '#69e5ce'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/guns_redo-3x4-1.jpg
