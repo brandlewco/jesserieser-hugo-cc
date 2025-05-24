@@ -739,6 +739,11 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
+          <p><strong>2025</strong><br />Grand Prix Pictet Official Nominee: <br
+          /><em>The Changing Landscape of American Retail</em></p>
+        icon: ''
+        url: ''
+      - content: >-
           <p><strong>2025</strong><br />AP 41: American Photography Annual<br
           />Best Editorial Series:<br /><em>Golf Digest </em> "All The Rage"</p>
         icon: ''
