@@ -131,7 +131,7 @@ collection_category:
   - Environments
   - Portraits
 date: 2022-05-02T20:38:11Z
-theme_color: '#c1ffd2'
+theme_color: '#ece2fb'
 theme_color_all_works: '#000000'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
