@@ -739,6 +739,11 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
+          <p><strong>2025</strong><br />AP 41: American Photography Annual<br
+          />Best Editorial Series:<br /><em>Golf Digest</em> "All The Rage"</p>
+        icon: ''
+        url: ''
+      - content: >-
           <p><strong>2024</strong><br />AP 40: American Photography Annual<br
           />Best Editorial Series:<br /><em>Outdoor Life</em> "A Son's First
           Solo Hunt"</p>
