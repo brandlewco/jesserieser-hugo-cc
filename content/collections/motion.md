@@ -29,9 +29,9 @@ collection_blocks:
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '45'
     align_y: start
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
   - _bookshop_name: collections/media-row
@@ -42,9 +42,9 @@ collection_blocks:
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '45'
     align_y: start
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
   - _bookshop_name: collections/media-motion
@@ -53,9 +53,9 @@ collection_blocks:
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
-    width: '50'
+    width: '45'
     align_y: start
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
   - _bookshop_name: collections/media-row-end
