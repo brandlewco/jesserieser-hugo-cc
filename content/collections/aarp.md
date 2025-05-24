@@ -469,7 +469,7 @@ collection_category:
   - Climate Change
   - Travel
 date: 2019-05-01T07:00:00Z
-theme_color: '#e9dcd0'
+theme_color: '#d0dce9'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-38.jpg
