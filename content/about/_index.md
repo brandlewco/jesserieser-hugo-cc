@@ -1020,6 +1020,12 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
+          <p><strong>2025 </strong><br />"Folklore" at Bentley Gallery. Phoenix,
+          AZ (Solo Show) <br /><em>American Hypnosis</em><br /><em>The Changing
+          Landscape of American Retail <br />Guns &amp; Pizza</em></p>
+        icon:
+        url:
+      - content: >-
           <p><strong>2024</strong><br />Unbound 13!<br />Candela Gallery<br
           /><em>American Hypnosis</em><br />Richmond, VA (Group Show)<br /></p>
         icon:
