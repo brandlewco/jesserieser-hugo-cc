@@ -11,6 +11,10 @@ collection_description: >-
   stunt doubles but regular people. They look ridiculous. Dress them in pastels,
   golf shoes, loud belts, and put them on a golf course, and they look even
   sillier.
+
+
+  Celebrated in the upcoming AP 41 American Photography annual as one of the
+  year's best in editorial photography.
 collection_description_alignment: center
 slug: golfdigest-fights
 collection_blocks:
