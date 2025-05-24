@@ -768,9 +768,9 @@ about_blocks:
         icon: ''
         url: ''
       - content: >-
-          <strong>2023</strong><br>Communication Arts Photography Annual Short
-          List<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Tucson to El
-          Paso On The Desert Eagle"&nbsp;
+          <strong>2023</strong><br />Communication Arts Photography Annual Short
+          List<br />Best Editorial Series:<br /><em>Barron's</em> "Beyond the
+          Drought"&nbsp;
         icon: ''
         url: ''
       - content: >-
