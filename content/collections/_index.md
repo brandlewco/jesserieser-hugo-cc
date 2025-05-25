@@ -23,10 +23,10 @@ collection_sorter:
   - collections/guns-pizza.md
   - collections/switchyard-copy.md
   - collections/bloomberg-nomads-copy.md
-  - collections/amtrak-southwest-chief.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/aarp.md
+  - collections/amtrak-southwest-chief.md
   - collections/bloomberg-nomads.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
