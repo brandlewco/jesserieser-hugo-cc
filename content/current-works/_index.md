@@ -418,7 +418,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Personal: Christmas in America: Happy Birthday, Jesus'
+    meta: 'Personal. Christmas in America: Happy Birthday, Jesus'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
     width: '50'
@@ -441,7 +441,7 @@ content_blocks:
     align_x: start
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Personal: Guns & Pizza'
+    meta: Personal. Guns & Pizza
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-59.jpg
     width: '35'
