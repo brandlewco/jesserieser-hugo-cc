@@ -703,7 +703,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: center
   - _bookshop_name: home/media-feature
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
