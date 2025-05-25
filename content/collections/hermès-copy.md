@@ -18,15 +18,6 @@ slug: wsj-racecar
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-1.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#edd7b2'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -104,9 +95,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-9.jpg
-    width: '33'
+    width: '30'
     margin_y: '700'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#ebd1ef'
@@ -123,16 +114,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-11.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-1.jpg
+    width: '50'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
+    margin_right: '0'
+    align_y:
+    color: '#edd7b2'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-11.jpg
+    width: '66'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#f9d4c0'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
