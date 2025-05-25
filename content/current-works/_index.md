@@ -460,7 +460,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: bold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
