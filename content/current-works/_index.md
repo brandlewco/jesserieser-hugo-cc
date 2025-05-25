@@ -123,7 +123,7 @@ content_blocks:
     margin_y: '900'
     margin_left: '0'
     margin_right: '5'
-    meta_align: left
+    meta_align: right
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
@@ -170,7 +170,7 @@ content_blocks:
     margin_y: '400'
     margin_left: '5'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
@@ -233,7 +233,7 @@ content_blocks:
     margin_right: '0'
   - _bookshop_name: home/media-link
     title: 'Request a Pdf '
-    meta: 'Silver Sneakers & Apple Fitness + '
+    meta: 'Apple Fitness + '
     text_size: 2xl
     align_y: start
     width: '20'
