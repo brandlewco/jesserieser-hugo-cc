@@ -21,22 +21,22 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-2.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y:
-    color: '#e2cfef'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-3.jpg
     width: '33'
     margin_y: '500'
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '10'
     align_y:
     color: '#cdf3ec'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-2.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#e2cfef'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
