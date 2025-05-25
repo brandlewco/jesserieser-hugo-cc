@@ -133,7 +133,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Personal: The Changing Landscape of American Retail'
+    meta: Personal. The Changing Landscape of American Retail
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
     width: '60'
