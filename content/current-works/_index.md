@@ -834,10 +834,10 @@ content_blocks:
     meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
     attached_collection: collections/adidas-golf.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
-    width: '50'
+    width: '55'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#d8c0ed'
     caption: ''
@@ -860,10 +860,10 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '60'
+    width: '66'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
