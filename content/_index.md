@@ -228,17 +228,17 @@ content_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
-    vimeo_id: 1086611030
+    vimeo_id: 1087456157
     text: caption
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '60'
+    width: '70'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    margin_left: '15'
+    margin_right: '5'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -327,27 +327,13 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-29.jpg
-    width: '30'
+    width: '35'
     margin_y: '500'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#eae2cc'
     caption: ''
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1087456157
-    text: caption
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '55'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-2.jpg
     width: '50'
@@ -357,6 +343,8 @@ content_blocks:
     align_y:
     color: '#faede1'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
