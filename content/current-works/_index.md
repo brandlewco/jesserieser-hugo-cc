@@ -558,30 +558,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: >-
-      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    attached_collection: collections/switchyard-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
-    width: '60'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
