@@ -806,7 +806,7 @@ content_blocks:
     margin_y: '0'
     margin_left: '0'
     margin_right: '5'
-    meta_align: left
+    meta_align: right
     theme_color: '#d9f8f4'
     meta: meta
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
