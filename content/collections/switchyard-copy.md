@@ -16,6 +16,17 @@ slug: nyt-uranium
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1087456157
+    text: caption
+    color: '#ff0000'
+    show_controls: true
+    block_aspect_ratio: 16x9
+    width: '80'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -404,6 +415,7 @@ collection_category:
   - Climate Change
   - Editorial
   - Workplace
+  - Motion
 date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
