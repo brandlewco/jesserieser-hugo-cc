@@ -89,7 +89,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'University of Tulsa: Power Failure: On Landscape and Abandonment'
+    meta: 'Switchyard Volume IV: Power Failure, On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
     width: '33'
@@ -108,7 +108,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: right
+    meta_align: center
   - _bookshop_name: home/modal-blog
     title: 'AP 41: American Photography Annual'
     caption: 'Golf Digest: All The Rage'
