@@ -577,7 +577,7 @@ content_blocks:
     margin_y: '1000'
     margin_left: '5'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#d8f1ae'
     meta: meta
   - _bookshop_name: home/media-feature
@@ -601,7 +601,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: left
+    meta_align: center
   - _bookshop_name: home/modal-blog
     title: 'AP 39: American Photography Annual '
     caption: 'Barron''s: Beyond The Drought'
@@ -642,7 +642,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
