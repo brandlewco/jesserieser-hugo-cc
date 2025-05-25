@@ -741,7 +741,7 @@ content_blocks:
     margin_y: '50'
     margin_left: '10'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color: '#e8dcee'
     meta: meta
     align_x: start
