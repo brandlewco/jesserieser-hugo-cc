@@ -30,10 +30,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-2.jpg
-    width: '30'
-    margin_y: '600'
+    width: '25'
+    margin_y: '800'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y:
     color: '#e2cfef'
     caption: ''
@@ -84,7 +84,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-7.jpg
     width: '33'
-    margin_y: '250'
+    margin_y: '400'
     margin_left: '20'
     margin_right: '0'
     align_y:
