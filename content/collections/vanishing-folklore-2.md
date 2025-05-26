@@ -463,13 +463,13 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#bafff5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-34.jpg
     width: '30'
-    margin_y: '1000'
+    margin_y: '750'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -480,9 +480,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-33.jpg
     width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '700'
+    margin_left: '15'
+    margin_right: '0'
     align_y:
     color: '#ddedf6'
     caption: ''
@@ -497,6 +497,24 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-52.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y:
+    color: '#ddffe6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-26.jpg
+    width: '33'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#ffebda'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-19.jpg
     width: '40'
@@ -550,15 +568,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-26.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#ffebda'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -636,15 +645,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-52.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '30'
-    margin_right: '0'
-    align_y:
-    color: '#ddffe6'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-53.jpg
     width: '25'
