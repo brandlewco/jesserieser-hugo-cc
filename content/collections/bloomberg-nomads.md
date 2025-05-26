@@ -124,11 +124,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/b2-assignents-4.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: ''
+    color: '#fbc1a2'
+    caption: ''
+    align_x: start
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-10.jpg
     width: '45'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    margin_y: '350'
+    margin_left: '0'
+    margin_right: '10'
     align_y: ''
     color: '#cce3fa'
     caption: ''
