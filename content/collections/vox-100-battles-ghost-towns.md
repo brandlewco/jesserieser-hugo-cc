@@ -141,7 +141,7 @@ collection_blocks:
     width: '40'
     margin_y: '500'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     align_y:
     color: '#d8f3d8'
     caption: ''
