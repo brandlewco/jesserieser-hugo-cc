@@ -37,7 +37,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-3.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '30'
     align_y:
@@ -68,7 +68,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-6.jpg
     width: '35'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     align_y:
@@ -79,7 +79,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-7.jpg
     width: '25'
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '5'
     margin_right: '0'
     align_y:
@@ -108,7 +108,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-12.jpg
     width: '30'
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '25'
     align_y:
@@ -132,7 +132,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-14.jpg
     width: '25'
-    margin_y: '400'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -155,9 +155,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-16.jpg
-    width: '40'
+    width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '40'
     margin_right: '0'
     align_y:
     color: '#f0d0cf'
