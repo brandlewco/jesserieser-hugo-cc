@@ -250,14 +250,14 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/b2-assignents-5.jpg
     width: '33'
     margin_y: '600'
     margin_left: '10'
     margin_right: '0'
     align_y: center
     color: '#d8e59d'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-25.jpg
     width: '45'
