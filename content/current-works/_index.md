@@ -214,7 +214,7 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '300'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '10'
   - _bookshop_name: home/media-row
@@ -271,7 +271,7 @@ content_blocks:
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
     width: '33'
-    margin_y: '200'
+    margin_y: '250'
     margin_left: '0'
     margin_right: '30'
     align_y: start
@@ -407,7 +407,7 @@ content_blocks:
     color: '#fcc8cc'
     width: '20'
     align_y: start
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
@@ -488,7 +488,7 @@ content_blocks:
     color: '#f3d7d7'
     width: '35'
     align_y: start
-    margin_y: '600'
+    margin_y: '750'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -540,7 +540,7 @@ content_blocks:
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
     width: '60'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -653,7 +653,7 @@ content_blocks:
     color: '#daceea'
     width: '20'
     align_y: start
-    margin_y: '800'
+    margin_y: '1000'
     margin_left: '0'
     margin_right: '0'
     meta_align: right
@@ -676,7 +676,7 @@ content_blocks:
     color: '#ffe6e6'
     width: '15'
     align_y: start
-    margin_y: '800'
+    margin_y: '1000'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -688,7 +688,7 @@ content_blocks:
     attached_collection: collections/barrons-lake-mead-drought.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-4.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -753,7 +753,7 @@ content_blocks:
     attached_collection: collections/wired-bitmain.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-20.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -777,7 +777,7 @@ content_blocks:
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     width: '60'
-    margin_y: '150'
+    margin_y: '250'
     margin_left: '15'
     margin_right: '0'
     align_y: start
@@ -835,7 +835,7 @@ content_blocks:
     attached_collection: collections/adidas-golf.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
     width: '55'
-    margin_y: '300'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '10'
     align_y: start
