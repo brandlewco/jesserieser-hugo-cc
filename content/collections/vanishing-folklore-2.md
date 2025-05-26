@@ -488,10 +488,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-67.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
+    width: '45'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#cce1f3'
     caption: ''
