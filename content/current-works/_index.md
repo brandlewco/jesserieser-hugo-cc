@@ -881,7 +881,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row-end
 collection_content: ''
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-2-6.jpg
 navigation_theme: black
 row_alignment: between
 hide_footer: true
