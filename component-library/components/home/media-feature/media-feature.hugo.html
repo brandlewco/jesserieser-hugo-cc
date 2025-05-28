@@ -33,7 +33,7 @@
       {{with site.GetPage .attached_collection}}
     </a>
     {{end}} {{ if .title }}
-    <figcaption
+    <span
       class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}"
       style="pointer-events:none; {{with .title_margin_y}}top:{{.}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{.}}%;{{end}} {{with .title_margin_right}}margin-right:{{.}}%;{{end}}"
       data-rellax-speed="4"
@@ -45,12 +45,13 @@
       >
         {{ .title | markdownify}}
       </h2>
-    </figcaption>
+    </span>
     {{ end }}
   </figure>
   {{ if .meta }} {{ $metaAlign := "" }} {{ with .meta_align }} {{ $metaAlign =
   printf "text-%s" . }} {{ end }}
-  <figcaption class="relative">
+  <span class="relative"       data-sal="slide-down"
+      data-sal-delay="600">
     {{ with site.GetPage .attached_collection }} {{ $blocks :=
     .Params.collection_blocks }} {{ $mediaElement := where $blocks
     "_bookshop_name" "collections/media-element" }} {{ $mediaFeature := where
@@ -70,6 +71,6 @@
     >
       {{ .meta }}
     </h6>
-  </figcaption>
+  </span>
   {{ end }}
 </article>

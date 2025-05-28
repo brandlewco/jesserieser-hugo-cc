@@ -1,7 +1,9 @@
 
 {{ $fileName := path.Base .vimeo_id | replaceRE "(.doc|.jpeg|.jpg)" ""}}
-<!-- <section class="block-media-1 block-hover flex flex-row {{with .row_alignment}}sm:justify-{{.}}{{else}}sm:justify-between{{end}} mx-auto h-auto"> -->
-  <figure class="figure block-hover magnify self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} mt-4 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight" itemprop="associatedMedia" itemscope itemtype="http://schema.org/VideoObject" id="{{ $fileName }}">
+<article
+  class=" sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper"
+>
+  <figure class="figure block-hover relative" itemprop="associatedMedia" itemscope itemtype="http://schema.org/VideoObject" id="{{ $fileName }}">
     <!-- <a href="{{ .image }}" itemprop="contentUrl" pid="{{ $fileName }}" data-no-swup>
       <img class="lazyload" src="{{ .image }}?width=1024" data-src="{{ .image }}" alt="{{ .caption }}"/>
     </a> -->
@@ -13,8 +15,31 @@
           </div>
       </div>
     </a>
-    {{ with .caption }}
-      <figcaption class="hidden" itemprop="caption description">{{ . }}</figcaption>
-    {{ end }}
-  </figure>  
+      </figure> 
+  {{ if .meta }} {{ $metaAlign := "" }} {{ with .meta_align }} {{ $metaAlign =
+  printf "text-%s" . }} {{ end }}
+  <span class="relative">
+    {{ with site.GetPage .attached_collection }} {{ $blocks :=
+    .Params.collection_blocks }} {{ $mediaElement := where $blocks
+    "_bookshop_name" "collections/media-element" }} {{ $mediaFeature := where
+    $blocks "_bookshop_name" "collections/media-feature" }} {{ $mediaMotion :=
+    where $blocks "_bookshop_name" "collections/media-motion" }} {{ $mediaCount
+    := add (add (len $mediaElement) (len $mediaFeature)) (len $mediaMotion) }}
+    {{ if gt $mediaCount 0 }}
+    <span
+      class="count mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight relative sm:absolute top-0 left-0 w-full {{ $metaAlign }}"       data-sal="slide-down"
+      data-sal-delay="600"
+      >[{{ $mediaCount }}]</span
+    >
+    {{ end }} {{ end }}
+    <h6
+      class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 inline-block sm:block {{ $metaAlign }}"
+      data-sal="slide-down"
+      data-sal-delay="600"
+    >
+      {{ .meta }}
+    </h6>
+  </span>
+  {{ end }}
+ </article>
 <!-- </section> -->

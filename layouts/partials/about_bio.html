@@ -2,7 +2,7 @@
     <figure class="relative w-full sm:self-start sm:w-50 mt-0 ml-0 px-4 sm:px-16 lg:px-72 lg:mx-24  highlight rellax-wrapper relative" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
         <div class="flex flex-col sm:flex-row md:relative md:flex-none flex-row-reverse gap-8 sm:gap-12">
           <figcaption class="about-bio z-10 w-full sm:w-50/100 ml-0 break-words leading-tight text-sm tracking-wide " style="color:#000000; ">
-            {{ .Params.about_bio | markdownify }}
+            {{ .Params.about_bio | markdownify}}
           </figcaption>
           <div class="relative right-0 z-0 rellax rellax-off lazyload w-full sm:w-50/100 lg:w-50/100" style="top: 35%; transform: translate3d(0px, 0px, 0px);">
             <img class="lazyload opacity-100 sm:opacity-50" data-src="{{.Params.about_bio_image}}" alt="" data-rellax-speed="2" data-rellax-xs-speed="1">

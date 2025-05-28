@@ -7,7 +7,7 @@ spec:
   preview:
     image:
       - key: image
-    text:
+    caption:
       - key: caption
       - Vimeo
     subtext:
@@ -16,7 +16,9 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   vimeo_id: 999999999
-  text: caption
+  caption: caption
+  meta: meta
+  meta_align: center
   attached_collection: collections/xmas-in-america.md
   color: "#000000"
   show_controls: false
@@ -26,6 +28,7 @@ blueprint:
   margin_y: "0"
   margin_left: "0"
   margin_right: "0"
+
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

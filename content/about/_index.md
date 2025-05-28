@@ -67,9 +67,8 @@ about_bio: >-
   empathy. Some call it charm. His mom just says he’s a nice young man.
 
 
-  <a
-  href="https://www.dropbox.com/scl/fi/xhqjes011scwkw1zph953/Jesse_Rieser202505_CV-Main.pdf?rlkey=7wfzfngaccjvllicxlk915hvs&amp;dl=0"
-  target="_blank" rel="noopener">Download CV</a>
+
+  [Download CV](https://www.dropbox.com/scl/fi/xhqjes011scwkw1zph953/Jesse_Rieser202505_CV-Main.pdf?rlkey=7wfzfngaccjvllicxlk915hvs&amp;dl=0)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
