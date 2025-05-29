@@ -210,8 +210,8 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1086148559
     caption: caption
-    meta: meta
-    meta_align: left
+    meta: Emporio Armani 50th 50th Anniversary Featuring Deandre Hopkins
+    meta_align: right
     attached_collection: collections/armani-anniversary.md
     color: '#000000'
     show_controls: false
