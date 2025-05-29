@@ -226,7 +226,7 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1086877168
     caption: caption
-    meta: meta
+    meta: 'ESPN: Devin Booker Becoming Legendary'
     meta_align: left
     attached_collection: collections/espn-devin-booker-cover-story.md
     color: '#000000'
@@ -472,7 +472,9 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1087456157
     caption: caption
-    meta: meta
+    meta: >-
+      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
     meta_align: left
     attached_collection: collections/switchyard-copy.md
     color: '#000000'
