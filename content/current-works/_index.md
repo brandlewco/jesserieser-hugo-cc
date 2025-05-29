@@ -475,7 +475,7 @@ content_blocks:
     meta: >-
       The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
       Russia
-    meta_align: left
+    meta_align: center
     attached_collection: collections/switchyard-copy.md
     color: '#000000'
     show_controls: false
