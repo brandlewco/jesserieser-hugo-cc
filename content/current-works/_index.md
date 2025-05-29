@@ -177,8 +177,8 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1086874377
     caption: caption
-    meta: meta
-    meta_align: left
+    meta: Hermès & Danielle Hacche
+    meta_align: right
     attached_collection: collections/hermès.md
     color: '#000000'
     show_controls: false
