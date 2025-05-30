@@ -1,13 +1,13 @@
 # Metadata about this component, to be used in the CMS
 spec:
   structures:
-    - collection_blocks
+    - content_blocks
   label: Vimeo
   description:
   preview:
     image:
       - key: image
-    text:
+    caption:
       - key: caption
       - Vimeo
     subtext:
@@ -15,21 +15,23 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  vimeo_id: 123
-  text: caption
-  color: "#ff0000"
-  show_controls: true
-  block_aspect_ratio: "16x9"
+  vimeo_id: 999999999
+  caption: caption
+  meta: meta
+  meta_align: center
+  attached_collection: collections/xmas-in-america.md
+  color: "#000000"
+  show_controls: false
+  block_aspect_ratio: 16x9
   width: "50"
   align_y: start
   margin_y: "0"
   margin_left: "0"
   margin_right: "0"
 
+
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  show_controls:
-    type: switch

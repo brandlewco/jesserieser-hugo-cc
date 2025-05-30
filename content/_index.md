@@ -10,15 +10,12 @@ seo:
     Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
     Director specializing in portraiture, reportage, sport and conceptual
     photography and video. Located in the West Coast and Southwestern USA.
-content_blocks:
-  - _bookshop_name: home/media-row-start
+collection_blocks:
+  - _bookshop_name: collections/media-row-start
     row_alignment: start
-  - _bookshop_name: home/media-motion
+  - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
     caption: caption
-    meta: meta
-    meta_align: left
-    attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -109,7 +106,7 @@ content_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: home/media-motion
+  - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
     caption: caption
     meta: meta
@@ -231,7 +228,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
+  - _bookshop_name: collections/media-motion
     vimeo_id: 1087456157
     caption: caption
     meta: meta
@@ -790,7 +787,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
+  - _bookshop_name: collections/media-motion
     vimeo_id: 1086877168
     caption: caption
     meta: meta
@@ -938,7 +935,7 @@ content_blocks:
     align_y:
     color: '#885872'
     caption: ''
-  - _bookshop_name: home/media-row-end
+  - _bookshop_name: collections/media-row-end
 collection_content: ''
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/selectedworks_23-1.jpg
 navigation_theme: black
