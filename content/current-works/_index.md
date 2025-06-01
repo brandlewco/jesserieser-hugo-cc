@@ -273,7 +273,7 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-feature
     title:
-    meta: Christianity Today
+    meta: 'Testimony:  Reformed Nazi Now Pastor'
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
     width: '33'
