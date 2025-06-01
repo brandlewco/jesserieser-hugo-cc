@@ -16,7 +16,7 @@ collection_blocks:
     vimeo_id: 1087456157
     text: Uranium
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '45'
     align_y: start
