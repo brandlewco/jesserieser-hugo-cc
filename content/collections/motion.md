@@ -14,7 +14,7 @@ collection_blocks:
     row_alignment: center
   - _bookshop_name: collections/media-motion
     vimeo_id: 1087456157
-    text: caption
+    text: Uranium
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
@@ -25,7 +25,7 @@ collection_blocks:
     margin_right: '0'
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
-    text: caption
+    text: Armani
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
@@ -37,8 +37,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
-    vimeo_id: 1086148559
-    text: caption
+    vimeo_id: 1086874377
+    text: Hermes
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
@@ -48,8 +48,8 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
   - _bookshop_name: collections/media-motion
-    vimeo_id: 1086874377
-    text: ''
+    vimeo_id: 515559208
+    text: Booker
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
