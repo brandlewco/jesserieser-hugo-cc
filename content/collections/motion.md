@@ -34,6 +34,24 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+  - _bookshop_name: collections/media-text
+    text: insert text here
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: lg
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    parallax: true
+    image_css: ''
+    caption_css: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -58,6 +76,8 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-10.jpg
