@@ -17,27 +17,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-1.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#ffd9b0'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-2.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#9fe1dd'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-1.jpg
     width: '55'
     margin_y: '100'
     margin_left: '25'
@@ -46,118 +26,145 @@ collection_blocks:
     color: '#d4e6f6'
     caption: ''
   - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-2.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#ffd9b0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-3.jpg
+    width: '50'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: center
+    color: '#ffe19e'
+    caption: ''
+  - _bookshop_name: collections/media-row
     row_alignment: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-4.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#fea470'
-    caption:
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-5.jpg
+    width: '25'
+    margin_y: '350'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: center
+    color: '#ebd995'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-6.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#ebe5db'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-5.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#ebe5db'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-8.jpg
     width: '40'
-    margin_y: '400'
+    margin_y: '350'
     margin_left: '0'
-    margin_right: '20'
-    align_y: center
-    color: '#ffe19e'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: start
+    margin_right: '10'
+    align_y: start
+    color: '#fde3d3'
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-9.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#002774'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-8.jpg
-    width: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-10.jpg
+    width: '25'
     margin_y: '700'
-    margin_left: '5'
-    margin_right: '5'
+    margin_left: '0'
+    margin_right: '0'
     align_y: center
     color: '#ff904d'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-11.jpg
     width: '25'
-    margin_y: '600'
-    margin_left: '15'
+    margin_y: '800'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#fff8d0'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-12.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: start
     color: '#b0daf2'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-11.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: center
-    color: '#ebd995'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-12.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#fde3d3'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-13.jpg
     width: '30'
     margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#b0daf2'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-14.jpg
+    width: '25'
+    margin_y: '350'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '30'
     align_y: start
     color: '#ba94dc'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adobe_20407-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-15.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#fcbe8e'
@@ -173,8 +180,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_phx-recolor-12.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-10.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo_cover-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo_cover-2.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Advertising
@@ -192,10 +199,10 @@ theme_color_all_works: '#ff8f47'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-10.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo-3x4-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo-3x4-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo-3x4-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/adobe_redo-3x4-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
