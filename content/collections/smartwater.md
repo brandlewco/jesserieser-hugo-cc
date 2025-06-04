@@ -23,94 +23,85 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-1.jpg
     width: '66'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d1e3eb'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-2.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#e2dcdc'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-3.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: start
-    color: '#d8e4f4'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
-    width: '45'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#D0CEE6'
-    caption:
+    color: '#e2dcdc'
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-5.jpg
-    width: '33'
-    margin_y: '600'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-3.jpg
+    width: '40'
+    margin_y: '350'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
-    color: '#FABDAB'
-    caption:
+    color: '#d8e4f4'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-5.jpg
+    width: '33'
+    margin_y: '250'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#fabdab'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-7.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#eeece1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-8.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
-    align_y: start
-    color: '#c0bfdc'
-    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-10.jpg
-    width: '70'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-6.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#c0bfdc'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-8.jpg
+    width: '80'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#c4d8eb'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater-4.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202310_vert-covers-11.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/smartwater_redo_cover-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/smartwater_redo_cover-2.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Advertising
