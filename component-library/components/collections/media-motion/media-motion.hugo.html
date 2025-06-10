@@ -3,7 +3,7 @@
 <article
   class=" sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper"
 >
-  <figure class="figure block-hover relative" itemprop="associatedMedia" itemscope itemtype="http://schema.org/VideoObject" id="{{ $fileName }}">
+  <figure class="block-hover relative" itemprop="associatedMedia" itemscope itemtype="http://schema.org/VideoObject" id="{{ $fileName }}">
     <a class="video relative block" itemprop="contentUrl" pid="{{ $fileName }}" background={{.show_controls}} data-no-swup>
       <div class="block">
         <div class="absolute inset-auto w-full h-full z-10 bg-transparent"></div>
