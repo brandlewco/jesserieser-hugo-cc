@@ -1,21 +1,21 @@
-import Swup from 'swup';
-import SwupScrollPlugin from '@swup/scroll-plugin';
-import SwupGtmPlugin from '@swup/gtm-plugin';
-import SwupBodyClassPlugin from '@swup/body-class-plugin';
-import SwupScriptsPlugin from '@swup/scripts-plugin';
-import 'lazysizes';
-import 'lazysizes/plugins/parent-fit/ls.parent-fit';
-import 'lazysizes/plugins/respimg/ls.respimg';
-import sal from 'sal.js';
-import Rellax from 'rellax';
-import Flickity from 'flickity';
-import PhotoSwipe from 'photoswipe';
-import PhotoSwipeUI_Default from 'photoswipe/dist/photoswipe-ui-default';
-import { disablePageScroll, enablePageScroll } from 'scroll-lock';
+import Swup from "swup";
+import SwupScrollPlugin from "@swup/scroll-plugin";
+import SwupGtmPlugin from "@swup/gtm-plugin";
+import SwupBodyClassPlugin from "@swup/body-class-plugin";
+import SwupScriptsPlugin from "@swup/scripts-plugin";
+import "lazysizes";
+import "lazysizes/plugins/parent-fit/ls.parent-fit";
+import "lazysizes/plugins/respimg/ls.respimg";
+import sal from "sal.js";
+import Rellax from "rellax";
+import Flickity from "flickity";
+import PhotoSwipe from "photoswipe";
+import PhotoSwipeUI_Default from "photoswipe/dist/photoswipe-ui-default";
+import { disablePageScroll, enablePageScroll } from "scroll-lock";
 
 // Swup initialization options
 const options = {
-  containers: ['#navigation', '#content'],
+  containers: ["#navigation", "#content"],
   plugins: [
     new SwupScrollPlugin({
       animateScroll: false,
@@ -34,27 +34,27 @@ const options = {
   preload: true,
   cache: true,
   linkSelector:
-  'a[href^="' +
-  window.location.origin +
-  '"]:not([data-no-swup]):not(.modal-trigger), a[href^="/"]:not([data-no-swup]):not(.modal-trigger), a[href^="#"]:not([data-no-swup]):not(.modal-trigger)',
-skipPopStateHandling: function (event) {
-  if (event.state && event.state.source === 'swup') {
-    return false;
-  }
-  return true;
-},
+    'a[href^="' +
+    window.location.origin +
+    '"]:not([data-no-swup]):not(.modal-trigger), a[href^="/"]:not([data-no-swup]):not(.modal-trigger), a[href^="#"]:not([data-no-swup]):not(.modal-trigger)',
+  skipPopStateHandling: function (event) {
+    if (event.state && event.state.source === "swup") {
+      return false;
+    }
+    return true;
+  },
 };
 
 // Initialize Swup
 const swup = new Swup(options);
 
 // Listen for content replacement and re-initialize scripts
-swup.on('contentReplaced', init);
+swup.on("contentReplaced", init);
 
 // Initialization function for dynamic elements
 function init() {
   const body = document.body;
-  const navigation = document.getElementById('navigation');
+  const navigation = document.getElementById("navigation");
   const navigationHeight = navigation.clientHeight;
 
   window.lazySizesConfig = window.lazySizesConfig || {};
@@ -62,7 +62,7 @@ function init() {
 
   // Update viewport height unit
   const vh = window.innerHeight * 0.01;
-  document.documentElement.style.setProperty('--vh', `${vh}px`);
+  document.documentElement.style.setProperty("--vh", `${vh}px`);
 
   // Debounce function for resize event
   function debounce(func, wait, immediate) {
@@ -82,50 +82,54 @@ function init() {
   }
   var windowResize = debounce(function () {
     const vh = window.innerHeight * 0.01;
-    document.documentElement.style.setProperty('--vh', `${vh}px`);
+    document.documentElement.style.setProperty("--vh", `${vh}px`);
   }, 250);
 
   // Event listener for window resize
-  window.addEventListener('resize', windowResize);
+  window.addEventListener("resize", windowResize);
 
   // Set up initial console logs
   const setUp = () => {
-    console.log('// built by brett lewis');
-    console.log('// hello@brandlew.co');
+    console.log("// built by brett lewis");
+    console.log("// hello@brandlew.co");
   };
   setUp();
 
-  if (document.querySelector('body').classList.contains('dark')) {
-    document.documentElement.classList.add('dark');
+  if (document.querySelector("body").classList.contains("dark")) {
+    document.documentElement.classList.add("dark");
   } else {
-      document.documentElement.classList.remove('dark');
+    document.documentElement.classList.remove("dark");
   }
 
   // Initial check on page load
-  if (document.querySelector('body').classList.contains('dark')) {
-    document.documentElement.classList.add('dark');
+  if (document.querySelector("body").classList.contains("dark")) {
+    document.documentElement.classList.add("dark");
   } else {
-    document.documentElement.classList.remove('dark');
+    document.documentElement.classList.remove("dark");
   }
 
   setTimeout(function () {
-    document.querySelectorAll('.initial-black').forEach(function (element) {
-      element.classList.remove('initial-black');
+    document.querySelectorAll(".initial-black").forEach(function (element) {
+      element.classList.remove("initial-black");
     });
   }, 2200);
 
   setTimeout(function () {
-    document.querySelectorAll('.initial-black-bg').forEach(function (element) {
-      element.classList.remove('initial-black-bg');
+    document.querySelectorAll(".initial-black-bg").forEach(function (element) {
+      element.classList.remove("initial-black-bg");
     });
   }, 2200);
 
   // Remove Sal animation delays that interfere with scroll animations
   setTimeout(function () {
-    document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, #page-title .loading, #project-header #header-image').forEach(function (element) {
-      element.style.transitionDelay = '0s';
-      element.style.transitionDuration = '0.33s';
-    });
+    document
+      .querySelectorAll(
+        "#page-title h1, #page-title h2, #page-title h3, #page-title .loading, #project-header #header-image"
+      )
+      .forEach(function (element) {
+        element.style.transitionDelay = "0s";
+        element.style.transitionDuration = "0.33s";
+      });
   }, 2200);
 
   // Sal Animations
@@ -135,7 +139,7 @@ function init() {
   });
 
   // Rellax initialization
-  const rellaxIn = document.querySelectorAll('.rellax');
+  const rellaxIn = document.querySelectorAll(".rellax");
   rellaxIn.forEach((el) => {
     const rellax = new Rellax(el, {
       speed: 4,
@@ -147,16 +151,18 @@ function init() {
       horizontal: false,
       breakpoints: [1200, 1600, 2000],
     });
-    window.addEventListener('scroll', () => {
+    window.addEventListener("scroll", () => {
       rellax.refresh();
     });
   });
 
   // PhotoSwipe initialization
-  if (document.querySelector('#gallery')) {
+  if (document.querySelector("#gallery")) {
     var initPhotoSwipeFromDOM = function (gallerySelector) {
       var parseThumbnailElements = function (el) {
-        var thumbElements = Array.prototype.slice.call(document.querySelectorAll('.figure')),
+        var thumbElements = Array.prototype.slice.call(
+            document.querySelectorAll(".figure")
+          ),
           numNodes = thumbElements.length,
           items = [],
           figureEl,
@@ -174,22 +180,24 @@ function init() {
           linkEl = figureEl.children[0];
           imgEl = linkEl.children[0];
 
-          if (linkEl.classList.contains('video')) {
-            var videoID = linkEl.getAttribute('pid');
-            var videoBg = linkEl.getAttribute('background');
+          if (linkEl.classList.contains("video")) {
+            var videoID = linkEl.getAttribute("pid");
+            var videoBg = linkEl.getAttribute("background");
             item = {
               html:
                 "<div class='relative w-full h-full z-100'><iframe src='https://player.vimeo.com/video/" +
                 videoID +
-                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" + videoBg + "&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
-              pid: linkEl.getAttribute('pid'),
+                "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" +
+                videoBg +
+                "&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
+              pid: linkEl.getAttribute("pid"),
             };
           } else {
             item = {
-              src: imgEl.getAttribute('data-src'),
+              src: imgEl.getAttribute("data-src"),
               w: imgEl.naturalWidth * 2,
               h: imgEl.naturalHeight * 2,
-              pid: linkEl.getAttribute('pid'),
+              pid: linkEl.getAttribute("pid"),
             };
           }
 
@@ -215,11 +223,11 @@ function init() {
       function galleryUiLaunch() {
         navigation.style.zIndex = 0;
         navigation.style.opacity = 0;
-        navigation.style.display = 'hidden';
-        const figureIMG = document.querySelectorAll('.figure img');
-        const figureVID = document.querySelectorAll('.figure a.video');
-        body.classList.add('gallery-open');
-        body.classList.remove('gallery-closed');
+        navigation.style.display = "hidden";
+        const figureIMG = document.querySelectorAll(".figure img");
+        const figureVID = document.querySelectorAll(".figure a.video");
+        body.classList.add("gallery-open");
+        body.classList.remove("gallery-closed");
         figureIMG.forEach(function (element) {
           element.style.opacity = 0;
         });
@@ -235,15 +243,17 @@ function init() {
         var eTarget = e.target || e.srcElement;
 
         var clickedListItem = closest(eTarget, function (el) {
-          return el.tagName && el.tagName.toUpperCase() === 'FIGURE';
+          return el.tagName && el.tagName.toUpperCase() === "FIGURE";
         });
 
         if (!clickedListItem) {
           return;
         }
 
-        var clickedGallery = document.querySelectorAll('.my-gallery')[0],
-          childNodes = Array.prototype.slice.call(document.querySelectorAll('.figure')),
+        var clickedGallery = document.querySelectorAll(".my-gallery")[0],
+          childNodes = Array.prototype.slice.call(
+            document.querySelectorAll(".figure")
+          ),
           numChildNodes = childNodes.length,
           nodeIndex = 0,
           index;
@@ -274,12 +284,12 @@ function init() {
           return params;
         }
 
-        var vars = hash.split('&');
+        var vars = hash.split("&");
         for (var i = 0; i < vars.length; i++) {
           if (!vars[i]) {
             continue;
           }
-          var pair = vars[i].split('=');
+          var pair = vars[i].split("=");
           if (pair.length < 2) {
             continue;
           }
@@ -293,8 +303,13 @@ function init() {
         return params;
       };
 
-      var openPhotoSwipe = function (index, galleryElement, disableAnimation, fromURL) {
-        var pswpElement = document.querySelectorAll('.pswp')[0],
+      var openPhotoSwipe = function (
+        index,
+        galleryElement,
+        disableAnimation,
+        fromURL
+      ) {
+        var pswpElement = document.querySelectorAll(".pswp")[0],
           gallery,
           options,
           items;
@@ -302,16 +317,17 @@ function init() {
         items = parseThumbnailElements(galleryElement);
 
         options = {
-          galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+          galleryUID: galleryElement.getAttribute("data-pswp-uid"),
           history: false,
-          bgOpacity: 0.50,
+          bgOpacity: 0.5,
           closeOnScroll: false,
           closeOnVerticalDrag: true,
           preload: [2, 3],
           loadingIndicatorDelay: 0,
           getThumbBoundsFn: function (index) {
-            var thumbnail = items[index].el.getElementsByTagName('a')[0],
-              pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
+            var thumbnail = items[index].el.getElementsByTagName("a")[0],
+              pageYScroll =
+                window.pageYOffset || document.documentElement.scrollTop,
               rect = thumbnail.getBoundingClientRect();
 
             return { x: rect.left, y: rect.top + pageYScroll, w: rect.width };
@@ -319,7 +335,7 @@ function init() {
           fullscreenEl: false,
           zoomEl: false,
           shareEl: false,
-          indexIndicatorSep: '/',
+          indexIndicatorSep: "/",
           loop: true,
         };
 
@@ -346,43 +362,50 @@ function init() {
           options.showAnimationDuration = 0;
         }
 
-        const galleryClose = document.getElementById('pswp_close');
-        galleryClose.addEventListener('click', () => {
+        const galleryClose = document.getElementById("pswp_close");
+        galleryClose.addEventListener("click", () => {
           gallery.close();
         });
 
-        gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
-        gallery.listen('beforeChange', function () {
-          var activeSlide = document.getElementsByClassName('active-slide');
-          var activeWrapper = document.getElementsByClassName('active-wrapper');
-          var activeBefore = document.getElementsByClassName('active-before');
-          var activeAfter = document.getElementsByClassName('active-after');
+        gallery = new PhotoSwipe(
+          pswpElement,
+          PhotoSwipeUI_Default,
+          items,
+          options
+        );
+        gallery.listen("beforeChange", function () {
+          var activeSlide = document.getElementsByClassName("active-slide");
+          var activeWrapper = document.getElementsByClassName("active-wrapper");
+          var activeBefore = document.getElementsByClassName("active-before");
+          var activeAfter = document.getElementsByClassName("active-after");
           function removeActiveSlide() {
             while (activeSlide[0]) {
-              activeSlide[0].classList.remove('active-slide');
+              activeSlide[0].classList.remove("active-slide");
             }
             while (activeWrapper[0]) {
-              activeWrapper[0].classList.remove('active-wrapper');
+              activeWrapper[0].classList.remove("active-wrapper");
             }
             while (activeBefore[0]) {
-              activeBefore[0].classList.remove('active-before');
+              activeBefore[0].classList.remove("active-before");
             }
             while (activeAfter[0]) {
-              activeAfter[0].classList.remove('active-after');
+              activeAfter[0].classList.remove("active-after");
             }
           }
           removeActiveSlide();
         });
-        gallery.listen('afterChange', function () {
+        gallery.listen("afterChange", function () {
           var currentItem = gallery.currItem.container;
           var currentItemParent = gallery.currItem.container.parentNode;
-          currentItem.classList.add('active-slide');
-          currentItemParent.classList.add('active-wrapper');
+          currentItem.classList.add("active-slide");
+          currentItemParent.classList.add("active-wrapper");
           if (currentItemParent.previousElementSibling) {
-            currentItemParent.previousElementSibling.classList.add('active-before');
+            currentItemParent.previousElementSibling.classList.add(
+              "active-before"
+            );
           }
           if (currentItemParent.nextElementSibling) {
-            currentItemParent.nextElementSibling.classList.add('active-after');
+            currentItemParent.nextElementSibling.classList.add("active-after");
           }
           Element.prototype.documentOffsetTop = function () {
             return (
@@ -391,37 +414,41 @@ function init() {
             );
           };
           var topPos =
-            document.getElementById(gallery.currItem.el.id).documentOffsetTop() -
+            document
+              .getElementById(gallery.currItem.el.id)
+              .documentOffsetTop() -
             window.innerHeight / 2;
           window.scrollTo({
             top: topPos,
             left: 0,
-            behavior: 'smooth',
+            behavior: "smooth",
           });
           modifyLinksForCaptionsInPhotoSwipe();
         });
-        gallery.listen('close', function () {
+        gallery.listen("close", function () {
           var topPos =
-            document.getElementById(gallery.currItem.el.id).documentOffsetTop() -
+            document
+              .getElementById(gallery.currItem.el.id)
+              .documentOffsetTop() -
             window.innerHeight / 2;
           window.scrollTo({
             top: topPos,
             left: 0,
-            behavior: 'smooth',
+            behavior: "smooth",
           });
           navigation.style.zIndex = 110;
-          navigation.style.transform = 'translate3d(0, 0px, 0)';
+          navigation.style.transform = "translate3d(0, 0px, 0)";
           navigation.style.opacity = 1;
-          navigation.style.display = 'block';
-          body.classList.remove('gallery-open');
-          body.classList.add('gallery-closed');
-          const figureIMG = document.querySelectorAll('.figure img');
+          navigation.style.display = "block";
+          body.classList.remove("gallery-open");
+          body.classList.add("gallery-closed");
+          const figureIMG = document.querySelectorAll(".figure img");
           figureIMG.forEach(function (element) {
-            element.style.removeProperty('opacity');
+            element.style.removeProperty("opacity");
           });
-          const figureVID = document.querySelectorAll('.figure a.video');
+          const figureVID = document.querySelectorAll(".figure a.video");
           figureVID.forEach(function (element) {
-            element.style.removeProperty('opacity');
+            element.style.removeProperty("opacity");
           });
         });
         gallery.init();
@@ -430,82 +457,93 @@ function init() {
       var galleryElements = document.querySelectorAll(gallerySelector);
 
       for (var i = 0, l = galleryElements.length; i < l; i++) {
-        galleryElements[i].setAttribute('data-pswp-uid', i + 1);
+        galleryElements[i].setAttribute("data-pswp-uid", i + 1);
         galleryElements[i].onclick = onThumbnailsClick;
       }
 
-      var figureClick = document.querySelectorAll('.figure a');
+      var figureClick = document.querySelectorAll(".figure a");
       figureClick.forEach((trigger) => {
-        trigger.addEventListener('mouseenter', () => {
+        trigger.addEventListener("mouseenter", () => {
           setTimeout(function () {
-            var preloadURL = trigger.getAttribute('href');
+            var preloadURL = trigger.getAttribute("href");
             var preloadIMG = new Image();
             preloadIMG.src = preloadURL;
           }, 20);
         });
-        trigger.addEventListener('click', () => {
+        trigger.addEventListener("click", () => {
           galleryUiLaunch();
         });
       });
 
       var hashData = photoswipeParseHash();
       if (hashData.pid && hashData.gid) {
-        openPhotoSwipe(hashData.pid, galleryElements[hashData.gid - 1], true, true);
+        openPhotoSwipe(
+          hashData.pid,
+          galleryElements[hashData.gid - 1],
+          true,
+          true
+        );
       }
     };
-    initPhotoSwipeFromDOM('.my-gallery');
+    initPhotoSwipeFromDOM(".my-gallery");
   }
 
   function modifyLinksForCaptionsInPhotoSwipe() {
-    var captionLinks = document.querySelectorAll('.pswp__caption .caption a');
+    var captionLinks = document.querySelectorAll(".pswp__caption .caption a");
 
     captionLinks.forEach(function (link) {
-      link.setAttribute('data-no-swup', '');
-      link.removeAttribute('target');
+      link.setAttribute("data-no-swup", "");
+      link.removeAttribute("target");
     });
   }
 
   function lazyloadToggle(e) {
-    var lazydelay = e.getElementsByClassName('lazyload-delay');
+    var lazydelay = e.getElementsByClassName("lazyload-delay");
     for (var i = 0; i < lazydelay.length; i++) {
-      lazydelay[i].classList.add('lazyload');
+      lazydelay[i].classList.add("lazyload");
     }
   }
 
   document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
-    anchor.addEventListener('click', function (e) {
+    anchor.addEventListener("click", function (e) {
       e.preventDefault();
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-        behavior: 'smooth',
+      document.querySelector(this.getAttribute("href")).scrollIntoView({
+        behavior: "smooth",
       });
     });
   });
 
   function navigationToggle() {
-    var navToggle = document.getElementsByClassName('navToggle');
+    var navToggle = document.getElementsByClassName("navToggle");
     Array.prototype.forEach.call(navToggle, function (nav) {
-      nav.addEventListener('click', function (event) {
-        nav.classList.toggle('toggle-active');
-        navigation.classList.toggle('active');
+      nav.addEventListener("click", function (event) {
+        nav.classList.toggle("toggle-active");
+        navigation.classList.toggle("active");
       });
     });
   }
   navigationToggle();
 
   function removeActive() {
-    navigation.classList.remove('active');
+    navigation.classList.remove("active");
   }
   removeActive();
 
-  const modalTriggers = document.querySelectorAll('.popup-trigger');
+  const modalTriggers = document.querySelectorAll(".popup-trigger");
   modalTriggers.forEach((trigger) => {
     const { popupTrigger } = trigger.dataset;
-    const popupModal = document.querySelector(`[data-popup-modal="${popupTrigger}"]`);
-    const popupGalleryInit = popupModal.querySelector('.gallery_scroller');
-    const popupList = popupModal.querySelector('.scrollbar');
+    const popupModal = document.querySelector(
+      `[data-popup-modal="${popupTrigger}"]`
+    );
+    const popupGalleryInit = popupModal.querySelector(".gallery_scroller");
+    const popupList = popupModal.querySelector(".scrollbar");
 
     function launchModal() {
-      history.pushState('', document.title, window.location.pathname + '#' + popupTrigger);
+      history.pushState(
+        "",
+        document.title,
+        window.location.pathname + "#" + popupTrigger
+      );
       disablePageScroll(popupModal);
       if (popupList) {
         disablePageScroll(popupList);
@@ -516,70 +554,85 @@ function init() {
           wrapAround: true,
           adaptiveHeight: true,
           percentPosition: false,
-          draggable: '>1',
+          draggable: ">1",
           accessibility: false,
           arrowShape:
-            'm77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z',
+            "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
         });
       }
-      navigation.classList.remove('active');
+      navigation.classList.remove("active");
       navigation.style.opacity = 0;
-      navigation.style.display = 'none';
+      navigation.style.display = "none";
       popupModal.style.opacity = 1;
-      popupModal.style.visibility = 'visible';
-      popupModal.classList.add('is--visible');
+      popupModal.style.visibility = "visible";
+      popupModal.classList.add("is--visible");
 
-      var navToggle = document.getElementsByClassName('navToggle');
+      var navToggle = document.getElementsByClassName("navToggle");
       Array.prototype.forEach.call(navToggle, function (nav) {
-        nav.classList.remove('toggle-active');
+        nav.classList.remove("toggle-active");
       });
     }
 
     function closeModal() {
-      history.pushState('', document.title, window.location.pathname + window.location.search);
+      history.pushState(
+        "",
+        document.title,
+        window.location.pathname + window.location.search
+      );
       enablePageScroll(popupModal);
       if (popupList) {
         enablePageScroll(popupList);
       }
       navigation.style.opacity = 1;
-      navigation.style.display = 'block';
+      navigation.style.display = "block";
       popupModal.style.opacity = 0;
-      popupModal.style.visibility = 'hidden';
-      popupModal.classList.remove('is--visible');
+      popupModal.style.visibility = "hidden";
+      popupModal.classList.remove("is--visible");
 
-      document.querySelectorAll('.modal-video').forEach((iframe) => {
-        var player = new Vimeo.Player(iframe);
-        player.pause();
+      document.querySelectorAll(".modal-video").forEach((iframe) => {
+        // Only pause if it's a real Vimeo embed
+        const src =
+          iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
+        if (src.includes("player.vimeo.com")) {
+          try {
+            var player = new Vimeo.Player(iframe);
+            player.pause();
+          } catch (e) {
+            // Ignore if not a valid Vimeo embed
+          }
+        }
       });
     }
 
-    trigger.addEventListener('click', () => {
+    trigger.addEventListener("click", () => {
       launchModal();
     });
 
-    popupModal.querySelector('.popup-modal__close').addEventListener('click', () => {
-      closeModal();
-    });
+    popupModal
+      .querySelector(".popup-modal__close")
+      .addEventListener("click", () => {
+        closeModal();
+      });
 
-    if (popupModal.querySelector('.exit-modal')) {
-      popupModal.querySelector('.exit-modal').addEventListener('click', () => {
+    if (popupModal.querySelector(".exit-modal")) {
+      popupModal.querySelector(".exit-modal").addEventListener("click", () => {
         closeModal();
         swup.scrollTo(document.body, 0);
       });
     }
 
-    document.addEventListener('keyup', function (event) {
+    document.addEventListener("keyup", function (event) {
       if (event.defaultPrevented) {
         return;
       }
       var key = event.key || event.keyCode;
-      if (key === 'Escape' || key === 'Esc' || key === 27) {
+      if (key === "Escape" || key === "Esc" || key === 27) {
         closeModal();
       }
     });
   });
 
-  const dynamicModal = document.getElementById('popup-modal-url');
+  const dynamicModal = document.getElementById("popup-modal-url");
   if (dynamicModal) {
     async function fetchAndDisplayContent(url) {
       try {
@@ -590,17 +643,19 @@ function init() {
         const content = await response.text();
         dynamicModal.innerHTML = content;
       } catch (error) {
-        console.error('Error fetching content:', error);
-        dynamicModal.innerHTML = '<p>Error loading content.</p>';
+        console.error("Error fetching content:", error);
+        dynamicModal.innerHTML = "<p>Error loading content.</p>";
       }
     }
 
     if (window.location.hash) {
       var locHash = window.location.hash.substring(1);
-      var locButton = document.querySelector(`.modal-trigger[data-popup-trigger="${locHash}"]`);
+      var locButton = document.querySelector(
+        `.modal-trigger[data-popup-trigger="${locHash}"]`
+      );
 
       if (locButton) {
-        const url = locButton.getAttribute('data-modal-trigger-url');
+        const url = locButton.getAttribute("data-modal-trigger-url");
         fetchAndDisplayContent(url).then(() => {
           openDynamicModal(locHash);
         });
@@ -608,88 +663,107 @@ function init() {
     }
 
     function openDynamicModal() {
-      dynamicModal.classList.add('show');
+      dynamicModal.classList.add("show");
       dynamicModal.style.opacity = 1;
-      dynamicModal.style.visibility = 'visible';
-      navigation.classList.remove('active');
+      dynamicModal.style.visibility = "visible";
+      navigation.classList.remove("active");
       navigation.style.opacity = 0;
-      navigation.style.display = 'none';
+      navigation.style.display = "none";
       disablePageScroll(dynamicModal);
-      const popupGalleryInit = dynamicModal.querySelector('.gallery_scroller');
+      const popupGalleryInit = dynamicModal.querySelector(".gallery_scroller");
       var flkty = new Flickity(popupGalleryInit, {
         wrapAround: true,
         adaptiveHeight: true,
         percentPosition: false,
-        draggable: '>1',
+        draggable: ">1",
         accessibility: false,
-        arrowShape: 'm77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z',
+        arrowShape: "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
       });
     }
 
     function closeDynamicModal() {
-      dynamicModal.classList.remove('show');
+      dynamicModal.classList.remove("show");
       dynamicModal.style.opacity = 0;
-      dynamicModal.style.visibility = 'hidden';
+      dynamicModal.style.visibility = "hidden";
       navigation.style.opacity = 1;
-      navigation.style.display = 'block';
+      navigation.style.display = "block";
       enablePageScroll(dynamicModal);
-      history.pushState('', document.title, window.location.pathname);
-      document.querySelectorAll('.modal-video').forEach((iframe) => {
-        var player = new Vimeo.Player(iframe);
-        player.pause();
+      history.pushState("", document.title, window.location.pathname);
+      document.querySelectorAll(".modal-video").forEach((iframe) => {
+        // Only pause if it's a real Vimeo embed
+        const src =
+          iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
+        if (src.includes("player.vimeo.com")) {
+          try {
+            var player = new Vimeo.Player(iframe);
+            player.pause();
+          } catch (e) {
+            // Ignore if not a valid Vimeo embed
+          }
+        }
       });
     }
 
-    const dynamicModalTriggers = document.querySelectorAll('.modal-trigger');
+    const dynamicModalTriggers = document.querySelectorAll(".modal-trigger");
     dynamicModalTriggers.forEach((trigger) => {
-      trigger.addEventListener('click', async () => {
-        const url = trigger.getAttribute('data-modal-trigger-url');
-        const modalTriggerId = trigger.getAttribute('data-popup-trigger');
-        history.pushState('', document.title, window.location.pathname + '#' + modalTriggerId);
+      trigger.addEventListener("click", async () => {
+        const url = trigger.getAttribute("data-modal-trigger-url");
+        const modalTriggerId = trigger.getAttribute("data-popup-trigger");
+        history.pushState(
+          "",
+          document.title,
+          window.location.pathname + "#" + modalTriggerId
+        );
         await fetchAndDisplayContent(url);
         openDynamicModal();
       });
     });
 
-    const dynamicCloseButton = dynamicModal.querySelector('.dynamic-modal-close');
+    const dynamicCloseButton = dynamicModal.querySelector(
+      ".dynamic-modal-close"
+    );
     if (dynamicCloseButton) {
-      dynamicCloseButton.addEventListener('click', () => {
+      dynamicCloseButton.addEventListener("click", () => {
         closeDynamicModal();
       });
     }
 
-    dynamicModal.addEventListener('click', function (event) {
-      if (event.target.matches('.dynamic-modal-close')) {
+    dynamicModal.addEventListener("click", function (event) {
+      if (event.target.matches(".dynamic-modal-close")) {
         closeDynamicModal();
       }
     });
 
-    document.addEventListener('keyup', function (event) {
-      if (event.key === 'Escape' || event.key === 'Esc' || event.keyCode === 27) {
-        if (dynamicModal.classList.contains('show')) {
+    document.addEventListener("keyup", function (event) {
+      if (
+        event.key === "Escape" ||
+        event.key === "Esc" ||
+        event.keyCode === 27
+      ) {
+        if (dynamicModal.classList.contains("show")) {
           closeDynamicModal();
         }
       }
     });
   }
 
-  var buttons = document.getElementsByClassName('toggle');
+  var buttons = document.getElementsByClassName("toggle");
   Array.prototype.forEach.call(buttons, function (button) {
-    button.addEventListener('click', function (event) {
-      button.classList.toggle('active');
+    button.addEventListener("click", function (event) {
+      button.classList.toggle("active");
     });
   });
 
-  const figureAll = document.querySelectorAll('.figure');
+  const figureAll = document.querySelectorAll(".figure");
   figureAll.forEach((figureHovered) => {
-    figureHovered.addEventListener('mouseenter', () => {
+    figureHovered.addEventListener("mouseenter", () => {
       figureAll.forEach(function (element) {
-        element.classList.add('dimmed');
+        element.classList.add("dimmed");
       });
     });
-    figureHovered.addEventListener('mouseleave', () => {
+    figureHovered.addEventListener("mouseleave", () => {
       figureAll.forEach(function (element) {
-        element.classList.remove('dimmed');
+        element.classList.remove("dimmed");
       });
     });
   });
@@ -706,10 +780,10 @@ function init() {
   const pageDescription = document.getElementById("page-description");
   const metaContainer = document.getElementById("meta-container");
   const height = window.innerHeight;
-  
+
   const startFade = height * 0.25; // 25% of viewport height
-  const endFade = height * 0.50; // 75% of viewport height
-  
+  const endFade = height * 0.5; // 75% of viewport height
+
   // Helper function to clamp values within a range
   function value_limit(value, min, max) {
     return Math.min(Math.max(value, min), max);
@@ -717,45 +791,58 @@ function init() {
 
   // Function to check if the body does not have specific classes
   function isNotSpecialPage() {
-    return !document.body.classList.contains('page-overview') &&
-           !document.body.classList.contains('page-current-works') &&
-           !document.body.classList.contains('page-say-hello') &&
-           !document.body.classList.contains('overview');
+    return (
+      !document.body.classList.contains("page-overview") &&
+      !document.body.classList.contains("page-current-works") &&
+      !document.body.classList.contains("page-say-hello") &&
+      !document.body.classList.contains("overview")
+    );
   }
 
   // Function to check if the body has specific classes (for special pages)
   function isSpecialPage() {
-    return document.body.classList.contains('page-overview') ||
-          document.body.classList.contains('page-current-works') ||
-          document.body.classList.contains('page-say-hello') ||
-          document.body.classList.contains('overview');
+    return (
+      document.body.classList.contains("page-overview") ||
+      document.body.classList.contains("page-current-works") ||
+      document.body.classList.contains("page-say-hello") ||
+      document.body.classList.contains("overview")
+    );
   }
 
   // Set initial colors based on data-hue
   function setInitialColors() {
-    const hue = navigation.getAttribute('data-hue');
-    const defaultColor = hue === 'black' ? '#000000' : (hue === 'white' ? '#FFFFFF' : '');
-    const defaultBackgroundColor = ''; // Define your default background color if any
+    const hue = navigation.getAttribute("data-hue");
+    const defaultColor =
+      hue === "black" ? "#000000" : hue === "white" ? "#FFFFFF" : "";
+    const defaultBackgroundColor = ""; // Define your default background color if any
 
-    document.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
-      if (element.classList.contains('bun')) {
-        element.style.backgroundColor = defaultBackgroundColor;
-      } else if (element.classList.contains('shift')) {
-        element.style.color = defaultColor;
-        if (element.classList.contains('nav-ig')) {
-          element.style.fill = defaultColor;
+    document
+      .querySelectorAll(".bun, .shift, .shift.nav-ig")
+      .forEach(function (element) {
+        if (element.classList.contains("bun")) {
+          element.style.backgroundColor = defaultBackgroundColor;
+        } else if (element.classList.contains("shift")) {
+          element.style.color = defaultColor;
+          if (element.classList.contains("nav-ig")) {
+            element.style.fill = defaultColor;
+          }
         }
-      }
-    });
+      });
 
-    document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, .shift, #page-description').forEach(function (element) {
-      element.style.color = defaultColor;
-      element.style.fill = defaultColor;
-    });
+    document
+      .querySelectorAll(
+        "#page-title h1, #page-title h2, #page-title h3, .shift, #page-description"
+      )
+      .forEach(function (element) {
+        element.style.color = defaultColor;
+        element.style.fill = defaultColor;
+      });
 
-    document.querySelectorAll('#page-title .loading').forEach(function (element) {
-      element.style.backgroundColor = defaultBackgroundColor;
-    });
+    document
+      .querySelectorAll("#page-title .loading")
+      .forEach(function (element) {
+        element.style.backgroundColor = defaultBackgroundColor;
+      });
   }
 
   // Call setInitialColors on page load
@@ -766,30 +853,39 @@ function init() {
     const scrollTop = window.scrollY; // Current scroll position
 
     // Get the initial color from the navigation element's data-hue attribute
-    const hue = navigation.getAttribute('data-hue');
-    const defaultColor = hue === 'black' ? '#000000' : (hue === 'white' ? '#FFFFFF' : '');
-    const defaultBackgroundColor = ''; // Define your default background color if any
+    const hue = navigation.getAttribute("data-hue");
+    const defaultColor =
+      hue === "black" ? "#000000" : hue === "white" ? "#FFFFFF" : "";
+    const defaultBackgroundColor = ""; // Define your default background color if any
 
     function setColor(color) {
-      document.querySelectorAll('.bun, .shift, .shift.nav-ig').forEach(function (element) {
-        if (element.classList.contains('bun')) {
-          element.style.backgroundColor = color || defaultBackgroundColor;
-        } else if (element.classList.contains('shift')) {
-          element.style.color = color || defaultColor;
-          if (element.classList.contains('nav-ig')) {
-            element.style.fill = color || defaultColor;
+      document
+        .querySelectorAll(".bun, .shift, .shift.nav-ig")
+        .forEach(function (element) {
+          if (element.classList.contains("bun")) {
+            element.style.backgroundColor = color || defaultBackgroundColor;
+          } else if (element.classList.contains("shift")) {
+            element.style.color = color || defaultColor;
+            if (element.classList.contains("nav-ig")) {
+              element.style.fill = color || defaultColor;
+            }
           }
-        }
-      });
+        });
 
-      document.querySelectorAll('#page-title h1, #page-title h2, #page-title h3, .shift, #page-description').forEach(function (element) {
-        element.style.color = color || defaultColor;
-        element.style.fill = color || defaultColor;
-      });
+      document
+        .querySelectorAll(
+          "#page-title h1, #page-title h2, #page-title h3, .shift, #page-description"
+        )
+        .forEach(function (element) {
+          element.style.color = color || defaultColor;
+          element.style.fill = color || defaultColor;
+        });
 
-      document.querySelectorAll('#page-title .loading').forEach(function (element) {
-        element.style.backgroundColor = color || defaultBackgroundColor;
-      });
+      document
+        .querySelectorAll("#page-title .loading")
+        .forEach(function (element) {
+          element.style.backgroundColor = color || defaultBackgroundColor;
+        });
     }
 
     if (isSpecialPage()) {
@@ -798,21 +894,21 @@ function init() {
         pageDescription.classList.add("opacity-100");
         pageDescription.classList.remove("absolute");
       }
-    } 
+    }
 
     // Update colors based on scroll position and archive class
     if (scrollTop >= startFade) {
-      if (document.body.classList.contains('dark')) {
-        setColor('#FFFFFF');
+      if (document.body.classList.contains("dark")) {
+        setColor("#FFFFFF");
       } else {
-        setColor('#000000');
+        setColor("#000000");
       }
       if (isNotSpecialPage()) {
         if (pageDescription) {
           pageDescription.classList.add("opacity-100");
           pageDescription.classList.remove("opacity-0");
         }
-      } 
+      }
     } else {
       // Reset to default colors based on data-hue
       setColor(defaultColor);
@@ -821,20 +917,16 @@ function init() {
           pageDescription.classList.add("opacity-0");
           pageDescription.classList.remove("opacity-100");
         }
-      } 
+      }
     }
-
   }
 
-
   // Event listeners for scroll and load
-  window.addEventListener('scroll', updateColors);
-  window.addEventListener('load', updateColors);
+  window.addEventListener("scroll", updateColors);
+  window.addEventListener("load", updateColors);
 
   // Initial call to set colors correctly on page load
   updateColors();
-
-
 
   function applyResponsiveWidth() {
     if (window.innerWidth >= 768) {
@@ -846,18 +938,18 @@ function init() {
           // Set the width of the description to be the same as the meta-container
           pageDescription.style.maxWidth = containerWidth + "px";
         }
-      }
-    } else {
-      // Reset maxWidth if viewport width is below 768px
-      if (pageDescription) {
-        pageDescription.style.maxWidth = "";
+      } else {
+        // Reset maxWidth if viewport width is below 768px
+        if (pageDescription) {
+          pageDescription.style.maxWidth = "";
+        }
       }
     }
   }
 
   // Call the function initially and also on window resize
   applyResponsiveWidth();
-  window.addEventListener('resize', applyResponsiveWidth);
+  window.addEventListener("resize", applyResponsiveWidth);
 
   // Scroll Animations
   let scrollPos = 0;
@@ -903,15 +995,16 @@ function init() {
         if (pageTitle) {
           const pageTitleHeight = pageTitle.offsetHeight;
           let additionalHeight = 0;
-  
+
           if (pageDescription) {
-            const pageDescriptionHeight = pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
+            const pageDescriptionHeight =
+              pageDescription.offsetHeight + pageDescription.offsetHeight + 72; // 1rem in pixels (16px)
             additionalHeight = pageDescriptionHeight;
           }
-  
+
           const totalHeight = pageTitleHeight + additionalHeight;
           const pageTitleBottom = (window.innerHeight - totalHeight) / 2; // Adjust to your viewport height calculation
-  
+
           if (window.scrollY > pageTitleBottom) {
             pageTitle.classList.add("absolute");
             pageTitle.classList.remove("fixed");
@@ -946,85 +1039,88 @@ function init() {
     scrollPos = windowY;
   };
 
-  if (document.querySelector('#current')) {
-    var currentPage = document.getElementById('current');
+  if (document.querySelector("#current")) {
+    var currentPage = document.getElementById("current");
 
     if (currentPage.previousElementSibling) {
-      currentPage.previousElementSibling.classList.remove('hidden');
+      currentPage.previousElementSibling.classList.remove("hidden");
       currentPage.previousElementSibling.classList.add(
-        'visible',
-        'collection-prev'
+        "visible",
+        "collection-prev"
       );
-      currentPage.previousElementSibling.querySelector('.mobile').innerHTML =
-        'Prev';
+      currentPage.previousElementSibling.querySelector(".mobile").innerHTML =
+        "Prev";
     }
     if (currentPage.nextElementSibling) {
-      currentPage.nextElementSibling.classList.remove('hidden');
+      currentPage.nextElementSibling.classList.remove("hidden");
       currentPage.nextElementSibling.classList.add(
-        'visible',
-        'collection-next'
+        "visible",
+        "collection-next"
       );
-      currentPage.nextElementSibling.querySelector('.mobile').innerHTML =
-        'Next';
+      currentPage.nextElementSibling.querySelector(".mobile").innerHTML =
+        "Next";
     }
   }
 
-  navigation.style.opacity = '1';
+  navigation.style.opacity = "1";
 
-  var overviewLink = document.querySelector('.nav-overview-container');
+  var overviewLink = document.querySelector(".nav-overview-container");
 
-  overviewLink.addEventListener('click', function (event) {
+  overviewLink.addEventListener("click", function (event) {
     event.preventDefault();
-    var dropdown = this.querySelector('.dropdown-content');
-    var isHidden = dropdown.classList.contains('hidden');
+    var dropdown = this.querySelector(".dropdown-content");
+    var isHidden = dropdown.classList.contains("hidden");
 
-    document.querySelectorAll('.dropdown-content').forEach(function (dropdown) {
-      dropdown.classList.add('hidden');
+    document.querySelectorAll(".dropdown-content").forEach(function (dropdown) {
+      dropdown.classList.add("hidden");
     });
-    
+
     if (isHidden) {
-      dropdown.classList.remove('hidden');
+      dropdown.classList.remove("hidden");
     } else {
-      dropdown.classList.add('hidden');
+      dropdown.classList.add("hidden");
     }
   });
 
-  document.addEventListener('click', function (event) {
-    if (!event.target.closest('.nav-overview-container')) {
-      document.querySelectorAll('.dropdown-content').forEach(function (dropdown) {
-        dropdown.classList.add('hidden');
-      });
+  document.addEventListener("click", function (event) {
+    if (!event.target.closest(".nav-overview-container")) {
+      document
+        .querySelectorAll(".dropdown-content")
+        .forEach(function (dropdown) {
+          dropdown.classList.add("hidden");
+        });
     }
   });
 
   (function () {
-    var links = document.getElementsByTagName('a');
+    var links = document.getElementsByTagName("a");
 
     for (var i = 0; i < links.length; i++) {
       var link = links[i];
-      var href = link.getAttribute('href');
+      var href = link.getAttribute("href");
 
-      if (link.closest('.caption')) {
-        link.setAttribute('data-no-swup', '');
-        link.removeAttribute('target');
+      if (link.closest(".caption")) {
+        link.setAttribute("data-no-swup", "");
+        link.removeAttribute("target");
       } else if (/^(https?:)?\/\//.test(href)) {
-        link.target = '_blank';
+        link.target = "_blank";
       }
     }
   })();
 
   (function (document, window) {
-    var styleText = '::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;';
-    var unfocus_style = document.createElement('STYLE');
+    var styleText =
+      "::-moz-focus-inner{border:0 !important;}:focus{outline: none !important;";
+    var unfocus_style = document.createElement("STYLE");
 
     window.unfocus = function () {
-      document.getElementsByTagName('HEAD')[0].appendChild(unfocus_style);
+      document.getElementsByTagName("HEAD")[0].appendChild(unfocus_style);
 
-      document.addEventListener('mousedown', function () {
-        unfocus_style.innerHTML = styleText + '}';
+      document.addEventListener("mousedown", function () {
+        unfocus_style.innerHTML = styleText + "}";
       });
-      document.addEventListener('keydown', function () {
-        unfocus_style.innerHTML = '';
+      document.addEventListener("keydown", function () {
+        unfocus_style.innerHTML = "";
       });
     };
 
