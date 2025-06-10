@@ -12,15 +12,15 @@ slug: about
 collection_description: ''
 theme_color: '#bde6c5'
 navigation_theme: black
-header_col_1_title: US + International Advertising, Commercial, & Magazine Covers
+header_col_1_title: 'U.S. + International Advertising '
 header_col_1: >-
-  <p>Managed by <br />Brian Flink<br /><a href="mailto:brian@wschupfer.com"
-  target="_blank" rel="noopener">brian@wschupfer.com </a><br /><a
-  href="tel:+6462344532" target="_blank" rel="noopener">646 234 4532</a>
-  (direct)<br />New York, Paris, Milan, London &amp; Los Angeles</p><p></p>
-header_col_2_title: >-
-  Editorial Assignments, Phoenix Advertising, Corporate Commissions,
-  Exhibitions, Syndication, & Press
+  <p>Managed and Represented by <br /><a
+  href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
+  rel="noopener">Flink Artists</a><br /><a
+  href="mailto:brian@flinkartists.com">brian@flinkartists.com</a><br /><a
+  href="mailto:danielle@flinkartists.com">danielle@flinkartists.com</a><br />New
+  York, London &amp; Los Angeles</p><p></p>
+header_col_2_title: Editorial, Phoenix Advertising, Corporate, Exhibitions, Syndication, & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
@@ -68,7 +68,7 @@ about_bio: >-
 
 
   [Download
-  CV](https://www.dropbox.com/scl/fi/3fzyai41pkef8dx3nnes9/Jesse_Rieser202408_CV.pdf?rlkey=eddfreikxg49cw2mkysqv9lb5&amp;dl=0)
+  CV](https://www.dropbox.com/scl/fi/47fapiuuqtsd1qcu5viml/Jesse_Rieser202506_CV-Main.pdf?rlkey=5e4w872przkpv13wjpiyutfyj&amp;dl=0)
 about_bio_image: https://d1sf55qlb7p6hz.cloudfront.net/info-1.jpg
 about_blocks:
   - _bookshop_name: about/media-row-start
@@ -176,6 +176,10 @@ about_blocks:
         url:
       - content: <strong>Hearst</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V5__Hearst.png
+        url:
+      - content: <strong>Hermes Paris</strong>
+        icon: >-
+          https://d1sf55qlb7p6hz.cloudfront.net/Logo_Vectors_V3__hermes_BIGGER.png
         url:
       - content: <strong>Inc Mag</strong>
         icon: https://d1sf55qlb7p6hz.cloudfront.net/logo_vectors_v3__inc.png
@@ -735,6 +739,16 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
+          <p><strong>2025</strong><br />Grand Prix Pictet Official Nominee: <br
+          /><em>The Changing Landscape of American Retail</em></p>
+        icon: ''
+        url: ''
+      - content: >-
+          <p><strong>2025</strong><br />AP 41: American Photography Annual<br
+          />Best Editorial Series:<br /><em>Golf Digest </em> "All The Rage"</p>
+        icon: ''
+        url: ''
+      - content: >-
           <p><strong>2024</strong><br />AP 40: American Photography Annual<br
           />Best Editorial Series:<br /><em>Outdoor Life</em> "A Son's First
           Solo Hunt"</p>
@@ -747,15 +761,15 @@ about_blocks:
         icon: ''
         url: ''
       - content: >-
-          <strong>2023</strong><br>Communication Arts Photography Annual Short
-          List<br>Best Editorial Series:<br><em>Amtrak The National</em> "Tucson
-          to El Paso On The Desert Eagle"&nbsp;
+          <strong>2023</strong><br />Communication Arts Photography Annual Short
+          List<br />Best Editorial Series:<br /><em>Amtrak The National</em>
+          "Tucson to El Paso On The Desert Eagle"&nbsp;
         icon: ''
         url: ''
       - content: >-
-          <strong>2023</strong><br>Communication Arts Photography Annual Short
-          List<br>Best Editorial Series:<br><em>Barron&apos;s</em> "Tucson to El
-          Paso On The Desert Eagle"&nbsp;
+          <strong>2023</strong><br />Communication Arts Photography Annual Short
+          List<br />Best Editorial Series:<br /><em>Barron's</em> "Beyond the
+          Drought"&nbsp;
         icon: ''
         url: ''
       - content: >-
@@ -1006,6 +1020,12 @@ about_blocks:
     align_x: start
     modal_block:
       - content: >-
+          <p><strong>2025 </strong><br />"Folklore" at Bentley Gallery. Phoenix,
+          AZ (Solo Show) <br /><em>American Hypnosis</em><br /><em>The Changing
+          Landscape of American Retail <br />Guns &amp; Pizza</em></p>
+        icon:
+        url:
+      - content: >-
           <p><strong>2024</strong><br />Unbound 13!<br />Candela Gallery<br
           /><em>American Hypnosis</em><br />Richmond, VA (Group Show)<br /></p>
         icon:
@@ -1218,6 +1238,8 @@ about_blocks:
         url:
   - _bookshop_name: about/media-row-end
 footer_links:
+  - link_title: Flink Artists
+    link_url: https://flinkartists.com/artists/jesse-rieser-portfolio
   - link_title: Instagram
     link_url: https://www.instagram.com/jesserieser/
   - link_title: LinkedIn
@@ -1228,11 +1250,11 @@ footer_links:
     link_url: https://www.threads.net/@jesserieser
   - link_title: Behance
     link_url: https://www.behance.net/jesserieser
-  - link_title: LensCulture
-    link_url: https://www.lensculture.com/jesse-rieser
   - link_title: Gallery Stock
     link_url: >-
       https://www.gallerystock.com/CS.aspx?VP3=SearchResult&VBID=2P0UBHSGBWW77&SMLS=1&RW=1852&RH=1237
+  - link_title: LensCulture
+    link_url: https://www.lensculture.com/jesse-rieser
   - link_title: The Agents Club
     link_url: https://theagents.club/jesse-rieser/
   - link_title: Production Paradise
@@ -1286,7 +1308,7 @@ about_footer_quotes: >-
   and&nbsp;*see*&nbsp;differently." - *Sarina Finkelstein Director of
   Photography \| Barron's & Penta*
 cv: >-
-  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202408_CV.pdf
+  https://s3.amazonaws.com/jesserieserphoto.brandlew.co/Jesse_Rieser202505_CV-Main.pdf
 about_bio_doodle_credit: Portrait by © Lapo
 cv_color: '#ff5858'
 date: 2017-11-02T23:00:00Z

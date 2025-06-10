@@ -19,6 +19,7 @@ blueprint:
   meta: "Collection Meta"
   attached_collection: collections/xmas-in-america.md
   image: /images/hero/hero-image-2.png
+  alt: "Collection Image"
   width: "40"
   margin_y: "0"
   margin_left: "0"

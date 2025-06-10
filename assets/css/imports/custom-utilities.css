@@ -893,6 +893,16 @@ footer a {
   .sm\:meta-hover:hover h6 {
     opacity: 1 !important;
   }
+
+  .sm\:meta-hover span.count {
+    opacity: 1 !important;
+    transition: 0.4s opacity cubic-bezier(0.550, 0.055, 0.675, 0.190);
+    transition-delay: 0s !important;
+  }
+
+  .sm\:meta-hover:hover span.count {
+    opacity: 0 !important;
+  }
 }
 
 

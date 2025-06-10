@@ -1,36 +1,76 @@
+{{ $fileName := path.Base .image | replaceRE "(.doc|.jpeg|.jpg)" ""}} {{ $screen
+:= 1440 }} {{ $img := (float .width) }} {{ $div := (div 100 $img) }} {{ $imgFull
+:= (div $screen $div) }} {{ $imgLow := (div $imgFull 4) }}
 
-{{ $fileName := path.Base .image | replaceRE "(.doc|.jpeg|.jpg)" ""}}
-{{ $screen := 1440 }}
-{{ $img :=  (float .width) }}
-{{ $div := (div 100 $img) }}
-{{ $imgFull := (div $screen $div) }}
-{{ $imgLow := (div $imgFull 4) }}
-
-<article class=" sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
-  <figure class="figure block-hover relative " style="background: {{with .color}}{{.}}{{else}}{{.Page.Params.theme_color}}{{end}};" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" id="{{ $fileName }}" data-sal="image">
+<article
+  class=" sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper"
+>
+  <figure
+    class="figure block-hover relative"
+    style="background: {{with .color}}{{.}}{{else}}{{.Page.Params.theme_color}}{{end}};"
+    itemprop="associatedMedia"
+    itemscope
+    itemtype="http://schema.org/ImageObject"
+    id="{{ $fileName }}"
+    data-sal="image"
+  >
     {{ with site.GetPage .attached_collection }}
-      <a href="/collections/{{.Params.slug | urlize}}/" alt="View Collection - {{ .Params.title | markdownify}} - Jesse Rieser">
-    {{end}}
-        <img class="lazyload"
+    <a
+      href="/collections/{{.Params.slug | urlize}}/"
+      alt="View Collection - {{ .Params.title | markdownify}} - Jesse Rieser"
+    >
+      {{end}}
+      <img
+        class="lazyload"
         data-sizes="auto"
         data-src="{{ .image }}?width=1200"
         data-srcset="{{ .image }}?width=300 300w,
         {{ .image }}?width=600 600w,
         {{ .image }}?width=900 900w,
         {{ .image }}?width=1200 1200w"
-        alt="{{ .caption | htmlUnescape }} - featured collection cover image"/>
-    {{with site.GetPage .attached_collection}}
-      </a>
-    {{end}}
-    {{ if .title }}
-    <figcaption class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}" style="pointer-events:none; {{with .title_margin_y}}top:{{.}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{.}}%;{{end}} {{with .title_margin_right}}margin-right:{{.}}%;{{end}}" data-rellax-speed="4" data-rellax-xs-speed="1">
-      <h2 class="text-4xl {{with .text_size }}md:text-{{.}}{{else}}md:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black" style="color: {{with .text_color}}{{.}}{{end}};">
+        alt="{{ .alt | htmlUnescape }} - featured collection cover image"
+      />
+      {{with site.GetPage .attached_collection}}
+    </a>
+    {{end}} {{ if .title }}
+    <span
+      class="absolute w-100 z-10 rellax px-4 sm:px-auto sm:ml-0 mb-0 text-left {{with .text_alignment}}sm:text-{{.}}{{end}}"
+      style="pointer-events:none; {{with .title_margin_y}}top:{{.}}%;{{else}}top: 35%;{{end}} {{with .title_margin_left}}margin-left:{{.}}%;{{end}} {{with .title_margin_right}}margin-right:{{.}}%;{{end}}"
+      data-rellax-speed="4"
+      data-rellax-xs-speed="1"
+    >
+      <h2
+        class="text-4xl {{with .text_size }}md:text-{{.}}{{else}}md:text-6xl{{end}} {{with .text_tracking }}tracking-{{.}}{{end}} {{with .font_weight }}font-{{.}}{{end}} {{with .line_height }}leading-{{.}}{{else}}leading-normal{{end}} text-white sm:text-black"
+        style="color: {{with .text_color}}{{.}}{{end}};"
+      >
         {{ .title | markdownify}}
       </h2>
-    </figcaption>
+    </span>
     {{ end }}
   </figure>
-  {{ if .meta }}
-  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 {{with .meta_align}}text-{{.}}{{end}}" data-sal="slide-down" data-sal-delay="600">{{ .meta }}</h6>
+  {{ if .meta }} {{ $metaAlign := "" }} {{ with .meta_align }} {{ $metaAlign =
+  printf "text-%s" . }} {{ end }}
+  <span class="relative"       data-sal="slide-down"
+      data-sal-delay="600">
+    {{ with site.GetPage .attached_collection }} {{ $blocks :=
+    .Params.collection_blocks }} {{ $mediaElement := where $blocks
+    "_bookshop_name" "collections/media-element" }} {{ $mediaFeature := where
+    $blocks "_bookshop_name" "collections/media-feature" }} {{ $mediaMotion :=
+    where $blocks "_bookshop_name" "collections/media-motion" }} {{ $mediaCount
+    := add (add (len $mediaElement) (len $mediaFeature)) (len $mediaMotion) }}
+    {{ if gt $mediaCount 0 }}
+    <span
+      class="count mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight relative sm:absolute top-0 left-0 w-full {{ $metaAlign }}"
+      >[{{ $mediaCount }}]</span
+    >
+    {{ end }} {{ end }}
+    <h6
+      class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 inline-block sm:block {{ $metaAlign }}"
+      data-sal="slide-down"
+      data-sal-delay="600"
+    >
+      {{ .meta }}
+    </h6>
+  </span>
   {{ end }}
 </article>
