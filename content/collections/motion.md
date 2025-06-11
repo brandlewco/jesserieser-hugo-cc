@@ -23,7 +23,7 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     text: Uranium
@@ -38,7 +38,7 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     text: Armani
