@@ -21,7 +21,7 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '50'
     align_y: start
     margin_y: '100'
     margin_left: '0'
@@ -36,7 +36,7 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '50'
     align_y: start
     margin_y: '100'
     margin_left: '0'
@@ -73,9 +73,9 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '50'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     text: Hermes
@@ -88,9 +88,9 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '50'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     text: Booker
