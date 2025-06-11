@@ -47,7 +47,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: insert text here
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: lg
