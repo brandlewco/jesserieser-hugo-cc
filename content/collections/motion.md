@@ -56,7 +56,7 @@ collection_blocks:
     font_weight: normal
     width: '50'
     align_y: start
-    margin_y: '-200'
+    margin_y: '-100'
     margin_left: '0'
     margin_right: '0'
     parallax: true
