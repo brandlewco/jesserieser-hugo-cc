@@ -18,6 +18,7 @@ content_blocks:
     meta: 'Coming Soon from PowerHouse Books:  American Hypnosis. 2012 - 2024'
     attached_collection: collections/vanishing-folklore.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp-70.jpg
+    alt: Collection Image
     width: '50'
     margin_y: '50'
     margin_left: '25'
@@ -60,6 +61,7 @@ content_blocks:
     meta: The Changing Landscape of American Retail. 2015 - 2023
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
+    alt: Collection Image
     width: '45'
     margin_y: '300'
     margin_left: '10'
@@ -133,8 +135,9 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: Guns & Pizza. 2021 - 2024
-    attached_collection: collections/gundemic.md
+    attached_collection: collections/christmas-in-america-happy-birthday-jesus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    alt: Collection Image
     width: '35'
     margin_y: '100'
     margin_left: '40'
@@ -193,6 +196,7 @@ content_blocks:
     meta: Christmas in America. 2010 - 2023
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
+    alt: Collection Image
     width: '45'
     margin_y: '100'
     margin_left: '35'
@@ -236,6 +240,7 @@ content_blocks:
     meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
+    alt: Collection Image
     width: '50'
     margin_y: '100'
     margin_left: '10'
@@ -300,6 +305,7 @@ content_blocks:
     meta: The Wallow Fire. 2011
     attached_collection: collections/wallow-fire
     image: https://d1sf55qlb7p6hz.cloudfront.net/wallow-1.jpg
+    alt: Collection Image
     width: '40'
     margin_y: '0'
     margin_left: '45'
@@ -324,6 +330,7 @@ content_blocks:
     meta: 'Starting Over: Will Move For Work. 2009 - 2010'
     attached_collection: collections/starting-over.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/startingover-11.jpg
+    alt: Collection Image
     width: '50'
     margin_y: '100'
     margin_left: '20'
@@ -348,6 +355,7 @@ content_blocks:
     meta: The Class of Turns 30. 2009 - 2010
     attached_collection: collections/the-class-of-99-turns-30.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/co99-20.jpg
+    alt: Collection Image
     width: '33'
     margin_y: '100'
     margin_left: '45'
