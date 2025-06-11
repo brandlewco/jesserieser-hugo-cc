@@ -11,10 +11,13 @@ collection_description_alignment: center
 slug: motion-portfolio
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: center
+    row_alignment: start
   - _bookshop_name: collections/media-motion
     vimeo_id: 1087456157
-    text: Uranium
+    caption: caption
+    meta: meta
+    meta_align: left
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -23,17 +26,24 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+    text: Uranium
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
-    text: Armani
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '45'
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+    text: Armani
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-text
     text: insert text here
     background_color: '#ffffff'
@@ -56,18 +66,25 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
-    text: Hermes
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '45'
     align_y: start
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+    text: Hermes
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559208
-    text: Booker
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
@@ -76,6 +93,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+    text: Booker
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
