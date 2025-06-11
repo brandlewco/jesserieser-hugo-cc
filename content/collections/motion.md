@@ -59,7 +59,7 @@ collection_blocks:
     margin_y: '-100'
     margin_left: '0'
     margin_right: '0'
-    parallax: true
+    parallax: false
     image_css: ''
     caption_css: ''
   - _bookshop_name: collections/media-row
