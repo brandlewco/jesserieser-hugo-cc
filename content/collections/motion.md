@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description:
   meta_title: Motion Portfolio
-title: Motion
+title: Moving Pictures
 collection_meta:
 collection_meta_2:
 collection_description: ''
