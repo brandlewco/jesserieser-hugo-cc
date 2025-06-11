@@ -23,7 +23,7 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     text: Uranium
@@ -38,7 +38,7 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     text: Armani
@@ -96,6 +96,20 @@ collection_blocks:
     text: Booker
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1056241098
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '70'
+    align_y: start
+    margin_y: '0'
+    margin_left: '15'
+    margin_right: '0'
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-10.jpg
