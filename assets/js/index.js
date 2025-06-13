@@ -189,7 +189,7 @@ function init() {
                 videoID +
                 "?title=0&amp;byline=0&amp;portrait=0&amp;loop=1&amp;background=" +
                 videoBg +
-                "&amp;autoplay=1;' ' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
+                "' frameborder='0' allow='autoplay; fullscreen' allowfullscreen='' style='position:absolute;top:5%;left:5%;width:90%;height:90%;z-index:99;'></iframe><svg class='icon pointer h-8 w-8 m-4 text-black opacity-50 absolute spin' style='top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;'><use xlink:href='#spinner'></use></svg></div>",
               pid: linkEl.getAttribute("pid"),
             };
           } else {
@@ -234,6 +234,20 @@ function init() {
         figureVID.forEach(function (element) {
           element.style.opacity = 0;
         });
+
+        // Add gallery-video class if the initial slide is a video
+        const pswp = document.querySelector(".pswp");
+        if (pswp) {
+          // Wait for PhotoSwipe to open, then check the current slide
+          setTimeout(() => {
+            const currSlide = pswp.querySelector(".pswp__item.active-wrapper");
+            if (currSlide && currSlide.querySelector("iframe, .video")) {
+              body.classList.add("gallery-video");
+            } else {
+              body.classList.remove("gallery-video");
+            }
+          }, 100);
+        }
       }
 
       var onThumbnailsClick = function (e) {
@@ -424,6 +438,34 @@ function init() {
             behavior: "smooth",
           });
           modifyLinksForCaptionsInPhotoSwipe();
+
+          // Add/remove gallery-video class based on current slide
+          const currItem = gallery.currItem;
+          if (
+            currItem &&
+            ((currItem.container &&
+              currItem.container.querySelector("iframe")) ||
+              (currItem.container &&
+                currItem.container.querySelector(".video")) ||
+              (currItem.html && currItem.html.includes("iframe")))
+          ) {
+            body.classList.add("gallery-video");
+          } else {
+            body.classList.remove("gallery-video");
+          }
+
+          // Detect if the active slide is a video (iframe)
+          setTimeout(function () {
+            // Find the current active slide in the DOM
+            var pswpCurr = document.querySelector(
+              ".pswp .pswp__item.pswp__item--current"
+            );
+            if (pswpCurr && pswpCurr.querySelector("iframe")) {
+              body.classList.add("gallery-video");
+            } else {
+              body.classList.remove("gallery-video");
+            }
+          }, 50);
         });
         gallery.listen("close", function () {
           var topPos =
@@ -442,6 +484,7 @@ function init() {
           navigation.style.display = "block";
           body.classList.remove("gallery-open");
           body.classList.add("gallery-closed");
+          body.classList.remove("gallery-video"); // <-- Ensure removal on close
           const figureIMG = document.querySelectorAll(".figure img");
           figureIMG.forEach(function (element) {
             element.style.removeProperty("opacity");
@@ -461,7 +504,7 @@ function init() {
         galleryElements[i].onclick = onThumbnailsClick;
       }
 
-      var figureClick = document.querySelectorAll(".figure a");
+      var figureClick = document.querySelectorAll(".figure:not(.motion) a");
       figureClick.forEach((trigger) => {
         trigger.addEventListener("mouseenter", () => {
           setTimeout(function () {
@@ -590,17 +633,8 @@ function init() {
       popupModal.classList.remove("is--visible");
 
       document.querySelectorAll(".modal-video").forEach((iframe) => {
-        // Only pause if it's a real Vimeo embed
-        const src =
-          iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
-        if (src.includes("player.vimeo.com")) {
-          try {
-            var player = new Vimeo.Player(iframe);
-            player.pause();
-          } catch (e) {
-            // Ignore if not a valid Vimeo embed
-          }
-        }
+        var player = new Vimeo.Player(iframe);
+        player.pause();
       });
     }
 
@@ -690,17 +724,8 @@ function init() {
       enablePageScroll(dynamicModal);
       history.pushState("", document.title, window.location.pathname);
       document.querySelectorAll(".modal-video").forEach((iframe) => {
-        // Only pause if it's a real Vimeo embed
-        const src =
-          iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
-        if (src.includes("player.vimeo.com")) {
-          try {
-            var player = new Vimeo.Player(iframe);
-            player.pause();
-          } catch (e) {
-            // Ignore if not a valid Vimeo embed
-          }
-        }
+        var player = new Vimeo.Player(iframe);
+        player.pause();
       });
     }
 

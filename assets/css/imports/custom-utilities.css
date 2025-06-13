@@ -596,6 +596,10 @@ body .overview-grid .group-hover .figure {
   justify-content: center;
 }
 
+body .overview-grid .group-hover .figure.motion {
+  display: block !important;
+}
+
 body.gallery-closed .overview-gallery .group-hover .figure {
   background: transparent !important;
 }

@@ -1,5 +1,5 @@
 data_config:
- categories: true
+  categories: true
 collections_config:
   pages:
     _enabled_editors:
@@ -42,7 +42,7 @@ collections_config:
       gallery:
         image:
           - key: collection_preview
-        fit: cover 
+        fit: cover
       text:
         - key: title
       subtext:
@@ -52,7 +52,7 @@ _inputs:
     type: html
   blog_content:
     type: markdown
-  title: 
+  title:
     type: text
   text:
     type: markdown
@@ -110,7 +110,6 @@ _inputs:
         - Press
         - Awards
         - Exhibitions
-        - Announcements
   isActive:
     type: switch
   social[*].icon:
@@ -132,266 +131,255 @@ _inputs:
     type: select
     options:
       values:
-        - 'start'
-        - 'center'
-        - 'end'
+        - "start"
+        - "center"
+        - "end"
   align_x:
     type: select
     options:
       values:
-        - 'start'
-        - 'center'
-        - 'end'
+        - "start"
+        - "center"
+        - "end"
   width:
     type: select
     options:
       values:
-        - '10'
-        - '15'
-        - '20'
-        - '25'
-        - '30'
-        - '33'
-        - '35'
-        - '40'
-        - '45'
-        - '50'
-        - '55'
-        - '60'
-        - '65'
-        - '66'
-        - '70'
-        - '75'
-        - '80'
-        - '85'
-        - '90'
-        - '95'
-        - '100'
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "33"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "66"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
   margin_right:
     type: select
     options:
       values:
-        - '5'
-        - '10'
-        - '15'
-        - '20'
-        - '25'
-        - '30'
-        - '35'
-        - '40'
-        - '45'
-        - '50'
-        - '55'
-        - '60'
-        - '65'
-        - '70'
-        - '75'
-        - '80'
-        - '85'
-        - '90'
-        - '95'
-        - '100'
-        - '0'
+        - "5"
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
+        - "0"
   margin_left:
     type: select
     options:
       values:
-        - '5'
-        - '10'
-        - '15'
-        - '20'
-        - '25'
-        - '30'
-        - '35'
-        - '40'
-        - '45'
-        - '50'
-        - '55'
-        - '60'
-        - '65'
-        - '70'
-        - '75'
-        - '80'
-        - '85'
-        - '90'
-        - '95'
-        - '100'
-        - '0'
+        - "5"
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
+        - "0"
   margin_y:
     label: Margin Top
     type: select
     options:
       values:
-        - '-800'
-        - '-750'
-        - '-700'
-        - '-650'
-        - '-600'
-        - '-550'
-        - '-500'
-        - '-450'
-        - '-400'
-        - '-350'
-        - '-300'
-        - '-250'
-        - '-200'
-        - '-150'
-        - '-100'
-        - '-50'
-        - '50'
-        - '100'
-        - '150'
-        - '200'
-        - '250'
-        - '300'
-        - '350'
-        - '400'
-        - '450'
-        - '500'
-        - '550'
-        - '600'
-        - '650'
-        - '700'
-        - '750'
-        - '800'
-        - '850'
-        - '900'
-        - '950'
-        - '1000'
-        - '1050'
-        - '1100'
-        - '1150'
-        - '1200'
-        - '1250'
-        - '1300'
-        - '1350'
-        - '1400'
-        - '1450'
-        - '1500'
-        - '1550'
-        - '1600'
-        - '1650'
-        - '1700'
-        - '1750'
-        - '1800'
-        - '0'
+        - "-250"
+        - "-200"
+        - "-150"
+        - "-100"
+        - "-50"
+        - "50"
+        - "100"
+        - "150"
+        - "200"
+        - "250"
+        - "300"
+        - "350"
+        - "400"
+        - "450"
+        - "500"
+        - "550"
+        - "600"
+        - "650"
+        - "700"
+        - "750"
+        - "800"
+        - "850"
+        - "900"
+        - "950"
+        - "1000"
+        - "1050"
+        - "1100"
+        - "1150"
+        - "1200"
+        - "1250"
+        - "1300"
+        - "1350"
+        - "1400"
+        - "1450"
+        - "1500"
+        - "1550"
+        - "1600"
+        - "1650"
+        - "1700"
+        - "1750"
+        - "1800"
+        - "0"
   title_margin_left:
     type: select
     options:
       values:
-        - '-5'
-        - '-10'
-        - '-15'
-        - '-20'
-        - '-25'
-        - '-30'
-        - '-35'
-        - '-40'
-        - '-45'
-        - '-50'
-        - '-55'
-        - '-60'
-        - '-65'
-        - '-70'
-        - '-75'
-        - '-80'
-        - '-85'
-        - '-90'
-        - '-95'
-        - '-100'
-        - '5'
-        - '10'
-        - '15'
-        - '20'
-        - '25'
-        - '30'
-        - '35'
-        - '40'
-        - '45'
-        - '50'
-        - '55'
-        - '60'
-        - '65'
-        - '70'
-        - '75'
-        - '80'
-        - '85'
-        - '90'
-        - '95'
-        - '100'
-        - '0'
+        - "-5"
+        - "-10"
+        - "-15"
+        - "-20"
+        - "-25"
+        - "-30"
+        - "-35"
+        - "-40"
+        - "-45"
+        - "-50"
+        - "-55"
+        - "-60"
+        - "-65"
+        - "-70"
+        - "-75"
+        - "-80"
+        - "-85"
+        - "-90"
+        - "-95"
+        - "-100"
+        - "5"
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
+        - "0"
   title_margin_y:
-      label: Title Margin Top
-      type: select
-      options:
-        values:
-          - '0'
-          - '5'
-          - '10'
-          - '15'
-          - '20'
-          - '25'
-          - '30'
-          - '35'
-          - '40'
-          - '45'
-          - '50'
-          - '55'
-          - '60'
-          - '65'
-          - '70'
-          - '75'
-          - '80'
-          - '85'
-          - '90'
-          - '95'
-          - '100'
-          - '-5'
-          - '-10'
-          - '-15'
-          - '-20'
-          - '-25'
-          - '-30'
-          - '-35'
-          - '-40'
-          - '-45'
-          - '-50'
-          - '-55'
-          - '-60'
-          - '-65'
-          - '-70'
-          - '-75'
-          - '-80'
-          - '-85'
-          - '-90'
-          - '-95'
-          - '-100'
+    label: Title Margin Top
+    type: select
+    options:
+      values:
+        - "0"
+        - "5"
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
+        - "-5"
+        - "-10"
+        - "-15"
+        - "-20"
+        - "-25"
+        - "-30"
+        - "-35"
+        - "-40"
+        - "-45"
+        - "-50"
+        - "-55"
+        - "-60"
+        - "-65"
+        - "-70"
+        - "-75"
+        - "-80"
+        - "-85"
+        - "-90"
+        - "-95"
+        - "-100"
   title_margin_right:
     type: select
     options:
       values:
-        - '-25'
-        - '5'
-        - '10'
-        - '15'
-        - '20'
-        - '25'
-        - '30'
-        - '35'
-        - '40'
-        - '45'
-        - '50'
-        - '55'
-        - '60'
-        - '65'
-        - '70'
-        - '75'
-        - '80'
-        - '85'
-        - '90'
-        - '95'
-        - '100'
-        - '0'
+        - "-25"
+        - "5"
+        - "10"
+        - "15"
+        - "20"
+        - "25"
+        - "30"
+        - "35"
+        - "40"
+        - "45"
+        - "50"
+        - "55"
+        - "60"
+        - "65"
+        - "70"
+        - "75"
+        - "80"
+        - "85"
+        - "90"
+        - "95"
+        - "100"
+        - "0"
   vimeo_id:
     type: number
   vimeo_block_cover:
@@ -402,25 +390,25 @@ _inputs:
     type: select
     options:
       values:
-        - '8-5x11'
-        - '11x8-5'
-        - '9x16'
-        - '16x9'
-        - '5x4'
-        - '4x5'
-        - '4x3'
-        - '3x4'
-        - '2x3'
-        - '3x2'
-        - '1x2'
-        - '1x1'
+        - "8-5x11"
+        - "11x8-5"
+        - "9x16"
+        - "16x9"
+        - "5x4"
+        - "4x5"
+        - "4x3"
+        - "3x4"
+        - "2x3"
+        - "3x2"
+        - "1x2"
+        - "1x1"
   caption:
     type: markdown
-  color: 
+  color:
     type: color
-  theme_color: 
+  theme_color:
     type: color
-  theme_color_all_works: 
+  theme_color_all_works:
     type: color
   text_color:
     type: color
@@ -559,12 +547,6 @@ _inputs:
     type: text
   header_col_3:
     type: html
-  about_footer_image_credit:
-    type: text
-  about_footer_illustration:
-    type: image
-  about_footer_quotes:
-    type: markdown
   attached_collection:
     type: select
     options:
@@ -593,15 +575,7 @@ _inputs:
     type: multiselect
     options:
       values: collections.collections
-      value_key: content_path  
-      preview:
-        text:
-          - key: slug
-  archive_sorter:
-    type: multiselect
-    options:
-      values: collections.collections
-      value_key: content_path  
+      value_key: content_path
       preview:
         text:
           - key: slug
@@ -609,8 +583,7 @@ _inputs:
     type: multiselect
     options:
       values: collections.shop
-      value_key: content_path  
-
+      value_key: content_path
 
 _structures:
   nested_content:
@@ -618,10 +591,7 @@ _structures:
       - icon: format_align_left
         value:
           content:
-        
- 
 
 _editables:
   text:
   title:
-
