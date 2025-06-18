@@ -484,7 +484,9 @@ function init() {
           navigation.style.display = "block";
           body.classList.remove("gallery-open");
           body.classList.add("gallery-closed");
-          body.classList.remove("gallery-video"); // <-- Ensure removal on close
+          body.classList.remove("gallery-video");
+          // Reinforce: Pause all Vimeo iframes on gallery close
+          pauseAllVimeoIframes(document);
           const figureIMG = document.querySelectorAll(".figure img");
           figureIMG.forEach(function (element) {
             element.style.removeProperty("opacity");
@@ -602,6 +604,10 @@ function init() {
           arrowShape:
             "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
         });
+
+        flkty.on("change", function () {
+          pauseAllVimeoIframes(popupGalleryInit);
+        });
       }
       navigation.classList.remove("active");
       navigation.style.opacity = 0;
@@ -713,6 +719,19 @@ function init() {
         accessibility: false,
         arrowShape: "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
       });
+
+      flkty.on("change", function () {
+        pauseAllVimeoIframes(popupGalleryInit);
+      });
+
+      function pauseOnClose() {
+        pauseAllVimeoIframes(dynamicModal);
+      }
+      dynamicModal
+        .querySelectorAll(".dynamic-modal-close, .exit-modal")
+        .forEach((btn) => {
+          btn.addEventListener("click", pauseOnClose);
+        });
     }
 
     function closeDynamicModal() {
@@ -1159,3 +1178,26 @@ function init() {
 
 // Initialize on page load
 init();
+
+function pauseAllVimeoIframes(context) {
+  // Pause all Vimeo iframes in the given context (or document)
+  const iframes = (context || document).querySelectorAll("iframe");
+  iframes.forEach(function (iframe) {
+    const src =
+      iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
+    if (src.includes("player.vimeo.com")) {
+      // Use postMessage API directly for reliability
+      try {
+        iframe.contentWindow &&
+          iframe.contentWindow.postMessage('{"method":"pause"}', "*");
+      } catch (e) {}
+      // Also try SDK if available
+      if (typeof Vimeo !== "undefined" && Vimeo.Player) {
+        try {
+          const player = new Vimeo.Player(iframe);
+          player.pause().catch(() => {});
+        } catch (e) {}
+      }
+    }
+  });
+}

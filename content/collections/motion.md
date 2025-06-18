@@ -44,26 +44,6 @@ collection_blocks:
     text: Armani
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-text
-    text: insert text here
-    background_color: '#ffffff'
-    background_image_toggle: false
-    image:
-    text_color: '#000000'
-    text_size: lg
-    text_alignment: left
-    text_tracking: normal
-    font_weight: normal
-    width: '50'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    parallax: false
-    image_css: ''
-    caption_css: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
     caption: caption
