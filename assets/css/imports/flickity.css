@@ -4,6 +4,11 @@
   max-width: 100%;
 }
 
+/* cell inherit height from carousel */
+.carousel-cell {
+  height: 70vh;
+}
+
 .gallery_scroller {
   /* snap mandatory on horizontal axis  */
   /* scroll-snap-type: x mandatory; */

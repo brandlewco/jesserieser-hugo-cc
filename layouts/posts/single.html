@@ -21,17 +21,15 @@
       </div>
       <section class="py-6 mx-auto w-full">
         <header class="flex flex-col items-start mb-8 leading-none">
-          <h1 class="text-sm font-medium text-black pb-4">
+          <h1 class="text-xl sm:text-xl font-medium text-black pt-4 pb-2">
             {{.Params.title}}
           </h1>
-          <div class="text-xs font-medium italic text-black">
+          <div class="text-base sm:text-lg font-medium italic text-black">
             {{.Params.caption | markdownify}}
           </div>
         </header>
-        <div
-          class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8"
-        >
-          {{ .Params.content | markdownify }}
+        <div class="text-sm sm:text-base w-100 h-100 text-black leading-tight pb-8" >
+          {{ .Params.blog_content | markdownify }}
         </div>
         <div class="my-gallery px-4 xl:px-16" itemscope itemtype="http://schema.org/ImageGallery">
           {{ partial "bookshop_bindings" `.Params.post_blocks` }}
