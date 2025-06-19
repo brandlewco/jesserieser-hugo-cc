@@ -16,7 +16,7 @@ collection_blocks:
     vimeo_id: 1087456157
     caption: caption
     meta: meta
-    meta_align: left
+    meta_align: center
     attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
@@ -33,7 +33,7 @@ collection_blocks:
     vimeo_id: 1086148559
     caption: caption
     meta: meta
-    meta_align: right
+    meta_align: center
     attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
