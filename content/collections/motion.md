@@ -84,14 +84,15 @@ collection_blocks:
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
-    color: '#000000'
+    color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
     width: '70'
     align_y: start
-    margin_y: '0'
+    margin_y: '50'
     margin_left: '15'
     margin_right: '0'
+    text: Antoine's Escalaras Communication Arts Photo Annual
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-10.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-10.jpg
