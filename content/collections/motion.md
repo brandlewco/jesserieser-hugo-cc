@@ -26,7 +26,9 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    text: Uranium
+    text: >-
+      The New York Times: U.S. Ramps Up Hunt For Uranium to End Reliance on
+      Russia
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
     caption: caption
