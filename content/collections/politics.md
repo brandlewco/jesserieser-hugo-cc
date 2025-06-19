@@ -112,15 +112,6 @@ collection_blocks:
     color: '#ffffff'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202506NoKings-3.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#e9e9e9'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-10.jpg
     width: '15'
     margin_y: '50'
@@ -445,13 +436,13 @@ collection_blocks:
     color: '#9f9f9f'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-45.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506NoKings-3.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    align_y: start
-    color: '#ebe6dc'
+    align_y: center
+    color: '#e9e9e9'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-47.jpg
@@ -461,6 +452,15 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#040305'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-45.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#ebe6dc'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-42.jpg
