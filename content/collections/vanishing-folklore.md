@@ -667,9 +667,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-68.jpg
-    width: '55'
+    width: '50'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '5'
     align_y: start
     color: '#e8e0ff'
@@ -688,8 +688,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-63.jpg
     width: '35'
-    margin_y: '100'
-    margin_left: '0'
+    margin_y: '600'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#c2f5dd'
@@ -698,13 +698,11 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-64.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#f6f1d0'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -716,6 +714,8 @@ collection_blocks:
     align_y: start
     color: '#d1f3fd'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis2025_reg-59.jpg
     width: '40'
@@ -725,8 +725,6 @@ collection_blocks:
     align_y:
     color: '#eddaf0'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-10.jpg
     width: '50'
@@ -736,6 +734,8 @@ collection_blocks:
     align_y: start
     color: '#d1f3fd'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-11.jpg
     width: '40'
