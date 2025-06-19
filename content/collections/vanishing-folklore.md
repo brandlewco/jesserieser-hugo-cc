@@ -438,7 +438,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506_hypnosis-additional-1.jpg
     width: '50'
     margin_y: '300'
     margin_left: '0'
@@ -465,6 +465,17 @@ collection_blocks:
     margin_right: '10'
     align_y: start
     color: '#c4d8fa'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#f7ecc4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -529,7 +540,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis2025_reg-46.jpg
     width: '25'
     margin_y: '700'
     margin_left: '15'
@@ -538,7 +549,7 @@ collection_blocks:
     color: '#ddedf6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-67.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-7.jpg
     width: '45'
     margin_y: '100'
     margin_left: '0'
@@ -631,6 +642,26 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis2025_reg-45.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#d5d9f0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-8.jpg
+    width: '35'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#d8f3d8'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-68.jpg
     width: '55'
     margin_y: '400'
@@ -640,7 +671,7 @@ collection_blocks:
     color: '#e8e0ff'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-63.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-9.jpg
     width: '35'
     margin_y: '100'
     margin_left: '0'
@@ -651,6 +682,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-63.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#c2f5dd'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-64.jpg
     width: '45'
     margin_y: '100'
@@ -659,6 +699,8 @@ collection_blocks:
     align_y:
     color: '#f6f1d0'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -682,6 +724,26 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-10.jpg
+    width: '50'
+    margin_y: '400'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#d1f3fd'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-11.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#eddaf0'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis202407-71.jpg
     width: '30'
     margin_y: '100'
@@ -692,6 +754,17 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis2025_reg-61.jpg
+    width: '35'
+    margin_y: '350'
+    margin_left: '0'
+    margin_right: '20'
+    align_y:
+    color: '#ddffe6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202506HypnosisProjects-12.jpg
     width: '35'
     margin_y: '350'
     margin_left: '0'
