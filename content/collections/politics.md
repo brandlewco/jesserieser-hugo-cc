@@ -1,8 +1,10 @@
 ---
 _schema: default
 seo:
-  meta_description:
-  meta_title: Industry, Tech, & Science Overview
+  meta_description: >-
+    West Coast Photographer Jesse Rieser's portfolio focussed on American
+    Politics and issues. 
+  meta_title: 'American Politics Overview '
 title: Politics
 collection_meta:
 collection_meta_2:
