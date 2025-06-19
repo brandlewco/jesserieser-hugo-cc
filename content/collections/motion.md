@@ -33,7 +33,7 @@ collection_blocks:
     vimeo_id: 1086148559
     caption: caption
     meta: meta
-    meta_align: center
+    meta_align: right
     attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
@@ -43,7 +43,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
-    text: Armani
+    text: Emporio Armani's 50th Anniversary Featuring DeAndre Hopkins
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -60,7 +60,7 @@ collection_blocks:
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    text: Hermes
+    text: Hermès & Danielle Hacche
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559208
     caption: caption
@@ -75,7 +75,7 @@ collection_blocks:
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    text: Booker
+    text: 'ESPN: Devin Booking, Becoming Legendary'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
