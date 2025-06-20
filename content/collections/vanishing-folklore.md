@@ -916,7 +916,7 @@ collection_exhibition:
       <p><strong>2022 &amp; 2023</strong><br />The Gallery at Mountain
       Shadows<br />Paradise Valley, AZ (Solo Show)</p>
 collection_overview: false
-collection_archive: true
+collection_archive: false
 collection_hidden: false
 hide_footer: false
 hide_header: false
