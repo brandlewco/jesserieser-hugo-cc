@@ -4,7 +4,7 @@ seo:
   meta_description: >-
     West Coast photographer Jesse Rieser's long term and surreal photographic
     project on America
-  meta_title: 'A Vanishing Folklore '
+  meta_title: American Hypnosis
 title: 'American '
 collection_meta: Hypnosis
 collection_meta_2: 2012 - 2024
