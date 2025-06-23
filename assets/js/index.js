@@ -605,6 +605,7 @@ function init() {
             "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
         });
 
+        // Pause Vimeo videos on every Flickity slide change
         flkty.on("change", function () {
           pauseAllVimeoIframes(popupGalleryInit);
         });
@@ -727,11 +728,9 @@ function init() {
       function pauseOnClose() {
         pauseAllVimeoIframes(dynamicModal);
       }
-      dynamicModal
-        .querySelectorAll(".dynamic-modal-close, .exit-modal")
-        .forEach((btn) => {
-          btn.addEventListener("click", pauseOnClose);
-        });
+      dynamicModal.querySelectorAll('.dynamic-modal-close, .exit-modal').forEach(btn => {
+        btn.addEventListener('click', pauseOnClose);
+      });
     }
 
     function closeDynamicModal() {
@@ -1201,3 +1200,4 @@ function pauseAllVimeoIframes(context) {
     }
   });
 }
+
