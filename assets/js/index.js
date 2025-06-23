@@ -491,8 +491,12 @@ function init() {
     const popupGalleryInit = popupModal.querySelector('.gallery_scroller');
     const popupList = popupModal.querySelector('.scrollbar');
 
-    function launchModal() {
-      history.pushState('', document.title, window.location.pathname + '#' + popupTrigger);
+function launchModal() {
+      history.pushState(
+        "",
+        document.title,
+        window.location.pathname + "#" + popupTrigger
+      );
       disablePageScroll(popupModal);
       if (popupList) {
         disablePageScroll(popupList);
@@ -503,10 +507,15 @@ function init() {
           wrapAround: true,
           adaptiveHeight: true,
           percentPosition: false,
-          draggable: '>1',
+          draggable: ">1",
           accessibility: false,
           arrowShape:
-            'm77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z',
+            "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
+        });
+
+        // Pause Vimeo videos on every Flickity slide change
+        flkty.on("change", function () {
+          pauseAllVimeoIframes(popupGalleryInit);
         });
       }
       navigation.classList.remove('active');
@@ -595,37 +604,49 @@ function init() {
     }
 
     function openDynamicModal() {
-      dynamicModal.classList.add('show');
+      dynamicModal.classList.add("show");
       dynamicModal.style.opacity = 1;
-      dynamicModal.style.visibility = 'visible';
-      navigation.classList.remove('active');
+      dynamicModal.style.visibility = "visible";
+      navigation.classList.remove("active");
       navigation.style.opacity = 0;
-      navigation.style.display = 'none';
+      navigation.style.display = "none";
       disablePageScroll(dynamicModal);
-      const popupGalleryInit = dynamicModal.querySelector('.gallery_scroller');
+      const popupGalleryInit = dynamicModal.querySelector(".gallery_scroller");
       var flkty = new Flickity(popupGalleryInit, {
         wrapAround: true,
         adaptiveHeight: true,
         percentPosition: false,
-        draggable: '>1',
+        draggable: ">1",
         accessibility: false,
-        arrowShape: 'm77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z',
+        arrowShape: "m77.59 5.06-5.17-5.21-50 50 50 50 5.17-5.21-44.77-44.81z",
+      });
+
+      flkty.on("change", function () {
+        pauseAllVimeoIframes(popupGalleryInit);
+      });
+
+      function pauseOnClose() {
+        pauseAllVimeoIframes(dynamicModal);
+      }
+      dynamicModal.querySelectorAll('.dynamic-modal-close, .exit-modal').forEach(btn => {
+        btn.addEventListener('click', pauseOnClose);
       });
     }
 
     function closeDynamicModal() {
-      dynamicModal.classList.remove('show');
+      dynamicModal.classList.remove("show");
       dynamicModal.style.opacity = 0;
-      dynamicModal.style.visibility = 'hidden';
+      dynamicModal.style.visibility = "hidden";
       navigation.style.opacity = 1;
-      navigation.style.display = 'block';
+      navigation.style.display = "block";
       enablePageScroll(dynamicModal);
-      history.pushState('', document.title, window.location.pathname);
-      document.querySelectorAll('.modal-video').forEach((iframe) => {
+      history.pushState("", document.title, window.location.pathname);
+      document.querySelectorAll(".modal-video").forEach((iframe) => {
         var player = new Vimeo.Player(iframe);
         player.pause();
       });
     }
+
 
     const dynamicModalTriggers = document.querySelectorAll('.modal-trigger');
     dynamicModalTriggers.forEach((trigger) => {

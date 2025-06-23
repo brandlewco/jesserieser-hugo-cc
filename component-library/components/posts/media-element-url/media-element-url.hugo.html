@@ -1,9 +1,10 @@
-<div class="carousel-cell w-full" style="padding-top: 56.25%">
+<div class="carousel-cell w-full h-full">
   <figure
-    class="block h-full w-full absolute top-0 left-0"
+    class="block h-full w-full"
     itemprop="associatedMedia"
     itemscope
     itemtype="http://schema.org/ImageObject"
+    style="margin: 0"
   >
     <img
       data-sizes="auto"
@@ -12,8 +13,9 @@
   {{.image }}?width=1440 1440w,
   {{.image }}?width=1920 1920w,
   {{.image }}?width=2560 2560w"
-      class="lazyload h-full object-contain z-0"
+      class="lazyload w-full h-full object-contain z-0"
       alt="{{ .caption }}"
+      style="display: block; max-width: 100%; max-height: 100%"
     />
   </figure>
 </div>
