@@ -293,7 +293,7 @@ content_blocks:
     margin_left: '30'
     margin_right: '0'
     meta_align: left
-    theme_color: '#dbdbdb'
+    theme_color: '#fff6d7'
   - _bookshop_name: home/modal-blog
     title: The Gaurdian + Buzzfeed News
     caption: Autobiography of a Contact Sport Features
