@@ -39,6 +39,24 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
+    attached_blog: posts/grand-prix-pictet.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '45'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ffc0c0'
+  - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
     attached_blog: posts/candela-gallery-unbound-13.md
@@ -49,9 +67,9 @@ content_blocks:
     color: '#ffffff'
     width: '33'
     align_y: start
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
     meta_align: left
     theme_color: '#ffc0c0'
   - _bookshop_name: home/media-row
@@ -60,7 +78,7 @@ content_blocks:
     title:
     meta: The Changing Landscape of American Retail. 2015 - 2023
     attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
     alt: Collection Image
     width: '45'
     margin_y: '300'
@@ -226,25 +244,23 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff1b1b'
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: Autobiography of a Contact Sport. 2016
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
     alt: Collection Image
-    width: '50'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '5'
+    width: '45'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#fdd3d3'
     caption: ''
@@ -260,6 +276,24 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: The Gaurdian + Buzzfeed News
+    caption: Autobiography of a Contact Sport Features
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 9x16
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: center
+    margin_y: '300'
+    margin_left: '30'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#dbdbdb'
   - _bookshop_name: home/modal-blog
     title: The Gaurdian + Buzzfeed News
     caption: Autobiography of a Contact Sport Features
@@ -270,9 +304,9 @@ content_blocks:
     text_size: base
     color: '#ffffff'
     width: '30'
-    align_y: center
+    align_y: start
     margin_y: '0'
-    margin_left: '40'
+    margin_left: '0'
     margin_right: '0'
     meta_align: left
     theme_color: '#dbdbdb'
