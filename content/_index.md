@@ -55,7 +55,7 @@ content_blocks:
     margin_left: '5'
     margin_right: '0'
     meta_align: left
-    theme_color: '#ffc0c0'
+    theme_color: '#c0ffdc'
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
