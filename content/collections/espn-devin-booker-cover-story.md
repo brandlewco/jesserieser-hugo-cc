@@ -18,7 +18,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559208
-    text: caption
+    caption: ''
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio:
@@ -27,7 +30,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    caption:
+    text: ''
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-1.jpg
@@ -135,7 +138,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559092
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio:
@@ -144,7 +150,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
