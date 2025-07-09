@@ -14,15 +14,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
-    text: ''
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '80'
     align_y: start
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
+    text: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -38,7 +42,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267733
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: ''
     show_controls: false
     block_aspect_ratio:
@@ -47,13 +54,16 @@ collection_blocks:
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267876
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: ''
     show_controls: false
     block_aspect_ratio:
@@ -62,7 +72,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/dhop-07-1.jpg
@@ -97,7 +107,10 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267817
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: ''
     show_controls: false
     block_aspect_ratio:
@@ -106,13 +119,16 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '30'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267612
-    text: caption
+    caption: ''
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio:
@@ -121,7 +137,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    caption: ''
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
