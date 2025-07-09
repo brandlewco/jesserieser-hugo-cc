@@ -16,7 +16,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
-    text: caption
+    caption: ''
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: true
     block_aspect_ratio: 16x9
@@ -25,6 +28,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
+    text: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
