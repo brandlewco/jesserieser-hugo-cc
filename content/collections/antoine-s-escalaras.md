@@ -21,15 +21,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1056241098
-    text: ''
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ffb6b6'
-    show_controls: true
+    show_controls: false
     block_aspect_ratio: 16x9
     width: '90'
     align_y: start
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
+    text: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-1.jpg
     width: '55'
@@ -43,7 +47,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 737204973
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio: 4x3
@@ -52,7 +59,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '45'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -89,7 +96,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 737205489
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio: 4x3
@@ -98,7 +108,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/escalaras_redo-5.jpg
@@ -126,7 +136,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 737205681
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio: 4x3
@@ -135,11 +148,14 @@ collection_blocks:
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-motion
     vimeo_id: 737206761
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: ''
     show_controls: false
     block_aspect_ratio: 4x3
@@ -148,7 +164,7 @@ collection_blocks:
     margin_y: '300'
     margin_left: '0'
     margin_right: '15'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -174,7 +190,10 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-motion
     vimeo_id: 737206960
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio: 4x3
@@ -183,7 +202,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '30'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -211,7 +230,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 737207172
-    text: caption
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color:
     show_controls: false
     block_aspect_ratio: 4x3
@@ -220,7 +242,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
-    caption:
+    text: caption
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
