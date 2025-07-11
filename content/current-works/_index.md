@@ -26,9 +26,9 @@ content_blocks:
     meta: 'American Hypnosis: Coming Soon from PowerHouse Books'
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-1.jpg
-    width: '50'
+    width: '40'
     margin_y: '0'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -57,7 +57,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
@@ -71,7 +71,7 @@ content_blocks:
     width: '33'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -85,6 +85,24 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1087456157
+    caption: caption
+    meta: >-
+      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
+    meta_align: center
+    attached_collection: collections/switchyard-copy.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '80'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -127,24 +145,6 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1087456157
-    caption: caption
-    meta: >-
-      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    meta_align: center
-    attached_collection: collections/switchyard-copy.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
