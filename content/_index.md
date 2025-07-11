@@ -16,6 +16,9 @@ collection_blocks:
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
     caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -88,21 +91,37 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1087456157
+    caption: ''
+    meta: meta
+    meta_align: left
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '80'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '5'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-1.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
-    width: '50'
-    margin_y: '650'
+    width: '55'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
@@ -228,20 +247,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1087456157
-    caption: caption
-    meta: meta
-    meta_align: left
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '70'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '5'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
