@@ -499,7 +499,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '500'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#f6e7d1'
@@ -537,10 +537,10 @@ content_blocks:
     block_aspect_ratio: 8-5x11
     text_size: base
     color: '#c22b30'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
@@ -584,7 +584,7 @@ content_blocks:
     color: '#dfefc2'
     width: '15'
     align_y: start
-    margin_y: '1000'
+    margin_y: '1200'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
@@ -686,7 +686,7 @@ content_blocks:
     color: '#ffe6e6'
     width: '15'
     align_y: start
-    margin_y: '1000'
+    margin_y: '1100'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
