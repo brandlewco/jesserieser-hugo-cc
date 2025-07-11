@@ -138,7 +138,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559092
-    caption:
+    caption: ''
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
@@ -150,7 +150,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    text: caption
+    text: ''
     image:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-11.jpg
