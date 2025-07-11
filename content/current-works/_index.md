@@ -129,6 +129,22 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1087456157
+    caption: caption
+    meta: >-
+      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
+    meta_align: center
+    attached_collection: collections/switchyard-copy.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '80'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -469,22 +485,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1087456157
-    caption: caption
-    meta: >-
-      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    meta_align: center
-    attached_collection: collections/switchyard-copy.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
