@@ -509,10 +509,10 @@ content_blocks:
     meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
     attached_collection: collections/bloomberg-nomads-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-45.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: start
     color: '#c9fce6'
     caption: ''
