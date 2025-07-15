@@ -68,9 +68,7 @@ content_blocks:
     caption: |-
       American Hypnosis and Guns & Pizza Bentley Gallery (solo show)
 
-      July 29th thru August 30th
-
-      &nbsp;
+      July 29 - August 30
     attached_blog: posts/folkore.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
     block_aspect_ratio: 4x3
