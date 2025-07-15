@@ -64,7 +64,7 @@ blog_content: >-
   & Pizza*](https://jesserieser.com/collections/guns_pizza). <br><br>
 
 
-  Opening - August 2nd 1 to 3PM<br><br>Exhibition - July 29th thru August
+  Opening - August 2nd 1 to 3pm<br><br>Exhibition - July 29th thru August
   30th<br><br>Bentley Gallery <br><br>250 E McKinley St, Phoenix, AZ
   85004<br><br>
 
