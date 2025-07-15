@@ -65,7 +65,7 @@ content_blocks:
     attached: false
   - _bookshop_name: home/modal-blog
     title: FOLKLORE
-    caption: American Hypnosis at Candela Gallery
+    caption: American Hypnosis and Guns & Pizza Bentley Gallery (solo show)
     attached_blog: posts/candela-gallery-unbound-13.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
     block_aspect_ratio: 4x3
