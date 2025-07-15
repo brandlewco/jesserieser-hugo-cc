@@ -53,10 +53,7 @@ attached_link:
 block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-8.jpg
 blog_header:
-caption: >-
-  [*American Hypnosis*](https://jesserieser.com/collections/folklore) and [*Guns
-  & Pizza*](https://jesserieser.com/collections/guns_pizza) Solo Exhibition at
-  Bentley Gallery.
+caption: July 29th - August 30th
 blog_content: >-
   Excited to announce my upcoming solo exhibition *Folklore* at Bentley Gallery.
   <br><br>
@@ -67,12 +64,13 @@ blog_content: >-
   & Pizza*](https://jesserieser.com/collections/guns_pizza). <br><br>
 
 
-  Opening - August 2nd -1 to 3<br>Exhibition - July 29th thru August
-  30th<br>Bentley Gallery <br>250 E McKinley St, Phoenix, AZ 85004<br><br>
+  Opening - August 2nd 1 to 3PM<br><br>Exhibition - July 29th thru August
+  30th<br><br>Bentley Gallery <br><br>250 E McKinley St, Phoenix, AZ
+  85004<br><br>
 
 
-  American Hypnosis<br>“By definition, hypnosis is the induction of a state of
-  consciousness in which a person loses the power of voluntary action and is
+  **American Hypnosis:**<br>“By definition, hypnosis is the induction of a state
+  of consciousness in which a person loses the power of voluntary action and is
   highly responsive to suggestion or direction.<br><br>
 
 
