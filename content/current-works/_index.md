@@ -64,11 +64,11 @@ content_blocks:
     meta:
     attached: false
   - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
+    title: FOLKLORE
     caption: American Hypnosis at Candela Gallery
     attached_blog: posts/candela-gallery-unbound-13.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
-    block_aspect_ratio: 3x2
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
     width: '40'
@@ -78,7 +78,7 @@ content_blocks:
     margin_right: '5'
     meta_align: right
     theme_color: '#d2fdff'
-    meta: Ex
+    meta: Exhibition
     attached: true
   - _bookshop_name: home/media-feature
     title:
