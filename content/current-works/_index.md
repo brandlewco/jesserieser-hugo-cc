@@ -26,9 +26,9 @@ content_blocks:
     meta: 'American Hypnosis: Coming Soon from PowerHouse Books'
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-1.jpg
-    width: '40'
+    width: '50'
     margin_y: '0'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -56,22 +56,39 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '100'
-    margin_left: '20'
+    margin_y: '300'
+    margin_left: '30'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
     meta:
     attached: false
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '40'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#d2fdff'
+    meta: Ex
+    attached: true
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
-    width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
+    width: '35'
+    margin_y: '100'
+    margin_left: '40'
+    margin_right: '0'
     align_y: start
     color: '#c9fce6'
     caption: ''
