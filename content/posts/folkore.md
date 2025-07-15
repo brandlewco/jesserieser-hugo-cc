@@ -64,14 +64,21 @@ blog_content: >-
   & Pizza*](https://jesserieser.com/collections/guns_pizza). <br><br>
 
 
-  Opening - August 2nd 1 to 3pm<br><br>Exhibition - July 29th thru August
-  30th<br><br>Bentley Gallery <br><br>250 E McKinley St, Phoenix, AZ
-  85004<br><br>
+  Opening - August 2nd 1 to 3pm<br><br>
 
 
-  **American Hypnosis:**<br>“By definition, hypnosis is the induction of a state
-  of consciousness in which a person loses the power of voluntary action and is
-  highly responsive to suggestion or direction.<br><br>
+  Exhibition - July 29th thru August 30th<br><br>
+
+
+  Bentley Gallery <br><br>250 E McKinley St, Phoenix, AZ 85004<br><br>
+
+
+  **American Hypnosis:**<br>
+
+
+  “By definition, hypnosis is the induction of a state of consciousness in which
+  a person loses the power of voluntary action and is highly responsive to
+  suggestion or direction.<br><br>
 
 
   Having spent my formative years in the American “heartland,” I considered
