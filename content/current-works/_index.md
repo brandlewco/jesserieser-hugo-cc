@@ -65,7 +65,10 @@ content_blocks:
     attached: false
   - _bookshop_name: home/modal-blog
     title: FOLKLORE
-    caption: American Hypnosis and Guns & Pizza Bentley Gallery (solo show)
+    caption: |-
+      American Hypnosis and Guns & Pizza Bentley Gallery (solo show)
+
+      &nbsp;
     attached_blog: posts/folkore.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
     block_aspect_ratio: 4x3
@@ -77,7 +80,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '5'
     meta_align: right
-    theme_color: '#d2fdff'
+    theme_color: '#ffdcd2'
     meta: Exhibition
     attached: true
   - _bookshop_name: home/media-feature
