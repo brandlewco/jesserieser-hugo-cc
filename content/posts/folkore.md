@@ -59,25 +59,39 @@ caption: >-
   Bentley Gallery.
 blog_content: >-
   Excited to announce my upcoming solo exhibition *Folklore* at Bentley Gallery.
-  <br><br>Folklore will feature 28 pieces from *American Hypnosis* and
-  previewing a new work in progress *Guns & Pizza*. <br><br>Opening - August 2nd
-  -1 to 3<br>Exhibition - July 29th thru August 30th<br>Bentley Gallery <br>250
-  E McKinley St, Phoenix, AZ 85004<br><br>American Hypnosis<br>“By definition,
-  hypnosis is the induction of a state of consciousness in which a person loses
-  the power of voluntary action and is highly responsive to suggestion or
-  direction.<br><br>Having spent my formative years in the American “heartland,”
-  I considered myself a patriot, and like many, I had a deep sense of pride for
-  my country. But today, being an American feels similar to an animal pacing
-  within the confines of a zoo. If provided the illusion of just enough freedom
-  you can mask the reality of one’s own captivity. The result leaves me with a
-  sense of waning dignity. We are collectively on display to intrigue, terrify,
-  and satisfy the world’s voyeuristic curiosity.<br><br>Here, you will find
-  surreal postcards from this fever dream—a feeling of familiar uneasiness
-  transmitted from a citizen who is equally intrigued by his home as he is
-  alarmed. They are deceptively nuanced photographs of—and for—an America that
-  has done everything it can to abolish nuance, creating bleached-out stand-ins
-  for the place itself. In a time in which the truth is constantly under attack,
-  American Hypnosis proves these same truths can be stranger than fiction.”
+  <br><br>
+
+
+  Folklore will feature 28 pieces from [*American
+  Hypnosis*](https://jesserieser.com/collections/folklore) and previewing [*Guns
+  & Pizza*](https://jesserieser.com/collections/guns_pizza). <br><br>
+
+
+  Opening - August 2nd -1 to 3<br>Exhibition - July 29th thru August
+  30th<br>Bentley Gallery <br>250 E McKinley St, Phoenix, AZ 85004<br><br>
+
+
+  American Hypnosis<br>“By definition, hypnosis is the induction of a state of
+  consciousness in which a person loses the power of voluntary action and is
+  highly responsive to suggestion or direction.<br><br>
+
+
+  Having spent my formative years in the American “heartland,” I considered
+  myself a patriot, and like many, I had a deep sense of pride for my country.
+  But today, being an American feels similar to an animal pacing within the
+  confines of a zoo. If provided the illusion of just enough freedom you can
+  mask the reality of one’s own captivity. The result leaves me with a sense of
+  waning dignity. We are collectively on display to intrigue, terrify, and
+  satisfy the world’s voyeuristic curiosity.<br><br>
+
+
+  Here, you will find surreal postcards from this fever dream—a feeling of
+  familiar uneasiness transmitted from a citizen who is equally intrigued by his
+  home as he is alarmed. They are deceptively nuanced photographs of—and for—an
+  America that has done everything it can to abolish nuance, creating
+  bleached-out stand-ins for the place itself. In a time in which the truth is
+  constantly under attack, American Hypnosis proves these same truths can be
+  stranger than fiction.”
 date:
 news_category: Exhibition
 theme_color: '#e5e5ef'
