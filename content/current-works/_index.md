@@ -64,8 +64,13 @@ content_blocks:
     meta:
     attached: false
   - _bookshop_name: home/modal-blog
-    title: FOLKLORE July 29 - August 30
-    caption: Bentley Gallery
+    title: FOLKLORE
+    caption: |-
+      Bentley Gallery
+
+      July 29 - August 30
+
+      &nbsp;
     attached_blog: posts/folkore.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-10.jpg
     block_aspect_ratio: 3x4
