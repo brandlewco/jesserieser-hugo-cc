@@ -64,11 +64,11 @@ content_blocks:
     meta:
     attached: false
   - _bookshop_name: home/modal-blog
-    title: FOLKLORE
+    title: FOLKLORE July 29 - August 30
     caption: |-
-      American Hypnosis and Guns & Pizza Bentley Gallery (solo show)
+      Bentley Gallery
 
-      July 29 - August 30
+      &nbsp;
     attached_blog: posts/folkore.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-5.jpg
     block_aspect_ratio: 4x3
