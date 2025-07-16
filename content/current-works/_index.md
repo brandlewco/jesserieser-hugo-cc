@@ -69,8 +69,6 @@ content_blocks:
       Bentley Gallery
 
       July 29 - August 30
-
-      &nbsp;
     attached_blog: posts/folkore.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-10.jpg
     block_aspect_ratio: 3x4
@@ -78,7 +76,7 @@ content_blocks:
     color: '#ffffff'
     width: '33'
     align_y: start
-    margin_y: '400'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
