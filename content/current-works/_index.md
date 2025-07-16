@@ -56,7 +56,7 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     meta_align: left
@@ -78,7 +78,7 @@ content_blocks:
     color: '#ffffff'
     width: '33'
     align_y: start
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
