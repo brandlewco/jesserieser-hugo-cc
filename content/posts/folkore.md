@@ -4,6 +4,67 @@ title: FOLKORE
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
+    title: blog title
+    caption: ''
+    width: '100'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-2.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-3.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-5.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-13.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-8.jpg
+    title: blog title
+    caption: ''
+    width: '100'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-9.jpg
+    title: blog title
+    caption: ''
+    width: '66'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-10.jpg
+    title: blog title
+    caption: ''
+    width: '33'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-6.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-12.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-11.jpg
+    title: blog title
+    caption: ''
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-10.jpg
@@ -40,7 +101,7 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-1.jpg
   - _bookshop_name: posts/media-element-url
     image: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-4.jpg
   - _bookshop_name: posts/media-element-url
