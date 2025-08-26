@@ -57,7 +57,7 @@ content_blocks:
     width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '15'
     margin_right: '0'
     meta_align: left
     theme_color: '#f0dcec'
@@ -70,11 +70,11 @@ content_blocks:
 
       July 29 - August 30
     attached_blog: posts/folkore.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/folklore_preview-10.jpg
-    block_aspect_ratio: 3x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
+    block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '33'
+    width: '45'
     align_y: start
     margin_y: '300'
     margin_left: '0'
@@ -90,7 +90,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#c9fce6'
