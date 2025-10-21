@@ -398,9 +398,9 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Golf Digest: GBest Lit Golf Towns'
+    meta: 'Golf Digest: Best Little Golf Towns'
     attached_collection: collections/golf-digest-best-little-golf-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
     width: '45'
     margin_y: '600'
     margin_left: '0'
