@@ -425,10 +425,10 @@ content_blocks:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '45'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '10'
+    width: '55'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
     color: '#cd98d4'
     caption: ''
