@@ -5,7 +5,7 @@ seo:
     Golf Digest: Best Little Golf Towns: Sioux Center, Iowa by West Coast
     Photographer, Jesse Rieser
   meta_title: 'Golf Digest: Best Little Golf Towns: Sioux Center, Iowa'
-title: 'Golf Digest: Best Little Golf Towns'
+title: 'Golf Digest: '
 collection_meta: 'Best Little Golf Towns:'
 collection_meta_2: Sioux Center, Iowa
 collection_description: >-
