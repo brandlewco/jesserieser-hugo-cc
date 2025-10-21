@@ -7,7 +7,7 @@ seo:
   meta_title: American Hypnosis
 title: 'American '
 collection_meta: Hypnosis
-collection_meta_2: 2012 - 2024
+collection_meta_2: 2008 - 2024
 collection_description: >-
   By definition, hypnosis is the induction of a state of consciousness in which
   a person loses the power of voluntary action and is highly responsive to

@@ -19,49 +19,60 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-2.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: center
-    color: '#d5e6f1'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-2.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
+    margin_left: '25'
     margin_right: '5'
     align_y: start
     color: '#f2ded6'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-3.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-1.jpg
+    width: '45'
     margin_y: '300'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-21.jpg
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '25'
     align_y: start
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-4.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-22.jpg
+    width: '66'
     margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ded6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-23.jpg
+    width: '60'
+    margin_y: '400'
     margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-5.jpg
-    width: '45'
-    margin_y: '400'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-24.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -69,23 +80,72 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-13.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#f0cdc4'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-14.jpg
+    width: '30'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#a9cffd'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
+    width: '66'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#edd5be'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-12.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#f3e7dd'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR-GD_SMallTowns-35.jpg
+    width: '20'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#f8f2f7'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-6.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '10'
+    width: '25'
+    margin_y: '200'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#fbe5d2'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-7.jpg
-    width: '33'
-    margin_y: '100'
+    width: '25'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '30'
     align_y: start
     color: '#ff8e7d'
     caption: ''
@@ -93,19 +153,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-8.jpg
-    width: '33'
-    margin_y: '50'
-    margin_left: '10'
+    width: '25'
+    margin_y: '0'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-9.jpg
-    width: '33'
-    margin_y: '50'
+    width: '25'
+    margin_y: '0'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '30'
     align_y: start
     color: '#ffdfc9'
     caption: ''
@@ -113,83 +173,49 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-10.jpg
-    width: '60'
-    margin_y: '300'
-    margin_left: '15'
+    width: '45'
+    margin_y: '200'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-11.jpg
-    width: '20'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-4.jpg
+    width: '45'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '0'
     align_y: start
-    color: '#f5ecba'
+    color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-12.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-3.jpg
+    width: '55'
+    margin_y: '200'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
-    color: '#f3e7dd'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-13.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: start
-    color: '#f0cdc4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-14.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#a9cffd'
+    color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#edd5be'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-16.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#fbe6df'
-    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-17.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -198,7 +224,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-18.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -207,7 +233,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-19.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -225,163 +251,131 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-20.jpg
-    width: '45'
+    width: '50'
     margin_y: '200'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#e0eae7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-21.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-16.jpg
+    width: '25'
+    margin_y: '700'
+    margin_left: '5'
+    margin_right: '10'
     align_y: start
-    color: '#fcceb1'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-22.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#f2ded6'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-23.jpg
-    width: '20'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#daf0e7'
+    color: '#fbe6df'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-24.jpg
-    width: '30'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-25.jpg
+    width: '35'
+    margin_y: '300'
     margin_left: '15'
     margin_right: '0'
     align_y: start
-    color: '#f8f2f7'
+    color: '#fbe5d2'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-25.jpg
-    width: '40'
-    margin_y: '300'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-26.jpg
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '25'
     align_y: start
-    color: '#fbe5d2'
+    color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-26.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-11.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '25'
     margin_right: '0'
-    align_y: center
-    color: '#ff8e7d'
+    align_y: start
+    color: '#f5ecba'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-27.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '5'
+    width: '33'
+    margin_y: '350'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
     color: '#dcdee5'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-28.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#ffdfc9'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-28.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: center
-    color: '#ffdfc9'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-29.jpg
-    width: '30'
+    width: '60'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-30.jpg
-    width: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
+    width: '20'
+    margin_y: '650'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#d9d1ce'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-33.jpg
+    width: '50'
     margin_y: '100'
     margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#ff8e7d'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-30.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#edd5be'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-31.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#a9cffd'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#d9d1ce'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-33.jpg
-    width: '60'
+    width: '66'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    align_y: center
-    color: '#ff8e7d'
+    align_y: start
+    color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-8.jpg
