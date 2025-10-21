@@ -398,6 +398,30 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
+    meta: 'Golf Digest: GBest Lit Golf Towns'
+    attached_collection: collections/golf-digest-best-little-golf-towns.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
+    width: '45'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
