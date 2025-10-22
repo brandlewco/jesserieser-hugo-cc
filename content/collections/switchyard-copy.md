@@ -355,45 +355,36 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-31.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '15'
+    width: '35'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-32.jpg
-    width: '33'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
+    width: '45'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
-    align_y: start
-    color: '#d9d1ce'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
     align_y: center
     color: '#a9cffd'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
