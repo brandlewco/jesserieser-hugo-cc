@@ -62,7 +62,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-23.jpg
-    width: '60'
+    width: '55'
     margin_y: '400'
     margin_left: '5'
     margin_right: '0'
@@ -71,7 +71,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-24.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
@@ -91,8 +91,8 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-14.jpg
-    width: '30'
-    margin_y: '500'
+    width: '25'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -261,7 +261,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-16.jpg
     width: '25'
-    margin_y: '700'
+    margin_y: '850'
     margin_left: '5'
     margin_right: '10'
     align_y: start
@@ -274,7 +274,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-25.jpg
     width: '35'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '15'
     margin_right: '0'
     align_y: start
@@ -307,7 +307,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-27.jpg
     width: '33'
-    margin_y: '350'
+    margin_y: '400'
     margin_left: '30'
     margin_right: '0'
     align_y: start
@@ -339,8 +339,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
-    width: '20'
-    margin_y: '650'
+    width: '25'
+    margin_y: '750'
     margin_left: '20'
     margin_right: '0'
     align_y: start
@@ -351,7 +351,7 @@ collection_blocks:
     width: '50'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y: start
     color: '#ff8e7d'
     caption: ''
@@ -359,7 +359,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-30.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
