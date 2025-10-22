@@ -402,7 +402,7 @@ content_blocks:
     attached_collection: collections/golf-digest-best-little-golf-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
     width: '45'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '10'
     align_y: start
