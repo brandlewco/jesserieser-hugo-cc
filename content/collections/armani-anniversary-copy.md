@@ -9,13 +9,11 @@ title: The New York Times
 collection_meta: AZ Rep
 collection_meta_2: Adelita Grijalva During the Government Shutdown
 collection_description: >-
-  She Was Elected to Congress. She Can’t Get Into Her Office After Hours.
-
-
-  So what’s the holdup? Tough to say, exactly. Mr. Johnson has not met with or
-  even spoken to Ms. Grijalva about the situation. His office pointed me toward
-  his existing statements, but these justifications for foot-dragging have been
-  a little hard to follow, much less swallow.
+  She Was Elected to Congress. She Can’t Get Into Her Office After Hours. So
+  what’s the holdup? Tough to say, exactly. Mr. Johnson has not met with or even
+  spoken to Ms. Grijalva about the situation. His office pointed me toward his
+  existing statements, but these justifications for foot-dragging have been a
+  little hard to follow, much less swallow.
 collection_description_alignment: center
 slug: nyt-adelita
 collection_blocks:
