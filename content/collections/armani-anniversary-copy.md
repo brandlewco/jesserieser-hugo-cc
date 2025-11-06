@@ -21,21 +21,15 @@ slug: nyt-adelita
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1086148559
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#ff0000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
-    text: ''
+    align_y:
+    color: '#e9e8f2'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
