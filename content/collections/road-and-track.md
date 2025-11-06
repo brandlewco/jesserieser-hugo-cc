@@ -28,7 +28,7 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#edd7b2'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -194,7 +194,6 @@ collection_category:
   - Lifestyle
   - Portraits
   - Color
-  - Gun Culture
   - Sports + Athletes
   - Travel
   - Award Winning
