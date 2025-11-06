@@ -17,6 +17,7 @@ collection_sorter:
   - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
   - collections/a-ghost.md
+  - collections/armani-anniversary-copy.md
   - collections/golfdigest-nicklaus.md
   - collections/hermès-copy.md
   - collections/golf-digest-best-little-golf-towns.md
