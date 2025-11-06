@@ -22,126 +22,71 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
     width: '55'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#e9e8f2'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-2.jpg
+    width: '20'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '30'
     margin_right: '0'
     align_y:
-    color: '#D9E6F4'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267733
+    color: '#d9e6f4'
     caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '45'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    text: ''
-    image:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267876
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    text: ''
-    image:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dhop-07-1.jpg
-    width: '30'
-    margin_y: '300'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-3.jpg
+    width: '33'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
+    align_y:
+    color: '#d9e6f4'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-6.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#f2e1e1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#E9E8F2'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-4.jpg
     width: '25'
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#E2ECFC'
-    caption:
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267817
-    caption:
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: ''
-    show_controls: false
-    block_aspect_ratio:
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '30'
-    text: caption
-    image:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267612
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '50'
-    align_y: start
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    text: ''
-    image:
+    align_y:
+    color: '#e9e8f2'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
+    width: '40'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#e2ecfc'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -153,11 +98,9 @@ collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/adelita_covers-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/adelita_covers-3.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Editorial
-  - Motion
   - Black and White
-  - Sports + Athletes
   - Portraits
+  - Editorial
 date: 2022-07-21T01:22:09Z
 theme_color: '#dcffd0'
 theme_color_all_works: '#ffe05a'
