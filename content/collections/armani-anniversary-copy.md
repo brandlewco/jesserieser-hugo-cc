@@ -6,7 +6,7 @@ seo:
     Grijalva during the government shutdown
   meta_title: Rep Adelita Grijalva for The New York Times
 title: The New York Times
-collection_meta: 'Arizona Representative '
+collection_meta: AZ Rep
 collection_meta_2: Adelita Grijalva During the Government Shutdown
 collection_description: >-
   She Was Elected to Congress. She Can’t Get Into Her Office After Hours.
