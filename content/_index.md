@@ -396,10 +396,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-2.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y:
     color: '#faede1'
     caption: ''
