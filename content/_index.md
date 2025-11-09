@@ -14,6 +14,53 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: start
   - _bookshop_name: collections/media-motion
+    vimeo_id: 1087456157
+    caption: ''
+    meta: meta
+    meta_align: left
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '70'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_overview-202502-1.jpg
+    width: '35'
+    margin_y: '600'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-12.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
     caption: caption
     meta: meta
@@ -22,46 +69,26 @@ collection_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '80'
+    width: '50'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '35'
     margin_right: '0'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_overview-202502-1.jpg
-    width: '35'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '15'
-    align_y:
-    color: '#000000'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-3.jpg
-    width: '30'
-    margin_y: '600'
-    margin_left: '10'
+    width: '33'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-2.jpg
-    width: '50'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
+    width: '33'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -70,8 +97,39 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-5.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-3.jpg
     width: '35'
+    margin_y: '500'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-5.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-4.jpg
+    width: '30'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
@@ -83,28 +141,14 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-3.jpg
     width: '60'
-    margin_y: '50'
-    margin_left: '20'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1087456157
-    caption: ''
-    meta: meta
-    meta_align: left
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '5'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -115,15 +159,6 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-4.jpg
-    width: '55'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
