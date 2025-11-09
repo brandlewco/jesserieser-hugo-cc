@@ -160,6 +160,15 @@ collection_blocks:
     align_y: start
     color: '#f8f3f3'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-6.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086874377
     caption: caption
