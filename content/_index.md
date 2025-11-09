@@ -251,10 +251,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-5.jpg
-    width: '30'
+    width: '25'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '35'
     align_y:
     color: '#9d0310'
     caption: ''
@@ -293,9 +293,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-19.jpg
-    width: '55'
+    width: '50'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f8e8dc'
@@ -332,9 +332,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-22.jpg
-    width: '50'
+    width: '60'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#fbfbf9'
@@ -345,19 +345,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-18.jpg
-    width: '33'
+    width: '25'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#280503'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-1.jpg
-    width: '40'
-    margin_y: '350'
+    width: '35'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y:
     color: '#e7edf4'
     caption: ''
@@ -367,19 +367,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-27.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: '30'
+    margin_y: '500'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-3.jpg
-    width: '60'
+    width: '40'
     margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
     color: '#000000'
     caption: ''
