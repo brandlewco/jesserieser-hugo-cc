@@ -242,19 +242,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-14.jpg
-    width: '33'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '20'
+    width: '20'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y:
     color: '#edeff2'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-5.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '30'
     align_y:
     color: '#9d0310'
     caption: ''
