@@ -305,7 +305,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-7.jpg
     width: '25'
-    margin_y: '400'
+    margin_y: '350'
     margin_left: '40'
     margin_right: '0'
     align_y:
@@ -316,7 +316,7 @@ collection_blocks:
     width: '15'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y:
     color: '#eefbe7'
     caption: ''
