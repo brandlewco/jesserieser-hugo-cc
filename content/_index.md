@@ -597,7 +597,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-34.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-20.jpg
     width: '33'
     margin_y: '200'
     margin_left: '10'
@@ -606,11 +606,11 @@ collection_blocks:
     color: '#eb2f36'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-34.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-21.jpg
     width: '33'
     margin_y: '200'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '20'
     align_y:
     color: '#eb2f36'
     caption: ''
@@ -743,7 +743,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-65.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-26.jpg
     width: '35'
     margin_y: '100'
     margin_left: '10'
