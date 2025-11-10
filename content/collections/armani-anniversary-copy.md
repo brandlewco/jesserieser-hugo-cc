@@ -7,7 +7,7 @@ seo:
   meta_title: Rep Adelita Grijalva for The New York Times
 title: The New York Times
 collection_meta: AZ Representative
-collection_meta_2: Adelita Grijalva During the Government Shutdown
+collection_meta_2: Adelita Grijalva During & Government Shutdown
 collection_description: >-
   She Was Elected to Congress. She Can’t Get Into Her Office After Hours. So
   what’s the holdup? Tough to say, exactly. Mr. Johnson has not met with or even
