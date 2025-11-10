@@ -782,6 +782,9 @@ collection_awards: []
 collection_press: []
 collection_exhibition:
   - content: >-
+      <p><strong>2025</strong><br />Folklore<br />Bentley Gallery<br />Phoenix,
+      AZ (Solo Show)</p>
+  - content: >-
       <p><strong>2024</strong><br />Unbound 13!<br />Candela Gallery<br
       />Richmond, VA (Group Show)</p>
   - content: >-
