@@ -16,7 +16,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736431
-    text: ''
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -25,44 +28,36 @@ collection_blocks:
     margin_y: '50'
     margin_left: '10'
     margin_right: '0'
+    text: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-1.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: center
-    color: '#d5e6f1'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-2.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '5'
-    align_y: start
-    color: '#f2ded6'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-3.jpg
-    width: '55'
-    margin_y: '700'
-    margin_left: '0'
+    width: '40'
+    margin_y: '600'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#fcceb1'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-1.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-4.jpg
-    width: '25'
+    width: '30'
     margin_y: '100'
-    margin_left: '60'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#daf0e7'
@@ -213,7 +208,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736834
-    text: caption
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -222,6 +220,7 @@ collection_blocks:
     margin_y: '600'
     margin_left: '0'
     margin_right: '5'
+    text: caption
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -446,7 +445,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736400
-    text: caption
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
@@ -455,6 +457,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
+    text: caption
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
