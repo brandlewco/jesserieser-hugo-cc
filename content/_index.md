@@ -720,7 +720,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-67.jpg
-    width: '50'
+    width: '60'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
@@ -731,19 +731,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-44.jpg
-    width: '45'
+    width: '35'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#e6eeec'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-13.jpg
-    width: '35'
-    margin_y: '500'
+    width: '25'
+    margin_y: '350'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y:
     color: '#c22b2c'
     caption: ''
@@ -763,14 +763,14 @@ collection_blocks:
     width: '55'
     align_y: start
     margin_y: '500'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-48.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y:
     color: '#a4bcca'
     caption: ''
@@ -796,9 +796,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-56.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '5'
+    width: '50'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#f5e7ce'
@@ -807,9 +807,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-51.jpg
-    width: '40'
+    width: '25'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -818,8 +818,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-57.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     align_y:
     color: '#5f5547'
     caption: ''
