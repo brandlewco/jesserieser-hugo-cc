@@ -22,6 +22,7 @@ collection_sorter:
   - collections/hermès-copy.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/fights.md
+  - collections/road-and-track.md
   - collections/xmas-in-america.md
   - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
