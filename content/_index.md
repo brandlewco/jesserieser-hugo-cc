@@ -274,7 +274,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-16.jpg
     width: '35'
-    margin_y: '100'
+    margin_y: '450'
     margin_left: '10'
     margin_right: '0'
     align_y:
@@ -283,7 +283,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-13.jpg
     width: '40'
-    margin_y: '800'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '10'
     align_y:
@@ -347,7 +347,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-18.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#280503'
@@ -357,7 +357,7 @@ collection_blocks:
     width: '35'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     align_y:
     color: '#e7edf4'
     caption: ''
@@ -368,8 +368,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-27.jpg
     width: '25'
-    margin_y: '600'
-    margin_left: '25'
+    margin_y: '700'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -379,7 +379,7 @@ collection_blocks:
     width: '45'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y:
     color: '#000000'
     caption: ''
@@ -388,16 +388,16 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-29.jpg
     width: '20'
-    margin_y: '700'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#eae2cc'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-2.jpg
-    width: '45'
-    margin_y: '100'
+    width: '50'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y:
@@ -411,7 +411,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-31.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#bb0412'
@@ -422,7 +422,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-32.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#eae2cc'
@@ -432,7 +432,7 @@ collection_blocks:
     width: '40'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y:
     color: '#eae2cc'
     caption: ''
@@ -475,7 +475,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-6.jpg
-    width: '40'
+    width: '35'
     margin_y: '100'
     margin_left: '5'
     margin_right: '5'
@@ -484,10 +484,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-7.jpg
-    width: '40'
-    margin_y: '500'
+    width: '50'
+    margin_y: '450'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y:
     color: '#eae2cc'
     caption: ''
@@ -508,9 +508,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-32.jpg
-    width: '35'
+    width: '40'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
@@ -518,7 +518,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-9.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '5'
     align_y:
