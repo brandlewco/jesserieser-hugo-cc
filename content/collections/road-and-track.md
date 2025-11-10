@@ -191,12 +191,10 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-c
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Lifestyle
   - Portraits
   - Color
   - Sports + Athletes
-  - Travel
-  - Award Winning
+  - Still Life + Details
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
@@ -239,7 +237,7 @@ collection_overview: false
 collection_grid: false
 collection_dark: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
