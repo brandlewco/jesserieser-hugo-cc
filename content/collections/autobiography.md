@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: Autobiography of a Contact Sport
-title: Autobiography of
-collection_meta: 'a Contact Sport '
-collection_meta_2:
+title: 'Autobiography '
+collection_meta: 'of a '
+collection_meta_2: 'Contact Sport '
 collection_description: >-
   This personal project explores my nostalgia and love for the game that shaped
   me. This work puts you on the sideline, in the helmet, and in the bleachers
