@@ -22,30 +22,30 @@ collection_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '70'
+    width: '80'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_overview-202502-1.jpg
     width: '35'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '400'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
-    width: '30'
-    margin_y: '750'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-3.jpg
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#000000'
+    margin_right: '15'
+    align_y: start
+    color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -53,7 +53,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-12.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -72,39 +72,30 @@ collection_blocks:
     width: '50'
     align_y: start
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-3.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#f8f3f3'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
-    width: '33'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#000000'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-5.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
+    width: '25'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -131,10 +122,19 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-4.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
+    width: '25'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -497,7 +497,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-41.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#faede1'
@@ -510,14 +510,14 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-32.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-9.jpg
-    width: '45'
+    width: '40'
     margin_y: '400'
     margin_left: '0'
     margin_right: '10'
@@ -528,9 +528,29 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-23.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y:
+    color: '#eff5f6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-1.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#eff5f6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-1.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#eff5f6'
@@ -539,19 +559,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-26.jpg
-    width: '35'
+    width: '40'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#afb1b7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-25.jpg
-    width: '25'
-    margin_y: '500'
+    width: '30'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     align_y:
     color: '#e0c6ca'
     caption: ''
