@@ -208,7 +208,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736834
-    caption: caption
+    caption: ''
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
