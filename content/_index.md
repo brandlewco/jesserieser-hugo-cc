@@ -508,7 +508,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-32.jpg
-    width: '30'
+    width: '35'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -517,10 +517,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-9.jpg
-    width: '40'
+    width: '45'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '5'
     align_y:
     color: '#e4ebed'
     caption: ''
