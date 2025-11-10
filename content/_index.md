@@ -109,7 +109,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
-    width: '30'
+    width: '33'
     margin_y: '500'
     margin_left: '0'
     margin_right: '5'
