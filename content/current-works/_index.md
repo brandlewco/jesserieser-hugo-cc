@@ -379,7 +379,7 @@ content_blocks:
     meta: 'The Wall Street Journal: A Second Act'
     attached_collection: collections/hermès-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -398,13 +398,37 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
+    meta: 'Road and Track: The Drag Scene'
+    attached_collection: collections/hermès-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
+    width: '33'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Golf Digest: Best Little Golf Towns'
     attached_collection: collections/golf-digest-best-little-golf-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
-    width: '45'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '10'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
+    width: '33'
+    margin_y: '400'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
     color: '#cd98d4'
     caption: ''
@@ -417,18 +441,16 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
+    meta_align: left
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '55'
+    width: '40'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#cd98d4'
     caption: ''
@@ -455,7 +477,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '50'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     meta_align: left
     theme_color: '#ff5252'
