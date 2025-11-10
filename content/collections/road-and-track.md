@@ -21,7 +21,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-1.jpg
     width: '40'
     margin_y: '100'
     margin_left: '30'
@@ -32,34 +32,34 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
     width: '40'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#e2cfef'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-3.jpg
     width: '25'
     margin_y: '500'
     margin_left: '0'
     margin_right: '25'
     align_y:
     color: '#cdf3ec'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-4.jpg
     width: '33'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
-    caption:
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -183,11 +183,39 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1134091415
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1134088384
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-3.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-3-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-3.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
