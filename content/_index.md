@@ -538,16 +538,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-1.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y:
-    color: '#eff5f6'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-2.jpg
     width: '55'
     margin_y: '100'
     margin_left: '15'
@@ -845,6 +836,15 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-1.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#eff5f6'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
