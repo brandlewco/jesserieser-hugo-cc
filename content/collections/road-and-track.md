@@ -62,127 +62,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y:
-    color: '#d9e3f4'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-6.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '20'
-    align_y:
-    color: '#e6f3e6'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-7.jpg
-    width: '66'
-    margin_y: '50'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-8.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#ffe5c9'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '20'
-    align_y:
-    color: '#ebd1ef'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-10.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    align_y:
-    color: '#cef8e1'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f9d4c0'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-13.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#c2f4f4'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '30'
-    align_y:
-    color: '#f0d0cf'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#d9e3f4'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1134091415
     caption: caption
@@ -194,9 +73,106 @@ collection_blocks:
     block_aspect_ratio: 16x9
     width: '50'
     align_y: start
-    margin_y: '0'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-5.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y:
+    color: '#d9e3f4'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-6.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y:
+    color: '#ffe5c9'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-7.jpg
+    width: '45'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '20'
+    align_y:
+    color: '#ebd1ef'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-6.jpg
+    width: '40'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '20'
+    align_y:
+    color: '#e6f3e6'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-9.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '45'
+    margin_right: '0'
+    align_y:
+    color: '#cef8e1'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-10.jpg
+    width: '25'
+    margin_y: '500'
+    margin_left: '25'
+    margin_right: '0'
+    align_y:
+    color: '#f9d4c0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-11.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#f4d4d3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-7.jpg
+    width: '66'
+    margin_y: '50'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#cff1f3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-13.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y:
+    color: '#c2f4f4'
+    caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 1134088384
     caption: caption
@@ -211,6 +187,12 @@ collection_blocks:
     margin_y: '0'
     margin_left: '0'
     margin_right: '0'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
