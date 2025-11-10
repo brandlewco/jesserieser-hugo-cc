@@ -771,7 +771,7 @@ collection_blocks:
     meta_align: left
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
-    show_controls: false
+    show_controls: true
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
