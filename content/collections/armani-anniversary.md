@@ -107,11 +107,11 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-motion
     vimeo_id: 736267817
-    caption:
+    caption: ''
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
-    color: ''
+    color:
     show_controls: false
     block_aspect_ratio:
     width: '30'
@@ -119,7 +119,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '30'
-    text: caption
+    text: ''
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
