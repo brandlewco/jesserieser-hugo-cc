@@ -22,9 +22,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-1.jpg
-    width: '40'
+    width: '60'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#edd7b2'
@@ -33,7 +33,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
-    width: '40'
+    width: '30'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
@@ -42,24 +42,24 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-3.jpg
-    width: '25'
-    margin_y: '500'
+    width: '30'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '0'
     align_y:
     color: '#cdf3ec'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-4.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -70,18 +70,18 @@ collection_blocks:
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
+    block_aspect_ratio: 4x5
+    width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: '55'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#d9e3f4'
     caption: ''
@@ -89,19 +89,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-6.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '10'
+    width: '30'
+    margin_y: '400'
+    margin_left: '45'
     margin_right: '0'
     align_y:
     color: '#ffe5c9'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-7.jpg
-    width: '45'
-    margin_y: '300'
+    width: '20'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '0'
     align_y:
     color: '#ebd1ef'
     caption: ''
@@ -109,21 +109,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-6.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '20'
+    width: '45'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
     color: '#e6f3e6'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-9.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
+    width: '33'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#cef8e1'
     caption: ''
@@ -131,19 +129,21 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-10.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '25'
+    width: '45'
+    margin_y: '200'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f9d4c0'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-11.jpg
-    width: '40'
-    margin_y: '100'
+    width: '45'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -155,9 +155,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT_covers-7.jpg
-    width: '66'
-    margin_y: '50'
-    margin_left: '20'
+    width: '60'
+    margin_y: '200'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#cff1f3'
@@ -166,9 +166,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-13.jpg
-    width: '20'
+    width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#c2f4f4'
@@ -181,12 +181,12 @@ collection_blocks:
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
+    block_aspect_ratio: 4x5
+    width: '40'
     align_y: start
-    margin_y: '0'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '15'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
