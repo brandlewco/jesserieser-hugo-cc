@@ -422,12 +422,34 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
+    meta: 'Golf Digest: All The Rage'
+    attached_collection: collections/fights.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Golf Digest: Best Little Golf Towns'
     attached_collection: collections/golf-digest-best-little-golf-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '15'
+    margin_y: '450'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#cd98d4'
@@ -442,28 +464,6 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: All The Rage'
-    attached_collection: collections/fights.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#afd0f5'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
