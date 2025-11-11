@@ -631,10 +631,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-41.jpg
-    width: '45'
-    margin_y: '450'
+    width: '50'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y:
     color: '#ddd9dd'
     caption: ''
@@ -642,55 +642,75 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-37.jpg
-    width: '45'
-    margin_y: '350'
+    width: '40'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#d9dee1'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-16.jpg
-    width: '25'
+    width: '40'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#d9dee1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-38.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#cfe0db'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-4.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#f8f3f3'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
-    width: '15'
+    width: '25'
     margin_y: '400'
     margin_left: '0'
     margin_right: '25'
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-16.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y:
+    color: '#d9dee1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-Overview-31.jpg
+    width: '25'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '25'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-38.jpg
+    width: '45'
+    margin_y: '600'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#cfe0db'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-4.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
