@@ -102,14 +102,14 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-3.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '40'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-5.jpg
-    width: '33'
+    width: '35'
     margin_y: '500'
     margin_left: '0'
     margin_right: '0'
