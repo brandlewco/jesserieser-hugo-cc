@@ -32,7 +32,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-motion
-    vimeo_id: 1135971397
+    vimeo_id: 1136156618
     caption: ''
     meta: meta
     meta_align: center
