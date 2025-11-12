@@ -62,7 +62,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-2.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '20'
     align_y: start
@@ -104,7 +104,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-6.jpg
     width: '35'
-    margin_y: '350'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -115,7 +115,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-7.jpg
     width: '30'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '30'
     margin_right: '0'
     align_y: start
@@ -143,10 +143,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-10.jpg
-    width: '30'
-    margin_y: '500'
+    width: '25'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     align_y: start
     color: '#f5ecba'
     caption: ''
@@ -165,10 +165,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-12.jpg
-    width: '25'
+    width: '20'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '15'
     align_y: start
     color: '#f0cdc4'
     caption: ''
@@ -197,7 +197,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-15.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -276,7 +276,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-22.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '25'
     align_y: start
@@ -289,7 +289,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-23.jpg
     width: '25'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '30'
     margin_right: '0'
     align_y: start
