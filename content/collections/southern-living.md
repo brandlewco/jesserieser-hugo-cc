@@ -13,6 +13,19 @@ collection_meta_2: The South's Greatest Natural Wonder
 collection_description: >-
   A journey down one of the most ecologically diverse rivers in the Southeast
   reveals beauty around each bend.
+
+
+  The Flint River snakes down Georgia, a safe distance from I-85 and I-75,
+  before joining the Chattahoochee River in Lake Seminole and cutting across the
+  Florida Panhandle as the Apalachicola River. It is home to the endemic and
+  feisty shoal bass and also to one of the country’s most beautiful and rare
+  flowers, the shoals spider lily. It has a history with a few American
+  Presidents. Franklin D. Roosevelt fished in the river, which was near his
+  Little White House, and decades ago, it was saved by Georgia’s own Jimmy
+  Carter. Yet the Flint remains somewhat obscure, which is both a benefit—for
+  those seeking quiet refuge—and a liability. If the past has proven anything
+  with this river, as with other wild places, you have to know it to want to
+  protect it.
 collection_description_alignment: center
 slug: sl-flint
 collection_blocks:
