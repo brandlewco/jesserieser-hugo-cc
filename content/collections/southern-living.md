@@ -348,12 +348,12 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-1.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-25.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-4.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
