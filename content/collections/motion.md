@@ -62,7 +62,7 @@ collection_blocks:
     margin_right: '0'
     text: Hermès & Danielle Hacche
   - _bookshop_name: collections/media-motion
-    vimeo_id: 1136156618
+    vimeo_id: 1137957648
     caption: ''
     meta: meta
     meta_align: center
