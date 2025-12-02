@@ -14,7 +14,7 @@ theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: 'U.S. + International Advertising '
 header_col_1: >-
-  <p>Managed and Represented by <br /><a
+  <p>Managed and Represented by <a
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
   rel="noopener">Flink Artists</a><br />New York, London &amp; Los Angeles<br
   /><br /><a href="mailto:brian@flinkartists.com" target="_blank"
