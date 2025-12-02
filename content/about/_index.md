@@ -17,7 +17,7 @@ header_col_1: >-
   <p>Managed and Represented by <a
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
   rel="noopener"><strong>Flink Artists</strong></a><br />New York, London &amp;
-  Los Angeles<br /><br /><a href="mailto:brian@flinkartists.com" target="_blank"
+  Los Angeles<br /><a href="mailto:brian@flinkartists.com" target="_blank"
   rel="noopener"><em>Brian Flink</em></a><br /><a
   href="mailto:cheyenne@flinkartists.com" target="_blank"
   rel="noopener"><em>Cheyenne Vesper</em> </a><br /><a
