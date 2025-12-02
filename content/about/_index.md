@@ -25,7 +25,8 @@ header_col_1: >-
   rel="noopener"><em>Danielle Bouchard</em></a><br /><br /></p><p></p>
 header_col_2_title: Exhibitions, Editorial, Arizona Commissions & Press
 header_col_2: >-
-  <p>Jesse Rieser<br />Instagram <a
+  <p>Jesse Rieser<br /><a href="https://www.instagram.com/jesserieser/"
+  target="_blank" rel="noopener">Instagram</a> <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
   rel="noopener">@jesserieser.com</a><br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
