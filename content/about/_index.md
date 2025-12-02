@@ -25,12 +25,11 @@ header_col_1: >-
   rel="noopener"><em>Danielle Bouchard</em></a><br /><br /></p><p></p>
 header_col_2_title: Exhibitions, Editorial, Arizona Commissions & Press
 header_col_2: >-
-  <p>Jesse Rieser<br /><a href="https://www.instagram.com/jesserieser/"
-  target="_blank" rel="noopener">Instagram</a> <a
-  href="https://www.instagram.com/jesserieser/" target="_blank"
-  rel="noopener">@jesserieser.com</a><br /><a
+  <p>Jesse Rieser<br /><a
   href="mailto:jesse@jesserieser.com">jesse@jesserieser.com</a><br /><a
-  href="tel:+3109859818">310 985 9818</a><br />Los Angeles &amp; Phoenix </p>
+  href="tel:+3109859818">310 985 9818</a><br /><a
+  href="https://www.instagram.com/jesserieser/" target="_blank"
+  rel="noopener">Instagram</a><br />Los Angeles &amp; Phoenix </p>
 header_col_3_title: Stock & Licensing
 header_col_3: >-
   <p><a href="https://www.gallerystock.com/" target="_blank"
