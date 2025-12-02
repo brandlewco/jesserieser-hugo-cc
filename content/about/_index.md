@@ -16,14 +16,14 @@ header_col_1_title: 'U.S. + International Advertising '
 header_col_1: >-
   <p>Managed and Represented by <a
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
-  rel="noopener">Flink Artists</a><br />New York, London &amp; Los Angeles<br
-  /><br /><a href="mailto:brian@flinkartists.com" target="_blank"
+  rel="noopener"><strong>Flink Artists</strong></a><br />New York, London &amp;
+  Los Angeles<br /><br /><a href="mailto:brian@flinkartists.com" target="_blank"
   rel="noopener"><em>Brian Flink</em></a><br /><a
   href="mailto:cheyenne@flinkartists.com" target="_blank"
   rel="noopener"><em>Cheyenne Vesper</em> </a><br /><a
   href="mailto:danielle@flinkartists.com" target="_blank"
   rel="noopener"><em>Danielle Bouchard</em></a><br /><br /></p><p></p>
-header_col_2_title: Editorial, Phoenix Advertising, Corporate, Exhibitions, Syndication, & Press
+header_col_2_title: Exhibitions, Editorial, Arizona Commissions & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Instagram <a
   href="https://www.instagram.com/jesserieser/" target="_blank"
