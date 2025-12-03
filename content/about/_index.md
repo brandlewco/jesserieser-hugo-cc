@@ -18,11 +18,10 @@ header_col_1: >-
   href="https://flinkartists.com/artists/jesse-rieser-portfolio" target="_blank"
   rel="noopener"><strong>Flink Artists</strong></a><br />New York, London &amp;
   Los Angeles<br /><a href="mailto:brian@flinkartists.com" target="_blank"
-  rel="noopener"><em>Brian Flink</em></a><br /><a
-  href="mailto:cheyenne@flinkartists.com" target="_blank"
-  rel="noopener"><em>Cheyenne Vesper</em> </a><br /><a
+  rel="noopener">Brian Flink</a><br /><a href="mailto:cheyenne@flinkartists.com"
+  target="_blank" rel="noopener">Cheyenne Vesper </a><br /><a
   href="mailto:danielle@flinkartists.com" target="_blank"
-  rel="noopener"><em>Danielle Bouchard</em></a><br /><br /></p><p></p>
+  rel="noopener">Danielle Bouchard</a><br /><br /></p><p></p>
 header_col_2_title: Exhibitions, Editorial, Arizona Commissions & Press
 header_col_2: >-
   <p>Jesse Rieser<br />Los Angeles &amp; Phoenix<br /><a
