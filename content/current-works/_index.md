@@ -223,6 +223,30 @@ content_blocks:
     margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'The New Yorker: Can the Golden Age of Costco Last?'
+    attached_collection: collections/the-new-yorker.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: 'UnBound13! '
     caption: American Hypnosis at Candela Gallery
