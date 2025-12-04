@@ -13,6 +13,7 @@ collection_sorter:
   - collections/switchyard-copy.md
   - collections/switchyard.md
   - collections/retail.md
+  - collections/the-new-yorker.md
   - collections/hermès.md
   - collections/armani-anniversary.md
   - collections/espn-devin-booker-cover-story.md
@@ -22,7 +23,6 @@ collection_sorter:
   - collections/golfdigest-nicklaus.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
-  - collections/the-new-yorker.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/fights.md
   - collections/xmas-in-america.md
