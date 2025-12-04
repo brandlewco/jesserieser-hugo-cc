@@ -83,7 +83,7 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
-    meta: Southern Living. The South's Greatest Natural Wonder
+    meta: 'Southern Living: The South''s Greatest Natural Wonder'
     meta_align: left
     attached_collection: collections/southern-living.md
     color: '#000000'
@@ -122,7 +122,7 @@ content_blocks:
     vimeo_id: 1087456157
     caption: caption
     meta: >-
-      The New York Times U.S. Ramps Up Hunt for Uranium to End Reliance on
+      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
       Russia
     meta_align: center
     attached_collection: collections/switchyard-copy.md
@@ -647,7 +647,7 @@ content_blocks:
     theme_color: '#c22b30'
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Smithsonian: Kitt Peak National Obserbatory '
+    meta: 'Smithsonian: Kitt Peak National Observatory '
     attached_collection: collections/smithsonian.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
     width: '60'
