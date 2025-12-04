@@ -967,7 +967,7 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1086611030
     caption: caption
-    meta: Antoine's Escalaras Communication Arts Photo Annual
+    meta: 'Antoine''s Escalaras: Communication Arts Photo Annual'
     meta_align: center
     attached_collection: collections/antoine-s-escalaras.md
     color: '#000000'
