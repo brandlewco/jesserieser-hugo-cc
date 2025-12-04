@@ -111,15 +111,13 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-5.jpg
-    width: '40'
+    width: '60'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -127,14 +125,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-3.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '5'
     margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-3.jpg
+    width: '55'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -146,28 +155,28 @@ collection_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '45'
+    width: '80'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202412overivew-1-1.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '5'
+    width: '25'
+    margin_y: '700'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-Overview-27.jpg
-    width: '25'
-    margin_y: '250'
+    width: '35'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '15'
     align_y: start
     color: '#f8f3f3'
     caption: ''
