@@ -80,15 +80,29 @@ content_blocks:
     theme_color: '#ffdcd2'
     meta: Exhibition
     attached: true
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1137957648
+    caption: caption
+    meta: Southern Living. The South's Greatest Natural Wonder
+    meta_align: left
+    attached_collection: collections/southern-living.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '55'
+    align_y: start
+    margin_y: '500'
+    margin_left: '5'
+    margin_right: '0'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
-    width: '35'
+    width: '30'
     margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -98,7 +112,7 @@ content_blocks:
     text_size: lg
     text_color: '#ffffff'
     line_height: normal
-    text_alignment: center
+    text_alignment: right
     text_tracking: wide
     font_weight: hairline
     meta_align: right
