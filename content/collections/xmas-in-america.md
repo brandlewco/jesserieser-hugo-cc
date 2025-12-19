@@ -822,7 +822,7 @@ collection_content: >-
   creative.
 
 
-  This is the Christmas I have grown to love during my 7 year photographic
+  This is the Christmas I have grown to love during my 12 year photographic
   exploration of the biggest event on the American calendar. I grew up in a
   secular home and at times felt like a Christmas outsider, never connected to
   the holiday’s religious importance, or its more extreme cultural trappings.
