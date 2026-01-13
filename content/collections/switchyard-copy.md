@@ -390,7 +390,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-34.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-25.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
