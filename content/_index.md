@@ -509,7 +509,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-overview-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_reportage-1.jpg
     width: '35'
     margin_y: '100'
     margin_left: '5'
