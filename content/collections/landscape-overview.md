@@ -37,17 +37,17 @@ collection_blocks:
     width: '40'
     margin_y: '800'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: center
     color: '#d4e6f6'
     caption: ''
   - _bookshop_name: collections/media-row
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-1.jpg
     width: '50'
     margin_y: '400'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#ffe19e'
@@ -62,30 +62,30 @@ collection_blocks:
     color: '#ebe5db'
     caption: ''
   - _bookshop_name: collections/media-row
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-2.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#002774'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-3.jpg
-    width: '40'
-    margin_y: '100'
+    width: '35'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
-    align_y: center
+    margin_right: '15'
+    align_y: start
     color: '#fea470'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-4.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
@@ -93,22 +93,22 @@ collection_blocks:
     color: '#fea470'
     caption: ''
   - _bookshop_name: collections/media-row
-    row_alignment: start
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-4.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '25'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#002774'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-5.jpg
-    width: '35'
-    margin_y: '100'
+    width: '33'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '10'
     align_y: center
     color: '#002774'
     caption: ''
@@ -215,7 +215,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-7.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '20'
     margin_right: '5'
     align_y: center
     color: '#b0d5ef'
