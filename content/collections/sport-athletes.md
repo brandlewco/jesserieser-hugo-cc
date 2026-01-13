@@ -66,6 +66,20 @@ collection_blocks:
     align_y:
     color: '#d5d3c6'
     caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1056241098
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-6.jpg
     width: '15'
@@ -327,6 +341,20 @@ collection_blocks:
     align_y:
     color: '#e6eeec'
     caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 515559208
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-39.jpg
     width: '15'
