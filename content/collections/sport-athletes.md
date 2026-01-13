@@ -13,6 +13,15 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-1.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#edeff2'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_sports-1.jpg
     width: '15'
     margin_y: '100'
@@ -22,7 +31,7 @@ collection_blocks:
     color: '#edeff2'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-2.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -31,7 +40,7 @@ collection_blocks:
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-21.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -40,7 +49,7 @@ collection_blocks:
     color: '#9d0310'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-20.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -49,7 +58,7 @@ collection_blocks:
     color: '#f8e8dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-5.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -58,9 +67,9 @@ collection_blocks:
     color: '#d5d3c6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_sports-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-6.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -130,6 +139,24 @@ collection_blocks:
     color: '#fbfbf9'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-7.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#fbfbf9'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-8.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#fbfbf9'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-15.jpg
     width: '15'
     margin_y: '50'
@@ -148,7 +175,7 @@ collection_blocks:
     color: '#fcebeb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_sport-overview-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-9.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -166,6 +193,15 @@ collection_blocks:
     color: '#bb0412'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-20.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e0c6ca'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-18.jpg
     width: '15'
     margin_y: '50'
@@ -175,22 +211,13 @@ collection_blocks:
     color: '#ffe29b'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-10.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    align_y:
-    color: '#e5d4cb'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-20.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#e0c6ca'
+    align_y: start
+    color: '#ddefec'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202502_sportsupdate-4.jpg
@@ -238,6 +265,15 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-11.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#eff5f6'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-sport-2.jpg
     width: '15'
     margin_y: '50'
@@ -265,7 +301,7 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_sports-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-12.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -274,7 +310,7 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-13.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -283,58 +319,31 @@ collection_blocks:
     color: '#e4ebed'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-27.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-40.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e6eeec'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-39.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#edf1e9'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-14.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-1.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#edeff2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-28.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#ddefec'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-29.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f1efed'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-30.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#eb2f36'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-31.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4f4eb'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-32.jpg
@@ -373,13 +382,22 @@ collection_blocks:
     color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-36.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-15.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#1c1914'
+    color: '#f4f4eb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-16.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#c22b2c'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-3.jpg
@@ -391,40 +409,31 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-37.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-36.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#ddd9dd'
+    color: '#1c1914'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-39.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-17.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#edf1e9'
+    color: '#eb2f36'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-40.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-18.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#e6eeec'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-41.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#c22b2c'
+    color: '#f1efed'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-42.jpg
@@ -434,6 +443,15 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#eb2f36'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-19.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#edeff2'
     caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-4.jpg
