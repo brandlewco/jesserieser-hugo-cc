@@ -605,9 +605,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_overview-3.jpg
-    width: '35'
-    margin_y: '50'
-    margin_left: '35'
+    width: '30'
+    margin_y: '100'
+    margin_left: '40'
     margin_right: '0'
     align_y:
     color: '#e0c6ca'
