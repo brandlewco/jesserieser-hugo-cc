@@ -191,7 +191,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-14.jpg
-    width: '45'
+    width: '40'
     margin_y: '100'
     margin_left: '40'
     margin_right: '0'
@@ -203,6 +203,17 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_landscape-overview-15.jpg
     width: '45'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '5'
+    align_y: center
+    color: '#b0d5ef'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_landscape-7.jpg
+    width: '60'
     margin_y: '100'
     margin_left: '50'
     margin_right: '5'
