@@ -22,7 +22,39 @@ collection_blocks:
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-1.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1137957648
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: true
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-2.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-3.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -31,36 +63,45 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travel-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-25.jpg
     width: '15'
     margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#afb1b7'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-4.jpg
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-5.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-6.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#9d0310'
+    color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-5.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -83,6 +124,15 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#eefbe7'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-4.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#9d0310'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
@@ -139,7 +189,16 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-8.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#fbfbf9'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-9.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -184,7 +243,16 @@ collection_blocks:
     color: '#e7edf4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travelb-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e7edf4'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-10.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -202,7 +270,7 @@ collection_blocks:
     color: '#faede1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_travel-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-11.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -220,7 +288,7 @@ collection_blocks:
     color: '#e8ccb4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-12.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -229,31 +297,13 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travel-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-13.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#e8ccb4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-travel-5.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#e8ccb4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-20.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#eae2cc'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_travel-3.jpg
@@ -265,13 +315,13 @@ collection_blocks:
     color: '#bb0412'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-14.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#ffe29b'
+    color: '#e8ccb4'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-23.jpg
@@ -283,6 +333,42 @@ collection_blocks:
     color: '#e5d4cb'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-15.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e5d4cb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-16.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e5d4cb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-22.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#ffe29b'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-17.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-24.jpg
     width: '15'
     margin_y: '50'
@@ -290,15 +376,6 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#e0c6ca'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-25.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#afb1b7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-26.jpg
@@ -355,6 +432,33 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-18.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#f1efed'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-19.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#f1efed'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-20.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#eae2cc'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-31.jpg
     width: '15'
     margin_y: '50'
@@ -373,13 +477,13 @@ collection_blocks:
     color: '#ddefec'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_travel-20.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#f1efed'
+    color: '#ddefec'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-35.jpg
@@ -407,15 +511,6 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#cfe0db'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-39.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-40.jpg
