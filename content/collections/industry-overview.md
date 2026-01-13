@@ -355,7 +355,7 @@ collection_blocks:
     color: '#f0ecdd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-16.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -364,7 +364,7 @@ collection_blocks:
     color: '#aaaaaa'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-17.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
