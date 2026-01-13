@@ -594,10 +594,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-25.jpg
-    width: '35'
-    margin_y: '600'
+    width: '30'
+    margin_y: '750'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y:
     color: '#e0c6ca'
     caption: ''
