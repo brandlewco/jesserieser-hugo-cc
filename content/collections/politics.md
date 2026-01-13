@@ -114,15 +114,6 @@ collection_blocks:
     color: '#ffffff'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-10.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#e9e9e9'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-11.jpg
     width: '15'
     margin_y: '50'
@@ -132,7 +123,34 @@ collection_blocks:
     color: '#f3f2f0'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-10.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#e9e9e9'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-12.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#d0d0d0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#d0d0d0'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-2.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -213,15 +231,6 @@ collection_blocks:
     color: '#cccccc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-19.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#fcfafb'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-20.jpg
     width: '15'
     margin_y: '50'
@@ -267,6 +276,33 @@ collection_blocks:
     color: '#ffe1d7'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-3.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d2d2d2'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-19.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#fcfafb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-4.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#fcfafb'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-24.jpg
     width: '15'
     margin_y: '50'
@@ -285,16 +321,16 @@ collection_blocks:
     color: '#ffffff'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-27.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    align_y: center
-    color: '#d2d2d2'
+    align_y: start
+    color: '#f0ecdd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-27.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-5.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -321,7 +357,7 @@ collection_blocks:
     color: '#aaaaaa'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-30.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-6.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -429,6 +465,15 @@ collection_blocks:
     color: '#ababab'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-7.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#5f5547'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-43.jpg
     width: '15'
     margin_y: '50'
@@ -445,15 +490,6 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#e9e9e9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-47.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-45.jpg
@@ -474,7 +510,7 @@ collection_blocks:
     color: '#0b0b0b'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-49.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-8.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -483,13 +519,13 @@ collection_blocks:
     color: '#dbdfdc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-50.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_politics-9.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
-    align_y:
-    color: '#5f5547'
+    align_y: start
+    color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-48.jpg
