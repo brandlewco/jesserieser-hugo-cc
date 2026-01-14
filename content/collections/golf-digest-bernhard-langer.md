@@ -18,9 +18,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-1.jpg
-    width: '40'
+    width: '90'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#edd7b2'
@@ -29,9 +29,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-2.jpg
-    width: '40'
+    width: '33'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#e2cfef'
@@ -39,7 +39,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
     width: '25'
-    margin_y: '500'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '25'
     align_y:
@@ -49,29 +49,29 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-4.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: '20'
+    margin_y: '250'
+    margin_left: '0'
+    margin_right: '15'
     align_y:
     color: '#d9e3f4'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-6.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '0'
+    width: '35'
+    margin_y: '100'
+    margin_left: '35'
     margin_right: '20'
     align_y:
     color: '#e6f3e6'
@@ -91,19 +91,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-8.jpg
-    width: '20'
+    width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#ffe5c9'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-9.jpg
-    width: '45'
+    width: '35'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     align_y:
     color: '#ebd1ef'
     caption: ''
@@ -113,52 +113,52 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-10.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
+    width: '30'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#cef8e1'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-11.jpg
     width: '25'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
     align_y:
     color: '#f9d4c0'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-13.jpg
-    width: '20'
+    width: '25'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y:
-    color: '#c2f4f4'
+    color: '#f4d4d3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-13.jpg
     width: '30'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '30'
+    align_y:
+    color: '#c2f4f4'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-14.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#f0d0cf'
     caption: ''
