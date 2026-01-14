@@ -16,6 +16,7 @@ collection_sorter:
   - collections/the-new-yorker.md
   - collections/hermès.md
   - collections/armani-anniversary.md
+  - collections/golf-digest-bernhard-langer.md
   - collections/espn-devin-booker-cover-story.md
   - collections/christianity-today.md
   - collections/a-ghost.md
