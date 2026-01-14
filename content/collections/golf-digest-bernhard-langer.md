@@ -1,8 +1,12 @@
 ---
 _schema: default
 seo:
-  meta_description:
-  meta_title: A Son's First Hunt for Outdoor Life
+  meta_description: >-
+    Photographer Jesse Rieser photographs golf legend Bernhard Langer for the
+    cover of Golf Digest
+  meta_title: >-
+    Photographer Jesse Rieser photographs golf legend Bernhard Langer for the
+    cover of Golf Digest
 title: Golf Digest Bernhard Lang
 collection_meta: Bernhard Langer
 collection_meta_2: The Age(less) Golfer
