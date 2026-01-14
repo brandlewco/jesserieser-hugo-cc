@@ -8,9 +8,12 @@ seo:
     Photographer Jesse Rieser photographs golf legend Bernhard Langer for the
     cover of Golf Digest
 title: 'Golf Digest '
-collection_meta: Bernhard Langer
+collection_meta: 'Bernhard Langer:'
 collection_meta_2: The Age(less) Golfer
-collection_description: My advice for playing this game for decades to come.
+collection_description: >-
+  Bernhard Langer is the oldest player to win a PGA Tour Champions event. At 68,
+  the legendary golfer shares his insights and tips for longevity, success, and
+  fulfillment in the game.
 collection_description_alignment: center
 slug: gd-langer
 collection_blocks:
