@@ -186,14 +186,14 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-14.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/outdoor_redo-3x4-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-14.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-13.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-15.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-7.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
   usual hunting buddy behind. ⁠
