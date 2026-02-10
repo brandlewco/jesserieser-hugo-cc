@@ -3,7 +3,7 @@ _schema: default
 seo:
   meta_description: San Luis Regional Ice Detention Center for The New York Times
   meta_title: San Luis Regional Ice Detention Center for The New York Times
-title: The New York Times Ice
+title: The New York Times
 collection_meta: San Luis Regional ICE Detention Center
 collection_meta_2: The System Is Meant to Break You
 collection_description: >-
@@ -20,7 +20,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice-1.jpg
     width: '40'
     margin_y: '100'
     margin_left: '30'
@@ -31,7 +31,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-2.jpg
     width: '40'
     margin_y: '100'
     margin_left: '5'
@@ -40,7 +40,7 @@ collection_blocks:
     color: '#e2cfef'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-3.jpg
     width: '25'
     margin_y: '500'
     margin_left: '0'
@@ -50,19 +50,10 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-4.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f9d5d3'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-4.jpg
     width: '30'
     margin_y: '100'
     margin_left: '5'
@@ -71,7 +62,7 @@ collection_blocks:
     color: '#d9e3f4'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-5.jpg
     width: '40'
     margin_y: '600'
     margin_left: '0'
@@ -81,74 +72,20 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-overviewupdate-3.jpg
-    width: '66'
-    margin_y: '50'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-8.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#ffe5c9'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-9.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '20'
-    align_y:
-    color: '#ebd1ef'
-    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-10.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '45'
-    margin_right: '0'
-    align_y:
-    color: '#cef8e1'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f9d4c0'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-12.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-6.jpg
     width: '20'
     margin_y: '100'
     margin_left: '10'
@@ -157,7 +94,7 @@ collection_blocks:
     color: '#c2f4f4'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-7.jpg
     width: '30'
     margin_y: '300'
     margin_left: '0'
@@ -168,7 +105,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-8.jpg
     width: '40'
     margin_y: '100'
     margin_left: '35'
@@ -185,8 +122,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/horizontal-07-3.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202309_vertical-covers-3-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-10.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-11.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
