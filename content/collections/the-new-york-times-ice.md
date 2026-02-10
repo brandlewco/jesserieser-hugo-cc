@@ -117,8 +117,36 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1163726847
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1163728384
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '50'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
