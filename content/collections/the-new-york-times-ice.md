@@ -30,43 +30,57 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1163726847
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 4x5
+    width: '35'
+    align_y: start
+    margin_y: '500'
+    margin_left: '15'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-2.jpg
-    width: '40'
+    width: '25'
     margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '20'
     align_y:
     color: '#e2cfef'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-3.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '25'
+    width: '30'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#cdf3ec'
     caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-4.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: '20'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#d9e3f4'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-5.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '20'
+    width: '35'
+    margin_y: '100'
+    margin_left: '45'
+    margin_right: '0'
     align_y:
     color: '#e6f3e6'
     caption:
@@ -82,55 +96,17 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-6.jpg
-    width: '20'
+    width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#c2f4f4'
     caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-7.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '30'
-    align_y:
-    color: '#f0d0cf'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-8.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#d9e3f4'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1163726847
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
-    align_y: start
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-motion
@@ -141,12 +117,36 @@ collection_blocks:
     attached_collection: collections/xmas-in-america.md
     color: '#000000'
     show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
+    block_aspect_ratio: 4x5
+    width: '35'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '0'
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-7.jpg
+    width: '25'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '30'
+    align_y:
+    color: '#f0d0cf'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-8.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y:
+    color: '#d9e3f4'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
