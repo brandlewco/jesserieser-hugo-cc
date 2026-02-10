@@ -4,7 +4,7 @@ seo:
   meta_description: San Luis Regional Ice Detention Center for The New York Times
   meta_title: San Luis Regional Ice Detention Center for The New York Times
 title: The New York Times
-collection_meta: San Luis Regional ICE Detention Center
+collection_meta: 'San Luis ICE Detention Center:'
 collection_meta_2: The System Is Meant to Break You
 collection_description: >-
   The videos circulating on social media are brutal and terrifying — the often
@@ -127,18 +127,15 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-11.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Lifestyle
-  - Portraits
   - Color
-  - Gun Culture
-  - Sports + Athletes
-  - Travel
-  - Award Winning
+  - Environments
+  - Reportage
+  - Motion
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-1.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/outdoor_redo-3x4-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-14.jpg
@@ -176,7 +173,7 @@ collection_overview: false
 collection_grid: false
 collection_dark: false
 collection_hidden: false
-hide_footer: false
+hide_footer: true
 navigation_theme: white
 px_extra: true
 row_alignment: between
