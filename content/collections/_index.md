@@ -64,4 +64,5 @@ archive_sorter:
   - collections/wallow-fire.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
+  - collections/vox-ghosttowns.md
 ---
