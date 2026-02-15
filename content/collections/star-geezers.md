@@ -171,7 +171,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
-    text: caption
+    text:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
