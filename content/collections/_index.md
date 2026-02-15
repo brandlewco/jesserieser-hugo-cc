@@ -10,13 +10,13 @@ collection_sorter:
   - collections/vanishing-folklore-2.md
   - collections/southern-living.md
   - collections/switchyard-copy.md
-  - collections/the-new-yorker.md
+  - collections/outdoor-life.md
   - collections/retail.md
   - collections/switchyard.md
   - collections/hermès.md
+  - collections/the-new-yorker.md
   - collections/guns-pizza.md
   - collections/xmas-in-america.md
-  - collections/outdoor-life.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
   - collections/espn-devin-booker-cover-story.md
