@@ -8,7 +8,6 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
-  - collections/southern-living.md
   - collections/switchyard-copy.md
   - collections/switchyard.md
   - collections/retail.md
@@ -17,6 +16,7 @@ collection_sorter:
   - collections/guns-pizza.md
   - collections/outdoor-life.md
   - collections/xmas-in-america.md
+  - collections/southern-living.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
   - collections/espn-devin-booker-cover-story.md
