@@ -8,15 +8,15 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
-  - collections/guns-pizza.md
-  - collections/xmas-in-america.md
-  - collections/retail.md
-  - collections/switchyard.md
-  - collections/outdoor-life.md
   - collections/southern-living.md
   - collections/switchyard-copy.md
   - collections/the-new-yorker.md
+  - collections/retail.md
+  - collections/switchyard.md
   - collections/hermès.md
+  - collections/guns-pizza.md
+  - collections/xmas-in-america.md
+  - collections/outdoor-life.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
   - collections/espn-devin-booker-cover-story.md
