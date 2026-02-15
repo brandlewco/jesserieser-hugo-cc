@@ -10,12 +10,12 @@ collection_sorter:
   - collections/vanishing-folklore-2.md
   - collections/southern-living.md
   - collections/switchyard-copy.md
-  - collections/outdoor-life.md
-  - collections/retail.md
   - collections/switchyard.md
+  - collections/retail.md
   - collections/hermès.md
   - collections/the-new-yorker.md
   - collections/guns-pizza.md
+  - collections/outdoor-life.md
   - collections/xmas-in-america.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
