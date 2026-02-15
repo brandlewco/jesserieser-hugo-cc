@@ -13,9 +13,7 @@ collection_sorter:
   - collections/retail.md
   - collections/hermès.md
   - collections/the-new-yorker.md
-  - collections/guns-pizza.md
   - collections/outdoor-life.md
-  - collections/xmas-in-america.md
   - collections/southern-living.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
@@ -29,6 +27,8 @@ collection_sorter:
   - collections/road-and-track.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/fights.md
+  - collections/xmas-in-america.md
+  - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy-2.md
