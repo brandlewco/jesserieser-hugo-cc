@@ -8,13 +8,9 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
-  - collections/switchyard-copy.md
   - collections/switchyard.md
   - collections/retail.md
   - collections/hermès.md
-  - collections/the-new-yorker.md
-  - collections/outdoor-life.md
-  - collections/southern-living.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
   - collections/espn-devin-booker-cover-story.md
@@ -22,6 +18,10 @@ collection_sorter:
   - collections/a-ghost.md
   - collections/the-new-york-times-ice.md
   - collections/armani-anniversary-copy.md
+  - collections/outdoor-life.md
+  - collections/switchyard-copy.md
+  - collections/southern-living.md
+  - collections/the-new-yorker.md
   - collections/golfdigest-nicklaus.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
