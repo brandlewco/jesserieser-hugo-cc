@@ -8,11 +8,13 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
+  - collections/guns-pizza.md
+  - collections/xmas-in-america.md
+  - collections/retail.md
+  - collections/switchyard.md
   - collections/outdoor-life.md
   - collections/southern-living.md
   - collections/switchyard-copy.md
-  - collections/switchyard.md
-  - collections/retail.md
   - collections/the-new-yorker.md
   - collections/hermès.md
   - collections/armani-anniversary.md
@@ -27,8 +29,6 @@ collection_sorter:
   - collections/road-and-track.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/fights.md
-  - collections/xmas-in-america.md
-  - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy-2.md
@@ -64,5 +64,4 @@ archive_sorter:
   - collections/wallow-fire.md
   - collections/starting-over.md
   - collections/the-class-of-99-turns-30.md
-  - collections/vox-ghosttowns.md
 ---
