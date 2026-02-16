@@ -19,9 +19,8 @@ collection_sorter:
   - collections/golf-digest-bernhard-langer.md
   - collections/christianity-today.md
   - collections/a-ghost.md
-  - collections/armani-anniversary-copy.md
-  - collections/southern-living.md
   - collections/golfdigest-nicklaus.md
+  - collections/southern-living.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
   - collections/golf-digest-best-little-golf-towns.md
@@ -35,6 +34,7 @@ collection_sorter:
   - collections/aarp.md
   - collections/amtrak-southwest-chief.md
   - collections/bloomberg-nomads.md
+  - collections/armani-anniversary-copy.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
   - collections/vox-100-battles-ghost-towns.md
