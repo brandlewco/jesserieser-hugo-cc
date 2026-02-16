@@ -8,26 +8,26 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
-  - collections/switchyard.md
-  - collections/retail.md
-  - collections/hermès.md
-  - collections/armani-anniversary.md
-  - collections/golf-digest-bernhard-langer.md
-  - collections/espn-devin-booker-cover-story.md
-  - collections/christianity-today.md
-  - collections/a-ghost.md
-  - collections/the-new-york-times-ice.md
-  - collections/armani-anniversary-copy.md
   - collections/outdoor-life.md
   - collections/switchyard-copy.md
+  - collections/switchyard.md
+  - collections/the-new-york-times-ice.md
+  - collections/retail.md
+  - collections/hermès.md
+  - collections/espn-devin-booker-cover-story.md
+  - collections/armani-anniversary.md
+  - collections/golf-digest-bernhard-langer.md
+  - collections/christianity-today.md
+  - collections/a-ghost.md
+  - collections/armani-anniversary-copy.md
   - collections/southern-living.md
-  - collections/the-new-yorker.md
   - collections/golfdigest-nicklaus.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/fights.md
   - collections/xmas-in-america.md
+  - collections/the-new-yorker.md
   - collections/guns-pizza.md
   - collections/bloomberg-nomads-copy.md
   - collections/smithsonian.md
