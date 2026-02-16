@@ -74,15 +74,6 @@ collection_blocks:
     margin_right: '0'
     text: ''
     image:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/dhop-07-1.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '15'
-    align_y:
-    color: '#f2e1e1'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -123,22 +114,6 @@ collection_blocks:
     image:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267612
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '50'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    text: ''
-    image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
