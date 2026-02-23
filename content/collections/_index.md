@@ -27,11 +27,9 @@ collection_sorter:
   - collections/xmas-in-america.md
   - collections/the-new-yorker.md
   - collections/guns-pizza.md
-  - collections/bloomberg-nomads-copy.md
   - collections/smithsonian.md
-  - collections/bloomberg-nomads-copy-2.md
+  - collections/bloomberg-nomads-copy.md
   - collections/aarp.md
-  - collections/amtrak-southwest-chief.md
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
   - collections/barrons-lake-mead-drought.md
@@ -56,4 +54,5 @@ archive_sorter:
   - collections/wired-bitmain.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/bloomberg-nomads-copy-2.md
+  - collections/amtrak-southwest-chief.md
 ---
