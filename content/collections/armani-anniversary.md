@@ -21,97 +21,40 @@ collection_blocks:
     color: '#ff0000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '80'
+    width: '70'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     text: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    align_y:
-    color: '#D9E6F4'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267733
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '45'
-    align_y: start
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    text: ''
-    image:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267876
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '33'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    text: ''
-    image:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-7.jpg
-    width: '55'
+    width: '50'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '5'
     margin_right: '0'
     align_y:
-    color: '#E9E8F2'
+    color: '#e9e8f2'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
+    width: '33'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#d9e6f4'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-6.jpg
-    width: '25'
-    margin_y: '300'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#E2ECFC'
-    caption:
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 736267817
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color:
-    show_controls: false
-    block_aspect_ratio:
-    width: '30'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '30'
-    text: ''
-    image:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
