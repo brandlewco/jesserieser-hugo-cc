@@ -29,9 +29,9 @@ collection_sorter:
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy.md
   - collections/aarp.md
+  - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
-  - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/autobiography.md
