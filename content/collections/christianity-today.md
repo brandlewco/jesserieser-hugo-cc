@@ -28,15 +28,6 @@ collection_blocks:
     align_y:
     color: '#edd7b2'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-2.jpg
-    width: '25'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '10'
-    align_y:
-    color: '#e2cfef'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -84,34 +75,16 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-7.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-8.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '25'
-    align_y:
-    color: '#ffe5c9'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-9.jpg
-    width: '40'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y:
-    color: '#ebd1ef'
+    color: '#cff1f3'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
