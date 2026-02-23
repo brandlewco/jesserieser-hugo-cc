@@ -61,35 +61,15 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-6.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#d9e3f4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-7.jpg
-    width: '30'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '25'
-    align_y:
-    color: '#e6f3e6'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-8.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-9.jpg
-    width: '35'
-    margin_y: '100'
+    width: '45'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -98,10 +78,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-8.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y:
+    color: '#cff1f3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-10.jpg
     width: '20'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#ebd1ef'
@@ -111,7 +102,7 @@ collection_blocks:
     width: '30'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '25'
     align_y:
     color: '#cef8e1'
     caption: ''
@@ -123,7 +114,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-12.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f9d4c0'
@@ -131,20 +122,11 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/jr_costco_redo-1.jpg
-    width: '20'
-    margin_y: '600'
-    margin_left: '40'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-14.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#c2f4f4'
     caption: ''
@@ -152,15 +134,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-15.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#f0d0cf'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
