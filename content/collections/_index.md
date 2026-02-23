@@ -11,6 +11,7 @@ collection_sorter:
   - collections/switchyard.md
   - collections/the-new-york-times-ice.md
   - collections/guns-pizza.md
+  - collections/fights.md
   - collections/outdoor-life.md
   - collections/switchyard-copy.md
   - collections/retail.md
@@ -18,13 +19,12 @@ collection_sorter:
   - collections/espn-devin-booker-cover-story.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
-  - collections/christianity-today.md
   - collections/golfdigest-nicklaus.md
+  - collections/christianity-today.md
   - collections/southern-living.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
   - collections/golf-digest-best-little-golf-towns.md
-  - collections/fights.md
   - collections/xmas-in-america.md
   - collections/the-new-yorker.md
   - collections/smithsonian.md
