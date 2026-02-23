@@ -395,8 +395,11 @@ theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-6.jpg
