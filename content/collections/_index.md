@@ -39,7 +39,6 @@ collection_sorter:
 archive_sorter:
   - collections/star-geezers.md
   - collections/stalking-a-serial-killer.md
-  - collections/time.md
   - collections/phoenix-open-espn.md
   - collections/phoenix.md
   - collections/smartwater.md
