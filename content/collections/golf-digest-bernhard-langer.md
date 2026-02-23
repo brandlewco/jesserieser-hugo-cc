@@ -94,61 +94,39 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-8.jpg
-    width: '30'
+    width: '50'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#ffe5c9'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-9.jpg
-    width: '35'
-    margin_y: '400'
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1167473478
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 1x1
+    width: '33'
+    align_y: start
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '25'
-    align_y:
-    color: '#ebd1ef'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-10.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '25'
     margin_right: '0'
-    align_y:
-    color: '#cef8e1'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-11.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y:
-    color: '#f9d4c0'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-12.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#f4d4d3'
-    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-13.jpg
     width: '30'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '30'
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '0'
     align_y:
     color: '#c2f4f4'
     caption: ''
