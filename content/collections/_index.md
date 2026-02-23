@@ -24,7 +24,6 @@ collection_sorter:
   - collections/southern-living.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
-  - collections/golf-digest-best-little-golf-towns.md
   - collections/xmas-in-america.md
   - collections/the-new-yorker.md
   - collections/smithsonian.md
@@ -34,6 +33,7 @@ collection_sorter:
   - collections/armani-anniversary-copy.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
+  - collections/golf-digest-best-little-golf-towns.md
   - collections/autobiography.md
   - collections/adidas-golf.md
 archive_sorter:
