@@ -47,11 +47,9 @@ archive_sorter:
   - collections/wired.md
   - collections/amtrak-texas-eagle.md
   - collections/amtrak-the-national.md
-  - collections/wallow-fire.md
-  - collections/starting-over.md
-  - collections/the-class-of-99-turns-30.md
   - collections/wired-bitmain.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/amtrak-southwest-chief.md
+  - collections/wallow-fire.md
 ---
