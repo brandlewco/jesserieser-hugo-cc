@@ -222,9 +222,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-28.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-12.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-29.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
 collection_content: ''
 collection_awards:
   - content: >-
