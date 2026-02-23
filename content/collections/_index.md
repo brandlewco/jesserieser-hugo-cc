@@ -37,8 +37,6 @@ collection_sorter:
   - collections/armani-anniversary-copy.md
   - collections/barrons-lake-mead-drought.md
   - collections/antoine-s-escalaras-copy.md
-  - collections/vox-100-battles-ghost-towns.md
-  - collections/wired-bitmain.md
   - collections/autobiography.md
   - collections/adidas-golf.md
 archive_sorter:
@@ -66,4 +64,5 @@ archive_sorter:
   - collections/the-class-of-99-turns-30.md
   - collections/wired-bitmain.md
   - collections/vox-100-battles-ghost-towns.md
+  - collections/bloomberg-nomads-copy-2.md
 ---
