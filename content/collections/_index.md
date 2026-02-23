@@ -8,10 +8,11 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
-  - collections/outdoor-life.md
-  - collections/switchyard-copy.md
   - collections/switchyard.md
   - collections/the-new-york-times-ice.md
+  - collections/guns-pizza.md
+  - collections/outdoor-life.md
+  - collections/switchyard-copy.md
   - collections/retail.md
   - collections/hermès.md
   - collections/espn-devin-booker-cover-story.md
@@ -26,7 +27,6 @@ collection_sorter:
   - collections/fights.md
   - collections/xmas-in-america.md
   - collections/the-new-yorker.md
-  - collections/guns-pizza.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy.md
   - collections/aarp.md
