@@ -40,14 +40,14 @@ archive_sorter:
   - collections/star-geezers.md
   - collections/wired-bitmain.md
   - collections/stalking-a-serial-killer.md
-  - collections/phoenix-open-espn.md
   - collections/phoenix.md
   - collections/smartwater.md
+  - collections/amtrak-southwest-chief.md
+  - collections/bloomberg-nomads-copy-2.md
   - collections/the-new-york-times-2.md
   - collections/barron-s-las-vegas-reopenning.md
-  - collections/wired.md
+  - collections/phoenix-open-espn.md
   - collections/vox-100-battles-ghost-towns.md
-  - collections/bloomberg-nomads-copy-2.md
-  - collections/amtrak-southwest-chief.md
+  - collections/wired.md
   - collections/wallow-fire.md
 ---
