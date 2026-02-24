@@ -16,7 +16,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 960736431
-    caption: caption
+    caption:
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
@@ -220,7 +220,7 @@ collection_blocks:
     margin_y: '600'
     margin_left: '0'
     margin_right: '5'
-    text: caption
+    text:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -457,7 +457,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-    text: caption
+    text:
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-2.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/aarp-flood_covers-1.jpg
