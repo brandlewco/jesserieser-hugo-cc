@@ -40,7 +40,6 @@ collection_sorter:
 archive_sorter:
   - collections/star-geezers.md
   - collections/wired-bitmain.md
-  - collections/amtrak-southwest-chief.md
   - collections/stalking-a-serial-killer.md
   - collections/phoenix.md
   - collections/smartwater.md
