@@ -302,10 +302,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-95.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-96.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-97.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-95.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-98.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-99.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-98.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-95.jpg
 collection_content: >-
   This commission touches on something I think a lot about- how will “Main
   Street” and the idyllic small towns of America’s yesterday survive tomorrow?
