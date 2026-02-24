@@ -84,20 +84,6 @@ collection_blocks:
     align_y: center
     color: '#d9d1ce'
     caption: ''
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1086874377
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '15'
-    align_y: center
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-5.jpg
     width: '15'
@@ -251,20 +237,6 @@ collection_blocks:
     align_y: center
     color: '#e0eae7'
     caption: ''
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1086148559
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '15'
-    align_y: center
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-12.jpg
     width: '15'
