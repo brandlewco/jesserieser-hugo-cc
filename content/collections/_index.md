@@ -39,10 +39,10 @@ collection_sorter:
 archive_sorter:
   - collections/star-geezers.md
   - collections/wired-bitmain.md
+  - collections/amtrak-southwest-chief.md
   - collections/stalking-a-serial-killer.md
   - collections/phoenix.md
   - collections/smartwater.md
-  - collections/amtrak-southwest-chief.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/the-new-york-times-2.md
   - collections/barron-s-las-vegas-reopenning.md
