@@ -27,7 +27,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
     width: '45'
     margin_y: '100'
     margin_left: '15'
@@ -47,7 +47,7 @@ collection_blocks:
     color: '#f9f2e8'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-4.jpg
     width: '45'
     margin_y: '300'
     margin_left: '0'
@@ -58,81 +58,61 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-5.jpg
     width: '30'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '400'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
+    color: '#f6e0d2'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
     color: '#f6e0d2'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-7.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '10'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-7.jpg
+    width: '45'
+    margin_y: '200'
+    margin_left: '5'
     margin_right:
-    align_y: center
+    align_y: start
     color: '#efefef'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-8.jpg
-    width: '33'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-8.jpg
+    width: '45'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '20'
-    align_y: center
+    margin_right: '5'
+    align_y: start
     color: '#ebf2f4'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-10.jpg
-    width: '20'
-    margin_y: '900'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#f6e6dd'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-4.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#f5f1ee'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-26.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right:
-    align_y: start
-    color: '#fcefe6'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-17.jpg
+    width: '50'
+    margin_y: '200'
+    margin_left: '35'
+    margin_right: '5'
     align_y: center
-    color: '#ecebe1'
-    caption: ''
+    color: '#e7c0ae'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-12.jpg
     width: '30'
-    margin_y: '700'
-    margin_left: '25'
+    margin_y: '500'
+    margin_left: '20'
     margin_right:
     align_y: start
     color: '#cf7861'
@@ -142,76 +122,106 @@ collection_blocks:
     width: '40'
     margin_y: '100'
     margin_left: '0'
-    margin_right:
+    margin_right: '5'
     align_y: start
     color: '#caaead'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-2.jpg
-    width: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_1223_redo-4.jpg
+    width: '50'
     margin_y: '100'
     margin_left: '35'
-    margin_right: '5'
-    align_y: center
-    color: '#e7c0ae'
+    margin_right: '0'
+    align_y: start
+    color: '#f5f1ee'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-15.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right:
+    align_y: start
+    color: '#fcefe6'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-16.jpg
+    width: '30'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: center
+    color: '#ecebe1'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-15.jpg
     width: '25'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right:
+    margin_y: '500'
+    margin_left: '25'
+    margin_right: '0'
     align_y: start
     color: '#f3e1d1'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-6.jpg
-    width: '50'
-    margin_y: '300'
+    width: '40'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
-    align_y: center
+    margin_right: '5'
+    align_y: start
     color: '#ccccd3'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-17.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right:
-    align_y: center
-    color: '#E3E7C9'
-    caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-20.jpg
     width: '50'
-    margin_y: '400'
-    margin_left: '5'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#d5e0e9'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-21.jpg
     width: '25'
-    margin_y: '100'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#e0eae9'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-17.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right:
+    align_y: center
+    color: '#e3e7c9'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-23.jpg
     width: '33'
     margin_y: '100'
     margin_left: '40'
@@ -242,12 +252,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-23.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-26.jpg
+    width: '35'
+    margin_y: '400'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
+    color: '#d8e4e4'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-23.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
     color: '#d8e4e4'
     caption:
   - _bookshop_name: collections/media-row
@@ -255,29 +274,67 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-28.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#f9f0f6'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-26.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right:
+    align_y: start
+    color: '#fcefe6'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
+    width: '40'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: center
+    color: '#ecebe1'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-30.jpg
+    width: '40'
+    margin_y: '300'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: start
+    color: '#ebe3eb'
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-27.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#faf4ea'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-28.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-32.jpg
+    width: '33'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#ebe3eb'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-32.jpg
     width: '33'
     margin_y: '400'
     margin_left: '0'
