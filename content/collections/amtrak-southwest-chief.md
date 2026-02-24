@@ -398,8 +398,8 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-36.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-87.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-33.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-85.jpg
