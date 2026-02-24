@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: Landscape 2 Overview
+  meta_title: Landscape Overview
 title: Landscape
 collection_meta:
 collection_meta_2:
@@ -256,7 +256,7 @@ collection_blocks:
     color: '#fbe6df'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-10.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/landscapethumbs-19.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-10.jpg
 collection_filter: Personal
 collection_category:
