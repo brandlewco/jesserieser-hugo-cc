@@ -4,12 +4,12 @@ seo:
   meta_description:
   meta_title: 'Amtrak : Where Amtrak Can Take You'
 title: Amtrak
-collection_meta: 'The Southwest Chief:'
-collection_meta_2: Where Amtrak Can Take You
+collection_meta: Where
+collection_meta_2: Amtrak Can Take You
 collection_description: >-
-  A project celebrating the romanticism of train travel and the light of the
-  Southwest as a unifying ingredient—taking you from inside the train, out the
-  window and the places Amtrak’s Southwest Chief can take you.
+  A commissioned project celebrating the romanticism of train travel and the
+  light of the Southwest as a unifying ingredient—taking you from inside the
+  train, out the window and the places Amtraks can take you.
 collection_description_alignment: left
 slug: southwest-chief
 collection_blocks:
@@ -359,18 +359,20 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-35.jpg
-    width: '30'
-    margin_y: '200'
-    margin_left: '10'
+    width: '40'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#ebe3eb'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-36.jpg
-    width: '33'
-    margin_y: '200'
-    margin_left: '10'
+    width: '50'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#ebe3eb'
