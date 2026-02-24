@@ -360,7 +360,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-35.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '30'
     margin_right: '0'
     align_y: start
@@ -370,9 +370,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-36.jpg
-    width: '50'
+    width: '60'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#ebe3eb'
