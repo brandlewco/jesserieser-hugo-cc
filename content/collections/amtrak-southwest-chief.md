@@ -79,8 +79,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-7.jpg
-    width: '45'
-    margin_y: '200'
+    width: '35'
+    margin_y: '100'
     margin_left: '5'
     margin_right:
     align_y: start
@@ -88,8 +88,8 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-8.jpg
-    width: '45'
-    margin_y: '200'
+    width: '50'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -101,9 +101,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-17.jpg
-    width: '50'
-    margin_y: '200'
-    margin_left: '35'
+    width: '40'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '5'
     align_y: center
     color: '#e7c0ae'
@@ -399,6 +399,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-36.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-87.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-33.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
