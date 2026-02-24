@@ -38,6 +38,7 @@ collection_sorter:
   - collections/adidas-golf.md
 archive_sorter:
   - collections/star-geezers.md
+  - collections/wired-bitmain.md
   - collections/stalking-a-serial-killer.md
   - collections/phoenix-open-espn.md
   - collections/phoenix.md
@@ -45,9 +46,6 @@ archive_sorter:
   - collections/the-new-york-times-2.md
   - collections/barron-s-las-vegas-reopenning.md
   - collections/wired.md
-  - collections/amtrak-texas-eagle.md
-  - collections/amtrak-the-national.md
-  - collections/wired-bitmain.md
   - collections/vox-100-battles-ghost-towns.md
   - collections/bloomberg-nomads-copy-2.md
   - collections/amtrak-southwest-chief.md
