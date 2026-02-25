@@ -702,8 +702,7 @@ collection_content: >-
   Articulating a collective sense of helplessness is challenging, but
   understanding it is presumably easy as we witness what appears to be a
   solvable problem escalating into frequent and repetitive disasters with little
-  to no action, yielding a numbness fostered by complacency and grotesque
-  apathy.
+  to no action, yielding a numbness fostered by complacency and apathy.
 collection_awards: []
 collection_press: []
 collection_exhibition: []
