@@ -30,6 +30,7 @@ collection_sorter:
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy.md
   - collections/aarp.md
+  - collections/business-insider.md
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
@@ -37,7 +38,6 @@ collection_sorter:
   - collections/golf-digest-best-little-golf-towns.md
   - collections/autobiography.md
   - collections/adidas-golf.md
-  - collections/business-insider.md
 archive_sorter:
   - collections/star-geezers.md
   - collections/wired-bitmain.md
