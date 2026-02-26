@@ -37,6 +37,7 @@ collection_sorter:
   - collections/golf-digest-best-little-golf-towns.md
   - collections/autobiography.md
   - collections/adidas-golf.md
+  - collections/business-insider.md
 archive_sorter:
   - collections/star-geezers.md
   - collections/wired-bitmain.md
