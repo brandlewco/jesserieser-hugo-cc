@@ -375,10 +375,10 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 4x5
-    width: '30'
+    width: '35'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '600'
+    margin_left: '15'
     margin_right: '0'
   - _bookshop_name: home/media-feature
     title:
@@ -406,34 +406,12 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: A Ghost In the Graveyard Made of Thorns
-    attached_collection: collections/the-new-york-times-ice.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-6.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#d4dee6'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
     meta: 'The New Yorker: Can the Golden Age of Costco Last?'
     attached_collection: collections/the-new-yorker.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
-    width: '30'
+    width: '25'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -687,7 +665,7 @@ content_blocks:
     title:
     meta: 'Smithsonian: Kitt Peak National Observatory '
     attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-16.jpg
     width: '60'
     margin_y: '400'
     margin_left: '0'
@@ -731,10 +709,10 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-feature
     title:
-    meta: 'The New York Times: In Search of Boring Business'
+    meta: 'Amtrak: Where Amtrak Can Take You'
     attached_collection: collections/bloomberg-nomads-copy-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-26.jpg
+    width: '35'
     margin_y: '200'
     margin_left: '0'
     margin_right: '0'
