@@ -21,7 +21,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-1.jpg
     width: '55'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: ''
     align_y: ''
     color: '#dce3f3'
@@ -31,9 +31,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-2.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '5'
+    width: '35'
+    margin_y: '400'
+    margin_left: '30'
     margin_right: '0'
     align_y: ''
     color: '#f0f3d4'
@@ -41,10 +41,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-3.jpg
-    width: '33'
+    width: '25'
     margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#efcab3'
     caption: ''
@@ -53,20 +53,20 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-4.jpg
-    width: '25'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '25'
+    width: '33'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
     align_y: ''
     color: '#f8ebcc'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-5.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    width: '15'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '40'
     align_y: ''
     color: '#dcedf8'
     caption: ''
@@ -77,9 +77,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-6.jpg
-    width: '90'
+    width: '60'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#f4dfe7'
@@ -89,7 +89,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-7.jpg
-    width: '50'
+    width: '25'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -100,9 +100,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-8.jpg
     width: '30'
-    margin_y: '700'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '30'
     align_y: ''
     color: '#f9d1bc'
     caption: ''
@@ -111,42 +111,42 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-9.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '45'
+    width: '25'
+    margin_y: '800'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#cce3fa'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-10.jpg
-    width: '25'
+    width: '40'
     margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#edf1d0'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-11.jpg
     width: '33'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: ''
     color: '#f1e3cf'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-12.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '15'
     align_y: ''
     color: '#eadef4'
     caption: ''
@@ -172,8 +172,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-14.jpg
     width: '30'
-    margin_y: '600'
-    margin_left: '5'
+    margin_y: '100'
+    margin_left: '10'
     margin_right: '0'
     align_y: ''
     color: '#d8d7e3'
@@ -181,10 +181,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-15.jpg
-    width: '45'
-    margin_y: '100'
+    width: '35'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: ''
     color: '#c6e2d4'
     caption: ''
@@ -195,9 +195,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-16.jpg
-    width: '66'
+    width: '20'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '35'
     margin_right: '0'
     align_y: ''
     color: '#d8e9ba'
@@ -205,10 +205,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-17.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
+    width: '33'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#ede5de'
     caption: ''
@@ -217,10 +217,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-18.jpg
-    width: '33'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '5'
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: ''
     color: '#daf0d5'
     caption: ''
@@ -229,40 +229,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-19.jpg
-    width: '33'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: ''
-    align_y: ''
-    color: '#d8f3f3'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-20.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: ''
-    color: '#fbc1a2'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-21.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: ''
-    color: '#f6f1d0'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
