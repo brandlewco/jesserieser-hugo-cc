@@ -143,7 +143,6 @@ collection_category:
   - Editorial
   - Color
   - Environments
-  - Workplace
   - Reportage
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
