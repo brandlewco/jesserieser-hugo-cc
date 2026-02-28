@@ -7,13 +7,18 @@ seo:
   meta_title: >-
     West Coast photographer Jesse Rieser photography for Ezra Kline's Housing
     Crisis Essay
-title: The New York Times Housing
+title: The New York Times
 collection_meta: 'America’s '
 collection_meta_2: Housing Crisis
 collection_description: >-
-  The housing market keeps getting worse. Home prices have risen more than 50
-  percent since the start of the pandemic. About a third of Americans households
-  now spend more than 30 percent of their income on housing- Ezra Kline
+  The core of the problem is simple: Too much money chasing too few homes. How
+  many more homes does America need? I’ve seen estimates ranging from two
+  million to five million. It’s a shortage decades in the making — and one we’re
+  nowhere near on track to solving. In 2025, America built fewer homes per
+  100,000 people than it did in 2005, 1995, 1985 or 1975.
+
+
+  \- Ezra Kline
 collection_description_alignment: center
 slug: nyt-housing
 collection_blocks:
