@@ -14,8 +14,8 @@ collection_sorter:
   - collections/guns-pizza.md
   - collections/outdoor-life.md
   - collections/fights.md
-  - collections/retail.md
   - collections/dwell.md
+  - collections/retail.md
   - collections/hermès.md
   - collections/espn-devin-booker-cover-story.md
   - collections/armani-anniversary.md
