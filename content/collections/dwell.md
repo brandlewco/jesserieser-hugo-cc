@@ -6,8 +6,8 @@ seo:
     featuring remodeled bodegas into residences
   meta_title: Corner Story for Dwell by Photographer Jesse Rieser
 title: Dwell
-collection_meta: 'Corner Story '
-collection_meta_2: Story
+collection_meta: 'Corner Story:'
+collection_meta_2: A New Kind of Heritage Home
 collection_description: >-
   They used to be places where you might grab a coke or a quart of milk. But in
   some residential pockets of North America, corner stores that have sat vacant
@@ -270,8 +270,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo_cover-1.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/vertcovers-07-10.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-7.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
@@ -285,12 +285,12 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#bbf9eb'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-8.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-90.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-91.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-92.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-89.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-10.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/kitt_4x3-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-93.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-94.jpg
