@@ -15,19 +15,19 @@ collection_sorter:
   - collections/outdoor-life.md
   - collections/fights.md
   - collections/retail.md
+  - collections/dwell.md
   - collections/hermès.md
   - collections/espn-devin-booker-cover-story.md
   - collections/armani-anniversary.md
   - collections/golf-digest-bernhard-langer.md
   - collections/golfdigest-nicklaus.md
   - collections/christianity-today.md
-  - collections/dwell.md
   - collections/amtrak-southwest-chief.md
   - collections/southern-living.md
+  - collections/the-new-york-times-housing.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
   - collections/xmas-in-america.md
-  - collections/the-new-york-times-housing.md
   - collections/the-new-yorker.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy.md
