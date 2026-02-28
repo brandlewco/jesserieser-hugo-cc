@@ -239,12 +239,12 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'The New Yorker: Can the Golden Age of Costco Last?'
-    attached_collection: collections/the-new-yorker.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
-    width: '30'
+    meta: 'Dwell: Corner Story'
+    attached_collection: collections/dwell.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-8.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -347,10 +347,10 @@ content_blocks:
     meta: 'Testimony:  Reformed Nazi Now Pastor'
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
-    width: '33'
-    margin_y: '250'
+    width: '25'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '35'
     align_y: start
     color: '#faf2ea'
     caption: ''
@@ -366,12 +366,50 @@ content_blocks:
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1163726847
+    caption:
+    meta: meta
+    meta_align: left
+    attached_collection: collections/the-new-york-times-ice.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 9x16
+    width: '30'
+    align_y: start
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Bernhard Langer: The Age(less) Golfer'
+    attached_collection: collections/golf-digest-bernhard-langer.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: A Ghost In the Graveyard Made of Thorns
-    attached_collection: collections/a-ghost.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
-    width: '50'
+    attached_collection: collections/the-new-york-times-ice.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-ice2-6.jpg
+    width: '30'
     margin_y: '500'
     margin_left: '5'
     margin_right: '0'
@@ -390,26 +428,26 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Golf Digest: Jack Vs. Nicklaus '
-    attached_collection: collections/golfdigest-nicklaus.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '25'
+    meta: 'The New Yorker: Can the Golden Age of Costco Last?'
+    attached_collection: collections/the-new-yorker.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    margin_left: '25'
+    margin_right: '0'
     align_y: start
-    color: '#c1e6ac'
+    color: '#d0e5ef'
     caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
+    title_margin_y: '20'
+    title_margin_left: '-20'
     title_margin_right: '0'
-    text_size: 4xl
-    text_color:
+    text_size: lg
+    text_color: '#000000'
     line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: right
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
