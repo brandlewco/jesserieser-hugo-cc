@@ -81,7 +81,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-6.jpg
     width: '20'
     margin_y: '800'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#cff1f3'
@@ -91,7 +91,7 @@ collection_blocks:
     width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y:
     color: '#ebd1ef'
     caption: ''
