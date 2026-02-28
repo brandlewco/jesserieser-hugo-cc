@@ -55,7 +55,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-4.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#f8ebcc'
@@ -63,10 +63,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-5.jpg
-    width: '15'
-    margin_y: '300'
+    width: '20'
+    margin_y: '700'
     margin_left: '0'
-    margin_right: '40'
+    margin_right: '25'
     align_y: ''
     color: '#dcedf8'
     caption: ''
@@ -79,7 +79,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-6.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#f4dfe7'
@@ -240,7 +240,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-7.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers_14.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
