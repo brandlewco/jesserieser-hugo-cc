@@ -964,6 +964,30 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Jack Vs. Nicklaus '
+    attached_collection: collections/golfdigest-nicklaus.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1086611030
     caption: caption
@@ -978,8 +1002,6 @@ content_blocks:
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
