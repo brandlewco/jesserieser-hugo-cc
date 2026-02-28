@@ -26,9 +26,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-1.jpg
-    width: '30'
+    width: '50'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#edd7b2'
@@ -36,8 +36,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-2.jpg
     width: '35'
-    margin_y: '400'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '55'
     margin_right: '10'
     align_y:
     color: '#e2cfef'
@@ -48,9 +48,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-3.jpg
-    width: '50'
+    width: '30'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
@@ -59,8 +59,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-4.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '30'
     align_y:
     color: '#d9e3f4'
     caption: ''
@@ -68,10 +68,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-5.jpg
-    width: '45'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '5'
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y:
     color: '#ffe5c9'
     caption: ''
@@ -79,8 +79,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-6.jpg
-    width: '33'
-    margin_y: '100'
+    width: '20'
+    margin_y: '800'
     margin_left: '30'
     margin_right: '0'
     align_y:
@@ -88,10 +88,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-7.jpg
-    width: '20'
+    width: '33'
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '10'
     align_y:
     color: '#ebd1ef'
     caption: ''
