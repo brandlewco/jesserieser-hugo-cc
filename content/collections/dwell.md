@@ -245,12 +245,11 @@ collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_co
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Tech
-  - Science
   - Reportage
   - Portraits
   - Environments
   - Color
+  - Still Life + Details
 date: 2019-05-01T07:00:00Z
 theme_color: '#bbf9eb'
 theme_color_all_works: '#ffe05a'
