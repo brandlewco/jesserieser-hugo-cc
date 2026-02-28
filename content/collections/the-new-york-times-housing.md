@@ -152,10 +152,10 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/jr_costco_covers4x3-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
