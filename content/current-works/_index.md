@@ -369,12 +369,12 @@ content_blocks:
   - _bookshop_name: home/media-motion
     vimeo_id: 1163726847
     caption:
-    meta: meta
+    meta: 'The New York Times: ICE is Meant to Break You'
     meta_align: left
     attached_collection: collections/the-new-york-times-ice.md
     color: '#000000'
     show_controls: false
-    block_aspect_ratio: 9x16
+    block_aspect_ratio: 4x5
     width: '30'
     align_y: start
     margin_y: '0'
