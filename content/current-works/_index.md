@@ -702,7 +702,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '1300'
-    margin_left: '20'
+    margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#d8f1ae'
@@ -711,10 +711,10 @@ content_blocks:
     title:
     meta: 'Amtrak: Where Amtrak Can Take You'
     attached_collection: collections/bloomberg-nomads-copy-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-26.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
+    width: '60'
     margin_y: '200'
-    margin_left: '15'
+    margin_left: '0'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -752,8 +752,8 @@ content_blocks:
     title:
     meta: 'AARP: Washed Away'
     attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: '66'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-6.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -770,6 +770,30 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'The New York Times: Adelita Grijalva'
+    attached_collection: collections/armani-anniversary-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -786,8 +810,6 @@ content_blocks:
     meta_align: right
     theme_color: '#c8b3eb'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
