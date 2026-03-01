@@ -150,8 +150,8 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-3.jpg
