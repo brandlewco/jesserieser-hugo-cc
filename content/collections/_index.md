@@ -24,9 +24,9 @@ collection_sorter:
   - collections/christianity-today.md
   - collections/amtrak-southwest-chief.md
   - collections/southern-living.md
-  - collections/the-new-york-times-housing.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
+  - collections/the-new-york-times-housing.md
   - collections/xmas-in-america.md
   - collections/the-new-yorker.md
   - collections/smithsonian.md
