@@ -98,24 +98,24 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-8.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '15'
+    width: '33'
+    margin_y: '1000'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#f1e3cf'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-10.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '5'
     align_y: center
     color: '#f4dfe7'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -124,28 +124,28 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07b-1.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#f9dece'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-12.jpg
     width: '30'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: center
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
     color: '#eadef4'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-13.jpg
     width: '33'
     margin_y: '400'
-    margin_left: '10'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '10'
     align_y: center
     color: '#cce3fa'
     caption: ''
@@ -208,7 +208,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-20.jpg
     width: '50'
     margin_y: '200'
-    margin_left: '35'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#cce1f3'
@@ -225,8 +225,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-22.jpg
     width: '40'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '50'
+    margin_right: '0'
     align_y: start
     color: '#ddedf6'
     caption: ''
