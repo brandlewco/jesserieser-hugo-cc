@@ -495,7 +495,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: bold
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Best Little Golf Towns'
