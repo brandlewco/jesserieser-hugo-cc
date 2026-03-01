@@ -206,10 +206,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-20.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-20.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-16.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-17.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-20.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/bizinsider-12.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
