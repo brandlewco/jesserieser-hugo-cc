@@ -169,6 +169,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-4.jpg
+    width: '25'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#f9d1bc'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sfp_reg-14.jpg
     width: '40'
     margin_y: '100'
