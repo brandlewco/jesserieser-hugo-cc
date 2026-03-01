@@ -212,6 +212,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Dwell-10.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: '20'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-9.jpg
     width: '45'
     margin_y: '100'
@@ -354,7 +365,7 @@ collection_blocks:
     color: '#f8e8dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/general-overview_07-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260227_Sport-1.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
