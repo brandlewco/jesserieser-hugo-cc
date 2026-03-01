@@ -702,7 +702,7 @@ content_blocks:
     width: '15'
     align_y: start
     margin_y: '1300'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#d8f1ae'
@@ -712,9 +712,9 @@ content_blocks:
     meta: 'Amtrak: Where Amtrak Can Take You'
     attached_collection: collections/bloomberg-nomads-copy-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-26.jpg
-    width: '35'
+    width: '40'
     margin_y: '200'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#c1e6ac'
@@ -978,8 +978,6 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
@@ -1004,20 +1002,8 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086611030
-    caption: caption
-    meta: 'Antoine''s Escalaras: Communication Arts Photo Annual'
-    meta_align: center
-    attached_collection: collections/antoine-s-escalaras.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '66'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
