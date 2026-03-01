@@ -22,7 +22,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-1b.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-7.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
@@ -174,9 +174,9 @@ theme_color_all_works: '#ffbaba'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-8.jpg
 collection_content: >-
   “*As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the
