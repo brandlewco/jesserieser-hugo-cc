@@ -382,7 +382,7 @@ content_blocks:
     margin_right: '0'
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Bernhard Langer: The Age(less) Golfer'
+    meta: 'Golf Digest: Bernhard Langer. The Age(less) Golfer'
     attached_collection: collections/golf-digest-bernhard-langer.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
     width: '35'
