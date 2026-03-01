@@ -22,8 +22,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-7.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-2.jpg
+    width: '50'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
