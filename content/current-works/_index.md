@@ -98,7 +98,7 @@ content_blocks:
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
     width: '30'
     margin_y: '100'
     margin_left: '0'
@@ -775,10 +775,10 @@ content_blocks:
     meta: 'The New York Times: Adelita Grijalva'
     attached_collection: collections/armani-anniversary-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: '45'
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '5'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -802,10 +802,10 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: 2xl
     color: '#daceea'
-    width: '20'
+    width: '45'
     align_y: start
-    margin_y: '1000'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     meta_align: right
     theme_color: '#c8b3eb'
@@ -982,7 +982,7 @@ content_blocks:
     title:
     meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
     attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-18.jpg
     width: '55'
     margin_y: '350'
     margin_left: '0'
@@ -1000,15 +1000,17 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '25'
+    width: '33'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    margin_left: '20'
+    margin_right: '0'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -1022,8 +1024,6 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
