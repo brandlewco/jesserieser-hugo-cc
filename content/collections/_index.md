@@ -51,6 +51,7 @@ archive_sorter:
   - collections/barron-s-las-vegas-reopenning.md
   - collections/phoenix-open-espn.md
   - collections/vox-100-battles-ghost-towns.md
+  - collections/time.md
   - collections/wired.md
   - collections/wallow-fire.md
 ---
