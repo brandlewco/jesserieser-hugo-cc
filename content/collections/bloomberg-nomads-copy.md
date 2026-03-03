@@ -183,7 +183,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-8.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '350'
     margin_left: '15'
     margin_right: '0'
     align_y: ''
