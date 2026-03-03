@@ -66,7 +66,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-5.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -236,9 +236,9 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-9.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-18.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-15.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/adidas_redo-3x4-1.jpg
 collection_content: ''
 collection_awards:
 collection_press:
