@@ -41,7 +41,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-armani-hopkins-9.jpg
     width: '33'
-    margin_y: '450'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '5'
     align_y:
