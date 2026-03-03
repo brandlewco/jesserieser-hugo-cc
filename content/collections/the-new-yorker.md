@@ -145,7 +145,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-15.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202603_newyorker-bannerredo2-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco_covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
