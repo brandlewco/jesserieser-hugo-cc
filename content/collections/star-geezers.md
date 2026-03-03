@@ -105,7 +105,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-9.jpg
     width: '30'
-    margin_y: '300'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '25'
     align_y: start
@@ -140,7 +140,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers_recolor-07-14.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -221,7 +221,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/sg_redo-27.jpg
     width: '50'
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
     align_y: start
