@@ -22,7 +22,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_4x3-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202603_gc_recolor-1.jpg
     width: '50'
     margin_y: '100'
     margin_left: '20'
@@ -96,19 +96,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
-    width: '30'
-    margin_y: '350'
-    margin_left: '20'
+    width: '35'
+    margin_y: '650'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#fae386'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13c-single.jpg
-    width: '25'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: start
     color: '#f9eae0'
     caption:

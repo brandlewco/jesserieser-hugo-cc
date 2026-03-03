@@ -131,7 +131,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-11.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '20'
     margin_right: '0'
     align_y: ''
@@ -187,7 +187,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-17.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '20'
     align_y: ''
@@ -259,7 +259,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/wm-phx-25.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '20'
     margin_right: ''
     align_y: ''
