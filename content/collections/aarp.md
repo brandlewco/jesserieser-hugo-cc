@@ -204,7 +204,7 @@ collection_blocks:
     meta_align: center
     attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
-    show_controls: false
+    show_controls: true
     block_aspect_ratio: 16x9
     width: '40'
     align_y: start
@@ -441,7 +441,7 @@ collection_blocks:
     meta_align: center
     attached_collection: collections/xmas-in-america.md
     color: '#ff0000'
-    show_controls: false
+    show_controls: true
     block_aspect_ratio: 16x9
     width: '80'
     align_y: start
