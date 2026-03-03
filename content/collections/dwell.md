@@ -240,16 +240,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers_14.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202603_DwellBanner-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Reportage
   - Portraits
   - Environments
   - Color
   - Still Life + Details
+  - Lifestyle
+  - Workplace
 date: 2019-05-01T07:00:00Z
 theme_color: '#bbf9eb'
 theme_color_all_works: '#ffe05a'
