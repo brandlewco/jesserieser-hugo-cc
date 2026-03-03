@@ -80,7 +80,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-6.jpg
     width: '20'
-    margin_y: '800'
+    margin_y: '900'
     margin_left: '35'
     margin_right: '0'
     align_y:

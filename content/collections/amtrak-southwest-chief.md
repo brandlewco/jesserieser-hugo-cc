@@ -49,7 +49,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-4.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y: center
@@ -60,7 +60,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-5.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '550'
     margin_left: '25'
     margin_right: '0'
     align_y: center
@@ -153,7 +153,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-16.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '25'
     align_y: center
@@ -170,7 +170,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief-15.jpg
     width: '25'
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '25'
     margin_right: '0'
     align_y: start
@@ -199,7 +199,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-21.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '750'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -256,7 +256,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/amtrakcombo-26.jpg
     width: '35'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '35'
     margin_right: '0'
     align_y: center
@@ -298,7 +298,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/swchief_recolor-07-1.jpg
     width: '40'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y: center
