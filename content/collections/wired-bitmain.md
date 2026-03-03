@@ -104,7 +104,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain_recolor-07-5.jpg
     width: '40'
-    margin_y: '500'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -199,7 +199,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-19.jpg
     width: '20'
-    margin_y: '700'
+    margin_y: '650'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -230,7 +230,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/bitmain-22.jpg
     width: '20'
-    margin_y: '800'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '20'
     align_y: center
@@ -252,7 +252,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/b2-assignents-5.jpg
     width: '33'
-    margin_y: '600'
+    margin_y: '650'
     margin_left: '10'
     margin_right: '0'
     align_y: center
