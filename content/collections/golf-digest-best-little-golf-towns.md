@@ -305,7 +305,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#d9d1ce'

@@ -117,7 +117,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nyt_abortion-9.jpg
     width: '33'
-    margin_y: '800'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:

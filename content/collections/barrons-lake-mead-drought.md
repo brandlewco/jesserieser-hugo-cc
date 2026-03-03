@@ -99,7 +99,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mead_recolor-07-8.jpg
     width: '33'
-    margin_y: '1000'
+    margin_y: '850'
     margin_left: '25'
     margin_right: '0'
     align_y: center
@@ -111,7 +111,7 @@ collection_blocks:
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
-    align_y: center
+    align_y: start
     color: '#f4dfe7'
     caption: ''
   - _bookshop_name: collections/media-row
