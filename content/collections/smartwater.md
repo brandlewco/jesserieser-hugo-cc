@@ -45,7 +45,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-3.jpg
     width: '40'
-    margin_y: '350'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -58,7 +58,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_smartwater_redo-5.jpg
     width: '33'
-    margin_y: '250'
+    margin_y: '350'
     margin_left: '30'
     margin_right: '0'
     align_y: start

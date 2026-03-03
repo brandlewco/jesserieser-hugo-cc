@@ -104,7 +104,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-9.jpg
     width: '20'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '25'
     align_y:
@@ -134,22 +134,13 @@ collection_blocks:
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-12.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#f8f7f2'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-13.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#f6e5ff'
@@ -162,7 +153,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/alcor-b-2.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '45'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#ffddfe'
