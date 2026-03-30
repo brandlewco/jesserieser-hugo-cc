@@ -17,6 +17,9 @@ collection_description: >-
   This long-term works in progress are the transmissions of a citizen who seems
   comfortable sitting with the knowledge that he is as excited by his home as he
   is alarmed by it.
+
+
+  Monograph coming soon from PowerHouse Books.
 collection_description_alignment: center
 slug: folklore
 collection_blocks:
