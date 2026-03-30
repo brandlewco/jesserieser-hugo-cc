@@ -696,6 +696,68 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-1.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-2.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#f7ecc4'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-3.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-5.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-6.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -704,16 +766,35 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-11.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-13.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-10.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#e6ffcb'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
