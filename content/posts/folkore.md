@@ -4,12 +4,12 @@ title: FOLKORE
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
+  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
     title: blog title
     caption: ''
     width: '100'
-  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-2.jpg
     title: blog title
