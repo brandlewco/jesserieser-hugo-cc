@@ -25,46 +25,46 @@ slug: propub-mcso
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-1.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: ''
-    align_y: ''
-    color: '#dce3f3'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-2.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-1.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#f0f3d4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-3.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-2.jpg
+    width: '30'
     margin_y: '550'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '10'
     align_y: ''
     color: '#efcab3'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-3.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: ''
+    color: '#dcedf8'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-4.jpg
     width: '40'
-    margin_y: '700'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: ''
@@ -72,7 +72,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-5.jpg
     width: '50'
     margin_y: '100'
     margin_left: '0'
@@ -86,7 +86,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-6.jpg
     width: '40'
     margin_y: '100'
     margin_left: '10'
@@ -96,7 +96,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-7.jpg
     width: '35'
     margin_y: '550'
     margin_left: '0'
@@ -110,7 +110,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-8.jpg
     width: '55'
     margin_y: '100'
     margin_left: '25'
@@ -122,7 +122,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-9.jpg
     width: '55'
     margin_y: '400'
     margin_left: '5'
@@ -132,7 +132,7 @@ collection_blocks:
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-10.jpg
     width: '30'
     margin_y: '100'
     margin_left: '0'
@@ -144,7 +144,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-11.jpg
     width: '60'
     margin_y: '100'
     margin_left: '25'
@@ -156,23 +156,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-12.jpg
     width: '35'
     margin_y: '200'
-    margin_left: '35'
-    margin_right: '15'
+    margin_left: '10'
+    margin_right: '0'
     align_y: start
     color: '#c6e2d4'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-16.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-13.jpg
+    width: '30'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#cce1f3'
     caption: ''
@@ -180,7 +178,17 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-14.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: ''
+    align_y: ''
+    color: '#efe5dd'
+    caption: ''
+    align_x: start
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-15.jpg
     width: '45'
     margin_y: '350'
     margin_left: '15'
@@ -189,8 +197,10 @@ collection_blocks:
     color: '#d5f4f6'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-16.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
@@ -199,20 +209,8 @@ collection_blocks:
     color: '#fbc1a2'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-17.jpg
     width: '40'
     margin_y: '600'
     margin_left: '5'
@@ -221,8 +219,20 @@ collection_blocks:
     color: '#ede5de'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-18.jpg
     width: '30'
     margin_y: '100'
     margin_left: '0'
@@ -231,12 +241,8 @@ collection_blocks:
     color: '#ffebda'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-19.jpg
     width: '20'
     margin_y: '100'
     margin_left: '10'
@@ -245,8 +251,12 @@ collection_blocks:
     color: '#cce1f3'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-20.jpg
     width: '40'
     margin_y: '500'
     margin_left: '0'
@@ -255,30 +265,20 @@ collection_blocks:
     color: '#f6f1d0'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-21.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '0'
     margin_right: '0'
     align_y: ''
     color: '#d8f3d8'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-25.jpg
-    width: '35'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: ''
-    color: '#eddaf0'
-    caption: ''
-    align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
