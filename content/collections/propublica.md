@@ -8,8 +8,8 @@ seo:
     Photographer Jesse Rieser photographs the Maricopa Sherriff and the places
     and people their racial profiling has affected. 
 title: ProPublica
-collection_meta: This Sheriff Says His Department Eliminated Racial Bias
-collection_meta_2: Data Shows Otherwise
+collection_meta: This Sheriff Says
+collection_meta_2: His Department Eliminated Racial Bias. Data Shows Otherwise
 collection_description: >-
   In one talk radio appearance after another, Sheriff Jerry Sheridan has
   declared that his department had eliminated the racial bias that plagued it
