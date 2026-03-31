@@ -112,23 +112,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-8.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '50'
+    margin_y: '400'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#cce3fa'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-9.jpg
-    width: '45'
-    margin_y: '350'
-    margin_left: '10'
-    margin_right: ''
-    align_y: ''
-    color: '#f1e3cf'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
@@ -136,18 +124,20 @@ collection_blocks:
     width: '35'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y: ''
     color: '#eadef4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-11.jpg
-    width: '60'
+    width: '66'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: ''
     align_y: ''
     color: '#efe5dd'
@@ -158,7 +148,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-12.jpg
     width: '30'
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '25'
     margin_right: '0'
     align_y: start
@@ -200,6 +190,18 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-9.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
+    margin_right: ''
+    align_y: ''
+    color: '#f1e3cf'
+    caption: ''
+    align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-16.jpg
     width: '25'
     margin_y: '500'
@@ -235,7 +237,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-18.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#ffebda'
@@ -246,7 +248,7 @@ collection_blocks:
     width: '35'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     align_y: ''
     color: '#cce1f3'
     caption: ''
