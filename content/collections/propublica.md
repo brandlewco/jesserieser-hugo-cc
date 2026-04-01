@@ -204,7 +204,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso-16.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '35'
     margin_right: '0'
     align_y: ''
