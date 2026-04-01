@@ -286,7 +286,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso_banners-4.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/mscso_bannerb-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/propub-mscso_banners-9.jpg
 collection_filter: Commissioned + Stock
 collection_category:
