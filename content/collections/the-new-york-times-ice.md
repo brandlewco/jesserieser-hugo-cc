@@ -163,6 +163,7 @@ collection_category:
   - Environments
   - Reportage
   - Motion
+  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
