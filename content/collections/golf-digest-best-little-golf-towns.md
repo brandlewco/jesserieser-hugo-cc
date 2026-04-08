@@ -11,6 +11,10 @@ collection_meta_2: Sioux Center, Iowa
 collection_description: >-
   "There’s not a whole lot to do in these small communities, so people are just
   eaten up with golf."
+
+
+  Celebrated in the upcoming AP 42 American Photography annual as one of the
+  year's best in editorial photography.
 collection_description_alignment: center
 slug: golfdigest_littlegolftowns
 collection_blocks:
