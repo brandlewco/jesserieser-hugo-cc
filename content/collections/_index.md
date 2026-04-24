@@ -12,6 +12,7 @@ collection_sorter:
   - collections/switchyard.md
   - collections/the-new-york-times-ice.md
   - collections/propublica.md
+  - collections/nbc-news.md
   - collections/guns-pizza.md
   - collections/outdoor-life.md
   - collections/fights.md
