@@ -10,7 +10,7 @@ collection_meta: 'Sedona:'
 collection_meta_2: Seeing Red
 collection_description: Fall Under the Spell of Sedona’s magnetic landscapes and undeniable aura.
 collection_description_alignment: center
-slug: golfdigest_littlegolftowns
+slug: wildsam_sedona
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
