@@ -177,7 +177,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-16.jpg
     width: '30'
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -186,7 +186,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-17.jpg
     width: '30'
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -195,7 +195,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-18.jpg
     width: '30'
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -300,7 +300,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-26.jpg
     width: '30'
-    margin_y: '750'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '0'
     align_y: start
@@ -324,18 +324,16 @@ collection_blocks:
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-covers-3.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-covers-1.jpg
 collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Color
   - Reportage
   - Editorial
-  - Sports + Athletes
-  - Kids
-  - Still Life + Details
-  - Lifestyle
-  - Award Winning
+  - Travel
+  - Portraits
+  - Environments
 date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
