@@ -20,9 +20,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
-    width: '60'
+    width: '35'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#d5e6f1'
@@ -31,19 +31,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-2.jpg
-    width: '50'
+    width: '35'
     margin_y: '100'
     margin_left: '5'
-    margin_right: '5'
+    margin_right: '0'
     align_y: start
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-3.jpg
-    width: '33'
-    margin_y: '800'
+    width: '30'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '25'
     align_y: start
     color: '#fcceb1'
     caption: ''
@@ -51,19 +51,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-4.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
+    width: '20'
+    margin_y: '200'
+    margin_left: '30'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-6.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '20'
-    margin_right: '0'
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#fbe5d2'
     caption: ''
@@ -71,9 +71,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-5.jpg
-    width: '55'
+    width: '30'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '40'
     margin_right: '0'
     align_y: center
     color: '#f8f2f7'
@@ -82,10 +82,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-7.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    margin_left: '55'
+    margin_right: '0'
     align_y: start
     color: '#ff8e7d'
     caption: ''
@@ -94,18 +94,18 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-8.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '30'
+    margin_y: '500'
+    margin_left: '35'
     margin_right: '0'
     align_y: start
     color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-9.jpg
-    width: '20'
-    margin_y: '900'
+    width: '25'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
@@ -113,19 +113,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-13.jpg
-    width: '60'
-    margin_y: '300'
-    margin_left: '15'
+    width: '25'
+    margin_y: '600'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-11.jpg
-    width: '20'
+    width: '30'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '15'
     align_y: start
     color: '#f5ecba'
     caption: ''
@@ -135,19 +135,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-14.jpg
-    width: '30'
+    width: '20'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-15.jpg
-    width: '50'
+    width: '33'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '25'
     align_y: start
     color: '#f0cdc4'
     caption: ''
@@ -158,8 +158,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-16.jpg
     width: '25'
-    margin_y: '500'
-    margin_left: '20'
+    margin_y: '100'
+    margin_left: '65'
     margin_right: '0'
     align_y: start
     color: '#a9cffd'
@@ -168,10 +168,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-17.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
+    width: '25'
+    margin_y: '750'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
     color: '#edd5be'
     caption: ''
@@ -179,8 +179,8 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-18.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '20'
     align_y: start
     color: '#fbe6df'
     caption: ''
@@ -188,19 +188,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-19.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-20.jpg
-    width: '33'
-    margin_y: '400'
+    width: '25'
+    margin_y: '700'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: start
     color: '#fce6c8'
     caption: ''
@@ -212,19 +212,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-21.jpg
-    width: '45'
+    width: '33'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '45'
     margin_right: '0'
     align_y: start
     color: '#d9d1ce'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-31.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
+    width: '30'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: start
     color: '#f8f2f7'
     caption: ''
@@ -234,37 +234,37 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-22.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '5'
+    width: '25'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#e0eae7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-23.jpg
-    width: '45'
-    margin_y: '200'
+    width: '25'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '30'
     align_y: start
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-24.jpg
-    width: '45'
+    width: '25'
     margin_y: '0'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#e0eae7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-25.jpg
-    width: '45'
+    width: '25'
     margin_y: '0'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '30'
     align_y: start
     color: '#fcceb1'
     caption: ''
@@ -272,9 +272,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-26.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '10'
+    width: '30'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
@@ -283,19 +283,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-29.jpg
-    width: '20'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '20'
+    width: '25'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-30.jpg
     width: '30'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '25'
     align_y: start
     color: '#fbe5d2'
     caption: ''
@@ -305,9 +305,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-32.jpg
-    width: '33'
+    width: '35'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y: center
     color: '#ff8e7d'
@@ -340,9 +340,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-33.jpg
-    width: '60'
+    width: '66'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y: center
     color: '#ff8e7d'
