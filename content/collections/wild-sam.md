@@ -299,10 +299,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-26.jpg
-    width: '15'
-    margin_y: '650'
+    width: '30'
+    margin_y: '750'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y: start
     color: '#e0f3eb'
     caption: ''
