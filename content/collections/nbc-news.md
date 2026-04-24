@@ -375,29 +375,25 @@ collection_blocks:
     color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-3.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_covers-4.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/tpusa-covers-2.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/tpusa-covers-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Tech
-  - Environments
   - Color
   - Reportage
-  - Climate Change
   - Editorial
-  - Workplace
-  - Motion
+  - Portraits
 date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/tpusa-4x3-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/tpusa-4x3-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/tpusa-4x3-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/tpusa-4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-43.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
