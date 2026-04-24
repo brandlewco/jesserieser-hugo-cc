@@ -58,6 +58,15 @@ collection_blocks:
     align_y: center
     color: '#daf0e7'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-6.jpg
+    width: '25'
+    margin_y: '500'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#fbe5d2'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -71,15 +80,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-6.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#fbe5d2'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-7.jpg
     width: '33'
@@ -164,6 +164,8 @@ collection_blocks:
     align_y: start
     color: '#a9cffd'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-17.jpg
     width: '33'
@@ -173,11 +175,9 @@ collection_blocks:
     align_y: start
     color: '#edd5be'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-18.jpg
-    width: '60'
+    width: '35'
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
@@ -219,8 +219,6 @@ collection_blocks:
     align_y: start
     color: '#d9d1ce'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-31.jpg
     width: '40'
@@ -230,6 +228,8 @@ collection_blocks:
     align_y: start
     color: '#f8f2f7'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -279,6 +279,8 @@ collection_blocks:
     align_y: start
     color: '#f2ded6'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-29.jpg
     width: '20'
@@ -288,10 +290,6 @@ collection_blocks:
     align_y: start
     color: '#daf0e7'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-30.jpg
     width: '30'
@@ -301,6 +299,8 @@ collection_blocks:
     align_y: start
     color: '#fbe5d2'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
