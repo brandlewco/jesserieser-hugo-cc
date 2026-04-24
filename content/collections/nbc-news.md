@@ -6,8 +6,8 @@ seo:
     by West Coast Photographer, Jesse Rieser
   meta_title: 'NBC News: Turning Point USA & President Trump''s "Build the Red Wall" rally'
 title: NBC NEWS
-collection_meta: 'Turning Point USA & President Trump''s '
-collection_meta_2: '"Build the Red Wall" rally'
+collection_meta: Turning Point USA
+collection_meta_2: '& President Trump''s "Build the Red Wall" '
 collection_description: >-
   Trump supporters at his events in Las Vegas and Phoenix largely backed his
   attack on Iran and sided with him in his ongoing dispute with Pope Leo XIV
@@ -19,7 +19,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
@@ -30,7 +30,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-2.jpg
     width: '50'
     margin_y: '100'
     margin_left: '5'
@@ -39,7 +39,7 @@ collection_blocks:
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-3.jpg
     width: '33'
     margin_y: '800'
     margin_left: '0'
@@ -50,7 +50,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-4.jpg
     width: '45'
     margin_y: '100'
     margin_left: '35'
@@ -61,7 +61,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-5.jpg
     width: '55'
     margin_y: '100'
     margin_left: '15'
@@ -72,7 +72,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-6.jpg
     width: '25'
     margin_y: '500'
     margin_left: '20'
@@ -81,7 +81,7 @@ collection_blocks:
     color: '#fbe5d2'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-7.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
@@ -92,7 +92,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-8.jpg
     width: '33'
     margin_y: '100'
     margin_left: '30'
@@ -101,7 +101,7 @@ collection_blocks:
     color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-29.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-9.jpg
     width: '20'
     margin_y: '900'
     margin_left: '0'
@@ -112,7 +112,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-13.jpg
     width: '60'
     margin_y: '300'
     margin_left: '15'
@@ -121,7 +121,7 @@ collection_blocks:
     color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-11.jpg
     width: '20'
     margin_y: '100'
     margin_left: '0'
@@ -134,7 +134,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-14.jpg
     width: '30'
     margin_y: '100'
     margin_left: '5'
@@ -143,7 +143,7 @@ collection_blocks:
     color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-15.jpg
     width: '50'
     margin_y: '400'
     margin_left: '0'
@@ -156,7 +156,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-16.jpg
     width: '25'
     margin_y: '500'
     margin_left: '20'
@@ -165,7 +165,7 @@ collection_blocks:
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-17.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
@@ -176,7 +176,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-18.jpg
     width: '60'
     margin_y: '100'
     margin_left: '5'
@@ -187,7 +187,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-19.jpg
     width: '33'
     margin_y: '100'
     margin_left: '10'
@@ -196,7 +196,7 @@ collection_blocks:
     color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-20.jpg
     width: '33'
     margin_y: '400'
     margin_left: '0'
@@ -211,7 +211,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-21.jpg
     width: '45'
     margin_y: '100'
     margin_left: '25'
@@ -221,10 +221,19 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-31.jpg
+    width: '40'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#f8f2f7'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-22.jpg
     width: '45'
     margin_y: '200'
     margin_left: '5'
@@ -233,9 +242,27 @@ collection_blocks:
     color: '#e0eae7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-23.jpg
     width: '45'
     margin_y: '200'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#fcceb1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-24.jpg
+    width: '45'
+    margin_y: '0'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#e0eae7'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-25.jpg
+    width: '45'
+    margin_y: '0'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -244,7 +271,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-26.jpg
     width: '45'
     margin_y: '400'
     margin_left: '10'
@@ -253,7 +280,7 @@ collection_blocks:
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-29.jpg
     width: '20'
     margin_y: '200'
     margin_left: '0'
@@ -266,7 +293,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-30.jpg
     width: '30'
     margin_y: '100'
     margin_left: '15'
@@ -274,19 +301,10 @@ collection_blocks:
     align_y: start
     color: '#fbe5d2'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-24.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: start
-    color: '#f8f2f7'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-32.jpg
     width: '33'
     margin_y: '100'
     margin_left: '35'
@@ -296,57 +314,12 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-28.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#ffdfc9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-27.jpg
-    width: '45'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#dcdee5'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-30.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#edd5be'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-31.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#a9cffd'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium-33.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: center
-    color: '#a9cffd'
-    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -366,7 +339,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-33.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
