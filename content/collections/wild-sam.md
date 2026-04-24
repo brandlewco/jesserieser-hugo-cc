@@ -17,39 +17,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-1.jpg
     width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '5'
-    align_y: start
-    color: '#f2ded6'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-1.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#d5e6f1'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-21.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#fcceb1'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-22.jpg
-    width: '66'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
@@ -59,136 +28,140 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-23.jpg
-    width: '55'
-    margin_y: '400'
-    margin_left: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-2.jpg
+    width: '50'
+    margin_y: '700'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
-    color: '#daf0e7'
+    color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-24.jpg
-    width: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
-    color: '#f8f2f7'
+    color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-4.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ded6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-5.jpg
+    width: '20'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#daf0e7'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-6.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '40'
     margin_right: '0'
     align_y: start
     color: '#f0cdc4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-14.jpg
-    width: '25'
-    margin_y: '800'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-7.jpg
+    width: '20'
+    margin_y: '550'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: start
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-15.jpg
-    width: '66'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-8.jpg
+    width: '45'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#edd5be'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-12.jpg
-    width: '50'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-9.jpg
+    width: '45'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-6.jpg
-    width: '25'
-    margin_y: '200'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#fbe5d2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-7.jpg
-    width: '25'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '30'
-    align_y: start
-    color: '#ff8e7d'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-8.jpg
-    width: '25'
-    margin_y: '0'
-    margin_left: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-12.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#dcdee5'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-9.jpg
-    width: '25'
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-13.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
     align_y: start
     color: '#ffdfc9'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-14.jpg
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: start
+    color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-10.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-11.jpg
+    width: '20'
+    margin_y: '900'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
-    color: '#e0f3eb'
+    color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-4.jpg
-    width: '45'
-    margin_y: '600'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-15.jpg
+    width: '35'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '30'
     align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-3.jpg
-    width: '55'
-    margin_y: '200'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#fcceb1'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -202,7 +175,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-16.jpg
     width: '30'
     margin_y: '200'
     margin_left: '5'
@@ -211,7 +184,7 @@ collection_blocks:
     color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-17.jpg
     width: '30'
     margin_y: '200'
     margin_left: '0'
@@ -220,7 +193,7 @@ collection_blocks:
     color: '#fce6c8'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-18.jpg
     width: '30'
     margin_y: '200'
     margin_left: '0'
@@ -230,24 +203,21 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-19.jpg
     width: '35'
-    margin_y: '200'
+    margin_y: '100'
     margin_left: '15'
     margin_right: '0'
+    align_y: start
+    color: '#fcceb1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-20.jpg
+    width: '25'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '20'
     align_y: start
     color: '#fbe5d2'
     caption: ''
@@ -255,11 +225,43 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-11.jpg
-    width: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-21.jpg
+    width: '40'
+    margin_y: '700'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-22.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-23.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '40'
     margin_right: '0'
     align_y: start
     color: '#f5ecba'
@@ -267,31 +269,40 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-27.jpg
-    width: '33'
-    margin_y: '400'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-24.jpg
+    width: '20'
+    margin_y: '600'
     margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-28.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-25.jpg
+    width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: start
     color: '#ffdfc9'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-29.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-27.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
+    align_y: start
+    color: '#d9d1ce'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-26.jpg
+    width: '45'
+    margin_y: '650'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#e0f3eb'
     caption: ''
@@ -299,22 +310,13 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#d9d1ce'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-31.jpg
-    width: '66'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-28.jpg
+    width: '60'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
