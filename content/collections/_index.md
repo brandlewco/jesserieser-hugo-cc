@@ -12,7 +12,6 @@ collection_sorter:
   - collections/switchyard-copy.md
   - collections/switchyard.md
   - collections/the-new-york-times-ice.md
-  - collections/propublica.md
   - collections/nbc-news.md
   - collections/guns-pizza.md
   - collections/outdoor-life.md
@@ -39,6 +38,7 @@ collection_sorter:
   - collections/barrons-lake-mead-drought.md
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
+  - collections/propublica.md
   - collections/antoine-s-escalaras-copy.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/autobiography.md
