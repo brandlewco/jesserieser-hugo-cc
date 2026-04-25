@@ -338,17 +338,19 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-10.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
