@@ -8,9 +8,9 @@ slug: collections
 navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
+  - collections/switchyard.md
   - collections/wild-sam.md
   - collections/switchyard-copy.md
-  - collections/switchyard.md
   - collections/nbc-news.md
   - collections/guns-pizza.md
   - collections/outdoor-life.md
