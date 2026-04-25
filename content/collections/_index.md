@@ -9,11 +9,11 @@ navigation_theme: black
 collection_sorter:
   - collections/vanishing-folklore-2.md
   - collections/switchyard.md
-  - collections/wild-sam.md
   - collections/switchyard-copy.md
-  - collections/nbc-news.md
-  - collections/guns-pizza.md
+  - collections/wild-sam.md
   - collections/outdoor-life.md
+  - collections/guns-pizza.md
+  - collections/nbc-news.md
   - collections/fights.md
   - collections/dwell.md
   - collections/retail.md
