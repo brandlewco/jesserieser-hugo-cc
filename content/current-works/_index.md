@@ -149,7 +149,7 @@ content_blocks:
     attached_collection: collections/nbc-news.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '550'
     margin_left: '25'
     margin_right: '0'
     align_y: start
@@ -402,8 +402,8 @@ content_blocks:
     title: 'AP 40: American Photography Annual '
     caption: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_01.jpg
+    block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
     width: '15'
