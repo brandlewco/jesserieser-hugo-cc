@@ -823,10 +823,10 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'AARP: Washed Away'
-    attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-6.jpg
-    width: '33'
+    meta: 'The New York Times: Adelita Grijalva'
+    attached_collection: collections/armani-anniversary-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
+    width: '35'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -842,14 +842,14 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-feature
     title:
-    meta: 'The New York Times: Adelita Grijalva'
-    attached_collection: collections/armani-anniversary-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
+    meta: 'AARP: Washed Away'
+    attached_collection: collections/aarp.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202603_aarp_reedit-1.jpg
     width: '45'
-    margin_y: '600'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -864,7 +864,7 @@ content_blocks:
     text_alignment: center
     text_tracking: normal
     font_weight: normal
-    meta_align: right
+    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -930,7 +930,7 @@ content_blocks:
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-18.jpg
     width: '25'
     margin_y: '50'
     margin_left: '0'
