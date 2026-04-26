@@ -6,44 +6,50 @@ post_blocks:
     row_alignment: between
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-1.jpg
-    title: blog title
-    caption: ''
-    width: '100'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-1.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-3.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-4.jpg
     title: blog title
     caption: ''
     width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-5.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-6.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-7.jpg
     title: blog title
     caption: ''
     width: '25'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-8.jpg
     title: blog title
     caption: ''
     width: '25'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-9.jpg
     title: blog title
     caption: ''
     width: '25'
@@ -54,15 +60,10 @@ post_blocks:
     width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-10.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-1.jpg
     title: blog title
     caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-11.jpg
-    title: blog title
-    caption: ''
-    width: '50'
+    width: '100'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
     image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-1.jpg
