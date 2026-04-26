@@ -142,8 +142,8 @@ content_blocks:
     attached_collection: collections/nbc-news.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '5'
+    margin_y: '400'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -160,13 +160,13 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
+    meta: 'Wild Sam: Sedona, Seeing Red'
     attached_collection: collections/wild-sam.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202604_overview-3.jpg
-    width: '33'
+    width: '30'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
     color: '#d0e5ef'
     caption: ''
