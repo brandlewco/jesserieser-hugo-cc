@@ -242,7 +242,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202602_Portrait-1.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '0'
     align_y:
