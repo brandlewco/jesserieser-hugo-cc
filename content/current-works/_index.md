@@ -430,9 +430,9 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 4x5
-    width: '33'
+    width: '30'
     align_y: start
-    margin_y: '600'
+    margin_y: '1000'
     margin_left: '15'
     margin_right: '0'
   - _bookshop_name: home/media-feature
@@ -443,7 +443,7 @@ content_blocks:
     width: '35'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -468,7 +468,7 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '20'
+    width: '15'
     align_y: start
     margin_y: '100'
     margin_left: '5'
