@@ -432,7 +432,7 @@ content_blocks:
     block_aspect_ratio: 4x5
     width: '30'
     align_y: start
-    margin_y: '1000'
+    margin_y: '800'
     margin_left: '15'
     margin_right: '0'
   - _bookshop_name: home/media-feature
@@ -482,8 +482,8 @@ content_blocks:
     meta: 'The New Yorker: Can the Golden Age of Costco Last?'
     attached_collection: collections/the-new-yorker.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
-    width: '25'
-    margin_y: '450'
+    width: '30'
+    margin_y: '350'
     margin_left: '0'
     margin_right: '45'
     align_y: start
