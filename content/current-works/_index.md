@@ -143,7 +143,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
