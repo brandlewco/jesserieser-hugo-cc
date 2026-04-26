@@ -80,7 +80,7 @@ content_blocks:
     color: '#ffffff'
     width: '45'
     align_y: start
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
