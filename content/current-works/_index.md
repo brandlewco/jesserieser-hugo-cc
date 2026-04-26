@@ -98,7 +98,7 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
   - _bookshop_name: home/media-feature
@@ -231,24 +231,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Now Represented by FLINK Artists
-    caption: Los Angles, New York & London
-    attached_blog: posts/flink-artists-announcement.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    vimeo_block_cover: 1060315553
-    block_aspect_ratio: 4x5
-    text_size: base
-    color: '#ffffff'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f0dcec'
-    meta:
-    attached: false
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -448,7 +430,7 @@ content_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 4x5
-    width: '35'
+    width: '33'
     align_y: start
     margin_y: '600'
     margin_left: '15'
@@ -477,15 +459,33 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Now Represented by FLINK Artists
+    caption: Los Angles, New York & London
+    attached_blog: posts/flink-artists-announcement.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    vimeo_block_cover: 1060315553
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f0dcec'
+    meta:
+    attached: false
   - _bookshop_name: home/media-feature
     title:
     meta: 'The New Yorker: Can the Golden Age of Costco Last?'
     attached_collection: collections/the-new-yorker.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
     width: '25'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '45'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -498,7 +498,7 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -508,7 +508,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#c9fce6'
@@ -529,9 +529,9 @@ content_blocks:
     attached_collection: collections/hermès-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -552,9 +552,9 @@ content_blocks:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '20'
+    width: '35'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#cd98d4'
@@ -575,7 +575,7 @@ content_blocks:
     attached_collection: collections/golf-digest-best-little-golf-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
     width: '33'
-    margin_y: '450'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: start
