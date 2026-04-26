@@ -138,7 +138,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Turning Point USA & President"Build the Red Wall"
+    meta: 'NBC News: Turning Point USA''s "Build the Red Wall"'
     attached_collection: collections/nbc-news.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
     width: '33'
