@@ -83,7 +83,8 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: ''
+    image: >-
+      https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
 attached: false
 attached_collection: collections/business-insider.md
 attached_link:
