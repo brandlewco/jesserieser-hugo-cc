@@ -405,7 +405,7 @@ content_blocks:
     width: '25'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '35'
+    margin_right: '0'
     align_y: start
     color: '#faf2ea'
     caption: ''
@@ -419,6 +419,23 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: center
+  - _bookshop_name: home/modal-blog
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
+    block_aspect_ratio: 3x4
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
