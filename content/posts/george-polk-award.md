@@ -83,9 +83,8 @@ post_blocks:
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: >-
-      https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
-attached: false
+    image: https://d1sf55qlb7p6hz.cloudfront.net/pla.jpg
+attached: true
 attached_collection: collections/business-insider.md
 attached_link:
 block_aspect_ratio: ratio-16x9
@@ -105,11 +104,11 @@ blog_content: >-
   amounts of power, water and economic support.<br><br>
 
 
-  “The largest data centers can guzzle millions of gallons of fresh water a day.
+  The largest data centers can guzzle millions of gallons of fresh water a day.
   Roughly 40% of US ones, Business Insider found, are in the most water-stressed
   areas of the country. The companies don’t seek out locations that are arid —
   they go to places like Arizona for reasons including abundant land and stable
-  supplies of electricity.”
+  supplies of electricity.
 date:
 news_category: Awards
 theme_color: '#e5e5ef'
