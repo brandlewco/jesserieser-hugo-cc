@@ -424,14 +424,14 @@ content_blocks:
     caption: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_blog: posts/ap-40-american-photography-annual.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
-    block_aspect_ratio: 3x4
+    block_aspect_ratio: 11x8-5
     text_size: base
     color: '#ffffff'
     width: '30'
     align_y: start
-    margin_y: '100'
+    margin_y: '900'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
