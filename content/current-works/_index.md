@@ -138,6 +138,52 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
+    meta: Turning Point USA & President"Build the Red Wall"
+    attached_collection: collections/nbc-news.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: center
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
+    attached_collection: collections/switchyard.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
     meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
