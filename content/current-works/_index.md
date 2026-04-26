@@ -45,24 +45,6 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Now Represented by FLINK Artists
-    caption: Los Angles, New York & London
-    attached_blog: posts/flink-artists-announcement.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    vimeo_block_cover: 1060315553
-    block_aspect_ratio: 4x5
-    text_size: base
-    color: '#ffffff'
-    width: '20'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f0dcec'
-    meta:
-    attached: false
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -77,7 +59,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
     theme_color: '#f2f7c8'
@@ -242,6 +224,26 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Now Represented by FLINK Artists
+    caption: Los Angles, New York & London
+    attached_blog: posts/flink-artists-announcement.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    vimeo_block_cover: 1060315553
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f0dcec'
+    meta:
+    attached: false
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
