@@ -710,7 +710,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: 'Amtrak: Where Amtrak Can Take You'
-    attached_collection: collections/bloomberg-nomads-copy-2.md
+    attached_collection: collections/amtrak-southwest-chief.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
     width: '60'
     margin_y: '200'
