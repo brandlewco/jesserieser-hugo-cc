@@ -421,7 +421,7 @@ content_blocks:
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
     width: '25'
-    margin_y: '200'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '35'
     align_y: start
