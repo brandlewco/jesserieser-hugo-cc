@@ -157,15 +157,15 @@ content_blocks:
     text_alignment: left
     text_tracking: wide
     font_weight: hairline
-    meta_align: center
+    meta_align: left
   - _bookshop_name: home/media-feature
     title:
     meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
-    attached_collection: collections/switchyard.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
+    attached_collection: collections/wild-sam.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604_overview-3.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
