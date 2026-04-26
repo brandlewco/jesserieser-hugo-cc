@@ -105,10 +105,10 @@ blog_slider:
     image: >-
       https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
 attached: false
-attached_collection: collections/the-new-york-times-ice.md
+attached_collection: collections/business-insider.md
 attached_link:
 block_aspect_ratio: ratio-16x9
-blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap42-2-spread.jpg
+blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
 blog_header:
 caption: >-
   Golf Digest: "Best Little Golf Towns" & The New York Times: "ICE Detention
