@@ -92,47 +92,24 @@ block_aspect_ratio: ratio-16x9
 blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
 blog_header:
 caption: >-
-  Golf Digest: "Best Little Golf Towns" & The New York Times: "ICE Detention
-  Centers are Meant to Break You"
+  “The True Cost of Data Centers” wins Business Insider their first George Polk
+  Award
 blog_content: >-
-  Excited to announce two 2025 commissions have been named the year's best by
-  American Photography.<br>
+  An investigation that created the most comprehensive national database of data
+  centers and revealed hidden costs of the AI boom. The George Polk Awards,
+  which honor original, resourceful, and thought-provoking investigative work,
+  are widely considered among the most prestigious in journalism. The judges
+  said Business Insider’s investigation was “a thoroughly researched series
+  highlighting the strain new and semi-secret facilities that fuel artificial
+  intelligence are likely to place on communities, diverting overwhelming
+  amounts of power, water and economic support.<br><br>
 
 
-  **Best Little Golf Towns:**
-
-
-  Cattle outnumber people 11-to-1 in Sioux County, Iowa, but that’s not a knock
-  on the golf culture. Sioux Center—a town of 8,500 humans near the border of
-  South Dakota, Nebraska and Minnesota—has one of the largest junior golf
-  programs in the country. <br><br>
-
-
-  Twenty years ago, the golf scene was more like what you’d expect given the
-  population and remote location in the American farmland.” Sioux City serve as
-  models for others. Because golf is best when it embraces its egalitarian
-  side<br>
-
-
-  **The System Is Meant to Break You’: What ICE Is Doing to People Here
-  Legally:**
-
-
-  The videos circulating on social media are brutal and terrifying — the often
-  violent arrests, people pulled screaming from their cars, out of day care
-  centers, away from their children and their spouses. What should give
-  Americans equal pause is the inhumanity happening beyond the cameras, away
-  from the view of judges and lawyers and the media. Due process is not a
-  constitutional right afforded only to citizens; legal restrictions on unlawful
-  detention apply to all people on U.S. soil.<br><br>
-
-
-  The stories we were told call into question both the constitutionality and the
-  morality of how the Trump administration is directing immigration policy. That
-  immorality, once unleashed, may ultimately be aimed at others in this country,
-  regardless of immigration status. If a woman returning from vacation with her
-  young children can be suddenly removed from her family and her life, how can
-  we believe that any of us will remain safe?
+  “The largest data centers can guzzle millions of gallons of fresh water a day.
+  Roughly 40% of US ones, Business Insider found, are in the most water-stressed
+  areas of the country. The companies don’t seek out locations that are arid —
+  they go to places like Arizona for reasons including abundant land and stable
+  supplies of electricity.”
 date:
 news_category: Awards
 theme_color: '#e5e5ef'
