@@ -432,7 +432,7 @@ content_blocks:
     margin_y: '1150'
     margin_left: '0'
     margin_right: '5'
-    meta_align: left
+    meta_align: right
     theme_color: '#fffbd2'
     meta: Awards
     attached: true
