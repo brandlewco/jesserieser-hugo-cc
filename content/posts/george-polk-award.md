@@ -54,56 +54,36 @@ post_blocks:
     caption: ''
     width: '25'
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-10.jpg
     title: blog title
     caption: ''
     width: '25'
   - _bookshop_name: posts/media-row-static
+  - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42digest-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-11.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-12.jpg
+    title: blog title
+    caption: ''
+    width: '50'
+  - _bookshop_name: posts/media-element-static
+    image: https://d1sf55qlb7p6hz.cloudfront.net/polk-13.jpg
     title: blog title
     caption: ''
     width: '100'
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-1.jpg
-    title: blog title
-    caption: ''
-    width: '50'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-2.jpg
-    title: blog title
-    caption: ''
-    width: '50'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-row-static
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-3.jpg
-    title: blog title
-    caption: ''
-    width: '25'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-4.jpg
-    title: blog title
-    caption: ''
-    width: '25'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-5.jpg
-    title: blog title
-    caption: ''
-    width: '25'
-  - _bookshop_name: posts/media-element-static
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ap42ice-6.jpg
-    title: blog title
-    caption: ''
-    width: '25'
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-static
   - _bookshop_name: posts/media-row-end
 blog_slider:
   - _bookshop_name: posts/media-element-url
-    image: https://d1sf55qlb7p6hz.cloudfront.net/PolkLogo-1+copy2.jpg
+    image: ''
 attached: false
 attached_collection: collections/business-insider.md
 attached_link:
