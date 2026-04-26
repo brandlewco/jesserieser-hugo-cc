@@ -49,14 +49,19 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/modal-blog
     title: AP 42 American Photography Annual
-    caption: Los Angles, New York & London
+    caption: |-
+      The New York Times: "ICE Detention Centers are Meant to Break You"
+
+      Golf Digest: "Best Little Golf Towns"
+
+      &nbsp;
     attached_blog: posts/ap-42.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
     vimeo_block_cover: 1186738143
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '25'
     align_y: start
     margin_y: '100'
     margin_left: '10'
