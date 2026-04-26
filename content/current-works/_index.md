@@ -402,7 +402,7 @@ content_blocks:
     meta: 'Testimony:  Reformed Nazi Now Pastor'
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
-    width: '25'
+    width: '30'
     margin_y: '400'
     margin_left: '0'
     margin_right: '0'
@@ -420,20 +420,20 @@ content_blocks:
     font_weight: bold
     meta_align: center
   - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk-2.jpg
-    block_aspect_ratio: 11x8-5
+    title: 2026 George Polk Award
+    caption: The True Cost of Data Centers
+    attached_blog: posts/george-polk-award.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk43-1.jpg
+    block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '25'
     align_y: start
-    margin_y: '900'
+    margin_y: '1150'
     margin_left: '0'
     margin_right: '5'
     meta_align: left
-    theme_color: '#d2fdff'
+    theme_color: '#fffbd2'
     meta: Awards
     attached: true
   - _bookshop_name: home/media-row
