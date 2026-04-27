@@ -153,6 +153,15 @@ collection_blocks:
     color: '#ffe29b'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604reportage-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#ffe29b'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/reportage_202407-25.jpg
     width: '15'
     margin_y: '50'
