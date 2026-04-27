@@ -234,6 +234,15 @@ collection_blocks:
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_politics-12.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#a9cffd'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-8.jpg
     width: '15'
     margin_y: '50'
