@@ -13,6 +13,24 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-1.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#f0cdc4'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-2.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-1.jpg
     width: '15'
     margin_y: '100'
@@ -22,7 +40,7 @@ collection_blocks:
     color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-3.jpg
     width: '15'
     margin_y: '100'
     margin_left: '0'
@@ -67,13 +85,22 @@ collection_blocks:
     color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-4.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: center
-    color: '#fce6c8'
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-5.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-20.jpg
@@ -108,7 +135,16 @@ collection_blocks:
     color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_portraits-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202602_Portrait-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ded6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-6.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -126,15 +162,6 @@ collection_blocks:
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202602_Portrait-1.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#f2ded6'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portrait_202411-1.jpg
     width: '15'
     margin_y: '50'
@@ -142,24 +169,6 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-portraits-2.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#f0cdc4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-6.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-12.jpg
@@ -178,6 +187,24 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-7.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-7.jpg
@@ -269,6 +296,33 @@ collection_blocks:
     align_y: center
     color: '#a9cffd'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604_overview-20.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#a9cffd'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-18.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#fce6c8'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_portraits-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f2ded6'
+    caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 1086148559
     caption: caption
@@ -300,15 +354,6 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#ff8e7d'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-17.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#fbe6df'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/jw_portrait-2.jpg
@@ -356,15 +401,6 @@ collection_blocks:
     color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-4.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#daf0e7'
-    caption: ''
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-15.jpg
     width: '15'
     margin_y: '50'
@@ -372,6 +408,15 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#e0f3eb'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-17.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-22.jpg
@@ -410,6 +455,15 @@ collection_blocks:
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-9.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#fcceb1'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-16.jpg
     width: '15'
     margin_y: '50'
@@ -428,6 +482,15 @@ collection_blocks:
     color: '#f8f2f7'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604Portrait-10.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f2f7'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/portraits-202407-27.jpg
     width: '15'
     margin_y: '50'
@@ -435,15 +498,6 @@ collection_blocks:
     margin_right: '0'
     align_y: center
     color: '#fbe5d2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_portrait-17.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202602_Portrait-6.jpg
