@@ -213,7 +213,7 @@ collection_blocks:
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona_2-1.jpg
     width: '25'
     margin_y: '800'
     margin_left: '0'
