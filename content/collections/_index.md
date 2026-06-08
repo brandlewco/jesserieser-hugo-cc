@@ -13,7 +13,6 @@ collection_sorter:
   - collections/wild-sam.md
   - collections/outdoor-life.md
   - collections/guns-pizza.md
-  - collections/nbc-news.md
   - collections/fights.md
   - collections/dwell.md
   - collections/retail.md
