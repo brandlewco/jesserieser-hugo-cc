@@ -6,7 +6,7 @@ seo:
 title: Industry, Tech & Science
 collection_meta:
 collection_meta_2:
-collection_description: ''
+collection_description:
 collection_description_alignment: center
 slug: Industry-Tech-Science-Overview
 collection_blocks:
@@ -42,7 +42,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202505_tech-2.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: center
@@ -60,7 +60,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202601_tech-3.jpg
     width: '15'
-    margin_y: '50'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '0'
     align_y: center
@@ -213,7 +213,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/tech-202407-1.jpg
     width: '15'
-    margin_y: '100'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y: center
