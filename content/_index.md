@@ -560,7 +560,7 @@ collection_blocks:
     color: '#000000'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202606_OverviewTweak-14.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260609_OverviewTweak-13.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
