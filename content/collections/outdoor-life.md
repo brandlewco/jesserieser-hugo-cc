@@ -156,7 +156,7 @@ collection_blocks:
     color: '#f0d0cf'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260609_OverviewTweak-13.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
