@@ -61,7 +61,7 @@ content_blocks:
     margin_left: '10'
     margin_right: '0'
     meta_align: left
-    theme_color:
+    theme_color: '#ffe5e5'
     meta:
     attached: false
   - _bookshop_name: home/modal-blog
