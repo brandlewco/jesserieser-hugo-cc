@@ -44,15 +44,9 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: 'REC CENTER '
+    title: REC CENTER Coming Soon at David Peterson Gallery
     caption: |-
-      Coming Soon at David Peterson Gallery
-
-      June 20th - August 26th
-
-      David Peterson Gallery
-
-      4116 Cedar Ave S.Minneapolis, MN
+      June 20th - August 26th  Minneapolis, MN
 
       &nbsp;
     attached_blog: posts/dpg-rec-center.md
