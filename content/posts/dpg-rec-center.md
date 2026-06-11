@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'DPG Rec Center '
+title: DPG REC
 post_blocks:
   - _bookshop_name: posts/media-row-start
     row_alignment: between
@@ -18,7 +18,7 @@ blog_header: REC CENTER
 caption: REC CENTER Coming Soon at David Petersen Gallery
 blog_content: >-
   I will be exhibiting Autobiography of A Contact in a sports themed group show
-  at David Petersen Gallery opening June 20th.
+  at David Petersen Gallery opening June 20th through August 26th.
 
 
   &nbsp;
