@@ -46,7 +46,7 @@ content_blocks:
   - _bookshop_name: home/modal-blog
     title: REC CENTER Coming Soon at David Peterson Gallery
     caption: |-
-      June 20th - August 26th  Minneapolis, MN
+      June 20th - August 26th  Minneapolis
 
       &nbsp;
     attached_blog: posts/dpg-rec-center.md
