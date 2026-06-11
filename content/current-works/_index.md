@@ -5,11 +5,9 @@ collection_meta: Recent News
 collection_meta_2:
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
-  recent news.
-
-  For additional projects and archive head over to [all
+  recent news. For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
-collection_description: ''
+collection_description:
 text_alignment: center
 slug: current-works
 seo:
@@ -45,6 +43,44 @@ content_blocks:
     meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: REC CENTER Coming Soon at David Peterson Gallery
+    caption: |-
+      REC CENTER Coming Soon at David Peterson Gallery
+
+      &nbsp;
+    attached_blog: posts/ap-42.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    vimeo_block_cover: 1200496156
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '10'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#c8f7e1'
+    meta:
+    attached: false
+  - _bookshop_name: home/modal-blog
+    title: FOLKLORE
+    caption: Bentley Gallery
+    attached_blog: posts/folkore.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '45'
+    align_y: start
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '10'
+    meta_align: right
+    theme_color: '#ffdcd2'
+    meta: Exhibition
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -70,23 +106,8 @@ content_blocks:
     theme_color: '#f2f7c8'
     meta:
     attached: false
-  - _bookshop_name: home/modal-blog
-    title: FOLKLORE
-    caption: Bentley Gallery
-    attached_blog: posts/folkore.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/jr-bentley-install-4.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '45'
-    align_y: start
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '10'
-    meta_align: right
-    theme_color: '#ffdcd2'
-    meta: Exhibition
-    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
@@ -1129,7 +1150,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_content: ''
+collection_content:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-2-6.jpg
 navigation_theme: black
 row_alignment: between
