@@ -49,10 +49,10 @@ content_blocks:
       REC CENTER Coming Soon at David Peterson Gallery
 
       &nbsp;
-    attached_blog: posts/ap-42.md
+    attached_blog: posts/dpg-rec-center.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
     vimeo_block_cover: 1200496156
-    block_aspect_ratio: 4x3
+    block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
     width: '25'
@@ -97,10 +97,10 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '55'
     margin_right: '0'
     meta_align: left
     theme_color: '#f2f7c8'
