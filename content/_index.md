@@ -764,9 +764,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-62.jpg
-    width: '50'
+    width: '45'
     margin_y: '100'
-    margin_left: '45'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#1c1914'
@@ -775,19 +775,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-63.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
+    width: '45'
+    margin_y: '600'
+    margin_left: '10'
+    margin_right: '0'
     align_y:
     color: '#d9dee1'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-64.jpg
-    width: '25'
-    margin_y: '200'
-    margin_left: '30'
-    margin_right: '0'
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
     color: '#000000'
     caption: ''
