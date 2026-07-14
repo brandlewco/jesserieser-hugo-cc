@@ -739,7 +739,7 @@ collection_blocks:
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
-    caption: ''
+    caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-60.jpg
     width: '30'
@@ -754,8 +754,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-61.jpg
     width: '60'
-    margin_y: '300'
-    margin_left: '5'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#120c05'
