@@ -543,10 +543,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-43.jpg
-    width: '33'
+    width: '45'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y:
     color: '#ece9e2'
     caption: ''
@@ -558,7 +558,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-44.jpg
     width: '45'
     margin_y: '500'
-    margin_left: '20'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#faede1'
