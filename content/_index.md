@@ -568,7 +568,7 @@ collection_blocks:
     width: '25'
     margin_y: '500'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y:
     color: '#bb0412'
     caption:
