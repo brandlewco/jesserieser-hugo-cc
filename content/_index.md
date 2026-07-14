@@ -512,9 +512,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-39.jpg
-    width: '45'
+    width: '55'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -523,10 +523,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-41.jpg
-    width: '25'
+    width: '35'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '20'
+    margin_left: '40'
+    margin_right: '0'
     align_y:
     color: '#280503'
     caption:
