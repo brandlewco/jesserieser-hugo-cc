@@ -416,7 +416,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-33.jpg
     width: '30'
-    margin_y: '400'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '5'
     align_y: start
