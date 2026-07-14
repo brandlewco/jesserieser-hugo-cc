@@ -734,8 +734,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-59.jpg
     width: '50'
-    margin_y: '350'
-    margin_left: '5'
+    margin_y: '450'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
