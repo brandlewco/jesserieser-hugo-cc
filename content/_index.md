@@ -188,23 +188,23 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-16.jpg
     width: '35'
-    margin_y: '400'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#f8f3f3'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-17.jpg
     width: '20'
@@ -274,7 +274,7 @@ collection_blocks:
     width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y:
     color: '#000000'
     caption: ''
@@ -282,13 +282,24 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-22.jpg
-    width: '30'
+    width: '33'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-23.jpg
+    width: '30'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#f8f3f3'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-25.jpg
     width: '50'
@@ -298,8 +309,6 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
