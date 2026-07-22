@@ -324,13 +324,22 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-25.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
+    width: '50'
+    margin_y: '700'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-66.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
+    align_y:
+    color: '#5f5547'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -346,10 +355,10 @@ collection_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '80'
+    width: '60'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -777,42 +786,33 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-62.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#1c1914'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-64.jpg
-    width: '45'
+    width: '40'
     margin_y: '600'
-    margin_left: '10'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y:
     color: '#d9dee1'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-65.jpg
-    width: '30'
+    width: '33'
     margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-66.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y:
-    color: '#5f5547'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
