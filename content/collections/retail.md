@@ -26,7 +26,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-7.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
@@ -37,18 +37,18 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-2.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-8.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-4.jpg
     width: '45'
-    margin_y: '700'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -57,8 +57,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-4.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-6.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
@@ -68,52 +68,43 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-5.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
     color: '#f8f2f7'
-    caption: ''
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-2.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#fbe5d2'
     caption:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-7.jpg
-    width: '50'
-    margin_y: '500'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-3.jpg
+    width: '45'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y: start
     color: '#ff8e7d'
-    caption: ''
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-8.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: center
-    color: '#dcdee5'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-9.jpg
-    width: '25'
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
     color: '#ffdfc9'
@@ -123,7 +114,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-10.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '20'
     margin_right: '0'
     align_y: center
@@ -132,7 +123,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-11.jpg
     width: '30'
-    margin_y: '100'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -141,43 +132,54 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-5.jpg
     width: '55'
-    margin_y: '400'
-    margin_left: '5'
+    margin_y: '200'
+    margin_left: '25'
     margin_right: '0'
     align_y: center
+    color: '#dcdee5'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-12.jpg
+    width: '45'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
     color: '#ff0000'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-13.jpg
-    width: '33'
-    margin_y: '100'
+    width: '30'
+    margin_y: '600'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '15'
     align_y: start
     color: '#f0cdc4'
-    caption: ''
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-14.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#a9cffd'
-    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-15.jpg
     width: '45'
     margin_y: '300'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: center
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
     color: '#ff0000'
     caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-14.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#a9cffd'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
