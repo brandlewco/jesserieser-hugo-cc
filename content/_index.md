@@ -434,7 +434,7 @@ collection_blocks:
     color: '#f8f3f3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607_overview-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/OverViewClarity-47_grained-2.jpg
     width: '30'
     margin_y: '600'
     margin_left: '0'
