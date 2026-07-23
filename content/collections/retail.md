@@ -40,17 +40,17 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-8.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-4.jpg
-    width: '45'
+    width: '33'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '25'
     align_y: start
     color: '#fcceb1'
     caption: ''
@@ -58,9 +58,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-6.jpg
-    width: '33'
+    width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '50'
     margin_right: '0'
     align_y: center
     color: '#daf0e7'
@@ -69,7 +69,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
-    width: '55'
+    width: '60'
     margin_y: '100'
     margin_left: '25'
     margin_right: '0'
@@ -221,7 +221,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-19.jpg
-    width: '45'
+    width: '50'
     margin_y: '400'
     margin_left: '5'
     margin_right: '0'
@@ -230,7 +230,7 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-20.jpg
-    width: '40'
+    width: '35'
     margin_y: '100'
     margin_left: '0'
     margin_right: '5'
@@ -241,33 +241,33 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-21.jpg
-    width: '25'
+    width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '10'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#daf0e7'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-22.jpg
+    width: '25'
+    margin_y: '450'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#fbe5d2'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-22.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#fbe5d2'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-23.jpg
     width: '50'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '35'
     margin_right: '0'
     align_y: center
     color: '#dcdee5'
@@ -277,7 +277,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-24.jpg
     width: '35'
-    margin_y: '800'
+    margin_y: '600'
     margin_left: '15'
     margin_right: '0'
     align_y: center
@@ -308,7 +308,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-28.jpg
     width: '30'
-    margin_y: '750'
+    margin_y: '500'
     margin_left: '15'
     margin_right: '0'
     align_y: start
