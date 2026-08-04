@@ -4,11 +4,9 @@ collection_meta: Recent News
 collection_meta_2:
 feature_description: >-
   Here you will find handpicked photographic art works, client commissions, and
-  recent news.
-
-  For additional projects and archive head over to [all
+  recent news. For additional projects and archive head over to [all
   works.](https://jesserieser.com/collections/)
-collection_description: ''
+collection_description:
 text_alignment: center
 slug: current-works
 seo:
@@ -45,21 +43,26 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Now Represented by FLINK Artists
-    caption: Los Angles, New York & London
-    attached_blog: posts/flink-artists-announcement.md
+    title: REC CENTER Coming Soon at David Peterson Gallery
+    caption: |-
+      June 20th - August 26th
+
+      Minneapolis
+
+      &nbsp;
+    attached_blog: posts/dpg-rec-center.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    vimeo_block_cover: 1060315553
-    block_aspect_ratio: 4x5
+    vimeo_block_cover: 1200496156
+    block_aspect_ratio: 3x4
     text_size: base
-    color: '#ffffff'
-    width: '20'
+    color: '#ffbcbc'
+    width: '25'
     align_y: start
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     meta_align: left
-    theme_color: '#f0dcec'
+    theme_color: '#ffe5e5'
     meta:
     attached: false
   - _bookshop_name: home/modal-blog
@@ -72,13 +75,40 @@ content_blocks:
     color: '#ffffff'
     width: '45'
     align_y: start
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '10'
     meta_align: right
-    theme_color: '#ffdcd2'
+    theme_color: '#d8f3fa'
     meta: Exhibition
     attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: AP 42 American Photography Annual
+    caption: |-
+      The New York Times: "ICE Detention Centers are Meant to Break You"
+
+      Golf Digest: "Best Little Golf Towns"
+
+      &nbsp;
+    attached_blog: posts/ap-42.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    vimeo_block_cover: 1186738143
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f2f7c8'
+    meta:
+    attached: false
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
@@ -90,14 +120,14 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '5'
     margin_right: '0'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
     width: '30'
     margin_y: '100'
     margin_left: '0'
@@ -133,6 +163,52 @@ content_blocks:
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'NBC News: Turning Point USA''s "Build the Red Wall"'
+    attached_collection: collections/nbc-news.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
+    width: '33'
+    margin_y: '550'
+    margin_left: '25'
+    margin_right: '0'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Wild Sam: Sedona, Seeing Red'
+    attached_collection: collections/wild-sam.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604_overview-3.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -175,6 +251,8 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -238,12 +316,12 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'The New Yorker: Can the Golden Age of Costco Last?'
-    attached_collection: collections/the-new-yorker.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
-    width: '30'
+    meta: 'Dwell: Corner Story'
+    attached_collection: collections/dwell.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-8.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#d0e5ef'
@@ -328,8 +406,8 @@ content_blocks:
     title: 'AP 40: American Photography Annual '
     caption: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_cover.jpg
-    block_aspect_ratio: 4x3
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_01.jpg
+    block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
     width: '15'
@@ -346,10 +424,10 @@ content_blocks:
     meta: 'Testimony:  Reformed Nazi Now Pastor'
     attached_collection: collections/christianity-today.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
-    width: '33'
-    margin_y: '250'
+    width: '30'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '0'
     align_y: start
     color: '#faf2ea'
     caption: ''
@@ -363,36 +441,45 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: center
+  - _bookshop_name: home/modal-blog
+    title: 2026 George Polk Award
+    caption: The True Cost of Data Centers
+    attached_blog: posts/george-polk-award.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk43-1.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '1150'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#fffbd2'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: A Ghost In the Graveyard Made of Thorns
-    attached_collection: collections/a-ghost.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/desert_night-1.jpg
-    width: '50'
-    margin_y: '500'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#d4dee6'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1163726847
+    caption:
+    meta: 'The New York Times: ICE is Meant to Break You'
     meta_align: left
+    attached_collection: collections/the-new-york-times-ice.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 4x5
+    width: '30'
+    align_y: start
+    margin_y: '800'
+    margin_left: '15'
+    margin_right: '0'
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Golf Digest: Jack Vs. Nicklaus '
-    attached_collection: collections/golfdigest-nicklaus.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
-    width: '25'
+    meta: 'Golf Digest: Bernhard Langer. The Age(less) Golfer'
+    attached_collection: collections/golf-digest-bernhard-langer.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
+    width: '35'
     margin_y: '100'
     margin_left: '0'
     margin_right: '15'
@@ -411,6 +498,48 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Now Represented by FLINK Artists
+    caption: Los Angles, New York & London
+    attached_blog: posts/flink-artists-announcement.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    vimeo_block_cover: 1060315553
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f0dcec'
+    meta:
+    attached: false
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'The New Yorker: Can the Golden Age of Costco Last?'
+    attached_collection: collections/the-new-yorker.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
+    width: '30'
+    margin_y: '350'
+    margin_left: '0'
+    margin_right: '45'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'The Wall Street Journal: A Second Act'
@@ -418,7 +547,7 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#c9fce6'
@@ -439,9 +568,9 @@ content_blocks:
     attached_collection: collections/hermès-copy.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -462,31 +591,9 @@ content_blocks:
     meta: 'Golf Digest: All The Rage'
     attached_collection: collections/fights.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#afd0f5'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: Best Little Golf Towns'
-    attached_collection: collections/golf-digest-best-little-golf-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
-    width: '33'
-    margin_y: '450'
-    margin_left: '0'
+    width: '35'
+    margin_y: '300'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#cd98d4'
@@ -501,6 +608,28 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Best Little Golf Towns'
+    attached_collection: collections/golf-digest-best-little-golf-towns.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -648,7 +777,7 @@ content_blocks:
     title:
     meta: 'Smithsonian: Kitt Peak National Observatory '
     attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/kitt_redo-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-16.jpg
     width: '60'
     margin_y: '400'
     margin_left: '0'
@@ -692,9 +821,9 @@ content_blocks:
     meta: meta
   - _bookshop_name: home/media-feature
     title:
-    meta: 'The New York Times: In Search of Boring Business'
-    attached_collection: collections/bloomberg-nomads-copy-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/jrieser_nyt-aluminum-16.jpg
+    meta: 'Amtrak: Where Amtrak Can Take You'
+    attached_collection: collections/amtrak-southwest-chief.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
     width: '60'
     margin_y: '200'
     margin_left: '0'
@@ -733,10 +862,10 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'AARP: Washed Away'
-    attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/aarp_flood-8.jpg
-    width: '66'
+    meta: 'The New York Times: Adelita Grijalva'
+    attached_collection: collections/armani-anniversary-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
+    width: '35'
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
@@ -753,6 +882,30 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: left
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'AARP: Washed Away'
+    attached_collection: collections/aarp.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202603_aarp_reedit-1.jpg
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -761,16 +914,14 @@ content_blocks:
     block_aspect_ratio: 4x3
     text_size: 2xl
     color: '#daceea'
-    width: '20'
+    width: '45'
     align_y: start
-    margin_y: '1000'
-    margin_left: '0'
+    margin_y: '100'
+    margin_left: '30'
     margin_right: '0'
     meta_align: right
     theme_color: '#c8b3eb'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -818,7 +969,7 @@ content_blocks:
     title:
     meta: 'Bloomberg: America''s New Climate Nomads '
     attached_collection: collections/bloomberg-nomads.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nomad_recolor-18.jpg
     width: '25'
     margin_y: '50'
     margin_left: '0'
@@ -943,7 +1094,7 @@ content_blocks:
     title:
     meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
     attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-18.jpg
     width: '55'
     margin_y: '350'
     margin_left: '0'
@@ -963,20 +1114,28 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086611030
-    caption: caption
-    meta: 'Antoine''s Escalaras: Communication Arts Photo Annual'
-    meta_align: center
-    attached_collection: collections/antoine-s-escalaras.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '66'
-    align_y: start
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Jack Vs. Nicklaus '
+    attached_collection: collections/golfdigest-nicklaus.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
+    width: '33'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '20'
     margin_right: '0'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -992,7 +1151,7 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row-end
-collection_content: ''
+collection_content:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-2-6.jpg
 navigation_theme: black
 row_alignment: between

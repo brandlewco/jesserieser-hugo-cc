@@ -67,20 +67,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/hermes_redo-4.jpg
     width: '55'
-    margin_y: '300'
-    margin_left: '20'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#d9e3f4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-6.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#e6f3e6'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between

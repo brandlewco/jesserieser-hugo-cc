@@ -13,7 +13,11 @@ collection_description: >-
   Americans equal pause is the inhumanity happening beyond the cameras, away
   from the view of judges and lawyers and the media. Due process is not a
   constitutional right afforded only to citizens; legal restrictions on unlawful
-  detention apply to all people on U.S. soil
+  detention apply to all people on U.S. soil.
+
+
+  Celebrated in the upcoming AP 42 American Photography annual as one of the
+  year's best in editorial photography.
 collection_description_alignment: center
 slug: nyt-ice
 collection_blocks:
@@ -159,6 +163,7 @@ collection_category:
   - Environments
   - Reportage
   - Motion
+  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'

@@ -127,7 +127,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-11.jpg
     width: '25'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '25'
     margin_right: '0'
     align_y:
@@ -136,9 +136,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-12.jpg
     width: '40'
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y:
     color: '#f4d4d3'
     caption:
@@ -147,34 +147,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-13.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y:
-    color: '#c2f4f4'
-    caption:
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
-    width: '30'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '30'
+    width: '35'
+    margin_y: '500'
+    margin_left: '35'
+    margin_right: '0'
     align_y:
     color: '#f0d0cf'
     caption:
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-15.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260609_OverviewTweak-13.jpg
+    width: '25'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#d9e3f4'
     caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -202,9 +193,9 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-24.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/outdoor_redo-3x4-1.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-14.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-13.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg

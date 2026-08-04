@@ -22,13 +22,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-1b.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202603_gc_recolor-1.jpg
+    width: '50'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
-    align_y: center
-    color: '#c2a282'
+    align_y: start
+    color: '#dfebef'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -95,43 +95,25 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13b-single.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
+    width: '35'
+    margin_y: '650'
+    margin_left: '15'
     margin_right: '0'
-    align_y: start
-    color: '#e8f3f3'
+    align_y: center
+    color: '#fae386'
     caption:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-13c-single.jpg
-    width: '25'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: start
     color: '#f9eae0'
     caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-8.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#c6a5c1'
-    caption:
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/timeGC-10.jpg
-    width: '25'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: center
-    color: '#fae386'
-    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -174,9 +156,9 @@ theme_color_all_works: '#ffbaba'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-6.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-5.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/time-gc_redo-3x4-8.jpg
 collection_content: >-
   “*As Grand Canyon National Park Turns 100, Its’ Chief Ranger Plans for the

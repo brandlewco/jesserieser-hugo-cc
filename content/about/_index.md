@@ -9,7 +9,7 @@ cover_image: https://d1sf55qlb7p6hz.cloudfront.net/bio_final-5.jpg
 collection_logo:
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/info-2.jpg
 slug: about
-collection_description: ''
+collection_description:
 theme_color: '#bde6c5'
 navigation_theme: black
 header_col_1_title: 'U.S. & International Advertising '

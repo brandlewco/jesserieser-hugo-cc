@@ -58,9 +58,18 @@ collection_blocks:
     color: '#f8e8dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202604sport-1.jpg
     width: '15'
     margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#f8e8dc'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-5.jpg
+    width: '15'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
@@ -145,15 +154,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-14.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#fbfbf9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-7.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -261,6 +261,15 @@ collection_blocks:
     color: '#d8c9d8'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260227_Sport-1.jpg
+    width: '15'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
+    align_y:
+    color: '#e4ebed'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-23.jpg
     width: '15'
     margin_y: '50'
@@ -322,15 +331,6 @@ collection_blocks:
     margin_right: '0'
     align_y:
     color: '#d9e5de'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-13.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#e4ebed'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-40.jpg

@@ -2,147 +2,129 @@
 _schema: default
 seo:
   meta_description: >-
-    Photographer Jesse Rieser photographs golf legend Bernhard Langer for the
-    cover of Golf Digest
+    West Coast photographer Jesse Rieser photographs houses under construction
+    for the The New York Times
   meta_title: >-
-    Photographer Jesse Rieser photographs golf legend Bernhard Langer for the
-    cover of Golf Digest
-title: 'Golf Digest '
-collection_meta: 'Bernhard Langer:'
-collection_meta_2: The Age(less) Golfer
+    West Coast photographer Jesse Rieser photography for Ezra Kline's Housing
+    Crisis Essay
+title: The New York Times
+collection_meta: 'America’s '
+collection_meta_2: Housing Crisis
 collection_description: >-
-  Bernhard Langer is the oldest player to win a PGA Tour Champions event. At 68,
-  the legendary golfer shares his insights and tips for longevity, success, and
-  fulfillment in the game.
+  The core of the problem is simple: Too much money chasing too few homes. How
+  many more homes does America need? I’ve seen estimates ranging from two
+  million to five million. It’s a shortage decades in the making — and one we’re
+  nowhere near on track to solving. In 2025, America built fewer homes per
+  100,000 people than it did in 2005, 1995, 1985 or 1975.
+
+
+  \- Ezra Kline
 collection_description_alignment: center
-slug: gd-langer
+slug: nyt-housing
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-1.jpg
-    width: '90'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-1.jpg
+    width: '55'
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#edd7b2'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-2.jpg
-    width: '33'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-2.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    margin_left: '55'
+    margin_right: '10'
     align_y:
     color: '#e2cfef'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
-    width: '20'
-    margin_y: '800'
-    margin_left: '0'
-    margin_right: '25'
-    align_y:
-    color: '#cdf3ec'
-    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-4.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-3.jpg
     width: '30'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f9d5d3'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-5.jpg
-    width: '20'
-    margin_y: '250'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-4.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '30'
     align_y:
     color: '#d9e3f4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-6.jpg
-    width: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-5.jpg
+    width: '60'
     margin_y: '100'
-    margin_left: '35'
-    margin_right: '20'
-    align_y:
-    color: '#e6f3e6'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-7.jpg
-    width: '66'
-    margin_y: '50'
     margin_left: '20'
-    margin_right: '0'
-    align_y:
-    color: '#cff1f3'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-8.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#ffe5c9'
     caption: ''
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1167473478
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 1x1
-    width: '33'
-    align_y: start
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '0'
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-13.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-6.jpg
+    width: '20'
+    margin_y: '900'
+    margin_left: '35'
     margin_right: '0'
     align_y:
-    color: '#c2f4f4'
+    color: '#cff1f3'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-7.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y:
+    color: '#ebd1ef'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-8.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#cef8e1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-14.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-10.jpg
+    width: '30'
     margin_y: '100'
     margin_left: '35'
     margin_right: '0'
     align_y:
-    color: '#f0d0cf'
+    color: '#f9d4c0'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -154,27 +136,26 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-12.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-14.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-6.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-5.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Editorial
-  - Portraits
-  - Sports + Athletes
-  - Black and White
-  - Studio
+  - Color
+  - Environments
+  - Reportage
 date: 2019-05-01T07:00:00Z
 theme_color: '#bfc2ea'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-14.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-8.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-9.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer_covers-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/20260228_Housing_covers-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/4x3_2023-11.jpg
 collection_content: >-
   A young hunter sets out to track big mule deer through the desert, leaving his
   usual hunting buddy behind. ⁠

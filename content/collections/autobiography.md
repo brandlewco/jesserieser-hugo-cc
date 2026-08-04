@@ -74,7 +74,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-6.jpg
     width: '33'
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -158,7 +158,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-14.jpg
     width: '40'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '10'
     align_y: center
@@ -209,7 +209,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-19.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -271,7 +271,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-25.jpg
     width: '25'
-    margin_y: '700'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '10'
     align_y: center
@@ -457,7 +457,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-43.jpg
     width: '33'
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '10'
     margin_right: '0'
     align_y: center

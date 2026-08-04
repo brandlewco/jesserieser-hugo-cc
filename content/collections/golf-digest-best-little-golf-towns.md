@@ -11,6 +11,10 @@ collection_meta_2: Sioux Center, Iowa
 collection_description: >-
   "There’s not a whole lot to do in these small communities, so people are just
   eaten up with golf."
+
+
+  Celebrated in the upcoming AP 42 American Photography annual as one of the
+  year's best in editorial photography.
 collection_description_alignment: center
 slug: golfdigest_littlegolftowns
 collection_blocks:
@@ -120,15 +124,6 @@ collection_blocks:
     align_y: start
     color: '#f3e7dd'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR-GD_SMallTowns-35.jpg
-    width: '20'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#f8f2f7'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -222,7 +217,7 @@ collection_blocks:
     color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-26.jpg
     width: '30'
     margin_y: '200'
     margin_left: '0'
@@ -249,24 +244,6 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-20.jpg
-    width: '50'
-    margin_y: '200'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#e0eae7'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-16.jpg
-    width: '25'
-    margin_y: '850'
-    margin_left: '5'
-    margin_right: '10'
-    align_y: start
-    color: '#fbe6df'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -274,20 +251,11 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-25.jpg
     width: '35'
-    margin_y: '400'
+    margin_y: '200'
     margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#fbe5d2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-26.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#ff8e7d'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -340,32 +308,14 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-32.jpg
     width: '25'
-    margin_y: '750'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#d9d1ce'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-33.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#ff8e7d'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_-30.jpg
-    width: '45'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y: start
-    color: '#edd5be'
+    color: '#d9d1ce'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -389,14 +339,18 @@ collection_category:
   - Kids
   - Still Life + Details
   - Lifestyle
+  - Award Winning
 date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/golfcovers_littletown-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/JR_GDSmallTowns_Covers-6.jpg

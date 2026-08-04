@@ -2,283 +2,161 @@
 _schema: default
 seo:
   meta_description: >-
-    Georgia's Flint River in Southern Living  by West Coast Photographer, Jesse
-    Rieser
-  meta_title: >-
-    Georgia's Flint River in Southern Living  by West Coast Photographer, Jesse
-    Rieser
-title: Southern Living
-collection_meta: 'Georgia''s Flint River:'
-collection_meta_2: The South's Greatest Natural Wonder
-collection_description: >-
-  A journey down one of the most ecologically diverse rivers in the Southeast
-  reveals beauty around each bend.
-
-
-  The Flint River snakes down Georgia, a safe distance from I-85 and I-75,
-  before joining the Chattahoochee River in Lake Seminole and cutting across the
-  Florida Panhandle as the Apalachicola River. It is home to the endemic and
-  feisty shoal bass and also to one of the country’s most beautiful and rare
-  flowers, the shoals spider lily. It has a history with a few American
-  Presidents. Franklin D. Roosevelt fished in the river, which was near his
-  Little White House, and decades ago, it was saved by Georgia’s own Jimmy
-  Carter. Yet the Flint remains somewhat obscure, which is both a benefit—for
-  those seeking quiet refuge—and a liability. If the past has proven anything
-  with this river, as with other wild places, you have to know it to want to
-  protect it.
+    Travel story for Wild Sam: "Sedona, AZ: Seeing Red" by West Coast
+    Photographer, Jesse Rieser
+  meta_title: 'Wild Sam: "Sedona, AZ: Seeing Red"'
+title: Wild Sam
+collection_meta: 'Sedona:'
+collection_meta_2: Seeing Red
+collection_description: Fall Under the Spell of Sedona’s magnetic landscapes and undeniable aura.
 collection_description_alignment: center
-slug: sl-flint
+slug: wildsam_sedona
 collection_blocks:
   - _bookshop_name: collections/media-row-start
-    row_alignment: between
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1137957648
-    caption: ''
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#ff0000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '80'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    text: ''
-  - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-1.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-1.jpg
+    width: '60'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#f2ded6'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-2.jpg
+    width: '50'
+    margin_y: '700'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3.jpg
     width: '33'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '0'
     align_y: start
     color: '#fcceb1'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-3.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-4.jpg
+    width: '33'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '20'
     margin_right: '0'
-    align_y: center
+    align_y: start
+    color: '#f2ded6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-5.jpg
+    width: '20'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
     color: '#daf0e7'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-4.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: center
-    color: '#f8f2f7'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-6.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '40'
     margin_right: '0'
-    align_y: start
-    color: '#fbe5d2'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-6.jpg
-    width: '35'
-    margin_y: '550'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#ff8e7d'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-7.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: start
-    color: '#dcdee5'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-8.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#ffdfc9'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-9.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#e0f3eb'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-10.jpg
-    width: '25'
-    margin_y: '600'
-    margin_left: '0'
-    margin_right: '25'
-    align_y: start
-    color: '#f5ecba'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-11.jpg
-    width: '40'
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#f3e7dd'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-12.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
     align_y: start
     color: '#f0cdc4'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-13.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-7.jpg
+    width: '20'
+    margin_y: '550'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#a9cffd'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-14.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-8.jpg
+    width: '45'
     margin_y: '100'
-    margin_left: '30'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#edd5be'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-15.jpg
-    width: '33'
-    margin_y: '500'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-9.jpg
+    width: '45'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
-    align_y: start
-    color: '#fbe6df'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-16.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '45'
     margin_right: '0'
     align_y: start
-    color: '#ff0000'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-17.jpg
-    width: '80'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#fce6c8'
+    color: '#f3e7dd'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-18.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#d9d1ce'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-19.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#e0eae7'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-20.jpg
-    width: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-12.jpg
+    width: '50'
     margin_y: '100'
     margin_left: '30'
     margin_right: '0'
     align_y: start
-    color: '#fcceb1'
+    color: '#dcdee5'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-21.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-13.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#f2ded6'
+    color: '#ffdfc9'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-22.jpg
-    width: '30'
-    margin_y: '550'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-14.jpg
+    width: '45'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '10'
+    align_y: start
+    color: '#e0f3eb'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-11.jpg
+    width: '20'
+    margin_y: '900'
+    margin_left: '10'
+    margin_right: '0'
+    align_y: start
+    color: '#ff8e7d'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-15.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '30'
     align_y: start
     color: '#daf0e7'
     caption: ''
@@ -286,21 +164,60 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-23.jpg
-    width: '25'
-    margin_y: '500'
-    margin_left: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-16.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
-    color: '#f8f2f7'
+    color: '#ff0000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-24.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-17.jpg
+    width: '30'
     margin_y: '100'
     margin_left: '0'
     margin_right: '0'
+    align_y: start
+    color: '#fce6c8'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-18.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#d9d1ce'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-19.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#fcceb1'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona_2-1.jpg
+    width: '25'
+    margin_y: '800'
+    margin_left: '0'
+    margin_right: '20'
     align_y: start
     color: '#fbe5d2'
     caption: ''
@@ -308,14 +225,86 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-25.jpg
-    width: '60'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-22.jpg
+    width: '30'
+    margin_y: '350'
+    margin_left: '35'
+    margin_right: '0'
+    align_y: start
+    color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-21.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '5'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-23.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#f5ecba'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-24.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
     align_y: start
     color: '#dcdee5'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-25.jpg
+    width: '30'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '30'
+    align_y: start
+    color: '#ffdfc9'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-27.jpg
+    width: '20'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
+    align_y: start
+    color: '#d9d1ce'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-26.jpg
+    width: '40'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#e0f3eb'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -325,48 +314,41 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-28.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#a9cffd'
+    caption: ''
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-8.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-11.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-covers-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-covers-4.jpg
 collection_filter: Commissioned + Stock
 collection_category:
-  - Environments
   - Color
   - Reportage
   - Editorial
-  - Motion
-  - Sports + Athletes
-  - Portraits
   - Travel
+  - Portraits
+  - Environments
 date: 2019-05-01T07:00:00Z
 theme_color: '#fbd3af'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_JR-SL-25.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202511_Slcovers-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-10.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-4.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/rieser-ws-sedona-3x4-9.jpg
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where

@@ -49,7 +49,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-3.jpg
     width: '50'
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -142,7 +142,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-12.jpg
     width: '40'
-    margin_y: '300'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -215,7 +215,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-18.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -275,42 +275,24 @@ collection_blocks:
     color: '#e5d4cb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-27.jpg
     width: '30'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
-    color: '#e0c6ca'
+    color: '#d8c9d8'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-26.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-28.jpg
+    width: '35'
     margin_y: '100'
     margin_left: '40'
     margin_right: '0'
-    align_y:
-    color: '#afb1b7'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-27.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#d8c9d8'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-28.jpg
-    width: '33'
-    margin_y: '300'
-    margin_left: '5'
-    margin_right: '5'
     align_y:
     color: '#eff5f6'
     caption: ''
@@ -318,9 +300,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-29.jpg
-    width: '45'
+    width: '55'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#f1ebe6'
@@ -331,7 +313,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-30.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#d9e5de'
@@ -339,9 +321,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-31.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y:
     color: '#e4ebed'
     caption: ''
@@ -350,27 +332,38 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-32.jpg
     width: '45'
-    margin_y: '100'
-    margin_left: '40'
+    margin_y: '350'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#eee6dc'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-33.jpg
     width: '25'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#ddefec'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-25.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y:
+    color: '#e0c6ca'
+    caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-34.jpg
     width: '45'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -401,7 +394,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-37.jpg
     width: '25'
-    margin_y: '500'
+    margin_y: '550'
     margin_left: '0'
     margin_right: '20'
     align_y:
@@ -443,7 +436,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-41.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -465,7 +458,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-43.jpg
     width: '30'
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '20'
     margin_right: '0'
     align_y:
@@ -507,7 +500,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-47.jpg
     width: '33'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -538,7 +531,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-50.jpg
     width: '45'
-    margin_y: '400'
+    margin_y: '450'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -560,7 +553,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-52.jpg
     width: '40'
-    margin_y: '400'
+    margin_y: '450'
     margin_left: '5'
     margin_right: '0'
     align_y:
@@ -621,9 +614,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-58.jpg
-    width: '40'
-    margin_y: '400'
-    margin_left: '5'
+    width: '35'
+    margin_y: '600'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#f5e7ce'
@@ -639,33 +632,15 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-60.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y:
-    color: '#14212f'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-61.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '40'
-    margin_right: '0'
-    align_y:
-    color: '#eedee1'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-62.jpg
-    width: '50'
+    width: '55'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '25'
     margin_right: '0'
     align_y:
     color: '#000000'
@@ -675,8 +650,8 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-63.jpg
     width: '33'
-    margin_y: '100'
-    margin_left: '5'
+    margin_y: '900'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#b3bda5'
@@ -684,9 +659,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-64.jpg
     width: '40'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '5'
     align_y:
     color: '#885872'
     caption: ''
@@ -694,9 +669,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-65.jpg
-    width: '33'
+    width: '45'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#261819'
@@ -715,7 +690,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-67.jpg
     width: '50'
-    margin_y: '300'
+    margin_y: '400'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -747,9 +722,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-70.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '25'
+    width: '25'
+    margin_y: '500'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#5f5547'
@@ -769,7 +744,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202512_xmas-redo-72.jpg
     width: '60'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '20'
     margin_right: '0'
     align_y:
     color: '#14212f'

@@ -108,7 +108,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202506_adobe_redo-10.jpg
     width: '25'
-    margin_y: '700'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '0'
     align_y: center
