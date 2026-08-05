@@ -565,7 +565,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: 'Road and Track: The Drag Scene'
-    attached_collection: collections/hermès-copy.md
+    attached_collection: collections/road-and-track.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
     width: '33'
     margin_y: '500'
