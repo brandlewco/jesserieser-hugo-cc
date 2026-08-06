@@ -479,8 +479,8 @@ collection_blocks:
     color: '#9F9F9F'
     caption:
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-3.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/verticalcovers-7.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/auto_banner2-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/auto_banner2-2.jpg
 collection_filter: Personal
 collection_category:
   - Award Winning
