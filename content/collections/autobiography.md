@@ -127,7 +127,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_missingb-1.jpg
     width: '33'
     margin_y: '100'
     margin_left: '15'
