@@ -581,6 +581,9 @@ collection_press:
       Gaurdian</em></a>
   - content: <em>Nacione</em>
 collection_exhibition:
+  - content: >-
+      <p><strong>2026</strong><br /><em>DPG REC</em><br />David Petersen
+      Gallery.<br />Minneapolis, MN. (Group Show)</p>
 collection_overview: false
 collection_grid: false
 collection_dark: false
