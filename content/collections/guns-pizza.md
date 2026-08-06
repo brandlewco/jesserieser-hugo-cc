@@ -19,10 +19,10 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-11.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '45'
+    margin_left: '30'
     margin_right: '0'
     align_y:
     color: '#edeff2'
@@ -30,18 +30,29 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-15.jpg
     width: '55'
-    margin_y: '600'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y:
+    color: '#000000'
+    caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-14.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-4.jpg
-    width: '30'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-13.jpg
+    width: '55'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y:
@@ -50,7 +61,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-12.jpg
     width: '55'
     margin_y: '100'
     margin_left: '25'
@@ -61,27 +72,18 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-16.jpg
     width: '33'
-    margin_y: '500'
-    margin_left: '15'
+    margin_y: '100'
+    margin_left: '35'
     margin_right: '0'
     align_y:
     color: '#9d0310'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-7.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y:
-    color: '#d5d3c6'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-17.jpg
     width: '50'
     margin_y: '100'
     margin_left: '25'
@@ -92,28 +94,28 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-18.jpg
     width: '50'
     margin_y: '400'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     align_y:
     color: '#eefbe7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-9.jpg
-    width: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-19.jpg
+    width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y:
     color: '#e5ecf5'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-10.jpg
-    width: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-20.jpg
+    width: '30'
     margin_y: '100'
     margin_left: '15'
     margin_right: '0'
@@ -121,11 +123,11 @@ collection_blocks:
     color: '#ece9e2'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-41.jpg
-    width: '25'
-    margin_y: '800'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-21.jpg
+    width: '45'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y:
     color: '#1c1914'
     caption: ''
@@ -134,7 +136,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-22.jpg
     width: '50'
     margin_y: '100'
     margin_left: '35'
@@ -145,7 +147,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-13.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-23.jpg
     width: '45'
     margin_y: '500'
     margin_left: '20'
@@ -154,7 +156,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-24.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
@@ -169,7 +171,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-16.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-25.jpg
     width: '45'
     margin_y: '100'
     margin_left: '35'
@@ -180,7 +182,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-26.jpg
     width: '50'
     margin_y: '100'
     margin_left: '20'
@@ -191,7 +193,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-27.jpg
     width: '45'
     margin_y: '100'
     margin_left: '5'
@@ -200,7 +202,7 @@ collection_blocks:
     color: '#faede1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-28.jpg
     width: '33'
     margin_y: '700'
     margin_left: '0'
@@ -211,7 +213,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-29.jpg
     width: '45'
     margin_y: '100'
     margin_left: '30'
@@ -222,7 +224,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-21.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-30.jpg
     width: '35'
     margin_y: '100'
     margin_left: '15'
@@ -231,7 +233,7 @@ collection_blocks:
     color: '#eae2cc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-22.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-31.jpg
     width: '35'
     margin_y: '100'
     margin_left: '0'
@@ -242,7 +244,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-23.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-33.jpg
     width: '25'
     margin_y: '100'
     margin_left: '5'
@@ -251,7 +253,7 @@ collection_blocks:
     color: '#ffe29b'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-32.jpg
     width: '40'
     margin_y: '600'
     margin_left: '0'
@@ -262,7 +264,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-34.jpg
     width: '35'
     margin_y: '100'
     margin_left: '15'
@@ -273,7 +275,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-26.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-35.jpg
     width: '30'
     margin_y: '100'
     margin_left: '35'
@@ -282,7 +284,7 @@ collection_blocks:
     color: '#afb1b7'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-50.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-36.jpg
     width: '20'
     margin_y: '150'
     margin_left: '0'
@@ -293,7 +295,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-28.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-37.jpg
     width: '45'
     margin_y: '100'
     margin_left: '10'
@@ -304,7 +306,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-33.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-38.jpg
     width: '50'
     margin_y: '100'
     margin_left: '30'
@@ -317,7 +319,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-29.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-39.jpg
     width: '50'
     margin_y: '400'
     margin_left: '5'
@@ -326,7 +328,7 @@ collection_blocks:
     color: '#f1ebe6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-30.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-40.jpg
     width: '35'
     margin_y: '100'
     margin_left: '0'
@@ -345,7 +347,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-36.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-45.jpg
     width: '30'
     margin_y: '100'
     margin_left: '15'
@@ -354,7 +356,7 @@ collection_blocks:
     color: '#f4f4eb'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-37.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-44.jpg
     width: '40'
     margin_y: '400'
     margin_left: '0'
@@ -365,7 +367,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-38.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-43.jpg
     width: '40'
     margin_y: '500'
     margin_left: '30'
@@ -374,7 +376,7 @@ collection_blocks:
     color: '#cfe0db'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-39.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-46.jpg
     width: '20'
     margin_y: '100'
     margin_left: '0'
@@ -387,7 +389,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-40.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-41.jpg
     width: '35'
     margin_y: '100'
     margin_left: '10'
@@ -396,7 +398,7 @@ collection_blocks:
     color: '#f8eee5'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-43.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-42.jpg
     width: '45'
     margin_y: '500'
     margin_left: '0'
@@ -409,7 +411,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-44.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-47.jpg
     width: '30'
     margin_y: '700'
     margin_left: '5'
@@ -418,7 +420,7 @@ collection_blocks:
     color: '#e6eeec'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-45.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-48.jpg
     width: '50'
     margin_y: '100'
     margin_left: '0'
@@ -431,7 +433,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-46.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-49.jpg
     width: '55'
     margin_y: '100'
     margin_left: '20'
@@ -442,7 +444,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-47.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-50.jpg
     width: '50'
     margin_y: '400'
     margin_left: '5'
@@ -451,7 +453,7 @@ collection_blocks:
     color: '#120c05'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-52.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-51.jpg
     width: '33'
     margin_y: '100'
     margin_left: '0'
@@ -464,7 +466,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-48.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-52.jpg
     width: '20'
     margin_y: '100'
     margin_left: '10'
@@ -473,7 +475,7 @@ collection_blocks:
     color: '#a4bcca'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-49.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-53.jpg
     width: '40'
     margin_y: '300'
     margin_left: '0'
@@ -484,7 +486,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-51.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-55.jpg
     width: '35'
     margin_y: '700'
     margin_left: '5'
@@ -493,7 +495,7 @@ collection_blocks:
     color: '#000000'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-53.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-54.jpg
     width: '50'
     margin_y: '100'
     margin_left: '0'
@@ -506,7 +508,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-54.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-56.jpg
     width: '55'
     margin_y: '100'
     margin_left: '20'
@@ -517,7 +519,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-55.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-57.jpg
     width: '30'
     margin_y: '100'
     margin_left: '5'
@@ -526,7 +528,7 @@ collection_blocks:
     color: '#040305'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-58.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-58.jpg
     width: '33'
     margin_y: '600'
     margin_left: '0'
@@ -537,7 +539,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview_missing-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-59.jpg
     width: '55'
     margin_y: '100'
     margin_left: '25'
@@ -548,7 +550,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-56.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-60.jpg
     width: '45'
     margin_y: '100'
     margin_left: '50'
@@ -561,7 +563,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/guns_projects-59.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-61.jpg
     width: '60'
     margin_y: '100'
     margin_left: '20'
