@@ -75,20 +75,6 @@ collection_blocks:
     align_y:
     color: '#d5d3c6'
     caption: ''
-  - _bookshop_name: collections/media-motion
-    vimeo_id: 1056241098
-    caption: caption
-    meta: meta
-    meta_align: center
-    attached_collection: collections/xmas-in-america.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '15'
-    align_y: center
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-8.jpg
     width: '15'
@@ -134,6 +120,20 @@ collection_blocks:
     align_y:
     color: '#203d49'
     caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 136840867
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-13.jpg
     width: '15'
@@ -152,6 +152,20 @@ collection_blocks:
     align_y:
     color: '#000000'
     caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1056241098
+    caption: caption
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-15.jpg
     width: '15'
@@ -197,6 +211,20 @@ collection_blocks:
     align_y:
     color: '#280503'
     caption: ''
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1086148559
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '15'
+    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '0'
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-20.jpg
     width: '15'
@@ -288,7 +316,7 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-11.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-30.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -297,7 +325,7 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/rieser_202412-sport-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-31.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -306,7 +334,7 @@ collection_blocks:
     color: '#eff5f6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-24.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-32.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -315,7 +343,7 @@ collection_blocks:
     color: '#f1ebe6'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-25.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-33.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -324,7 +352,7 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-34.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -333,7 +361,7 @@ collection_blocks:
     color: '#d9e5de'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-40.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-35.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
@@ -342,76 +370,13 @@ collection_blocks:
     color: '#e6eeec'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-39.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-36.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
     color: '#edf1e9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-14.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#eee6dc'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-32.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#d9dee1'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-33.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#cfe0db'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-34.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f2ece9'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-35.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f8eee5'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-15.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#f4f4eb'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-16.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#c22b2c'
     caption: ''
   - _bookshop_name: collections/media-motion
     vimeo_id: 515559208
@@ -428,58 +393,40 @@ collection_blocks:
     margin_left: '0'
     margin_right: '0'
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-3.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-37.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#000000'
+    color: '#eee6dc'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-36.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-38.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#1c1914'
+    color: '#d9dee1'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-17.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-39.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#eb2f36'
+    color: '#cfe0db'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-18.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_grained-40.jpg
     width: '15'
     margin_y: '50'
     margin_left: '0'
     margin_right: '0'
     align_y:
-    color: '#f1efed'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/athletes-202407-42.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#eb2f36'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601_sport-19.jpg
-    width: '15'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '0'
-    align_y:
-    color: '#edeff2'
+    color: '#f2ece9'
     caption: ''
   - _bookshop_name: collections/media-row-end
 collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/overview_169covers-4.jpg
