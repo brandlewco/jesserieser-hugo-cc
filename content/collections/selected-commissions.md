@@ -266,7 +266,7 @@ collection_blocks:
     width: '25'
     align_y: start
     margin_y: '700'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css:
