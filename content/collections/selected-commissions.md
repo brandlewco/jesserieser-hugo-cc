@@ -27,7 +27,7 @@ collection_blocks:
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
-    parallax: false
+    parallax: true
     image_css:
     caption_css:
   - _bookshop_name: collections/media-element
@@ -89,7 +89,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'II. Emporio Armani: *50th Anniversary Featuring Deandre Hopkins*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -143,7 +143,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'III. adidas: *Dustin Johnson & Xander Schaufelle*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -214,7 +214,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'IV. Apple: *Silver Sneakers*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -256,7 +256,7 @@ collection_blocks:
       V. Hogarth London for Adobe: <br>*Make it pop. Make it louder. Amplify the
       mood.*
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -336,7 +336,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'V. Anomaly for Smartwater: <br>*Essentialism featuring Ben Simmons*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -385,7 +385,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'VI. Amtrak: *Where Amtrak Can Take You*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -467,7 +467,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'VII. Condor Airlines (Germany): *The Star Geezers*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -498,7 +498,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'VIII. Off Madison Avenue for Arizona Office of Tourism: *You Are Here*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -587,7 +587,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'IX. Mullen Lowe for E\*Trade: *On the Go*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -627,7 +627,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'IX. IBM: *America at Work*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -667,7 +667,7 @@ collection_blocks:
       X. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
       John Goodman*
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -740,7 +740,7 @@ collection_blocks:
       XI. OH Partners for Arizona Lottery: *Welcome Back Willy* *featuring John
       Ennis*
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -769,7 +769,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'XII. BBDO for AT&T: *Be the Fan featuring Eric Stonestreet*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -798,7 +798,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: XIII. Nikola
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -834,7 +834,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'XIV. M&C Saatchi for New Mexico Tourism: *Be Enchanted*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
