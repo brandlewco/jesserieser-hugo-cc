@@ -12,114 +12,198 @@ slug: commissions
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: 'I. Hermès: *Artist Danielle Hacche*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '300'
+    margin_left: '5'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-1.jpg
     width: '50'
     margin_y: '50'
-    margin_left: '25'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '25'
     align_y: center
     color: '#ffd9b0'
-    caption: ''
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-2.jpg
-    width: '33'
-    margin_y: '100'
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1086163237
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '45'
+    align_y: start
+    margin_y: '250'
     margin_left: '10'
     margin_right: '0'
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-2.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
     align_y: start
     color: '#9fe1dd'
     caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-3.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: center
-    color: '#d4e6f6'
-    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-4.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-3.jpg
+    width: '25'
+    margin_y: '50'
+    margin_left: '5'
     margin_right: '0'
+    align_y: start
+    color: '#d4e6f6'
+    caption: ''
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-4.jpg
+    width: '40'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '25'
     align_y: start
     color: '#ffe19e'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: 'II. Emporio Armani: *50th Anniversary Featuring Deandre Hopkins*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '30'
+    align_y: start
+    margin_y: '600'
+    margin_left: '35'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-5.jpg
-    width: '20'
-    margin_y: '100'
+    width: '30'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
     color: '#ebe5db'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-6.jpg
-    width: '25'
-    margin_y: '200'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: start
-    color: '#002774'
-    caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-7.jpg
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1086148559
+    caption:
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
     width: '40'
-    margin_y: '200'
+    align_y: start
+    margin_y: '300'
     margin_left: '5'
     margin_right: '0'
-    align_y: start
-    color: '#fea470'
-    caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-8.jpg
-    width: '40'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-6.jpg
+    width: '35'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#002774'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: 'III. adidas: *Dustin Johnson & Xander Schaufelle*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '600'
+    margin_left: '15'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-7.jpg
+    width: '45'
     margin_y: '200'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: start
     color: '#fea470'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-9.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-8.jpg
     width: '25'
-    margin_y: '100'
-    margin_left: '10'
+    margin_y: '200'
+    margin_left: '45'
     margin_right: '0'
     align_y: start
+    color: '#fea470'
+    caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-9.jpg
+    width: '20'
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
     color: '#002774'
-    caption: ''
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-10.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '30'
+    width: '40'
+    margin_y: '50'
+    margin_left: '5'
+    margin_right: '0'
     align_y: center
     color: '#002774'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-11.jpg
-    width: '80'
+    width: '40'
     margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: center
     color: '#b0d5ef'
     caption: ''
