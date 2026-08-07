@@ -394,9 +394,9 @@ collection_blocks:
     font_weight: normal
     width: '20'
     align_y: start
-    margin_y: '700'
+    margin_y: '750'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     parallax: true
     image_css:
     caption_css:
