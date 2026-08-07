@@ -98,7 +98,7 @@ collection_blocks:
     font_weight: normal
     width: '30'
     align_y: start
-    margin_y: '600'
+    margin_y: '750'
     margin_left: '35'
     margin_right: '0'
     parallax: true
@@ -152,7 +152,7 @@ collection_blocks:
     font_weight: normal
     width: '20'
     align_y: start
-    margin_y: '400'
+    margin_y: '500'
     margin_left: '10'
     margin_right: '0'
     parallax: true
@@ -223,7 +223,7 @@ collection_blocks:
     font_weight: normal
     width: '15'
     align_y: start
-    margin_y: '400'
+    margin_y: '550'
     margin_left: '20'
     margin_right: '0'
     parallax: true
@@ -232,7 +232,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-12.jpg
     width: '35'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '30'
     align_y: start
@@ -265,7 +265,7 @@ collection_blocks:
     font_weight: normal
     width: '30'
     align_y: start
-    margin_y: '600'
+    margin_y: '800'
     margin_left: '5'
     margin_right: '0'
     parallax: true
@@ -274,7 +274,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-14.jpg
     width: '33'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '30'
     align_y: center
@@ -343,9 +343,9 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '25'
+    width: '30'
     align_y: start
-    margin_y: '400'
+    margin_y: '600'
     margin_left: '30'
     margin_right: '0'
     parallax: true
@@ -354,7 +354,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-20.jpg
     width: '35'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -376,7 +376,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-22.jpg
     width: '50'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '5'
     margin_right: '0'
     align_y: start
@@ -394,7 +394,7 @@ collection_blocks:
     font_weight: normal
     width: '20'
     align_y: start
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '20'
     parallax: true
@@ -458,7 +458,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-29.jpg
     width: '45'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '10'
     margin_right: '0'
     align_y: center
@@ -476,7 +476,7 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '0'
     margin_right: '15'
     parallax: true
@@ -507,7 +507,7 @@ collection_blocks:
     font_weight: normal
     width: '30'
     align_y: start
-    margin_y: '550'
+    margin_y: '750'
     margin_left: '10'
     margin_right: '0'
     parallax: true
@@ -516,7 +516,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-31.jpg
     width: '50'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -596,7 +596,7 @@ collection_blocks:
     font_weight: normal
     width: '20'
     align_y: start
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '35'
     margin_right: '0'
     parallax: true
@@ -605,7 +605,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-38.jpg
     width: '40'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -636,7 +636,7 @@ collection_blocks:
     font_weight: normal
     width: '15'
     align_y: start
-    margin_y: '500'
+    margin_y: '700'
     margin_left: '20'
     margin_right: '0'
     parallax: true
@@ -645,7 +645,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-40.jpg
     width: '55'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '10'
     align_y: start
@@ -653,15 +653,6 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-41.jpg
-    width: '50'
-    margin_y: '200'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: center
-    color: '#bdf9c4'
-    caption:
   - _bookshop_name: collections/media-text
     text: >-
       X. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
@@ -674,14 +665,23 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '25'
+    width: '20'
     align_y: start
-    margin_y: '500'
-    margin_left: '0'
+    margin_y: '750'
+    margin_left: '5'
     margin_right: '0'
     parallax: true
     image_css:
     caption_css:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-41.jpg
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: center
+    color: '#bdf9c4'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -695,10 +695,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-43.jpg
-    width: '30'
+    width: '35'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '15'
     align_y: start
     color: '#f5baba'
     caption:
@@ -749,7 +749,7 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '500'
+    margin_y: '600'
     margin_left: '10'
     margin_right: '0'
     parallax: true
@@ -758,7 +758,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-47.jpg
     width: '50'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y: center
@@ -778,7 +778,7 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '300'
+    margin_y: '500'
     margin_left: '35'
     margin_right: '0'
     parallax: true
@@ -787,7 +787,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-48.jpg
     width: '33'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: center
@@ -807,7 +807,7 @@ collection_blocks:
     font_weight: normal
     width: '10'
     align_y: start
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '25'
     margin_right: '0'
     parallax: true
@@ -816,7 +816,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-49.jpg
     width: '45'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '20'
     align_y: center
