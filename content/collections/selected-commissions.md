@@ -172,7 +172,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-8.jpg
     width: '25'
-    margin_y: '200'
+    margin_y: '50'
     margin_left: '45'
     margin_right: '0'
     align_y: start
@@ -181,7 +181,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-9.jpg
     width: '20'
-    margin_y: '50'
+    margin_y: '200'
     margin_left: '0'
     margin_right: '5'
     align_y: start
