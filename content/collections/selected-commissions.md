@@ -334,7 +334,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: 'V. Anomaly for Smartwater: <br>*Essentialism featuring Ben Simmons*'
+    text: 'VI. Anomaly for Smartwater: <br>*Essentialism featuring Ben Simmons*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -383,7 +383,7 @@ collection_blocks:
     color: '#f5baba'
     caption: ''
   - _bookshop_name: collections/media-text
-    text: 'VI. Amtrak: *Where Amtrak Can Take You*'
+    text: 'VII. Amtrak: *Where Amtrak Can Take You*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -465,7 +465,7 @@ collection_blocks:
     color: '#efb4ed'
     caption: ''
   - _bookshop_name: collections/media-text
-    text: 'VII. Condor Airlines (Germany): *The Star Geezers*'
+    text: 'VIII. Condor Airlines (Germany): *The Star Geezers*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -496,7 +496,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: 'VIII. Off Madison Avenue for Arizona Office of Tourism: *You Are Here*'
+    text: 'IX. Off Madison Avenue for Arizona Office of Tourism: *You Are Here*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -585,7 +585,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: 'IX. Mullen Lowe for E\*Trade: *On the Go*'
+    text: 'X. Mullen Lowe for E\*Trade: *On the Go*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -625,7 +625,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: 'IX. IBM: *America at Work*'
+    text: 'XI. IBM: *America at Work*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -655,7 +655,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     text: >-
-      X. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
+      XII. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
       John Goodman*
     background_color: '#ffffff'
     background_image_toggle: false
@@ -737,8 +737,8 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-text
     text: >-
-      XI. OH Partners for Arizona Lottery: *Welcome Back Willy* *featuring John
-      Ennis*
+      XIII. OH Partners for Arizona Lottery: *Welcome Back Willy* *featuring
+      John Ennis*
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -767,7 +767,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: 'XII. BBDO for AT&T: *Be the Fan featuring Eric Stonestreet*'
+    text: 'XIV. BBDO for AT&T: *Be the Fan featuring Eric Stonestreet*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -796,7 +796,7 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: XIII. Nikola
+    text: XV. Nikola
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -832,7 +832,7 @@ collection_blocks:
     color: '#efb4ed'
     caption: ''
   - _bookshop_name: collections/media-text
-    text: 'XIV. M&C Saatchi for New Mexico Tourism: *Be Enchanted*'
+    text: 'XVI. M&C Saatchi for New Mexico Tourism: *Be Enchanted*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
