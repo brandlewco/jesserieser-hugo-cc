@@ -153,7 +153,7 @@ collection_blocks:
     width: '20'
     align_y: start
     margin_y: '600'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css:
@@ -181,7 +181,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-9.jpg
     width: '20'
-    margin_y: '200'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '5'
     align_y: start
@@ -192,51 +192,91 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-10.jpg
     width: '40'
-    margin_y: '50'
-    margin_left: '5'
+    margin_y: '200'
+    margin_left: '15'
     margin_right: '0'
-    align_y: center
+    align_y: start
     color: '#002774'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-11.jpg
-    width: '40'
-    margin_y: '100'
+    width: '30'
+    margin_y: '50'
     margin_left: '0'
-    margin_right: '5'
-    align_y: center
+    margin_right: '10'
+    align_y: start
     color: '#b0d5ef'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: 'IV. Apple: *Silver Sneakers*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '15'
+    align_y: start
+    margin_y: '400'
+    margin_left: '20'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-12.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    width: '35'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '30'
     align_y: start
     color: '#b0d5ef'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-13.jpg
-    width: '35'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#002774'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-14.jpg
-    width: '15'
-    margin_y: '100'
-    margin_left: '70'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-13.jpg
+    width: '55'
+    margin_y: '50'
+    margin_left: '25'
     margin_right: '0'
+    align_y: start
+    color: '#002774'
+    caption:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: >-
+      V. Hogarth London for Adobe: <br>*Make it pop. Make it louder. Amplify the
+      mood.*
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '30'
+    align_y: start
+    margin_y: '600'
+    margin_left: '5'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-14.jpg
+    width: '33'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '30'
     align_y: center
     color: '#ff904d'
     caption: ''
@@ -244,17 +284,17 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-15.jpg
-    width: '45'
+    width: '35'
     margin_y: '300'
-    margin_left: '5'
+    margin_left: '20'
     margin_right: '0'
     align_y: center
     color: '#fff8d0'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-16.jpg
-    width: '25'
-    margin_y: '100'
+    width: '20'
+    margin_y: '50'
     margin_left: '0'
     margin_right: '20'
     align_y: start
@@ -264,54 +304,70 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-17.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '15'
+    width: '33'
+    margin_y: '50'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#ebd995'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-18.jpg
-    width: '20'
-    margin_y: '700'
+    width: '50'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     align_y: center
     color: '#ba94dc'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-19.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '25'
+    width: '30'
+    margin_y: '50'
+    margin_left: '50'
     margin_right: '0'
     align_y: center
     color: '#b0d5ef'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-text
+    text: 'V. Anomaly for Smartwater: <br>*Essentialism featuring Ben Simmons*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '25'
+    align_y: start
+    margin_y: '500'
+    margin_left: '35'
+    margin_right: '0'
+    parallax: true
+    image_css:
+    caption_css:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-20.jpg
-    width: '25'
-    margin_y: '100'
+    width: '35'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
     color: '#fcbe8e'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-21.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '5'
+    width: '60'
+    margin_y: '50'
+    margin_left: '20'
+    margin_right: '0'
     align_y: center
     color: '#b0d5ef'
     caption: ''
@@ -319,51 +375,73 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-22.jpg
-    width: '20'
+    width: '50'
     margin_y: '200'
     margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#f5baba'
     caption: ''
+  - _bookshop_name: collections/media-text
+    text: 'VI. Amtrak: *Where Amtrak Can Take You*'
+    background_color: '#ffffff'
+    background_image_toggle: true
+    image:
+    text_color: '#000000'
+    text_size: base
+    text_alignment: left
+    text_tracking: normal
+    font_weight: normal
+    width: '20'
+    align_y: start
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '20'
+    parallax: true
+    image_css:
+    caption_css:
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-23.jpg
-    width: '20'
-    margin_y: '200'
-    margin_left: '0'
+    width: '30'
+    margin_y: '50'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#f1efab'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-24.jpg
-    width: '20'
-    margin_y: '200'
+    width: '35'
+    margin_y: '300'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '20'
     align_y: center
     color: '#bdf9c4'
-    caption: ''
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-25.jpg
-    width: '20'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: center
-    color: '#cafbf4'
     caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-25.jpg
+    width: '45'
+    margin_y: '200'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: start
+    color: '#cafbf4'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-26.jpg
     width: '40'
-    margin_y: '200'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: center
+    margin_y: '50'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
     color: '#ebc6ef'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
@@ -375,6 +453,8 @@ collection_blocks:
     align_y: start
     color: '#ffcb7e'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-29.jpg
     width: '45'
