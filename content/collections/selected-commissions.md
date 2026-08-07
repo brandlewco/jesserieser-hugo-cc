@@ -843,7 +843,7 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '850'
+    margin_y: '600'
     margin_left: '0'
     margin_right: '20'
     parallax: true
