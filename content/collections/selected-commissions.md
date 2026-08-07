@@ -459,7 +459,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-29.jpg
     width: '45'
     margin_y: '300'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     align_y: center
     color: '#efb4ed'
@@ -476,9 +476,9 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '700'
+    margin_y: '650'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '20'
     parallax: true
     image_css:
     caption_css:
