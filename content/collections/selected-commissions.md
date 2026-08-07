@@ -22,10 +22,10 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '20'
+    width: '15'
     align_y: start
-    margin_y: '500'
-    margin_left: '5'
+    margin_y: '450'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css:
