@@ -15,7 +15,7 @@ collection_blocks:
   - _bookshop_name: collections/media-text
     text: 'I. Hermès: *Artist Danielle Hacche*'
     background_color: '#ffffff'
-    background_image_toggle: true
+    background_image_toggle: false
     image:
     text_color: '#000000'
     text_size: base
@@ -27,7 +27,7 @@ collection_blocks:
     margin_y: '300'
     margin_left: '5'
     margin_right: '0'
-    parallax: true
+    parallax: false
     image_css:
     caption_css:
   - _bookshop_name: collections/media-element
@@ -706,31 +706,31 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-44.jpg
-    width: '30'
-    margin_y: '250'
+    width: '33'
+    margin_y: '50'
     margin_left: '30'
     margin_right: '0'
     align_y: start
     color: '#f1efab'
     caption: ''
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-45.jpg
-    width: '25'
-    margin_y: '50'
-    margin_left: '0'
-    margin_right: '10'
+    width: '35'
+    margin_y: '400'
+    margin_left: '10'
+    margin_right: '0'
     align_y: start
     color: '#bdf9c4'
     caption: ''
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-46.jpg
     width: '25'
     margin_y: '50'
-    margin_left: '50'
-    margin_right: '0'
-    align_y: center
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
     color: '#cafbf4'
     caption: ''
   - _bookshop_name: collections/media-row
