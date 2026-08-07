@@ -404,7 +404,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-23.jpg
-    width: '30'
+    width: '25'
     margin_y: '50'
     margin_left: '10'
     margin_right: '0'
@@ -414,9 +414,9 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-24.jpg
     width: '35'
-    margin_y: '300'
+    margin_y: '200'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     align_y: center
     color: '#bdf9c4'
     caption: ''
@@ -424,19 +424,19 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-25.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '0'
+    width: '40'
+    margin_y: '300'
+    margin_left: '20'
     margin_right: '0'
     align_y: start
     color: '#cafbf4'
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-26.jpg
-    width: '40'
+    width: '35'
     margin_y: '50'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '0'
     align_y: start
     color: '#ebc6ef'
     caption: ''
@@ -446,9 +446,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-28.jpg
-    width: '45'
-    margin_y: '200'
-    margin_left: '5'
+    width: '35'
+    margin_y: '50'
+    margin_left: '45'
     margin_right: '0'
     align_y: start
     color: '#ffcb7e'
@@ -459,7 +459,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-29.jpg
     width: '45'
     margin_y: '200'
-    margin_left: '0'
+    margin_left: '10'
     margin_right: '0'
     align_y: center
     color: '#efb4ed'
