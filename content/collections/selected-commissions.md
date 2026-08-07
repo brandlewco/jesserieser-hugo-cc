@@ -224,7 +224,7 @@ collection_blocks:
     width: '15'
     align_y: start
     margin_y: '550'
-    margin_left: '20'
+    margin_left: '40'
     margin_right: '0'
     parallax: true
     image_css:
@@ -234,7 +234,7 @@ collection_blocks:
     width: '35'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '30'
+    margin_right: '10'
     align_y: start
     color: '#b0d5ef'
     caption: ''
