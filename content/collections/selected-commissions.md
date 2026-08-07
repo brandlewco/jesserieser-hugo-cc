@@ -676,7 +676,7 @@ collection_blocks:
     font_weight: normal
     width: '25'
     align_y: start
-    margin_y: '600'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '0'
     parallax: true
