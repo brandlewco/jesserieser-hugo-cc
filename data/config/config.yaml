@@ -51,12 +51,13 @@ collection_pager:
 overview_pager:
   - _index.md
   - collections/portrait.md
+  - collections/selected-commissions.md
   - collections/sport-athletes.md
-  - collections/landscape.md
   - collections/motion.md
-  - collections/reportage.md
+  - collections/landscape.md
   - collections/travel-tourism.md
   - collections/industry-overview.md
+  - collections/reportage.md
 seo:
   meta_description: >-
     Award winning Los Angeles and Phoenix Commercial, Sport, & Editorial
