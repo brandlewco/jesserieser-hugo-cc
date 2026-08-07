@@ -98,7 +98,7 @@ collection_blocks:
     font_weight: normal
     width: '30'
     align_y: start
-    margin_y: '750'
+    margin_y: '550'
     margin_left: '35'
     margin_right: '0'
     parallax: true
