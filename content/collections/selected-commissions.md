@@ -668,7 +668,7 @@ collection_blocks:
     width: '20'
     align_y: start
     margin_y: '700'
-    margin_left: '5'
+    margin_left: '10'
     margin_right: '0'
     parallax: true
     image_css:
@@ -678,7 +678,7 @@ collection_blocks:
     width: '50'
     margin_y: '300'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '20'
     align_y: center
     color: '#bdf9c4'
     caption:
