@@ -478,7 +478,7 @@ collection_blocks:
     align_y: start
     margin_y: '650'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '25'
     parallax: true
     image_css:
     caption_css:
