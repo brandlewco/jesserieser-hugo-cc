@@ -263,9 +263,9 @@ collection_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: normal
-    width: '30'
+    width: '25'
     align_y: start
-    margin_y: '800'
+    margin_y: '700'
     margin_left: '5'
     margin_right: '0'
     parallax: true
