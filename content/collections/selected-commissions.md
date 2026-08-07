@@ -230,7 +230,7 @@ collection_blocks:
     image_css:
     caption_css:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/advertising_grained-apple-redo-1.jpg
     width: '35'
     margin_y: '300'
     margin_left: '0'
@@ -554,7 +554,7 @@ collection_blocks:
     color: '#cafbf4'
     caption: ''
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-35.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/advertising_grained-apple-redo-2.jpg
     width: '30'
     margin_y: '50'
     margin_left: '5'
@@ -756,7 +756,7 @@ collection_blocks:
     image_css:
     caption_css:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-47.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/advertising_grained-apple-redo-3.jpg
     width: '50'
     margin_y: '300'
     margin_left: '0'
@@ -814,7 +814,7 @@ collection_blocks:
     image_css:
     caption_css:
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-49.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/advertising_grained-apple-redo-4.jpg
     width: '45'
     margin_y: '300'
     margin_left: '0'
