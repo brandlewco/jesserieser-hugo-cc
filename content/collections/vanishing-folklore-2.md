@@ -4,9 +4,9 @@ seo:
   meta_description: >-
     West Coast photographer Jesse Rieser's long term and surreal photographic
     project on America
-  meta_title: American Hypnosis
-title: 'American '
-collection_meta: Hypnosis
+  meta_title: 'We Wish You Luck: American Hypnosis'
+title: We Wish You Lu
+collection_meta: American Hypnosis
 collection_meta_2: 2012 - 2026
 collection_description: >-
   By definition, hypnosis is the induction of a state of consciousness in which
