@@ -1,8 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: Selection of Landscapes
-  meta_title: 'Landscape Overview '
+  meta_description: Selected Commissions by Jesse Rieser
+  meta_title: Selected Commissions
 title: Select Commissions
 collection_meta:
 collection_meta_2: ''
@@ -850,8 +850,8 @@ collection_blocks:
     image_css:
     caption_css:
   - _bookshop_name: collections/media-row-end
-collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/RIESER_landscape-test-25.jpg
-collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/overview_vert-covers-13.jpg
+collection_cover: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-1.jpg
+collection_cover_mobile: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-1.jpg
 collection_filter: Commissioned + Stock
 collection_category:
   - Advertising
