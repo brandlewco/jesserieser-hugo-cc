@@ -3,8 +3,8 @@ _schema: default
 seo:
   meta_description:
   meta_title: 'Christmas In America: Happy Birthday, Jesus'
-title: Christmas In America
-collection_meta: ' Happy Birthday, Jesus'
+title: ' Happy Birthday, Jesus'
+collection_meta: Christmas In America
 collection_meta_2: 2010 - 2022
 collection_description: >-
   A decade in the making, *Christmas In America* is an unvarnished examination
