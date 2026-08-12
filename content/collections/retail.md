@@ -3,9 +3,9 @@ _schema: default
 seo:
   meta_description:
   meta_title: The Changing Landscape of American Retail 2015 - 2022
-title: The Changing Landscape
-collection_meta: of American Retail
-collection_meta_2: 2015 - 2024
+title: Clearence
+collection_meta: The Changing Landscape of American Retail
+collection_meta_2: 2015 - 2025
 collection_description: >-
   Like memories, familiar retail entities are fading away as they stand as
   modern-day ruins from the not-so-distant past. This work documents the shift
