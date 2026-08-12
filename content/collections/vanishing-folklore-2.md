@@ -5,7 +5,7 @@ seo:
     West Coast photographer Jesse Rieser's long term and surreal photographic
     project on America
   meta_title: 'We Wish You Luck: American Hypnosis'
-title: 'We Wish You Luck:'
+title: We Wish You Luck
 collection_meta: American Hypnosis
 collection_meta_2: 2012 - 2026
 collection_description: >-
