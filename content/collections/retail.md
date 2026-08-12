@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description:
-  meta_title: The Changing Landscape of American Retail 2015 - 2022
+  meta_title: 'Clearence: The Changing Landscape of American Retail 2015 - 2022'
 title: Clearence
 collection_meta: The Changing Landscape of American Retail
 collection_meta_2: 2015 - 2025
