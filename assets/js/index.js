@@ -1109,21 +1109,28 @@ function init() {
 
   var overviewLink = document.querySelector(".nav-overview-container");
 
-  overviewLink.addEventListener("click", function (event) {
-    event.preventDefault();
-    var dropdown = this.querySelector(".dropdown-content");
-    var isHidden = dropdown.classList.contains("hidden");
+  if (overviewLink) {
+    overviewLink.addEventListener("click", function (event) {
+      var dropdown = this.querySelector(".dropdown-content");
 
-    document.querySelectorAll(".dropdown-content").forEach(function (dropdown) {
-      dropdown.classList.add("hidden");
+      if (!dropdown) {
+        return;
+      }
+
+      event.preventDefault();
+      var isHidden = dropdown.classList.contains("hidden");
+
+      document.querySelectorAll(".dropdown-content").forEach(function (item) {
+        item.classList.add("hidden");
+      });
+
+      if (isHidden) {
+        dropdown.classList.remove("hidden");
+      } else {
+        dropdown.classList.add("hidden");
+      }
     });
-
-    if (isHidden) {
-      dropdown.classList.remove("hidden");
-    } else {
-      dropdown.classList.add("hidden");
-    }
-  });
+  }
 
   document.addEventListener("click", function (event) {
     if (!event.target.closest(".nav-overview-container")) {

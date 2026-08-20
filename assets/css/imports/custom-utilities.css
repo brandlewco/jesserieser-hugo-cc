@@ -674,6 +674,34 @@ footer a {
   text-decoration: none !important;
 }
 
+#filter-container .collections-grid-item {
+  width: 100% !important;
+}
+
+@media (min-width: 768px) {
+  #filter-container .collections-grid-item {
+    width: calc(33.333% - 0.5rem) !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  #filter-container .collections-grid-item {
+    width: calc(20% - 0.8rem) !important;
+  }
+}
+
+@media (min-width: 2000px) {
+  #filter-container .collections-grid-item {
+    width: calc(16.6667% - 0.8rem) !important;
+  }
+}
+
+@media (min-width: 2800px) {
+  #filter-container .collections-grid-item {
+    width: calc(14.2857% - 0.8rem) !important;
+  }
+}
+
 /* Filters */
 #filters {
   will-change: transform, opacity;
