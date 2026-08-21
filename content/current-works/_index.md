@@ -219,10 +219,10 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: base
     color: '#ffffff'
-    width: '30'
+    width: '40'
     align_y: start
     margin_y: '550'
-    margin_left: '30'
+    margin_left: '20'
     margin_right: '0'
     meta_align: left
     theme_color: '#ffead2'
