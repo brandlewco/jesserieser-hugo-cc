@@ -329,11 +329,11 @@ content_blocks:
     block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
-    width: '20'
+    width: '15'
     align_y: start
-    margin_y: '1150'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '800'
+    margin_left: '5'
+    margin_right: '0'
     meta_align: right
     theme_color: '#fffbd2'
     meta: Awards
@@ -342,10 +342,10 @@ content_blocks:
     title:
     meta: 'Personal: Autobiography of a Contact Sport'
     attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
-    width: '60'
-    margin_y: '250'
-    margin_left: '15'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_auto-2.jpg
+    width: '45'
+    margin_y: '400'
+    margin_left: '0'
     margin_right: '0'
     align_y: start
     color: '#fdd3d3'
@@ -359,7 +359,7 @@ content_blocks:
     text_alignment: left
     text_tracking: normal
     font_weight: semibold
-    meta_align: left
+    meta_align: center
   - _bookshop_name: home/modal-blog
     title: 'AP 41: American Photography Annual'
     caption: 'Golf Digest: All The Rage'
@@ -371,7 +371,7 @@ content_blocks:
     color: '#ffffff'
     width: '20'
     align_y: start
-    margin_y: '900'
+    margin_y: '100'
     margin_left: '0'
     margin_right: '5'
     meta_align: right
