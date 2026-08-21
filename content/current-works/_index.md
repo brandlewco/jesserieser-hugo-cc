@@ -54,7 +54,7 @@ content_blocks:
     width: '30'
     align_y: start
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '5'
     margin_right: '0'
     meta_align: right
     theme_color: '#d2fdff'
@@ -66,9 +66,9 @@ content_blocks:
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
     width: '55'
-    margin_y: '500'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '5'
     align_y: start
     color: '#f2ecdf'
     caption: ''
@@ -89,9 +89,9 @@ content_blocks:
     meta: 'Selected Commissions: Adobe, Adidas, Apple, Armani, Hermes, & More'
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-27.jpg
-    width: '35'
+    width: '45'
     margin_y: '400'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
@@ -114,11 +114,11 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '40'
+    width: '35'
     align_y: start
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     meta_align: right
     theme_color: '#d8f3fa'
     meta: Exhibition
@@ -139,8 +139,51 @@ content_blocks:
     width: '70'
     align_y: start
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '15'
     margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'AP 42: American Photography Annual 2026'
+    caption: >-
+      *Golf Digest: "Best Little Golf Towns" & The New York Times: "ICE
+      Detention Centers are Meant to Break You"*
+    attached_blog: posts/ap-42.md
+    blog_block_cover:
+    vimeo_block_cover: 1186738143
+    block_aspect_ratio: 3x4
+    text_size: base
+    color: '#dfefc2'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#d8f1ae'
+    meta: Awards
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
+    attached_collection: collections/switchyard.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-18.jpg
+    width: '35'
+    margin_y: '400'
+    margin_left: '0'
+    margin_right: '25'
+    align_y: start
+    color: '#d0e5ef'
+    caption: ''
+    title_margin_y: '20'
+    title_margin_left: '-20'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#000000'
+    line_height: normal
+    text_alignment: left
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
@@ -183,28 +226,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
-    attached_collection: collections/switchyard.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-18.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '35'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: center
   - _bookshop_name: home/modal-blog
     title: 'AP 41: American Photography Annual'
     caption: 'Golf Digest: All The Rage'
@@ -223,8 +244,6 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -635,22 +654,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Fresh
-    caption: The Changing Landscape of American Retail September 9 - October 10
-    attached_blog: posts/klompching-gallery-fresh.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-    block_aspect_ratio: 1x1
-    text_size: base
-    color: '#dfefc2'
-    width: '15'
-    align_y: start
-    margin_y: '1300'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d8f1ae'
-    meta: meta
   - _bookshop_name: home/media-feature
     title:
     meta: 'Amtrak: Where Amtrak Can Take You'
