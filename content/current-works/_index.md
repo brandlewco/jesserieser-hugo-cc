@@ -299,7 +299,7 @@ content_blocks:
     block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '20'
     align_y: start
     margin_y: '1150'
     margin_left: '0'
