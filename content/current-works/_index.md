@@ -50,7 +50,7 @@ content_blocks:
     vimeo_block_cover: 0
     block_aspect_ratio: 4x5
     text_size: base
-    color:
+    color: '#cceef5'
     width: '30'
     align_y: start
     margin_y: '100'
