@@ -221,10 +221,10 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: base
     color: '#ffffff'
-    width: '50'
+    width: '60'
     align_y: start
     margin_y: '50'
-    margin_left: '25'
+    margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#ffead2'
