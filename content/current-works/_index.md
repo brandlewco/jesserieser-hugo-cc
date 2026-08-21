@@ -331,7 +331,7 @@ content_blocks:
     color: '#ffffff'
     width: '15'
     align_y: start
-    margin_y: '800'
+    margin_y: '900'
     margin_left: '5'
     margin_right: '0'
     meta_align: right
@@ -391,7 +391,7 @@ content_blocks:
     block_aspect_ratio: 16x9
     width: '55'
     align_y: start
-    margin_y: '600'
+    margin_y: '100'
     margin_left: '5'
     margin_right: '0'
   - _bookshop_name: home/media-feature
@@ -399,10 +399,10 @@ content_blocks:
     meta: 'Outdoor Life: A Son''s First Solo Hunt'
     attached_collection: collections/outdoor-life.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/solo-hunt-14.jpg
-    width: '30'
-    margin_y: '100'
+    width: '25'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '10'
     align_y: start
     color: '#c9fce6'
     caption: ''
@@ -418,8 +418,82 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Christmas In America
+    caption: Washington Post Cover Feature + Interview
+    attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
+    block_aspect_ratio: 2x3
+    text_size: 2xl
+    color: '#ff4b4b'
+    width: '25'
+    align_y: start
+    margin_y: '300'
+    margin_left: '10'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ff5252'
+    meta: meta
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
+    attached_collection: collections/bloomberg-nomads-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-53.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '20'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Bernhard Langer. The Age(less) Golfer'
+    attached_collection: collections/golf-digest-bernhard-langer.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-6.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+    align_y: start
+    color: '#c1e6ac'
+    caption: ''
+    title_margin_y: '0'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 4xl
+    text_color:
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: normal
+    meta_align: right
+  - _bookshop_name: home/media-motion
+    vimeo_id: 1163726847
+    caption:
+    meta: 'The New York Times: ICE is Meant to Break You'
+    meta_align: left
+    attached_collection: collections/the-new-york-times-ice.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 4x5
+    width: '30'
+    align_y: start
+    margin_y: '600'
+    margin_left: '0'
+    margin_right: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -462,42 +536,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1163726847
-    caption:
-    meta: 'The New York Times: ICE is Meant to Break You'
-    meta_align: left
-    attached_collection: collections/the-new-york-times-ice.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 4x5
-    width: '30'
-    align_y: start
-    margin_y: '800'
-    margin_left: '15'
-    margin_right: '0'
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: Bernhard Langer. The Age(less) Golfer'
-    attached_collection: collections/golf-digest-bernhard-langer.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202601JR_Langer-3.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#c1e6ac'
-    caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color:
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -595,22 +633,6 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Christmas In America
-    caption: Washington Post Cover Feature + Interview
-    attached_blog: posts/christmas-in-america-happy-birthday-jesus-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/xmas-wapo-6.jpg
-    block_aspect_ratio: 2x3
-    text_size: 2xl
-    color: '#ff4b4b'
-    width: '30'
-    align_y: start
-    margin_y: '50'
-    margin_left: '35'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ff5252'
-    meta: meta
-  - _bookshop_name: home/modal-blog
     title: 'Communication Arts Photography Annual '
     caption: Antoine’s Escalaras
     attached_blog: posts/communication-arts-photography-annual-2022.md
@@ -650,28 +672,6 @@ content_blocks:
     meta_align: left
     theme_color: '#f6e7d1'
     meta: meta
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: The Misunderstood Life of Grayson Murray'
-    attached_collection: collections/bloomberg-nomads-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-45.jpg
-    width: '40'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '15'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
