@@ -869,7 +869,7 @@ content_blocks:
     attached_collection: collections/golfdigest-nicklaus.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '300'
     margin_left: '0'
     margin_right: '15'
     align_y: start
@@ -895,10 +895,10 @@ content_blocks:
     block_aspect_ratio: 11x8-5
     text_size:
     color: '#eed2d2'
-    width: '25'
+    width: '45'
     align_y: start
     margin_y: '100'
-    margin_left: '5'
+    margin_left: '25'
     margin_right: '0'
     meta_align: left
     theme_color: '#e5e5ef'
