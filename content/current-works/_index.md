@@ -120,7 +120,7 @@ content_blocks:
     margin_left: '0'
     margin_right: '10'
     meta_align: right
-    theme_color: '#d8f3fa'
+    theme_color: '#ebfad8'
     meta: Exhibition
     attached: true
   - _bookshop_name: home/media-row
