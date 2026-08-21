@@ -248,20 +248,8 @@ content_blocks:
     theme_color: '#ffe4cc'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086874377
-    caption: caption
-    meta: Hermès & Danielle Hacche
-    meta_align: right
-    attached_collection: collections/hermès.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -283,51 +271,6 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086148559
-    caption: caption
-    meta: Emporio Armani 50th Anniversary Featuring Deandre Hopkins
-    meta_align: right
-    attached_collection: collections/armani-anniversary.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '50'
-    align_y: start
-    margin_y: '350'
-    margin_left: '0'
-    margin_right: '10'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1086877168
-    caption: caption
-    meta: 'ESPN: Devin Booker Becoming Legendary'
-    meta_align: left
-    attached_collection: collections/espn-devin-booker-cover-story.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '55'
-    align_y: start
-    margin_y: '300'
-    margin_left: '20'
-    margin_right: '0'
-  - _bookshop_name: home/media-link
-    title: 'Request a Pdf '
-    meta: 'Apple Fitness + '
-    text_size: 2xl
-    align_y: start
-    width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    block_aspect_ratio: 3x2
-    media: https://d1sf55qlb7p6hz.cloudfront.net/Untitled-1.jpg
-    link: >-
-      mailto:jesse@jesserieser.com?subject=Apple%20Work%20&body=Hello%2C%20%0AI%20am%20interested%20in%20receiving%20a%20pdf%20of%20the%20work%20you%20executed%20for%20Apple's%20Silver%20Sneakers%20Apple%20Fitness%20%2B%20campaign.%0A%0AThank%20you%2C%0A
-    color: '#000000'
-    text_color: '#ffffff'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -347,35 +290,13 @@ content_blocks:
     theme_color: '#d2fdff'
     meta: Awards
     attached: true
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Testimony:  Reformed Nazi Now Pastor'
-    attached_collection: collections/christianity-today.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/ct-nazi-5.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: center
   - _bookshop_name: home/modal-blog
     title: 2026 George Polk Award
     caption: The True Cost of Data Centers
     attached_blog: posts/george-polk-award.md
     blog_block_cover: >-
       https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
-    block_aspect_ratio: 4x3
+    block_aspect_ratio: 3x4
     text_size: base
     color: '#ffffff'
     width: '25'
@@ -427,24 +348,6 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Now Represented by FLINK Artists
-    caption: Los Angles, New York & London
-    attached_blog: posts/flink-artists-announcement.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    vimeo_block_cover: 1060315553
-    block_aspect_ratio: 4x5
-    text_size: base
-    color: '#ffffff'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f0dcec'
-    meta:
-    attached: false
   - _bookshop_name: home/media-feature
     title:
     meta: 'The New Yorker: Can the Golden Age of Costco Last?'
@@ -789,50 +692,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'The New York Times: Adelita Grijalva'
-    attached_collection: collections/armani-anniversary-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adelita-1.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    align_y: start
-    color: '#c1e6ac'
-    caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color:
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'AARP: Washed Away'
-    attached_collection: collections/aarp.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202603_aarp_reedit-1.jpg
-    width: '45'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#c1e6ac'
-    caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color:
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -961,6 +820,8 @@ content_blocks:
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Personal: Autobiography of a Contact Sport'
@@ -1067,8 +928,22 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Collection Title
+    caption: Caption
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 1x1
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: center
+    margin_y: '0'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
