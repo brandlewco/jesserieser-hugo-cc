@@ -57,7 +57,7 @@ content_blocks:
     margin_left: '5'
     margin_right: '0'
     meta_align: right
-    theme_color: '#d2fdff'
+    theme_color: '#ffe5d2'
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
