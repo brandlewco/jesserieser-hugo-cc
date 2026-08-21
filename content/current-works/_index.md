@@ -211,12 +211,14 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Sepp Magazine
-    caption: TE Deseamos Suerte
+    title: TE Deseamos Suerte
+    caption: Sepp Magazine World Cup Issue
     attached_blog: posts/ap-40-american-photography-annual-copy.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sepp_Blog-2.jpg
+    blog_block_cover: >-
+      https://d1sf55qlb7p6hz.cloudfront.net/Screenshotb 2026-06-23 at 6.16.54 PM
+      copy 2.jpg
     vimeo_block_cover: 0
-    block_aspect_ratio: 4x3
+    block_aspect_ratio: 16x9
     text_size: base
     color: '#ffffff'
     width: '30'
@@ -225,7 +227,7 @@ content_blocks:
     margin_left: '30'
     margin_right: '0'
     meta_align: left
-    theme_color: '#d2fdff'
+    theme_color: '#ffead2'
     meta: Press
     attached: true
   - _bookshop_name: home/media-feature
