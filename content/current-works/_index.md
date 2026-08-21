@@ -43,8 +43,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: Autobiography of a Contact Sport at David Peterson Gallery
-    caption: REC CENTER
+    title: Rec Center at David Petersen Gallery
+    caption: Featuring *Autobiography of a Contact Sport*
     attached_blog: posts/dpg-rec-center.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/dpg_Blog-1.jpg
     vimeo_block_cover: 0
