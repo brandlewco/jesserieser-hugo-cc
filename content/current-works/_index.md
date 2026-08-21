@@ -58,7 +58,7 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color:
-    meta: Awards
+    meta: Exhibitions
     attached: true
   - _bookshop_name: home/media-feature
     title:
