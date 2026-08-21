@@ -151,7 +151,7 @@ content_blocks:
     attached_blog: posts/ap-42.md
     blog_block_cover:
     vimeo_block_cover: 1186738143
-    block_aspect_ratio: 3x4
+    block_aspect_ratio: 4x5
     text_size: base
     color: '#dfefc2'
     width: '25'
@@ -208,6 +208,26 @@ content_blocks:
     text_tracking: normal
     font_weight: bold
     meta_align: right
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Sepp Magazine
+    caption: TE Deseamos Suerte
+    attached_blog: posts/ap-40-american-photography-annual-copy.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sepp_Blog-2.jpg
+    vimeo_block_cover: 0
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
