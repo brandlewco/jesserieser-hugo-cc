@@ -221,8 +221,8 @@ content_blocks:
     color: '#ffffff'
     width: '30'
     align_y: start
-    margin_y: '100'
-    margin_left: '0'
+    margin_y: '550'
+    margin_left: '30'
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
@@ -252,6 +252,72 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal. Christmas in America: Happy Birthday, Jesus'
+    attached_collection: collections/xmas-in-america.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-61.jpg
+    width: '60'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#f4c8c8'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right:
+    text_size: 7xl
+    text_color: '#f7ee81'
+    line_height: none
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+    align_x: start
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Grand Prix Pictet
+    caption: >-
+      "The Changing Landscape of American Retail" Announced As An Official
+      Nominee
+    attached_blog: posts/grand-prix-pictet.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
+    block_aspect_ratio: 4x3
+    text_size: base
+    color: '#ffffff'
+    width: '30'
+    align_y: start
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#ffe4cc'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: All The Rage'
+    attached_collection: collections/fights.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-32.jpg
+    width: '45'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '15'
+    align_y: start
+    color: '#cd98d4'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
@@ -312,27 +378,6 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Grand Prix Pictet
-    caption: >-
-      "The Changing Landscape of American Retail" Announced As An Official
-      Nominee
-    attached_blog: posts/grand-prix-pictet.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/prix_cover.jpg
-    block_aspect_ratio: 4x3
-    text_size: base
-    color: '#ffffff'
-    width: '40'
-    align_y: start
-    margin_y: '400'
-    margin_left: '5'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#ffe4cc'
-    meta: Awards
-    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
@@ -505,28 +550,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Golf Digest: All The Rage'
-    attached_collection: collections/fights.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/GD_fights-6.jpg
-    width: '35'
-    margin_y: '300'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: start
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#afd0f5'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
     meta: 'Golf Digest: Best Little Golf Towns'
     attached_collection: collections/golf-digest-best-little-golf-towns.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
@@ -584,29 +607,6 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal. Christmas in America: Happy Birthday, Jesus'
-    attached_collection: collections/xmas-in-america.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/xmas-1.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '5'
-    margin_right: '0'
-    align_y: start
-    color: '#f4c8c8'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right:
-    text_size: 7xl
-    text_color: '#f7ee81'
-    line_height: none
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
-    align_x: start
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
