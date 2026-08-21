@@ -56,7 +56,7 @@ content_blocks:
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
-    meta_align: right
+    meta_align: left
     theme_color:
     meta: Awards
     attached: true
