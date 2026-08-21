@@ -167,10 +167,10 @@ content_blocks:
     meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-18.jpg
-    width: '35'
+    width: '30'
     margin_y: '400'
     margin_left: '0'
-    margin_right: '25'
+    margin_right: '35'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -184,6 +184,30 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: center
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: Personal. Guns & Pizza
+    attached_collection: collections/guns-pizza.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-11.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '50'
+    margin_right: '0'
+    align_y: start
+    color: '#faf2ea'
+    caption: ''
+    title_margin_y: '5'
+    title_margin_left: '-30'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#9edfbc'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
@@ -541,28 +565,6 @@ content_blocks:
     font_weight: semibold
     meta_align: left
     align_x: start
-  - _bookshop_name: home/media-feature
-    title:
-    meta: Personal. Guns & Pizza
-    attached_collection: collections/guns-pizza.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202505_overview-59.jpg
-    width: '35'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#faf2ea'
-    caption: ''
-    title_margin_y: '5'
-    title_margin_left: '-30'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#9edfbc'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
