@@ -126,6 +126,24 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-motion
+    vimeo_id: 1087456157
+    caption: caption
+    meta: >-
+      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
+      Russia
+    meta_align: center
+    attached_collection: collections/switchyard-copy.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '70'
+    align_y: start
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
     meta: 'Southern Living: The South''s Greatest Natural Wonder'
@@ -163,75 +181,13 @@ content_blocks:
     meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-motion
-    vimeo_id: 1087456157
-    caption: caption
-    meta: >-
-      The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on
-      Russia
-    meta_align: center
-    attached_collection: collections/switchyard-copy.md
-    color: '#000000'
-    show_controls: false
-    block_aspect_ratio: 16x9
-    width: '70'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'NBC News: Turning Point USA''s "Build the Red Wall"'
-    attached_collection: collections/nbc-news.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20260422_TPUSA-NBC/tpusa-1.jpg
-    width: '33'
-    margin_y: '550'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Wild Sam: Sedona, Seeing Red'
-    attached_collection: collections/wild-sam.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202604_overview-3.jpg
-    width: '30'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Switchyard Volume IV. Power Failure: On Landscape and Abandonment'
     attached_collection: collections/switchyard.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/sw-power-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-18.jpg
     width: '33'
     margin_y: '100'
     margin_left: '35'
@@ -308,28 +264,6 @@ content_blocks:
     margin_right: '0'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Dwell: Corner Story'
-    attached_collection: collections/dwell.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/20260228_dwell_covers-8.jpg
-    width: '55'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: start
-    color: '#d0e5ef'
-    caption: ''
-    title_margin_y: '20'
-    title_margin_left: '-20'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#000000'
-    line_height: normal
-    text_alignment: left
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
