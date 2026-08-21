@@ -359,6 +359,46 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
+    title: 2026 George Polk Award
+    caption: The True Cost of Data Centers
+    attached_blog: posts/george-polk-award.md
+    blog_block_cover: >-
+      https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
+    block_aspect_ratio: 3x4
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '1150'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: right
+    theme_color: '#fffbd2'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Personal: Autobiography of a Contact Sport'
+    attached_collection: collections/autobiography.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
+    width: '60'
+    margin_y: '250'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#fdd3d3'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '-15'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#d27474'
+    line_height: normal
+    text_alignment: left
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: left
+  - _bookshop_name: home/modal-blog
     title: 'AP 41: American Photography Annual'
     caption: 'Golf Digest: All The Rage'
     attached_blog: posts/ap-40-american-photography-annual-copy.md
@@ -418,24 +458,6 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/modal-blog
-    title: 2026 George Polk Award
-    caption: The True Cost of Data Centers
-    attached_blog: posts/george-polk-award.md
-    blog_block_cover: >-
-      https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
-    block_aspect_ratio: 3x4
-    text_size: base
-    color: '#ffffff'
-    width: '20'
-    align_y: start
-    margin_y: '1150'
-    margin_left: '0'
-    margin_right: '5'
-    meta_align: right
-    theme_color: '#fffbd2'
     meta: Awards
     attached: true
   - _bookshop_name: home/media-row
@@ -869,28 +891,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Personal: Autobiography of a Contact Sport'
-    attached_collection: collections/autobiography.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/auto_recolor-23.jpg
-    width: '60'
-    margin_y: '250'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#fdd3d3'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '-15'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#d27474'
-    line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: left
   - _bookshop_name: home/modal-blog
     title: Star Geezers on BOOOOOOM!
     caption: Fisheye Photo Review 2021.22
