@@ -20,9 +20,9 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'We Wish You Luck: American Hypnosis: Coming Soon from PowerHouse Books'
+    meta: 'We Wish You Luck: American Hypnosis'
     attached_collection: collections/vanishing-folklore-2.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/hypnosis%2B202407-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-hypnosis-1.jpg
     width: '50'
     margin_y: '0'
     margin_left: '25'
@@ -62,9 +62,9 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-feature
     title:
-    meta: Personal. The Changing Landscape of American Retail
+    meta: 'Clearance: The Changing Landscape of American Retail'
     attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-1.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
     width: '55'
     margin_y: '500'
     margin_left: '0'
@@ -81,7 +81,7 @@ content_blocks:
     text_alignment: left
     text_tracking: widest
     font_weight: bold
-    meta_align: left
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -89,9 +89,9 @@ content_blocks:
     meta: 'Selected Commissions: Adobe, Adidas, Apple, Armani, Hermes, & More'
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-27.jpg
-    width: '45'
-    margin_y: '300'
-    margin_left: '10'
+    width: '35'
+    margin_y: '400'
+    margin_left: '15'
     margin_right: '0'
     align_y: start
     color: '#f2ecdf'
@@ -114,7 +114,7 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '35'
+    width: '40'
     align_y: start
     margin_y: '100'
     margin_left: '0'
