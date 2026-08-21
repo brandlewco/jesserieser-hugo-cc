@@ -496,57 +496,15 @@ content_blocks:
     margin_right: '10'
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'UnBound13! '
-    caption: American Hypnosis at Candela Gallery
-    attached_blog: posts/candela-gallery-unbound-13.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    block_aspect_ratio: 3x2
-    text_size: base
-    color: '#ffffff'
-    width: '25'
-    align_y: start
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'AP 40: American Photography Annual '
-    caption: 'Outdoor Life: A Son''s First Solo Hunt'
-    attached_blog: posts/ap-40-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_01.jpg
-    block_aspect_ratio: 3x4
-    text_size: base
-    color: '#ffffff'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#d2fdff'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'The New Yorker: Can the Golden Age of Costco Last?'
     attached_collection: collections/the-new-yorker.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/20251203_Costco/jr_costco-3.jpg
-    width: '30'
+    width: '33'
     margin_y: '350'
-    margin_left: '0'
-    margin_right: '45'
+    margin_left: '35'
+    margin_right: '0'
     align_y: start
     color: '#d0e5ef'
     caption: ''
@@ -560,6 +518,70 @@ content_blocks:
     text_tracking: wide
     font_weight: hairline
     meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: 'AP 40: American Photography Annual '
+    caption: 'Outdoor Life: A Son''s First Solo Hunt'
+    attached_blog: posts/ap-40-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap-40_water-mark_01.jpg
+    block_aspect_ratio: 3x4
+    text_size: base
+    color: '#ffffff'
+    width: '20'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Smithsonian: Kitt Peak National Observatory '
+    attached_collection: collections/smithsonian.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-16.jpg
+    width: '50'
+    margin_y: '100'
+    margin_left: '5'
+    margin_right: '0'
+    align_y: start
+    color: '#a1c7f7'
+    caption: smithsonian
+    title_margin_y: '10'
+    title_margin_left: '20'
+    title_margin_right: '0'
+    text_size: 7xl
+    text_color: '#b1d7f7'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: semibold
+    meta_align: right
+  - _bookshop_name: home/modal-blog
+    title: 'UnBound13! '
+    caption: American Hypnosis at Candela Gallery
+    attached_blog: posts/candela-gallery-unbound-13.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
+    block_aspect_ratio: 3x2
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '15'
+    meta_align: left
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-row
+    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
@@ -690,28 +712,6 @@ content_blocks:
     margin_right: '0'
     meta_align: left
     theme_color: '#c22b30'
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Smithsonian: Kitt Peak National Observatory '
-    attached_collection: collections/smithsonian.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/smithsonian-07-16.jpg
-    width: '60'
-    margin_y: '400'
-    margin_left: '0'
-    margin_right: '5'
-    align_y: start
-    color: '#a1c7f7'
-    caption: smithsonian
-    title_margin_y: '10'
-    title_margin_left: '20'
-    title_margin_right: '0'
-    text_size: 7xl
-    text_color: '#b1d7f7'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: semibold
-    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
