@@ -567,11 +567,11 @@ content_blocks:
     block_aspect_ratio: 3x2
     text_size: base
     color: '#ffffff'
-    width: '25'
+    width: '30'
     align_y: start
-    margin_y: '100'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '15'
+    margin_right: '10'
     meta_align: left
     theme_color: '#d2fdff'
     meta: Awards
