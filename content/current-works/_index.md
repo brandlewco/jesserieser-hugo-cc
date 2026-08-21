@@ -847,6 +847,22 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Collection Title
+    caption: Caption
+    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 1x1
+    text_size: base
+    color: '#ffffff'
+    width: '25'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#000000'
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
@@ -854,8 +870,8 @@ content_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nicklaus_recolor-6.jpg
     width: '33'
     margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '15'
     align_y: start
     color: '#c1e6ac'
     caption: ''
@@ -869,22 +885,6 @@ content_blocks:
     text_tracking: normal
     font_weight: normal
     meta_align: right
-  - _bookshop_name: home/modal-blog
-    title: Collection Title
-    caption: Caption
-    attached_blog: posts/the-changing-landscape-of-american-retail-1.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/retail_fresh-blog-1_minus2020.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 1x1
-    text_size: base
-    color: '#ffffff'
-    width: '30'
-    align_y: center
-    margin_y: '0'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
