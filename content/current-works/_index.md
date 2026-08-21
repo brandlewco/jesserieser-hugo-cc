@@ -214,8 +214,7 @@ content_blocks:
     title: TE Deseamos Suerte
     caption: Sepp Magazine World Cup Issue
     attached_blog: posts/ap-40-american-photography-annual-copy.md
-    blog_block_cover: >-
-      https://d1sf55qlb7p6hz.cloudfront.net/Screenshotc+2026-06-23+at+6.16.54%E2%80%AFPM+copy+2.jpg
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/sepp_cover.jpg
     vimeo_block_cover: 0
     block_aspect_ratio: 16x9
     text_size: base
