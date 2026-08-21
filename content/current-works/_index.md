@@ -373,7 +373,8 @@ content_blocks:
     title: 2026 George Polk Award
     caption: The True Cost of Data Centers
     attached_blog: posts/george-polk-award.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/polk43-1.jpg
+    blog_block_cover: >-
+      https://d1sf55qlb7p6hz.cloudfront.net/20260218-174017-bd1-George_Polk_Awards.jpg
     block_aspect_ratio: 4x3
     text_size: base
     color: '#ffffff'
