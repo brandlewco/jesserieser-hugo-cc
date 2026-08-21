@@ -582,187 +582,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'The Wall Street Journal: A Second Act'
-    attached_collection: collections/hermès-copy.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: left
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Road and Track: The Drag Scene'
-    attached_collection: collections/road-and-track.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
-    width: '33'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '20'
-    align_y: start
-    color: '#c9fce6'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '55'
-    title_margin_right: '0'
-    text_size: lg
-    text_color: '#ffffff'
-    line_height: normal
-    text_alignment: center
-    text_tracking: wide
-    font_weight: hairline
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Golf Digest: Best Little Golf Towns'
-    attached_collection: collections/golf-digest-best-little-golf-towns.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
-    width: '33'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: start
-    color: '#cd98d4'
-    caption: ''
-    title_margin_y: '15'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#afd0f5'
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: bold
-    meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Communication Arts Photography Annual '
-    caption: Antoine’s Escalaras
-    attached_blog: posts/communication-arts-photography-annual-2022.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: 2xl
-    color: '#fcc8cc'
-    width: '20'
-    align_y: start
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '10'
-    meta_align: right
-    theme_color: '#fabdc2'
-    meta: meta
-    blog_header:
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: Souvenirs From Paradise Exhibition
-    caption: The Gallery at Mountain Shadows
-    attached_blog: posts/souvenirs-from-paradise.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
-    vimeo_block_cover: 769252337
-    block_aspect_ratio: 16x9
-    text_size: 2xl
-    color: '#f3d7d7'
-    width: '30'
-    align_y: start
-    margin_y: '500'
-    margin_left: '10'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#f6e7d1'
-    meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/modal-blog
-    title: 'Elle Korea '
-    caption: Christmas In America Feature
-    attached_blog: posts/new-blog.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
-    vimeo_block_cover:
-    block_aspect_ratio: 8-5x11
-    text_size: base
-    color: '#c22b30'
-    width: '15'
-    align_y: start
-    margin_y: '100'
-    margin_left: '15'
-    margin_right: '0'
-    meta_align: left
-    theme_color: '#c22b30'
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: 'Amtrak: Where Amtrak Can Take You'
-    attached_collection: collections/amtrak-southwest-chief.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/travel-202407-8.jpg
-    width: '60'
-    margin_y: '200'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: center
-    color: '#c1e6ac'
-    caption: ''
-    title_margin_y: '0'
-    title_margin_left: '0'
-    title_margin_right: '0'
-    text_size: 4xl
-    text_color:
-    line_height: normal
-    text_alignment: center
-    text_tracking: normal
-    font_weight: normal
-    meta_align: center
-  - _bookshop_name: home/modal-blog
-    title: 'AP 39: American Photography Annual '
-    caption: 'Barron''s: Beyond The Drought'
-    attached_blog: posts/ap-39-american-photography-annual.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
-    block_aspect_ratio: 4x5
-    text_size: base
-    color: '#ffffff'
-    width: '10'
-    align_y: start
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '0'
-    meta_align: right
-    theme_color: '#ffd2d2'
-    meta: Awards
-    attached: true
-  - _bookshop_name: home/media-row
-    row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: The Sunset Spot at Red Modern
     caption: A Visual Conversation with Matt Magee & Jesse Rieser
@@ -779,8 +598,6 @@ content_blocks:
     meta_align: right
     theme_color: '#c8b3eb'
     meta: meta
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
@@ -889,8 +706,6 @@ content_blocks:
     meta_align: center
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/modal-blog
     title: Star Geezers on BOOOOOOM!
     caption: Fisheye Photo Review 2021.22
@@ -899,17 +714,97 @@ content_blocks:
     block_aspect_ratio: 4x5
     text_size:
     color: '#ffe7c3'
-    width: '15'
+    width: '25'
     align_y: start
-    margin_y: '0'
-    margin_left: '0'
+    margin_y: '600'
+    margin_left: '30'
     margin_right: '5'
     meta_align: right
     theme_color: '#d9f8f4'
     meta: meta
     blog_header: https://d1sf55qlb7p6hz.cloudfront.net/stargeezers-1.jpg
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Golf Digest: Best Little Golf Towns'
+    attached_collection: collections/golf-digest-best-little-golf-towns.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202511_jr-overview-1.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#cd98d4'
+    caption:
+    title_margin_y: '15'
+    title_margin_left: '5'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#afd0f5'
+    line_height: normal
+    text_alignment: center
+    text_tracking: normal
+    font_weight: bold
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: Souvenirs From Paradise Exhibition
+    caption: The Gallery at Mountain Shadows
+    attached_blog: posts/souvenirs-from-paradise.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/SOP_ClosingInvite.jpg
+    vimeo_block_cover: 0
+    block_aspect_ratio: 3x4
+    text_size: 2xl
+    color: '#f3d7d7'
+    width: '30'
+    align_y: start
+    margin_y: '500'
+    margin_left: '10'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#f6e7d1'
+    meta: meta
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'The Wall Street Journal: A Second Act'
+    attached_collection: collections/hermès-copy.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/WSJ_2ND-ACTS-8.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: left
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'Communication Arts Photography Annual '
+    caption: Antoine’s Escalaras
+    attached_blog: posts/communication-arts-photography-annual-2022.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser-ca_esc-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: 2xl
+    color: '#fcc8cc'
+    width: '20'
+    align_y: start
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '10'
+    meta_align: right
+    theme_color: '#fabdc2'
+    meta: meta
+    blog_header:
   - _bookshop_name: home/modal-blog
     title: The Fence
     caption: The Fence at The Griffin Museum of Photography
@@ -929,28 +824,26 @@ content_blocks:
     blog_header:
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Adidas Golf: Dustin Johnson, Xander Schaufelle, & Sergio Garcia'
-    attached_collection: collections/adidas-golf.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/adicross_recolor-18.jpg
-    width: '55'
-    margin_y: '350'
+    meta: 'Road and Track: The Drag Scene'
+    attached_collection: collections/road-and-track.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/RT-2.jpg
+    width: '33'
+    margin_y: '500'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: start
-    color: '#d8c0ed'
+    color: '#c9fce6'
     caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
+    title_margin_y: '15'
+    title_margin_left: '55'
     title_margin_right: '0'
-    text_size: 8xl
-    text_color: '#f6f2a3'
+    text_size: lg
+    text_color: '#ffffff'
     line_height: normal
-    text_alignment: left
-    text_tracking: normal
-    font_weight: bold
+    text_alignment: center
+    text_tracking: wide
+    font_weight: hairline
     meta_align: right
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-feature
     title:
     meta: 'Golf Digest: Jack Vs. Nicklaus '
@@ -976,6 +869,22 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
+    title: 'Elle Korea '
+    caption: Christmas In America Feature
+    attached_blog: posts/new-blog.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/elle_xmas-1.jpg
+    vimeo_block_cover:
+    block_aspect_ratio: 8-5x11
+    text_size: base
+    color: '#c22b30'
+    width: '15'
+    align_y: start
+    margin_y: '100'
+    margin_left: '15'
+    margin_right: '0'
+    meta_align: left
+    theme_color: '#c22b30'
+  - _bookshop_name: home/modal-blog
     title: Collection Title
     caption: Caption
     attached_blog: posts/the-changing-landscape-of-american-retail-1.md
@@ -993,6 +902,23 @@ content_blocks:
     theme_color: '#000000'
   - _bookshop_name: home/media-row
     row_alignment: between
+  - _bookshop_name: home/modal-blog
+    title: 'AP 39: American Photography Annual '
+    caption: 'Barron''s: Beyond The Drought'
+    attached_blog: posts/ap-39-american-photography-annual.md
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/ap39Book-1.jpg
+    block_aspect_ratio: 4x5
+    text_size: base
+    color: '#ffffff'
+    width: '10'
+    align_y: start
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    meta_align: right
+    theme_color: '#ffd2d2'
+    meta: Awards
+    attached: true
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-row
