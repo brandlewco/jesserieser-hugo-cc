@@ -87,7 +87,7 @@ content_blocks:
   - _bookshop_name: home/media-feature
     title:
     meta: 'Selected Commissions: Adobe, Adidas, Apple, Armani, Hermes, & More'
-    attached_collection: collections/retail.md
+    attached_collection: collections/selected-commissions.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-27.jpg
     width: '45'
     margin_y: '400'
