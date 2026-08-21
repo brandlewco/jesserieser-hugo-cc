@@ -50,14 +50,14 @@ content_blocks:
     vimeo_block_cover: 0
     block_aspect_ratio: 4x5
     text_size: base
-    color: '#ffffff'
+    color:
     width: '30'
     align_y: start
     margin_y: '100'
     margin_left: '5'
     margin_right: '0'
     meta_align: right
-    theme_color: '#ffe5d2'
+    theme_color:
     meta: Awards
     attached: true
   - _bookshop_name: home/media-feature
