@@ -43,28 +43,69 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: REC CENTER Coming Soon at David Peterson Gallery
-    caption: |-
-      June 20th - August 26th
-
-      Minneapolis
-
-      &nbsp;
+    title: REC CENTER at David Peterson Gallery
+    caption: 'Golf Digest: All The Rage'
     attached_blog: posts/dpg-rec-center.md
-    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/rieser_candella-intalls-08-1.jpg
-    vimeo_block_cover: 1200496156
-    block_aspect_ratio: 3x4
+    blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/dpg_Blog-1.jpg
+    vimeo_block_cover: 0
+    block_aspect_ratio: 4x5
     text_size: base
-    color: '#ffbcbc'
-    width: '25'
+    color: '#ffffff'
+    width: '30'
     align_y: start
     margin_y: '100'
     margin_left: '10'
     margin_right: '0'
+    meta_align: right
+    theme_color: '#d2fdff'
+    meta: Awards
+    attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: Personal. The Changing Landscape of American Retail
+    attached_collection: collections/retail.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-retail-1.jpg
+    width: '50'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#f2ecdf'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f18961'
+    line_height: tight
+    text_alignment: left
+    text_tracking: widest
+    font_weight: bold
     meta_align: left
-    theme_color: '#ffe5e5'
-    meta:
-    attached: false
+  - _bookshop_name: home/media-row
+    row_alignment: between
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'Selected Commissions: Adobe, Adidas, Apple, Armani, Hermes, & More'
+    attached_collection: collections/retail.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/202608_advertising-grained-27.jpg
+    width: '50'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#f2ecdf'
+    caption: ''
+    title_margin_y: '10'
+    title_margin_left: '0'
+    title_margin_right: '0'
+    text_size: 6xl
+    text_color: '#f18961'
+    line_height: tight
+    text_alignment: left
+    text_tracking: widest
+    font_weight: bold
+    meta_align: left
   - _bookshop_name: home/modal-blog
     title: FOLKLORE
     caption: Bentley Gallery
@@ -107,8 +148,6 @@ content_blocks:
     theme_color: '#f2f7c8'
     meta:
     attached: false
-  - _bookshop_name: home/media-row
-    row_alignment: between
   - _bookshop_name: home/media-motion
     vimeo_id: 1137957648
     caption: caption
@@ -255,28 +294,6 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-row
     row_alignment: between
-  - _bookshop_name: home/media-feature
-    title:
-    meta: Personal. The Changing Landscape of American Retail
-    attached_collection: collections/retail.md
-    image: https://d1sf55qlb7p6hz.cloudfront.net/retail-07-3.jpg
-    width: '60'
-    margin_y: '100'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: start
-    color: '#f2ecdf'
-    caption: ''
-    title_margin_y: '10'
-    title_margin_left: '5'
-    title_margin_right: '0'
-    text_size: 6xl
-    text_color: '#f18961'
-    line_height: tight
-    text_alignment: left
-    text_tracking: widest
-    font_weight: bold
-    meta_align: left
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
