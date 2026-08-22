@@ -188,7 +188,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: Personal. Guns & Pizza
+    meta: Guns & Pizza. Personal
     attached_collection: collections/guns-pizza.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_gunspizza-11.jpg
     width: '35'
