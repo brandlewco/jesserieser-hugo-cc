@@ -20,7 +20,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'We Wish You Luck: American Hypnosis 2012 - 2026 (Personal)'
+    meta: 'We Wish You Luck: American Hypnosis. Personal'
     attached_collection: collections/vanishing-folklore-2.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607JR-hypnosis-1.jpg
     width: '50'
