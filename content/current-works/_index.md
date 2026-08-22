@@ -644,8 +644,8 @@ content_blocks:
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/modal-blog
-    title: WaPo
-    caption: Featured on Washington Post and Business Insider
+    title: Clearance
+    caption: Washington Post Cover Feature + Interview and Business Insider
     attached_blog: posts/the-changing-landscape-of-america-retail.md
     blog_block_cover: https://d1sf55qlb7p6hz.cloudfront.net/blog_waporetail-1b-cover.jpg
     block_aspect_ratio: 2x3
