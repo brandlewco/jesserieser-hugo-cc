@@ -62,7 +62,7 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Clearance: The Changing Landscape of American Retail'
+    meta: 'Clearance: The Changing Landscape of American Retail. Personal'
     attached_collection: collections/retail.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-36.jpg
     width: '55'
