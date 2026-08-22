@@ -13,6 +13,17 @@ import PhotoSwipe from "photoswipe";
 import PhotoSwipeUI_Default from "photoswipe/dist/photoswipe-ui-default";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
 
+// Detect CloudCannon's live-preview / visual-editor context.
+// The editor renders this page inside a proxied "*.proxy.cloudcannon.com" host
+// (and injects window.CloudCannon). In that context we skip scroll-driven effects
+// like parallax, which force a reflow on every scroll event and, combined with
+// CloudCannon re-rendering the page on each edit, freeze the preview for many
+// seconds. The published site is served from its real domain and is unaffected.
+const IS_CC_PREVIEW =
+  /(^|\.)proxy\.cloudcannon\.com$/i.test(window.location.hostname) ||
+  typeof window.CloudCannon !== "undefined" ||
+  window.inEditorMode === true;
+
 // Swup initialization options
 const options = {
   containers: ["#navigation", "#content"],
@@ -139,22 +150,28 @@ function init() {
   });
 
   // Rellax initialization
-  const rellaxIn = document.querySelectorAll(".rellax");
-  rellaxIn.forEach((el) => {
-    const rellax = new Rellax(el, {
-      speed: 4,
-      center: true,
-      relativeToWrapper: true,
-      wrapper: el.parentElement,
-      round: true,
-      vertical: true,
-      horizontal: false,
-      breakpoints: [1200, 1600, 2000],
+  // Skipped inside the CloudCannon preview: parallax refresh-on-scroll forces a
+  // reflow per element on every scroll and, because init() re-runs on each editor
+  // re-render, its scroll listeners accumulate and freeze the preview. Live site
+  // keeps parallax exactly as before.
+  if (!IS_CC_PREVIEW) {
+    const rellaxIn = document.querySelectorAll(".rellax");
+    rellaxIn.forEach((el) => {
+      const rellax = new Rellax(el, {
+        speed: 4,
+        center: true,
+        relativeToWrapper: true,
+        wrapper: el.parentElement,
+        round: true,
+        vertical: true,
+        horizontal: false,
+        breakpoints: [1200, 1600, 2000],
+      });
+      window.addEventListener("scroll", () => {
+        rellax.refresh();
+      });
     });
-    window.addEventListener("scroll", () => {
-      rellax.refresh();
-    });
-  });
+  }
 
   // PhotoSwipe initialization
   if (document.querySelector("#gallery")) {

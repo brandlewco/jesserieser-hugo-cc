@@ -1,4 +1,9 @@
 {{ $key := site.GetPage .attached_blog }}
+{{/* Meta label (News/Press/Awards/Exhibitions): use the block's own override if set,
+     otherwise fall back to the attached post's news_category. Guarded so a missing or
+     renamed attached post does not error and blank the preview. */}}
+{{ $meta := .news_category }}
+{{ if not $meta }}{{ with $key }}{{ $meta = .Params.news_category }}{{ end }}{{ end }}
 
 <figure class="figure block-hover lg:meta-hover {{with .blog_block_cover }}figure-blog-cover{{else}}figure-blog-text{{end}} block-hover self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper">
   <div class="rellax"  data-rellax-speed="2" data-rellax-xs-speed="0" >
@@ -24,7 +29,7 @@
   {{ if site.Params.env_bookshop_live }}
   <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3" data-sal="slide-down" data-sal-delay="600">Editor Placeholder</h6>
   {{ else }}
-  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 {{with .meta_align}}sm:text-{{.}}{{end}} text-left" data-sal="slide-down" data-sal-delay="600">{{ with $key.Params.news_category}}{{ . }}{{end}}</h6>
+  <h6 class="mb-0 ml-0 text-black font-normal text-xs sm:text-base tracking-widest leading-tight mt-1 sm:mt-3 {{with .meta_align}}sm:text-{{.}}{{end}} text-left" data-sal="slide-down" data-sal-delay="600">{{ with $meta }}{{ . }}{{ end }}</h6>
   {{end}}
   </div>
 </figure>
