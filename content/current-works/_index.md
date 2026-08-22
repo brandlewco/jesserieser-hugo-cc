@@ -234,7 +234,7 @@ content_blocks:
     row_alignment: between
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Personal. Christmas in America: Happy Birthday, Jesus'
+    meta: 'Happy Birthday, Jesus: Christmas In America. Personal'
     attached_collection: collections/xmas-in-america.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-61.jpg
     width: '60'
@@ -320,7 +320,7 @@ content_blocks:
     attached: true
   - _bookshop_name: home/media-feature
     title:
-    meta: 'Personal: Autobiography of a Contact Sport'
+    meta: Autobiography of a Contact Sport. Personal
     attached_collection: collections/autobiography.md
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_auto-2.jpg
     width: '45'
@@ -329,7 +329,7 @@ content_blocks:
     margin_right: '0'
     align_y: start
     color: '#fdd3d3'
-    caption: ''
+    caption:
     title_margin_y: '10'
     title_margin_left: '-15'
     title_margin_right: '0'
