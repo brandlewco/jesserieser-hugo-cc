@@ -57,7 +57,7 @@ content_blocks:
     margin_left: '5'
     margin_right: '0'
     meta_align: left
-    theme_color:
+    theme_color: '#f3dada'
     meta: Exhibitions
     attached: true
   - _bookshop_name: home/media-feature
