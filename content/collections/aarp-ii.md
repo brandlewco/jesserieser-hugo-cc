@@ -23,9 +23,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-1.jpg
-    width: '40'
+    width: '45'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '25'
     margin_right: ''
     align_y: ''
     color: '#dce3f3'
@@ -35,9 +35,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-4.jpg
-    width: '40'
+    width: '25'
     margin_y: '100'
-    margin_left: '0'
+    margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#efcab3'
@@ -45,10 +45,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '10'
-    margin_right: '0'
+    width: '35'
+    margin_y: '500'
+    margin_left: '0'
+    margin_right: '20'
     align_y: ''
     color: '#f0f3d4'
     caption: ''
