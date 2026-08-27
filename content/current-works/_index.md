@@ -221,15 +221,37 @@ content_blocks:
     block_aspect_ratio: 16x9
     text_size: base
     color: '#ffffff'
-    width: '60'
+    width: '55'
     align_y: start
-    margin_y: '50'
+    margin_y: '700'
     margin_left: '5'
     margin_right: '0'
     meta_align: left
     theme_color: '#ffead2'
     meta: Press
     attached: true
+  - _bookshop_name: home/media-feature
+    title:
+    meta: 'AARP: The Golden Girls at the Modern Elders Academy'
+    attached_collection: collections/aarp-ii.md
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-15.jpg
+    width: '30'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: start
+    color: '#c9fce6'
+    caption: ''
+    title_margin_y: '15'
+    title_margin_left: '55'
+    title_margin_right: '0'
+    text_size: lg
+    text_color: '#ffffff'
+    line_height: normal
+    text_alignment: right
+    text_tracking: wide
+    font_weight: hairline
+    meta_align: right
   - _bookshop_name: home/media-row
     row_alignment: between
   - _bookshop_name: home/media-feature
