@@ -7,7 +7,7 @@ seo:
   meta_title: >-
     Photographer Jesse Rieser photographs the women "golden girls" at the Modern
     Elders Academy New Mexico
-title: AARP II
+title: AARP
 collection_meta: The Golden Girls
 collection_meta_2: Modern Elders Academy
 collection_description: >-
