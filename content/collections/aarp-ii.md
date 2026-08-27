@@ -24,7 +24,7 @@ collection_description: >-
   This weekend marks the one-year anniversary of Murray's career breakthrough
   win at the Sony Open in Hawaii. He passed away four months later.
 collection_description_alignment: center
-slug: golfdigest-grayson
+slug: aarp-mea
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
