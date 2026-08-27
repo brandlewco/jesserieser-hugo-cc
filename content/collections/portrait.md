@@ -94,6 +94,15 @@ collection_blocks:
     color: '#d5e6f1'
     caption: ''
   - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/portrait_jenna-1.jpg
+    width: '15'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '0'
+    align_y: center
+    color: '#d5e6f1'
+    caption: ''
+  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202608_portrait-9.jpg
     width: '15'
     margin_y: '100'
