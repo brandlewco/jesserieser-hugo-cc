@@ -1,15 +1,18 @@
 collection_pager:
   - collections/vanishing-folklore-2.md
-  - collections/wild-sam.md
+  - collections/retail.md
+  - collections/selected-commissions.md
   - collections/switchyard-copy.md
   - collections/switchyard.md
+  - collections/guns-pizza.md
+  - collections/aarp-ii.md
+  - collections/xmas-in-america.md
+  - collections/fights.md
+  - collections/autobiography.md
   - collections/the-new-york-times-ice.md
   - collections/nbc-news.md
-  - collections/guns-pizza.md
   - collections/outdoor-life.md
-  - collections/fights.md
   - collections/dwell.md
-  - collections/retail.md
   - collections/hermès.md
   - collections/espn-devin-booker-cover-story.md
   - collections/armani-anniversary.md
@@ -20,8 +23,8 @@ collection_pager:
   - collections/southern-living.md
   - collections/hermès-copy.md
   - collections/road-and-track.md
+  - collections/wild-sam.md
   - collections/the-new-york-times-housing.md
-  - collections/xmas-in-america.md
   - collections/the-new-yorker.md
   - collections/smithsonian.md
   - collections/bloomberg-nomads-copy.md
@@ -33,7 +36,6 @@ collection_pager:
   - collections/propublica.md
   - collections/antoine-s-escalaras-copy.md
   - collections/golf-digest-best-little-golf-towns.md
-  - collections/autobiography.md
   - collections/adidas-golf.md
   - collections/star-geezers.md
   - collections/wired-bitmain.md
