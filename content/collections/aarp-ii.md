@@ -58,44 +58,44 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-5.jpg
-    width: '40'
-    margin_y: '700'
-    margin_left: '0'
-    margin_right: '0'
-    align_y: ''
-    color: '#f8ebcc'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-6.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '5'
+    width: '30'
+    margin_y: '500'
+    margin_left: '30'
+    margin_right: '0'
     align_y: ''
     color: '#dcedf8'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-5.jpg
+    width: '25'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '10'
+    align_y: ''
+    color: '#f8ebcc'
+    caption:
+    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-7.jpg
-    width: '40'
+    width: '35'
     margin_y: '100'
-    margin_left: '10'
+    margin_left: '50'
     margin_right: '0'
     align_y: ''
     color: '#f4dfe7'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-8.jpg
-    width: '35'
-    margin_y: '550'
-    margin_left: '0'
+    width: '55'
+    margin_y: '100'
+    margin_left: '15'
     margin_right: '10'
     align_y: ''
     color: '#f3e1d4'
@@ -107,67 +107,67 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-9.jpg
-    width: '55'
+    width: '20'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '5'
     margin_right: '0'
     align_y: ''
     color: '#cce3fa'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-10.jpg
-    width: '55'
+    width: '30'
     margin_y: '400'
-    margin_left: '5'
-    margin_right: ''
+    margin_left: '0'
+    margin_right: '0'
     align_y: ''
     color: '#f1e3cf'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-11.jpg
-    width: '30'
-    margin_y: '100'
+    width: '20'
+    margin_y: '1100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '20'
     align_y: ''
     color: '#eadef4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-13.jpg
+    width: '50'
+    margin_y: '400'
+    margin_left: '15'
+    margin_right: '0'
+    align_y: start
+    color: '#c6e2d4'
+    caption: ''
+    align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-12.jpg
-    width: '60'
+    width: '20'
     margin_y: '100'
-    margin_left: '25'
-    margin_right: ''
+    margin_left: '0'
+    margin_right: '10'
     align_y: ''
     color: '#efe5dd'
     caption:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-13.jpg
-    width: '35'
-    margin_y: '200'
-    margin_left: '35'
-    margin_right: '15'
-    align_y: start
-    color: '#c6e2d4'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-14.jpg
     width: '45'
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '35'
     margin_right: '0'
     align_y: ''
     color: '#cce1f3'
@@ -177,9 +177,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-15.jpg
-    width: '45'
-    margin_y: '350'
-    margin_left: '15'
+    width: '35'
+    margin_y: '550'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#d5f4f6'
@@ -209,9 +209,9 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-17.jpg
-    width: '40'
-    margin_y: '600'
-    margin_left: '5'
+    width: '20'
+    margin_y: '100'
+    margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#ede5de'
@@ -219,10 +219,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-18.jpg
-    width: '30'
-    margin_y: '100'
+    width: '25'
+    margin_y: '450'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '30'
     align_y: ''
     color: '#ffebda'
     caption: ''
@@ -233,10 +233,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-19.jpg
-    width: '40'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '25'
+    width: '50'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: ''
     color: '#f6f1d0'
     caption: ''
@@ -247,10 +247,10 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-20.jpg
-    width: '35'
-    margin_y: '500'
-    margin_left: '0'
-    margin_right: '15'
+    width: '66'
+    margin_y: '100'
+    margin_left: '20'
+    margin_right: '0'
     align_y: ''
     color: '#eddaf0'
     caption: ''
@@ -272,7 +272,7 @@ date: 2023-04-12T16:05:37Z
 theme_color: '#f4e399'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: ''
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
 collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-7.jpg
