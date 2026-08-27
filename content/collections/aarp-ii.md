@@ -11,18 +11,11 @@ title: AARP II
 collection_meta: The Golden Girls
 collection_meta_2: Modern Elders Academy
 collection_description: >-
-  In the painful aftermath of pga tour pro Grayson Murray’s 2024 suicide, the
-  people who loved him describe a man with immense talent, a kind heart and a
-  burden he couldn’t shed.
-
-
-  The bedroom is filled with reminders of who Grayson Murray was and wanted to
-  be. A black case in the corner holds the Sony Open trophy. Self-help books
-  press against his tattered Bible on a nightstand.
-
-
-  This weekend marks the one-year anniversary of Murray's career breakthrough
-  win at the Sony Open in Hawaii. He passed away four months later.
+  AARP asks whether real women can actually pull off "Golden Girls"-style
+  co-housing in later life, centered on a workshop from Modern Elder Academy,
+  Chip Conley's "midlife wisdom school," where older women weigh the appeal of
+  shared costs and companionship against the challenges of privacy,
+  compatibility, and caregiving.
 collection_description_alignment: center
 slug: aarp-mea
 collection_blocks:
