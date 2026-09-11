@@ -6,10 +6,10 @@ collection_meta:
 collection_meta_2:
 seo:
   meta_title: Selected Works of Los Angeles + Phoenix Photographer Jesse Rieser
-  meta_description: >-
-    Los Angeles and Phoenix Commercial, Editorial, and Fine Art Photographer &
-    Director specializing in portraiture, reportage, sport and conceptual
-    photography and video. Located in the West Coast and Southwestern USA.
+  meta_description: Los Angeles and Phoenix Commercial, Editorial, and Fine Art
+    Photographer & Director specializing in portraiture, reportage, sport and
+    conceptual photography and video. Located in the West Coast and Southwestern
+    USA.
 collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: start
@@ -70,20 +70,38 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-6.jpg
-    width: '35'
+    width: '30'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '15'
     margin_right: '0'
     align_y:
     color: '#000000'
     caption:
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-4.jpg
+    width: '20'
+    margin_y: '700'
+    margin_left: '0'
+    margin_right: '35'
+    align_y: start
+    color: '#f8f3f3'
+    caption: ''
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-7.jpg
+    width: '33'
+    margin_y: '100'
+    margin_left: '55'
+    margin_right: '0'
+    align_y: start
+    color: '#f8f3f3'
+    caption:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-7.jpg
-    width: '20'
+    width: '15'
     margin_y: '500'
     margin_left: '25'
     margin_right: '0'
@@ -92,10 +110,10 @@ collection_blocks:
     caption: ''
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/202607b_overview-8.jpg
-    width: '45'
+    width: '35'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '5'
+    margin_right: '20'
     align_y: start
     color: '#f8f3f3'
     caption: ''
