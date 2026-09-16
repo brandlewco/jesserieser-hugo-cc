@@ -145,7 +145,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-11.jpg
     width: '30'
-    margin_y: '500'
+    margin_y: '100'
     margin_left: '10'
     margin_right: '0'
     align_y: start
@@ -155,7 +155,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-12.jpg
     width: '33'
-    margin_y: '100'
+    margin_y: '500'
     margin_left: '0'
     margin_right: '20'
     align_y: ''
@@ -170,7 +170,7 @@ collection_blocks:
     image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-13.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '30'
     margin_right: '0'
     align_y: ''
     color: '#cce1f3'
@@ -215,12 +215,12 @@ date: 2023-04-12T16:05:37Z
 theme_color: '#f4e399'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-1.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-8.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/grayson_redo-3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/snap-thumbs-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/snap-thumbs-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/snap-thumbs-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/snap-thumbs-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-12.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-10.jpg
