@@ -1,21 +1,18 @@
 ---
 _schema: default
 seo:
-  meta_description: >-
-    West Coast Photographer Jesse Rieser photographs the women "golden girls" at
+  meta_description: West Coast Photographer Jesse Rieser photographs the women
+    "golden girls" at the Modern Elders Academy New Mexico
+  meta_title: Photographer Jesse Rieser photographs the women "golden girls" at
     the Modern Elders Academy New Mexico
-  meta_title: >-
-    Photographer Jesse Rieser photographs the women "golden girls" at the Modern
-    Elders Academy New Mexico
 title: AARP
 collection_meta: The Golden Girls
 collection_meta_2: Modern Elders Academy
-collection_description: >-
-  AARP asks whether real women can actually pull off "Golden Girls"-style
-  co-housing in later life, centered on a workshop from Modern Elder Academy,
-  Chip Conley's "midlife wisdom school," where older women weigh the appeal of
-  shared costs and companionship against the challenges of privacy,
-  compatibility, and caregiving.
+collection_description: AARP asks whether real women can actually pull off
+  "Golden Girls"-style co-housing in later life, centered on a workshop from
+  Modern Elder Academy, Chip Conley's "midlife wisdom school," where older women
+  weigh the appeal of shared costs and companionship against the challenges of
+  privacy, compatibility, and caregiving.
 collection_description_alignment: center
 slug: aarp-mea
 collection_blocks:
@@ -274,10 +271,10 @@ theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/gd-grayson-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-8.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/grayson_redo-3x4-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-4.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-9.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-12.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-10.jpg
