@@ -6,8 +6,8 @@ seo:
   meta_title: Photographer Jesse Rieser photographs the individuals facing food
     stamp cuts for NBC
 title: NBC News
-collection_meta: 'The Families Going Hungry '
-collection_meta_2: Because of Trump’s Food Stamp Cuts
+collection_meta: The Families
+collection_meta_2: Going Hungry Because of Trump’s Food Stamp Cuts
 collection_description: >-
   Under President Trump’s “big, beautiful bill,” food stamp applicants are
   fighting to prove eligibility and facing questions about birthday gifts sent
@@ -25,10 +25,10 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-1.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-1.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '40'
     margin_right: ''
     align_y: ''
     color: '#dce3f3'
@@ -37,21 +37,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-4.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-2.jpg
+    width: '50'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '5'
     margin_right: '0'
     align_y: ''
     color: '#efcab3'
-    caption: ''
+    caption:
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-3.jpg
     width: '35'
-    margin_y: '500'
+    margin_y: '550'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '5'
     align_y: ''
     color: '#f0f3d4'
     caption: ''
@@ -61,21 +61,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-6.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-4.jpg
     width: '30'
-    margin_y: '500'
-    margin_left: '30'
+    margin_y: '400'
+    margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#dcedf8'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-5.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-5.jpg
     width: '25'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '25'
     align_y: ''
     color: '#f8ebcc'
     caption:
@@ -83,22 +83,20 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-7.jpg
-    width: '35'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-6.jpg
+    width: '25'
     margin_y: '100'
-    margin_left: '50'
+    margin_left: '5'
     margin_right: '0'
     align_y: ''
     color: '#f4dfe7'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-8.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-7.jpg
     width: '55'
-    margin_y: '100'
-    margin_left: '15'
+    margin_y: '450'
+    margin_left: '0'
     margin_right: '10'
     align_y: ''
     color: '#f3e1d4'
@@ -108,56 +106,58 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-9.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '5'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-8.jpg
+    width: '25'
+    margin_y: '550'
+    margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#cce3fa'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-10.jpg
-    width: '30'
-    margin_y: '400'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-9.jpg
+    width: '33'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '0'
+    margin_right: '20'
     align_y: ''
     color: '#f1e3cf'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-11.jpg
-    width: '20'
-    margin_y: '1100'
-    margin_left: '0'
-    margin_right: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-10.jpg
+    width: '35'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: ''
     color: '#eadef4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-13.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '15'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-11.jpg
+    width: '30'
+    margin_y: '500'
+    margin_left: '10'
     margin_right: '0'
     align_y: start
     color: '#c6e2d4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-12.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-12.jpg
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '20'
     align_y: ''
     color: '#efe5dd'
     caption:
@@ -167,10 +167,10 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-14.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/nbc_snap-13.jpg
+    width: '35'
     margin_y: '100'
-    margin_left: '35'
+    margin_left: '25'
     margin_right: '0'
     align_y: ''
     color: '#cce1f3'
@@ -178,26 +178,6 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-15.jpg
-    width: '35'
-    margin_y: '550'
-    margin_left: '25'
-    margin_right: '0'
-    align_y: ''
-    color: '#d5f4f6'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-16.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: ''
-    color: '#fbc1a2'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
@@ -210,54 +190,14 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-17.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: ''
-    color: '#ede5de'
-    caption: ''
-    align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-18.jpg
-    width: '25'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '30'
-    align_y: ''
-    color: '#ffebda'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-19.jpg
-    width: '50'
-    margin_y: '100'
-    margin_left: '30'
-    margin_right: '0'
-    align_y: ''
-    color: '#f6f1d0'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-20.jpg
-    width: '66'
-    margin_y: '100'
-    margin_left: '20'
-    margin_right: '0'
-    align_y: ''
-    color: '#eddaf0'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
