@@ -10,7 +10,6 @@ collection_pager:
   - collections/fights.md
   - collections/autobiography.md
   - collections/the-new-york-times-ice.md
-  - collections/nbc-news.md
   - collections/outdoor-life.md
   - collections/dwell.md
   - collections/hermès.md
@@ -34,6 +33,7 @@ collection_pager:
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
   - collections/propublica.md
+  - collections/aarp-ii-copy.md
   - collections/antoine-s-escalaras-copy.md
   - collections/golf-digest-best-little-golf-towns.md
   - collections/adidas-golf.md
@@ -61,8 +61,7 @@ overview_pager:
   - collections/reportage.md
   - collections/motion.md
 seo:
-  meta_description: >-
-    Award winning Los Angeles and Phoenix Commercial, Sport, & Editorial
-    Photographer specializing in portraiture, reportage, sport and conceptual
-    photography
+  meta_description: Award winning Los Angeles and Phoenix Commercial, Sport, &
+    Editorial Photographer specializing in portraiture, reportage, sport and
+    conceptual photography
   meta_title: 'A catalogue of all works by photographer Jesse Rieser '
