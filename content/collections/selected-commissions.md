@@ -2,7 +2,7 @@
 _schema: default
 seo:
   meta_description: Selected Commissions by Jesse Rieser
-  meta_title: Selected Commissions
+  meta_title: Selected Commissions by Jesse Rieser
 title: Select Commissions
 collection_meta:
 collection_meta_2: ''
@@ -252,9 +252,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: >-
-      V. Hogarth London for Adobe: <br>*Make it pop. Make it louder. Amplify the
-      mood.*
+    text: 'V. Hogarth London for Adobe: <br>*Make it pop. Make it louder. Amplify
+      the mood.*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -654,9 +653,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: >-
-      XII. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
-      John Goodman*
+    text: 'XII. Wieden + Kennedy PDX for Fisher Price: *Play is the Place featuring
+      John Goodman*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
@@ -736,9 +734,8 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-text
-    text: >-
-      XIII. OH Partners for Arizona Lottery: *Welcome Back Willy* *featuring
-      John Ennis*
+    text: 'XIII. OH Partners for Arizona Lottery: *Welcome Back Willy* *featuring
+      John Ennis*'
     background_color: '#ffffff'
     background_image_toggle: false
     image:
