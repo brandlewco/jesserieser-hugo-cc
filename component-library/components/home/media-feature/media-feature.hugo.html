@@ -5,9 +5,11 @@
 <article
   class=" sm:meta-hover relative self-start {{with .align_y}}sm:self-{{.}}{{end}} w-full {{with .width}}sm:w-{{.}}/100{{end}} py-4 sm:py-0 mt-0 {{with .margin_y}}sm:mt-{{.}}{{end}} ml-0 {{with .margin_left}}sm:ml-{{.}}%{{end}} mr-0 {{with .margin_right}}sm:mr-{{.}}%{{end}} highlight rellax-wrapper"
 >
+  {{ $bg := .color }}
+  {{ if not $bg }}{{ with .Page }}{{ $bg = .Params.theme_color }}{{ end }}{{ end }}
   <figure
     class="figure block-hover relative"
-    style="background: {{with .color}}{{.}}{{else}}{{.Page.Params.theme_color}}{{end}};"
+    style="{{ with $bg }}background: {{ . }};{{ end }}"
     itemprop="associatedMedia"
     itemscope
     itemtype="http://schema.org/ImageObject"

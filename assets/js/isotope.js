@@ -236,6 +236,21 @@ imagesLoaded(grid, function() {
 
     });
 
+    // Per-collection preview video: autoplays at rest, hides on hover so the
+    // collection_preview image crossfade (handled above) shows through.
+    const collectionVideos = document.querySelectorAll(".collection-preview-video");
+    collectionVideos.forEach((wrap) => {
+      const iframe = wrap.querySelector(".collection-preview-iframe");
+      if (!iframe) return;
+
+      wrap.addEventListener("mouseenter", () => {
+        iframe.style.opacity = 0;
+      });
+      wrap.addEventListener("mouseleave", () => {
+        iframe.style.opacity = 1;
+      });
+    });
+
     const filterItems = document.querySelectorAll(".filter-item");
     filterItems.forEach((items) => {
       const filters = items.dataset.filter.split(",");

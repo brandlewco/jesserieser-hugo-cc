@@ -97,6 +97,12 @@ _inputs:
     type: array
   collection_preview[*]:
     type: image
+  collection_preview_vimeo_enabled:
+    type: switch
+    comment: Autoplay a Vimeo video on hover instead of the image slideshow (archive page)
+  collection_preview_vimeo:
+    type: url
+    comment: Vimeo video URL, e.g. https://vimeo.com/1137957648
   attached:
     type: switch
     comment: show "View Full Project" link

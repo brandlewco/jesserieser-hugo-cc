@@ -31,6 +31,7 @@ blueprint:
   margin_right: "0"
   meta_align: "left"
   theme_color: "#000000"
+  news_category: ""
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -44,3 +45,14 @@ _inputs:
     options:
       values: collections.posts
       value_key: content_path
+  news_category:
+    type: select
+    label: Meta Label
+    comment: Shown under the cover (News/Press/Awards/Exhibitions). Leave blank to use the attached post's own category.
+    options:
+      values:
+        - ""
+        - News
+        - Press
+        - Awards
+        - Exhibitions

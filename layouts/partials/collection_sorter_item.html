@@ -1,5 +1,41 @@
-<figure class="filter-item h-auto py-4 pr-4 sm:pr-0 pl-4 lg:w-grid-four sm:w-grid-three w-full overflow-hidden {{range .Params.collection_category }}{{. | replaceRE "[\\W]" "" | lower}} {{end}}{{with .Params.collection_filter}}{{. | replaceRE "[\\W]" "" | lower }}{{end}} all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}{{with .Params.collection_filter}}{{. | replaceRE "[\\W]" "" | lower }}{{end}}">
+<figure class="filter-item collections-grid-item h-auto py-4 pr-4 sm:pr-0 pl-4 sm:w-grid-three w-full overflow-hidden {{range .Params.collection_category }}{{. | replaceRE "[\\W]" "" | lower}} {{end}}{{with .Params.collection_filter}}{{. | replaceRE "[\\W]" "" | lower }}{{end}} all active" data-theme="{{with .Params.theme_color_all_works}}{{.}}{{else}}{{.Params.theme_color}}{{end}}" data-filter="{{range .Params.collection_category}}{{. | replaceRE "[\\W]" "" | lower}},{{end}}{{with .Params.collection_filter}}{{. | replaceRE "[\\W]" "" | lower }}{{end}}">
     <a href="{{substr .Permalink 0 -1}}">
+        {{ $vimeoVid := "" }}
+        {{ with (findRE "[0-9]+" (string .Params.collection_preview_vimeo)) }}{{ $vimeoVid = index . 0 }}{{ end }}
+        {{ $vimeoOn := and (eq .Params.collection_preview_vimeo_enabled true) (ne $vimeoVid "") }}
+        {{ if $vimeoOn }}
+        <div class="collection-preview collection-preview-video relative lazyload" style="padding-top:75%; overflow:hidden; background-color:{{.Params.theme_color}};">
+            <svg class="icon pointer h-8 w-8 m-4 text-white opacity-50 absolute spin" style="top: 50%; left: 50%; margin-top: -1rem; margin-left: -1rem;">
+                <use xlink:href="#spinner"></use>
+            </svg>
+            {{ with .Params.collection_preview }}
+            {{ range first 1 . }}
+              <img data-sizes="auto"
+                   data-srcset="{{.}}?width=500&height=375 500w,
+                                {{.}}?width=600&height=450 600w,
+                                {{.}}?width=768&height=576 768w,
+                                {{.}}?width=1024&height=768 1024w,
+                                {{.}}?width=1280&height=960 1280w"
+                   class="lazyload absolute top-0 left-0"
+                   style="opacity: 0;" />
+            {{ end }}
+            {{ range first 3 (after 1 . ) }}
+              <img data-sizes="auto"
+                   data-srcset="{{.}}?width=500&height=375 500w,
+                                {{.}}?width=600&height=450 600w,
+                                {{.}}?width=768&height=576 768w,
+                                {{.}}?width=1024&height=768 1024w,
+                                {{.}}?width=1280&height=960 1280w"
+                   class="lazyload absolute top-0 left-0"
+                   style="opacity: 0;" />
+            {{ end }}
+            {{ end }}
+            <iframe class="collection-preview-iframe absolute"
+                    src="https://player.vimeo.com/video/{{ $vimeoVid }}?background=1&amp;loop=1&amp;muted=1&amp;autopause=0&amp;title=0&amp;byline=0&amp;portrait=0"
+                    style="top:0; left:50%; height:100%; width:133.34%; transform:translateX(-50%); z-index:5; opacity:1; transition:opacity 0.4s ease; pointer-events:none;"
+                    frameborder="0" allow="autoplay; fullscreen" tabindex="-1" aria-hidden="true"></iframe>
+        </div>
+        {{ else }}
         {{if .Params.collection_preview }}
         <div class="collection-preview relative lazyload" style="padding-top:75%; background-color:{{.Params.theme_color}};">
         {{else}}
@@ -10,38 +46,39 @@
         </svg>
         {{ with .Params.collection_preview }}
         {{ range first 1 . }}
-          <img data-sizes="auto" 
-               data-srcset="{{.}}?width=500&height=375 500w, 
-                            {{.}}?width=600&height=450 600w, 
-                            {{.}}?width=768&height=576 768w, 
-                            {{.}}?width=1024&height=768 1024w, 
-                            {{.}}?width=1280&height=960 1280w" 
-               class="lazyload absolute top-0 left-0" 
+          <img data-sizes="auto"
+               data-srcset="{{.}}?width=500&height=375 500w,
+                            {{.}}?width=600&height=450 600w,
+                            {{.}}?width=768&height=576 768w,
+                            {{.}}?width=1024&height=768 1024w,
+                            {{.}}?width=1280&height=960 1280w"
+               class="lazyload absolute top-0 left-0"
                style="opacity: 0;" />
         {{ end }}
         {{ range first 3 (after 1 . ) }}
-          <img data-sizes="auto" 
-               data-srcset="{{.}}?width=500&height=375 500w, 
-                            {{.}}?width=600&height=450 600w, 
-                            {{.}}?width=768&height=576 768w, 
-                            {{.}}?width=1024&height=768 1024w, 
-                            {{.}}?width=1280&height=960 1280w" 
-               class="lazyload absolute top-0 left-0" 
+          <img data-sizes="auto"
+               data-srcset="{{.}}?width=500&height=375 500w,
+                            {{.}}?width=600&height=450 600w,
+                            {{.}}?width=768&height=576 768w,
+                            {{.}}?width=1024&height=768 1024w,
+                            {{.}}?width=1280&height=960 1280w"
+               class="lazyload absolute top-0 left-0"
                style="opacity: 0;" />
         {{ end }}
       {{ else }}
-        <img data-sizes="auto" 
-             data-parent-fit="cover" 
-             data-srcset="{{.}}?width=500&height=375 500w, 
-                          {{.}}?width=600&height=450 600w, 
-                          {{.}}?width=768&height=576 768w, 
-                          {{.}}?width=1024&height=768 1024w, 
-                          {{.}}?width=1280&height=960 1280w" 
-             class="lazyload absolute top-0 left-0" 
+        <img data-sizes="auto"
+             data-parent-fit="cover"
+             data-srcset="{{.}}?width=500&height=375 500w,
+                          {{.}}?width=600&height=450 600w,
+                          {{.}}?width=768&height=576 768w,
+                          {{.}}?width=1024&height=768 1024w,
+                          {{.}}?width=1280&height=960 1280w"
+             class="lazyload absolute top-0 left-0"
              alt="{{.Title}}" />
       {{ end }}
-      
+
         </div>
+        {{ end }}
         
 
         <figcaption class="text-black pt-2">

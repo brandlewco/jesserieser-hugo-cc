@@ -15,13 +15,13 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@bookshop/browser@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/browser/-/browser-3.12.0.tgz#0e5abd436c607326cef5c98089a26c696ca9319d"
-  integrity sha512-y8WjlB4Z+3ADS4c9bS57JhgZTMevogz7CwTC4/dLR7G+mvfYjYhcXDMYS6OqvxM6iKkxvez99TMCEg1VKoxxew==
+"@bookshop/browser@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/browser/-/browser-3.20.0-rc1.tgz#a140500b2e41a4a8babbcfba8c0aba30583df727"
+  integrity sha512-5Jwyze8zT0I4iesXSbC4MqVCj6baKj57Ajwo166LtQ61sY4Cb597qnZEd/6PzZE7QOL5jHa44bn8UPHj0br1cw==
   dependencies:
-    "@bookshop/builder" "3.12.0"
-    "@bookshop/helpers" "3.12.0"
+    "@bookshop/builder" "3.20.0-rc1"
+    "@bookshop/helpers" "3.20.0-rc1"
     "@codemirror/basic-setup" "^0.18.2"
     "@codemirror/commands" "^0.18.3"
     "@codemirror/legacy-modes" "^0.18.1"
@@ -40,27 +40,27 @@
     normalize-path "^3.0.0"
     svelte "^4.2.19"
 
-"@bookshop/builder@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/builder/-/builder-3.12.0.tgz#340e57e5484c35c5199e3fee0c583617e85f44c4"
-  integrity sha512-XJjAYA3KkNGc7XZnlPmJ8XdHX2W2H70mp+PHsLPbXzD/t9Uqty/xN/wpT+PN4ugf7D+fE0ESX0E0L5Lq/Dvngw==
+"@bookshop/builder@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/builder/-/builder-3.20.0-rc1.tgz#2ce390efbdca5141a85db9a191f7e78866ac29a2"
+  integrity sha512-9o+hSrfflbIkpekdqplycQJBY9Q7TNctWCaWTD5+PZsczHXYlUE7BKuY3BEPg+I9ePgLEYX5lb28PezQUDkqsg==
   dependencies:
-    "@bookshop/helpers" "3.12.0"
-    "@bookshop/styles" "3.12.0"
+    "@bookshop/helpers" "3.20.0-rc1"
+    "@bookshop/styles" "3.20.0-rc1"
     esbuild "^0.13.10"
     fast-glob "^3.2.7"
     normalize-path "^3.0.0"
     resolve "^1.22.0"
 
-"@bookshop/generate@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/generate/-/generate-3.12.0.tgz#622642dbc46c52f8db5177f73743ef51382253b6"
-  integrity sha512-VzCC2pLzU1KTtMxSbm8SrW9EG8jJUaSs0RAAV09WxLtEtagrD9uVOnL6e81STt4Y7s5EglY+dM4vrDwHKAqJ6w==
+"@bookshop/generate@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/generate/-/generate-3.20.0-rc1.tgz#8a77cf8f7e937b6f5d68795cf40d26dfa71c3f67"
+  integrity sha512-9wpFAVQkZnTfDGvuxj1APvhL3iKFL3nNFVk/8D6Gp9+LzYDDaCCndWTfoKY8VKxe+8dbb1KNACHCyL4UAoYMQQ==
   dependencies:
-    "@bookshop/browser" "3.12.0"
-    "@bookshop/builder" "3.12.0"
-    "@bookshop/helpers" "3.12.0"
-    "@bookshop/live" "3.12.0"
+    "@bookshop/browser" "3.20.0-rc1"
+    "@bookshop/builder" "3.20.0-rc1"
+    "@bookshop/helpers" "3.20.0-rc1"
+    "@bookshop/live" "3.20.0-rc1"
     "@ltd/j-toml" "^1.30.0"
     chalk "^5.0.1"
     commander "^8.1.0"
@@ -70,36 +70,36 @@
     slugify "^1.6.5"
     yaml "^2.0.0-11"
 
-"@bookshop/helpers@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/helpers/-/helpers-3.12.0.tgz#d291f3f967ff218365c9330e7ba90d0fcbe0dc42"
-  integrity sha512-V1OJrSOScGgrdsNjePbVYeCWqCpkQDCXhED6Ujb3kWy+D7rGEhTt/MCzbdkT1G22l/5mwuzgDPdEnv10a02TKQ==
+"@bookshop/helpers@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/helpers/-/helpers-3.20.0-rc1.tgz#b25d5f942a56944b9ffe6f070d83968623e051d6"
+  integrity sha512-E14EJehFWUfFYvPj233wHcHL2qiEaL89fZptQK2YKspiNe+mC8l3Rmm0/wLDROcOjj6FBJ30Ambot6e3qxUr0w==
 
-"@bookshop/hugo-engine@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/hugo-engine/-/hugo-engine-3.12.0.tgz#667f0e50209769b181e4c5961deb3b5d7b6f1c42"
-  integrity sha512-KwGw6zSckftzjuQT/vpydZ6QoJTeByallA5uSHaojZagtXWzLlj1Y7LoX75Mjvwn3ukCEqRXieSlyVcqVVTNoA==
+"@bookshop/hugo-engine@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/hugo-engine/-/hugo-engine-3.20.0-rc1.tgz#0cd22ed8d5165059e2596692d23e9c03c7e24f1f"
+  integrity sha512-f+VPku9UkDRUDMZ9R6kiDul6E+hkn4rI/4vFmb6w3Yw13FhoQrQLCXmyKLqpCWQLkQXABPPcnbVSMjJv45Jovg==
   dependencies:
-    "@bookshop/helpers" "3.12.0"
+    "@bookshop/helpers" "3.20.0-rc1"
     esbuild "^0.19.3"
     fflate "^0.7.3"
     liquidjs "10.17.0"
 
-"@bookshop/live@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/live/-/live-3.12.0.tgz#ec7b9a68866cc98a045919b6d4b721981458a082"
-  integrity sha512-+tg/b+Kpp3tuFrJaCdTEwGVYCDwiQPRypGo5bnIW1/N+8OU9C6egSOp9HfKuOsLVzWAT46Bny0sF7jtqwcNUFQ==
+"@bookshop/live@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/live/-/live-3.20.0-rc1.tgz#32f3e5f7e34a5e45cbdd4879d98c1a96a874d666"
+  integrity sha512-bV8/UlJQFR2U2thJwsnjQI8XNVe3yk/yiRnsXA9vm69E6BaRy/qPtSBsl4V8exFmhLvP1zA9qcgd9yNS5uEmBA==
   dependencies:
-    "@bookshop/builder" "3.12.0"
-    "@bookshop/helpers" "3.12.0"
+    "@bookshop/builder" "3.20.0-rc1"
+    "@bookshop/helpers" "3.20.0-rc1"
     commander "^8.1.0"
 
-"@bookshop/styles@3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@bookshop/styles/-/styles-3.12.0.tgz#b6bf5c58a78b099fa4e8d9a369230686f84b655d"
-  integrity sha512-PIJ6wEz0G3xGC/la7W4zLkZ56fuNMUy+MEZFOIr712PQj7V7/zJmEbvJZuvWQZIDUNB3CoVJfHKfchebDc5ELg==
+"@bookshop/styles@3.20.0-rc1":
+  version "3.20.0-rc1"
+  resolved "https://registry.yarnpkg.com/@bookshop/styles/-/styles-3.20.0-rc1.tgz#c9867010062a490355838f2650546f2f84e2c485"
+  integrity sha512-Y5C5ND8l3kj/KNwT73AuQRzJxnO69p06Zmr6IALH8RFBMJBpQXQu6mUejFeF977NrZwNbKnuk/imKSVR23otzg==
   dependencies:
-    "@bookshop/helpers" "3.12.0"
+    "@bookshop/helpers" "3.20.0-rc1"
     fast-glob "^3.2.7"
     normalize-path "^3.0.0"
     postcss "^8.3.6"

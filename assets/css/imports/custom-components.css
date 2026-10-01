@@ -182,3 +182,139 @@ button.target-burger ul.buns li.bun:last-child {
   -webkit-transform: translateY(3.75px) translateZ(0);
   transform: translateY(3.75px) translateZ(0);
 }
+
+.menu-overlay {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  min-height: 100vh;
+  margin-top: 0;
+  padding: 10rem 1.25rem 2.5rem;
+  background-color: rgba(255, 255, 255, 0.96);
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.menu-overlay-inner {
+  width: min(46rem, 100%);
+  display: block;
+  padding-bottom: 2rem;
+}
+
+.menu-row {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.25;
+  margin-top: 3rem;
+}
+
+a.menu-row {
+  transition: font-weight 0.2s ease;
+}
+
+a.menu-row:hover {
+  font-weight: 700;
+}
+
+.menu-heading {
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.menu-label {
+  letter-spacing: 0.05em;
+}
+
+.menu-roman {
+  margin-right: 0.35rem;
+}
+
+.menu-overview-group {
+  width: 100%;
+  margin-top: 3rem;
+}
+
+.menu-portfolios {
+  display: block;
+  margin-top: 0.4rem;
+}
+
+.menu-portfolio-link {
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  margin-top: 0.15rem;
+}
+
+.menu-portfolio-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.05em;
+  width: 100%;
+  height: 1px;
+  background-color: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.menu-portfolio-link:hover::after {
+  transform: scaleX(1);
+}
+
+.menu-overlay-inner > :first-child {
+  margin-top: 0;
+}
+
+.menu-overview-group + .menu-row {
+  margin-top: 2.2rem;
+}
+
+.menu-social {
+  display: inline-flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 1.8rem;
+}
+
+.menu-social svg {
+  width: 0.95rem;
+  height: 0.95rem;
+}
+
+@media (max-width: 767px) {
+  .menu-overlay {
+    padding-top: 8rem;
+  }
+
+  .menu-row,
+  .menu-heading {
+    font-size: 1rem;
+    margin-top: 1rem;
+  }
+
+  .menu-portfolio-link {
+    font-size: 1rem;
+  }
+
+  .menu-overview-group + .menu-row {
+    margin-top: 1.4rem;
+  }
+
+  .menu-social {
+    margin-top: 1.25rem;
+  }
+}
