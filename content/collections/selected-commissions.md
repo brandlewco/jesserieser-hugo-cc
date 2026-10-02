@@ -872,7 +872,6 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/phoenix-cover-4.jpg
 collection_preview_vimeo_enabled: false
 collection_preview_vimeo: ''
 collection_content:
