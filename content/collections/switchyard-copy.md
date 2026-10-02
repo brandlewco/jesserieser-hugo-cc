@@ -1,16 +1,15 @@
 ---
 _schema: default
 seo:
-  meta_description: >-
-    The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on Russia
-    by West Coast Photographer, Jesse Rieser
-  meta_title: 'The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance on Russia'
+  meta_description: 'The New York Times: U.S. Ramps Up Hunt for Uranium to End
+    Reliance on Russia by West Coast Photographer, Jesse Rieser'
+  meta_title: 'The New York Times: U.S. Ramps Up Hunt for Uranium to End Reliance
+    on Russia'
 title: 'The New York Times '
 collection_meta: 'U.S. Ramps Up Hunt '
 collection_meta_2: for Uranium to End Reliance on Russia
-collection_description: >-
-  Miners aim to meet a growing demand for emissions-free energy, though a
-  failure to clean up old sites haunts the industry.
+collection_description: Miners aim to meet a growing demand for emissions-free
+  energy, though a failure to clean up old sites haunts the industry.
 collection_description_alignment: center
 slug: nyt-uranium
 collection_blocks:
@@ -414,6 +413,8 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/nyt-uranium_4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-43.jpg
+collection_preview_vimeo_enabled: true
+collection_preview_vimeo: https://vimeo.com/1087456157
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
@@ -477,80 +478,59 @@ collection_content: >-
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
 collection_awards:
-  - content: >-
-      <strong>2020</strong><br> Klompching Gallery 2020 Fresh<br> One of five
+  - content: <strong>2020</strong><br> Klompching Gallery 2020 Fresh<br> One of five
       winning exhibitions
-  - content: >-
-      <strong>2018</strong><br>   Photolucida Critical Mass<br>   Top 50
+  - content: <strong>2018</strong><br>   Photolucida Critical Mass<br>   Top 50
       International Project
-  - content: >-
-      <strong>2018</strong><br>   <em>PDN Photo Annual</em><br>    Best Personal
-      Work Series
+  - content: <strong>2018</strong><br>   <em>PDN Photo Annual</em><br>    Best
+      Personal Work Series
 collection_press:
-  - content: >-
-      <a
+  - content: <a
       href="https://www.washingtonpost.com/photography/2019/11/22/photographing-retail-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram"><em>The
       Washington Post</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://kjzz.org/content/708344/changing-face-retail-through-camera-lens"><em>NPR</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.wired.com/story/photo-gallery-retail-apocalypse/"><em>Wired</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.architecturaldigest.com/story/jesse-rieser-retail-apocalypse"><em>Architectural
       Digest</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.fastcompany.com/90230234/the-retail-apocalypse-in-pictures"><em>Fast
       Company</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.businessinsider.com/retail-apocalypse-american-landscape-jesse-rieser-photos-2018-12"><em>Business
       Insider</em></a>
-  - content: >-
-      <a href="http://www.fractionmagazine.com/jesse-rieser"><em>Fraction
+  - content: <a href="http://www.fractionmagazine.com/jesse-rieser"><em>Fraction
       Magazine 131</em></a>
   - content: <em>Blkswn (Japan)</em>
-  - content: >-
-      <a
+  - content: '<a
       href="https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/"><em>BOOOOOOOM
-      64 x 64: Best of 2018</em></a>
-  - content: >-
-      <a
+      64 x 64: Best of 2018</em></a>'
+  - content: <a
       href="https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/"><em>BOOOOOOOM</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.ignant.com/2018/08/28/the-retail-apocalypse-by-jesse-rieser/"><em>Ignant</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://plainmagazine.com/jesse-rieser-changing-american-retail/"><em>Plain
       Magazine</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture"><em>Archinect</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html"><em>Muuuz
       Architecture & Design Magazine</em></a>
 collection_exhibition:
-  - content: >-
-      <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The
+  - content: <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The
       Gallery at Mountain Shadows. Paradise Valley, AZ (Solo Show)</p>
-  - content: >-
-      <strong>2020</strong><br> <em>Fresh 2020</em><br> Klompching Gallery.<br>
-      Brooklyn, NY. (Group Show)
-  - content: >-
-      <strong>2019 - 2020</strong><br> <em>Photoville The Fence:</em> Brooklyn
-      Bridge Park. Brooklyn, NY. Santa Fe<br> Railyard Park. Santa Fe, NM. LoDo
-      District. Denver, CO. Atlanta Beltline.<br> Atlanta, GA.
-  - content: >-
-      <strong>2019</strong><br> <em>Standard Vision LA at LA Live</em><br> Los
-      Angeles, CA (Solo Show)
-  - content: >-
-      <strong>2019</strong><br>   <em>Camera Work Gallery</em><br>   Portland,
-      OR (Solo Show)<br>
+  - content: <strong>2020</strong><br> <em>Fresh 2020</em><br> Klompching
+      Gallery.<br> Brooklyn, NY. (Group Show)
+  - content: <strong>2019 - 2020</strong><br> <em>Photoville The Fence:</em>
+      Brooklyn Bridge Park. Brooklyn, NY. Santa Fe<br> Railyard Park. Santa Fe,
+      NM. LoDo District. Denver, CO. Atlanta Beltline.<br> Atlanta, GA.
+  - content: <strong>2019</strong><br> <em>Standard Vision LA at LA Live</em><br>
+      Los Angeles, CA (Solo Show)
+  - content: <strong>2019</strong><br>   <em>Camera Work
+      Gallery</em><br>   Portland, OR (Solo Show)<br>
 collection_overview: false
 collection_grid: false
 collection_dark: false
