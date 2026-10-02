@@ -134,7 +134,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-7.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-8.jpg
 collection_preview_vimeo_enabled: true
-collection_preview_vimeo: ' https://vimeo.com/1056241098'
+collection_preview_vimeo: ' https://vimeo.com/1137957648'
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
