@@ -368,12 +368,14 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#e9dcd0'
 theme_color_all_works: '#f1a4ff'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-3.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-6.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-5.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-8.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-6.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-7.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-8.jpg
+collection_preview_vimeo_enabled: false
+collection_preview_vimeo: ''
 collection_content: >-
   Beginning in 2015, *The Changing Landscape of American Retail* is an ongoing
   documentation of the shift from traditional brick-and-mortar locations where
@@ -437,80 +439,59 @@ collection_content: >-
   accelerating cultural change in the modern world. I know you can’t fight
   change, but that doesn’t mean you can’t be sentimental.
 collection_awards:
-  - content: >-
-      <strong>2020</strong><br> Klompching Gallery 2020 Fresh<br> One of five
+  - content: <strong>2020</strong><br> Klompching Gallery 2020 Fresh<br> One of five
       winning exhibitions
-  - content: >-
-      <strong>2018</strong><br>   Photolucida Critical Mass<br>   Top 50
+  - content: <strong>2018</strong><br>   Photolucida Critical Mass<br>   Top 50
       International Project
-  - content: >-
-      <strong>2018</strong><br>   <em>PDN Photo Annual</em><br>    Best Personal
-      Work Series
+  - content: <strong>2018</strong><br>   <em>PDN Photo Annual</em><br>    Best
+      Personal Work Series
 collection_press:
-  - content: >-
-      <a
+  - content: <a
       href="https://www.washingtonpost.com/photography/2019/11/22/photographing-rieser_portrait-overview-apocalypse/?utm_campaign=later-linkinbio-jesserieser&utm_content=later-4242812&utm_medium=social&utm_source=instagram"><em>The
       Washington Post</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://kjzz.org/content/708344/changing-face-rieser_portrait-overview-through-camera-lens"><em>NPR</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.wired.com/story/photo-gallery-rieser_portrait-overview-apocalypse/"><em>Wired</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.architecturaldigest.com/story/jesse-rieser-rieser_portrait-overview-apocalypse"><em>Architectural
       Digest</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.fastcompany.com/90230234/the-rieser_portrait-overview-apocalypse-in-pictures"><em>Fast
       Company</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.businessinsider.com/rieser_portrait-overview-apocalypse-american-landscape-jesse-rieser-photos-2018-12"><em>Business
       Insider</em></a>
-  - content: >-
-      <a href="http://www.fractionmagazine.com/jesse-rieser"><em>Fraction
+  - content: <a href="http://www.fractionmagazine.com/jesse-rieser"><em>Fraction
       Magazine 131</em></a>
   - content: <em>Blkswn (Japan)</em>
-  - content: >-
-      <a
+  - content: '<a
       href="https://www.booooooom.com/2018/12/31/fav-photos-found-in-2018-64-photos-by-64-photographers/"><em>BOOOOOOOM
-      64 x 64: Best of 2018</em></a>
-  - content: >-
-      <a
+      64 x 64: Best of 2018</em></a>'
+  - content: <a
       href="https://www.booooooom.com/2018/09/20/photographer-spotlight-jesse-rieser/"><em>BOOOOOOOM</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.ignant.com/2018/08/28/the-rieser_portrait-overview-apocalypse-by-jesse-rieser/"><em>Ignant</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://plainmagazine.com/jesse-rieser-changing-american-retail/"><em>Plain
       Magazine</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://archinect.com/features/article/150117527/in-focus-jesse-rieser-and-his-2d-facsimile-to-architecture"><em>Archinect</em></a>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.muuuz.com/magazine/rubriques/arts/49392-jesse-rieser-the-changing-landscape-of-american-retail.html"><em>Muuuz
       Architecture & Design Magazine</em></a>
 collection_exhibition:
-  - content: >-
-      <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The
+  - content: <p><strong>2022</strong><br /><em>Souvenirs From Paradise</em><br />The
       Gallery at Mountain Shadows. Paradise Valley, AZ (Solo Show)</p>
-  - content: >-
-      <strong>2020</strong><br> <em>Fresh 2020</em><br> Klompching Gallery.<br>
-      Brooklyn, NY. (Group Show)
-  - content: >-
-      <strong>2019 - 2020</strong><br> <em>Photoville The Fence:</em> Brooklyn
-      Bridge Park. Brooklyn, NY. Santa Fe<br> Railyard Park. Santa Fe, NM. LoDo
-      District. Denver, CO. Atlanta Beltline.<br> Atlanta, GA.
-  - content: >-
-      <strong>2019</strong><br> <em>Standard Vision LA at LA Live</em><br> Los
-      Angeles, CA (Solo Show)
-  - content: >-
-      <strong>2019</strong><br>   <em>Camera Work Gallery</em><br>   Portland,
-      OR (Solo Show)<br>
+  - content: <strong>2020</strong><br> <em>Fresh 2020</em><br> Klompching
+      Gallery.<br> Brooklyn, NY. (Group Show)
+  - content: <strong>2019 - 2020</strong><br> <em>Photoville The Fence:</em>
+      Brooklyn Bridge Park. Brooklyn, NY. Santa Fe<br> Railyard Park. Santa Fe,
+      NM. LoDo District. Denver, CO. Atlanta Beltline.<br> Atlanta, GA.
+  - content: <strong>2019</strong><br> <em>Standard Vision LA at LA Live</em><br>
+      Los Angeles, CA (Solo Show)
+  - content: <strong>2019</strong><br>   <em>Camera Work
+      Gallery</em><br>   Portland, OR (Solo Show)<br>
 collection_overview: true
 collection_grid: true
 collection_dark: false
