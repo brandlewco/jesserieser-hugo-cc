@@ -653,10 +653,10 @@ theme_color_all_works: '#a7e05c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-17.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-17.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-18.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-20.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-19.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-3.jpg
 collection_preview_vimeo_enabled: false
 collection_preview_vimeo: ''
 collection_content: >-
