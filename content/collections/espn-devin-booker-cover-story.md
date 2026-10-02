@@ -6,11 +6,11 @@ seo:
 title: ESPN
 collection_meta: Devin Booker
 collection_meta_2: Becoming Legendary
-collection_description: >-
-  *The Rise of Devin Booker: Kobe mentored him. Chris Paul challenged him. Now
-  the Phoenix Suns Guard is on a quest to become legendary.* Go
-  [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-booker)
-  to read Michael Willbon's profile on Devin Booker.
+collection_description: "*The Rise of Devin Booker: Kobe mentored him. Chris
+  Paul challenged him. Now the Phoenix Suns Guard is on a quest to become
+  legendary.* Go
+  [here](https://www.espn.com/espn/feature/story/_/id/30800991/the-rise-devin-b\
+  ooker) to read Michael Willbon's profile on Devin Booker."
 collection_description_alignment: center
 slug: espn-booker
 collection_blocks:
@@ -225,19 +225,19 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-29.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-13.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/espn_booker-3.jpg
+collection_preview_vimeo_enabled: true
+collection_preview_vimeo: https://vimeo.com/515559208
 collection_content: ''
 collection_awards:
-  - content: >-
-      <strong>2019</strong><br>   AP 35: American Photography Annual 35<br>  
-      Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland That
-      Tastes Like Candy"
+  - content: '<strong>2019</strong><br>   AP 35: American Photography Annual
+      35<br>   Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland
+      That Tastes Like Candy"'
     icon:
     url:
 collection_press:
-  - content: >-
-      <strong>2019</strong><br>   AP 35: American Photography Annual 35<br>  
-      Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland That
-      Tastes Like Candy"
+  - content: '<strong>2019</strong><br>   AP 35: American Photography Annual
+      35<br>   Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland
+      That Tastes Like Candy"'
     icon:
     url:
 collection_exhibition: []
