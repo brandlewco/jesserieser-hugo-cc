@@ -1,9 +1,8 @@
 ---
 _schema: default
 seo:
-  meta_description: >-
-    West coast Phoenix + Los Angeles based commercial and fine art photographer
-    makes portraits of artist Danielle Hacche for HERMÈS
+  meta_description: West coast Phoenix + Los Angeles based commercial and fine art
+    photographer makes portraits of artist Danielle Hacche for HERMÈS
   meta_title: Artist Danielle Hacche for HERMÈS
 title: HERMÈS
 collection_meta: 'Artist '
@@ -173,19 +172,19 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-2.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-3.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-4.jpg
+collection_preview_vimeo_enabled: true
+collection_preview_vimeo: ' https://vimeo.com/1086874377'
 collection_content: ''
 collection_awards:
-  - content: >-
-      <strong>2019</strong><br>   AP 35: American Photography Annual 35<br>  
-      Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland That
-      Tastes Like Candy"
+  - content: '<strong>2019</strong><br>   AP 35: American Photography Annual
+      35<br>   Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland
+      That Tastes Like Candy"'
     icon:
     url:
 collection_press:
-  - content: >-
-      <strong>2019</strong><br>   AP 35: American Photography Annual 35<br>  
-      Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland That
-      Tastes Like Candy"
+  - content: '<strong>2019</strong><br>   AP 35: American Photography Annual
+      35<br>   Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland
+      That Tastes Like Candy"'
     icon:
     url:
 collection_exhibition: []
