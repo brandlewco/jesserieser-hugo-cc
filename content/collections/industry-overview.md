@@ -651,12 +651,14 @@ date: 2019-05-01T07:00:00Z
 theme_color: '#cad39c'
 theme_color_all_works: '#a7e05c'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/social-1.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-17.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-13.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-14.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-15.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-18.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-20.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-19.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/rieser_industry-overview-3.jpg
+collection_preview_vimeo_enabled: false
+collection_preview_vimeo: ''
 collection_content: >-
   0: The number of times I regret playing high school football.
 
@@ -722,15 +724,12 @@ collection_content: >-
   Typography treatment by Patricia Pruiss of Sunday Afternoon and interview
   excerpts from Ian Reed, the Arizona defensive player of the year.
 collection_awards:
-  - content: >-
-      <p><strong>2018</strong><br /><em>AP 34: American Photography Annual
-      34</em><br />Best Personal Work Series</p>
+  - content: '<p><strong>2018</strong><br /><em>AP 34: American Photography Annual
+      34</em><br />Best Personal Work Series</p>'
 collection_press:
-  - content: >-
-      <p><a
+  - content: <p><a
       href="https://www.buzzfeednews.com/article/gabrielsanchez/football-highschool-nfl-season-america-sports-players-team"><em>Buzzfeed</em></a></p>
-  - content: >-
-      <a
+  - content: <a
       href="https://www.theguardian.com/artanddesign/2018/sep/19/jesse-rieser-best-photograph-school-football-farewell-phoenix-arizona"><em>The
       Gaurdian</em></a>
   - content: <em>Nacione</em>
