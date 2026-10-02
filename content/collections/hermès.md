@@ -7,7 +7,7 @@ seo:
 title: HERMÈS
 collection_meta: 'Artist '
 collection_meta_2: Danielle Hacche
-collection_description: ''
+collection_description:
 collection_description_alignment: center
 slug: hermes-dani
 collection_blocks:
@@ -174,7 +174,7 @@ collection_preview:
   - https://d1sf55qlb7p6hz.cloudfront.net/202502_hermes-4x3-4.jpg
 collection_preview_vimeo_enabled: true
 collection_preview_vimeo: ' https://vimeo.com/1086874377'
-collection_content: ''
+collection_content:
 collection_awards:
   - content: '<strong>2019</strong><br>   AP 35: American Photography Annual
       35<br>   Best Personal Work Series:<br>   "Phoenix: A Dystopian Legoland
