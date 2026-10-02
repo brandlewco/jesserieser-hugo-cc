@@ -130,9 +130,6 @@ logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image:
 collection_preview:
   -
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-6.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-7.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/overview_covers-8.jpg
 collection_preview_vimeo_enabled: true
 collection_preview_vimeo: ' https://vimeo.com/1137957648'
 collection_content: >-
