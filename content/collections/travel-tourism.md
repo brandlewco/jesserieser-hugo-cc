@@ -649,10 +649,10 @@ theme_color_all_works: '#69e5ce'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
 cover_image: https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-13.jpg
 collection_preview:
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-16.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-15.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-13.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-14.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-15.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/index_portfolio-4x3-16.jpg
 collection_preview_vimeo_enabled: false
 collection_preview_vimeo: ''
 collection_content: Beyond the glowing green and red lights, past the shimmering
