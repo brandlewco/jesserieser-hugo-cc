@@ -16,6 +16,7 @@ collection_sorter:
   - collections/fights.md
   - collections/autobiography.md
   - collections/outdoor-life.md
+  - collections/the-atlantic.md
   - collections/aarp-ii-copy.md
   - collections/dwell.md
   - collections/hermès.md
