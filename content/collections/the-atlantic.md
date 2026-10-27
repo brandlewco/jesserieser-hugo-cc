@@ -14,7 +14,7 @@ collection_description: 'Trump won 66 percent of the vote in Yavapai County,
   say they’re worse off: wages lag behind prices, unemployment is up, and half a
   million Arizonans have lost food stamps. “Trump has said that ‘the American
   dream is back,’” Yvonne Wingett Sanchez writes. “But not for the people I
-  spoke with in Yavapai County.'
+  spoke with in Yavapai County."'
 collection_description_alignment: center
 slug: atlantic-yavapai
 collection_blocks:
