@@ -9,11 +9,7 @@ seo:
 title: The Atlantic
 collection_meta: Going Hungry
 collection_meta_2: in Trump's Economy
-collection_description: AARP asks whether real women can actually pull off
-  "Golden Girls"-style co-housing in later life, centered on a workshop from
-  Modern Elder Academy, Chip Conley's "midlife wisdom school," where older women
-  weigh the appeal of shared costs and companionship against the challenges of
-  privacy, compatibility, and caregiving.
+collection_description: AARP a
 collection_description_alignment: center
 slug: atlantic-yavapai
 collection_blocks:
