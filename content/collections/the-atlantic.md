@@ -20,10 +20,10 @@ collection_blocks:
   - _bookshop_name: collections/media-row-start
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-1.jpg
-    width: '45'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-1.jpg
+    width: '33'
     margin_y: '100'
-    margin_left: '25'
+    margin_left: '35'
     margin_right: ''
     align_y: ''
     color: '#dce3f3'
@@ -32,103 +32,103 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-4.jpg
-    width: '25'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-2.jpg
+    width: '40'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '10'
     margin_right: '0'
     align_y: ''
     color: '#efcab3'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-3.jpg
     width: '35'
-    margin_y: '500'
+    margin_y: '400'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: ''
     color: '#f0f3d4'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-6.jpg
-    width: '30'
-    margin_y: '500'
-    margin_left: '30'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-4.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '35'
     margin_right: '0'
     align_y: ''
     color: '#dcedf8'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-5.jpg
-    width: '25'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-5.jpg
+    width: '50'
+    margin_y: '350'
+    margin_left: '5'
+    margin_right: '0'
     align_y: ''
     color: '#f8ebcc'
     caption:
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-7.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-6.jpg
     width: '35'
     margin_y: '100'
-    margin_left: '50'
-    margin_right: '0'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#f4dfe7'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-8.jpg
-    width: '55'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-7.jpg
+    width: '25'
     margin_y: '100'
     margin_left: '15'
-    margin_right: '10'
+    margin_right: '0'
     align_y: ''
     color: '#f3e1d4'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-9.jpg
-    width: '20'
-    margin_y: '100'
-    margin_left: '5'
-    margin_right: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-8.jpg
+    width: '50'
+    margin_y: '300'
+    margin_left: '0'
+    margin_right: '5'
     align_y: ''
     color: '#cce3fa'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-10.jpg
-    width: '30'
-    margin_y: '400'
-    margin_left: '0'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-9.jpg
+    width: '40'
+    margin_y: '600'
+    margin_left: '15'
     margin_right: '0'
     align_y: ''
     color: '#f1e3cf'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-11.jpg
-    width: '20'
-    margin_y: '1100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-10.jpg
+    width: '30'
+    margin_y: '100'
     margin_left: '0'
-    margin_right: '20'
+    margin_right: '10'
     align_y: ''
     color: '#eadef4'
     caption: ''
@@ -138,57 +138,55 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-13.jpg
-    width: '50'
-    margin_y: '400'
-    margin_left: '15'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-11.jpg
+    width: '55'
+    margin_y: '100'
+    margin_left: '25'
     margin_right: '0'
     align_y: start
     color: '#c6e2d4'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-12.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-12.jpg
     width: '20'
-    margin_y: '100'
-    margin_left: '0'
-    margin_right: '10'
-    align_y: ''
-    color: '#efe5dd'
-    caption:
-    align_x: start
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-14.jpg
-    width: '45'
-    margin_y: '100'
-    margin_left: '35'
+    margin_y: '400'
+    margin_left: '30'
     margin_right: '0'
     align_y: ''
+    color: '#efe5dd'
+    align_x: start
+  - _bookshop_name: collections/media-element
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-13.jpg
+    width: '40'
+    margin_y: '100'
+    margin_left: '0'
+    margin_right: '5'
+    align_y: ''
     color: '#cce1f3'
-    caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-15.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-14.jpg
     width: '35'
-    margin_y: '550'
-    margin_left: '25'
+    margin_y: '100'
+    margin_left: '5'
     margin_right: '0'
     align_y: ''
     color: '#d5f4f6'
     caption: ''
     align_x: start
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-16.jpg
-    width: '25'
-    margin_y: '100'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-15.jpg
+    width: '40'
+    margin_y: '700'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '15'
     align_y: ''
     color: '#fbc1a2'
     caption: ''
@@ -206,31 +204,21 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-17.jpg
-    width: '20'
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-16.jpg
+    width: '30'
     margin_y: '100'
-    margin_left: '20'
+    margin_left: '30'
     margin_right: '0'
     align_y: ''
     color: '#ede5de'
     caption: ''
     align_x: start
-  - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-18.jpg
-    width: '25'
-    margin_y: '450'
-    margin_left: '0'
-    margin_right: '30'
-    align_y: ''
-    color: '#ffebda'
-    caption: ''
-    align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-19.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-17.jpg
     width: '50'
     margin_y: '100'
     margin_left: '30'
@@ -244,14 +232,13 @@ collection_blocks:
   - _bookshop_name: collections/media-row
     row_alignment: between
   - _bookshop_name: collections/media-element
-    image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-20.jpg
+    image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-18.jpg
     width: '66'
     margin_y: '100'
     margin_left: '20'
     margin_right: '0'
     align_y: ''
     color: '#eddaf0'
-    caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
