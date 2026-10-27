@@ -9,7 +9,12 @@ seo:
 title: The Atlantic
 collection_meta: Going Hungry
 collection_meta_2: in Trump's Economy
-collection_description: AARP aadfdf
+collection_description: 'Trump won 66 percent of the vote in Yavapai County,
+  Arizona, two years ago. Now many residents there, including his own voters,
+  say they’re worse off: wages lag behind prices, unemployment is up, and half a
+  million Arizonans have lost food stamps. “Trump has said that ‘the American
+  dream is back,’” Yvonne Wingett Sanchez writes. “But not for the people I
+  spoke with in Yavapai County.'
 collection_description_alignment: center
 slug: atlantic-yavapai
 collection_blocks:
@@ -83,24 +88,24 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
-  - _bookshop_name: collections/media-row
-    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-7.jpg
-    width: '25'
+    width: '35'
     margin_y: '100'
-    margin_left: '15'
+    margin_left: '40'
     margin_right: '0'
     align_y: ''
     color: '#f3e1d4'
     caption: ''
     align_x: start
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-8.jpg
     width: '50'
-    margin_y: '300'
-    margin_left: '0'
-    margin_right: '5'
+    margin_y: '100'
+    margin_left: '30'
+    margin_right: '0'
     align_y: ''
     color: '#cce3fa'
     caption: ''
@@ -112,7 +117,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-9.jpg
     width: '40'
-    margin_y: '600'
+    margin_y: '800'
     margin_left: '15'
     margin_right: '0'
     align_y: ''
@@ -121,10 +126,10 @@ collection_blocks:
     align_x: start
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-10.jpg
-    width: '30'
+    width: '33'
     margin_y: '100'
     margin_left: '0'
-    margin_right: '10'
+    margin_right: '5'
     align_y: ''
     color: '#eadef4'
     caption: ''
