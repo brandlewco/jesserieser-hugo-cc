@@ -9,7 +9,7 @@ seo:
 title: The Atlantic
 collection_meta: Going Hungry
 collection_meta_2: in Trump's Economy
-collection_description: AARP a
+collection_description: AARP aadfdf
 collection_description_alignment: center
 slug: atlantic-yavapai
 collection_blocks:
