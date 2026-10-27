@@ -50,7 +50,6 @@ collection_blocks:
     margin_right: '10'
     align_y: ''
     color: '#f0f3d4'
-    caption: ''
     align_x: start
   - _bookshop_name: collections/media-row
     row_alignment: between
@@ -256,13 +255,13 @@ date: 2023-04-12T16:05:37Z
 theme_color: '#f4e399'
 theme_color_all_works: '#ffe05a'
 logo: https://d1sf55qlb7p6hz.cloudfront.net/logo-adidas-8.png
-cover_image: https://d1sf55qlb7p6hz.cloudfront.net/mea-aarp-2.jpg
+cover_image: https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-2.jpg
 collection_preview:
-  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-1.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-2.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-3.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/mea-thumbs-4.jpg
-  - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-9.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-1.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-2.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-3.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-5.jpg
+  - https://d1sf55qlb7p6hz.cloudfront.net/atlantic-yavapai-8.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-12.jpg
   - https://d1sf55qlb7p6hz.cloudfront.net/202501_4x3-index-covers-10.jpg
 collection_preview_vimeo_enabled: false
