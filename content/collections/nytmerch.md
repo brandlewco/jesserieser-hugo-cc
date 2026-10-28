@@ -61,7 +61,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/magamerch-3.jpg
     width: '30'
-    margin_y: '600'
+    margin_y: '700'
     margin_left: '10'
     margin_right: '0'
     align_y:
@@ -132,7 +132,7 @@ collection_blocks:
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/magamerch-10.jpg
     width: '25'
-    margin_y: '600'
+    margin_y: '800'
     margin_left: '0'
     margin_right: '15'
     align_y:
