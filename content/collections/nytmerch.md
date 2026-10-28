@@ -33,10 +33,10 @@ collection_blocks:
     color: '#000000'
     show_controls: false
     block_aspect_ratio: 16x9
-    width: '70'
+    width: '60'
     align_y: start
     margin_y: '0'
-    margin_left: '15'
+    margin_left: '25'
     margin_right: '0'
   - _bookshop_name: collections/media-row
     row_alignment: between
