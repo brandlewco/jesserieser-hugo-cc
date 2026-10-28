@@ -23,6 +23,21 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-row
     row_alignment: between
+  - _bookshop_name: collections/media-motion
+    vimeo_id: 1240336023
+    meta: meta
+    meta_align: center
+    attached_collection: collections/xmas-in-america.md
+    color: '#000000'
+    show_controls: false
+    block_aspect_ratio: 16x9
+    width: '70'
+    align_y: start
+    margin_y: '0'
+    margin_left: '15'
+    margin_right: '0'
+  - _bookshop_name: collections/media-row
+    row_alignment: between
   - _bookshop_name: collections/media-element
     image: https://d1sf55qlb7p6hz.cloudfront.net/magamerch-1.jpg
     width: '55'
