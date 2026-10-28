@@ -40,6 +40,7 @@ collection_sorter:
   - collections/bloomberg-nomads.md
   - collections/armani-anniversary-copy.md
   - collections/the-new-york-times-ice.md
+  - collections/nytmerch.md
   - collections/propublica.md
   - collections/antoine-s-escalaras-copy.md
   - collections/golf-digest-best-little-golf-towns.md
