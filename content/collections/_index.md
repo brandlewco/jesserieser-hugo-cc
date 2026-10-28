@@ -12,6 +12,7 @@ collection_sorter:
   - collections/switchyard.md
   - collections/guns-pizza.md
   - collections/aarp-ii.md
+  - collections/barrons-smead.md
   - collections/xmas-in-america.md
   - collections/fights.md
   - collections/autobiography.md
