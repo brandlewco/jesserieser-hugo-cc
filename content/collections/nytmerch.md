@@ -9,10 +9,11 @@ title: 'The New York Times '
 collection_meta: Inside the
 collection_meta_2: Sprawling World of Maga Merchandise
 collection_description: >-
-  Have you ever seen regular people fight? Not trained boxers, actors or their
-  stunt doubles but regular people. They look ridiculous. Dress them in pastels,
-  golf shoes, loud belts, and put them on a golf course, and they look even
-  sillier.
+  Trump has built a merchandise empire worth an estimated $300 million a year,
+  spanning official products that have earned his family millions and a
+  sprawling network of unofficial sellers and MAGA stores. Ethics experts warn
+  that no sitting president has profited from the office this way, but every hat
+  sold, official or bootleg, ends up strengthening his brand.
 
 
   &nbsp;
@@ -25,6 +26,7 @@ collection_blocks:
     row_alignment: between
   - _bookshop_name: collections/media-motion
     vimeo_id: 1240336023
+    caption: caption
     meta: meta
     meta_align: center
     attached_collection: collections/xmas-in-america.md
